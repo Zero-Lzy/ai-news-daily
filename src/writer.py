@@ -59,9 +59,14 @@ class MarkdownWriter:
         filename = self._filename_fmt.replace("{date}", today)
         filepath = os.path.join(abs_dir, filename)
 
-        # 自动判断标签
+        # 自动判断标签（优先使用北京时间）
         if not run_label:
-            hour = datetime.now().hour
+            try:
+                import pytz
+                tz = pytz.timezone("Asia/Shanghai")
+                hour = datetime.now(tz).hour
+            except Exception:
+                hour = datetime.now().hour
             run_label = "早报" if hour < 14 else "晚报"
 
         # 生成 Markdown 内容

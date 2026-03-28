@@ -40,7 +40,12 @@ class JsonWriter:
         now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
         if not run_label:
-            hour = datetime.now().hour
+            try:
+                import pytz
+                tz = pytz.timezone("Asia/Shanghai")
+                hour = datetime.now(tz).hour
+            except Exception:
+                hour = datetime.now().hour
             run_label = "早报" if hour < 14 else "晚报"
 
         # --- 1. 保存当日文件 ---

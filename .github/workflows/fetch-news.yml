@@ -2,31 +2,33 @@
 #  AI 简讯自动抓取 — GitHub Actions 工作流
 # ==========================================
 #
-#  功能：每天早 8:00 和晚 20:00（北京时间）自动执行
-#       抓取 AI 资讯 → 生成 Markdown → 提交到仓库
-#
-#  北京时间 08:00 = UTC 00:00
-#  北京时间 20:00 = UTC 12:00
+#  触发时间（均自动执行）：
+#    早报：UTC 00:00（北京时间 08:00）
+#    晚报：UTC 12:00（北京时间 20:00）
 #
 #  也可以手动触发：Actions → Run workflow → Run
+#
+#  ⚠️ 权限设置：
+#    Settings → Actions → General → Workflow permissions
+#    → 选择 "Read and write permissions" → Save
 
 name: "🤖 AI Daily News Fetch"
 
 on:
   schedule:
-    # 每天 UTC 00:00（北京时间 08:00）
+    # 早报：每天 UTC 00:00（北京时间 08:00）
     - cron: "0 0 * * *"
-    # 每天 UTC 12:00（北京时间 20:00）
+    # 晚报：每天 UTC 12:00（北京时间 20:00）
     - cron: "0 12 * * *"
-  workflow_dispatch:   # 支持手动触发
+  workflow_dispatch:
     inputs:
       label:
         description: "运行标签（如：早报/晚报/手动）"
         required: false
-        default: "手动触发"
+        default: ""
 
 permissions:
-  contents: write    # 允许提交文件到仓库
+  contents: write
 
 jobs:
   fetch-news:
@@ -34,9 +36,11 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # 1. 拉取代码
+      # 1. 拉取代码（获取完整历史以便追加写入）
       - name: 📥 Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       # 2. 安装 Python
       - name: 🐍 Setup Python
@@ -49,38 +53,63 @@ jobs:
       - name: 📦 Install dependencies
         run: pip install -r requirements.txt
 
-      # 4. 执行抓取
-      - name: 🚀 Run news fetcher
+      # 4. 判断早报/晚报标签
+      - name: 🏷️ Determine label
+        id: label
         run: |
-          LABEL="${{ github.event.inputs.label || '' }}"
-          if [ -n "$LABEL" ]; then
-            python main.py --label "$LABEL"
-          else
-            python main.py
+          # 手动触发时使用用户输入的标签
+          MANUAL_LABEL="${{ github.event.inputs.label || '' }}"
+          if [ -n "$MANUAL_LABEL" ]; then
+            echo "value=$MANUAL_LABEL" >> $GITHUB_OUTPUT
+            echo "📋 使用手动标签: $MANUAL_LABEL"
+            exit 0
           fi
 
-      # 5. 提交结果到仓库
+          # 定时触发时根据 UTC 时间判断
+          # UTC 00:xx = 北京 08:xx → 早报
+          # UTC 12:xx = 北京 20:xx → 晚报
+          UTC_HOUR=$(date -u +%H)
+          echo "⏰ 当前 UTC 时间: $(date -u '+%Y-%m-%d %H:%M:%S')"
+
+          if [ "$UTC_HOUR" -ge 0 ] && [ "$UTC_HOUR" -lt 6 ]; then
+            LABEL="早报"
+          elif [ "$UTC_HOUR" -ge 6 ] && [ "$UTC_HOUR" -lt 18 ]; then
+            LABEL="晚报"
+          else
+            LABEL="晚报"
+          fi
+
+          echo "value=$LABEL" >> $GITHUB_OUTPUT
+          echo "📋 自动判断标签: $LABEL"
+
+      # 5. 执行抓取
+      - name: 🚀 Run news fetcher
+        run: |
+          LABEL="${{ steps.label.outputs.value }}"
+          echo "🤖 开始执行抓取任务，标签: $LABEL"
+          python main.py --label "$LABEL"
+        env:
+          TZ: Asia/Shanghai
+
+      # 6. 提交结果到仓库
       - name: 📝 Commit and push
         run: |
           git config user.name "AI News Bot"
           git config user.email "bot@ai-news-daily.local"
-          git add output/
+
+          # 添加所有输出文件
+          git add output/ || true
           git add data/ || true
           git add logs/ || true
 
-          DATE=$(date +%Y-%m-%d)
-          HOUR=$(date -u +%H)
-          if [ "$HOUR" -lt 6 ]; then
-            PERIOD="早报"
-          else
-            PERIOD="晚报"
-          fi
+          LABEL="${{ steps.label.outputs.value }}"
+          DATE=$(TZ=Asia/Shanghai date +%Y-%m-%d)
 
           # 只在有变更时提交
           if git diff --cached --quiet; then
-            echo "没有新内容，跳过提交"
+            echo "📭 没有新内容，跳过提交"
           else
-            git commit -m "📰 AI简讯 ${DATE} ${PERIOD} — 自动更新"
+            git commit -m "📰 AI简讯 ${DATE} ${LABEL} — 自动更新"
             git push
-            echo "✅ 已提交并推送"
+            echo "✅ 已提交并推送: ${DATE} ${LABEL}"
           fi
