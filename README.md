@@ -11,7 +11,8 @@
 | ⏰ **定时抓取** | 默认每天早 8:00 + 晚 20:00 自动执行，时间可自定义 |
 | 📡 **多源聚合** | 内置 8+ 个 RSS 源 + 网页抓取，覆盖中英文 AI 媒体 |
 | 🔍 **智能过滤** | 关键词匹配、时效性检查、标题去重，只保留高相关资讯 |
-| 📝 **Markdown 输出** | 结构化排版、按来源分组、自动追加早/晚报 |
+| 🧠 **AI 深度分析** | 接入大模型对资讯进行智能评分、排序，精选 Top 20 优质内容 |
+| 📝 **Markdown 输出** | 结构化排版、AI 评分标注、按重要性排序 |
 | 🌐 **Web 展示页面** | 深色主题响应式页面，支持搜索、筛选、分页浏览 |
 | 🚀 **GitHub Actions** | 推送到 GitHub 即自动运行，零服务器成本 |
 | 🔧 **灵活配置** | JSON 配置文件 + 环境变量覆盖，无需改代码 |
@@ -34,6 +35,7 @@ ai-news-daily/
 │   ├── config.py                    # 配置管理器
 │   ├── fetcher.py                   # 数据抓取引擎
 │   ├── filter.py                    # 内容过滤器
+│   ├── ai_analyzer.py               # 🧠 AI 智能分析（LLM 评分排序）
 │   ├── writer.py                    # Markdown 生成器
 │   ├── json_writer.py               # JSON 数据输出器（Web 用）
 │   ├── static_builder.py            # 静态页面生成器（GitHub Pages 用）
@@ -119,6 +121,43 @@ export NEWS_SOURCES__REQUEST_TIMEOUT=60
 
 最后按发布时间倒序排列。
 
+### 3.5 `src/ai_analyzer.py` — 🧠 AI 智能分析模块（🆕）
+
+利用大模型（LLM）对过滤后的资讯进行深度分析，实现智能评分、排序和精选。
+
+| 功能 | 说明 |
+|------|------|
+| LLM 评分 | 调用 OpenAI 兼容 API 对每篇资讯进行 **相关性**（0-10）+ **重要性**（0-10）评分 |
+| 中文摘要 | LLM 为每篇资讯生成一句话中文摘要 |
+| 智能分类 | 自动将资讯归类为"产品发布"、"技术突破"、"融资投资"等类别 |
+| 复合排序 | `综合分 = 相关性 × 0.4 + 重要性 × 0.4 + 时效性 × 0.2`（权重可配置） |
+| Top N 精选 | 默认输出评分最高的 **前 20 条**资讯 |
+| 批量处理 | 文章分批发送给 LLM（默认每批 10 条），避免超出 Token 限制 |
+| 优雅降级 | 未配置 API Key 时自动切换为**规则打分**（关键词匹配 + 来源权威度 + 时效性） |
+| 容错重试 | API 调用失败自动重试，429 限流指数退避，单批失败不影响全局 |
+
+**AI 分析流水线：**
+
+```
+过滤后文章列表
+    ↓ 分批（每批 10 条）
+    ↓ 构造结构化 Prompt → 调用 LLM API
+    ↓ 解析 JSON 响应 → 提取评分 + 摘要 + 分类
+    ↓ 计算复合分数 → 按分数降序排列
+    ↓ 取 Top N（默认 20 条）
+    ↓ 输出精选资讯
+```
+
+**支持的 LLM 服务商（OpenAI 兼容 API）：**
+
+| 服务商 | base_url | 推荐模型 |
+|--------|----------|----------|
+| DeepSeek | `https://api.deepseek.com/v1` | `deepseek-chat`（默认） |
+| OpenAI | `https://api.openai.com/v1` | `gpt-4o-mini` |
+| 通义千问 | `https://dashscope.aliyuncs.com/compatible-mode/v1` | `qwen-plus` |
+| Kimi | `https://api.moonshot.cn/v1` | `moonshot-v1-8k` |
+| 零一万物 | `https://api.lingyiwanwu.com/v1` | `yi-large` |
+
 ### 4. `src/writer.py` — Markdown 生成器
 
 | 功能 | 说明 |
@@ -166,7 +205,7 @@ export NEWS_SOURCES__REQUEST_TIMEOUT=60
 | 自动 | 每天 08:00 + 20:00 |
 | 手动 | Actions 页面点击 "Run workflow" |
 
-执行流程：拉取代码 → 安装依赖 → 运行抓取 → 提交 Markdown 到仓库
+执行流程：拉取代码 → 安装依赖 → 运行抓取 → AI 分析排序 → 提交结果到仓库
 
 ---
 
@@ -449,6 +488,56 @@ https://zero-lzy.github.io/ai-news-daily/
 }
 ```
 
+### AI 智能分析（🆕）
+
+```json
+{
+  "ai": {
+    "api_key": "",
+    "base_url": "https://api.deepseek.com/v1",
+    "model": "deepseek-chat",
+    "top_n": 20,
+    "batch_size": 10,
+    "timeout": 60,
+    "max_retries": 2,
+    "weights": {
+      "relevance": 0.4,
+      "importance": 0.4,
+      "recency": 0.2
+    }
+  }
+}
+```
+
+| 配置项 | 说明 | 默认值 |
+|--------|------|--------|
+| `api_key` | LLM API 密钥（留空则自动降级为规则打分） | `""` |
+| `base_url` | OpenAI 兼容 API 端点 | `https://api.deepseek.com/v1` |
+| `model` | 模型名称 | `deepseek-chat` |
+| `top_n` | 最终输出的精选条数 | `20` |
+| `batch_size` | 每批发送给 LLM 的文章数 | `10` |
+| `timeout` | API 请求超时（秒） | `60` |
+| `max_retries` | 失败重试次数 | `2` |
+| `weights` | 复合评分权重（相关性 / 重要性 / 时效性） | `0.4 / 0.4 / 0.2` |
+
+**配置 API Key 的两种方式：**
+
+```bash
+# 方式 1：环境变量（推荐，不会泄露到代码仓库）
+export NEWS_AI_API_KEY="sk-xxxxxxxxxxxxxxxx"
+
+# 方式 2：在 config/settings.json 中直接填写（仅本地使用）
+```
+
+**GitHub Actions 中配置 API Key：**
+
+1. 进入仓库 → **Settings** → **Secrets and variables** → **Actions**
+2. 点击 **New repository secret**
+3. Name 填 `NEWS_AI_API_KEY`，Value 填你的 API Key
+4. 点击 **Add secret**
+
+> ⚠️ 未配置 API Key 时系统依然可以正常运行，会自动使用规则打分模式（基于关键词匹配 + 来源权威度 + 时效性）。
+
 ### 输出格式
 
 ```json
@@ -470,7 +559,7 @@ https://zero-lzy.github.io/ai-news-daily/
 
 | 库 | 版本 | 用途 |
 |----|------|------|
-| `httpx` | ≥0.27.0 | 异步 HTTP 客户端，用于网络请求 |
+| `httpx` | ≥0.27.0 | 异步 HTTP 客户端，用于网络请求 + LLM API 调用 |
 | `feedparser` | ≥6.0.11 | RSS/Atom 订阅源解析 |
 | `beautifulsoup4` | ≥4.12.0 | HTML 页面解析（网页抓取） |
 | `lxml` | ≥5.1.0 | 高性能 XML/HTML 解析后端 |
@@ -537,33 +626,30 @@ pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```markdown
 # 🤖 AI 行业简讯 — 2026-03-29
 
-## 📡 早报（2026-03-29 08:00）
+## 📡 早报（2026-03-29 08:00 | 🧠 AI 智能排序）
 
-> 共收录 **35** 条资讯
+> 共收录 **20** 条资讯
 
-### 📂 机器之心（8 条）
+### 1. [OpenAI 发布 GPT-5 技术预览版](https://example.com/1) `⭐9.2`
 
-**1. [OpenAI 发布 GPT-5 技术预览版](https://example.com/1)**
+- 📡 机器之心 | ⏰ 2026-03-29 07:30 | 📂 产品发布
+- OpenAI 今日正式宣布 GPT-5 预览版向部分开发者开放，在推理能力和多模态理解上实现显著突破。
 
-- ⏰ 2026-03-29 07:30
-- OpenAI 今日正式宣布 GPT-5 预览版向部分开发者开放...
+### 2. [Google DeepMind 推出新一代蛋白质预测模型](https://example.com/2) `⭐8.8`
 
-**2. [Google DeepMind 推出新一代蛋白质预测模型](https://example.com/2)**
+- 📡 TechCrunch AI | ⏰ 2026-03-29 06:15 | 📂 技术突破
+- DeepMind 新模型在蛋白质结构预测准确率上提升 40%，有望加速药物研发进程。
 
-- ⏰ 2026-03-29 06:15 | 🏷️ AI, 生物科技
-- DeepMind 新模型在蛋白质结构预测准确率上提升 40%...
+### 3. [NVIDIA 发布 B300 GPU 加速卡](https://example.com/3) `⭐8.5`
 
-### 📂 36氪 AI 频道（6 条）
+- 📡 36氪 AI 频道 | ⏰ 2026-03-29 05:00 | 📂 硬件算力
+- NVIDIA 新一代 AI 训练加速卡性能提升 3 倍，功耗降低 20%。
 
 ...
 
 ---
 
-## 📡 晚报（2026-03-29 20:00）
-
-> 共收录 **28** 条资讯
-
-...
+*由 AI News Daily 自动生成 | 2026-03-29 08:00*
 ```
 
 ---

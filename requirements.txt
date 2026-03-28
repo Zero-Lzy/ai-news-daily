@@ -10,6 +10,9 @@ loguru>=0.7.0           # 日志
 schedule>=1.2.0         # 定时调度
 pytz>=2024.1            # 时区处理
 
+# AI 智能分析
+# httpx 已在核心依赖中包含，复用作为 LLM API 客户端
+
 # Web 展示（可选）
 fastapi>=0.115.0        # Web框架
 uvicorn>=0.32.0         # ASGI服务器

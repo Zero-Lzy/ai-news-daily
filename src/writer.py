@@ -91,6 +91,9 @@ class MarkdownWriter:
         """渲染 Markdown 内容"""
         now = datetime.now().strftime("%Y-%m-%d %H:%M")
 
+        # 检测文章是否包含 AI 分析数据
+        has_ai = any(art.get("ai_score") is not None for art in articles)
+
         lines = []
 
         # 标题（仅新建时）
@@ -101,57 +104,94 @@ class MarkdownWriter:
             lines.append(f"# 🤖 AI 行业简讯 — {date_str}\n")
 
         # 小节标题
-        lines.append(f"## 📡 {label}（{now}）\n")
+        ai_badge = " | 🧠 AI 智能排序" if has_ai else ""
+        lines.append(f"## 📡 {label}（{now}{ai_badge}）\n")
         lines.append(f"> 共收录 **{len(articles)}** 条资讯\n")
 
         if not articles:
             lines.append("\n暂无符合条件的资讯。\n")
             return "\n".join(lines)
 
-        # 按来源分组
-        source_groups: Dict[str, List[Dict]] = {}
-        for art in articles:
-            src = art.get("source", "其他")
-            if src not in source_groups:
-                source_groups[src] = []
-            source_groups[src].append(art)
-
-        # 渲染各来源
-        idx = 1
-        for source_name, group in source_groups.items():
-            lines.append(f"\n### 📂 {source_name}（{len(group)} 条）\n")
-
-            for art in group:
+        # 渲染文章列表（AI 排序后已按分数排列，不再按来源分组）
+        if has_ai:
+            lines.append("")
+            for idx, art in enumerate(articles, 1):
                 title = art.get("title", "无标题")
                 url = art.get("url", "")
-                summary = art.get("summary", "")
+                summary = art.get("ai_summary") or art.get("summary", "")
                 pub_at = art.get("published_at", "")
                 tags = art.get("tags", [])
+                ai_score = art.get("ai_score")
+                ai_category = art.get("ai_category", "")
+                source = art.get("source", "")
 
-                # 标题行
+                # 标题行（含排名序号和分数）
+                score_badge = f" `⭐{ai_score:.1f}`" if ai_score is not None else ""
                 if url:
-                    lines.append(f"**{idx}. [{title}]({url})**\n")
+                    lines.append(f"### {idx}. [{title}]({url}){score_badge}\n")
                 else:
-                    lines.append(f"**{idx}. {title}**\n")
+                    lines.append(f"### {idx}. {title}{score_badge}\n")
 
                 # 元信息行
                 meta_parts = []
+                if source:
+                    meta_parts.append(f"📡 {source}")
                 if pub_at:
                     meta_parts.append(f"⏰ {pub_at}")
+                if ai_category:
+                    meta_parts.append(f"📂 {ai_category}")
                 if tags:
                     meta_parts.append(f"🏷️ {', '.join(tags[:5])}")
                 if meta_parts:
                     lines.append(f"- {' | '.join(meta_parts)}\n")
 
-                # 摘要
+                # AI 摘要 / 原始摘要
                 if summary:
-                    # 限制摘要长度
                     if len(summary) > 300:
                         summary = summary[:300] + "..."
                     lines.append(f"- {summary}\n")
 
                 lines.append("")  # 空行分隔
-                idx += 1
+        else:
+            # 无 AI 分析时保留原按来源分组的逻辑
+            source_groups: Dict[str, List[Dict]] = {}
+            for art in articles:
+                src = art.get("source", "其他")
+                if src not in source_groups:
+                    source_groups[src] = []
+                source_groups[src].append(art)
+
+            idx = 1
+            for source_name, group in source_groups.items():
+                lines.append(f"\n### 📂 {source_name}（{len(group)} 条）\n")
+
+                for art in group:
+                    title = art.get("title", "无标题")
+                    url = art.get("url", "")
+                    summary = art.get("summary", "")
+                    pub_at = art.get("published_at", "")
+                    tags = art.get("tags", [])
+
+                    if url:
+                        lines.append(f"**{idx}. [{title}]({url})**\n")
+                    else:
+                        lines.append(f"**{idx}. {title}**\n")
+
+                    meta_parts = []
+                    if pub_at:
+                        meta_parts.append(f"⏰ {pub_at}")
+                    if tags:
+                        meta_parts.append(f"🏷️ {', '.join(tags[:5])}")
+                    if meta_parts:
+                        lines.append(f"- {' | '.join(meta_parts)}\n")
+
+                    if summary:
+                        if len(summary) > 300:
+                            summary = summary[:300] + "..."
+                        lines.append(f"- {summary}\n")
+
+                    lines.append("")
+                    idx += 1
 
         # 页脚
         lines.append("---\n")

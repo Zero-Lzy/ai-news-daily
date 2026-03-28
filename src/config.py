@@ -128,6 +128,20 @@ class Config:
                 "max_age_hours": 48,
                 "deduplicate": True,
             },
+            "ai": {
+                "api_key": "",
+                "base_url": "https://api.deepseek.com/v1",
+                "model": "deepseek-chat",
+                "top_n": 20,
+                "batch_size": 10,
+                "timeout": 60,
+                "max_retries": 2,
+                "weights": {
+                    "relevance": 0.4,
+                    "importance": 0.4,
+                    "recency": 0.2,
+                },
+            },
             "logging": {
                 "level": "INFO",
                 "file": "./logs/ai-news-daily.log",

@@ -26,6 +26,7 @@ except ImportError:
 from .config import config
 from .fetcher import Fetcher
 from .filter import Filter
+from .ai_analyzer import AIAnalyzer
 from .writer import MarkdownWriter
 from .json_writer import JsonWriter
 from .static_builder import StaticBuilder
@@ -33,7 +34,7 @@ from .static_builder import StaticBuilder
 
 async def run_once(label: str = "") -> str:
     """
-    执行一次完整的 抓取 → 过滤 → 保存 → 构建 流程
+    执行一次完整的 抓取 → 过滤 → AI分析 → 保存 → 构建 流程
 
     Args:
         label: 运行标签（"早报" / "晚报" / 自定义），空值则自动判断
@@ -42,44 +43,58 @@ async def run_once(label: str = "") -> str:
         保存的文件路径
     """
     start = time.time()
-    logger.info("=" * 50)
+    logger.info("=" * 60)
     logger.info(f"🚀 开始执行资讯抓取任务 [{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}]")
-    logger.info("=" * 50)
+    logger.info("=" * 60)
 
     # Step 1: 抓取
     fetcher = Fetcher()
     articles = await fetcher.fetch_all()
-    logger.info(f"[Step 1/5] 抓取完成: {len(articles)} 条原始资讯")
+    logger.info(f"[Step 1/6] 抓取完成: {len(articles)} 条原始资讯")
 
     # Step 2: 过滤
     flt = Filter()
     filtered = flt.apply(articles)
-    logger.info(f"[Step 2/5] 过滤完成: {len(filtered)} 条有效资讯")
+    logger.info(f"[Step 2/6] 过滤完成: {len(filtered)} 条有效资讯")
 
-    # Step 3: 保存 Markdown
+    # Step 3: AI 智能分析与排序
+    try:
+        analyzer = AIAnalyzer()
+        ranked = await analyzer.analyze_and_rank(filtered)
+        top_n = config.get("ai.top_n", 20)
+        ai_mode = "LLM" if analyzer.api_key else "规则"
+        logger.info(
+            f"[Step 3/6] AI 分析完成（{ai_mode}模式）: "
+            f"输入 {len(filtered)} 条 → 精选 {len(ranked)} 条"
+        )
+    except Exception as e:
+        logger.warning(f"[Step 3/6] AI 分析跳过（非致命，使用原始列表）: {e}")
+        ranked = filtered
+
+    # Step 4: 保存 Markdown
     writer = MarkdownWriter()
-    filepath = writer.save(filtered, run_label=label)
-    logger.info(f"[Step 3/5] Markdown 保存完成: {filepath}")
+    filepath = writer.save(ranked, run_label=label)
+    logger.info(f"[Step 4/6] Markdown 保存完成: {filepath}")
 
-    # Step 4: 保存 JSON（供 Web 页面读取）
+    # Step 5: 保存 JSON（供 Web 页面读取）
     try:
         json_writer = JsonWriter()
-        json_writer.save(filtered, run_label=label)
-        logger.info(f"[Step 4/5] JSON 数据保存完成")
+        json_writer.save(ranked, run_label=label)
+        logger.info(f"[Step 5/6] JSON 数据保存完成")
     except Exception as e:
-        logger.warning(f"[Step 4/5] JSON 保存跳过（非致命）: {e}")
+        logger.warning(f"[Step 5/6] JSON 保存跳过（非致命）: {e}")
 
-    # Step 5: 生成静态页面（供 GitHub Pages 部署）
+    # Step 6: 生成静态页面（供 GitHub Pages 部署）
     try:
         builder = StaticBuilder()
         html_path = builder.build()
-        logger.info(f"[Step 5/5] 静态页面生成完成: {html_path}")
+        logger.info(f"[Step 6/6] 静态页面生成完成: {html_path}")
     except Exception as e:
-        logger.warning(f"[Step 5/5] 静态页面生成跳过（非致命）: {e}")
+        logger.warning(f"[Step 6/6] 静态页面生成跳过（非致命）: {e}")
 
     elapsed = time.time() - start
-    logger.info(f"✅ 任务完成，耗时 {elapsed:.1f} 秒，共保存 {len(filtered)} 条资讯")
-    logger.info("=" * 50)
+    logger.info(f"✅ 任务完成，耗时 {elapsed:.1f} 秒，共保存 {len(ranked)} 条资讯")
+    logger.info("=" * 60)
 
     return filepath
 

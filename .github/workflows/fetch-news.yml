@@ -90,6 +90,7 @@ jobs:
           python main.py --label "$LABEL"
         env:
           TZ: Asia/Shanghai
+          NEWS_AI_API_KEY: ${{ secrets.NEWS_AI_API_KEY }}
 
       # 6. 提交结果到仓库
       - name: 📝 Commit and push
