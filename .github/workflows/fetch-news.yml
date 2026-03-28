@@ -1,0 +1,86 @@
+# ==========================================
+#  AI 简讯自动抓取 — GitHub Actions 工作流
+# ==========================================
+#
+#  功能：每天早 8:00 和晚 20:00（北京时间）自动执行
+#       抓取 AI 资讯 → 生成 Markdown → 提交到仓库
+#
+#  北京时间 08:00 = UTC 00:00
+#  北京时间 20:00 = UTC 12:00
+#
+#  也可以手动触发：Actions → Run workflow → Run
+
+name: "🤖 AI Daily News Fetch"
+
+on:
+  schedule:
+    # 每天 UTC 00:00（北京时间 08:00）
+    - cron: "0 0 * * *"
+    # 每天 UTC 12:00（北京时间 20:00）
+    - cron: "0 12 * * *"
+  workflow_dispatch:   # 支持手动触发
+    inputs:
+      label:
+        description: "运行标签（如：早报/晚报/手动）"
+        required: false
+        default: "手动触发"
+
+permissions:
+  contents: write    # 允许提交文件到仓库
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # 1. 拉取代码
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. 安装 Python
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      # 3. 安装依赖
+      - name: 📦 Install dependencies
+        run: pip install -r requirements.txt
+
+      # 4. 执行抓取
+      - name: 🚀 Run news fetcher
+        run: |
+          LABEL="${{ github.event.inputs.label || '' }}"
+          if [ -n "$LABEL" ]; then
+            python main.py --label "$LABEL"
+          else
+            python main.py
+          fi
+
+      # 5. 提交结果到仓库
+      - name: 📝 Commit and push
+        run: |
+          git config user.name "AI News Bot"
+          git config user.email "bot@ai-news-daily.local"
+          git add output/
+          git add data/ || true
+          git add logs/ || true
+
+          DATE=$(date +%Y-%m-%d)
+          HOUR=$(date -u +%H)
+          if [ "$HOUR" -lt 6 ]; then
+            PERIOD="早报"
+          else
+            PERIOD="晚报"
+          fi
+
+          # 只在有变更时提交
+          if git diff --cached --quiet; then
+            echo "没有新内容，跳过提交"
+          else
+            git commit -m "📰 AI简讯 ${DATE} ${PERIOD} — 自动更新"
+            git push
+            echo "✅ 已提交并推送"
+          fi

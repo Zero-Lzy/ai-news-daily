@@ -1,0 +1,88 @@
+{
+  "schedule": {
+    "morning_hour": 8,
+    "morning_minute": 0,
+    "evening_hour": 20,
+    "evening_minute": 0,
+    "timezone": "Asia/Shanghai"
+  },
+  "output": {
+    "dir": "./output",
+    "filename_format": "AI简讯_{date}.md",
+    "append_if_exists": true
+  },
+  "sources": {
+    "rss_feeds": [
+      {
+        "name": "机器之心",
+        "url": "https://rsshub.app/jiqizhixin/daily",
+        "enabled": true
+      },
+      {
+        "name": "量子位",
+        "url": "https://rsshub.app/qbitai/category/资讯",
+        "enabled": true
+      },
+      {
+        "name": "36氪AI频道",
+        "url": "https://rsshub.app/36kr/motif/ai",
+        "enabled": true
+      },
+      {
+        "name": "少数派AI",
+        "url": "https://rsshub.app/sspai/tag/ai",
+        "enabled": true
+      },
+      {
+        "name": "Hacker News AI",
+        "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+machine+learning",
+        "enabled": true
+      },
+      {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+        "enabled": true
+      },
+      {
+        "name": "The Verge AI",
+        "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+        "enabled": true
+      },
+      {
+        "name": "ArsTechnica AI",
+        "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+        "enabled": true
+      }
+    ],
+    "web_scrape": [
+      {
+        "name": "AI新智界",
+        "url": "https://www.aibase.com/zh/news",
+        "selector": "article, .news-item, .article-item",
+        "enabled": true
+      }
+    ],
+    "request_timeout": 30,
+    "max_articles_per_source": 30,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+  },
+  "filter": {
+    "keywords_include": [
+      "AI", "人工智能", "大模型", "LLM", "GPT", "Claude", "Gemini",
+      "机器学习", "深度学习", "神经网络", "Transformer", "Agent",
+      "OpenAI", "Google AI", "Meta AI", "NVIDIA", "算力", "芯片",
+      "自动驾驶", "机器人", "多模态", "开源模型", "AGI",
+      "machine learning", "deep learning", "artificial intelligence",
+      "neural network", "language model", "generative AI"
+    ],
+    "keywords_exclude": [
+      "广告", "优惠券", "促销"
+    ],
+    "max_age_hours": 48,
+    "deduplicate": true
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "./logs/ai-news-daily.log"
+  }
+}

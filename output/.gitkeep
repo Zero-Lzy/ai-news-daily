@@ -1,0 +1,2 @@
+# output 目录需要被 Git 跟踪（存放生成的 Markdown 文件）
+# 此文件确保空目录也能被 Git 提交
