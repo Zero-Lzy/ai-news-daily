@@ -1,0 +1,82 @@
+# ==========================================
+#  GitHub Pages 自动部署工作流
+# ==========================================
+#
+#  触发条件：
+#    1. 当 docs/ 目录有变更推送到 main 分支时自动部署
+#    2. 抓取工作流完成后自动触发
+#    3. 支持手动触发
+#
+#  部署目标：GitHub Pages（从 docs/ 目录读取）
+#  访问地址：https://<username>.github.io/ai-news-daily/
+
+name: "🌐 Deploy to GitHub Pages"
+
+on:
+  # 当 main 分支的 docs/ 目录有更新时触发
+  push:
+    branches: [main]
+    paths: ["docs/**"]
+
+  # 抓取工作流完成后自动触发
+  workflow_run:
+    workflows: ["🤖 AI Daily News Fetch"]
+    types: [completed]
+    branches: [main]
+
+  # 支持手动触发
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 防止并发部署
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    # 仅在抓取成功后才部署（或手动/push触发时直接部署）
+    if: >
+      github.event_name == 'workflow_dispatch' ||
+      github.event_name == 'push' ||
+      (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success')
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+
+      - name: 📋 Check docs directory
+        run: |
+          if [ -f "docs/index.html" ]; then
+            echo "✅ docs/index.html 存在"
+            ls -la docs/
+          else
+            echo "⚠️ docs/index.html 不存在，跳过部署"
+            exit 1
+          fi
+
+      - name: 📦 Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: 📤 Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "docs"
+
+      - name: 🚀 Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: ✅ Deployment complete
+        run: |
+          echo "🌐 部署成功！"
+          echo "📍 访问地址: ${{ steps.deployment.outputs.page_url }}"

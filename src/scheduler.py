@@ -28,11 +28,12 @@ from .fetcher import Fetcher
 from .filter import Filter
 from .writer import MarkdownWriter
 from .json_writer import JsonWriter
+from .static_builder import StaticBuilder
 
 
 async def run_once(label: str = "") -> str:
     """
-    执行一次完整的 抓取 → 过滤 → 保存 流程
+    执行一次完整的 抓取 → 过滤 → 保存 → 构建 流程
 
     Args:
         label: 运行标签（"早报" / "晚报" / 自定义），空值则自动判断
@@ -48,25 +49,33 @@ async def run_once(label: str = "") -> str:
     # Step 1: 抓取
     fetcher = Fetcher()
     articles = await fetcher.fetch_all()
-    logger.info(f"[Step 1/4] 抓取完成: {len(articles)} 条原始资讯")
+    logger.info(f"[Step 1/5] 抓取完成: {len(articles)} 条原始资讯")
 
     # Step 2: 过滤
     flt = Filter()
     filtered = flt.apply(articles)
-    logger.info(f"[Step 2/4] 过滤完成: {len(filtered)} 条有效资讯")
+    logger.info(f"[Step 2/5] 过滤完成: {len(filtered)} 条有效资讯")
 
     # Step 3: 保存 Markdown
     writer = MarkdownWriter()
     filepath = writer.save(filtered, run_label=label)
-    logger.info(f"[Step 3/4] Markdown 保存完成: {filepath}")
+    logger.info(f"[Step 3/5] Markdown 保存完成: {filepath}")
 
     # Step 4: 保存 JSON（供 Web 页面读取）
     try:
         json_writer = JsonWriter()
-        json_path = json_writer.save(filtered, run_label=label)
-        logger.info(f"[Step 4/4] JSON 数据保存完成: {json_path}")
+        json_writer.save(filtered, run_label=label)
+        logger.info(f"[Step 4/5] JSON 数据保存完成")
     except Exception as e:
-        logger.warning(f"[Step 4/4] JSON 保存跳过（非致命）: {e}")
+        logger.warning(f"[Step 4/5] JSON 保存跳过（非致命）: {e}")
+
+    # Step 5: 生成静态页面（供 GitHub Pages 部署）
+    try:
+        builder = StaticBuilder()
+        html_path = builder.build()
+        logger.info(f"[Step 5/5] 静态页面生成完成: {html_path}")
+    except Exception as e:
+        logger.warning(f"[Step 5/5] 静态页面生成跳过（非致命）: {e}")
 
     elapsed = time.time() - start
     logger.info(f"✅ 任务完成，耗时 {elapsed:.1f} 秒，共保存 {len(filtered)} 条资讯")

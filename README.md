@@ -36,11 +36,15 @@ ai-news-daily/
 │   ├── filter.py                    # 内容过滤器
 │   ├── writer.py                    # Markdown 生成器
 │   ├── json_writer.py               # JSON 数据输出器（Web 用）
-│   ├── web_server.py                # FastAPI Web 服务器
+│   ├── static_builder.py            # 静态页面生成器（GitHub Pages 用）
+│   ├── web_server.py                # FastAPI Web 服务器（本地用）
 │   └── scheduler.py                 # 定时调度器
 │
 ├── web/
-│   └── index.html                   # 🌐 Web 前端展示页面
+│   └── index.html                   # 🌐 Web 前端（本地 FastAPI 版）
+│
+├── docs/
+│   └── index.html                   # 🌐 静态页面（GitHub Pages 自动部署）
 │
 ├── data/                            # 📊 JSON 数据文件（自动生成）
 │   ├── articles.json                #    全量文章列表
@@ -52,7 +56,8 @@ ai-news-daily/
 │
 ├── .github/
 │   └── workflows/
-│       └── fetch-news.yml           # 🤖 GitHub Actions 工作流
+│       ├── fetch-news.yml           # 🤖 定时抓取工作流
+│       └── deploy-pages.yml         # 🌐 GitHub Pages 部署工作流
 │
 └── README.md                        # 📖 本文档
 ```
@@ -345,6 +350,53 @@ GET /api/tags
 # 获取统计信息
 GET /api/stats
 ```
+
+---
+
+### 方式四：GitHub Pages 在线访问（🆕 推荐）
+
+> 无需服务器，每次抓取后自动部署更新，通过 URL 直接在线访问资讯页面。
+
+#### 工作原理
+
+```
+抓取工作流运行 → 生成 JSON 数据 → 构建静态 HTML（数据内嵌）
+    → 提交到 docs/ 目录 → 自动触发 Pages 部署 → 在线页面自动更新
+```
+
+#### 第 1 步：启用 GitHub Pages
+
+1. 进入仓库 → **Settings**（顶部导航栏）
+2. 左侧菜单找到 **Pages**（在 "Code and automation" 分类下）
+3. **Source** 选择 **GitHub Actions**
+4. 点击 **Save**
+
+#### 第 2 步：运行一次抓取
+
+手动触发抓取工作流（或等待定时触发）：
+
+1. 进入 **Actions** 标签页
+2. 左侧选择 **🤖 AI Daily News Fetch**
+3. 点击 **Run workflow** → 选择 `main` → **Run workflow**
+4. 等待运行完成（约 1-2 分钟）
+
+#### 第 3 步：查看在线页面
+
+抓取完成后，**🌐 Deploy to GitHub Pages** 工作流会自动触发部署。
+
+部署完成后访问：
+
+```
+https://zero-lzy.github.io/ai-news-daily/
+```
+
+> 📌 每次抓取运行后页面都会自动更新，无需手动操作。
+
+#### 查看部署状态
+
+1. 进入 **Actions** 标签页
+2. 左侧选择 **🌐 Deploy to GitHub Pages**
+3. 查看最近的运行记录，绿色 ✅ 表示部署成功
 
 ---
 
