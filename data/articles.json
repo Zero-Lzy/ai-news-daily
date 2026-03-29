@@ -60,6 +60,24 @@
     "fetch_label": "早报"
   },
   {
+    "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
+    "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+    "source": "TechCrunch AI",
+    "summary": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
+    "published_at": "2026-03-28 23:00",
+    "tags": [
+      "TC",
+      "AI",
+      "Apps",
+      "Social",
+      "social media",
+      "Bluesky",
+      "ai apps"
+    ],
+    "fetch_date": "2026-03-29",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "The Decadelong Feud Shaping the Future of AI",
     "url": "https://www.wsj.com/tech/ai/the-decadelong-feud-shaping-the-future-of-ai-7075acde",
     "source": "Hacker News AI",
@@ -206,6 +224,24 @@
     "summary": "Article URL: https://github.com/FayAndXan/xanlens Comments URL: https://news.ycombinator.com/item?id=47557729 Points: 1 # Comments: 0",
     "published_at": "2026-03-28 20:02",
     "tags": [],
+    "fetch_date": "2026-03-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Elon Musk’s last co-founder reportedly leaves xAI",
+    "url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+    "source": "TechCrunch AI",
+    "summary": "All but two of Musk's 11 xAI co-founders departed before this week.",
+    "published_at": "2026-03-28 16:11",
+    "tags": [
+      "AI",
+      "Startups",
+      "Elon Musk",
+      "SpaceX",
+      "xAI",
+      "ross nordeen",
+      "manuel kroiss"
+    ],
     "fetch_date": "2026-03-29",
     "fetch_label": "晚报"
   },
