@@ -334,6 +334,183 @@
           ]
         }
       ]
+    },
+    {
+      "label": "早报",
+      "time": "2026-03-29 10:47:21",
+      "count": 18,
+      "articles": [
+        {
+          "title": "Will the AI data centre boom become a $9T bust?",
+          "url": "https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723 Comments URL: https://news.ycombinator.com/item?id=47559948 Points: 3 # Comments: 0",
+          "published_at": "2026-03-29 02:35",
+          "tags": []
+        },
+        {
+          "title": "Can AI Exit Vim?",
+          "url": "https://theadamcolton.github.io/can-ai-exit-vim",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://theadamcolton.github.io/can-ai-exit-vim Comments URL: https://news.ycombinator.com/item?id=47559788 Points: 2 # Comments: 2",
+          "published_at": "2026-03-29 01:52",
+          "tags": []
+        },
+        {
+          "title": "Social media is populist and polarising; AI may be the opposite",
+          "url": "https://www.ft.com/content/3880176e-d3ac-4311-9052-fdfeaed56a0e",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.ft.com/content/3880176e-d3ac-4311-9052-fdfeaed56a0e Comments URL: https://news.ycombinator.com/item?id=47559506 Points: 1 # Comments: 1",
+          "published_at": "2026-03-29 00:58",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Anamnesis – Open-source 4D strategic memory engine for AI agents",
+          "url": "https://github.com/gayawellness/anamnesis",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/gayawellness/anamnesis Comments URL: https://news.ycombinator.com/item?id=47559504 Points: 2 # Comments: 0",
+          "published_at": "2026-03-29 00:58",
+          "tags": []
+        },
+        {
+          "title": "Generative AI Can Harm Learning (2024)",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486 Comments URL: https://news.ycombinator.com/item?id=47559035 Points: 6 # Comments: 0",
+          "published_at": "2026-03-28 23:34",
+          "tags": []
+        },
+        {
+          "title": "Attie.ai",
+          "url": "https://attie.ai/login",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://attie.ai/login Comments URL: https://news.ycombinator.com/item?id=47559026 Points: 6 # Comments: 0",
+          "published_at": "2026-03-28 23:33",
+          "tags": []
+        },
+        {
+          "title": "The Decadelong Feud Shaping the Future of AI",
+          "url": "https://www.wsj.com/tech/ai/the-decadelong-feud-shaping-the-future-of-ai-7075acde",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wsj.com/tech/ai/the-decadelong-feud-shaping-the-future-of-ai-7075acde Comments URL: https://news.ycombinator.com/item?id=47558799 Points: 2 # Comments: 0",
+          "published_at": "2026-03-28 22:55",
+          "tags": []
+        },
+        {
+          "title": "RimWorld: A sci-fi colony SIM driven by an intelligent AI storyteller",
+          "url": "https://store.steampowered.com/app/294100/RimWorld/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://store.steampowered.com/app/294100/RimWorld/ Comments URL: https://news.ycombinator.com/item?id=47558798 Points: 6 # Comments: 0",
+          "published_at": "2026-03-28 22:55",
+          "tags": []
+        },
+        {
+          "title": "Why AI Companies Want to Take Control of Your Computer",
+          "url": "https://nymag.com/intelligencer/article/why-ai-agents-anthropic-claude-want-to-take-control-of-your-computer.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://nymag.com/intelligencer/article/why-ai-agents-anthropic-claude-want-to-take-control-of-your-computer.html Comments URL: https://news.ycombinator.com/item?id=47558786 Points: 3 # Comments: 0",
+          "published_at": "2026-03-28 22:51",
+          "tags": []
+        },
+        {
+          "title": "Why exposing young children to AI content could have irreversible consequences",
+          "url": "https://theconversation.com/why-exposing-young-children-to-ai-content-could-have-irreversible-consequences-277719",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://theconversation.com/why-exposing-young-children-to-ai-content-could-have-irreversible-consequences-277719 Comments URL: https://news.ycombinator.com/item?id=47558774 Points: 3 # Comments: 1",
+          "published_at": "2026-03-28 22:49",
+          "tags": []
+        },
+        {
+          "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
+          "url": "https://news.future-shock.ai/the-weight-of-remembering/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://news.future-shock.ai/the-weight-of-remembering/ Comments URL: https://news.ycombinator.com/item?id=47558733 Points: 2 # Comments: 0",
+          "published_at": "2026-03-28 22:42",
+          "tags": []
+        },
+        {
+          "title": "Intel Core Ultra Series 3 VPro: 18A AI PCs Debut with Dtect Security Updates",
+          "url": "https://hothardware.com/news/intel-unveils-core-ultra-series-3-vpro",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://hothardware.com/news/intel-unveils-core-ultra-series-3-vpro Comments URL: https://news.ycombinator.com/item?id=47558498 Points: 2 # Comments: 0",
+          "published_at": "2026-03-28 22:00",
+          "tags": []
+        },
+        {
+          "title": "Verify_before – pre-deployment verifiability analysis for neuro-symbolic AI",
+          "url": "https://elliotfairbanksjunior.substack.com/p/i-predicted-a-number",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://elliotfairbanksjunior.substack.com/p/i-predicted-a-number Comments URL: https://news.ycombinator.com/item?id=47558292 Points: 1 # Comments: 0",
+          "published_at": "2026-03-28 21:33",
+          "tags": []
+        },
+        {
+          "title": "Entroly Context engine- AI coding tools 100% codebase visibility",
+          "url": "https://github.com/juyterman1000/entroly",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/juyterman1000/entroly Comments URL: https://news.ycombinator.com/item?id=47558208 Points: 1 # Comments: 0",
+          "published_at": "2026-03-28 21:20",
+          "tags": []
+        },
+        {
+          "title": "Suno leans into customization with v5.5",
+          "url": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
+          "source": "The Verge AI",
+          "summary": "Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving users more control. It includes three new features: Voices, My Taste, and Custom Models. In the release notes, Suno says that Voices [&#8230;]",
+          "published_at": "2026-03-28 14:33",
+          "tags": [
+            "AI",
+            "Entertainment",
+            "Music",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Why can’t TikTok identify AI generated ads when I can?",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
+          "source": "The Verge AI",
+          "summary": "I've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools. As someone who spends a great deal of time scrutinizing images and videos for the usual \"tells\" that something was synthetically generated, some of the promotions I've seen have definitely sparked suspicion. For several weeks, [&#8230;]",
+          "published_at": "2026-03-28 10:00",
+          "tags": [
+            "AI",
+            "Creators",
+            "Report",
+            "Tech",
+            "TikTok"
+          ]
+        },
+        {
+          "title": "Why OpenAI killed Sora",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
+          "source": "The Verge AI",
+          "summary": "On Tuesday morning, everything was business as usual at OpenAI. By the end of the day, the company had announced that it would scrap its video-generation app, Sora, and reverse plans for video generation inside ChatGPT; it would wind down a $1 billion Disney deal; it would shuffle the role of a high-level executive; and [&#8230;]",
+          "published_at": "2026-03-28 08:00",
+          "tags": [
+            "AI",
+            "Analysis",
+            "OpenAI",
+            "Report"
+          ]
+        },
+        {
+          "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
+          "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+          "source": "TechCrunch AI",
+          "summary": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
+          "published_at": "2026-03-27 21:44",
+          "tags": [
+            "AI",
+            "Venture",
+            "Goldman Sachs",
+            "IPO",
+            "jp morgan",
+            "OpenAI",
+            "SoftBank Group International",
+            "In Brief"
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1,5 +1,115 @@
 [
   {
+    "title": "Will the AI data centre boom become a $9T bust?",
+    "url": "https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723 Comments URL: https://news.ycombinator.com/item?id=47559948 Points: 3 # Comments: 0",
+    "published_at": "2026-03-29 02:35",
+    "tags": [],
+    "fetch_date": "2026-03-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Can AI Exit Vim?",
+    "url": "https://theadamcolton.github.io/can-ai-exit-vim",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://theadamcolton.github.io/can-ai-exit-vim Comments URL: https://news.ycombinator.com/item?id=47559788 Points: 2 # Comments: 2",
+    "published_at": "2026-03-29 01:52",
+    "tags": [],
+    "fetch_date": "2026-03-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Social media is populist and polarising; AI may be the opposite",
+    "url": "https://www.ft.com/content/3880176e-d3ac-4311-9052-fdfeaed56a0e",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.ft.com/content/3880176e-d3ac-4311-9052-fdfeaed56a0e Comments URL: https://news.ycombinator.com/item?id=47559506 Points: 1 # Comments: 1",
+    "published_at": "2026-03-29 00:58",
+    "tags": [],
+    "fetch_date": "2026-03-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Anamnesis – Open-source 4D strategic memory engine for AI agents",
+    "url": "https://github.com/gayawellness/anamnesis",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/gayawellness/anamnesis Comments URL: https://news.ycombinator.com/item?id=47559504 Points: 2 # Comments: 0",
+    "published_at": "2026-03-29 00:58",
+    "tags": [],
+    "fetch_date": "2026-03-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Generative AI Can Harm Learning (2024)",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486 Comments URL: https://news.ycombinator.com/item?id=47559035 Points: 6 # Comments: 0",
+    "published_at": "2026-03-28 23:34",
+    "tags": [],
+    "fetch_date": "2026-03-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Attie.ai",
+    "url": "https://attie.ai/login",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://attie.ai/login Comments URL: https://news.ycombinator.com/item?id=47559026 Points: 6 # Comments: 0",
+    "published_at": "2026-03-28 23:33",
+    "tags": [],
+    "fetch_date": "2026-03-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The Decadelong Feud Shaping the Future of AI",
+    "url": "https://www.wsj.com/tech/ai/the-decadelong-feud-shaping-the-future-of-ai-7075acde",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/the-decadelong-feud-shaping-the-future-of-ai-7075acde Comments URL: https://news.ycombinator.com/item?id=47558799 Points: 2 # Comments: 0",
+    "published_at": "2026-03-28 22:55",
+    "tags": [],
+    "fetch_date": "2026-03-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "RimWorld: A sci-fi colony SIM driven by an intelligent AI storyteller",
+    "url": "https://store.steampowered.com/app/294100/RimWorld/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://store.steampowered.com/app/294100/RimWorld/ Comments URL: https://news.ycombinator.com/item?id=47558798 Points: 6 # Comments: 0",
+    "published_at": "2026-03-28 22:55",
+    "tags": [],
+    "fetch_date": "2026-03-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Why AI Companies Want to Take Control of Your Computer",
+    "url": "https://nymag.com/intelligencer/article/why-ai-agents-anthropic-claude-want-to-take-control-of-your-computer.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://nymag.com/intelligencer/article/why-ai-agents-anthropic-claude-want-to-take-control-of-your-computer.html Comments URL: https://news.ycombinator.com/item?id=47558786 Points: 3 # Comments: 0",
+    "published_at": "2026-03-28 22:51",
+    "tags": [],
+    "fetch_date": "2026-03-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Why exposing young children to AI content could have irreversible consequences",
+    "url": "https://theconversation.com/why-exposing-young-children-to-ai-content-could-have-irreversible-consequences-277719",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://theconversation.com/why-exposing-young-children-to-ai-content-could-have-irreversible-consequences-277719 Comments URL: https://news.ycombinator.com/item?id=47558774 Points: 3 # Comments: 1",
+    "published_at": "2026-03-28 22:49",
+    "tags": [],
+    "fetch_date": "2026-03-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
+    "url": "https://news.future-shock.ai/the-weight-of-remembering/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://news.future-shock.ai/the-weight-of-remembering/ Comments URL: https://news.ycombinator.com/item?id=47558733 Points: 2 # Comments: 0",
+    "published_at": "2026-03-28 22:42",
+    "tags": [],
+    "fetch_date": "2026-03-29",
+    "fetch_label": "早报"
+  },
+  {
     "title": "AI Perfected Chess. Humans Made It Unpredictable Again",
     "url": "https://www.bloomberg.com/news/articles/2026-03-27/ai-changed-chess-grandmasters-now-win-with-unpredictable-moves",
     "source": "Hacker News AI",
