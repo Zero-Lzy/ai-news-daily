@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-30",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-03-30 10:49:58",
+      "count": 5,
+      "articles": [
+        {
+          "title": "All the latest in AI &#8216;music&#8217;",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit",
+          "source": "The Verge AI",
+          "summary": "AI has touched every part of the music industry, from sample sourcing and demo recording, to serving up digital liner notes and building playlists. There are technical and legal challenges, fierce ethical debates, and fears that the slop will simply crush working musicians through sheer volume. Is it art or just an output? What exactly [&#8230;]",
+          "published_at": "2026-03-29 21:32",
+          "tags": [
+            "AI",
+            "Entertainment",
+            "Music"
+          ]
+        },
+        {
+          "title": "Sora’s shutdown could be a reality check moment for AI video",
+          "url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
+          "source": "TechCrunch AI",
+          "summary": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
+          "published_at": "2026-03-29 16:30",
+          "tags": [
+            "AI",
+            "Media & Entertainment",
+            "Equity podcast",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Elon Musk’s last co-founder reportedly leaves xAI",
+          "url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+          "source": "TechCrunch AI",
+          "summary": "All but two of Musk's 11 xAI co-founders departed before this week.",
+          "published_at": "2026-03-28 16:11",
+          "tags": [
+            "AI",
+            "Startups",
+            "Elon Musk",
+            "SpaceX",
+            "xAI",
+            "ross nordeen",
+            "manuel kroiss"
+          ]
+        },
+        {
+          "title": "Suno leans into customization with v5.5",
+          "url": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
+          "source": "The Verge AI",
+          "summary": "Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving users more control. It includes three new features: Voices, My Taste, and Custom Models. In the release notes, Suno says that Voices [&#8230;]",
+          "published_at": "2026-03-28 14:33",
+          "tags": [
+            "AI",
+            "Entertainment",
+            "Music",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
+          "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+          "source": "TechCrunch AI",
+          "summary": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.",
+          "published_at": "2026-03-28 14:15",
+          "tags": [
+            "TC",
+            "AI"
+          ]
+        }
+      ]
+    }
+  ]
+}
