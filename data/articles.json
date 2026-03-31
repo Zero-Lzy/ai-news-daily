@@ -1,5 +1,158 @@
 [
   {
+    "title": "You still have to refactor, even with AI",
+    "url": "https://www.adamhjk.com/blog/you-still-have-to-refactor-even-with-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.adamhjk.com/blog/you-still-have-to-refactor-even-with-ai/ Comments URL: https://news.ycombinator.com/item?id=47582142 Points: 1 # Comments: 0",
+    "published_at": "2026-03-31 02:40",
+    "tags": [],
+    "fetch_date": "2026-03-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "TokenSurf – Drop-in proxy that cuts LLM costs 40-94%",
+    "url": "https://tokensurf.io",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://tokensurf.io Comments URL: https://news.ycombinator.com/item?id=47582136 Points: 1 # Comments: 0",
+    "published_at": "2026-03-31 02:39",
+    "tags": [],
+    "fetch_date": "2026-03-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "100x Less Power: The Breakthrough That Could Solve AI's Energy Crisis",
+    "url": "https://scitechdaily.com/100x-less-power-the-breakthrough-that-could-solve-ais-massive-energy-crisis/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://scitechdaily.com/100x-less-power-the-breakthrough-that-could-solve-ais-massive-energy-crisis/ Comments URL: https://news.ycombinator.com/item?id=47582098 Points: 1 # Comments: 2",
+    "published_at": "2026-03-31 02:32",
+    "tags": [],
+    "fetch_date": "2026-03-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Askable – give any UI element LLM awareness with one attribute",
+    "url": "https://askable-ui.github.io/askable/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://askable-ui.github.io/askable/ Comments URL: https://news.ycombinator.com/item?id=47582078 Points: 2 # Comments: 0",
+    "published_at": "2026-03-31 02:29",
+    "tags": [],
+    "fetch_date": "2026-03-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Federal judges report broad adoption of AI tools",
+    "url": "https://news.northwestern.edu/stories/2026/03/northwestern-study-finds-a-significant-number-of-federal-judges-are-already-using-ai-tools",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://news.northwestern.edu/stories/2026/03/northwestern-study-finds-a-significant-number-of-federal-judges-are-already-using-ai-tools Comments URL: https://news.ycombinator.com/item?id=47582062 Points: 2 # Comments: 0",
+    "published_at": "2026-03-31 02:27",
+    "tags": [],
+    "fetch_date": "2026-03-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "We hate AI-assisted articles",
+    "url": "https://idiallo.com/blog/why-we-hate-llm-articles",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://idiallo.com/blog/why-we-hate-llm-articles Comments URL: https://news.ycombinator.com/item?id=47582060 Points: 2 # Comments: 1",
+    "published_at": "2026-03-31 02:26",
+    "tags": [],
+    "fetch_date": "2026-03-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Agent Red Team – Adversarial testing for AI agents before production",
+    "url": "https://agentredteam.ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://agentredteam.ai Comments URL: https://news.ycombinator.com/item?id=47581993 Points: 1 # Comments: 0",
+    "published_at": "2026-03-31 02:14",
+    "tags": [],
+    "fetch_date": "2026-03-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Adobe Illustrator can now use AI to rotate 2D vectors in 3D space",
+    "url": "https://9to5mac.com/2026/03/30/adobe-illustrator-now-lets-you-rotate-2d-vectors-in-3d-space/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://9to5mac.com/2026/03/30/adobe-illustrator-now-lets-you-rotate-2d-vectors-in-3d-space/ Comments URL: https://news.ycombinator.com/item?id=47581708 Points: 1 # Comments: 0",
+    "published_at": "2026-03-31 01:25",
+    "tags": [],
+    "fetch_date": "2026-03-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "GTabs – AI tab organizer for Chrome that works with any LLM",
+    "url": "https://github.com/vaddisrinivas/gtabs",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/vaddisrinivas/gtabs Comments URL: https://news.ycombinator.com/item?id=47581584 Points: 1 # Comments: 0",
+    "published_at": "2026-03-31 01:04",
+    "tags": [],
+    "fetch_date": "2026-03-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "What Happens When AI Stops Being Artificially Cheap",
+    "url": "https://danielmiessler.com/blog/ai-stops-being-artificially-cheap",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://danielmiessler.com/blog/ai-stops-being-artificially-cheap Comments URL: https://news.ycombinator.com/item?id=47581442 Points: 5 # Comments: 1",
+    "published_at": "2026-03-31 00:39",
+    "tags": [],
+    "fetch_date": "2026-03-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Using AI to inflate your ego",
+    "url": "https://blog.avas.space/ai-ego/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.avas.space/ai-ego/ Comments URL: https://news.ycombinator.com/item?id=47581441 Points: 1 # Comments: 0",
+    "published_at": "2026-03-31 00:38",
+    "tags": [],
+    "fetch_date": "2026-03-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Live map of SF fires and 911 calls – P25 radio decoded with AI",
+    "url": "https://sf.monitorsthesituation.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://sf.monitorsthesituation.com Comments URL: https://news.ycombinator.com/item?id=47581211 Points: 1 # Comments: 0",
+    "published_at": "2026-03-31 00:06",
+    "tags": [],
+    "fetch_date": "2026-03-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "15% of Americans say they’d be willing to work for an AI boss, according to new poll",
+    "url": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
+    "source": "TechCrunch AI",
+    "summary": "According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assigned tasks and set schedules.",
+    "published_at": "2026-03-30 23:41",
+    "tags": [
+      "AI",
+      "future of work",
+      "Jobs",
+      "polls"
+    ],
+    "fetch_date": "2026-03-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
+    "url": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
+    "source": "TechCrunch AI",
+    "summary": "ScaleOps just raised $130M to tackle GPU shortages and soaring AI cloud costs by automating infrastructure in real time.",
+    "published_at": "2026-03-30 13:52",
+    "tags": [
+      "AI",
+      "Startups",
+      "GPU",
+      "GPU optimization",
+      "Insight Partners",
+      "Kubernetes",
+      "ScaleOps"
+    ],
+    "fetch_date": "2026-03-31",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Why tech CEOs suddenly love blaming AI for mass layoffs",
     "url": "https://www.bbc.com/news/articles/cde5y2x51y8o",
     "source": "Hacker News AI",
@@ -80,6 +233,22 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "Qodo raises $70M for code verification as AI coding scales",
+    "url": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
+    "source": "TechCrunch AI",
+    "summary": "As AI floods software development with code, Qodo is betting the real challenge is making sure it actually works.",
+    "published_at": "2026-03-30 12:30",
+    "tags": [
+      "AI",
+      "Startups",
+      "visualead",
+      "qodo",
+      "code verification"
+    ],
+    "fetch_date": "2026-03-31",
+    "fetch_label": "早报"
+  },
+  {
     "title": "A survey of tools for remote AI development",
     "url": "https://www.dgt.is/blog/2026-03-30-ai-ide/",
     "source": "Hacker News AI",
@@ -151,6 +320,22 @@
     ],
     "fetch_date": "2026-03-30",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Why OpenAI really shut down Sora",
+    "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+    "source": "TechCrunch AI",
+    "summary": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public, raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?",
+    "published_at": "2026-03-30 03:09",
+    "tags": [
+      "AI",
+      "TC",
+      "In Brief",
+      "OpenAI",
+      "sora"
+    ],
+    "fetch_date": "2026-03-31",
+    "fetch_label": "早报"
   },
   {
     "title": "All the latest in AI &#8216;music&#8217;",
