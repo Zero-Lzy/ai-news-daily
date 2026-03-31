@@ -1,5 +1,115 @@
 [
   {
+    "title": "AgentVeil – EigenTrust reputation and sybil detection for AI agents",
+    "url": "https://agentveil.dev",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://agentveil.dev Comments URL: https://news.ycombinator.com/item?id=47586968 Points: 1 # Comments: 1",
+    "published_at": "2026-03-31 13:19",
+    "tags": [],
+    "fetch_date": "2026-03-31",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI sheds light on an ancient gaming mystery",
+    "url": "https://news.flinders.edu.au/blog/2026/03/21/ai-sheds-light-on-an-ancient-gaming-mystery/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://news.flinders.edu.au/blog/2026/03/21/ai-sheds-light-on-an-ancient-gaming-mystery/ Comments URL: https://news.ycombinator.com/item?id=47586898 Points: 2 # Comments: 0",
+    "published_at": "2026-03-31 13:14",
+    "tags": [],
+    "fetch_date": "2026-03-31",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Won't Lower Your Engineering Bar. Poor Adoption Will",
+    "url": "https://businessasusual.io/p/ai-wont-lower-your-engineering-bar",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://businessasusual.io/p/ai-wont-lower-your-engineering-bar Comments URL: https://news.ycombinator.com/item?id=47586880 Points: 2 # Comments: 0",
+    "published_at": "2026-03-31 13:12",
+    "tags": [],
+    "fetch_date": "2026-03-31",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "OMLX – LLM inference, optimized for your Mac",
+    "url": "https://omlx.ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://omlx.ai/ Comments URL: https://news.ycombinator.com/item?id=47586773 Points: 1 # Comments: 0",
+    "published_at": "2026-03-31 13:04",
+    "tags": [],
+    "fetch_date": "2026-03-31",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ask HN: Do you yell at your AI agents?",
+    "url": "https://news.ycombinator.com/item?id=47586753",
+    "source": "Hacker News AI",
+    "summary": "Whenever my coding agent makes a mistake, I get very angry, for some reason way more angry than if a Human Intelligence did that. I don't yell at my coworkers or subordinates, I have no anger management issues in general. But talking to AI can somehow drive me mad.I attribute this to three facts: 1. AI have ~no memory, so it can keep making the same stupid mistake over and over again 2. It will just say \"Sorry, I should not have done that\" after deleting your prod DB and shrug it off. It will no",
+    "published_at": "2026-03-31 13:01",
+    "tags": [],
+    "fetch_date": "2026-03-31",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "How companies are learning to stop worrying and benefit from pay transparency",
+    "url": "https://www.theglobeandmail.com/business/article-how-companies-are-learning-to-stop-worrying-and-benefit-from-pay/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theglobeandmail.com/business/article-how-companies-are-learning-to-stop-worrying-and-benefit-from-pay/ Comments URL: https://news.ycombinator.com/item?id=47586571 Points: 1 # Comments: 0",
+    "published_at": "2026-03-31 12:46",
+    "tags": [],
+    "fetch_date": "2026-03-31",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI agents that talk to each other to analyze your raw DNA file",
+    "url": "https://github.com/HelixGenomics/Genomic-Agent-Discovery",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/HelixGenomics/Genomic-Agent-Discovery Comments URL: https://news.ycombinator.com/item?id=47586491 Points: 1 # Comments: 1",
+    "published_at": "2026-03-31 12:40",
+    "tags": [],
+    "fetch_date": "2026-03-31",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "An Alternative Trajectory for Generative AI",
+    "url": "https://arxiv.org/abs/2603.14147",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2603.14147 Comments URL: https://news.ycombinator.com/item?id=47586424 Points: 1 # Comments: 0",
+    "published_at": "2026-03-31 12:34",
+    "tags": [],
+    "fetch_date": "2026-03-31",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Americans' AI Use Increases While Views on It Sour, Poll on AI Finds",
+    "url": "https://poll.qu.edu/poll-release?releaseid=3955",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://poll.qu.edu/poll-release?releaseid=3955 Comments URL: https://news.ycombinator.com/item?id=47586401 Points: 1 # Comments: 0",
+    "published_at": "2026-03-31 12:32",
+    "tags": [],
+    "fetch_date": "2026-03-31",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "I Tested My SDK with 30 AI Agents. They All Broke It the Same Ways",
+    "url": "https://ryan.endacott.me/2026/03/30/developer-experience-ai-agents.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://ryan.endacott.me/2026/03/30/developer-experience-ai-agents.html Comments URL: https://news.ycombinator.com/item?id=47586324 Points: 1 # Comments: 0",
+    "published_at": "2026-03-31 12:26",
+    "tags": [],
+    "fetch_date": "2026-03-31",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Prefix caching for LLM inference optimization",
+    "url": "https://bentoml.com/llm/inference-optimization/prefix-caching",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://bentoml.com/llm/inference-optimization/prefix-caching Comments URL: https://news.ycombinator.com/item?id=47586004 Points: 1 # Comments: 0",
+    "published_at": "2026-03-31 11:51",
+    "tags": [],
+    "fetch_date": "2026-03-31",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "You still have to refactor, even with AI",
     "url": "https://www.adamhjk.com/blog/you-still-have-to-refactor-even-with-ai/",
     "source": "Hacker News AI",
@@ -306,6 +416,22 @@
     "published_at": "2026-03-30 11:52",
     "tags": [],
     "fetch_date": "2026-03-30",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Okta&#8217;s CEO is betting big on AI agent identity",
+    "url": "https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity",
+    "source": "The Verge AI",
+    "summary": "Today, I’m talking with Todd McKinnon, who is co-founder and CEO of Okta, a platform that lets big companies manage security and identity across all the apps and services their employees use. Think of it like login management — actually, that’s a great way to think about it because the way most people encounter Okta [&#8230;]",
+    "published_at": "2026-03-30 11:15",
+    "tags": [
+      "AI",
+      "Decoder",
+      "Podcasts",
+      "Security",
+      "Tech"
+    ],
+    "fetch_date": "2026-03-31",
     "fetch_label": "晚报"
   },
   {

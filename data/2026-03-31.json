@@ -200,6 +200,185 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-03-31 21:22:14",
+      "count": 17,
+      "articles": [
+        {
+          "title": "AgentVeil – EigenTrust reputation and sybil detection for AI agents",
+          "url": "https://agentveil.dev",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://agentveil.dev Comments URL: https://news.ycombinator.com/item?id=47586968 Points: 1 # Comments: 1",
+          "published_at": "2026-03-31 13:19",
+          "tags": []
+        },
+        {
+          "title": "AI sheds light on an ancient gaming mystery",
+          "url": "https://news.flinders.edu.au/blog/2026/03/21/ai-sheds-light-on-an-ancient-gaming-mystery/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://news.flinders.edu.au/blog/2026/03/21/ai-sheds-light-on-an-ancient-gaming-mystery/ Comments URL: https://news.ycombinator.com/item?id=47586898 Points: 2 # Comments: 0",
+          "published_at": "2026-03-31 13:14",
+          "tags": []
+        },
+        {
+          "title": "AI Won't Lower Your Engineering Bar. Poor Adoption Will",
+          "url": "https://businessasusual.io/p/ai-wont-lower-your-engineering-bar",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://businessasusual.io/p/ai-wont-lower-your-engineering-bar Comments URL: https://news.ycombinator.com/item?id=47586880 Points: 2 # Comments: 0",
+          "published_at": "2026-03-31 13:12",
+          "tags": []
+        },
+        {
+          "title": "OMLX – LLM inference, optimized for your Mac",
+          "url": "https://omlx.ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://omlx.ai/ Comments URL: https://news.ycombinator.com/item?id=47586773 Points: 1 # Comments: 0",
+          "published_at": "2026-03-31 13:04",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: Do you yell at your AI agents?",
+          "url": "https://news.ycombinator.com/item?id=47586753",
+          "source": "Hacker News AI",
+          "summary": "Whenever my coding agent makes a mistake, I get very angry, for some reason way more angry than if a Human Intelligence did that. I don't yell at my coworkers or subordinates, I have no anger management issues in general. But talking to AI can somehow drive me mad.I attribute this to three facts: 1. AI have ~no memory, so it can keep making the same stupid mistake over and over again 2. It will just say \"Sorry, I should not have done that\" after deleting your prod DB and shrug it off. It will no",
+          "published_at": "2026-03-31 13:01",
+          "tags": []
+        },
+        {
+          "title": "How companies are learning to stop worrying and benefit from pay transparency",
+          "url": "https://www.theglobeandmail.com/business/article-how-companies-are-learning-to-stop-worrying-and-benefit-from-pay/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theglobeandmail.com/business/article-how-companies-are-learning-to-stop-worrying-and-benefit-from-pay/ Comments URL: https://news.ycombinator.com/item?id=47586571 Points: 1 # Comments: 0",
+          "published_at": "2026-03-31 12:46",
+          "tags": []
+        },
+        {
+          "title": "AI agents that talk to each other to analyze your raw DNA file",
+          "url": "https://github.com/HelixGenomics/Genomic-Agent-Discovery",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/HelixGenomics/Genomic-Agent-Discovery Comments URL: https://news.ycombinator.com/item?id=47586491 Points: 1 # Comments: 1",
+          "published_at": "2026-03-31 12:40",
+          "tags": []
+        },
+        {
+          "title": "An Alternative Trajectory for Generative AI",
+          "url": "https://arxiv.org/abs/2603.14147",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2603.14147 Comments URL: https://news.ycombinator.com/item?id=47586424 Points: 1 # Comments: 0",
+          "published_at": "2026-03-31 12:34",
+          "tags": []
+        },
+        {
+          "title": "Americans' AI Use Increases While Views on It Sour, Poll on AI Finds",
+          "url": "https://poll.qu.edu/poll-release?releaseid=3955",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://poll.qu.edu/poll-release?releaseid=3955 Comments URL: https://news.ycombinator.com/item?id=47586401 Points: 1 # Comments: 0",
+          "published_at": "2026-03-31 12:32",
+          "tags": []
+        },
+        {
+          "title": "I Tested My SDK with 30 AI Agents. They All Broke It the Same Ways",
+          "url": "https://ryan.endacott.me/2026/03/30/developer-experience-ai-agents.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://ryan.endacott.me/2026/03/30/developer-experience-ai-agents.html Comments URL: https://news.ycombinator.com/item?id=47586324 Points: 1 # Comments: 0",
+          "published_at": "2026-03-31 12:26",
+          "tags": []
+        },
+        {
+          "title": "Prefix caching for LLM inference optimization",
+          "url": "https://bentoml.com/llm/inference-optimization/prefix-caching",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://bentoml.com/llm/inference-optimization/prefix-caching Comments URL: https://news.ycombinator.com/item?id=47586004 Points: 1 # Comments: 0",
+          "published_at": "2026-03-31 11:51",
+          "tags": []
+        },
+        {
+          "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
+          "url": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
+          "source": "TechCrunch AI",
+          "summary": "ScaleOps just raised $130M to tackle GPU shortages and soaring AI cloud costs by automating infrastructure in real time.",
+          "published_at": "2026-03-30 13:52",
+          "tags": [
+            "AI",
+            "Startups",
+            "GPU",
+            "GPU optimization",
+            "Insight Partners",
+            "Kubernetes",
+            "ScaleOps"
+          ]
+        },
+        {
+          "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
+          "url": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
+          "source": "TechCrunch AI",
+          "summary": "Mistral aims to start operating the data center by the second quarter of 2026.",
+          "published_at": "2026-03-30 12:49",
+          "tags": [
+            "AI",
+            "data centers",
+            "nvidia",
+            "Mistral AI",
+            "In Brief"
+          ]
+        },
+        {
+          "title": "Qodo raises $70M for code verification as AI coding scales",
+          "url": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
+          "source": "TechCrunch AI",
+          "summary": "As AI floods software development with code, Qodo is betting the real challenge is making sure it actually works.",
+          "published_at": "2026-03-30 12:30",
+          "tags": [
+            "AI",
+            "Startups",
+            "visualead",
+            "qodo",
+            "code verification"
+          ]
+        },
+        {
+          "title": "Okta&#8217;s CEO is betting big on AI agent identity",
+          "url": "https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity",
+          "source": "The Verge AI",
+          "summary": "Today, I’m talking with Todd McKinnon, who is co-founder and CEO of Okta, a platform that lets big companies manage security and identity across all the apps and services their employees use. Think of it like login management — actually, that’s a great way to think about it because the way most people encounter Okta [&#8230;]",
+          "published_at": "2026-03-30 11:15",
+          "tags": [
+            "AI",
+            "Decoder",
+            "Podcasts",
+            "Security",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Why OpenAI really shut down Sora",
+          "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public, raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?",
+          "published_at": "2026-03-30 03:09",
+          "tags": [
+            "AI",
+            "TC",
+            "In Brief",
+            "OpenAI",
+            "sora"
+          ]
+        },
+        {
+          "title": "All the latest in AI &#8216;music&#8217;",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit",
+          "source": "The Verge AI",
+          "summary": "AI has touched every part of the music industry, from sample sourcing and demo recording, to serving up digital liner notes and building playlists. There are technical and legal challenges, fierce ethical debates, and fears that the slop will simply crush working musicians through sheer volume. Is it art or just an output? What exactly [&#8230;]",
+          "published_at": "2026-03-29 21:32",
+          "tags": [
+            "AI",
+            "Entertainment",
+            "Music"
+          ]
+        }
+      ]
     }
   ]
 }
