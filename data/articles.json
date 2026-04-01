@@ -1,5 +1,196 @@
 [
   {
+    "title": "AI Agent Traps",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6372438",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6372438 Comments URL: https://news.ycombinator.com/item?id=47596111 Points: 1 # Comments: 0",
+    "published_at": "2026-04-01 02:37",
+    "tags": [],
+    "fetch_date": "2026-04-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Native Tool for Product Managers – Zeaota.ai",
+    "url": "https://zeaota.ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://zeaota.ai Comments URL: https://news.ycombinator.com/item?id=47595742 Points: 1 # Comments: 1",
+    "published_at": "2026-04-01 01:41",
+    "tags": [],
+    "fetch_date": "2026-04-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Early Observations from Interviews with Engineering Teams Adopting AI",
+    "url": "https://jonathannen.com/observations-from-interviews/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://jonathannen.com/observations-from-interviews/ Comments URL: https://news.ycombinator.com/item?id=47595563 Points: 3 # Comments: 1",
+    "published_at": "2026-04-01 01:10",
+    "tags": [],
+    "fetch_date": "2026-04-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: WMB-100K – Open benchmark for AI memory systems at 100K turns",
+    "url": "https://github.com/Irina1920/WMB-100K",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/Irina1920/WMB-100K Comments URL: https://news.ycombinator.com/item?id=47595494 Points: 1 # Comments: 0",
+    "published_at": "2026-04-01 00:59",
+    "tags": [],
+    "fetch_date": "2026-04-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "I built an AI talent platform that matches people by capability, not CVS",
+    "url": "https://talentblender.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://talentblender.com Comments URL: https://news.ycombinator.com/item?id=47595482 Points: 1 # Comments: 0",
+    "published_at": "2026-04-01 00:58",
+    "tags": [],
+    "fetch_date": "2026-04-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Nvidia AI Ecosystem Expands as Marvell Joins Forces Through NVLink Fusion",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-ai-ecosystem-expands-as-marvell-joins-forces-through-nvlink-fusion",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-ai-ecosystem-expands-as-marvell-joins-forces-through-nvlink-fusion Comments URL: https://news.ycombinator.com/item?id=47595467 Points: 2 # Comments: 0",
+    "published_at": "2026-04-01 00:56",
+    "tags": [],
+    "fetch_date": "2026-04-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The price of intelligence: what legal AI agents cost",
+    "url": "https://techlex.net/the-price-of-intelligence-what-legal-ai-agents-actually-cost/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://techlex.net/the-price-of-intelligence-what-legal-ai-agents-actually-cost/ Comments URL: https://news.ycombinator.com/item?id=47595384 Points: 1 # Comments: 0",
+    "published_at": "2026-04-01 00:44",
+    "tags": [],
+    "fetch_date": "2026-04-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Humans, Trust, and AI Job Replacement",
+    "url": "https://hooda.xyz/blog/humans-trust-and-ai-job-replacement/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://hooda.xyz/blog/humans-trust-and-ai-job-replacement/ Comments URL: https://news.ycombinator.com/item?id=47595108 Points: 3 # Comments: 0",
+    "published_at": "2026-04-01 00:04",
+    "tags": [],
+    "fetch_date": "2026-04-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Precision Proactivity: Measuring Cognitive Load in Real-World AI-Assisted Work",
+    "url": "https://arxiv.org/abs/2505.10742",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2505.10742 Comments URL: https://news.ycombinator.com/item?id=47595100 Points: 2 # Comments: 0",
+    "published_at": "2026-04-01 00:03",
+    "tags": [],
+    "fetch_date": "2026-04-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Mission Control for AI Agents – Cyberpunk dashboard, zero deps, one HTML file",
+    "url": "https://github.com/Audazia/solar-system-agentsIbuiltSolarSystemAgentsbecauseIwanted:1.AdashboardthatlookssogoodIactuallywanttokeepitopen2.WorkswithANYagentframework3.Zerosetupfriction—noDocker,nonpm,nodatabase",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/Audazia/solar-system-agentsIbuiltSolarSystemAgentsbecauseIwanted:1.AdashboardthatlookssogoodIactuallywanttokeepitopen2.WorkswithANYagentframework3.Zerosetupfriction—noDocker,nonpm,nodatabase Comments URL: https://news.ycombinator.com/item?id=47595045 Points: 1 # Comments: 1",
+    "published_at": "2026-03-31 23:55",
+    "tags": [],
+    "fetch_date": "2026-04-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "(Quasi)auto-canonization is the greatest short-term challenge for AI",
+    "url": "https://xcancel.com/AlexKontorovich/status/2038810855110742310#m",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://xcancel.com/AlexKontorovich/status/2038810855110742310#m Comments URL: https://news.ycombinator.com/item?id=47595039 Points: 1 # Comments: 0",
+    "published_at": "2026-03-31 23:54",
+    "tags": [],
+    "fetch_date": "2026-04-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Veo 3.1 Lite – Veo 3.1 Lite – Turn Any Idea into AI Videos Instantly",
+    "url": "https://veo31lite.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://veo31lite.com Comments URL: https://news.ycombinator.com/item?id=47594946 Points: 2 # Comments: 0",
+    "published_at": "2026-03-31 23:43",
+    "tags": [],
+    "fetch_date": "2026-04-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: AI-Native NAACP",
+    "url": "https://naacp.ai",
+    "source": "Hacker News AI",
+    "summary": "Testing my first platform thought this would be a good use case. Should be fairly self explanatory; if not, thats also explanatory. Comments URL: https://news.ycombinator.com/item?id=47594828 Points: 1 # Comments: 0",
+    "published_at": "2026-03-31 23:28",
+    "tags": [],
+    "fetch_date": "2026-04-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Strudel.ai – Figma for org design [video]",
+    "url": "https://www.youtube.com/watch?v=HOG4s1wOh_8",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=HOG4s1wOh_8 Comments URL: https://news.ycombinator.com/item?id=47594737 Points: 1 # Comments: 0",
+    "published_at": "2026-03-31 23:16",
+    "tags": [],
+    "fetch_date": "2026-04-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
+    "url": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
+    "source": "TechCrunch AI",
+    "summary": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
+    "published_at": "2026-03-31 20:01",
+    "tags": [
+      "AI",
+      "Startups",
+      "a16z crypto",
+      "Chris Dixon"
+    ],
+    "fetch_date": "2026-04-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The Galaxy S26’s photo app can sloppify your memories",
+    "url": "https://www.theverge.com/tech/904176/samsung-galaxy-s26-ai-photo-assist-slop",
+    "source": "The Verge AI",
+    "summary": "The Google Pixel 9 walked so that the Samsung Galaxy S26 could run. Google introduced AI editing tools to Photos slowly. It started with changes to the background - make the sky more blue, or remove crowds of tourists. Things got weird once the company added natural language requests and let you ask for basically [&#8230;]",
+    "published_at": "2026-03-31 14:15",
+    "tags": [
+      "AI",
+      "Hands-on",
+      "Mobile",
+      "Reviews",
+      "Samsung",
+      "Tech"
+    ],
+    "fetch_date": "2026-04-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
+    "url": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
+    "source": "TechCrunch AI",
+    "summary": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
+    "published_at": "2026-03-31 14:00",
+    "tags": [
+      "Startups",
+      "Venture",
+      "AI",
+      "Exclusive",
+      "runway",
+      "Generative AI",
+      "world models",
+      "AI video generation"
+    ],
+    "fetch_date": "2026-04-01",
+    "fetch_label": "早报"
+  },
+  {
     "title": "AgentVeil – EigenTrust reputation and sybil detection for AI agents",
     "url": "https://agentveil.dev",
     "source": "Hacker News AI",
@@ -48,6 +239,25 @@
     "tags": [],
     "fetch_date": "2026-03-31",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "With its new app store, Ring bets on AI to go beyond home security",
+    "url": "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/",
+    "source": "TechCrunch AI",
+    "summary": "Ring's app store will allow the company to target broader use cases beyond security, like elder care or business needs.",
+    "published_at": "2026-03-31 13:00",
+    "tags": [
+      "AI",
+      "Apps",
+      "Hardware",
+      "Amazon",
+      "app store",
+      "Exclusive",
+      "Ring",
+      "ring camera"
+    ],
+    "fetch_date": "2026-04-01",
+    "fetch_label": "早报"
   },
   {
     "title": "How companies are learning to stop worrying and benefit from pay transparency",
@@ -108,6 +318,21 @@
     "tags": [],
     "fetch_date": "2026-03-31",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Art schools are being torn apart by AI",
+    "url": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs",
+    "source": "The Verge AI",
+    "summary": "When my baby brother, a 3D modelling and animation student, talks to me about his projects and studies, the pride I usually feel is becoming increasingly tainted by a growing sense of dread. As a creative professional and former design student myself, I understand all too well how fierce the competition for postgraduate jobs will [&#8230;]",
+    "published_at": "2026-03-31 11:00",
+    "tags": [
+      "AI",
+      "Creators",
+      "Report",
+      "Tech"
+    ],
+    "fetch_date": "2026-04-01",
+    "fetch_label": "早报"
   },
   {
     "title": "You still have to refactor, even with AI",
