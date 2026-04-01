@@ -265,6 +265,225 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-04-01 21:25:27",
+      "count": 20,
+      "articles": [
+        {
+          "title": "I Tried to Get an AI Agent to Post a Blog Without Leaking My Password",
+          "url": "https://techstackups.com/guides/automate-wordpress-securely-with-ai-agent/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://techstackups.com/guides/automate-wordpress-securely-with-ai-agent/ Comments URL: https://news.ycombinator.com/item?id=47600544 Points: 1 # Comments: 0",
+          "published_at": "2026-04-01 13:24",
+          "tags": []
+        },
+        {
+          "title": "Why AI systems improve while drifting away from reality [pdf]",
+          "url": "https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/07_Operational_Briefs/01_Diagnostics_and_Workflows/reality-constrained-systems-ai-alignment-framework..pdf",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/07_Operational_Briefs/01_Diagnostics_and_Workflows/reality-constrained-systems-ai-alignment-framework..pdf Comments URL: https://news.ycombinator.com/item?id=47600407 Points: 1 # Comments: 1",
+          "published_at": "2026-04-01 13:13",
+          "tags": []
+        },
+        {
+          "title": "Review: Measuring AI Ability to Complete Long Software Tasks",
+          "url": "https://emptysqua.re/blog/review-measuring-ai-ability-to-complete-long-software-tasks/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://emptysqua.re/blog/review-measuring-ai-ability-to-complete-long-software-tasks/ Comments URL: https://news.ycombinator.com/item?id=47600392 Points: 1 # Comments: 0",
+          "published_at": "2026-04-01 13:12",
+          "tags": []
+        },
+        {
+          "title": "AI Policy",
+          "url": "https://dbushell.com/ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://dbushell.com/ai/ Comments URL: https://news.ycombinator.com/item?id=47600279 Points: 1 # Comments: 0",
+          "published_at": "2026-04-01 13:02",
+          "tags": []
+        },
+        {
+          "title": "CEO of largest public hospital says he's ready to replace radiologists with AI",
+          "url": "https://radiologybusiness.com/topics/artificial-intelligence/ceo-americas-largest-public-hospital-system-says-hes-ready-replace-radiologists-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://radiologybusiness.com/topics/artificial-intelligence/ceo-americas-largest-public-hospital-system-says-hes-ready-replace-radiologists-ai Comments URL: https://news.ycombinator.com/item?id=47600244 Points: 9 # Comments: 7",
+          "published_at": "2026-04-01 12:59",
+          "tags": []
+        },
+        {
+          "title": "I Built an AI Organisation",
+          "url": "https://www.dave-bailey.com/blog/ai-org",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.dave-bailey.com/blog/ai-org Comments URL: https://news.ycombinator.com/item?id=47600208 Points: 2 # Comments: 1",
+          "published_at": "2026-04-01 12:56",
+          "tags": []
+        },
+        {
+          "title": "The Open Source AI Engineering Platform for Agents, LLMs and Models",
+          "url": "https://github.com/mlflow/mlflow",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/mlflow/mlflow Comments URL: https://news.ycombinator.com/item?id=47600111 Points: 2 # Comments: 0",
+          "published_at": "2026-04-01 12:46",
+          "tags": []
+        },
+        {
+          "title": "VibePad – New AI Padding Model",
+          "url": "https://www.npmjs.com/package/vibepad",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.npmjs.com/package/vibepad Comments URL: https://news.ycombinator.com/item?id=47600023 Points: 1 # Comments: 0",
+          "published_at": "2026-04-01 12:37",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Ebash – AI-Powered Shell",
+          "url": "https://github.com/alexandershov/ebash",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/alexandershov/ebash Comments URL: https://news.ycombinator.com/item?id=47599915 Points: 3 # Comments: 0",
+          "published_at": "2026-04-01 12:25",
+          "tags": []
+        },
+        {
+          "title": "Adding a Custom CosmosDB Memory to Azure AI Agent",
+          "url": "https://furotmark.github.io/2026/03/31/Adding-A-Custom-CosmosDB-Memory-To-Azure-AI-Agent.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://furotmark.github.io/2026/03/31/Adding-A-Custom-CosmosDB-Memory-To-Azure-AI-Agent.html Comments URL: https://news.ycombinator.com/item?id=47599837 Points: 2 # Comments: 0",
+          "published_at": "2026-04-01 12:17",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Baton – A desktop app for developing with AI agents",
+          "url": "https://getbaton.dev/",
+          "source": "Hacker News AI",
+          "summary": "Hi,I built this because running multiple Claude Code agents across multiple IDE and terminal windows was getting messy. Like many, I went from working at one thing at the time, to multiple, and it was all changing quite fast.I needed one place to see all my agents and worktrees, seamlessly switch between them, monitor their status and once their done, review their changes. I also wanted to quickly spin up new agents in isolated worktrees whenever an idea came to mind.I've been building Baton fro",
+          "published_at": "2026-04-01 12:11",
+          "tags": []
+        },
+        {
+          "title": "The Subprime AI Crisis",
+          "url": "https://www.wheresyoured.at/subprimeai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wheresyoured.at/subprimeai/ Comments URL: https://news.ycombinator.com/item?id=47599657 Points: 2 # Comments: 2",
+          "published_at": "2026-04-01 11:58",
+          "tags": []
+        },
+        {
+          "title": "AI can push your Stream Deck buttons for you",
+          "url": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
+          "source": "The Verge AI",
+          "summary": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The Stream Deck 7.4 software update released today introduces Model Context Protocol (MCP) support, allowing AI assistants like Claude, ChatGPT, and Nvidia G-Assist to find and activate Stream [&#8230;]",
+          "published_at": "2026-04-01 08:38",
+          "tags": [
+            "AI",
+            "Gadgets",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Baidu’s robotaxis froze in traffic, creating chaos",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
+          "source": "The Verge AI",
+          "summary": "Numerous robotaxis operated by Chinese tech giant Baidu froze in a major city on Tuesday, reportedly trapping passengers inside, stranding them on highways, and causing at least one accident in snarled traffic. Police in Wuhan confirmed receiving multiple reports of Baidu's Apollo Go robotaxis stopping in the middle of streets and being unable to move. [&#8230;]",
+          "published_at": "2026-04-01 06:39",
+          "tags": [
+            "AI",
+            "Autonomous Cars",
+            "News",
+            "Transportation"
+          ]
+        },
+        {
+          "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+          "url": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+          "source": "TechCrunch AI",
+          "summary": "Slack just got a whole lot more useful.",
+          "published_at": "2026-03-31 22:46",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "TC",
+            "Salesforce",
+            "Marc Benioff",
+            "Slack",
+            "artificial intelligence",
+            "Slackbot"
+          ]
+        },
+        {
+          "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+          "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
+          "published_at": "2026-03-31 21:25",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Andreessen Horowitz",
+            "Softbank",
+            "OpenAI",
+            "openai fundraise"
+          ]
+        },
+        {
+          "title": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
+          "url": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
+          "source": "TechCrunch AI",
+          "summary": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
+          "published_at": "2026-03-31 20:01",
+          "tags": [
+            "AI",
+            "Startups",
+            "a16z crypto",
+            "Chris Dixon"
+          ]
+        },
+        {
+          "title": "The Galaxy S26’s photo app can sloppify your memories",
+          "url": "https://www.theverge.com/tech/904176/samsung-galaxy-s26-ai-photo-assist-slop",
+          "source": "The Verge AI",
+          "summary": "The Google Pixel 9 walked so that the Samsung Galaxy S26 could run. Google introduced AI editing tools to Photos slowly. It started with changes to the background - make the sky more blue, or remove crowds of tourists. Things got weird once the company added natural language requests and let you ask for basically [&#8230;]",
+          "published_at": "2026-03-31 14:15",
+          "tags": [
+            "AI",
+            "Hands-on",
+            "Mobile",
+            "Reviews",
+            "Samsung",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
+          "url": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
+          "source": "TechCrunch AI",
+          "summary": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
+          "published_at": "2026-03-31 14:00",
+          "tags": [
+            "Startups",
+            "Venture",
+            "AI",
+            "Exclusive",
+            "runway",
+            "Generative AI",
+            "world models",
+            "AI video generation"
+          ]
+        },
+        {
+          "title": "Art schools are being torn apart by AI",
+          "url": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs",
+          "source": "The Verge AI",
+          "summary": "When my baby brother, a 3D modelling and animation student, talks to me about his projects and studies, the pride I usually feel is becoming increasingly tainted by a growing sense of dread. As a creative professional and former design student myself, I understand all too well how fierce the competition for postgraduate jobs will [&#8230;]",
+          "published_at": "2026-03-31 11:00",
+          "tags": [
+            "AI",
+            "Creators",
+            "Report",
+            "Tech"
+          ]
+        }
+      ]
     }
   ]
 }
