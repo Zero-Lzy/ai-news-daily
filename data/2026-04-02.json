@@ -1,0 +1,222 @@
+{
+  "date": "2026-04-02",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-04-02 10:39:17",
+      "count": 20,
+      "articles": [
+        {
+          "title": "Refine: AI-Powered Peer Review",
+          "url": "https://www.refine.ink/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.refine.ink/ Comments URL: https://news.ycombinator.com/item?id=47609316 Points: 1 # Comments: 1",
+          "published_at": "2026-04-02 02:30",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Hybro – unify local and remote AI agents in a single agent network",
+          "url": "https://hybro.ai",
+          "source": "Hacker News AI",
+          "summary": "Hi HN — I’m building an interoperability layer for AI agents that lets local and remote agents run inside the same network and coordinate with each other.Here is a short demo: https://youtu.be/KVRYeNSJnNc• OpenClaw runs locally on-device • it connects to remote agents through Hybro Hub • both participate in the same workflow executionThe goal is to make agent-to-agent coordination work across environments (local machines, cloud agents, MCP servers, etc).Right now most agent systems operate insid",
+          "published_at": "2026-04-02 02:25",
+          "tags": []
+        },
+        {
+          "title": "Arcee-AI Trinity-Large-Thinking",
+          "url": "https://huggingface.co/arcee-ai/Trinity-Large-Thinking",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://huggingface.co/arcee-ai/Trinity-Large-Thinking Comments URL: https://news.ycombinator.com/item?id=47609285 Points: 1 # Comments: 0",
+          "published_at": "2026-04-02 02:25",
+          "tags": []
+        },
+        {
+          "title": "The Startup That Used AI and OpenClaw to Automate Its Own Developers",
+          "url": "https://www.wsj.com/tech/ai/meet-the-startup-that-used-ai-and-openclaw-to-automate-its-own-developers-9e733351",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wsj.com/tech/ai/meet-the-startup-that-used-ai-and-openclaw-to-automate-its-own-developers-9e733351 Comments URL: https://news.ycombinator.com/item?id=47609131 Points: 1 # Comments: 1",
+          "published_at": "2026-04-02 01:55",
+          "tags": []
+        },
+        {
+          "title": "Organizations Using AI Are Confusing Temporary Friction with Permanent Safety",
+          "url": "https://www.sentinelone.com/blog/the-implementation-blind-spot-why-organizations-are-confusing-temporary-friction-with-permanent-safety/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.sentinelone.com/blog/the-implementation-blind-spot-why-organizations-are-confusing-temporary-friction-with-permanent-safety/ Comments URL: https://news.ycombinator.com/item?id=47609025 Points: 1 # Comments: 0",
+          "published_at": "2026-04-02 01:38",
+          "tags": []
+        },
+        {
+          "title": "Mercor AI Breached via LiteLLM",
+          "url": "https://xcancel.com/AlvieriD/status/2038779690295378004#m",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://xcancel.com/AlvieriD/status/2038779690295378004#m Comments URL: https://news.ycombinator.com/item?id=47608958 Points: 1 # Comments: 0",
+          "published_at": "2026-04-02 01:28",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Sixteen year trends in AI doom on HN",
+          "url": "https://hn.ai-doom.cc/",
+          "source": "Hacker News AI",
+          "summary": "As an April Fools' project, I've made this.I (ironically, depending your penchant) used an AI judge to score every top HN post and its top comments all the way back to 2010 (over 300,000 individual judgments!), and created a nice interface with the historic charts.The scoring is off of how much disgruntled AI pessimism the post and top comments show. You can use that score to either only show (in Doom Only mode) or hide (in calm mode) all the doom static.This is part joke and partly to answer my",
+          "published_at": "2026-04-02 00:38",
+          "tags": []
+        },
+        {
+          "title": "ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover",
+          "url": "https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/ Comments URL: https://news.ycombinator.com/item?id=47608155 Points: 47 # Comments: 21",
+          "published_at": "2026-04-01 23:45",
+          "tags": []
+        },
+        {
+          "title": "Show HN: 65k AI voters predict UK local elections with 75% accuracy",
+          "url": "https://kronaxis.co.uk/blog/predicting-may-7-elections",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://kronaxis.co.uk/blog/predicting-may-7-elections Comments URL: https://news.ycombinator.com/item?id=47608080 Points: 3 # Comments: 0",
+          "published_at": "2026-04-01 23:37",
+          "tags": []
+        },
+        {
+          "title": "Obfuscation is not security – AI can deobfuscate any minified JavaScript code",
+          "url": "https://www.afterpack.dev/blog/claude-code-source-leak",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.afterpack.dev/blog/claude-code-source-leak Comments URL: https://news.ycombinator.com/item?id=47607947 Points: 33 # Comments: 31",
+          "published_at": "2026-04-01 23:25",
+          "tags": []
+        },
+        {
+          "title": "Googe AI Pro plan upgraded to 5TB storage, up from 2TB",
+          "url": "https://twitter.com/shimritby/status/2039461584771440782",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://twitter.com/shimritby/status/2039461584771440782 Comments URL: https://news.ycombinator.com/item?id=47607864 Points: 5 # Comments: 4",
+          "published_at": "2026-04-01 23:18",
+          "tags": []
+        },
+        {
+          "title": "Machine translations of Georges Perec's La Disparition (no \"e\" constraint)",
+          "url": "https://quinndupont.github.io/void/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://quinndupont.github.io/void/ Comments URL: https://news.ycombinator.com/item?id=47607782 Points: 1 # Comments: 0",
+          "published_at": "2026-04-01 23:10",
+          "tags": []
+        },
+        {
+          "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+          "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+          "source": "TechCrunch AI",
+          "summary": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
+          "published_at": "2026-04-01 16:00",
+          "tags": [
+            "AI",
+            "Hardware",
+            "Venture",
+            "Exclusive"
+          ]
+        },
+        {
+          "title": "Baidu’s robotaxis froze in traffic, creating chaos",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
+          "source": "The Verge AI",
+          "summary": "Numerous robotaxis operated by Chinese tech giant Baidu froze in a major city on Tuesday, reportedly trapping passengers inside, stranding them on highways, and causing at least one accident in snarled traffic. Police in Wuhan confirmed receiving multiple reports of Baidu's Apollo Go robotaxis stopping in the middle of streets and being unable to move. [&#8230;]",
+          "published_at": "2026-04-01 06:39",
+          "tags": [
+            "AI",
+            "Autonomous Cars",
+            "News",
+            "Transportation"
+          ]
+        },
+        {
+          "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+          "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
+          "published_at": "2026-03-31 21:25",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Andreessen Horowitz",
+            "Softbank",
+            "OpenAI",
+            "openai fundraise"
+          ]
+        },
+        {
+          "title": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
+          "url": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
+          "source": "TechCrunch AI",
+          "summary": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
+          "published_at": "2026-03-31 20:01",
+          "tags": [
+            "AI",
+            "Startups",
+            "a16z crypto",
+            "Chris Dixon"
+          ]
+        },
+        {
+          "title": "Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
+          "source": "The Verge AI",
+          "summary": "After Anthropic released Claude Code's 2.1.88 update, users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one person on X calling attention to the leak and posting a file containing the code. The leaked data reportedly contains more than 512,000 lines of code and provides a [&#8230;]",
+          "published_at": "2026-03-31 18:24",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "News",
+            "Security",
+            "Tech"
+          ]
+        },
+        {
+          "title": "You can now use ChatGPT with Apple’s CarPlay",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
+          "source": "The Verge AI",
+          "summary": "ChatGPT is now accessible from your CarPlay dashboard if you have iOS 26.4 or newer and the latest version of the ChatGPT app, 9to5Mac reports. Apple's recently launched iOS 26.4 update added support for \"voice-based conversational apps\" in CarPlay, opening the door to let you use AI chatbots with voice features through Apple's in-car platform. [&#8230;]",
+          "published_at": "2026-03-31 17:03",
+          "tags": [
+            "AI",
+            "Apple",
+            "News",
+            "OpenAI",
+            "Tech"
+          ]
+        },
+        {
+          "title": "The Galaxy S26’s photo app can sloppify your memories",
+          "url": "https://www.theverge.com/tech/904176/samsung-galaxy-s26-ai-photo-assist-slop",
+          "source": "The Verge AI",
+          "summary": "The Google Pixel 9 walked so that the Samsung Galaxy S26 could run. Google introduced AI editing tools to Photos slowly. It started with changes to the background - make the sky more blue, or remove crowds of tourists. Things got weird once the company added natural language requests and let you ask for basically [&#8230;]",
+          "published_at": "2026-03-31 14:15",
+          "tags": [
+            "AI",
+            "Hands-on",
+            "Mobile",
+            "Reviews",
+            "Samsung",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
+          "url": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
+          "source": "TechCrunch AI",
+          "summary": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
+          "published_at": "2026-03-31 14:00",
+          "tags": [
+            "Startups",
+            "Venture",
+            "AI",
+            "Exclusive",
+            "runway",
+            "Generative AI",
+            "world models",
+            "AI video generation"
+          ]
+        }
+      ]
+    }
+  ]
+}
