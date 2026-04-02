@@ -217,6 +217,124 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-04-02 21:17:13",
+      "count": 13,
+      "articles": [
+        {
+          "title": "BastionLLM: Continuous security checks for LLM endpoints",
+          "url": "https://news.ycombinator.com/item?id=47613881",
+          "source": "Hacker News AI",
+          "summary": "BastionLLM lets you register your LLM endpoint and continuously test it for prompt injection, jailbreaks, and system‑prompt leakage. It starts with a safe connectivity check, verifies you own the endpoint, then runs adversarial scans and shows reports.If you’ve built LLM APIs (e.g. RAG apps) and want to make sure they behave as they are supposed to, this might be useful. Feedback welcome (support at bastionllm dot com) Comments URL: https://news.ycombinator.com/item?id=47613881 Points: 1 # Comme",
+          "published_at": "2026-04-02 13:00",
+          "tags": []
+        },
+        {
+          "title": "AI knowledge starts with a person who owns it",
+          "url": "https://blog.obris.ai/posts/ai-answers-need-ownership",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blog.obris.ai/posts/ai-answers-need-ownership Comments URL: https://news.ycombinator.com/item?id=47613822 Points: 1 # Comments: 0",
+          "published_at": "2026-04-02 12:55",
+          "tags": []
+        },
+        {
+          "title": "Simp: HTTP-Style Protocol for AI Agent Communication",
+          "url": "https://github.com/therealcryptrillionaire456/simp",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/therealcryptrillionaire456/simp Comments URL: https://news.ycombinator.com/item?id=47613815 Points: 1 # Comments: 0",
+          "published_at": "2026-04-02 12:55",
+          "tags": []
+        },
+        {
+          "title": "MarCognity-AI v2.7.0 – factual grounding for LLM epistemic verification",
+          "url": "https://github.com/elly99-AI/MarCognity-AI",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/elly99-AI/MarCognity-AI Comments URL: https://news.ycombinator.com/item?id=47613781 Points: 1 # Comments: 0",
+          "published_at": "2026-04-02 12:51",
+          "tags": []
+        },
+        {
+          "title": "Maki the efficient AI coder – Rust TUI (saves 40% tokens and low RAM)",
+          "url": "https://maki.sh",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://maki.sh Comments URL: https://news.ycombinator.com/item?id=47613768 Points: 1 # Comments: 1",
+          "published_at": "2026-04-02 12:50",
+          "tags": []
+        },
+        {
+          "title": "Visa is bringing AI to credit card charge disputes",
+          "url": "https://qz.com/visa-ai-tools-credit-card-dispute-management",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://qz.com/visa-ai-tools-credit-card-dispute-management Comments URL: https://news.ycombinator.com/item?id=47613688 Points: 2 # Comments: 1",
+          "published_at": "2026-04-02 12:41",
+          "tags": []
+        },
+        {
+          "title": "Google banned our mobile AI agent app for doing what Gemini should do,but doesnt",
+          "url": "https://news.ycombinator.com/item?id=47613614",
+          "source": "Hacker News AI",
+          "summary": "Hi HN,My brother and I built Sova AI (https://ayconic.io/sova), an Android agent that actually controls your installed apps.We were incredibly frustrated with the current state of mobile AI. Built-in assistants like Gemini are deeply integrated into the OS, yet if you ask them to \"Order an Uber to the airport\" or \"Send a Telegram message to friends group I'm late\", they mostly just give you web search results or a button to open the app yourself. They don't do the work. (The Perplexity \"assistan",
+          "published_at": "2026-04-02 12:35",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Skales – I built a desktop AI agent a 6-year-old can use",
+          "url": "https://github.com/skalesapp/skales",
+          "source": "Hacker News AI",
+          "summary": "Solo dev from Vienna. Skales is a local-first AI desktop agent for Windows, macOS, and Linux.v9.0.0 just shipped with Agent Skills (SKILL.md import from Claude Code, Codex, Copilot), autonomous coding (Codework), multi-agent teams (Organization), Computer Use, and 15+ providers including Ollama offline.No Docker, no terminal. Download, install, done. My 6-year-old built a Snake game with it.BSL-1.1, free for personal use.DevKit: https://github.com/skalesapp/devkit Comments URL: https://news.ycom",
+          "published_at": "2026-04-02 12:26",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Zabbix MCP Server – 225 tools to let AI agents manage Zabbix monitoring",
+          "url": "https://github.com/initMAX/zabbix-mcp-server",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/initMAX/zabbix-mcp-server Comments URL: https://news.ycombinator.com/item?id=47613290 Points: 2 # Comments: 0",
+          "published_at": "2026-04-02 12:03",
+          "tags": []
+        },
+        {
+          "title": "Do Not Leave Valuables in Env (or your AI Assistant may borrow them)",
+          "url": "https://thomas.skowron.eu/blog/do-not-leave-valuables-in-env/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://thomas.skowron.eu/blog/do-not-leave-valuables-in-env/ Comments URL: https://news.ycombinator.com/item?id=47613236 Points: 1 # Comments: 0",
+          "published_at": "2026-04-02 11:58",
+          "tags": []
+        },
+        {
+          "title": "AI search is atomizing our information, warns government digital designer",
+          "url": "https://www.theregister.com/2026/04/02/ai_search_is_atomising_content/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theregister.com/2026/04/02/ai_search_is_atomising_content/ Comments URL: https://news.ycombinator.com/item?id=47613211 Points: 1 # Comments: 0",
+          "published_at": "2026-04-02 11:56",
+          "tags": []
+        },
+        {
+          "title": "AI Slop Detector",
+          "url": "https://github.com/QCK-Framework/QCK_SMART_Fractal-Data-Pruning",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/QCK-Framework/QCK_SMART_Fractal-Data-Pruning Comments URL: https://news.ycombinator.com/item?id=47612917 Points: 1 # Comments: 0",
+          "published_at": "2026-04-02 11:22",
+          "tags": []
+        },
+        {
+          "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+          "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
+          "published_at": "2026-03-31 21:25",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Andreessen Horowitz",
+            "Softbank",
+            "OpenAI",
+            "openai fundraise"
+          ]
+        }
+      ]
     }
   ]
 }
