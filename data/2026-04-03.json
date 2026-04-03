@@ -1,0 +1,172 @@
+{
+  "date": "2026-04-03",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-04-03 10:41:30",
+      "count": 17,
+      "articles": [
+        {
+          "title": "Jobs Being Created by AI",
+          "url": "https://www.wsj.com/tech/ai/wanted-head-of-human-ai-solutions-the-new-jobs-being-created-by-ai-870c6ed5",
+          "source": "Hacker News AI",
+          "summary": "https://archive.is/m2jRN Comments URL: https://news.ycombinator.com/item?id=47622591 Points: 2 # Comments: 0",
+          "published_at": "2026-04-03 02:25",
+          "tags": []
+        },
+        {
+          "title": "Run a Local LLM, and discover why LLMs are unpredictable",
+          "url": "https://newsletter.bphogan.com/archive/issue-51-run-a-local-llm-and-discover-why-llms/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://newsletter.bphogan.com/archive/issue-51-run-a-local-llm-and-discover-why-llms/ Comments URL: https://news.ycombinator.com/item?id=47622496 Points: 1 # Comments: 0",
+          "published_at": "2026-04-03 02:06",
+          "tags": []
+        },
+        {
+          "title": "Pinterest and Shopmy for AI-powered fashion shopping",
+          "url": "https://faishion.ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://faishion.ai Comments URL: https://news.ycombinator.com/item?id=47622383 Points: 1 # Comments: 1",
+          "published_at": "2026-04-03 01:42",
+          "tags": []
+        },
+        {
+          "title": "I simulated a 19th-century utopian commune with AI agents",
+          "url": "https://github.com/menggg22/utopia",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/menggg22/utopia Comments URL: https://news.ycombinator.com/item?id=47622273 Points: 3 # Comments: 2",
+          "published_at": "2026-04-03 01:20",
+          "tags": []
+        },
+        {
+          "title": "Show HN: LM Gate – Auth and access-control gateway for self-hosted LLM back ends",
+          "url": "https://github.com/hkdb/lmgate",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/hkdb/lmgate Comments URL: https://news.ycombinator.com/item?id=47622246 Points: 1 # Comments: 0",
+          "published_at": "2026-04-03 01:12",
+          "tags": []
+        },
+        {
+          "title": "Open-source runtime security toolkit for autonomous AI agents covering OWASP Top",
+          "url": "https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=47622136 Points: 1 # Comments: 0",
+          "published_at": "2026-04-03 00:54",
+          "tags": []
+        },
+        {
+          "title": "AI benchmarks are broken. Here's what we need instead",
+          "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/ Comments URL: https://news.ycombinator.com/item?id=47621673 Points: 3 # Comments: 1",
+          "published_at": "2026-04-02 23:45",
+          "tags": []
+        },
+        {
+          "title": "AI Harness on Google Trends",
+          "url": "https://trends.google.com/trends/explore?date=today%205-y&q=Ai%20harness&hl=en-GB",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://trends.google.com/trends/explore?date=today%205-y&amp;q=Ai%20harness&amp;hl=en-GB Comments URL: https://news.ycombinator.com/item?id=47621649 Points: 1 # Comments: 0",
+          "published_at": "2026-04-02 23:42",
+          "tags": []
+        },
+        {
+          "title": "Lisa Core – semantic compression for AI conversations (80:1 ratio, 100% local)",
+          "url": "https://chromewebstore.google.com/detail/lisa-core-ai-memory-libra/dmgnookddagimdcggdlbjmaobmoofhbj",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://chromewebstore.google.com/detail/lisa-core-ai-memory-libra/dmgnookddagimdcggdlbjmaobmoofhbj Comments URL: https://news.ycombinator.com/item?id=47621586 Points: 3 # Comments: 1",
+          "published_at": "2026-04-02 23:33",
+          "tags": []
+        },
+        {
+          "title": "AI for Software Engineering",
+          "url": "https://mattamonroe.substack.com/p/ai-for-software-engineering",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://mattamonroe.substack.com/p/ai-for-software-engineering Comments URL: https://news.ycombinator.com/item?id=47621513 Points: 1 # Comments: 0",
+          "published_at": "2026-04-02 23:25",
+          "tags": []
+        },
+        {
+          "title": "Genesis Agent – A self-modifying AI agent that runs local (Electron, Ollama)",
+          "url": "https://github.com/Garrus800-stack/genesis-agent",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/Garrus800-stack/genesis-agent Comments URL: https://news.ycombinator.com/item?id=47621307 Points: 3 # Comments: 0",
+          "published_at": "2026-04-02 23:00",
+          "tags": []
+        },
+        {
+          "title": "Show HN: OpenVole – VoleNet Distributed AI Agent Networking",
+          "url": "https://news.ycombinator.com/item?id=47620865",
+          "source": "Hacker News AI",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=47620865 Points: 1 # Comments: 1",
+          "published_at": "2026-04-02 22:13",
+          "tags": []
+        },
+        {
+          "title": "BlackSwanX,174 AI agents predict the future by fighting each other,run on Ollama",
+          "url": "https://github.com/Kalki-M/BlackSwanX",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/Kalki-M/BlackSwanX Comments URL: https://news.ycombinator.com/item?id=47620717 Points: 1 # Comments: 0",
+          "published_at": "2026-04-02 21:59",
+          "tags": []
+        },
+        {
+          "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
+          "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+          "source": "TechCrunch AI",
+          "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
+          "published_at": "2026-04-02 19:21",
+          "tags": [
+            "AI",
+            "Media & Entertainment",
+            "Chris Lehane",
+            "OpenAI",
+            "sam altman",
+            "tbpn"
+          ]
+        },
+        {
+          "title": "Microsoft takes on AI rivals with three new foundational models",
+          "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+          "source": "TechCrunch AI",
+          "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
+          "published_at": "2026-04-02 16:48",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "artificial intelligence",
+            "Microsoft",
+            "Mustafa Suleyman",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Microsoft’s new ‘superintelligence’ game plan is all about business",
+          "url": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model",
+          "source": "The Verge AI",
+          "summary": "Mustafa Suleyman has been preparing for his new job description for a long time. Suleyman is Microsoft's inaugural CEO of AI, but after the company underwent a large-scale restructuring in mid-March, he's handed off some duties and shifted focus to chasing superintelligence. Though the news was only made public last month, he tells The Verge, [&#8230;]",
+          "published_at": "2026-04-02 10:00",
+          "tags": [
+            "AI",
+            "Microsoft",
+            "Report",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+          "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+          "source": "TechCrunch AI",
+          "summary": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
+          "published_at": "2026-04-01 16:00",
+          "tags": [
+            "AI",
+            "Hardware",
+            "Venture",
+            "Exclusive"
+          ]
+        }
+      ]
+    }
+  ]
+}
