@@ -167,6 +167,178 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-04-03 21:07:14",
+      "count": 18,
+      "articles": [
+        {
+          "title": "The AI that learned when to fire itself",
+          "url": "https://zenodo.org/records/19401816",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://zenodo.org/records/19401816 Comments URL: https://news.ycombinator.com/item?id=47626186 Points: 1 # Comments: 0",
+          "published_at": "2026-04-03 13:01",
+          "tags": []
+        },
+        {
+          "title": "Show HN: How do you manage multiple AI agents? We built a tmux-based in Rust",
+          "url": "https://lukan.ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://lukan.ai Comments URL: https://news.ycombinator.com/item?id=47625862 Points: 2 # Comments: 0",
+          "published_at": "2026-04-03 12:22",
+          "tags": []
+        },
+        {
+          "title": "An AI website that tells you what to wear at 0 cost somehow",
+          "url": "https://what2wear-two.vercel.app",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://what2wear-two.vercel.app Comments URL: https://news.ycombinator.com/item?id=47625808 Points: 2 # Comments: 1",
+          "published_at": "2026-04-03 12:15",
+          "tags": []
+        },
+        {
+          "title": "AI Image Upscaler – Enhance Blurry Images Online",
+          "url": "https://imgupscaleai.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://imgupscaleai.com/ Comments URL: https://news.ycombinator.com/item?id=47625715 Points: 2 # Comments: 0",
+          "published_at": "2026-04-03 12:03",
+          "tags": []
+        },
+        {
+          "title": "LLM Drift in Long Sessions: Claude 60% vs. 85% Integrity After 25 Turns",
+          "url": "https://calmkeep.ai/codetestreport",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://calmkeep.ai/codetestreport Comments URL: https://news.ycombinator.com/item?id=47625647 Points: 1 # Comments: 0",
+          "published_at": "2026-04-03 11:54",
+          "tags": []
+        },
+        {
+          "title": "Killing Slack was the only way to make AI accurate",
+          "url": "https://promptql.io/blog/killing-slack-was-the-only-way-to-make-ai-accurate",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://promptql.io/blog/killing-slack-was-the-only-way-to-make-ai-accurate Comments URL: https://news.ycombinator.com/item?id=47625613 Points: 2 # Comments: 0",
+          "published_at": "2026-04-03 11:49",
+          "tags": []
+        },
+        {
+          "title": "AI Cannot Replace Glue Work",
+          "url": "https://testpappy.wordpress.com/2026/04/03/ai-cannot-replace-glue-work/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://testpappy.wordpress.com/2026/04/03/ai-cannot-replace-glue-work/ Comments URL: https://news.ycombinator.com/item?id=47625568 Points: 3 # Comments: 0",
+          "published_at": "2026-04-03 11:44",
+          "tags": []
+        },
+        {
+          "title": "What If Everyone Is Wrong About AI Adoption in the Workplace",
+          "url": "https://www.forbes.com/sites/ryananderson/2026/04/01/what-if-everyone-is-wrong-about-ai-adoption-in-the-workplace/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.forbes.com/sites/ryananderson/2026/04/01/what-if-everyone-is-wrong-about-ai-adoption-in-the-workplace/ Comments URL: https://news.ycombinator.com/item?id=47625531 Points: 2 # Comments: 0",
+          "published_at": "2026-04-03 11:40",
+          "tags": []
+        },
+        {
+          "title": "CIRK: An execution model for AI-native development (replacing story points) ``",
+          "url": "https://cirk.dev/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://cirk.dev/ Comments URL: https://news.ycombinator.com/item?id=47625431 Points: 1 # Comments: 0",
+          "published_at": "2026-04-03 11:26",
+          "tags": []
+        },
+        {
+          "title": "How to teach programming in the age of AI",
+          "url": "https://www.thetransmitter.org/how-to-teach-this-paper/how-to-teach-programming-in-the-age-of-ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.thetransmitter.org/how-to-teach-this-paper/how-to-teach-programming-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=47625357 Points: 1 # Comments: 1",
+          "published_at": "2026-04-03 11:16",
+          "tags": []
+        },
+        {
+          "title": "China's AI Education Experiment",
+          "url": "https://www.chinatalk.media/p/chinas-ai-education-experiment",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.chinatalk.media/p/chinas-ai-education-experiment Comments URL: https://news.ycombinator.com/item?id=47625213 Points: 1 # Comments: 0",
+          "published_at": "2026-04-03 10:54",
+          "tags": []
+        },
+        {
+          "title": "Europe's AI sovereignty just became a security emergency",
+          "url": "https://www.euractiv.com/opinion/europes-ai-sovereignty-just-became-a-security-emergency/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.euractiv.com/opinion/europes-ai-sovereignty-just-became-a-security-emergency/ Comments URL: https://news.ycombinator.com/item?id=47625126 Points: 2 # Comments: 0",
+          "published_at": "2026-04-03 10:42",
+          "tags": []
+        },
+        {
+          "title": "Mercor, a $10B AI startup confirms major data breach",
+          "url": "https://fortune.com/2026/04/02/mercor-ai-startup-security-incident-10-billion/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://fortune.com/2026/04/02/mercor-ai-startup-security-incident-10-billion/ Comments URL: https://news.ycombinator.com/item?id=47624961 Points: 5 # Comments: 1",
+          "published_at": "2026-04-03 10:17",
+          "tags": []
+        },
+        {
+          "title": "OpenUMA – bring Apple-style unified memory to x86 AI inference (Rust, Linux)",
+          "url": "https://github.com/hamtun24/openuma",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/hamtun24/openuma Comments URL: https://news.ycombinator.com/item?id=47624865 Points: 2 # Comments: 0",
+          "published_at": "2026-04-03 09:59",
+          "tags": []
+        },
+        {
+          "title": "Microsoft takes on AI rivals with three new foundational models",
+          "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+          "source": "TechCrunch AI",
+          "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
+          "published_at": "2026-04-02 16:48",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "artificial intelligence",
+            "Microsoft",
+            "Mustafa Suleyman",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "OpenAI just bought TBPN",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn",
+          "source": "The Verge AI",
+          "summary": "OpenAI has purchased TBPN, an online talk show that often interviews AI executives and other tech leaders. The show goes live every weekday at 2PM PT, often for a three-hour duration, counting OpenAI CEO Sam Altman, as well as executives from Meta, Microsoft, Palantir, and Andreessen Horowitz, among its past guests, and Bloomberg, CNBC, and [&#8230;]",
+          "published_at": "2026-04-02 13:40",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "It’s not easy to get depression-detecting AI through the FDA",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down",
+          "source": "The Verge AI",
+          "summary": "For the past seven years, the California-based startup Kintsugi has been developing AI designed to detect signs of depression and anxiety from a person's speech. But after failing to secure FDA clearance in time, the company is shutting down and releasing most of its technology as open-source. Some elements may even find a second life [&#8230;]",
+          "published_at": "2026-04-02 11:33",
+          "tags": [
+            "AI",
+            "Health",
+            "Report",
+            "Science"
+          ]
+        },
+        {
+          "title": "Microsoft’s new ‘superintelligence’ game plan is all about business",
+          "url": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model",
+          "source": "The Verge AI",
+          "summary": "Mustafa Suleyman has been preparing for his new job description for a long time. Suleyman is Microsoft's inaugural CEO of AI, but after the company underwent a large-scale restructuring in mid-March, he's handed off some duties and shifted focus to chasing superintelligence. Though the news was only made public last month, he tells The Verge, [&#8230;]",
+          "published_at": "2026-04-02 10:00",
+          "tags": [
+            "AI",
+            "Microsoft",
+            "Report",
+            "Tech"
+          ]
+        }
+      ]
     }
   ]
 }
