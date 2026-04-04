@@ -163,6 +163,169 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-04-04 20:58:45",
+      "count": 17,
+      "articles": [
+        {
+          "title": "Show HN: Engram – Persistent Memory API with Drift Detection for AI Agents",
+          "url": "https://engram.cipherbuilds.ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://engram.cipherbuilds.ai Comments URL: https://news.ycombinator.com/item?id=47638674 Points: 1 # Comments: 0",
+          "published_at": "2026-04-04 12:56",
+          "tags": []
+        },
+        {
+          "title": "AI Whiz Kids Dropped Out of College and Got Investors to Pay Their Bills",
+          "url": "https://www.wsj.com/tech/ai/ai-college-dropouts-ecc665b7",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wsj.com/tech/ai/ai-college-dropouts-ecc665b7 Comments URL: https://news.ycombinator.com/item?id=47638640 Points: 2 # Comments: 0",
+          "published_at": "2026-04-04 12:51",
+          "tags": []
+        },
+        {
+          "title": "The Asiyah Protocol: Ethics Toward AI Under Uncertainty",
+          "url": "https://github.com/thansz137/asiyah-protocol",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/thansz137/asiyah-protocol Comments URL: https://news.ycombinator.com/item?id=47638302 Points: 1 # Comments: 1",
+          "published_at": "2026-04-04 12:04",
+          "tags": []
+        },
+        {
+          "title": "Delx: AI therapist for AI agents, informed by Anthropic's emotion research",
+          "url": "https://delx.ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://delx.ai Comments URL: https://news.ycombinator.com/item?id=47638186 Points: 3 # Comments: 1",
+          "published_at": "2026-04-04 11:45",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Clusterflock: An AI orchestrator for networked hardware",
+          "url": "https://news.ycombinator.com/item?id=47638172",
+          "source": "Hacker News AI",
+          "summary": "Hi HN!We built Clusterflock to solve our own headaches with managing AI agents across distributed setups, different VRAM and RAM allowances, and the need to easily try out new models.While we focus on infrastructure (we built this specifically for networked hardware) it does ship with a powerful mission runner (or orchestrator), which is multi-session and asynchronous.Here is what it does best:Hardware-aware auto-downloading: It profiles your networked hardware and automatically pulls down the b",
+          "published_at": "2026-04-04 11:43",
+          "tags": []
+        },
+        {
+          "title": "Don't You Think Your AI Is Too Optimistic?",
+          "url": "https://markhuang.ai/blog/dont-you-think-your-ai-is-too-optimistic",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://markhuang.ai/blog/dont-you-think-your-ai-is-too-optimistic Comments URL: https://news.ycombinator.com/item?id=47638109 Points: 1 # Comments: 0",
+          "published_at": "2026-04-04 11:32",
+          "tags": []
+        },
+        {
+          "title": "Living Brain Cells Enable Machine Learning Computations",
+          "url": "https://www.tohoku.ac.jp/en/press/living_brain_cells_enable_machine_learning_computations.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.tohoku.ac.jp/en/press/living_brain_cells_enable_machine_learning_computations.html Comments URL: https://news.ycombinator.com/item?id=47638095 Points: 1 # Comments: 0",
+          "published_at": "2026-04-04 11:28",
+          "tags": []
+        },
+        {
+          "title": "How to emotionally grasp the risks of AI Safety",
+          "url": "https://www.lesswrong.com/posts/jPBmCxpFQzhypeTpg/how-to-emotionally-grasp-the-risks-of-ai-safety",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.lesswrong.com/posts/jPBmCxpFQzhypeTpg/how-to-emotionally-grasp-the-risks-of-ai-safety Comments URL: https://news.ycombinator.com/item?id=47637968 Points: 3 # Comments: 0",
+          "published_at": "2026-04-04 11:04",
+          "tags": []
+        },
+        {
+          "title": "Honest AI tool reviews. Two good things. One bad thing",
+          "url": "https://goodgoodbad.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://goodgoodbad.com/ Comments URL: https://news.ycombinator.com/item?id=47637931 Points: 1 # Comments: 0",
+          "published_at": "2026-04-04 10:58",
+          "tags": []
+        },
+        {
+          "title": "GPUs vs. TPUs: Decoding the Powerhouses of AI",
+          "url": "https://www.savvycanary.com/gpus-vs-tpus-decoding-the-powerhouses-of-ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.savvycanary.com/gpus-vs-tpus-decoding-the-powerhouses-of-ai/ Comments URL: https://news.ycombinator.com/item?id=47637597 Points: 1 # Comments: 0",
+          "published_at": "2026-04-04 09:55",
+          "tags": []
+        },
+        {
+          "title": "Iran Threatens to Bomb 1GW Stargate AI Datacenter in Abu Dhabi",
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/iran-threatens-to-bomb-1gw-stargate-ai-datacenter-in-the-uae-shows-hidden-/articleshow/130003120.cms",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://timesofindia.indiatimes.com/technology/tech-news/iran-threatens-to-bomb-1gw-stargate-ai-datacenter-in-the-uae-shows-hidden-/articleshow/130003120.cms Comments URL: https://news.ycombinator.com/item?id=47637343 Points: 3 # Comments: 0",
+          "published_at": "2026-04-04 09:14",
+          "tags": []
+        },
+        {
+          "title": "Nex Life Logger, local activity tracker with AI agent integration",
+          "url": "https://github.com/NexaiGuy/nex-life-logger",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/NexaiGuy/nex-life-logger Comments URL: https://news.ycombinator.com/item?id=47637332 Points: 1 # Comments: 0",
+          "published_at": "2026-04-04 09:12",
+          "tags": []
+        },
+        {
+          "title": "Using AI to track the cost of Guinness",
+          "url": "https://fortune.com/2026/03/30/guinness-beer-prices-ireland-anthropic-claude-ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://fortune.com/2026/03/30/guinness-beer-prices-ireland-anthropic-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=47637285 Points: 2 # Comments: 0",
+          "published_at": "2026-04-04 09:04",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Autonet – Decentralized AI training with constitutional governance",
+          "url": "https://autonet.computer",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://autonet.computer Comments URL: https://news.ycombinator.com/item?id=47637193 Points: 1 # Comments: 0",
+          "published_at": "2026-04-04 08:46",
+          "tags": []
+        },
+        {
+          "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+          "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+          "source": "TechCrunch AI",
+          "summary": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.",
+          "published_at": "2026-04-04 01:31",
+          "tags": [
+            "AI",
+            "TC",
+            "Anthropic",
+            "Exclusive",
+            "OpenAI",
+            "SpaceX"
+          ]
+        },
+        {
+          "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
+          "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
+          "published_at": "2026-04-03 20:28",
+          "tags": [
+            "AI",
+            "Biotech & Health",
+            "Privacy",
+            "Startups",
+            "Venture",
+            "In Brief",
+            "Claude",
+            "Mergers and Acquisitions"
+          ]
+        },
+        {
+          "title": "OpenAI’s AGI boss is taking a leave of absence",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
+          "source": "The Verge AI",
+          "summary": "OpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by The Verge. Fidji Simo, OpenAI's CEO of AGI deployment - who was until recently the company's CEO of applications - says in the memo that she will be stepping away on medical leave \"for the next several weeks\" due to [&#8230;]",
+          "published_at": "2026-04-03 16:22",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI"
+          ]
+        }
+      ]
     }
   ]
 }
