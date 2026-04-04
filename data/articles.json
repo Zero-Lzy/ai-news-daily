@@ -1,5 +1,166 @@
 [
   {
+    "title": "Show HN: Travel Hacking Toolkit – Points search and trip planning with AI",
+    "url": "https://github.com/borski/travel-hacking-toolkit",
+    "source": "Hacker News AI",
+    "summary": "I use points and miles for most of my travel. Every booking comes down to the same decision: use points or pay cash? To answer that, you need award availability across multiple programs, cash prices, your current balances, transfer partner ratios, and the math to compare them. I got tired of doing it manually across a dozen tabs.This toolkit teaches Claude Code and OpenCode how to do it. 7 skills (markdown files with API docs and curl examples) and 6 MCP servers (real-time tools the AI calls dir",
+    "published_at": "2026-04-04 02:26",
+    "tags": [],
+    "fetch_date": "2026-04-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Pre-1900 LLM tries to solve Relativity",
+    "url": "https://twitter.com/hla_michael/status/2039768483018489994",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/hla_michael/status/2039768483018489994 Comments URL: https://news.ycombinator.com/item?id=47634817 Points: 2 # Comments: 0",
+    "published_at": "2026-04-04 01:54",
+    "tags": [],
+    "fetch_date": "2026-04-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask HN: What's the most repetitive thing you do with AI that you wish it just re",
+    "url": "https://news.ycombinator.com/item?id=47634756",
+    "source": "Hacker News AI",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=47634756 Points: 1 # Comments: 1",
+    "published_at": "2026-04-04 01:44",
+    "tags": [],
+    "fetch_date": "2026-04-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Chinese chip firms hit record high revenue driven by the AI boom and U.S. curbs",
+    "url": "https://www.cnbc.com/2026/04/03/chinese-chip-firms-record-revenue-ai-boom-us-curbs.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.cnbc.com/2026/04/03/chinese-chip-firms-record-revenue-ai-boom-us-curbs.html Comments URL: https://news.ycombinator.com/item?id=47634387 Points: 3 # Comments: 0",
+    "published_at": "2026-04-04 00:54",
+    "tags": [],
+    "fetch_date": "2026-04-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The First Pre-Send SImulation AI Swarm Visualization",
+    "url": "https://murlyn.ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://murlyn.ai/ Comments URL: https://news.ycombinator.com/item?id=47634202 Points: 3 # Comments: 1",
+    "published_at": "2026-04-04 00:30",
+    "tags": [],
+    "fetch_date": "2026-04-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Caltech Researchers Claim Compression of High-Fidelity AI Models",
+    "url": "https://www.wsj.com/cio-journal/caltech-researchers-claim-radical-compression-of-high-fidelity-ai-models-e66f31c9",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wsj.com/cio-journal/caltech-researchers-claim-radical-compression-of-high-fidelity-ai-models-e66f31c9 Comments URL: https://news.ycombinator.com/item?id=47634128 Points: 5 # Comments: 0",
+    "published_at": "2026-04-04 00:20",
+    "tags": [],
+    "fetch_date": "2026-04-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask HN: What’s missing in this chat app (90% LLM cost savings)?",
+    "url": "https://github.com/20centAI/20centai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/20centAI/20centai Comments URL: https://news.ycombinator.com/item?id=47633896 Points: 2 # Comments: 0",
+    "published_at": "2026-04-03 23:50",
+    "tags": [],
+    "fetch_date": "2026-04-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "No-AI code analysis found issue in HF tokenizers",
+    "url": "https://zenodo.org/records/19409933",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://zenodo.org/records/19409933 Comments URL: https://news.ycombinator.com/item?id=47633707 Points: 1 # Comments: 0",
+    "published_at": "2026-04-03 23:31",
+    "tags": [],
+    "fetch_date": "2026-04-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Nutrax – a social calorie tracking app with AI food scanning (iOS)",
+    "url": "https://apps.apple.com/no/app/nutrax-ai-food-tracker/id6761395869",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://apps.apple.com/no/app/nutrax-ai-food-tracker/id6761395869 Comments URL: https://news.ycombinator.com/item?id=47633629 Points: 1 # Comments: 0",
+    "published_at": "2026-04-03 23:21",
+    "tags": [],
+    "fetch_date": "2026-04-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Block's Dorsey Outlines AI-Powered Vision to Cut Middle Managers",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-31/block-s-dorsey-outlines-ai-powered-vision-to-cut-middle-managers",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-03-31/block-s-dorsey-outlines-ai-powered-vision-to-cut-middle-managers Comments URL: https://news.ycombinator.com/item?id=47633559 Points: 4 # Comments: 1",
+    "published_at": "2026-04-03 23:12",
+    "tags": [],
+    "fetch_date": "2026-04-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Writing an LLM from scratch, part 32h – Interventions: full fat float32",
+    "url": "https://www.gilesthomas.com/2026/04/llm-from-scratch-32h-interventions-full-fat-float32",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.gilesthomas.com/2026/04/llm-from-scratch-32h-interventions-full-fat-float32 Comments URL: https://news.ycombinator.com/item?id=47633514 Points: 4 # Comments: 0",
+    "published_at": "2026-04-03 23:08",
+    "tags": [],
+    "fetch_date": "2026-04-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Y Combinator's CEO says he ships 37,000 lines of AI code per day",
+    "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media Comments URL: https://news.ycombinator.com/item?id=47633506 Points: 10 # Comments: 17",
+    "published_at": "2026-04-03 23:06",
+    "tags": [],
+    "fetch_date": "2026-04-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI startup envisions '100M new people' making videogames",
+    "url": "https://www.pcgamer.com/software/ai/this-ai-startup-envisions-100-million-new-people-making-videogames/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.pcgamer.com/software/ai/this-ai-startup-envisions-100-million-new-people-making-videogames/ Comments URL: https://news.ycombinator.com/item?id=47633288 Points: 3 # Comments: 4",
+    "published_at": "2026-04-03 22:40",
+    "tags": [],
+    "fetch_date": "2026-04-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Anthropic ramps up its political activities with a new PAC",
+    "url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
+    "source": "TechCrunch AI",
+    "summary": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
+    "published_at": "2026-04-03 20:22",
+    "tags": [
+      "AI",
+      "government",
+      "Anthropic",
+      "In Brief",
+      "artificial intelligence",
+      "AnthroPAC"
+    ],
+    "fetch_date": "2026-04-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI’s AGI boss is taking a leave of absence",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
+    "source": "The Verge AI",
+    "summary": "OpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by The Verge. Fidji Simo, OpenAI's CEO of AGI deployment - who was until recently the company's CEO of applications - says in the memo that she will be stepping away on medical leave \"for the next several weeks\" due to [&#8230;]",
+    "published_at": "2026-04-03 16:22",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-04-04",
+    "fetch_label": "早报"
+  },
+  {
     "title": "The AI that learned when to fire itself",
     "url": "https://zenodo.org/records/19401816",
     "source": "Hacker News AI",
@@ -138,6 +299,21 @@
     "tags": [],
     "fetch_date": "2026-04-03",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Chatbots are now prescribing psychiatric drugs",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs",
+    "source": "The Verge AI",
+    "summary": "Utah is allowing an AI system to prescribe psychiatric drugs without a doctor. It's only the second time the state - and the country - has delegated this kind of clinical authority to AI. State officials say it could bring costs down and ease care shortages, but physicians warn the system is opaque, risky, and [&#8230;]",
+    "published_at": "2026-04-03 07:43",
+    "tags": [
+      "AI",
+      "Health",
+      "Science",
+      "Tech"
+    ],
+    "fetch_date": "2026-04-04",
+    "fetch_label": "早报"
   },
   {
     "title": "Jobs Being Created by AI",
