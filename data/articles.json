@@ -1,5 +1,22 @@
 [
   {
+    "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+    "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+    "source": "TechCrunch AI",
+    "summary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
+    "published_at": "2026-04-04 16:32",
+    "tags": [
+      "AI",
+      "Startups",
+      "Anthropic",
+      "claude code",
+      "openclaw",
+      "Peter Steinberger"
+    ],
+    "fetch_date": "2026-04-05",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Show HN: Engram – Persistent Memory API with Drift Detection for AI Agents",
     "url": "https://engram.cipherbuilds.ai",
     "source": "Hacker News AI",
@@ -128,6 +145,21 @@
     "tags": [],
     "fetch_date": "2026-04-04",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Really, you made this without AI? Prove it",
+    "url": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
+    "source": "The Verge AI",
+    "summary": "\"This looks like AI.\" It's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the work of humans, people are naturally skeptical when online platforms refuse to label even obvious AI content. This leads me to one [&#8230;]",
+    "published_at": "2026-04-04 09:00",
+    "tags": [
+      "AI",
+      "Creators",
+      "Report",
+      "Tech"
+    ],
+    "fetch_date": "2026-04-05",
+    "fetch_label": "早报"
   },
   {
     "title": "Show HN: Autonet – Decentralized AI training with constitutional governance",
@@ -334,6 +366,26 @@
       "OpenAI"
     ],
     "fetch_date": "2026-04-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The Facebook insider building content moderation for the AI era",
+    "url": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
+    "source": "TechCrunch AI",
+    "summary": "Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior.",
+    "published_at": "2026-04-03 14:00",
+    "tags": [
+      "Startups",
+      "AI",
+      "Fundraising",
+      "ai safety",
+      "Amplify Partners",
+      "content moderation",
+      "Exclusive",
+      "moonbounce",
+      "StepStone Group"
+    ],
+    "fetch_date": "2026-04-05",
     "fetch_label": "早报"
   },
   {

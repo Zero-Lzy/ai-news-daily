@@ -1,0 +1,117 @@
+{
+  "date": "2026-04-05",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-04-05 10:50:13",
+      "count": 7,
+      "articles": [
+        {
+          "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+          "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+          "source": "TechCrunch AI",
+          "summary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
+          "published_at": "2026-04-04 16:32",
+          "tags": [
+            "AI",
+            "Startups",
+            "Anthropic",
+            "claude code",
+            "openclaw",
+            "Peter Steinberger"
+          ]
+        },
+        {
+          "title": "Really, you made this without AI? Prove it",
+          "url": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
+          "source": "The Verge AI",
+          "summary": "\"This looks like AI.\" It's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the work of humans, people are naturally skeptical when online platforms refuse to label even obvious AI content. This leads me to one [&#8230;]",
+          "published_at": "2026-04-04 09:00",
+          "tags": [
+            "AI",
+            "Creators",
+            "Report",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+          "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+          "source": "TechCrunch AI",
+          "summary": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.",
+          "published_at": "2026-04-04 01:31",
+          "tags": [
+            "AI",
+            "TC",
+            "SpaceX",
+            "Exclusive",
+            "OpenAI",
+            "Anthropic"
+          ]
+        },
+        {
+          "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
+          "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
+          "published_at": "2026-04-03 20:28",
+          "tags": [
+            "AI",
+            "Biotech & Health",
+            "Privacy",
+            "Startups",
+            "Venture",
+            "In Brief",
+            "Claude",
+            "Mergers and Acquisitions"
+          ]
+        },
+        {
+          "title": "Anthropic ramps up its political activities with a new PAC",
+          "url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
+          "source": "TechCrunch AI",
+          "summary": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
+          "published_at": "2026-04-03 20:22",
+          "tags": [
+            "AI",
+            "In Brief",
+            "AnthroPAC",
+            "artificial intelligence",
+            "Anthropic",
+            "government"
+          ]
+        },
+        {
+          "title": "OpenAI’s AGI boss is taking a leave of absence",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
+          "source": "The Verge AI",
+          "summary": "OpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by The Verge. Fidji Simo, OpenAI's CEO of AGI deployment - who was until recently the company's CEO of applications - says in the memo that she will be stepping away on medical leave \"for the next several weeks\" due to [&#8230;]",
+          "published_at": "2026-04-03 16:22",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "The Facebook insider building content moderation for the AI era",
+          "url": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
+          "source": "TechCrunch AI",
+          "summary": "Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior.",
+          "published_at": "2026-04-03 14:00",
+          "tags": [
+            "Startups",
+            "AI",
+            "Fundraising",
+            "ai safety",
+            "Amplify Partners",
+            "content moderation",
+            "Exclusive",
+            "moonbounce",
+            "StepStone Group"
+          ]
+        }
+      ]
+    }
+  ]
+}
