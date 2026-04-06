@@ -1,5 +1,145 @@
 [
   {
+    "title": "Token-Aware LLM Load Balancer route by inflight tokens,not connections",
+    "url": "https://github.com/SivagurunathanV/token-aware-balancer",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/SivagurunathanV/token-aware-balancer Comments URL: https://news.ycombinator.com/item?id=47660284 Points: 2 # Comments: 0",
+    "published_at": "2026-04-06 12:53",
+    "tags": [],
+    "fetch_date": "2026-04-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Real-time poker engine with emotion-driven AI bots",
+    "url": "https://oxyklon.net/portal",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://oxyklon.net/portal Comments URL: https://news.ycombinator.com/item?id=47660160 Points: 4 # Comments: 0",
+    "published_at": "2026-04-06 12:40",
+    "tags": [],
+    "fetch_date": "2026-04-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ask HN: How do systems (or people) detect when a text is written by an LLM",
+    "url": "https://news.ycombinator.com/item?id=47659807",
+    "source": "Hacker News AI",
+    "summary": "Hello guys, just curious about how can people or systems (computers) detect when a text was written by an LLM. My question is mainly focused to if there is some API or similar to detect if a text was written by an LLM. Thanks!!! Comments URL: https://news.ycombinator.com/item?id=47659807 Points: 14 # Comments: 12",
+    "published_at": "2026-04-06 12:03",
+    "tags": [],
+    "fetch_date": "2026-04-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "What if AI just makes us work harder?",
+    "url": "https://timharford.com/2026/04/what-if-ai-just-makes-us-work-harder/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://timharford.com/2026/04/what-if-ai-just-makes-us-work-harder/ Comments URL: https://news.ycombinator.com/item?id=47659666 Points: 6 # Comments: 2",
+    "published_at": "2026-04-06 11:45",
+    "tags": [],
+    "fetch_date": "2026-04-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Why RAG doesn't work for WhatsApp AI agents and what's the alternative",
+    "url": "https://wpp.opero.so/blog/why-rag-fails-for-whatsapp-and-what-we-built-instead",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://wpp.opero.so/blog/why-rag-fails-for-whatsapp-and-what-we-built-instead Comments URL: https://news.ycombinator.com/item?id=47659635 Points: 2 # Comments: 1",
+    "published_at": "2026-04-06 11:41",
+    "tags": [],
+    "fetch_date": "2026-04-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Practical LLM developer project management: Obsidian Kanban plan MD files in Git",
+    "url": "https://savolai.net/notes/edu-tech-blog/llm-text-files-obsidian-kanban-practical-project-management-for-developers/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://savolai.net/notes/edu-tech-blog/llm-text-files-obsidian-kanban-practical-project-management-for-developers/ Comments URL: https://news.ycombinator.com/item?id=47659511 Points: 1 # Comments: 0",
+    "published_at": "2026-04-06 11:27",
+    "tags": [],
+    "fetch_date": "2026-04-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Dora – State of AI-assisted Software Development 2025 [pdf]",
+    "url": "https://services.google.com/fh/files/misc/2025_state_of_ai_assisted_software_development.pdf",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://services.google.com/fh/files/misc/2025_state_of_ai_assisted_software_development.pdf Comments URL: https://news.ycombinator.com/item?id=47659217 Points: 1 # Comments: 0",
+    "published_at": "2026-04-06 10:48",
+    "tags": [],
+    "fetch_date": "2026-04-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Rethinking Pair Programming in the Age of AI",
+    "url": "https://learnings.aleixmorgadas.dev/p/rethinking-pair-programming-in-the",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://learnings.aleixmorgadas.dev/p/rethinking-pair-programming-in-the Comments URL: https://news.ycombinator.com/item?id=47659212 Points: 3 # Comments: 0",
+    "published_at": "2026-04-06 10:47",
+    "tags": [],
+    "fetch_date": "2026-04-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Nexus – Stress-test any business decision with 1k AI agents",
+    "url": "https://nexus-sim.ink/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://nexus-sim.ink/ Comments URL: https://news.ycombinator.com/item?id=47659203 Points: 1 # Comments: 0",
+    "published_at": "2026-04-06 10:46",
+    "tags": [],
+    "fetch_date": "2026-04-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Rules for using unreviewed AI-generated code",
+    "url": "https://peterlavigne.com/writing/rules-for-unreviewed-ai-generated-code",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://peterlavigne.com/writing/rules-for-unreviewed-ai-generated-code Comments URL: https://news.ycombinator.com/item?id=47659181 Points: 1 # Comments: 0",
+    "published_at": "2026-04-06 10:44",
+    "tags": [],
+    "fetch_date": "2026-04-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Turn photos into Wordle puzzles with AI that runs 100% in your browser",
+    "url": "https://momentsgame.com/",
+    "source": "Hacker News AI",
+    "summary": "I built Moments to get this game idea out of my head, finally. My original goal was to run on-device models specifically in mobile browsers, but running local vision models directly in phone browsers is still very much too early, so I focused on desktop.How it works:- You upload a photo.- A local vision model running entirely in your browser captions it and picks a prominent object from the image.- You guess the word just like Wordle.It uses a very tiny model so it is not very smart https://hugg",
+    "published_at": "2026-04-06 10:09",
+    "tags": [],
+    "fetch_date": "2026-04-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: I built lightweight LLM tracing tool with CLI",
+    "url": "https://github.com/SKE-Labs/lightrace",
+    "source": "Hacker News AI",
+    "summary": "Hey Hackernews,I have been developing an agentic applications for a year now. And the biggest pain in the ass was debugging.Thus, I created to create my own tool which includes basic features such as tracing and CLI tool to get started easily.Also, the biggest concept is to re-call Tools. It is 100% opensource. let's build this together. I am thinking of caches, re-execution and branches. it is welcome to start contributing. Comments URL: https://news.ycombinator.com/item?id=47658682 Points: 3 #",
+    "published_at": "2026-04-06 09:30",
+    "tags": [],
+    "fetch_date": "2026-04-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Texas Republican Called Out for Sharing AI Rendering of Rescued Soldier",
+    "url": "https://www.mediaite.com/media/news/texas-republican-called-out-for-sharing-ai-rendering-of-rescued-soldier/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.mediaite.com/media/news/texas-republican-called-out-for-sharing-ai-rendering-of-rescued-soldier/ Comments URL: https://news.ycombinator.com/item?id=47658506 Points: 2 # Comments: 0",
+    "published_at": "2026-04-06 09:06",
+    "tags": [],
+    "fetch_date": "2026-04-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Damaged a Friendship",
+    "url": "https://www.bartmol.io/how-ai-damaged-a-friendship/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bartmol.io/how-ai-damaged-a-friendship/ Comments URL: https://news.ycombinator.com/item?id=47658310 Points: 2 # Comments: 1",
+    "published_at": "2026-04-06 08:35",
+    "tags": [],
+    "fetch_date": "2026-04-06",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Show HN: LLM Wiki – Open-Source Implementation of Karpathy's LLM Wiki",
     "url": "https://llmwiki.app",
     "source": "Hacker News AI",
