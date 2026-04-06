@@ -1,0 +1,144 @@
+{
+  "date": "2026-04-06",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-04-06 10:51:09",
+      "count": 15,
+      "articles": [
+        {
+          "title": "Show HN: LLM Wiki – Open-Source Implementation of Karpathy's LLM Wiki",
+          "url": "https://llmwiki.app",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://llmwiki.app Comments URL: https://news.ycombinator.com/item?id=47656181 Points: 2 # Comments: 1",
+          "published_at": "2026-04-06 02:08",
+          "tags": []
+        },
+        {
+          "title": "Show HN: The easiest way to generate AI stickers then get them in the mail",
+          "url": "https://stickerdaze.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://stickerdaze.com/ Comments URL: https://news.ycombinator.com/item?id=47656158 Points: 1 # Comments: 2",
+          "published_at": "2026-04-06 02:04",
+          "tags": []
+        },
+        {
+          "title": "AI agents promise to 'run the business,' but who is liable if things go wrong?",
+          "url": "https://www.theregister.com/2026/04/05/ai_agents_liability/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theregister.com/2026/04/05/ai_agents_liability/ Comments URL: https://news.ycombinator.com/item?id=47655920 Points: 5 # Comments: 0",
+          "published_at": "2026-04-06 01:34",
+          "tags": []
+        },
+        {
+          "title": "AI Is a Threat to Everything the American People Hold Dear – Bernie Sanders OpEd",
+          "url": "https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459 Comments URL: https://news.ycombinator.com/item?id=47655654 Points: 8 # Comments: 3",
+          "published_at": "2026-04-06 00:56",
+          "tags": []
+        },
+        {
+          "title": "Ignore AI FOMO – For Now",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-04-05/what-is-vibe-coding-the-ai-trend-fueling-a-new-kind-of-fomo",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bloomberg.com/news/newsletters/2026-04-05/what-is-vibe-coding-the-ai-trend-fueling-a-new-kind-of-fomo Comments URL: https://news.ycombinator.com/item?id=47655620 Points: 3 # Comments: 1",
+          "published_at": "2026-04-06 00:50",
+          "tags": []
+        },
+        {
+          "title": "Apex Protocol – An open MCP-based standard for AI agent trading",
+          "url": "https://apexstandard.org/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://apexstandard.org/ Comments URL: https://news.ycombinator.com/item?id=47655618 Points: 8 # Comments: 2",
+          "published_at": "2026-04-06 00:50",
+          "tags": []
+        },
+        {
+          "title": "Show HN: hot or not for .ai websites",
+          "url": "https://ratemyaisite.com/",
+          "source": "Hacker News AI",
+          "summary": "I originally took all domains crawled by CommonCrawl and made my own private tool for exploring the public web. I've used it to get some sense/intuition for what's being made by others. It's helped me avoid proposing the 100th agentic marketing SaaS, when brainstorming with friends :)So thought others might see the fun in exploring websites this way. I've tried my best to circumvent the Cookie popups for the pictures, and have removed most parked domains, access denied, bad gateway etc. I've als",
+          "published_at": "2026-04-06 00:36",
+          "tags": []
+        },
+        {
+          "title": "Washington state will require labels on AI images and set limits on chatbots",
+          "url": "https://www.axios.com/local/seattle/2026/04/03/washington-ai-disclosure-law-images-video-watermarks-chatbots-minors",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.axios.com/local/seattle/2026/04/03/washington-ai-disclosure-law-images-video-watermarks-chatbots-minors Comments URL: https://news.ycombinator.com/item?id=47655457 Points: 3 # Comments: 0",
+          "published_at": "2026-04-06 00:27",
+          "tags": []
+        },
+        {
+          "title": "Can we ever trust AI to watch over itself?",
+          "url": "https://www.transformernews.ai/p/ai-alignment-researchers-want-to-superintelligence",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.transformernews.ai/p/ai-alignment-researchers-want-to-superintelligence Comments URL: https://news.ycombinator.com/item?id=47655420 Points: 1 # Comments: 0",
+          "published_at": "2026-04-06 00:22",
+          "tags": []
+        },
+        {
+          "title": "Show HN: I built a tiny LLM to demystify how language models work",
+          "url": "https://github.com/arman-bd/guppylm",
+          "source": "Hacker News AI",
+          "summary": "Built a ~9M param LLM from scratch to understand how they actually work. Vanilla transformer, 60K synthetic conversations, ~130 lines of PyTorch. Trains in 5 min on a free Colab T4. The fish thinks the meaning of life is food.Fork it and swap the personality for your own character. Comments URL: https://news.ycombinator.com/item?id=47655408 Points: 67 # Comments: 5",
+          "published_at": "2026-04-06 00:20",
+          "tags": []
+        },
+        {
+          "title": "Agentic Dev: AI-curated daily signal for AI devs (no hype)",
+          "url": "https://agenticdev.blog/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://agenticdev.blog/ Comments URL: https://news.ycombinator.com/item?id=47655278 Points: 3 # Comments: 0",
+          "published_at": "2026-04-06 00:00",
+          "tags": []
+        },
+        {
+          "title": "Frona – self-hosted personal AI assistant",
+          "url": "https://github.com/fronalabs/frona",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/fronalabs/frona Comments URL: https://news.ycombinator.com/item?id=47655176 Points: 3 # Comments: 0",
+          "published_at": "2026-04-05 23:47",
+          "tags": []
+        },
+        {
+          "title": "Zeaota – AI Native Product Intelligence Tool",
+          "url": "https://zeaota.ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://zeaota.ai Comments URL: https://news.ycombinator.com/item?id=47655166 Points: 2 # Comments: 0",
+          "published_at": "2026-04-05 23:46",
+          "tags": []
+        },
+        {
+          "title": "Suno is a music copyright nightmare",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
+          "source": "The Verge AI",
+          "summary": "AI music platform Suno's policy is that it does not permit the use of copyrighted material. You can upload your own tracks to remix or set your original lyrics to AI-generated music. But, it's supposed to recognize and stop you from using other people's songs and lyrics. Now, no system is perfect, but it turns [&#8230;]",
+          "published_at": "2026-04-05 12:00",
+          "tags": [
+            "AI",
+            "Entertainment",
+            "Music",
+            "Report",
+            "Tech"
+          ]
+        },
+        {
+          "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
+          "url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
+          "source": "The Verge AI",
+          "summary": "You may be familiar with Gemini as the thing that's in every Google service you use - whether you want it or not. While it's been a constant, sometimes unwelcome presence in Gmail for at least the past year, it's a relatively new addition to Maps. And you know what? It's kind of great. To [&#8230;]",
+          "published_at": "2026-04-05 10:00",
+          "tags": [
+            "AI",
+            "Google",
+            "Hands-on",
+            "Reviews",
+            "Tech"
+          ]
+        }
+      ]
+    }
+  ]
+}
