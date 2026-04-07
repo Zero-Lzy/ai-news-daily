@@ -1,0 +1,152 @@
+{
+  "date": "2026-04-07",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-04-07 10:44:39",
+      "count": 16,
+      "articles": [
+        {
+          "title": "Claude Agent SDK vs. Messages API for a Production AI Assistant?",
+          "url": "https://news.ycombinator.com/item?id=47669957",
+          "source": "Hacker News AI",
+          "summary": "We're building a chat assistant into our B2B developer tool. It needs to call domain-specific tools (MCP), stream responses (SSE), and persist conversation history.The Claude Agent SDK looks like it would save us a lot of work — agent loop, compaction, hooks, session management all built in. But the more we look at it, the more the architecture feels oriented toward single-user CLI use. The subprocess spawn overhead (~12s per call), filesystem-based sessions, memory issues in long-running proces",
+          "published_at": "2026-04-07 02:14",
+          "tags": []
+        },
+        {
+          "title": "Turnpike – typed cost attribution for LLM calls",
+          "url": "https://github.com/lucianareynaud/turnpike",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/lucianareynaud/turnpike Comments URL: https://news.ycombinator.com/item?id=47669840 Points: 1 # Comments: 0",
+          "published_at": "2026-04-07 01:56",
+          "tags": []
+        },
+        {
+          "title": "Stop using AI wrappers and just use Claude",
+          "url": "https://brickstack.substack.com/p/i-tried-every-gamma-alternative-just",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://brickstack.substack.com/p/i-tried-every-gamma-alternative-just Comments URL: https://news.ycombinator.com/item?id=47669738 Points: 2 # Comments: 1",
+          "published_at": "2026-04-07 01:41",
+          "tags": []
+        },
+        {
+          "title": "The highest-scoring AI memory system ever benchmarked",
+          "url": "https://github.com/milla-jovovich/mempalace",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/milla-jovovich/mempalace Comments URL: https://news.ycombinator.com/item?id=47669671 Points: 3 # Comments: 1",
+          "published_at": "2026-04-07 01:29",
+          "tags": []
+        },
+        {
+          "title": "Kafka-ML: Connecting the data stream with ML/AI frameworks",
+          "url": "https://github.com/ertis-research/kafka-ml",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/ertis-research/kafka-ml Comments URL: https://news.ycombinator.com/item?id=47669653 Points: 1 # Comments: 0",
+          "published_at": "2026-04-07 01:27",
+          "tags": []
+        },
+        {
+          "title": "Physical Engineering AI – tools for mech engineers",
+          "url": "https://github.com/010zx00x1/Awesome-Physical-Engineering-AI",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/010zx00x1/Awesome-Physical-Engineering-AI Comments URL: https://news.ycombinator.com/item?id=47669539 Points: 2 # Comments: 0",
+          "published_at": "2026-04-07 01:13",
+          "tags": []
+        },
+        {
+          "title": "AI workout plan generator for Indian personal trainers (coachiq.in)",
+          "url": "https://news.ycombinator.com/item?id=47669470",
+          "source": "Hacker News AI",
+          "summary": "I built CoachIQ after watching personal trainers at my gym in Bengaluru spend hours creating client workout plans in Excel and sending them via WhatsApp voice notes.Trainer enters client profile, selects training days, AI generates a full weekly plan in under 60 seconds. Plan is shared via a WhatsApp link — no app download for the client.Free for first 3 plans. ₹499 per month after that (about $6).The exercise library is also free at exercises.coachiq.in — 800 plus exercises with AI generated be",
+          "published_at": "2026-04-07 01:05",
+          "tags": []
+        },
+        {
+          "title": "Memory poisoning in AI coding agents",
+          "url": "https://github.com/asamassekou10/ship-safe",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/asamassekou10/ship-safe Comments URL: https://news.ycombinator.com/item?id=47669335 Points: 1 # Comments: 0",
+          "published_at": "2026-04-07 00:47",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Knowledge Bases for AI/Human Sharing",
+          "url": "https://akuna.software/introduction",
+          "source": "Hacker News AI",
+          "summary": "Hey HN!I've been working on knowledge / memory / retrieval tooling for AI + human interaction for a few months now.Then, just a few days ago Andrej Karpathy posted the subject on X and I felt like this would be a good time to get it out there https://x.com/karpathy/status/2039805659525644595The short pitch in my view is \"Second Brain, for agents, or humans, or a mix of both\".I've been using it personally for a while now, as the tooling has evolved, especially for access to my obsidian notes just",
+          "published_at": "2026-04-07 00:02",
+          "tags": []
+        },
+        {
+          "title": "High AI judgment consistency does not mean high reasoning quality (preprint)",
+          "url": "https://zenodo.org/records/19446064",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://zenodo.org/records/19446064 Comments URL: https://news.ycombinator.com/item?id=47668997 Points: 1 # Comments: 0",
+          "published_at": "2026-04-06 23:59",
+          "tags": []
+        },
+        {
+          "title": "OpenAI's vision for the AI economy: public wealth funds, robot taxes, and more",
+          "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/ Comments URL: https://news.ycombinator.com/item?id=47668974 Points: 2 # Comments: 0",
+          "published_at": "2026-04-06 23:55",
+          "tags": []
+        },
+        {
+          "title": "Open-source sandboxes to run AI code, browser agents and computer-use",
+          "url": "https://github.com/CelestoAI/smolVM",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/CelestoAI/smolVM Comments URL: https://news.ycombinator.com/item?id=47668778 Points: 2 # Comments: 0",
+          "published_at": "2026-04-06 23:29",
+          "tags": []
+        },
+        {
+          "title": "Neuro-symbolic AI breakthrough cuts energy use by 100x while boosting accuracy",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.sciencedaily.com/releases/2026/04/260405003952.htm Comments URL: https://news.ycombinator.com/item?id=47668710 Points: 2 # Comments: 0",
+          "published_at": "2026-04-06 23:21",
+          "tags": []
+        },
+        {
+          "title": "The AI University",
+          "url": "https://maestro.org/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://maestro.org/ Comments URL: https://news.ycombinator.com/item?id=47668541 Points: 1 # Comments: 0",
+          "published_at": "2026-04-06 23:04",
+          "tags": []
+        },
+        {
+          "title": "Zopaf – A negotiation math engine as an MCP server (zero LLM tokens)",
+          "url": "https://zopaf-mcp-production.up.railway.app/mcp",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://zopaf-mcp-production.up.railway.app/mcp Comments URL: https://news.ycombinator.com/item?id=47668321 Points: 1 # Comments: 0",
+          "published_at": "2026-04-06 22:42",
+          "tags": []
+        },
+        {
+          "title": "Iran threatens ‘Stargate’ AI data centers",
+          "url": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
+          "source": "TechCrunch AI",
+          "summary": "Iran said it will target U.S.-linked data centers with new missile strikes, as the war between the U.S. and Iran escalates.",
+          "published_at": "2026-04-06 18:06",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "Government & Policy",
+            "TC",
+            "Cisco",
+            "datacenters",
+            "In Brief",
+            "Iran-US War",
+            "OpenAI",
+            "oracle",
+            "stargate"
+          ]
+        }
+      ]
+    }
+  ]
+}
