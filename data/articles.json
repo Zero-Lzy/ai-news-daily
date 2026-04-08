@@ -1,5 +1,135 @@
 [
   {
+    "title": "AI Sourcing Tool from Spain",
+    "url": "https://www.heytalent.app/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.heytalent.app/ Comments URL: https://news.ycombinator.com/item?id=47689872 Points: 1 # Comments: 1",
+    "published_at": "2026-04-08 13:21",
+    "tags": [],
+    "fetch_date": "2026-04-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AWAF – An open framework for scoring AI agent production readiness",
+    "url": "https://awaf.ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://awaf.ai Comments URL: https://news.ycombinator.com/item?id=47689776 Points: 2 # Comments: 0",
+    "published_at": "2026-04-08 13:15",
+    "tags": [],
+    "fetch_date": "2026-04-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "QVeris: AI agents discover, inspect and call 10k capabilities via one protocol",
+    "url": "https://qveris.ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://qveris.ai/ Comments URL: https://news.ycombinator.com/item?id=47689773 Points: 1 # Comments: 0",
+    "published_at": "2026-04-08 13:14",
+    "tags": [],
+    "fetch_date": "2026-04-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Forgeterm – Runtime security monitor for AI coding agents",
+    "url": "https://github.com/diemoeve/forgeterm",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/diemoeve/forgeterm Comments URL: https://news.ycombinator.com/item?id=47689770 Points: 2 # Comments: 0",
+    "published_at": "2026-04-08 13:14",
+    "tags": [],
+    "fetch_date": "2026-04-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Designing life science assessments in the era of generative AI",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346127",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346127 Comments URL: https://news.ycombinator.com/item?id=47689755 Points: 1 # Comments: 1",
+    "published_at": "2026-04-08 13:13",
+    "tags": [],
+    "fetch_date": "2026-04-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Free Chrome extension to see what employees send to AI tools",
+    "url": "https://www.privent.ai/use-cases/employee-ai-monitoring",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.privent.ai/use-cases/employee-ai-monitoring Comments URL: https://news.ycombinator.com/item?id=47689661 Points: 1 # Comments: 0",
+    "published_at": "2026-04-08 13:07",
+    "tags": [],
+    "fetch_date": "2026-04-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "LLM plays an 8-bit Commander X16 game using structured \"smart senses\"",
+    "url": "https://pvp-ai.russell-harper.com",
+    "source": "Hacker News AI",
+    "summary": "I connected the ChatGPT API (model gpt-4o) to an 8-bit shoot-'em-up game, PvP-AI, running on a Commander X16 emulator.Instead of pixels or audio, the model receives structured text summaries, what I’m calling \"smart senses\", based on the game's existing touch and EMF-style inputs.The LLM maintains notes between turns, develops strategies across games, and even discovers an exploit in the built-in AI's behavior.Write-up, technical details, and three sequential gameplay recordings: https://pvp-ai.",
+    "published_at": "2026-04-08 12:56",
+    "tags": [],
+    "fetch_date": "2026-04-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Heron is open-source security auditor that interviews your AI agents",
+    "url": "https://github.com/theonaai/Heron",
+    "source": "Hacker News AI",
+    "summary": "Last week security guy in our company asked me to write doc with information about how they work, which data and systems it touches for all my AI agents. \"It's too much work\" i thought. So i built Heron. It interviews your agent with 10 main questions and smart follow-ups if feel uncertainty. It also has regulatory flags (SOC2, GDPR, EU AI Act etc). As a result you get a full report with all needed information.Feel free to try. No SDK, no code changes, MIT licensed. Have 4 modes (server, overrid",
+    "published_at": "2026-04-08 12:52",
+    "tags": [],
+    "fetch_date": "2026-04-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The Empty Middle of AI Coding",
+    "url": "https://xificurc.github.io/blog/the-empty-middle-of-ai-coding/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://xificurc.github.io/blog/the-empty-middle-of-ai-coding/ Comments URL: https://news.ycombinator.com/item?id=47689135 Points: 3 # Comments: 1",
+    "published_at": "2026-04-08 12:14",
+    "tags": [],
+    "fetch_date": "2026-04-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Writing an LLM from scratch, part 32i – Interventions: what is in the noise?",
+    "url": "https://www.gilesthomas.com/2026/04/llm-from-scratch-32i-interventions-what-is-in-the-noise",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.gilesthomas.com/2026/04/llm-from-scratch-32i-interventions-what-is-in-the-noise Comments URL: https://news.ycombinator.com/item?id=47688940 Points: 2 # Comments: 0",
+    "published_at": "2026-04-08 11:54",
+    "tags": [],
+    "fetch_date": "2026-04-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ask HN: Should AI credits be refunded on mistakes?",
+    "url": "https://news.ycombinator.com/item?id=47688712",
+    "source": "Hacker News AI",
+    "summary": "Something I’ve noticed (I’m using Claude subscription so no refunds but it applies to usage windows) is that sometimes AI makes mistakes so if something is important I tell Claude code to spin up a couple of sub agents and verify the information, often there will be a mistake and it gets rectified.It feels unfair I have to pay (or lose some usage) for this.Interested in other people’s thoughts. Comments URL: https://news.ycombinator.com/item?id=47688712 Points: 3 # Comments: 4",
+    "published_at": "2026-04-08 11:25",
+    "tags": [],
+    "fetch_date": "2026-04-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Who Would Be Scared If AI Replaced Their Jobs?",
+    "url": "https://maxglobalnews.com/if-ai-takes-over-we-lose-our-jobs-but-if-ai-fails-we-also-lose-our-jobs/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://maxglobalnews.com/if-ai-takes-over-we-lose-our-jobs-but-if-ai-fails-we-also-lose-our-jobs/ Comments URL: https://news.ycombinator.com/item?id=47688591 Points: 1 # Comments: 0",
+    "published_at": "2026-04-08 11:12",
+    "tags": [],
+    "fetch_date": "2026-04-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Defender – Local prompt injection detection for AI agents (no API calls)",
+    "url": "https://www.npmjs.com/package/@stackone/defender",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.npmjs.com/package/@stackone/defender Comments URL: https://news.ycombinator.com/item?id=47688386 Points: 2 # Comments: 0",
+    "published_at": "2026-04-08 10:53",
+    "tags": [],
+    "fetch_date": "2026-04-08",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Sam Altman on Building the Future of AI [video]",
     "url": "https://forum.openai.com/public/videos/event-replay-sam-altman-on-building-the-future-of-ai-2026-04-06",
     "source": "Hacker News AI",
@@ -146,6 +276,22 @@
     ],
     "fetch_date": "2026-04-08",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Uber is the latest to be won over by Amazon’s AI chips",
+    "url": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/",
+    "source": "TechCrunch AI",
+    "summary": "Uber is expanding its AWS contract to run more of its ride-sharing features on Amazon's chips. This is a thumb-of-the nose at Oracle and Google.",
+    "published_at": "2026-04-07 16:46",
+    "tags": [
+      "Enterprise",
+      "AI",
+      "Amazon",
+      "AWS",
+      "Uber"
+    ],
+    "fetch_date": "2026-04-08",
+    "fetch_label": "晚报"
   },
   {
     "title": "A new Anthropic model found security problems &#8216;in every major operating system and web browser&#8217;",
