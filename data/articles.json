@@ -1,5 +1,167 @@
 [
   {
+    "title": "Sam Altman on Building the Future of AI [video]",
+    "url": "https://forum.openai.com/public/videos/event-replay-sam-altman-on-building-the-future-of-ai-2026-04-06",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://forum.openai.com/public/videos/event-replay-sam-altman-on-building-the-future-of-ai-2026-04-06 Comments URL: https://news.ycombinator.com/item?id=47684249 Points: 1 # Comments: 0",
+    "published_at": "2026-04-08 02:34",
+    "tags": [],
+    "fetch_date": "2026-04-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Brands Adopt 'No AI' Disclaimers to Stand Out Amid the Slop",
+    "url": "https://www.wsj.com/cmo-today/brands-adopt-no-ai-disclaimers-to-stand-out-amid-the-slop-a92352af",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wsj.com/cmo-today/brands-adopt-no-ai-disclaimers-to-stand-out-amid-the-slop-a92352af Comments URL: https://news.ycombinator.com/item?id=47683953 Points: 3 # Comments: 2",
+    "published_at": "2026-04-08 02:02",
+    "tags": [],
+    "fetch_date": "2026-04-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Omni Voice – AI Voice Cloning and Text-to-Speech Platform",
+    "url": "https://omnivoice.app",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://omnivoice.app Comments URL: https://news.ycombinator.com/item?id=47683789 Points: 2 # Comments: 0",
+    "published_at": "2026-04-08 01:44",
+    "tags": [],
+    "fetch_date": "2026-04-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Impact of 100% Adoption of AI Coding Agents by Non-Technical Team",
+    "url": "https://www.kapwing.com/blog/how-we-achieved-100-adoption-of-ai-coding-agents/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.kapwing.com/blog/how-we-achieved-100-adoption-of-ai-coding-agents/ Comments URL: https://news.ycombinator.com/item?id=47683649 Points: 2 # Comments: 0",
+    "published_at": "2026-04-08 01:29",
+    "tags": [],
+    "fetch_date": "2026-04-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Law Students: AI Is Changing Things",
+    "url": "https://maxglobalnews.com/the-future-of-lawyers-in-the-age-of-ai-%f0%9f%92%bb/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://maxglobalnews.com/the-future-of-lawyers-in-the-age-of-ai-%f0%9f%92%bb/ Comments URL: https://news.ycombinator.com/item?id=47683583 Points: 2 # Comments: 0",
+    "published_at": "2026-04-08 01:22",
+    "tags": [],
+    "fetch_date": "2026-04-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Odd Lots: This Is How to Tell If Writing Was Made by AI",
+    "url": "https://www.bloomberg.com/news/audio/2026-04-02/odd-lots-how-to-tell-if-writing-was-made-by-ai-podcast",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bloomberg.com/news/audio/2026-04-02/odd-lots-how-to-tell-if-writing-was-made-by-ai-podcast Comments URL: https://news.ycombinator.com/item?id=47683428 Points: 2 # Comments: 2",
+    "published_at": "2026-04-08 01:04",
+    "tags": [],
+    "fetch_date": "2026-04-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask HN: Is there any tool that can stop LLM calls at runtime (not just monitor)?",
+    "url": "https://news.ycombinator.com/item?id=47683113",
+    "source": "Hacker News AI",
+    "summary": "I’ve been running into cases where LLM/agent systems make unexpected or repeated calls and costs spike quickly.Most tools I’ve found focus on observability (logs, traces, dashboards), but not actual enforcement.Is there anything that can:- stop or cut off a call mid-execution (based on budget, tokens, or conditions)?- enforce limits at runtime instead of just alerting after the fact?Curious if people here are solving this in practice, or just handling it at the application level. Comments URL: h",
+    "published_at": "2026-04-08 00:26",
+    "tags": [],
+    "fetch_date": "2026-04-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The BSDs in the AI Age",
+    "url": "https://lists.nycbug.org/pipermail/talk/2026-April/018894.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://lists.nycbug.org/pipermail/talk/2026-April/018894.html Comments URL: https://news.ycombinator.com/item?id=47682956 Points: 2 # Comments: 0",
+    "published_at": "2026-04-08 00:06",
+    "tags": [],
+    "fetch_date": "2026-04-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "We need re-learn what AI agent development tools are in 2026",
+    "url": "https://blog.n8n.io/we-need-re-learn-what-ai-agent-development-tools-are-in-2026/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.n8n.io/we-need-re-learn-what-ai-agent-development-tools-are-in-2026/ Comments URL: https://news.ycombinator.com/item?id=47682879 Points: 3 # Comments: 0",
+    "published_at": "2026-04-07 23:56",
+    "tags": [],
+    "fetch_date": "2026-04-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid",
+    "url": "https://github.com/safishamsi/graphify",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/safishamsi/graphify Comments URL: https://news.ycombinator.com/item?id=47682798 Points: 2 # Comments: 0",
+    "published_at": "2026-04-07 23:45",
+    "tags": [],
+    "fetch_date": "2026-04-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Crag – One governance file, every AI coding tool (50 repos, 96.4% accuracy)",
+    "url": "https://github.com/WhitehatD/crag",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/WhitehatD/crag Comments URL: https://news.ycombinator.com/item?id=47682779 Points: 3 # Comments: 0",
+    "published_at": "2026-04-07 23:43",
+    "tags": [],
+    "fetch_date": "2026-04-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: When Seeing Isn't Enough: Rescuing Stuck LLM Agents",
+    "url": "https://zenodo.org/records/19463134",
+    "source": "Hacker News AI",
+    "summary": "Hi HN, we are sharing our latest preprint from CAUM Systems. We found that LLM coding agents enter 'blind-spot failures' that are completely unrescuable by behavioral nudging, but 100% rescuable by adding a single sentence of causal interpretation about structural data. We introduce the 'bandwidth of observer' framework and explain why cross-model evaluation is critical to tell blind-spots apart from capability floors. Happy to answer questions! Comments URL: https://news.ycombinator.com/item?id",
+    "published_at": "2026-04-07 23:35",
+    "tags": [],
+    "fetch_date": "2026-04-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Fifth Element Star Milla Jovovich Reveals AI Memory Tool MemPalace",
+    "url": "https://decrypt.co/363524/fifth-element-milla-jovovich-ai-tool-mempalace",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://decrypt.co/363524/fifth-element-milla-jovovich-ai-tool-mempalace Comments URL: https://news.ycombinator.com/item?id=47682435 Points: 6 # Comments: 1",
+    "published_at": "2026-04-07 23:01",
+    "tags": [],
+    "fetch_date": "2026-04-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
+    "url": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
+    "source": "TechCrunch AI",
+    "summary": "The new model will be used by a small number of high-profile companies to engage in defensive cybersecurity work.",
+    "published_at": "2026-04-07 18:00",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Security",
+      "Amazon",
+      "Anthropic",
+      "Microsoft",
+      "Mythos"
+    ],
+    "fetch_date": "2026-04-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "A new Anthropic model found security problems &#8216;in every major operating system and web browser&#8217;",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity",
+    "source": "The Verge AI",
+    "summary": "Anthropic is debuting a new AI model as part of a cybersecurity partnership with Nvidia, Google, Amazon Web Services, Apple, Microsoft, and other companies. Project Glasswing, as it's called, is billed as a way for large companies, and potentially even the government, to flag vulnerabilities in their systems with virtually no human intervention. Anthropic is [&#8230;]",
+    "published_at": "2026-04-07 14:00",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "News"
+    ],
+    "fetch_date": "2026-04-08",
+    "fetch_label": "早报"
+  },
+  {
     "title": "The AI gold rush is pulling private wealth into riskier, earlier bets",
     "url": "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/",
     "source": "TechCrunch AI",
