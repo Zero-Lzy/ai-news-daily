@@ -1,5 +1,168 @@
 [
   {
+    "title": "Claude Code plugin for LLM research with typed claims and conflict detection",
+    "url": "https://github.com/grainulation/grainulator",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/grainulation/grainulator Comments URL: https://news.ycombinator.com/item?id=47698620 Points: 2 # Comments: 0",
+    "published_at": "2026-04-09 02:20",
+    "tags": [],
+    "fetch_date": "2026-04-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Is Weird",
+    "url": "https://www.wheresyoured.at/ai-is-really-weird/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wheresyoured.at/ai-is-really-weird/ Comments URL: https://news.ycombinator.com/item?id=47698558 Points: 1 # Comments: 0",
+    "published_at": "2026-04-09 02:08",
+    "tags": [],
+    "fetch_date": "2026-04-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Public Domain Audiobooks with AI (Azalea Audio)",
+    "url": "https://apps.apple.com/us/app/azalea-audio/id6761150322",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://apps.apple.com/us/app/azalea-audio/id6761150322 Comments URL: https://news.ycombinator.com/item?id=47698471 Points: 1 # Comments: 1",
+    "published_at": "2026-04-09 01:55",
+    "tags": [],
+    "fetch_date": "2026-04-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI and the Human Voice",
+    "url": "https://gilest.org/notes/2026/human-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://gilest.org/notes/2026/human-ai/ Comments URL: https://news.ycombinator.com/item?id=47698264 Points: 2 # Comments: 0",
+    "published_at": "2026-04-09 01:23",
+    "tags": [],
+    "fetch_date": "2026-04-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Codex overtakes Claude Code to become #1 AI coding tool (April 2026)",
+    "url": "https://ai-coding.info/en",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://ai-coding.info/en Comments URL: https://news.ycombinator.com/item?id=47698249 Points: 4 # Comments: 0",
+    "published_at": "2026-04-09 01:20",
+    "tags": [],
+    "fetch_date": "2026-04-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask HN: Deterministic codebase maps vs. LLM inferred knowledge graphs?",
+    "url": "https://news.ycombinator.com/item?id=47698191",
+    "source": "Hacker News AI",
+    "summary": "2 approaches are emerging for giving ai agents structural understanding of a codebase.1. LLM inferred. fast to build. but edges are labeled INFERRED because the model is just guessing. confidence scores include bc it knows it could be wrong2. deterministic. built straight from the actual code. same input same output every time. no guessingso my question is: why on earth is the inferred approach winning on github right now?? it seems clear to me which one wins. Does deterministic structure matter",
+    "published_at": "2026-04-09 01:11",
+    "tags": [],
+    "fetch_date": "2026-04-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Japan lessens privacy laws to become \"The easiest county to develop AI in\"",
+    "url": "https://www.theregister.com/2026/04/08/japan_privacy_law_changes_ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theregister.com/2026/04/08/japan_privacy_law_changes_ai/ Comments URL: https://news.ycombinator.com/item?id=47698070 Points: 5 # Comments: 1",
+    "published_at": "2026-04-09 00:55",
+    "tags": [],
+    "fetch_date": "2026-04-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: BakaBags, a tsundere AI that roasts yours Solana wallets",
+    "url": "https://bakabags.xyz",
+    "source": "Hacker News AI",
+    "summary": "BakaBags is a small experiment I built over the last week.You paste a public Solana wallet address, the app reads the wallet’s holdings and current market context, and an AI character reacts to the portfolio in a sharp, screenshotable way.Important: it only reads public wallet data. There is no wallet connect, no signing, and no private key access.The idea was to combine onchain data with personality instead of building yet another sterile dashboard. So it sits somewhere between wallet analysis,",
+    "published_at": "2026-04-09 00:53",
+    "tags": [],
+    "fetch_date": "2026-04-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask HN: Advice for college grads starting careers in the AI era?",
+    "url": "https://news.ycombinator.com/item?id=47697970",
+    "source": "Hacker News AI",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=47697970 Points: 1 # Comments: 2",
+    "published_at": "2026-04-09 00:41",
+    "tags": [],
+    "fetch_date": "2026-04-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Constructing an LLM Computer",
+    "url": "https://www.percepta.ai/blog/constructing-llm-computer",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.percepta.ai/blog/constructing-llm-computer Comments URL: https://news.ycombinator.com/item?id=47697724 Points: 3 # Comments: 0",
+    "published_at": "2026-04-09 00:00",
+    "tags": [],
+    "fetch_date": "2026-04-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Free-AI-ad-credits.md – $12K+ in free AI ad credits",
+    "url": "https://github.com/darwin-studios/agents/blob/main/free-ai-ad-credits.md",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/darwin-studios/agents/blob/main/free-ai-ad-credits.md Comments URL: https://news.ycombinator.com/item?id=47697647 Points: 1 # Comments: 0",
+    "published_at": "2026-04-08 23:49",
+    "tags": [],
+    "fetch_date": "2026-04-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The Hormuz chokehold affects AI funding too",
+    "url": "https://highabsolutevalue.substack.com/p/the-hormuz-chokehold-affects-ai-funding",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://highabsolutevalue.substack.com/p/the-hormuz-chokehold-affects-ai-funding Comments URL: https://news.ycombinator.com/item?id=47697525 Points: 6 # Comments: 0",
+    "published_at": "2026-04-08 23:31",
+    "tags": [],
+    "fetch_date": "2026-04-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Source: An app to prove your photos aren't AI",
+    "url": "https://www.openorigins.com/products/secure-source",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.openorigins.com/products/secure-source Comments URL: https://news.ycombinator.com/item?id=47697288 Points: 5 # Comments: 3",
+    "published_at": "2026-04-08 22:58",
+    "tags": [],
+    "fetch_date": "2026-04-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Poke makes using AI agents as easy as sending a text",
+    "url": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+    "source": "TechCrunch AI",
+    "summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+    "published_at": "2026-04-08 21:05",
+    "tags": [
+      "AI",
+      "Startups",
+      "AI agents",
+      "ai automation",
+      "consumer AI",
+      "Exclusive",
+      "Poke"
+    ],
+    "fetch_date": "2026-04-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Gemini gets notebooks to help you organize projects",
+    "url": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
+    "source": "The Verge AI",
+    "summary": "Google's Gemini is getting a feature called \"notebooks\" to help you organize things about certain topics in a single place while using the AI chatbot, the company announced on Wednesday. You can pull in things like files, past conversations, and custom instructions into notebooks that Gemini can then use as context while you're talking with [&#8230;]",
+    "published_at": "2026-04-08 20:06",
+    "tags": [
+      "AI",
+      "Google",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-04-09",
+    "fetch_label": "早报"
+  },
+  {
     "title": "AI Sourcing Tool from Spain",
     "url": "https://www.heytalent.app/",
     "source": "Hacker News AI",
@@ -130,6 +293,37 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "The vibes are off at OpenAI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai",
+    "source": "The Verge AI",
+    "summary": "OpenAI is in a relatively precarious position. The company is and has been a funding behemoth - just over a week ago, it closed $122 billion in funding at a post-money valuation of $852 billion. It's potentially planning for an IPO later this year. ChatGPT's longtime lead in consumer-facing AI led it to name-brand status [&#8230;]",
+    "published_at": "2026-04-08 09:47",
+    "tags": [
+      "AI",
+      "Analysis",
+      "OpenAI",
+      "Report"
+    ],
+    "fetch_date": "2026-04-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Unionized ProPublica staff are on strike over AI, layoffs, and wages",
+    "url": "https://www.theverge.com/news/908401/propublica-union-strike-negotiations-ai-layoffs",
+    "source": "The Verge AI",
+    "summary": "Unionized staff at ProPublica, one of the country's leading nonprofit newsrooms, are walking off the job for 24 hours beginning Wednesday and asking the public to honor a digital picket line. The roughly 150 members of the ProPublica Guild are in the midst of negotiating a collective bargaining agreement after unionizing in 2023. The union [&#8230;]",
+    "published_at": "2026-04-08 07:53",
+    "tags": [
+      "AI",
+      "Creators",
+      "Labor",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-04-09",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Sam Altman on Building the Future of AI [video]",
     "url": "https://forum.openai.com/public/videos/event-replay-sam-altman-on-building-the-future-of-ai-2026-04-06",
     "source": "Hacker News AI",
@@ -257,6 +451,22 @@
     "published_at": "2026-04-07 23:01",
     "tags": [],
     "fetch_date": "2026-04-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation",
+    "url": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
+    "source": "TechCrunch AI",
+    "summary": "Nvidia-backed Asia AI data center provider Firmus has now raised $1.35 billion in six months.",
+    "published_at": "2026-04-07 18:46",
+    "tags": [
+      "AI",
+      "Startups",
+      "data centers",
+      "In Brief",
+      "nvidia"
+    ],
+    "fetch_date": "2026-04-09",
     "fetch_label": "早报"
   },
   {
