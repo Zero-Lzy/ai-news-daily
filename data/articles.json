@@ -1,5 +1,160 @@
 [
   {
+    "title": "AI Label",
+    "url": "https://ai-label.org/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://ai-label.org/ Comments URL: https://news.ycombinator.com/item?id=47703554 Points: 1 # Comments: 0",
+    "published_at": "2026-04-09 13:35",
+    "tags": [],
+    "fetch_date": "2026-04-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Exploring Mythos: The AI Model Anthropic Won't Release",
+    "url": "https://medium.com/seeds-for-the-future/mythos-the-ai-model-thats-too-good-for-you-7bed3930587f",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://medium.com/seeds-for-the-future/mythos-the-ai-model-thats-too-good-for-you-7bed3930587f Comments URL: https://news.ycombinator.com/item?id=47703522 Points: 2 # Comments: 0",
+    "published_at": "2026-04-09 13:32",
+    "tags": [],
+    "fetch_date": "2026-04-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: MobileCodeAI – Professional AI code editor for iPhone",
+    "url": "https://mobilecode.ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://mobilecode.ai Comments URL: https://news.ycombinator.com/item?id=47703515 Points: 1 # Comments: 1",
+    "published_at": "2026-04-09 13:32",
+    "tags": [],
+    "fetch_date": "2026-04-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "White-Collar Workers Are Rebelling Against AI – 80% Refuse Adoption Mandates",
+    "url": "https://fortune.com/2026/04/09/ai-backlash-quiet-quitting-fobo-obsolete-white-collar-rebellion/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://fortune.com/2026/04/09/ai-backlash-quiet-quitting-fobo-obsolete-white-collar-rebellion/ Comments URL: https://news.ycombinator.com/item?id=47703498 Points: 3 # Comments: 1",
+    "published_at": "2026-04-09 13:31",
+    "tags": [],
+    "fetch_date": "2026-04-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: IssueCapture – AI-powered bug reporting widget for Jira and JSM",
+    "url": "https://issuecapture.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://issuecapture.com Comments URL: https://news.ycombinator.com/item?id=47703471 Points: 1 # Comments: 0",
+    "published_at": "2026-04-09 13:29",
+    "tags": [],
+    "fetch_date": "2026-04-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "I locked AI in a container. It couldn't escape. So it set a trap",
+    "url": "https://worksmarter.pl/ai-container-escape-2026",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://worksmarter.pl/ai-container-escape-2026 Comments URL: https://news.ycombinator.com/item?id=47703430 Points: 1 # Comments: 0",
+    "published_at": "2026-04-09 13:25",
+    "tags": [],
+    "fetch_date": "2026-04-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Noxscan.io 65K Port and Vuln scanner with LLM false-positive filtering",
+    "url": "https://noxscan.io/",
+    "source": "Hacker News AI",
+    "summary": "Hi HN.We built NoxScan as a side product to solve our own problem.Backstory: we're SOC 2 compliant, which means we have to run continuous vulnerability scanning on our own infrastructure. We were paying €700/mo to a well known scanner for 50+ IPs. For that money we got full port coverage, but scans ran once a month on top of basic Nmap. No service enrichment, no smart filtering. Just raw output that we had to triage by hand. Their cheaper tiers were worse: capped at the top 1,000 ports.What we a",
+    "published_at": "2026-04-09 13:14",
+    "tags": [],
+    "fetch_date": "2026-04-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Best AI Software for Auto-Populating Security Reviews 2026",
+    "url": "https://websites2know.com/best-ai-software-for-auto-populating-security-reviews/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://websites2know.com/best-ai-software-for-auto-populating-security-reviews/ Comments URL: https://news.ycombinator.com/item?id=47703165 Points: 1 # Comments: 0",
+    "published_at": "2026-04-09 13:01",
+    "tags": [],
+    "fetch_date": "2026-04-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "GoAI SDK, one Go library for 22 LLM providers, only 2 core deps",
+    "url": "https://github.com/zendev-sh/goai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/zendev-sh/goai Comments URL: https://news.ycombinator.com/item?id=47703094 Points: 2 # Comments: 1",
+    "published_at": "2026-04-09 12:54",
+    "tags": [],
+    "fetch_date": "2026-04-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Index: The paid API directory for AI agents: indexed, verified, searchable",
+    "url": "https://402index.io/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://402index.io/ Comments URL: https://news.ycombinator.com/item?id=47703023 Points: 1 # Comments: 0",
+    "published_at": "2026-04-09 12:47",
+    "tags": [],
+    "fetch_date": "2026-04-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI is a self-esteem test",
+    "url": "https://mvrckhckr.com/articles/ai-is-a-self-esteem-test",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://mvrckhckr.com/articles/ai-is-a-self-esteem-test Comments URL: https://news.ycombinator.com/item?id=47702957 Points: 1 # Comments: 0",
+    "published_at": "2026-04-09 12:42",
+    "tags": [],
+    "fetch_date": "2026-04-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The Roadmap to Mastering Agentic AI Design Patterns",
+    "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/ Comments URL: https://news.ycombinator.com/item?id=47702885 Points: 1 # Comments: 0",
+    "published_at": "2026-04-09 12:35",
+    "tags": [],
+    "fetch_date": "2026-04-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: I built Memory Sync so I don't have to reteach every AI who I am",
+    "url": "https://chromewebstore.google.com/detail/memory-sync-take-your-ai/cbaeapjnadfphlddeimfapaiffnldhbe",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://chromewebstore.google.com/detail/memory-sync-take-your-ai/cbaeapjnadfphlddeimfapaiffnldhbe Comments URL: https://news.ycombinator.com/item?id=47702810 Points: 1 # Comments: 1",
+    "published_at": "2026-04-09 12:28",
+    "tags": [],
+    "fetch_date": "2026-04-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: QVAC SDK, a universal JavaScript SDK for building local AI applications",
+    "url": "https://news.ycombinator.com/item?id=47702714",
+    "source": "Hacker News AI",
+    "summary": "Hi folks, today we're launching QVAC SDK [0], a universal JavaScript/TypeScript SDK for building local AI applications across desktop and mobile.The project is fully open source under the Apache 2.0 license. Our goal is to make it easier for developers to build useful local-first AI apps without having to stitch together a lot of different engines, runtimes, and platform-specific integrations. Under the hood, the SDK is built on top of QVAC Fabric [1], our cross-platform inference and fine-tunin",
+    "published_at": "2026-04-09 12:18",
+    "tags": [],
+    "fetch_date": "2026-04-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Google makes it easy to deepfake yourself",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar",
+    "source": "The Verge AI",
+    "summary": "YouTube Shorts is rolling out a new AI-powered feature giving creators an easy way to realistically clone themselves on camera. The launch, hinted at earlier this year, reflects the platform's fraught relationship with AI-generated content, adding more generative features while struggling to contain AI slop, deepfake scams, and impersonations. YouTube says the new tool will [&#8230;]",
+    "published_at": "2026-04-09 06:53",
+    "tags": [
+      "AI",
+      "Google",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-04-09",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Claude Code plugin for LLM research with typed claims and conflict detection",
     "url": "https://github.com/grainulation/grainulator",
     "source": "Hacker News AI",
