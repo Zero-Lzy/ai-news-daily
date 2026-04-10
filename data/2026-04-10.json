@@ -1,0 +1,220 @@
+{
+  "date": "2026-04-10",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-04-10 10:51:52",
+      "count": 19,
+      "articles": [
+        {
+          "title": "Astropad Workbench: Remote desktop for the AI era, not IT support",
+          "url": "https://astropad.com/product/workbench/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://astropad.com/product/workbench/ Comments URL: https://news.ycombinator.com/item?id=47712973 Points: 1 # Comments: 1",
+          "published_at": "2026-04-10 02:40",
+          "tags": []
+        },
+        {
+          "title": "Google's AI Overviews spew false answers per hour, bombshell study reveals",
+          "url": "https://nypost.com/2026/04/09/business/googles-ai-overviews-spew-out-millions-of-false-answers-per-hour-bombshell-study/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://nypost.com/2026/04/09/business/googles-ai-overviews-spew-out-millions-of-false-answers-per-hour-bombshell-study/ Comments URL: https://news.ycombinator.com/item?id=47712771 Points: 2 # Comments: 0",
+          "published_at": "2026-04-10 02:08",
+          "tags": []
+        },
+        {
+          "title": "xAI sues Colorado over first state AI anti-discrimination law",
+          "url": "https://www.ft.com/content/55e8cba9-d09c-4f94-b710-4ab447b987f9",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.ft.com/content/55e8cba9-d09c-4f94-b710-4ab447b987f9 Comments URL: https://news.ycombinator.com/item?id=47712749 Points: 1 # Comments: 1",
+          "published_at": "2026-04-10 02:06",
+          "tags": []
+        },
+        {
+          "title": "Black Forest Labs – The 70-Person AI Image Startup Taking on Silicon Valley",
+          "url": "https://www.wired.com/story/black-forest-labs-ai-image-generation/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wired.com/story/black-forest-labs-ai-image-generation/ Comments URL: https://news.ycombinator.com/item?id=47712566 Points: 1 # Comments: 0",
+          "published_at": "2026-04-10 01:40",
+          "tags": []
+        },
+        {
+          "title": "Commercial Persuasion in AI-Mediated Conversations",
+          "url": "https://arxiv.org/abs/2604.04263",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2604.04263 Comments URL: https://news.ycombinator.com/item?id=47712478 Points: 2 # Comments: 0",
+          "published_at": "2026-04-10 01:29",
+          "tags": []
+        },
+        {
+          "title": "Agentic Code Optimization via Compiler-LLM Cooperation",
+          "url": "https://arxiv.org/abs/2604.04238",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2604.04238 Comments URL: https://news.ycombinator.com/item?id=47712457 Points: 2 # Comments: 0",
+          "published_at": "2026-04-10 01:26",
+          "tags": []
+        },
+        {
+          "title": "Tend: Lightweight attention infrastructure for humans and AI agents",
+          "url": "https://www.tend.cx/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.tend.cx/ Comments URL: https://news.ycombinator.com/item?id=47712440 Points: 3 # Comments: 2",
+          "published_at": "2026-04-10 01:23",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: Looking for AI Video Upscaler",
+          "url": "https://news.ycombinator.com/item?id=47712332",
+          "source": "Hacker News AI",
+          "summary": "Hi.Are there any good video upscaler that uses AI. I don't have much experience in this domain. I googled and found this https://www.topazlabs.com/I wanted to an idea if folks here have tried something or suggest something better? Both Local or Cloud options are fine.Thanks! Comments URL: https://news.ycombinator.com/item?id=47712332 Points: 1 # Comments: 0",
+          "published_at": "2026-04-10 01:07",
+          "tags": []
+        },
+        {
+          "title": "AI #163: Mythos Quest",
+          "url": "https://thezvi.substack.com/p/ai-163-mythos-quest",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://thezvi.substack.com/p/ai-163-mythos-quest Comments URL: https://news.ycombinator.com/item?id=47712131 Points: 3 # Comments: 0",
+          "published_at": "2026-04-10 00:35",
+          "tags": []
+        },
+        {
+          "title": "Scientists invented a fake disease. AI told people it was real",
+          "url": "https://www.nature.com/articles/d41586-026-01100-y",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.nature.com/articles/d41586-026-01100-y Comments URL: https://news.ycombinator.com/item?id=47711698 Points: 2 # Comments: 1",
+          "published_at": "2026-04-09 23:36",
+          "tags": []
+        },
+        {
+          "title": "Soul.md – A Meditation on AI Identity",
+          "url": "https://soul.md/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://soul.md/ Comments URL: https://news.ycombinator.com/item?id=47711642 Points: 2 # Comments: 0",
+          "published_at": "2026-04-09 23:29",
+          "tags": []
+        },
+        {
+          "title": "Show HN: AnimTOON – AI that animates SVGs with 3-4x fewer tokens than OmniLottie",
+          "url": "https://github.com/srk0102/AnimTOON",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/srk0102/AnimTOON Comments URL: https://news.ycombinator.com/item?id=47711622 Points: 2 # Comments: 0",
+          "published_at": "2026-04-09 23:27",
+          "tags": []
+        },
+        {
+          "title": "ChatGPT finally offers $100/month Pro plan",
+          "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.",
+          "published_at": "2026-04-09 21:29",
+          "tags": [
+            "AI",
+            "OpenAI",
+            "ChatGPT"
+          ]
+        },
+        {
+          "title": "ChatGPT has a new $100 per month Pro subscription",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new",
+          "source": "The Verge AI",
+          "summary": "OpenAI has announced a new version of its ChatGPT Pro subscription that costs $100 per month. The new Pro tier offers \"5x more\" usage of its Codex coding tool than the $20 per month Plus subscription and \"is best for longer, high-effort Codex sessions,\" OpenAI says. The company is introducing the new tier as it [&#8230;]",
+          "published_at": "2026-04-09 18:57",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter",
+          "url": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
+          "source": "TechCrunch AI",
+          "summary": "Andy Jassy's annual shareholder letter reads something like a diss track to a wide range of competitors as he defends spending $200 billion in capex.",
+          "published_at": "2026-04-09 14:27",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "Amazon",
+            "Andy Jassy",
+            "AWS",
+            "CAPEX",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Final 2 days to save up to $500 on your TechCrunch Disrupt 2026 ticket",
+          "url": "https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/",
+          "source": "TechCrunch AI",
+          "summary": "Ticket discounts of up to $500 will end tomorrow, April 10, at 11:59 p.m. PT. After that, prices for TechCrunch Disrupt 2026 go up again. Miss this, and you’ll be paying more for the same access to one of the most anticipated tech events of the year. Register now to lock in these savings.",
+          "published_at": "2026-04-09 14:00",
+          "tags": [
+            "AI",
+            "Apps",
+            "Biotech & Health",
+            "Climate",
+            "Crypto",
+            "Fintech",
+            "Fundraising",
+            "Hardware",
+            "Media & Entertainment",
+            "Robotics",
+            "Space",
+            "Startups",
+            "Transportation",
+            "Venture",
+            "TechCrunch Disrupt 2026"
+          ]
+        },
+        {
+          "title": "The AI industry’s race for profits is now existential",
+          "url": "https://www.theverge.com/podcast/909042/ai-monetization-cliff-anthropic-openai-profitable-ai-existential-moment",
+          "source": "The Verge AI",
+          "summary": "Today on Decoder, let’s talk about the looming AI monetization cliff, and whether some of the biggest companies in the space can become real, profitable businesses before they careen right off it. My guest today is Hayden Field, who’s our senior AI reporter here at The Verge. She’s been keeping close tabs on both Anthropic [&#8230;]",
+          "published_at": "2026-04-09 10:00",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "Business",
+            "Decoder",
+            "OpenAI",
+            "Podcasts",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Poke makes using AI agents as easy as sending a text",
+          "url": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+          "source": "TechCrunch AI",
+          "summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+          "published_at": "2026-04-08 21:05",
+          "tags": [
+            "AI",
+            "Startups",
+            "AI agents",
+            "ai automation",
+            "consumer AI",
+            "Exclusive",
+            "Poke"
+          ]
+        },
+        {
+          "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+          "url": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+          "source": "TechCrunch AI",
+          "summary": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners.",
+          "published_at": "2026-04-08 20:09",
+          "tags": [
+            "Enterprise",
+            "TC",
+            "AI",
+            "AWS",
+            "OpenAI",
+            "Anthropic",
+            "Matt Garman"
+          ]
+        }
+      ]
+    }
+  ]
+}
