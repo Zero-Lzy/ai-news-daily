@@ -215,6 +215,217 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-04-10 21:14:38",
+      "count": 19,
+      "articles": [
+        {
+          "title": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths",
+          "url": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/ Comments URL: https://news.ycombinator.com/item?id=47717587 Points: 1 # Comments: 0",
+          "published_at": "2026-04-10 13:08",
+          "tags": []
+        },
+        {
+          "title": "A Taxonomy of RL Environments for LLM Agents",
+          "url": "https://leehanchung.github.io/blogs/2026/03/21/rl-environments-for-llm-agents/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://leehanchung.github.io/blogs/2026/03/21/rl-environments-for-llm-agents/ Comments URL: https://news.ycombinator.com/item?id=47717515 Points: 2 # Comments: 0",
+          "published_at": "2026-04-10 13:02",
+          "tags": []
+        },
+        {
+          "title": "South Africa's VALR Launches AI Service for Humans and AI Agents",
+          "url": "https://mybroadband.co.za/news/industrynews/639519-valr-launches-ai-service-for-humans-and-ai-agents.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://mybroadband.co.za/news/industrynews/639519-valr-launches-ai-service-for-humans-and-ai-agents.html Comments URL: https://news.ycombinator.com/item?id=47717240 Points: 1 # Comments: 0",
+          "published_at": "2026-04-10 12:41",
+          "tags": []
+        },
+        {
+          "title": "Llama LLM Network Feture",
+          "url": "https://github.com/Jeffyjefchat/oracle-protocol",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/Jeffyjefchat/oracle-protocol Comments URL: https://news.ycombinator.com/item?id=47717093 Points: 1 # Comments: 0",
+          "published_at": "2026-04-10 12:29",
+          "tags": []
+        },
+        {
+          "title": "My Picture of the Present in AI",
+          "url": "https://www.lesswrong.com/posts/WjaGAA4xCAXeFpyWm/my-picture-of-the-present-in-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.lesswrong.com/posts/WjaGAA4xCAXeFpyWm/my-picture-of-the-present-in-ai Comments URL: https://news.ycombinator.com/item?id=47717072 Points: 1 # Comments: 0",
+          "published_at": "2026-04-10 12:26",
+          "tags": []
+        },
+        {
+          "title": "Show HN: LLM-wiki LLM-compiled knowledge bases with multi-agent research v0.0.20",
+          "url": "https://llm-wiki.net/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://llm-wiki.net/ Comments URL: https://news.ycombinator.com/item?id=47717056 Points: 2 # Comments: 0",
+          "published_at": "2026-04-10 12:25",
+          "tags": []
+        },
+        {
+          "title": "AI-Powered Policing",
+          "url": "https://www.washingtonpost.com/national-security/2026/04/10/ai-police-criminal-investigations/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.washingtonpost.com/national-security/2026/04/10/ai-police-criminal-investigations/ Comments URL: https://news.ycombinator.com/item?id=47717021 Points: 1 # Comments: 0",
+          "published_at": "2026-04-10 12:22",
+          "tags": []
+        },
+        {
+          "title": "Nezha: Run multiple AI coding agents across projects (Claude Code and Codex)",
+          "url": "https://github.com/hanshuaikang/nezha",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/hanshuaikang/nezha Comments URL: https://news.ycombinator.com/item?id=47716973 Points: 1 # Comments: 2",
+          "published_at": "2026-04-10 12:18",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Apfel-Chat – Private, Local, Native AI Chat (MIT)",
+          "url": "https://apfel-chat.franzai.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://apfel-chat.franzai.com/ Comments URL: https://news.ycombinator.com/item?id=47716808 Points: 2 # Comments: 0",
+          "published_at": "2026-04-10 12:03",
+          "tags": []
+        },
+        {
+          "title": "Google Discusses Digital PR Impact on AI Recommendations",
+          "url": "https://www.searchenginejournal.com/google-discusses-digital-pr-impact-on-ai-recommendations/559864/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.searchenginejournal.com/google-discusses-digital-pr-impact-on-ai-recommendations/559864/ Comments URL: https://news.ycombinator.com/item?id=47716695 Points: 1 # Comments: 0",
+          "published_at": "2026-04-10 11:50",
+          "tags": []
+        },
+        {
+          "title": "Why Every Sprint Takes Longer Than the Last in AI-Generated Codebases",
+          "url": "https://vibecodiq.com/ai-chaos/pains/delivery-slowdown",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://vibecodiq.com/ai-chaos/pains/delivery-slowdown Comments URL: https://news.ycombinator.com/item?id=47716678 Points: 1 # Comments: 0",
+          "published_at": "2026-04-10 11:48",
+          "tags": []
+        },
+        {
+          "title": "Fear and loathing at OpenAI",
+          "url": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast",
+          "source": "The Verge AI",
+          "summary": "Sam Altman's tenure at OpenAI has been… messy. Messy to the point where Altman was briefly fired from his role as CEO, only to be reinstated days later, at which point he began reshaping the organization permanently. This week, The New Yorker published a deep look at Altman, his time at OpenAI, and the questions [&#8230;]",
+          "published_at": "2026-04-10 08:23",
+          "tags": [
+            "AI",
+            "OpenAI",
+            "Podcasts",
+            "Tech",
+            "Vergecast"
+          ]
+        },
+        {
+          "title": "Gen Z’s love-hate relationship with AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup",
+          "source": "The Verge AI",
+          "summary": "Gen Z is increasingly disillusioned with AI - just not enough to stop using it. A new Gallup report released this week, based on responses from nearly 1,600 people ages 14 to 29 across the US, suggests the hype is wearing off for the digital-native generation as AI becomes more embedded in school and work. [&#8230;]",
+          "published_at": "2026-04-10 07:23",
+          "tags": [
+            "AI",
+            "News"
+          ]
+        },
+        {
+          "title": "ChatGPT finally offers $100/month Pro plan",
+          "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.",
+          "published_at": "2026-04-09 21:29",
+          "tags": [
+            "AI",
+            "OpenAI",
+            "ChatGPT"
+          ]
+        },
+        {
+          "title": "ChatGPT has a new $100 per month Pro subscription",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new",
+          "source": "The Verge AI",
+          "summary": "OpenAI has announced a new version of its ChatGPT Pro subscription that costs $100 per month. The new Pro tier offers \"5x more\" usage of its Codex coding tool than the $20 per month Plus subscription and \"is best for longer, high-effort Codex sessions,\" OpenAI says. The company is introducing the new tier as it [&#8230;]",
+          "published_at": "2026-04-09 18:57",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Sierra’s Bret Taylor says the era of clicking buttons is over",
+          "url": "https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/",
+          "source": "TechCrunch AI",
+          "summary": "Last month, Sierra launched Ghostwriter, an agent designed to build other agents. With this “agent as a service” tool, the startup intends to replace traditional click-based web applications with natural language. Users simply describe what they need, prompting Ghostwriter to autonomously create and deploy a specialized agent to execute the task.",
+          "published_at": "2026-04-09 17:20",
+          "tags": [
+            "AI",
+            "Startups",
+            "Bret Taylor",
+            "AI agents",
+            "Sierra Ai"
+          ]
+        },
+        {
+          "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter",
+          "url": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
+          "source": "TechCrunch AI",
+          "summary": "Andy Jassy's annual shareholder letter reads something like a diss track to a wide range of competitors as he defends spending $200 billion in capex.",
+          "published_at": "2026-04-09 14:27",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "Amazon",
+            "Andy Jassy",
+            "AWS",
+            "CAPEX",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Final 2 days to save up to $500 on your TechCrunch Disrupt 2026 ticket",
+          "url": "https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/",
+          "source": "TechCrunch AI",
+          "summary": "Ticket discounts of up to $500 will end tomorrow, April 10, at 11:59 p.m. PT. After that, prices for TechCrunch Disrupt 2026 go up again. Miss this, and you’ll be paying more for the same access to one of the most anticipated tech events of the year. Register now to lock in these savings.",
+          "published_at": "2026-04-09 14:00",
+          "tags": [
+            "AI",
+            "Apps",
+            "Biotech & Health",
+            "Climate",
+            "Crypto",
+            "Fintech",
+            "Fundraising",
+            "Hardware",
+            "Media & Entertainment",
+            "Robotics",
+            "Space",
+            "Startups",
+            "Transportation",
+            "Venture",
+            "TechCrunch Disrupt 2026"
+          ]
+        },
+        {
+          "title": "Google’s Gemini AI can answer your questions with 3D models and simulations",
+          "url": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations",
+          "source": "The Verge AI",
+          "summary": "Google's latest upgrade for Gemini will allow the chatbot to generate interactive 3D models and simulations in response to your questions. With the new feature, you may see options to rotate the AI-generated model, manually adjust sliders on it, or input different values to change the simulation in real time. When trying out the feature [&#8230;]",
+          "published_at": "2026-04-09 13:57",
+          "tags": [
+            "AI",
+            "Google",
+            "News",
+            "Tech"
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1,5 +1,144 @@
 [
   {
+    "title": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths",
+    "url": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/ Comments URL: https://news.ycombinator.com/item?id=47717587 Points: 1 # Comments: 0",
+    "published_at": "2026-04-10 13:08",
+    "tags": [],
+    "fetch_date": "2026-04-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "A Taxonomy of RL Environments for LLM Agents",
+    "url": "https://leehanchung.github.io/blogs/2026/03/21/rl-environments-for-llm-agents/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://leehanchung.github.io/blogs/2026/03/21/rl-environments-for-llm-agents/ Comments URL: https://news.ycombinator.com/item?id=47717515 Points: 2 # Comments: 0",
+    "published_at": "2026-04-10 13:02",
+    "tags": [],
+    "fetch_date": "2026-04-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "South Africa's VALR Launches AI Service for Humans and AI Agents",
+    "url": "https://mybroadband.co.za/news/industrynews/639519-valr-launches-ai-service-for-humans-and-ai-agents.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://mybroadband.co.za/news/industrynews/639519-valr-launches-ai-service-for-humans-and-ai-agents.html Comments URL: https://news.ycombinator.com/item?id=47717240 Points: 1 # Comments: 0",
+    "published_at": "2026-04-10 12:41",
+    "tags": [],
+    "fetch_date": "2026-04-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Llama LLM Network Feture",
+    "url": "https://github.com/Jeffyjefchat/oracle-protocol",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/Jeffyjefchat/oracle-protocol Comments URL: https://news.ycombinator.com/item?id=47717093 Points: 1 # Comments: 0",
+    "published_at": "2026-04-10 12:29",
+    "tags": [],
+    "fetch_date": "2026-04-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "My Picture of the Present in AI",
+    "url": "https://www.lesswrong.com/posts/WjaGAA4xCAXeFpyWm/my-picture-of-the-present-in-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.lesswrong.com/posts/WjaGAA4xCAXeFpyWm/my-picture-of-the-present-in-ai Comments URL: https://news.ycombinator.com/item?id=47717072 Points: 1 # Comments: 0",
+    "published_at": "2026-04-10 12:26",
+    "tags": [],
+    "fetch_date": "2026-04-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: LLM-wiki LLM-compiled knowledge bases with multi-agent research v0.0.20",
+    "url": "https://llm-wiki.net/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://llm-wiki.net/ Comments URL: https://news.ycombinator.com/item?id=47717056 Points: 2 # Comments: 0",
+    "published_at": "2026-04-10 12:25",
+    "tags": [],
+    "fetch_date": "2026-04-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI-Powered Policing",
+    "url": "https://www.washingtonpost.com/national-security/2026/04/10/ai-police-criminal-investigations/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.washingtonpost.com/national-security/2026/04/10/ai-police-criminal-investigations/ Comments URL: https://news.ycombinator.com/item?id=47717021 Points: 1 # Comments: 0",
+    "published_at": "2026-04-10 12:22",
+    "tags": [],
+    "fetch_date": "2026-04-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Nezha: Run multiple AI coding agents across projects (Claude Code and Codex)",
+    "url": "https://github.com/hanshuaikang/nezha",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/hanshuaikang/nezha Comments URL: https://news.ycombinator.com/item?id=47716973 Points: 1 # Comments: 2",
+    "published_at": "2026-04-10 12:18",
+    "tags": [],
+    "fetch_date": "2026-04-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Apfel-Chat – Private, Local, Native AI Chat (MIT)",
+    "url": "https://apfel-chat.franzai.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://apfel-chat.franzai.com/ Comments URL: https://news.ycombinator.com/item?id=47716808 Points: 2 # Comments: 0",
+    "published_at": "2026-04-10 12:03",
+    "tags": [],
+    "fetch_date": "2026-04-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Google Discusses Digital PR Impact on AI Recommendations",
+    "url": "https://www.searchenginejournal.com/google-discusses-digital-pr-impact-on-ai-recommendations/559864/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.searchenginejournal.com/google-discusses-digital-pr-impact-on-ai-recommendations/559864/ Comments URL: https://news.ycombinator.com/item?id=47716695 Points: 1 # Comments: 0",
+    "published_at": "2026-04-10 11:50",
+    "tags": [],
+    "fetch_date": "2026-04-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Why Every Sprint Takes Longer Than the Last in AI-Generated Codebases",
+    "url": "https://vibecodiq.com/ai-chaos/pains/delivery-slowdown",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://vibecodiq.com/ai-chaos/pains/delivery-slowdown Comments URL: https://news.ycombinator.com/item?id=47716678 Points: 1 # Comments: 0",
+    "published_at": "2026-04-10 11:48",
+    "tags": [],
+    "fetch_date": "2026-04-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Fear and loathing at OpenAI",
+    "url": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast",
+    "source": "The Verge AI",
+    "summary": "Sam Altman's tenure at OpenAI has been… messy. Messy to the point where Altman was briefly fired from his role as CEO, only to be reinstated days later, at which point he began reshaping the organization permanently. This week, The New Yorker published a deep look at Altman, his time at OpenAI, and the questions [&#8230;]",
+    "published_at": "2026-04-10 08:23",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "Podcasts",
+      "Tech",
+      "Vergecast"
+    ],
+    "fetch_date": "2026-04-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Gen Z’s love-hate relationship with AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup",
+    "source": "The Verge AI",
+    "summary": "Gen Z is increasingly disillusioned with AI - just not enough to stop using it. A new Gallup report released this week, based on responses from nearly 1,600 people ages 14 to 29 across the US, suggests the hype is wearing off for the digital-native generation as AI becomes more embedded in school and work. [&#8230;]",
+    "published_at": "2026-04-10 07:23",
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "fetch_date": "2026-04-10",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Astropad Workbench: Remote desktop for the AI era, not IT support",
     "url": "https://astropad.com/product/workbench/",
     "source": "Hacker News AI",
@@ -148,6 +287,22 @@
     "fetch_label": "早报"
   },
   {
+    "title": "Sierra’s Bret Taylor says the era of clicking buttons is over",
+    "url": "https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/",
+    "source": "TechCrunch AI",
+    "summary": "Last month, Sierra launched Ghostwriter, an agent designed to build other agents. With this “agent as a service” tool, the startup intends to replace traditional click-based web applications with natural language. Users simply describe what they need, prompting Ghostwriter to autonomously create and deploy a specialized agent to execute the task.",
+    "published_at": "2026-04-09 17:20",
+    "tags": [
+      "AI",
+      "Startups",
+      "Bret Taylor",
+      "AI agents",
+      "Sierra Ai"
+    ],
+    "fetch_date": "2026-04-10",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter",
     "url": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
     "source": "TechCrunch AI",
@@ -190,6 +345,21 @@
     ],
     "fetch_date": "2026-04-10",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Google’s Gemini AI can answer your questions with 3D models and simulations",
+    "url": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations",
+    "source": "The Verge AI",
+    "summary": "Google's latest upgrade for Gemini will allow the chatbot to generate interactive 3D models and simulations in response to your questions. With the new feature, you may see options to rotate the AI-generated model, manually adjust sliders on it, or input different values to change the simulation in real time. When trying out the feature [&#8230;]",
+    "published_at": "2026-04-09 13:57",
+    "tags": [
+      "AI",
+      "Google",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-04-10",
+    "fetch_label": "晚报"
   },
   {
     "title": "AI Label",
