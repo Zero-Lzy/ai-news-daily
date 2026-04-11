@@ -1,5 +1,20 @@
 [
   {
+    "title": "How Iran out-shitposted the White House",
+    "url": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
+    "source": "The Verge AI",
+    "summary": "In the early days of the war on Iran, while the White House was busy posting Call of Duty memes and AI slop of dancing bowling pins, the Iranian regime's state media was flooding the zone with video after video of what was happening on the ground: Explosions over Tehran. Smoke billowing in the sky. [&#8230;]",
+    "published_at": "2026-04-11 09:00",
+    "tags": [
+      "AI",
+      "Policy",
+      "Politics",
+      "Report"
+    ],
+    "fetch_date": "2026-04-11",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Show HN: Collabmem – a memory system for long-term collaboration with AI",
     "url": "https://github.com/visionscaper/collabmem",
     "source": "Hacker News AI",
@@ -118,6 +133,22 @@
     "tags": [],
     "fetch_date": "2026-04-11",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
+    "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+    "source": "TechCrunch AI",
+    "summary": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
+    "published_at": "2026-04-10 20:27",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Claude",
+      "openclaw",
+      "Peter Steinberger"
+    ],
+    "fetch_date": "2026-04-11",
+    "fetch_label": "晚报"
   },
   {
     "title": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house",
