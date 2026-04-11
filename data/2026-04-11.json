@@ -1,0 +1,217 @@
+{
+  "date": "2026-04-11",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-04-11 10:36:12",
+      "count": 19,
+      "articles": [
+        {
+          "title": "Show HN: Collabmem – a memory system for long-term collaboration with AI",
+          "url": "https://github.com/visionscaper/collabmem",
+          "source": "Hacker News AI",
+          "summary": "Hello HN! I built collabmem, a simple memory system for long-term collaboration between humans and AI assistants. And it's easy to install, just ask Claude Code: Install the long-term collaboration memory system by cloning https://github.com/visionscaper/collabmem to a temporary location and following the instructions in it. To collaborate with AI over weeks, months, or even years, there needs to be a shared conceptual understanding of:- History (episodic memory): what has been done, why, and wh",
+          "published_at": "2026-04-11 01:02",
+          "tags": []
+        },
+        {
+          "title": "We gave an AI a 3-year Lease. It opened a store",
+          "url": "https://andonlabs.com/blog/andon-market-launch",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://andonlabs.com/blog/andon-market-launch Comments URL: https://news.ycombinator.com/item?id=47726041 Points: 3 # Comments: 0",
+          "published_at": "2026-04-11 01:01",
+          "tags": []
+        },
+        {
+          "title": "AI Code Is Hollowing Out Open Source, and Maintainers Are Looking the Other Way",
+          "url": "https://www.quippd.com/writing/2026/04/08/ai-code-is-hollowing-out-open-source-and-maintainers-are-looking-the-other-way.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.quippd.com/writing/2026/04/08/ai-code-is-hollowing-out-open-source-and-maintainers-are-looking-the-other-way.html Comments URL: https://news.ycombinator.com/item?id=47725874 Points: 3 # Comments: 0",
+          "published_at": "2026-04-11 00:44",
+          "tags": []
+        },
+        {
+          "title": "AI-Assisted Breach of Mexico's Government Infrastructure Report",
+          "url": "https://gambit.security/blog-post/a-single-operator-two-ai-platforms-nine-government-agencies-the-full-technical-report",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://gambit.security/blog-post/a-single-operator-two-ai-platforms-nine-government-agencies-the-full-technical-report Comments URL: https://news.ycombinator.com/item?id=47725419 Points: 1 # Comments: 0",
+          "published_at": "2026-04-10 23:49",
+          "tags": []
+        },
+        {
+          "title": "Maki – the efficient coder (AI agent)",
+          "url": "https://maki.sh/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://maki.sh/ Comments URL: https://news.ycombinator.com/item?id=47725243 Points: 4 # Comments: 1",
+          "published_at": "2026-04-10 23:35",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Offline AI dev assistant (no API, runs locally)",
+          "url": "https://store.steampowered.com/app/4111530/FriedrichAI_Offline_AI_Dev_Assistant/",
+          "source": "Hacker News AI",
+          "summary": "Built this after getting tired of fighting local AI setup (CUDA issues, dependencies, API configs). Goal was to make something that just runs locally without all the overhead. Happy to answer questions or get feedback. Comments URL: https://news.ycombinator.com/item?id=47725133 Points: 4 # Comments: 0",
+          "published_at": "2026-04-10 23:25",
+          "tags": []
+        },
+        {
+          "title": "Anthropic injects reasoning_effort=25 into Claude.ai consumer system prompts",
+          "url": "https://imgur.com/AOAs7Aq",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://imgur.com/AOAs7Aq Comments URL: https://news.ycombinator.com/item?id=47724951 Points: 4 # Comments: 1",
+          "published_at": "2026-04-10 23:08",
+          "tags": []
+        },
+        {
+          "title": "Meta Banks on AI to Clear the Smoke of Social-Media Lawsuits",
+          "url": "https://www.wsj.com/tech/meta-banks-on-ai-to-clear-the-smoke-of-social-media-lawsuits-902263dc",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wsj.com/tech/meta-banks-on-ai-to-clear-the-smoke-of-social-media-lawsuits-902263dc Comments URL: https://news.ycombinator.com/item?id=47724766 Points: 3 # Comments: 0",
+          "published_at": "2026-04-10 22:53",
+          "tags": []
+        },
+        {
+          "title": "Poll: Majority of voters say risks of AI outweigh the benefits",
+          "url": "https://www.nbcnews.com/politics/politics-news/poll-majority-voters-say-risks-ai-outweigh-benefits-rcna262196",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.nbcnews.com/politics/politics-news/poll-majority-voters-say-risks-ai-outweigh-benefits-rcna262196 Comments URL: https://news.ycombinator.com/item?id=47724634 Points: 4 # Comments: 1",
+          "published_at": "2026-04-10 22:42",
+          "tags": []
+        },
+        {
+          "title": "I built an AI that teaches your slides and answers questions",
+          "url": "https://lectura.biz",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://lectura.biz Comments URL: https://news.ycombinator.com/item?id=47724383 Points: 2 # Comments: 0",
+          "published_at": "2026-04-10 22:19",
+          "tags": []
+        },
+        {
+          "title": "I Tried Giving an AI Agent Gmail Access. It Took 19 Steps and Still Failed",
+          "url": "https://www.anson.im/blog/why-i-built-agentsmail/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.anson.im/blog/why-i-built-agentsmail/ Comments URL: https://news.ycombinator.com/item?id=47724364 Points: 2 # Comments: 0",
+          "published_at": "2026-04-10 22:17",
+          "tags": []
+        },
+        {
+          "title": "What's Going on in AI",
+          "url": "https://elicit.com/blog/situational-awareness-april-2026",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://elicit.com/blog/situational-awareness-april-2026 Comments URL: https://news.ycombinator.com/item?id=47724335 Points: 4 # Comments: 1",
+          "published_at": "2026-04-10 22:14",
+          "tags": []
+        },
+        {
+          "title": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail",
+          "source": "The Verge AI",
+          "summary": "San Francisco police have arrested a 20-year-old man suspected of throwing a Molotov cocktail at OpenAI CEO Sam Altman's Russian Hill house early Friday morning, The San Francisco Standard reports. The incident was caught on surveillance cameras shortly before 7AM ET. Later that morning, someone matching the suspect's description was seen making threats outside OpenAI's [&#8230;]",
+          "published_at": "2026-04-10 16:16",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI",
+            "Tech"
+          ]
+        },
+        {
+          "title": "The Iranian Lego AI video creators credit their virality to &#8216;heart&#8217;",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu",
+          "source": "The Verge AI",
+          "summary": "Donald Trump has spun the recent rescue of a downed airman whose fighter jet was destroyed behind Iranian borders as a resounding success. But the story is very different in one of the many viral, AI-generated Lego videos that have been produced by Iranian content creation group Explosive Media in the weeks since the US [&#8230;]",
+          "published_at": "2026-04-10 13:30",
+          "tags": [
+            "AI",
+            "Creators",
+            "Entertainment",
+            "Film",
+            "Policy",
+            "Tech",
+            "TikTok"
+          ]
+        },
+        {
+          "title": "Gen Z’s love-hate relationship with AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup",
+          "source": "The Verge AI",
+          "summary": "Gen Z is increasingly disillusioned with AI - just not enough to stop using it. A new Gallup report released this week, based on responses from nearly 1,600 people ages 14 to 29 across the US, suggests the hype is wearing off for the digital-native generation as AI becomes more embedded in school and work. [&#8230;]",
+          "published_at": "2026-04-10 07:23",
+          "tags": [
+            "AI",
+            "News"
+          ]
+        },
+        {
+          "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
+          "url": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
+          "source": "TechCrunch AI",
+          "summary": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 — and rising.",
+          "published_at": "2026-04-09 19:10",
+          "tags": [
+            "AI",
+            "Apps",
+            "Meta",
+            "meta ai",
+            "muse spark"
+          ]
+        },
+        {
+          "title": "ChatGPT has a new $100 per month Pro subscription",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new",
+          "source": "The Verge AI",
+          "summary": "OpenAI has announced a new version of its ChatGPT Pro subscription that costs $100 per month. The new Pro tier offers \"5x more\" usage of its Codex coding tool than the $20 per month Plus subscription and \"is best for longer, high-effort Codex sessions,\" OpenAI says. The company is introducing the new tier as it [&#8230;]",
+          "published_at": "2026-04-09 18:57",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Google and Intel deepen AI infrastructure partnership",
+          "url": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/",
+          "source": "TechCrunch AI",
+          "summary": "The two tech giants are looking to co-develop custom chips, at a time when demand for CPUs is high due to a growing global shortage.",
+          "published_at": "2026-04-09 18:27",
+          "tags": [
+            "AI",
+            "Hardware",
+            "Enterprise",
+            "ai infrastructure",
+            "cpus",
+            "google cloud",
+            "GPUS",
+            "In Brief",
+            "Intel",
+            "IPUs"
+          ]
+        },
+        {
+          "title": "Final 2 days to save up to $500 on your TechCrunch Disrupt 2026 ticket",
+          "url": "https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/",
+          "source": "TechCrunch AI",
+          "summary": "Ticket discounts of up to $500 will end tomorrow, April 10, at 11:59 p.m. PT. After that, prices for TechCrunch Disrupt 2026 go up again. Miss this, and you’ll be paying more for the same access to one of the most anticipated tech events of the year. Register now to lock in these savings.",
+          "published_at": "2026-04-09 14:00",
+          "tags": [
+            "AI",
+            "Apps",
+            "Biotech & Health",
+            "Climate",
+            "Crypto",
+            "Fintech",
+            "Fundraising",
+            "Hardware",
+            "Media & Entertainment",
+            "Robotics",
+            "Space",
+            "Startups",
+            "Transportation",
+            "Venture",
+            "TechCrunch Disrupt 2026"
+          ]
+        }
+      ]
+    }
+  ]
+}
