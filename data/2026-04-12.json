@@ -148,6 +148,111 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-04-12 21:04:20",
+      "count": 12,
+      "articles": [
+        {
+          "title": "World Socialist Web Site to Launch Socialism AI (2025)",
+          "url": "https://www.wsws.org/en/articles/2025/11/23/ohvk-n23.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wsws.org/en/articles/2025/11/23/ohvk-n23.html Comments URL: https://news.ycombinator.com/item?id=47739131 Points: 1 # Comments: 0",
+          "published_at": "2026-04-12 13:02",
+          "tags": []
+        },
+        {
+          "title": "Over 4,732 Messages, He Fell in Love with an AI Chatbot. Now He's Dead",
+          "url": "https://www.wsj.com/tech/ai/google-gemini-jonathan-gavalas-death-07351ab2",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wsj.com/tech/ai/google-gemini-jonathan-gavalas-death-07351ab2 Comments URL: https://news.ycombinator.com/item?id=47739110 Points: 1 # Comments: 0",
+          "published_at": "2026-04-12 12:59",
+          "tags": []
+        },
+        {
+          "title": "Show HN: SpecSource – AI That Writes Linear Specs from Sentry, GitHub, & Slack",
+          "url": "https://www.specsource.ai",
+          "source": "Hacker News AI",
+          "summary": "Hi HN, I'm Antoni. I built SpecSource to automate the tedious research you do for every new Linear ticket - matching with Sentry errors, finding the relevant code, searching Slack for context, checking for duplicates in Linear.You connect your ticketing system like Linear to tools like Sentry, GitHub, Slack, and when a new ticket comes in, an AI agent cross-references everything and writes a structured specification. Takes about 30 seconds. The output works well as input for AI coding agents too",
+          "published_at": "2026-04-12 12:54",
+          "tags": []
+        },
+        {
+          "title": "Touch some grass or how to survive during AI times",
+          "url": "https://www.mcbaguetti.xyz/touchgrass.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.mcbaguetti.xyz/touchgrass.html Comments URL: https://news.ycombinator.com/item?id=47739062 Points: 1 # Comments: 0",
+          "published_at": "2026-04-12 12:53",
+          "tags": []
+        },
+        {
+          "title": "OpenAI's vision for AI economy: public wealth funds, robot taxes, 4-day workweek",
+          "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/ Comments URL: https://news.ycombinator.com/item?id=47739053 Points: 2 # Comments: 0",
+          "published_at": "2026-04-12 12:51",
+          "tags": []
+        },
+        {
+          "title": "Agentsview: A local-first desktop and web app for browsing AI agent sessions",
+          "url": "https://github.com/wesm/agentsview",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/wesm/agentsview Comments URL: https://news.ycombinator.com/item?id=47738991 Points: 1 # Comments: 0",
+          "published_at": "2026-04-12 12:43",
+          "tags": []
+        },
+        {
+          "title": "Why AI Sucks at Front End",
+          "url": "https://nerdy.dev/why-ai-sucks-at-front-end",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 1 # Comments: 0",
+          "published_at": "2026-04-12 12:26",
+          "tags": []
+        },
+        {
+          "title": "LLM Wiki Skill: Build a Second Brain with Claude Code and Obsidian",
+          "url": "https://medium.com/@alirezarezvani/llm-wiki-skill-build-a-second-brain-with-claude-code-and-obsidian-2282752758c1",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://medium.com/@alirezarezvani/llm-wiki-skill-build-a-second-brain-with-claude-code-and-obsidian-2282752758c1 Comments URL: https://news.ycombinator.com/item?id=47738722 Points: 2 # Comments: 0",
+          "published_at": "2026-04-12 12:07",
+          "tags": []
+        },
+        {
+          "title": "HubVanta AI",
+          "url": "https://hubvanta.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://hubvanta.com/ Comments URL: https://news.ycombinator.com/item?id=47738709 Points: 1 # Comments: 0",
+          "published_at": "2026-04-12 12:05",
+          "tags": []
+        },
+        {
+          "title": "Running AI Agents in a Sandbox",
+          "url": "https://oligot.be/posts/ai-sandbox/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://oligot.be/posts/ai-sandbox/ Comments URL: https://news.ycombinator.com/item?id=47738063 Points: 1 # Comments: 0",
+          "published_at": "2026-04-12 10:24",
+          "tags": []
+        },
+        {
+          "title": "Happy Horse AI",
+          "url": "https://www.happy-horse-ai.ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.happy-horse-ai.ai Comments URL: https://news.ycombinator.com/item?id=47737687 Points: 2 # Comments: 1",
+          "published_at": "2026-04-12 09:38",
+          "tags": []
+        },
+        {
+          "title": "Your article about AI doesn’t need AI art",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+          "source": "The Verge AI",
+          "summary": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces - creepy alt-Altmans, their expressions ranging from anger to open-mouthed woe. Some barely look like Altman. One final face rests [&#8230;]",
+          "published_at": "2026-04-11 11:00",
+          "tags": [
+            "AI"
+          ]
+        }
+      ]
     }
   ]
 }
