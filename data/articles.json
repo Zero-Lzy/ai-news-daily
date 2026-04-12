@@ -1,5 +1,145 @@
 [
   {
+    "title": "LLM Time",
+    "url": "https://graydon2.dreamwidth.org/322732.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://graydon2.dreamwidth.org/322732.html Comments URL: https://news.ycombinator.com/item?id=47735708 Points: 1 # Comments: 0",
+    "published_at": "2026-04-12 02:38",
+    "tags": [],
+    "fetch_date": "2026-04-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "We spoke to the man making viral Lego-style AI videos for Iran",
+    "url": "https://www.bbc.com/news/articles/cjd8jrd1vnyo",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cjd8jrd1vnyo Comments URL: https://news.ycombinator.com/item?id=47735704 Points: 1 # Comments: 0",
+    "published_at": "2026-04-12 02:37",
+    "tags": [],
+    "fetch_date": "2026-04-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Can't Read an Investor Deck",
+    "url": "https://www.mercor.com/blog/Finance-tasks-ai-failures-modes/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.mercor.com/blog/Finance-tasks-ai-failures-modes/ Comments URL: https://news.ycombinator.com/item?id=47735664 Points: 1 # Comments: 1",
+    "published_at": "2026-04-12 02:27",
+    "tags": [],
+    "fetch_date": "2026-04-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI models are terrible at betting on soccer- especially xAI Grok",
+    "url": "https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/ Comments URL: https://news.ycombinator.com/item?id=47735397 Points: 1 # Comments: 1",
+    "published_at": "2026-04-12 01:22",
+    "tags": [],
+    "fetch_date": "2026-04-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "recursive-mode: The Repo-Native Operating System for AI Engineering",
+    "url": "https://repo-explainer.com/try-works/recursive-mode",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://repo-explainer.com/try-works/recursive-mode Comments URL: https://news.ycombinator.com/item?id=47735396 Points: 1 # Comments: 0",
+    "published_at": "2026-04-12 01:22",
+    "tags": [],
+    "fetch_date": "2026-04-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "NeoBaby Phoebe Gates wants her $185M AI startup Phia to succeed",
+    "url": "https://fortune.com/2026/02/21/phoebe-gates-startup-phia-succeed-without-help-parents-bill-gates-melinda-french-gates/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://fortune.com/2026/02/21/phoebe-gates-startup-phia-succeed-without-help-parents-bill-gates-melinda-french-gates/ Comments URL: https://news.ycombinator.com/item?id=47735378 Points: 3 # Comments: 2",
+    "published_at": "2026-04-12 01:14",
+    "tags": [],
+    "fetch_date": "2026-04-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "After the Attack on Sam Altman's Home, Will AI CEOs Go on the Offensive?",
+    "url": "https://www.motherjones.com/politics/2026/04/after-the-attack-on-sam-altmans-home-will-ai-ceos-go-on-the-offensive/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.motherjones.com/politics/2026/04/after-the-attack-on-sam-altmans-home-will-ai-ceos-go-on-the-offensive/ Comments URL: https://news.ycombinator.com/item?id=47735134 Points: 2 # Comments: 0",
+    "published_at": "2026-04-12 00:27",
+    "tags": [],
+    "fetch_date": "2026-04-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Job Loss Tracker",
+    "url": "https://jobloss.ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://jobloss.ai/ Comments URL: https://news.ycombinator.com/item?id=47735101 Points: 23 # Comments: 20",
+    "published_at": "2026-04-12 00:19",
+    "tags": [],
+    "fetch_date": "2026-04-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Hungary 2026 – Chat with 1k AI-simulated voters before the election",
+    "url": "https://hungary2026.populon.ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://hungary2026.populon.ai Comments URL: https://news.ycombinator.com/item?id=47734735 Points: 1 # Comments: 0",
+    "published_at": "2026-04-11 23:00",
+    "tags": [],
+    "fetch_date": "2026-04-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Forecasting the economic effects of AI",
+    "url": "https://forecastingresearch.substack.com/p/forecasting-the-economic-effects-of-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://forecastingresearch.substack.com/p/forecasting-the-economic-effects-of-ai Comments URL: https://news.ycombinator.com/item?id=47734714 Points: 3 # Comments: 0",
+    "published_at": "2026-04-11 22:55",
+    "tags": [],
+    "fetch_date": "2026-04-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Predict-Rlm: The LLM Runtime That Lets Models Write Their Own Control Flow",
+    "url": "https://repo-explainer.com/Trampoline-AI/predict-rlm",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://repo-explainer.com/Trampoline-AI/predict-rlm Comments URL: https://news.ycombinator.com/item?id=47734702 Points: 1 # Comments: 0",
+    "published_at": "2026-04-11 22:53",
+    "tags": [],
+    "fetch_date": "2026-04-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI will test governments on jobs, training, and public trust",
+    "url": "https://www.hoover.org/news/ai-will-test-governments-jobs-training-and-public-trust-hoover-panels-warn",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.hoover.org/news/ai-will-test-governments-jobs-training-and-public-trust-hoover-panels-warn Comments URL: https://news.ycombinator.com/item?id=47734675 Points: 1 # Comments: 0",
+    "published_at": "2026-04-11 22:49",
+    "tags": [],
+    "fetch_date": "2026-04-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "How to Switch AI Chatbots and Why You Might Want To",
+    "url": "https://www.wsj.com/tech/ai/how-to-switch-ai-chatbots-and-why-you-might-want-to-8aaccfd4",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/how-to-switch-ai-chatbots-and-why-you-might-want-to-8aaccfd4 Comments URL: https://news.ycombinator.com/item?id=47734654 Points: 1 # Comments: 1",
+    "published_at": "2026-04-11 22:45",
+    "tags": [],
+    "fetch_date": "2026-04-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Transaction-level provenance for AI art certificate/signed/license on every sale",
+    "url": "https://arcvelvetos.web.app/verify?id=AwCCW6DLQgA4s5XVZ86X&type=sale",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arcvelvetos.web.app/verify?id=AwCCW6DLQgA4s5XVZ86X&amp;type=sale Comments URL: https://news.ycombinator.com/item?id=47734092 Points: 2 # Comments: 0",
+    "published_at": "2026-04-11 21:19",
+    "tags": [],
+    "fetch_date": "2026-04-12",
+    "fetch_label": "早报"
+  },
+  {
     "title": "How Iran out-shitposted the White House",
     "url": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
     "source": "The Verge AI",
@@ -149,6 +289,21 @@
     ],
     "fetch_date": "2026-04-11",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
+    "url": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+    "source": "TechCrunch AI",
+    "summary": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software revolution, deep dives into cyber defense and climate tech, and candid conversations about how AI is rewriting the global music and anime industries.",
+    "published_at": "2026-04-10 16:38",
+    "tags": [
+      "Startups",
+      "Media & Entertainment",
+      "AI",
+      "Robotics"
+    ],
+    "fetch_date": "2026-04-12",
+    "fetch_label": "早报"
   },
   {
     "title": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house",
