@@ -1,0 +1,120 @@
+{
+  "date": "2026-04-13",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-04-13 11:21:36",
+      "count": 13,
+      "articles": [
+        {
+          "title": "AI Image Editor",
+          "url": "https://jpgtomp4.com",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://jpgtomp4.com Comments URL: https://news.ycombinator.com/item?id=47747114 Points: 1 # Comments: 1",
+          "published_at": "2026-04-13 03:10",
+          "tags": []
+        },
+        {
+          "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
+          "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end Comments URL: https://news.ycombinator.com/item?id=47747017 Points: 2 # Comments: 0",
+          "published_at": "2026-04-13 02:53",
+          "tags": []
+        },
+        {
+          "title": "ReceiptBot – Stop Node.js AI agents from reading .env and burning your budget",
+          "url": "https://github.com/redshadow912/ReceiptBot",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/redshadow912/ReceiptBot Comments URL: https://news.ycombinator.com/item?id=47746772 Points: 1 # Comments: 1",
+          "published_at": "2026-04-13 02:15",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Yet another AI image ediotr and generator",
+          "url": "https://imageditor.net/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://imageditor.net/ Comments URL: https://news.ycombinator.com/item?id=47746676 Points: 1 # Comments: 0",
+          "published_at": "2026-04-13 02:01",
+          "tags": []
+        },
+        {
+          "title": "Moat: Run AI agents in isolated containers",
+          "url": "https://majorcontext.com/moat/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://majorcontext.com/moat/ Comments URL: https://news.ycombinator.com/item?id=47746591 Points: 2 # Comments: 1",
+          "published_at": "2026-04-13 01:45",
+          "tags": []
+        },
+        {
+          "title": "GraphAI – dual-graph $0 knowledge system with AI-native binary format",
+          "url": "https://github.com/nehloo/graphAI",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/nehloo/graphAI Comments URL: https://news.ycombinator.com/item?id=47746391 Points: 1 # Comments: 0",
+          "published_at": "2026-04-13 01:17",
+          "tags": []
+        },
+        {
+          "title": "Externalization in LLM Agents",
+          "url": "https://arxiv.org/abs/2604.08224",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2604.08224 Comments URL: https://news.ycombinator.com/item?id=47746378 Points: 2 # Comments: 0",
+          "published_at": "2026-04-13 01:15",
+          "tags": []
+        },
+        {
+          "title": "Show HN: A virtual office where you watch your AI agents code",
+          "url": "https://github.com/ashxco/piedpiper",
+          "source": "Hacker News AI",
+          "summary": "I run a lot of Claude agents at once and got tired of switching between terminals. Built a virtual office on top of t3code where each agent has a desk and you can see what everyone's working on. Comments URL: https://news.ycombinator.com/item?id=47746363 Points: 1 # Comments: 0",
+          "published_at": "2026-04-13 01:12",
+          "tags": []
+        },
+        {
+          "title": "Amazon vs. Perplexity AI: ACLU's Amicus Brief",
+          "url": "https://www.aclu.org/cases/amazon-v-perplexity?document=Amicus-Brief-of-ACLU-ACLU-of-Northern-California-and-Knight-First-Amendment-Institute-in-Support-of-Defendant-Appellant-and-Reversal",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.aclu.org/cases/amazon-v-perplexity?document=Amicus-Brief-of-ACLU-ACLU-of-Northern-California-and-Knight-First-Amendment-Institute-in-Support-of-Defendant-Appellant-and-Reversal Comments URL: https://news.ycombinator.com/item?id=47746272 Points: 1 # Comments: 0",
+          "published_at": "2026-04-13 01:00",
+          "tags": []
+        },
+        {
+          "title": "Specs over Vibes: Consistent AI Results Ft. Mark Freeman",
+          "url": "https://motherduck.com/blog/specs-over-vibes-consistent-ai-results/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://motherduck.com/blog/specs-over-vibes-consistent-ai-results/ Comments URL: https://news.ycombinator.com/item?id=47746201 Points: 2 # Comments: 0",
+          "published_at": "2026-04-13 00:48",
+          "tags": []
+        },
+        {
+          "title": "Most AI travel apps don't help you travel",
+          "url": "https://navoy.io/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://navoy.io/ Comments URL: https://news.ycombinator.com/item?id=47746183 Points: 1 # Comments: 1",
+          "published_at": "2026-04-13 00:46",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Local LLM on a Pi 4 controlling hardware via tool calling",
+          "url": "https://github.com/stfurkan/pi-llm",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/stfurkan/pi-llm Comments URL: https://news.ycombinator.com/item?id=47745503 Points: 3 # Comments: 3",
+          "published_at": "2026-04-12 23:14",
+          "tags": []
+        },
+        {
+          "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+          "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+          "source": "TechCrunch AI",
+          "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+          "published_at": "2026-04-11 17:18",
+          "tags": [
+            "AI",
+            "OpenAI",
+            "sam altman"
+          ]
+        }
+      ]
+    }
+  ]
+}
