@@ -144,6 +144,23 @@
     "fetch_label": "早报"
   },
   {
+    "title": "Microsoft is working on yet another OpenClaw-like agent",
+    "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+    "source": "TechCrunch AI",
+    "summary": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent.",
+    "published_at": "2026-04-13 19:05",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "ai agent",
+      "Copilot",
+      "Microsoft",
+      "openclaw"
+    ],
+    "fetch_date": "2026-04-14",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
     "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
     "source": "TechCrunch AI",
@@ -204,6 +221,21 @@
     ],
     "fetch_date": "2026-04-14",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
+    "url": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
+    "source": "The Verge AI",
+    "summary": "Meta CEO Mark Zuckerberg could soon have an AI clone of himself to interact with and provide feedback to employees, according to a report from the Financial Times. Sources tell the outlet that Meta is training the AI avatar on Zuckerberg's image and voice, along with his mannerisms, tone, and public statements, \"so that employees [&#8230;]",
+    "published_at": "2026-04-13 09:40",
+    "tags": [
+      "AI",
+      "Meta",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-04-14",
+    "fetch_label": "晚报"
   },
   {
     "title": "AI Image Editor",

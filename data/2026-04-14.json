@@ -177,6 +177,122 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-04-14 21:44:05",
+      "count": 8,
+      "articles": [
+        {
+          "title": "OpenAI has bought AI personal finance startup Hiro",
+          "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+          "source": "TechCrunch AI",
+          "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
+          "published_at": "2026-04-14 00:23",
+          "tags": [
+            "AI",
+            "Fintech",
+            "Startups",
+            "TC",
+            "acquisition",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI’s HQ",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
+          "source": "The Verge AI",
+          "summary": "Daniel Moreno-Gama is now facing federal charges after allegedly traveling from Texas to California with the intent to kill OpenAI CEO Sam Altman. On April 10th, he was arrested after throwing a Molotov cocktail at OpenAI CEO Sam Altman's home and attempting to break into OpenAI's headquarters. According to prosecutors, at the HQ, \"Moreno-Gama attempted [&#8230;]",
+          "published_at": "2026-04-13 20:02",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Microsoft is working on yet another OpenClaw-like agent",
+          "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+          "source": "TechCrunch AI",
+          "summary": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent.",
+          "published_at": "2026-04-13 19:05",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "ai agent",
+            "Copilot",
+            "Microsoft",
+            "openclaw"
+          ]
+        },
+        {
+          "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
+          "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+          "source": "TechCrunch AI",
+          "summary": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.",
+          "published_at": "2026-04-13 18:55",
+          "tags": [
+            "AI",
+            "sam altman",
+            "stanford ai report",
+            "public sentiment"
+          ]
+        },
+        {
+          "title": "AI influencers are ‘everywhere’ at Coachella",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella",
+          "source": "The Verge AI",
+          "summary": "Coachella kicked off on Friday, and as usual, it's the place to be for online influencers looking to show off their memorable experiences at the festival. A quick scroll through my social media feeds has already shown me many uncannily attractive figures in glitzy outfits, posing for perfectly staged photographs with celebrities. Only some of [&#8230;]",
+          "published_at": "2026-04-13 15:53",
+          "tags": [
+            "AI",
+            "Entertainment",
+            "Music",
+            "Report"
+          ]
+        },
+        {
+          "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+          "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+          "source": "TechCrunch AI",
+          "summary": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the explosion of AI-generated apps and agents.",
+          "published_at": "2026-04-13 15:22",
+          "tags": [
+            "Startups",
+            "Venture",
+            "AI",
+            "agents",
+            "hosting",
+            "IPO",
+            "Vercel"
+          ]
+        },
+        {
+          "title": "Read OpenAI&#8217;s latest internal memo about beating the competition — including Anthropic",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
+          "source": "The Verge AI",
+          "summary": "OpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about the company's strategic direction, emphasizing the need to lock in users and grow its enterprise business. The memo, which was viewed by The Verge, repeatedly underlines the importance of building a moat around its AI products, to combat how easy [&#8230;]",
+          "published_at": "2026-04-13 12:21",
+          "tags": [
+            "AI",
+            "OpenAI",
+            "Report"
+          ]
+        },
+        {
+          "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
+          "url": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
+          "source": "The Verge AI",
+          "summary": "Meta CEO Mark Zuckerberg could soon have an AI clone of himself to interact with and provide feedback to employees, according to a report from the Financial Times. Sources tell the outlet that Meta is training the AI avatar on Zuckerberg's image and voice, along with his mannerisms, tone, and public statements, \"so that employees [&#8230;]",
+          "published_at": "2026-04-13 09:40",
+          "tags": [
+            "AI",
+            "Meta",
+            "News",
+            "Tech"
+          ]
+        }
+      ]
     }
   ]
 }
