@@ -1,5 +1,211 @@
 [
   {
+    "title": "We're Using So Much AI That Computing Firepower Is Running Out",
+    "url": "https://www.wsj.com/tech/ai/ai-is-using-so-much-energy-that-computing-firepower-is-running-out-156e5c85",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/ai-is-using-so-much-energy-that-computing-firepower-is-running-out-156e5c85 Comments URL: https://news.ycombinator.com/item?id=47760636 Points: 2 # Comments: 0",
+    "published_at": "2026-04-14 02:42",
+    "tags": [],
+    "fetch_date": "2026-04-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Meta spins up AI version of Mark Zuckerberg to engage with employees",
+    "url": "https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-zuckerberg-to-engage-with-employees/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-zuckerberg-to-engage-with-employees/ Comments URL: https://news.ycombinator.com/item?id=47760543 Points: 2 # Comments: 0",
+    "published_at": "2026-04-14 02:27",
+    "tags": [],
+    "fetch_date": "2026-04-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Agent Stores – Making Shopee Products Findable by ChatGPT and Perplexity",
+    "url": "https://www.bbiz.shop/blog",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bbiz.shop/blog Comments URL: https://news.ycombinator.com/item?id=47760530 Points: 3 # Comments: 0",
+    "published_at": "2026-04-14 02:25",
+    "tags": [],
+    "fetch_date": "2026-04-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI acquires AI personal finance startup Hiro – financial agents next?",
+    "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/ Comments URL: https://news.ycombinator.com/item?id=47760333 Points: 2 # Comments: 0",
+    "published_at": "2026-04-14 01:55",
+    "tags": [],
+    "fetch_date": "2026-04-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "I built an AI CMO because I can't market",
+    "url": "https://www.polara.ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.polara.ai/ Comments URL: https://news.ycombinator.com/item?id=47760194 Points: 2 # Comments: 2",
+    "published_at": "2026-04-14 01:34",
+    "tags": [],
+    "fetch_date": "2026-04-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Can Now Control Your Mac OS",
+    "url": "https://clawdcursor.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://clawdcursor.com Comments URL: https://news.ycombinator.com/item?id=47760035 Points: 1 # Comments: 0",
+    "published_at": "2026-04-14 01:13",
+    "tags": [],
+    "fetch_date": "2026-04-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Beyond Constraint: The Case for Ethical Entrainment in AI",
+    "url": "https://www.mountaineagle.net/articles/display/beyond-constraint-the-case-for-ethical-entrainment-in-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.mountaineagle.net/articles/display/beyond-constraint-the-case-for-ethical-entrainment-in-ai/ Comments URL: https://news.ycombinator.com/item?id=47759857 Points: 1 # Comments: 1",
+    "published_at": "2026-04-14 00:47",
+    "tags": [],
+    "fetch_date": "2026-04-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask HN: AI Hardware Startup in USA",
+    "url": "https://news.ycombinator.com/item?id=47759631",
+    "source": "Hacker News AI",
+    "summary": "Hi,I am working on a AI HW idea and building a prototype for it. I am planning to build a startup for the product in USA. I am thinking of starting it in Austin, TX and I would like to gather opinions from this forum before making this decision. I considered BayArea, CA and Seattle, WA and these locations are good choices with great access to talent and Venture capital investors, but these locations are expensive to hire engineers.I am thinking of building this company in a low cost location tha",
+    "published_at": "2026-04-14 00:13",
+    "tags": [],
+    "fetch_date": "2026-04-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: A 24/7 live stream where AI writes a new song about the current time",
+    "url": "https://www.youtube.com/watch?v=ZJKx8KEdQkM",
+    "source": "Hacker News AI",
+    "summary": "A clock radio from the 1950s played music and showed the time. I wanted to see what happens when you combined an old idea with a new one — the music itself tells you the time. It's also hilarious.This is a fully automated YouTube live stream. Every few minutes, a new AI-generated song plays. Every song is in a different genre. Every song's lyrics are about what time it is right now. The system generates them ahead of time using Suno's API, builds video segments with FFmpeg, and streams continuou",
+    "published_at": "2026-04-14 00:00",
+    "tags": [],
+    "fetch_date": "2026-04-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "SnapState - Persistent state for AI agent workflows",
+    "url": "https://snapstate.dev",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://snapstate.dev Comments URL: https://news.ycombinator.com/item?id=47759400 Points: 6 # Comments: 0",
+    "published_at": "2026-04-13 23:42",
+    "tags": [],
+    "fetch_date": "2026-04-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Skill files made this AI Workout Builder Good",
+    "url": "https://proximafitness.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://proximafitness.com/ Comments URL: https://news.ycombinator.com/item?id=47759116 Points: 2 # Comments: 0",
+    "published_at": "2026-04-13 23:04",
+    "tags": [],
+    "fetch_date": "2026-04-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Tell HN: I regret every single time I use AI",
+    "url": "https://news.ycombinator.com/item?id=47759065",
+    "source": "Hacker News AI",
+    "summary": "I try to not be fully against AI, so keep giving it a change, today again. I went for sport and gave opus 4.6 a medium sized task.In every single step there were assumptions done that I don’t think are correct. I was a refactor and not all is Claudes fault. But since I did have bad experience I work through the changes line by line and honestly I think I would rather have done it from the start then to review the changes as Claude did a not working weird verbose refactor that didn’t help with an",
+    "published_at": "2026-04-13 23:00",
+    "tags": [],
+    "fetch_date": "2026-04-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: AI Native IDE [video]",
+    "url": "https://www.youtube.com/watch?v=ZVy0vXBHaCM",
+    "source": "Hacker News AI",
+    "summary": "Our AI Native IDE, 6digit studio, has a new Big Picture Mode visualization layer, CORDIAL, meant to be possible to use at a \"distance\", making you feel just a little bit more like Tom Cruise in Minority Report. Comments URL: https://news.ycombinator.com/item?id=47758969 Points: 3 # Comments: 2",
+    "published_at": "2026-04-13 22:51",
+    "tags": [],
+    "fetch_date": "2026-04-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI’s HQ",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
+    "source": "The Verge AI",
+    "summary": "Daniel Moreno-Gama is now facing federal charges after allegedly traveling from Texas to California with the intent to kill OpenAI CEO Sam Altman. On April 10th, he was arrested after throwing a Molotov cocktail at OpenAI CEO Sam Altman's home and attempting to break into OpenAI's headquarters. According to prosecutors, at the HQ, \"Moreno-Gama attempted [&#8230;]",
+    "published_at": "2026-04-13 20:02",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-04-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
+    "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+    "source": "TechCrunch AI",
+    "summary": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.",
+    "published_at": "2026-04-13 18:55",
+    "tags": [
+      "AI",
+      "public sentiment",
+      "sam altman",
+      "stanford ai report"
+    ],
+    "fetch_date": "2026-04-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI influencers are ‘everywhere’ at Coachella",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella",
+    "source": "The Verge AI",
+    "summary": "Coachella kicked off on Friday, and as usual, it's the place to be for online influencers looking to show off their memorable experiences at the festival. A quick scroll through my social media feeds has already shown me many uncannily attractive figures in glitzy outfits, posing for perfectly staged photographs with celebrities. Only some of [&#8230;]",
+    "published_at": "2026-04-13 15:53",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Music",
+      "Report"
+    ],
+    "fetch_date": "2026-04-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+    "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+    "source": "TechCrunch AI",
+    "summary": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the explosion of AI-generated apps and agents.",
+    "published_at": "2026-04-13 15:22",
+    "tags": [
+      "AI",
+      "Startups",
+      "Venture",
+      "agents",
+      "hosting",
+      "IPO",
+      "Vercel"
+    ],
+    "fetch_date": "2026-04-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Read OpenAI&#8217;s latest internal memo about beating the competition — including Anthropic",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
+    "source": "The Verge AI",
+    "summary": "OpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about the company's strategic direction, emphasizing the need to lock in users and grow its enterprise business. The memo, which was viewed by The Verge, repeatedly underlines the importance of building a moat around its AI products, to combat how easy [&#8230;]",
+    "published_at": "2026-04-13 12:21",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "Report"
+    ],
+    "fetch_date": "2026-04-14",
+    "fetch_label": "早报"
+  },
+  {
     "title": "AI Image Editor",
     "url": "https://jpgtomp4.com",
     "source": "Hacker News AI",
