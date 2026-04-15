@@ -1,0 +1,226 @@
+{
+  "date": "2026-04-15",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-04-15 10:50:58",
+      "count": 21,
+      "articles": [
+        {
+          "title": "Show HN: Memwright – Self-hosted memory for multi-agent teams, no LLM in path",
+          "url": "https://github.com/bolnet/agent-memory",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/bolnet/agent-memory Comments URL: https://news.ycombinator.com/item?id=47773981 Points: 1 # Comments: 0",
+          "published_at": "2026-04-15 02:31",
+          "tags": []
+        },
+        {
+          "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
+          "url": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
+          "source": "TechCrunch AI",
+          "summary": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valuation look like the relative bargain.",
+          "published_at": "2026-04-15 02:31",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "iconiq capital",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "We broke the O(2^N) barrier to compute AI consciousness (Phi)",
+          "url": "https://github.com/InductivityAI/Phi-Scanner-1/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/InductivityAI/Phi-Scanner-1/ Comments URL: https://news.ycombinator.com/item?id=47773525 Points: 1 # Comments: 0",
+          "published_at": "2026-04-15 01:19",
+          "tags": []
+        },
+        {
+          "title": "Nvidia should be 'shaking in their boots' as quantum computing battles AI GPUs",
+          "url": "https://finance.yahoo.com/news/d-wave-ceo-says-nvidia-should-be-shaking-in-their-boots-as-quantum-computing-battles-ai-gpus-180249321.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://finance.yahoo.com/news/d-wave-ceo-says-nvidia-should-be-shaking-in-their-boots-as-quantum-computing-battles-ai-gpus-180249321.html Comments URL: https://news.ycombinator.com/item?id=47773295 Points: 9 # Comments: 4",
+          "published_at": "2026-04-15 00:41",
+          "tags": []
+        },
+        {
+          "title": "The Biggest Advance in AI Since the LLM",
+          "url": "https://cacm.acm.org/blogcacm/the-biggest-advance-in-ai-since-the-llm/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://cacm.acm.org/blogcacm/the-biggest-advance-in-ai-since-the-llm/ Comments URL: https://news.ycombinator.com/item?id=47773173 Points: 2 # Comments: 0",
+          "published_at": "2026-04-15 00:21",
+          "tags": []
+        },
+        {
+          "title": "Best AI Product Adoption Software in 2026",
+          "url": "https://medium.com/@christian_74997/best-product-adoption-software-in-2026-10-tools-compared-3959a22bf134",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://medium.com/@christian_74997/best-product-adoption-software-in-2026-10-tools-compared-3959a22bf134 Comments URL: https://news.ycombinator.com/item?id=47773090 Points: 2 # Comments: 0",
+          "published_at": "2026-04-15 00:08",
+          "tags": []
+        },
+        {
+          "title": "43% of AI-generated code changes need debugging in production, survey finds",
+          "url": "https://venturebeat.com/technology/43-of-ai-generated-code-changes-need-debugging-in-production-survey-finds",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://venturebeat.com/technology/43-of-ai-generated-code-changes-need-debugging-in-production-survey-finds Comments URL: https://news.ycombinator.com/item?id=47773017 Points: 4 # Comments: 2",
+          "published_at": "2026-04-14 23:57",
+          "tags": []
+        },
+        {
+          "title": "Deep Dive into Efficient LLM Inference with Nano-vLLM",
+          "url": "https://cefboud.com/posts/inside-llm-inference-engine-nano-vllm-explanation/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://cefboud.com/posts/inside-llm-inference-engine-nano-vllm-explanation/ Comments URL: https://news.ycombinator.com/item?id=47772916 Points: 3 # Comments: 0",
+          "published_at": "2026-04-14 23:43",
+          "tags": []
+        },
+        {
+          "title": "Your article about AI doesn’t need AI art",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai Comments URL: https://news.ycombinator.com/item?id=47772908 Points: 3 # Comments: 2",
+          "published_at": "2026-04-14 23:42",
+          "tags": []
+        },
+        {
+          "title": "Show HN: I built a self-improving autonomous AI agent that runs 24/7",
+          "url": "https://hergimuci.gumroad.com/l/ai-agent-blueprint",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://hergimuci.gumroad.com/l/ai-agent-blueprint Comments URL: https://news.ycombinator.com/item?id=47772707 Points: 1 # Comments: 0",
+          "published_at": "2026-04-14 23:18",
+          "tags": []
+        },
+        {
+          "title": "I built an AI podcast that roasts a company with Lennys Newsletter as ammunition",
+          "url": "https://www.lennyseviltwin.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.lennyseviltwin.com/ Comments URL: https://news.ycombinator.com/item?id=47772672 Points: 1 # Comments: 1",
+          "published_at": "2026-04-14 23:14",
+          "tags": []
+        },
+        {
+          "title": "My first project ever. A platform built with AI",
+          "url": "https://www.ugcfinder.website/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.ugcfinder.website/ Comments URL: https://news.ycombinator.com/item?id=47772460 Points: 1 # Comments: 3",
+          "published_at": "2026-04-14 22:48",
+          "tags": []
+        },
+        {
+          "title": "The AI backlash is turning revolutionary (Fortune)",
+          "url": "https://fortune.com/2026/04/14/ai-backlash-revolutionary-sam-altman-molotov-cocktails-data-centers/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://fortune.com/2026/04/14/ai-backlash-revolutionary-sam-altman-molotov-cocktails-data-centers/ Comments URL: https://news.ycombinator.com/item?id=47772434 Points: 5 # Comments: 2",
+          "published_at": "2026-04-14 22:45",
+          "tags": []
+        },
+        {
+          "title": "Chrome now lets you turn AI prompts into repeatable &#8216;Skills&#8217;",
+          "url": "https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch",
+          "source": "The Verge AI",
+          "summary": "Google is launching a new Chrome workflow feature that allows you to reuse your favorite Gemini commands across multiple webpages. Any AI prompts can now be saved as \"Skills\" in the Chrome desktop browser, letting you instantly run them across any tabs you select. \"Until now, repeating an AI task - like asking for ingredient [&#8230;]",
+          "published_at": "2026-04-14 13:00",
+          "tags": [
+            "AI",
+            "Chrome",
+            "Google",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Has Google’s AI watermarking system been reverse-engineered?",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
+          "source": "The Verge AI",
+          "summary": "A software developer claims to have reverse-engineered Google DeepMind's SynthID system, showing how AI watermarks can be stripped from generated images or manually inserted into other works. A claim that, according to Google, isn't true. The developer, going by the username Aloshdenny, has open-sourced their work on GitHub and documented his process, claiming all it [&#8230;]",
+          "published_at": "2026-04-14 09:53",
+          "tags": [
+            "AI",
+            "Google",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "OpenAI has bought AI personal finance startup Hiro",
+          "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+          "source": "TechCrunch AI",
+          "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
+          "published_at": "2026-04-14 00:23",
+          "tags": [
+            "AI",
+            "Fintech",
+            "Startups",
+            "TC",
+            "acquisition",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI’s HQ",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
+          "source": "The Verge AI",
+          "summary": "Daniel Moreno-Gama is now facing federal charges after allegedly traveling from Texas to California with the intent to kill OpenAI CEO Sam Altman. On April 10th, he was arrested after throwing a Molotov cocktail at OpenAI CEO Sam Altman's home and attempting to break into OpenAI's headquarters. According to prosecutors, at the HQ, \"Moreno-Gama attempted [&#8230;]",
+          "published_at": "2026-04-13 20:02",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
+          "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+          "source": "TechCrunch AI",
+          "summary": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.",
+          "published_at": "2026-04-13 18:55",
+          "tags": [
+            "AI",
+            "sam altman",
+            "stanford ai report",
+            "public sentiment"
+          ]
+        },
+        {
+          "title": "AI influencers are ‘everywhere’ at Coachella",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella",
+          "source": "The Verge AI",
+          "summary": "Coachella kicked off on Friday, and as usual, it's the place to be for online influencers looking to show off their memorable experiences at the festival. A quick scroll through my social media feeds has already shown me many uncannily attractive figures in glitzy outfits, posing for perfectly staged photographs with celebrities. Only some of [&#8230;]",
+          "published_at": "2026-04-13 15:53",
+          "tags": [
+            "AI",
+            "Entertainment",
+            "Music",
+            "Report"
+          ]
+        },
+        {
+          "title": "Read OpenAI&#8217;s latest internal memo about beating the competition — including Anthropic",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
+          "source": "The Verge AI",
+          "summary": "OpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about the company's strategic direction, emphasizing the need to lock in users and grow its enterprise business. The memo, which was viewed by The Verge, repeatedly underlines the importance of building a moat around its AI products, to combat how easy [&#8230;]",
+          "published_at": "2026-04-13 12:21",
+          "tags": [
+            "AI",
+            "OpenAI",
+            "Report"
+          ]
+        },
+        {
+          "title": "Microsoft is testing OpenClaw-like AI bots for Copilot",
+          "url": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses",
+          "source": "The Verge AI",
+          "summary": "Microsoft is looking into ways it can integrate OpenClaw-style features into its Copilot AI assistant, according to a report from The Information. The test reportedly comes as part of efforts to make Microsoft 365 Copilot \"run autonomously around the clock\" while completing tasks on behalf of users. Omar Shahine, Microsoft's corporate vice president, confirmed to [&#8230;]",
+          "published_at": "2026-04-13 11:41",
+          "tags": [
+            "AI",
+            "Microsoft",
+            "News",
+            "Tech"
+          ]
+        }
+      ]
+    }
+  ]
+}
