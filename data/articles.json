@@ -1,5 +1,227 @@
 [
   {
+    "title": "Hacking MCP Servers in AI Systems – The Rug Pull: Tool Changes After Approval",
+    "url": "https://medium.com/@Koukyosyumei/hacking-mcp-servers-in-ai-systems-the-rug-pull-tool-changes-after-approval-b4f1841da410",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://medium.com/@Koukyosyumei/hacking-mcp-servers-in-ai-systems-the-rug-pull-tool-changes-after-approval-b4f1841da410 Comments URL: https://news.ycombinator.com/item?id=47788046 Points: 1 # Comments: 0",
+    "published_at": "2026-04-16 02:44",
+    "tags": [],
+    "fetch_date": "2026-04-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Meeting recorder that runs on your Mac",
+    "url": "https://quietly.fastclick.ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://quietly.fastclick.ai Comments URL: https://news.ycombinator.com/item?id=47788009 Points: 1 # Comments: 0",
+    "published_at": "2026-04-16 02:39",
+    "tags": [],
+    "fetch_date": "2026-04-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The AI Debacle",
+    "url": "https://justintallant.com/the-ai-debacle",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://justintallant.com/the-ai-debacle Comments URL: https://news.ycombinator.com/item?id=47787594 Points: 1 # Comments: 0",
+    "published_at": "2026-04-16 01:26",
+    "tags": [],
+    "fetch_date": "2026-04-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Free open source AI Editor",
+    "url": "https://github.com/MeepCastana/KubeezCut",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/MeepCastana/KubeezCut Comments URL: https://news.ycombinator.com/item?id=47787589 Points: 2 # Comments: 0",
+    "published_at": "2026-04-16 01:25",
+    "tags": [],
+    "fetch_date": "2026-04-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Amazon AI Cancelling Webcomics",
+    "url": "http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html Comments URL: https://news.ycombinator.com/item?id=47787368 Points: 20 # Comments: 0",
+    "published_at": "2026-04-16 00:52",
+    "tags": [],
+    "fetch_date": "2026-04-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The Great AI Layoff Boomerang. 55% of companies regret their AI-drven layoffs",
+    "url": "https://medium.com/@curiouser.ai/the-great-ai-layoff-boomerang-68e38c88fa7d",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://medium.com/@curiouser.ai/the-great-ai-layoff-boomerang-68e38c88fa7d Comments URL: https://news.ycombinator.com/item?id=47787352 Points: 4 # Comments: 4",
+    "published_at": "2026-04-16 00:50",
+    "tags": [],
+    "fetch_date": "2026-04-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "PeonPing: Sound packs for Claude, Codex, Cursor, and other AI coding agents",
+    "url": "https://www.peonping.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.peonping.com/ Comments URL: https://news.ycombinator.com/item?id=47787323 Points: 1 # Comments: 0",
+    "published_at": "2026-04-16 00:45",
+    "tags": [],
+    "fetch_date": "2026-04-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "On the scientific method and its application to the science of deep learning",
+    "url": "https://jamiesimon.io/blog/on-the-scientific-method/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://jamiesimon.io/blog/on-the-scientific-method/ Comments URL: https://news.ycombinator.com/item?id=47787213 Points: 1 # Comments: 0",
+    "published_at": "2026-04-16 00:31",
+    "tags": [],
+    "fetch_date": "2026-04-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The AI Market Is Hitting Peak Absurdity",
+    "url": "https://garymarcus.substack.com/p/peak-absurdity-part-ii",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://garymarcus.substack.com/p/peak-absurdity-part-ii Comments URL: https://news.ycombinator.com/item?id=47787113 Points: 18 # Comments: 3",
+    "published_at": "2026-04-16 00:17",
+    "tags": [],
+    "fetch_date": "2026-04-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Robot Police Dogs Powered by AI Take over Atlanta's Streets",
+    "url": "https://www.newsweek.com/robot-police-dogs-powered-by-ai-take-over-atlantas-streets-11782889",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.newsweek.com/robot-police-dogs-powered-by-ai-take-over-atlantas-streets-11782889 Comments URL: https://news.ycombinator.com/item?id=47787091 Points: 9 # Comments: 1",
+    "published_at": "2026-04-16 00:14",
+    "tags": [],
+    "fetch_date": "2026-04-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: I built a Wikipedia based AI deduction game",
+    "url": "https://sleuththetruth.com/",
+    "source": "Hacker News AI",
+    "summary": "I haven't seen anything like this so I decided to build it in a weekend.How it works: You see a bunch of things pulled from Wikipedia displayed on cards. You ask yes or no questions to figure out which card is the secret article. The AI model has access to the image and wiki text and it's own knowledge to answer your question.Happy to have my credits burned for the day but I'll probably have to make this paid at some point so enjoy. I found it's not easy to get cheap+fast+good responses but the ",
+    "published_at": "2026-04-16 00:13",
+    "tags": [],
+    "fetch_date": "2026-04-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Tirith – Track your AI API spend with one CLI import",
+    "url": "https://github.com/joedaviesio/tirith",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/joedaviesio/tirith Comments URL: https://news.ycombinator.com/item?id=47786814 Points: 1 # Comments: 0",
+    "published_at": "2026-04-15 23:39",
+    "tags": [],
+    "fetch_date": "2026-04-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Switch: Faster, smarter AI audio conversion",
+    "url": "https://www.nch.com.au/pad/switch.xml",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.nch.com.au/pad/switch.xml Comments URL: https://news.ycombinator.com/item?id=47786584 Points: 2 # Comments: 0",
+    "published_at": "2026-04-15 23:15",
+    "tags": [],
+    "fetch_date": "2026-04-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Getting into AI Infra",
+    "url": "https://timzaman.com/getting-into-ai-infra",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://timzaman.com/getting-into-ai-infra Comments URL: https://news.ycombinator.com/item?id=47786244 Points: 1 # Comments: 0",
+    "published_at": "2026-04-15 22:35",
+    "tags": [],
+    "fetch_date": "2026-04-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
+    "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
+    "source": "TechCrunch AI",
+    "summary": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
+    "published_at": "2026-04-15 18:55",
+    "tags": [
+      "AI",
+      "Startups",
+      "Exclusive",
+      "marketing-technology",
+      "Hightouch"
+    ],
+    "fetch_date": "2026-04-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
+    "url": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
+    "source": "TechCrunch AI",
+    "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
+    "published_at": "2026-04-15 18:38",
+    "tags": [
+      "AI",
+      "Apps",
+      "Fundraising",
+      "Startups",
+      "EdTech",
+      "Education",
+      "funding round",
+      "Gizmo",
+      "learning",
+      "Shine Capital"
+    ],
+    "fetch_date": "2026-04-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Trump’s posting even more AI-generated Trump-Jesus fan art",
+    "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
+    "source": "The Verge AI",
+    "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild, annual subscriptions are currently 50 percent off. That's $30 a year for [&#8230;]",
+    "published_at": "2026-04-15 15:50",
+    "tags": [
+      "AI",
+      "Column",
+      "Policy",
+      "Politics",
+      "Regulator"
+    ],
+    "fetch_date": "2026-04-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "After sale of its shoe business, Allbirds pivots to AI",
+    "url": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/",
+    "source": "TechCrunch AI",
+    "summary": "Allbirds is ditching wool sneakers for AI servers, rebranding as NewBird AI after locking in a $50M convertible financing facility.",
+    "published_at": "2026-04-15 14:24",
+    "tags": [
+      "AI",
+      "allbirds",
+      "WTF"
+    ],
+    "fetch_date": "2026-04-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Google launches a Gemini AI app on Mac",
+    "url": "https://www.theverge.com/tech/912638/google-gemini-mac-app",
+    "source": "The Verge AI",
+    "summary": "Google is launching a new Gemini app on Mac that allows you to interact with the AI assistant without switching windows on your desktop. With the app, you can use the Option + Space shortcut to pull up a floating chat bubble, where you can ask Gemini questions and share your window. Before sharing your [&#8230;]",
+    "published_at": "2026-04-15 14:10",
+    "tags": [
+      "AI",
+      "Google",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-04-16",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Show HN: Trick my AI into leaking passwords",
     "url": "https://castle.bordair.io",
     "source": "Hacker News AI",
@@ -150,6 +372,22 @@
     "tags": [],
     "fetch_date": "2026-04-15",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Grok’s sexual deepfakes almost got it banned from Apple’s App Store. Almost.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/912297/apple-app-store-ban-grok-x-deepfakes",
+    "source": "The Verge AI",
+    "summary": "Apple quietly threatened to kick Elon Musk's AI app, Grok, from its App Store in January over its failure to curb the surge of nonconsensual sexual deepfakes flooding X, according to NBC News. It was a muted show of force from one of tech's most powerful gatekeepers, made behind closed doors even as the undressing [&#8230;]",
+    "published_at": "2026-04-15 06:55",
+    "tags": [
+      "AI",
+      "Apple",
+      "News",
+      "Tech",
+      "xAI"
+    ],
+    "fetch_date": "2026-04-16",
+    "fetch_label": "早报"
   },
   {
     "title": "Show HN: Memwright – Self-hosted memory for multi-agent teams, no LLM in path",
