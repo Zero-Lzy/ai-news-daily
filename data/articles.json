@@ -1,5 +1,52 @@
 [
   {
+    "title": "Canva’s AI assistant can now call various tools to make designs for you",
+    "url": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/",
+    "source": "TechCrunch AI",
+    "summary": "The latest version of Canva's AI assistant lets users create editable designs with text prompts.",
+    "published_at": "2026-04-16 13:00",
+    "tags": [
+      "AI",
+      "Apps",
+      "Adobe",
+      "canva",
+      "AI assistant",
+      "Design Ai"
+    ],
+    "fetch_date": "2026-04-16",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "This simulation startup wants to be the Cursor for physical AI",
+    "url": "https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/",
+    "source": "TechCrunch AI",
+    "summary": "Antioch raised a $8.5 million seed round to create simulation tools for a new generation of robot builders.",
+    "published_at": "2026-04-16 12:30",
+    "tags": [
+      "AI",
+      "Robotics",
+      "Exclusive",
+      "Antioch"
+    ],
+    "fetch_date": "2026-04-16",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Canva’s AI 2.0 update goes all in on prompt-powered design tools",
+    "url": "https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability",
+    "source": "The Verge AI",
+    "summary": "Canva has overhauled its design and workspace suite as it attempts to become the ultimate centralized hub for AI-powered content creation. The platform announced its Canva AI 2.0 update today, introducing updated tools and new prompt-based editing capabilities that allow users to make or adjust their work by describing what they want to create to [&#8230;]",
+    "published_at": "2026-04-16 09:07",
+    "tags": [
+      "AI",
+      "Creators",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-04-16",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Hacking MCP Servers in AI Systems – The Rug Pull: Tool Changes After Approval",
     "url": "https://medium.com/@Koukyosyumei/hacking-mcp-servers-in-ai-systems-the-rug-pull-tool-changes-after-approval-b4f1841da410",
     "source": "Hacker News AI",
@@ -140,6 +187,21 @@
     "fetch_label": "早报"
   },
   {
+    "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+    "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+    "source": "TechCrunch AI",
+    "summary": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
+    "published_at": "2026-04-15 19:28",
+    "tags": [
+      "AI",
+      "agentic ai",
+      "agents",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-04-16",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
     "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
     "source": "TechCrunch AI",
@@ -175,6 +237,45 @@
     ],
     "fetch_date": "2026-04-16",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Google rolls out a native Gemini app for Mac",
+    "url": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
+    "source": "TechCrunch AI",
+    "summary": "You can share anything on their screen with Gemini to get help with what they're looking at in the moment, including local files.",
+    "published_at": "2026-04-15 18:22",
+    "tags": [
+      "AI",
+      "Apps",
+      "gemini",
+      "Google",
+      "In Brief",
+      "mac"
+    ],
+    "fetch_date": "2026-04-16",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The musician-turned-biotech-founder waiting to fundraise",
+    "url": "https://techcrunch.com/podcast/the-musician-turned-biotech-founder-waiting-to-fundraise/",
+    "source": "TechCrunch AI",
+    "summary": "When Grammy-nominated singer-songwriter&#160;Aloe Blacc&#160;got COVID despite being vaccinated and boosted, he tried to fund research for a better solution.&#160;What&#160;he&#160;quickly&#160;found&#160;out? You&#160;can&#8217;t&#160;just write a check in biotech. Regulators require a commercialization plan, and philanthropy&#160;doesn&#8217;t&#160;move science through clinical trials or get you a license on university IP. Now,&#160;he&#8217;s&#160;bootstrapping a cancer drug platform targetin",
+    "published_at": "2026-04-15 17:58",
+    "tags": [
+      "AI",
+      "Biotech & Health",
+      "Media & Entertainment",
+      "Startups",
+      "ai music",
+      "Aloe Blacc",
+      "biotech",
+      "cancer research",
+      "drug discovery",
+      "music industry",
+      "pancreatic cancer"
+    ],
+    "fetch_date": "2026-04-16",
+    "fetch_label": "晚报"
   },
   {
     "title": "Trump’s posting even more AI-generated Trump-Jesus fan art",
@@ -361,6 +462,20 @@
     "published_at": "2026-04-15 12:15",
     "tags": [],
     "fetch_date": "2026-04-15",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Allbirds announced a switch from shoes to AI and its stock jumped 600 percent",
+    "url": "https://www.theverge.com/news/912484/allbirds-ai-hyperscale",
+    "source": "The Verge AI",
+    "summary": "Allbirds had a hit a decade ago with its Wool Runner shoes, but after a $4 billion IPO in 2021, the business never turned a profit, and sales dropped nearly 50 percent between 2022 and 2025. The company recently announced it would sell off its name and assets for $39 million to American Exchange after [&#8230;]",
+    "published_at": "2026-04-15 12:13",
+    "tags": [
+      "AI",
+      "Business",
+      "News"
+    ],
+    "fetch_date": "2026-04-16",
     "fetch_label": "晚报"
   },
   {

@@ -242,6 +242,186 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-04-16 21:48:09",
+      "count": 12,
+      "articles": [
+        {
+          "title": "Canva’s AI assistant can now call various tools to make designs for you",
+          "url": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/",
+          "source": "TechCrunch AI",
+          "summary": "The latest version of Canva's AI assistant lets users create editable designs with text prompts.",
+          "published_at": "2026-04-16 13:00",
+          "tags": [
+            "AI",
+            "Apps",
+            "Adobe",
+            "canva",
+            "AI assistant",
+            "Design Ai"
+          ]
+        },
+        {
+          "title": "This simulation startup wants to be the Cursor for physical AI",
+          "url": "https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Antioch raised a $8.5 million seed round to create simulation tools for a new generation of robot builders.",
+          "published_at": "2026-04-16 12:30",
+          "tags": [
+            "AI",
+            "Robotics",
+            "Exclusive",
+            "Antioch"
+          ]
+        },
+        {
+          "title": "Canva’s AI 2.0 update goes all in on prompt-powered design tools",
+          "url": "https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability",
+          "source": "The Verge AI",
+          "summary": "Canva has overhauled its design and workspace suite as it attempts to become the ultimate centralized hub for AI-powered content creation. The platform announced its Canva AI 2.0 update today, introducing updated tools and new prompt-based editing capabilities that allow users to make or adjust their work by describing what they want to create to [&#8230;]",
+          "published_at": "2026-04-16 09:07",
+          "tags": [
+            "AI",
+            "Creators",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+          "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
+          "published_at": "2026-04-15 19:28",
+          "tags": [
+            "AI",
+            "agentic ai",
+            "agents",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
+          "url": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
+          "source": "TechCrunch AI",
+          "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
+          "published_at": "2026-04-15 18:38",
+          "tags": [
+            "AI",
+            "Apps",
+            "Fundraising",
+            "Startups",
+            "EdTech",
+            "Education",
+            "funding round",
+            "Gizmo",
+            "learning",
+            "Shine Capital"
+          ]
+        },
+        {
+          "title": "Google rolls out a native Gemini app for Mac",
+          "url": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
+          "source": "TechCrunch AI",
+          "summary": "You can share anything on their screen with Gemini to get help with what they're looking at in the moment, including local files.",
+          "published_at": "2026-04-15 18:22",
+          "tags": [
+            "AI",
+            "Apps",
+            "gemini",
+            "Google",
+            "In Brief",
+            "mac"
+          ]
+        },
+        {
+          "title": "The musician-turned-biotech-founder waiting to fundraise",
+          "url": "https://techcrunch.com/podcast/the-musician-turned-biotech-founder-waiting-to-fundraise/",
+          "source": "TechCrunch AI",
+          "summary": "When Grammy-nominated singer-songwriter&#160;Aloe Blacc&#160;got COVID despite being vaccinated and boosted, he tried to fund research for a better solution.&#160;What&#160;he&#160;quickly&#160;found&#160;out? You&#160;can&#8217;t&#160;just write a check in biotech. Regulators require a commercialization plan, and philanthropy&#160;doesn&#8217;t&#160;move science through clinical trials or get you a license on university IP. Now,&#160;he&#8217;s&#160;bootstrapping a cancer drug platform targetin",
+          "published_at": "2026-04-15 17:58",
+          "tags": [
+            "AI",
+            "Biotech & Health",
+            "Media & Entertainment",
+            "Startups",
+            "ai music",
+            "Aloe Blacc",
+            "biotech",
+            "cancer research",
+            "drug discovery",
+            "music industry",
+            "pancreatic cancer"
+          ]
+        },
+        {
+          "title": "Trump’s posting even more AI-generated Trump-Jesus fan art",
+          "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
+          "source": "The Verge AI",
+          "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild, annual subscriptions are currently 50 percent off. That's $30 a year for [&#8230;]",
+          "published_at": "2026-04-15 15:50",
+          "tags": [
+            "AI",
+            "Column",
+            "Policy",
+            "Politics",
+            "Regulator"
+          ]
+        },
+        {
+          "title": "After sale of its shoe business, Allbirds pivots to AI",
+          "url": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Allbirds is ditching wool sneakers for AI servers, rebranding as NewBird AI after locking in a $50M convertible financing facility.",
+          "published_at": "2026-04-15 14:24",
+          "tags": [
+            "AI",
+            "allbirds",
+            "WTF"
+          ]
+        },
+        {
+          "title": "Google launches a Gemini AI app on Mac",
+          "url": "https://www.theverge.com/tech/912638/google-gemini-mac-app",
+          "source": "The Verge AI",
+          "summary": "Google is launching a new Gemini app on Mac that allows you to interact with the AI assistant without switching windows on your desktop. With the app, you can use the Option + Space shortcut to pull up a floating chat bubble, where you can ask Gemini questions and share your window. Before sharing your [&#8230;]",
+          "published_at": "2026-04-15 14:10",
+          "tags": [
+            "AI",
+            "Google",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Reid Hoffman weighs in on the ‘tokenmaxxing’ debate",
+          "url": "https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/",
+          "source": "TechCrunch AI",
+          "summary": "Reid Hoffman says tracking AI token use can gauge adoption, but cautions it should be paired with context and not treated as a direct productivity metric.",
+          "published_at": "2026-04-15 13:06",
+          "tags": [
+            "AI",
+            "ai strategy",
+            "ai tokens",
+            "Reid Hoffman",
+            "tokenmaxxing"
+          ]
+        },
+        {
+          "title": "Allbirds announced a switch from shoes to AI and its stock jumped 600 percent",
+          "url": "https://www.theverge.com/news/912484/allbirds-ai-hyperscale",
+          "source": "The Verge AI",
+          "summary": "Allbirds had a hit a decade ago with its Wool Runner shoes, but after a $4 billion IPO in 2021, the business never turned a profit, and sales dropped nearly 50 percent between 2022 and 2025. The company recently announced it would sell off its name and assets for $39 million to American Exchange after [&#8230;]",
+          "published_at": "2026-04-15 12:13",
+          "tags": [
+            "AI",
+            "Business",
+            "News"
+          ]
+        }
+      ]
     }
   ]
 }
