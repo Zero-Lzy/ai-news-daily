@@ -290,6 +290,182 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-04-17 21:22:47",
+      "count": 17,
+      "articles": [
+        {
+          "title": "Unweight: We compressed an LLM 22% without sacrificing quality",
+          "url": "https://blog.cloudflare.com/unweight-tensor-compression/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blog.cloudflare.com/unweight-tensor-compression/ Comments URL: https://news.ycombinator.com/item?id=47805495 Points: 1 # Comments: 0",
+          "published_at": "2026-04-17 13:04",
+          "tags": []
+        },
+        {
+          "title": "Java 26 and the Rise of Agentic AI: The State of the Ecosystem (April 2026)",
+          "url": "https://techlife.blog/posts/java-ecosystem-april-2026/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://techlife.blog/posts/java-ecosystem-april-2026/ Comments URL: https://news.ycombinator.com/item?id=47805372 Points: 1 # Comments: 0",
+          "published_at": "2026-04-17 12:49",
+          "tags": []
+        },
+        {
+          "title": "An AI system that runs an art exhibition and decides what gets made",
+          "url": "https://performance-review.jonaslund.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://performance-review.jonaslund.com/ Comments URL: https://news.ycombinator.com/item?id=47805367 Points: 1 # Comments: 0",
+          "published_at": "2026-04-17 12:48",
+          "tags": []
+        },
+        {
+          "title": "Adapt: an LLM-based memory layer that restructures itself",
+          "url": "https://github.com/unbody-io/adapt",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/unbody-io/adapt Comments URL: https://news.ycombinator.com/item?id=47805302 Points: 1 # Comments: 0",
+          "published_at": "2026-04-17 12:40",
+          "tags": []
+        },
+        {
+          "title": "Anthropic chief Dario Amodei: 'I don't want AI turned on our own people'",
+          "url": "https://www.ft.com/content/9e0e0fc6-ab7d-4b69-a8b1-5a972b82fb06",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.ft.com/content/9e0e0fc6-ab7d-4b69-a8b1-5a972b82fb06 Comments URL: https://news.ycombinator.com/item?id=47805296 Points: 3 # Comments: 1",
+          "published_at": "2026-04-17 12:39",
+          "tags": []
+        },
+        {
+          "title": "Peon – A Zero-Trust AI Agent Runtime in Rust (Using Casbin)",
+          "url": "https://github.com/stephen94125/peon-lib",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/stephen94125/peon-lib Comments URL: https://news.ycombinator.com/item?id=47805172 Points: 1 # Comments: 0",
+          "published_at": "2026-04-17 12:26",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Robots2.txt – A robots.txt extension for AI agents and Age ratings",
+          "url": "https://robots2.org",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://robots2.org Comments URL: https://news.ycombinator.com/item?id=47805161 Points: 1 # Comments: 0",
+          "published_at": "2026-04-17 12:24",
+          "tags": []
+        },
+        {
+          "title": "Three years in amber: resurrecting WASM-AI from long ago",
+          "url": "https://wasmai.vercel.app/resurrection",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://wasmai.vercel.app/resurrection Comments URL: https://news.ycombinator.com/item?id=47805022 Points: 1 # Comments: 0",
+          "published_at": "2026-04-17 12:08",
+          "tags": []
+        },
+        {
+          "title": "GenAI Fails – A list of epic LLM fails",
+          "url": "https://github.com/hb20007/awesome-gen-ai-fails",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/hb20007/awesome-gen-ai-fails Comments URL: https://news.ycombinator.com/item?id=47804969 Points: 2 # Comments: 3",
+          "published_at": "2026-04-17 12:02",
+          "tags": []
+        },
+        {
+          "title": "Mozilla launches Thunderbolt AI client with focus on self-hosted infrastructure",
+          "url": "https://arstechnica.com/ai/2026/04/mozilla-launches-thunderbolt-ai-client-with-focus-on-self-hosted-infrastructure/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arstechnica.com/ai/2026/04/mozilla-launches-thunderbolt-ai-client-with-focus-on-self-hosted-infrastructure/ Comments URL: https://news.ycombinator.com/item?id=47804908 Points: 1 # Comments: 0",
+          "published_at": "2026-04-17 11:51",
+          "tags": []
+        },
+        {
+          "title": "OPC Workflow – Three Markdown files that enforce discipline on AI coding tools",
+          "url": "https://news.ycombinator.com/item?id=47804867",
+          "source": "Hacker News AI",
+          "summary": "I've been using Claude Code and Cursor for several months on a real project. The tools are impressive, but I kept running into the same failure modes:1. Long sessions cause context drift — the AI gradually ignores the original design 2. The AI writes fake tests — empty assertions, mocking the thing being tested 3. No research phase — the AI guesses how a framework works instead of reading the docsOPC Workflow is my fix: three markdown files you put in your project and trigger as slash commands (",
+          "published_at": "2026-04-17 11:45",
+          "tags": []
+        },
+        {
+          "title": "AI Wall of Shame",
+          "url": "https://www.aiwallofshame.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.aiwallofshame.com/ Comments URL: https://news.ycombinator.com/item?id=47804861 Points: 1 # Comments: 1",
+          "published_at": "2026-04-17 11:44",
+          "tags": []
+        },
+        {
+          "title": "AI traffic to US retailers rose 393% in Q1, and it’s boosting their revenue too",
+          "url": "https://techcrunch.com/2026/04/16/ai-traffic-to-us-retailers-rose-393-in-q1-and-its-boosting-their-revenue-too/",
+          "source": "TechCrunch AI",
+          "summary": "Adobe says AI traffic to U.S. retail sites also jumped 269% in March, with visitors converting better and generating more revenue than non-AI shoppers.",
+          "published_at": "2026-04-16 16:14",
+          "tags": [
+            "AI",
+            "Commerce",
+            "Adobe",
+            "agentic commerce",
+            "eCommerce",
+            "online shopping"
+          ]
+        },
+        {
+          "title": "Roblox’s AI assistant gets new agentic tools to plan, build, and test games",
+          "url": "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/",
+          "source": "TechCrunch AI",
+          "summary": "The new tools are designed to help creators throughout the entire development process.",
+          "published_at": "2026-04-16 16:00",
+          "tags": [
+            "AI",
+            "Gaming",
+            "Social",
+            "Exclusive",
+            "game design",
+            "game development",
+            "Roblox"
+          ]
+        },
+        {
+          "title": "Runway CEO says AI could help Hollywood make 50 films instead of one $100M blockbuster",
+          "url": "https://techcrunch.com/2026/04/16/runway-ceo-says-ai-could-help-hollywood-make-50-films-instead-of-one-100m-blockbuster/",
+          "source": "TechCrunch AI",
+          "summary": "Runway’s CEO says AI could help studios make dozens of films for the cost of one, betting volume will boost hit-making odds.",
+          "published_at": "2026-04-16 14:14",
+          "tags": [
+            "AI",
+            "Media & Entertainment",
+            "Creators",
+            "film",
+            "Hollywood",
+            "runway"
+          ]
+        },
+        {
+          "title": "Ronan Farrow on Sam Altman&#8217;s ‘unconstrained’ relationship with the truth",
+          "url": "https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry",
+          "source": "The Verge AI",
+          "summary": "Today on Decoder, I’m talking with Ronan Farrow, one of the biggest stars of investigative reporting working today. He broke the Harvey Weinstein story, among many, many others. And just last week, he and co-author Andrew Marantz published an incredible deep-dive feature in The New Yorker about OpenAI CEO Sam Altman, his trustworthiness, and the [&#8230;]",
+          "published_at": "2026-04-16 10:00",
+          "tags": [
+            "AI",
+            "Decoder",
+            "OpenAI",
+            "Podcasts",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Canva’s AI 2.0 update goes all in on prompt-powered design tools",
+          "url": "https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability",
+          "source": "The Verge AI",
+          "summary": "Canva has overhauled its design and workspace suite as it attempts to become the ultimate centralized hub for AI-powered content creation. The platform announced its Canva AI 2.0 update today, introducing updated tools and new prompt-based editing capabilities that allow users to make or adjust their work by describing what they want to create to [&#8230;]",
+          "published_at": "2026-04-16 09:07",
+          "tags": [
+            "AI",
+            "Creators",
+            "News",
+            "Tech"
+          ]
+        }
+      ]
     }
   ]
 }
