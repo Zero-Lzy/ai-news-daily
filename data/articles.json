@@ -1,5 +1,262 @@
 [
   {
+    "title": "How AI changed your daily work at office?",
+    "url": "https://news.ycombinator.com/item?id=47801978",
+    "source": "Hacker News AI",
+    "summary": "I would like to know from folks whose companies are using AI (or started recently using AI), in what ways your daily work changed? Did it become easier or challenging, or boring? Has the quality of the work or productivity increased?Personally I have been using AI for my side projects but I haven't seen change in my work life (full stack development). So curious to know others experiences. Comments URL: https://news.ycombinator.com/item?id=47801978 Points: 1 # Comments: 0",
+    "published_at": "2026-04-17 02:48",
+    "tags": [],
+    "fetch_date": "2026-04-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: A collection of GPT-IMAGE-2 prompts from X(Twitter)",
+    "url": "https://gptimage2.one/awesome-gpt-image-2-prompts",
+    "source": "Hacker News AI",
+    "summary": "A living collection of real prompts shared by creators on Twitter, covering data viz, portraits, product design, and more.Links back to original tweets. Comments URL: https://news.ycombinator.com/item?id=47801925 Points: 1 # Comments: 0",
+    "published_at": "2026-04-17 02:35",
+    "tags": [],
+    "fetch_date": "2026-04-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "I built 7 AI agents that attack the same task in parallel – armyai.app",
+    "url": "https://armyai.app",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://armyai.app Comments URL: https://news.ycombinator.com/item?id=47801793 Points: 1 # Comments: 0",
+    "published_at": "2026-04-17 02:09",
+    "tags": [],
+    "fetch_date": "2026-04-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Google Opens Personal Intelligence AI to All US Users",
+    "url": "https://www.heygotrade.com/en/news/google-ai-expansion-challenges-microsoft-apple/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.heygotrade.com/en/news/google-ai-expansion-challenges-microsoft-apple/ Comments URL: https://news.ycombinator.com/item?id=47801628 Points: 1 # Comments: 0",
+    "published_at": "2026-04-17 01:35",
+    "tags": [],
+    "fetch_date": "2026-04-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The tech jobs bust is real. Don't blame AI (yet)",
+    "url": "https://www.economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet Comments URL: https://news.ycombinator.com/item?id=47801433 Points: 1 # Comments: 1",
+    "published_at": "2026-04-17 01:02",
+    "tags": [],
+    "fetch_date": "2026-04-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Server Nexe – Modular, local AI server with persistent memory, zero cloud",
+    "url": "https://github.com/jgoy-labs/server-nexe",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/jgoy-labs/server-nexe Comments URL: https://news.ycombinator.com/item?id=47801189 Points: 1 # Comments: 0",
+    "published_at": "2026-04-17 00:28",
+    "tags": [],
+    "fetch_date": "2026-04-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "I Hate AI",
+    "url": "https://news.ycombinator.com/item?id=47800922",
+    "source": "Hacker News AI",
+    "summary": "I know this might seem very emotional, but please take it as stilistic tool.I told everyone to just use Claude Code all day everyday and take over the world. I was number 1 on Strauva (Strava for Claude Code yes). 7k token burn/month at api price + gemini antigravity to get another claude max subscription.I wasn’t use it excessively, like not more than 4 sessions at once. I was doing tabs, namings, git worktrees, commit messages.My sentiment changed drastically. I really hate AI now. It feels li",
+    "published_at": "2026-04-16 23:42",
+    "tags": [],
+    "fetch_date": "2026-04-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Isolating AI Coding Agents on Bare Metal",
+    "url": "https://blog.singlr.ai/isolating-ai-coding-agents-bare-metal-incus-podman/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.singlr.ai/isolating-ai-coding-agents-bare-metal-incus-podman/ Comments URL: https://news.ycombinator.com/item?id=47800623 Points: 3 # Comments: 0",
+    "published_at": "2026-04-16 23:01",
+    "tags": [],
+    "fetch_date": "2026-04-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Runway CEO: AI could help Hollywood make 50 films instead of 1 $100M blockbuster",
+    "url": "https://techcrunch.com/2026/04/16/runway-ceo-says-ai-could-help-hollywood-make-50-films-instead-of-one-100m-blockbuster/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://techcrunch.com/2026/04/16/runway-ceo-says-ai-could-help-hollywood-make-50-films-instead-of-one-100m-blockbuster/ Comments URL: https://news.ycombinator.com/item?id=47800597 Points: 2 # Comments: 2",
+    "published_at": "2026-04-16 22:58",
+    "tags": [],
+    "fetch_date": "2026-04-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
+    "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
+    "source": "TechCrunch AI",
+    "summary": "The three-year-old startup raised $150 million led by Khosla Ventures.",
+    "published_at": "2026-04-16 22:55",
+    "tags": [
+      "AI",
+      "Startups",
+      "Khosla Ventures",
+      "Sequioa",
+      "In Brief",
+      "AI coding tools"
+    ],
+    "fetch_date": "2026-04-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Anubis weighs the soul of incoming HTTP requests to stop AI crawlers",
+    "url": "https://github.com/TecharoHQ/anubis",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/TecharoHQ/anubis Comments URL: https://news.ycombinator.com/item?id=47800425 Points: 4 # Comments: 0",
+    "published_at": "2026-04-16 22:41",
+    "tags": [],
+    "fetch_date": "2026-04-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Rebuilt SETI Home but for AI",
+    "url": "https://github.com/Agent-FM/agentfm-core",
+    "source": "Hacker News AI",
+    "summary": "It’s a single Go binary that turns unused home GPUs into a decentralized, peer-to-peer AI compute grid. Think SETI@home, but for running local LLMs and AI workloads. Comments URL: https://news.ycombinator.com/item?id=47800418 Points: 3 # Comments: 3",
+    "published_at": "2026-04-16 22:40",
+    "tags": [],
+    "fetch_date": "2026-04-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Grpo explained: group relative policy optimization for LLM finetuning",
+    "url": "https://cgft.io/learn/grpo-intro/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://cgft.io/learn/grpo-intro/ Comments URL: https://news.ycombinator.com/item?id=47800256 Points: 1 # Comments: 0",
+    "published_at": "2026-04-16 22:18",
+    "tags": [],
+    "fetch_date": "2026-04-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "15% of Reddit Posts are Likely AI-generated in 2025",
+    "url": "https://originality.ai/blog/ai-reddit-posts-study",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://originality.ai/blog/ai-reddit-posts-study Comments URL: https://news.ycombinator.com/item?id=47800236 Points: 8 # Comments: 6",
+    "published_at": "2026-04-16 22:16",
+    "tags": [],
+    "fetch_date": "2026-04-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Could AI's leading men become as powerful as Ford or Rockefeller?",
+    "url": "https://www.economist.com/business/2026/04/16/could-ais-leading-men-become-as-powerful-as-ford-or-rockefeller",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.economist.com/business/2026/04/16/could-ais-leading-men-become-as-powerful-as-ford-or-rockefeller Comments URL: https://news.ycombinator.com/item?id=47800167 Points: 2 # Comments: 1",
+    "published_at": "2026-04-16 22:08",
+    "tags": [],
+    "fetch_date": "2026-04-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
+    "url": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
+    "source": "TechCrunch AI",
+    "summary": "The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video.",
+    "published_at": "2026-04-16 21:58",
+    "tags": [
+      "AI",
+      "Media & Entertainment",
+      "Startups",
+      "AI video generation",
+      "film",
+      "Hollywood",
+      "innovative dreams",
+      "Luma",
+      "wonder project"
+    ],
+    "fetch_date": "2026-04-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Upscale AI in talks to raise at $2B valuation, says report",
+    "url": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
+    "source": "TechCrunch AI",
+    "summary": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago.",
+    "published_at": "2026-04-16 20:41",
+    "tags": [
+      "AI",
+      "Startups",
+      "Venture",
+      "In Brief",
+      "upscale"
+    ],
+    "fetch_date": "2026-04-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
+    "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+    "source": "TechCrunch AI",
+    "summary": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
+    "published_at": "2026-04-16 20:26",
+    "tags": [
+      "AI",
+      "Robotics",
+      "Exclusive",
+      "Physical Intelligence"
+    ],
+    "fetch_date": "2026-04-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Google now lets you explore the web side-by-side with AI Mode",
+    "url": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/",
+    "source": "TechCrunch AI",
+    "summary": "Now, when you're using AI Mode on Chrome desktop, clicking a link will open the web page side-by-side with AI Mode.",
+    "published_at": "2026-04-16 17:00",
+    "tags": [
+      "AI",
+      "Apps",
+      "ai mode",
+      "Google"
+    ],
+    "fetch_date": "2026-04-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI traffic to US retailers rose 393% in Q1, and it’s boosting their revenue too",
+    "url": "https://techcrunch.com/2026/04/16/ai-traffic-to-us-retailers-rose-393-in-q1-and-its-boosting-their-revenue-too/",
+    "source": "TechCrunch AI",
+    "summary": "Adobe says AI traffic to U.S. retail sites also jumped 269% in March, with visitors converting better and generating more revenue than non-AI shoppers.",
+    "published_at": "2026-04-16 16:14",
+    "tags": [
+      "AI",
+      "Commerce",
+      "Adobe",
+      "agentic commerce",
+      "eCommerce",
+      "online shopping"
+    ],
+    "fetch_date": "2026-04-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Meta raises Quest 3 and Quest 3S prices due to RAM shortage",
+    "url": "https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/",
+    "source": "TechCrunch AI",
+    "summary": "Starting April 19, the price of the Meta Quest 3S (128GB) and Meta Quest 3S (256GB) will go up by $50 to $349.99 and $449.99, respectively. The price of the Meta Quest 3 is going up by $100 to $599.99.",
+    "published_at": "2026-04-16 13:49",
+    "tags": [
+      "AI",
+      "Hardware",
+      "Meta",
+      "VR",
+      "meta quest",
+      "In Brief"
+    ],
+    "fetch_date": "2026-04-17",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Canva’s AI assistant can now call various tools to make designs for you",
     "url": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/",
     "source": "TechCrunch AI",
@@ -17,6 +274,21 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "Google’s AI Mode update lets you open links without leaving the page",
+    "url": "https://www.theverge.com/tech/913109/google-ai-mode-tabs-sources",
+    "source": "The Verge AI",
+    "summary": "Google is upgrading AI Mode in Chrome with a new feature that will allow you to open links to sources alongside your chat. Now, instead of automatically opening a new tab, clicking a source will open the website side by side with AI Mode, allowing you to ask follow-up questions about what's on the page. [&#8230;]",
+    "published_at": "2026-04-16 13:00",
+    "tags": [
+      "AI",
+      "Google",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-04-17",
+    "fetch_label": "早报"
+  },
+  {
     "title": "This simulation startup wants to be the Cursor for physical AI",
     "url": "https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/",
     "source": "TechCrunch AI",
@@ -30,6 +302,22 @@
     ],
     "fetch_date": "2026-04-16",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Ronan Farrow on Sam Altman&#8217;s ‘unconstrained’ relationship with the truth",
+    "url": "https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry",
+    "source": "The Verge AI",
+    "summary": "Today on Decoder, I’m talking with Ronan Farrow, one of the biggest stars of investigative reporting working today. He broke the Harvey Weinstein story, among many, many others. And just last week, he and co-author Andrew Marantz published an incredible deep-dive feature in The New Yorker about OpenAI CEO Sam Altman, his trustworthiness, and the [&#8230;]",
+    "published_at": "2026-04-16 10:00",
+    "tags": [
+      "AI",
+      "Decoder",
+      "OpenAI",
+      "Podcasts",
+      "Tech"
+    ],
+    "fetch_date": "2026-04-17",
+    "fetch_label": "早报"
   },
   {
     "title": "Canva’s AI 2.0 update goes all in on prompt-powered design tools",
