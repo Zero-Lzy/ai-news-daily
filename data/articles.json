@@ -1,5 +1,134 @@
 [
   {
+    "title": "The App Store is booming again, and AI may be why",
+    "url": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+    "source": "TechCrunch AI",
+    "summary": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
+    "published_at": "2026-04-18 13:00",
+    "tags": [
+      "AI",
+      "Apps",
+      "Apple",
+      "Google",
+      "developers",
+      "Mobile",
+      "app store",
+      "ai coding"
+    ],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "SemanticForge: Making AI Values Verifiable Across Cultures",
+    "url": "https://github.com/xiaojialove-DRP/SemanticForge",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/xiaojialove-DRP/SemanticForge Comments URL: https://news.ycombinator.com/item?id=47815385 Points: 1 # Comments: 0",
+    "published_at": "2026-04-18 12:27",
+    "tags": [],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: ApplyPilot – Self-Hosted AI-Powered Job Search Companion. Open Source",
+    "url": "https://github.com/eliornl/applypilot",
+    "source": "Hacker News AI",
+    "summary": "150 applications. One offer. Each application took 5+ manual steps.Separate tools, separate tabs, separate sites — none of them talking to each other. Generic output. Over an hour per application.Paste a job description — or pull it from any job site with the Chrome extension — and five AI agents run an orchestrated pipeline in under 30 seconds: analyzing the role, scoring your fit, researching the company, writing a targeted cover letter, and tailoring your resume to the role. Sequential where ",
+    "published_at": "2026-04-18 12:17",
+    "tags": [],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "GPT‑2: 1.5B release (2019)",
+    "url": "https://openai.com/index/gpt-2-1-5b-release/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://openai.com/index/gpt-2-1-5b-release/ Comments URL: https://news.ycombinator.com/item?id=47815242 Points: 1 # Comments: 0",
+    "published_at": "2026-04-18 12:03",
+    "tags": [],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Is Finding More Bugs Than Open-Source Teams Can Fight Off",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-17/anthropic-s-mythos-adds-strain-on-cybersecurity-teams-facing-ai-threats",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-04-17/anthropic-s-mythos-adds-strain-on-cybersecurity-teams-facing-ai-threats Comments URL: https://news.ycombinator.com/item?id=47815166 Points: 3 # Comments: 2",
+    "published_at": "2026-04-18 11:50",
+    "tags": [],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Ricci Flow – AI Web Scraper",
+    "url": "https://chromewebstore.google.com/detail/ricci-flow-–-ai-web-scrap/ngeodkdeahmlnceiomeeidoidhniopam",
+    "source": "Hacker News AI",
+    "summary": "Ricci Flow – AI Web Scraper for Chrome: AI Data Extraction Tool for Web Scraping to CSV, Excel, JSON Comments URL: https://news.ycombinator.com/item?id=47815071 Points: 2 # Comments: 1",
+    "published_at": "2026-04-18 11:34",
+    "tags": [],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Who Uses AI Agents (and Who Just Runs the Demo)",
+    "url": "https://www.bhusalmanish.com.np/blog/posts/who-actually-uses-ai-agents.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bhusalmanish.com.np/blog/posts/who-actually-uses-ai-agents.html Comments URL: https://news.ycombinator.com/item?id=47815069 Points: 2 # Comments: 0",
+    "published_at": "2026-04-18 11:34",
+    "tags": [],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Venice AI – private and unbiased AI",
+    "url": "https://venice.ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://venice.ai/ Comments URL: https://news.ycombinator.com/item?id=47815013 Points: 1 # Comments: 0",
+    "published_at": "2026-04-18 11:25",
+    "tags": [],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Productivity gains with an AI-based IDE at Google",
+    "url": "https://arxiv.org/abs/2601.19964",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2601.19964 Comments URL: https://news.ycombinator.com/item?id=47814976 Points: 1 # Comments: 0",
+    "published_at": "2026-04-18 11:18",
+    "tags": [],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "My AI thinks civics is black studies",
+    "url": "https://hollisrobbinsanecdotal.substack.com/p/my-ai-thinks-civics-is-black-studies",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://hollisrobbinsanecdotal.substack.com/p/my-ai-thinks-civics-is-black-studies Comments URL: https://news.ycombinator.com/item?id=47814805 Points: 2 # Comments: 2",
+    "published_at": "2026-04-18 10:41",
+    "tags": [],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "An Electronic Conversationalist (and the Machine Replied...) (1962)",
+    "url": "https://archive.org/details/DTIC_AD0400016",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://archive.org/details/DTIC_AD0400016 Comments URL: https://news.ycombinator.com/item?id=47814687 Points: 1 # Comments: 0",
+    "published_at": "2026-04-18 10:17",
+    "tags": [],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Purdue University CS240 Class over 50% of students 'caught' using AI on homework",
+    "url": "https://old.reddit.com/r/Purdue/comments/1sogfb4/comment/ogsvymy/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://old.reddit.com/r/Purdue/comments/1sogfb4/comment/ogsvymy/ Comments URL: https://news.ycombinator.com/item?id=47814040 Points: 2 # Comments: 3",
+    "published_at": "2026-04-18 07:50",
+    "tags": [],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Objection.ai - The AI Tribunal of Truth",
     "url": "https://objection.ai/",
     "source": "Hacker News AI",
@@ -198,6 +327,30 @@
     ],
     "fetch_date": "2026-04-18",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
+    "url": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
+    "source": "TechCrunch AI",
+    "summary": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;finance apps&#160;to&#160;talk shows, a certain shoe company just&#160;rebranded as an AI infrastructure play, and Anthropic unveiled a model it says is&#160;too powerful to release publicly&#160;&#8230;but&#160;apparently not&#160;too [&#8230;]",
+    "published_at": "2026-04-17 15:57",
+    "tags": [
+      "AI",
+      "Startups",
+      "allbirds",
+      "Anthropic",
+      "Anthropic OpenAI",
+      "Claude",
+      "Equity podcast",
+      "fluidstack",
+      "Mythos",
+      "OpenAI",
+      "Roundup",
+      "tokenmaxxing",
+      "Uber"
+    ],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "晚报"
   },
   {
     "title": "Unweight: We compressed an LLM 22% without sacrificing quality",
