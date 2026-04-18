@@ -1,5 +1,205 @@
 [
   {
+    "title": "Objection.ai - The AI Tribunal of Truth",
+    "url": "https://objection.ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://objection.ai/ Comments URL: https://news.ycombinator.com/item?id=47812640 Points: 1 # Comments: 0",
+    "published_at": "2026-04-18 02:25",
+    "tags": [],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Effective Conversational AI Book: Detailed Review",
+    "url": "https://noroinsight.com/effective-conversational-ai-book-review/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://noroinsight.com/effective-conversational-ai-book-review/ Comments URL: https://news.ycombinator.com/item?id=47812541 Points: 1 # Comments: 0",
+    "published_at": "2026-04-18 01:58",
+    "tags": [],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "New AI-generated videos of Iran war spread across social media",
+    "url": "https://www.youtube.com/watch?v=0mKCBAM4wZs",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=0mKCBAM4wZs Comments URL: https://news.ycombinator.com/item?id=47812407 Points: 2 # Comments: 0",
+    "published_at": "2026-04-18 01:28",
+    "tags": [],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN - TokensAI – Mint for AI Usage",
+    "url": "https://tokensai.dev",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://tokensai.dev Comments URL: https://news.ycombinator.com/item?id=47812164 Points: 1 # Comments: 0",
+    "published_at": "2026-04-18 00:43",
+    "tags": [],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Steno – Compressed memory with RAG for AI agents",
+    "url": "https://github.com/KultMember6Banger/steno",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/KultMember6Banger/steno Comments URL: https://news.ycombinator.com/item?id=47812054 Points: 1 # Comments: 1",
+    "published_at": "2026-04-18 00:26",
+    "tags": [],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Do I Stop Learning Coding? DSA?",
+    "url": "https://news.ycombinator.com/item?id=47811959",
+    "source": "Hacker News AI",
+    "summary": "Hey. I don’t know how to start this. It’s all over me. I’ve been trying to learn Coding, Data Structures, Algorithms, Design Patterns, Best practices etc… but will I still need that? Am i wasting my time? Can really AI do all this, and actually do it better? Are we in an Era, where one should only need to learn the ‘basics’ of development, so that I can understand some LLM generated code? Where do we go next? How will DEV interviews look like in 5 years? Is LeetCode still a thing now? Did I wast",
+    "published_at": "2026-04-18 00:11",
+    "tags": [],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Stop using naive RAG – adding relationships to AI context",
+    "url": "https://news.ycombinator.com/item?id=47811753",
+    "source": "Hacker News AI",
+    "summary": "I’ve been working a lot with RAG systems recently, and kept running into the same issue: they retrieve relevant chunks, but lose the relationships between them.This becomes a problem pretty quickly when dealing with real systems (docs, APIs, infra), where understanding how things connect matters more than just finding similar text.So I built Mindex: https://usemindex.dev/It combines semantic search with a knowledge graph layer, so instead of returning isolated chunks, it can connect documents an",
+    "published_at": "2026-04-17 23:35",
+    "tags": [],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Shuttered startups are selling old Slack chats and emails to AI companies",
+    "url": "https://www.fastcompany.com/91528808/shuttered-startups-are-selling-old-slack-chats-and-emails-to-ai-companies",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.fastcompany.com/91528808/shuttered-startups-are-selling-old-slack-chats-and-emails-to-ai-companies Comments URL: https://news.ycombinator.com/item?id=47811748 Points: 16 # Comments: 3",
+    "published_at": "2026-04-17 23:34",
+    "tags": [],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "How an LLM becomes more coherent as we train it",
+    "url": "https://www.gilesthomas.com/2026/04/how-an-llm-becomes-more-coherent-over-training",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.gilesthomas.com/2026/04/how-an-llm-becomes-more-coherent-over-training Comments URL: https://news.ycombinator.com/item?id=47811377 Points: 3 # Comments: 0",
+    "published_at": "2026-04-17 22:45",
+    "tags": [],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
+    "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+    "source": "TechCrunch AI",
+    "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
+    "published_at": "2026-04-17 22:34",
+    "tags": [
+      "AI",
+      "DocuSign",
+      "sam altman",
+      "Tinder",
+      "World",
+      "Worldcoin",
+      "zoom"
+    ],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "\"Am I Crazy?\" [Wading Through AI – Episode 3] [video]",
+    "url": "https://www.youtube.com/watch?v=Sp1EmFRDquA",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=Sp1EmFRDquA Comments URL: https://news.ycombinator.com/item?id=47811220 Points: 4 # Comments: 0",
+    "published_at": "2026-04-17 22:20",
+    "tags": [],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Littlebird raises $11M for its AI-assisted 'recall' tool",
+    "url": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/ Comments URL: https://news.ycombinator.com/item?id=47811198 Points: 2 # Comments: 0",
+    "published_at": "2026-04-17 22:18",
+    "tags": [],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The AI Rewrite Dilemma",
+    "url": "https://lh3.github.io/2026/04/17/the-ai-rewrite-dilemma",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://lh3.github.io/2026/04/17/the-ai-rewrite-dilemma Comments URL: https://news.ycombinator.com/item?id=47811131 Points: 2 # Comments: 0",
+    "published_at": "2026-04-17 22:09",
+    "tags": [],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
+    "url": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
+    "source": "ArsTechnica AI",
+    "summary": "Grinex says needed hacking resources \"available exclusively to ... unfriendly states.\"",
+    "published_at": "2026-04-17 21:28",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "cryptocurrency exchange",
+      "cyberattack",
+      "Grinex",
+      "russian hacking"
+    ],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+    "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+    "source": "TechCrunch AI",
+    "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
+    "published_at": "2026-04-17 20:38",
+    "tags": [
+      "AI",
+      "bill peebles",
+      "Kevin Weil",
+      "OpenAI",
+      "OpenAI For Science",
+      "sora"
+    ],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI’s former Sora boss is leaving",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
+    "source": "The Verge AI",
+    "summary": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as part of an effort to avoid \"side quests,\" and Peebles' departure is just one of many recent changes as the company [&#8230;]",
+    "published_at": "2026-04-17 17:13",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Should you stare into Sam Altman&#8217;s orb before your next date?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
+    "source": "The Verge AI",
+    "summary": "Tinder users who prove they're a real person by visiting an identity-verifying orb will soon be able to get five free boosts in the app - and it's just the latest service to embrace the orb. World, which was co-founded by OpenAI CEO Sam Altman, initially tested Tinder verification using its facial scanning orbs through [&#8230;]",
+    "published_at": "2026-04-17 16:42",
+    "tags": [
+      "AI",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Unweight: We compressed an LLM 22% without sacrificing quality",
     "url": "https://blog.cloudflare.com/unweight-tensor-compression/",
     "source": "Hacker News AI",
@@ -8,6 +208,30 @@
     "tags": [],
     "fetch_date": "2026-04-17",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Are we tokenmaxxing our way to nowhere?",
+    "url": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
+    "source": "TechCrunch AI",
+    "summary": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;finance apps&#160;to&#160;talk shows, a certain shoe company just&#160;rebranded as an AI infrastructure play, and Anthropic unveiled a model it says is&#160;too powerful to release publicly&#160;&#8230;but&#160;apparently not&#160;too [&#8230;]",
+    "published_at": "2026-04-17 13:00",
+    "tags": [
+      "AI",
+      "Startups",
+      "acquisition",
+      "AI data center",
+      "ai infrastructure",
+      "allbirds",
+      "Equity Video",
+      "hiro",
+      "Mythos",
+      "openai anthropic",
+      "podcast",
+      "tokenmaxxing",
+      "wayve"
+    ],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "早报"
   },
   {
     "title": "Java 26 and the Rise of Agentic AI: The State of the Ecosystem (April 2026)",
@@ -118,6 +342,22 @@
     "tags": [],
     "fetch_date": "2026-04-17",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "The ‘AI is inevitable’ trap",
+    "url": "https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast",
+    "source": "The Verge AI",
+    "summary": "In the latest sign of AI silly season, Allbirds, the shoe company, told the world it was now an AI company and briefly managed to septuple its stock price. The Newbird AI story is really just one of a bunch of things this week that made us wonder: have we reached the peak of AI, [&#8230;]",
+    "published_at": "2026-04-17 09:24",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "Podcasts",
+      "Policy",
+      "Vergecast"
+    ],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "早报"
   },
   {
     "title": "How AI changed your daily work at office?",
@@ -328,6 +568,24 @@
     "fetch_label": "早报"
   },
   {
+    "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+    "url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+    "source": "TechCrunch AI",
+    "summary": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
+    "published_at": "2026-04-16 19:18",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "agents",
+      "Anthropic",
+      "claude code",
+      "codex",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-04-18",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Google now lets you explore the web side-by-side with AI Mode",
     "url": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/",
     "source": "TechCrunch AI",
@@ -340,6 +598,25 @@
       "Google"
     ],
     "fetch_date": "2026-04-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "InsightFinder raises $15M to help companies figure out where AI agents go wrong",
+    "url": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/",
+    "source": "TechCrunch AI",
+    "summary": "According to CEO Helen Gu, the biggest problem facing the industry today is not just monitoring and diagnosing where AI models go wrong — it's also diagnosing how the entire tech stack operates now that AI is part of it.",
+    "published_at": "2026-04-16 16:15",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Fundraising",
+      "data observability",
+      "Datadog",
+      "Dynatrace",
+      "Grafana Labs",
+      "InsightFinder"
+    ],
+    "fetch_date": "2026-04-18",
     "fetch_label": "早报"
   },
   {
