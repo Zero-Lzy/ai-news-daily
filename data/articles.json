@@ -1,5 +1,145 @@
 [
   {
+    "title": "Show HN: Scan domain for llms.txt LLMs-full.txt AI aware SEO tool",
+    "url": "https://news.ycombinator.com/item?id=47823995",
+    "source": "Hacker News AI",
+    "summary": "Hi! Been working on DialtoneApp, a free domain scanning tool to see how your site does with all the new rules for AI SEO. Also known as AEO (Answer Engine Optimization) or GEO (Generative Engine Optimization) the A can also stand for \"Agent\"! It's a whole new world out there and we haven't even gotten to agents.json files and the new \"b2b\" (bot to bot) commerce part.But there are some standards starting to take shape with llms.txt and using things like:https://dialtoneapp.com/top-sites.md\">on al",
+    "published_at": "2026-04-19 13:01",
+    "tags": [],
+    "fetch_date": "2026-04-19",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Open source contribution and job search as matching markets under AI congestion",
+    "url": "https://e10v.me/matching-markets-congestion/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://e10v.me/matching-markets-congestion/ Comments URL: https://news.ycombinator.com/item?id=47823902 Points: 1 # Comments: 1",
+    "published_at": "2026-04-19 12:46",
+    "tags": [],
+    "fetch_date": "2026-04-19",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI song tops iTunes global charts",
+    "url": "https://www.dexerto.com/entertainment/ai-generated-song-takes-1-spot-on-itunes-global-charts-3353485/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.dexerto.com/entertainment/ai-generated-song-takes-1-spot-on-itunes-global-charts-3353485/ Comments URL: https://news.ycombinator.com/item?id=47823798 Points: 1 # Comments: 0",
+    "published_at": "2026-04-19 12:26",
+    "tags": [],
+    "fetch_date": "2026-04-19",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI vendors' response to security flaws: It wasn't me",
+    "url": "https://www.theregister.com/2026/04/19/ai_vendors_response_to_security/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theregister.com/2026/04/19/ai_vendors_response_to_security/ Comments URL: https://news.ycombinator.com/item?id=47823779 Points: 1 # Comments: 0",
+    "published_at": "2026-04-19 12:23",
+    "tags": [],
+    "fetch_date": "2026-04-19",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Proposly – AI-generated client proposals for freelancers",
+    "url": "https://proposly.org",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://proposly.org Comments URL: https://news.ycombinator.com/item?id=47823575 Points: 1 # Comments: 0",
+    "published_at": "2026-04-19 11:40",
+    "tags": [],
+    "fetch_date": "2026-04-19",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "America wakes up to AI's dangerous power",
+    "url": "https://www.economist.com/leaders/2026/04/16/america-wakes-up-to-ais-dangerous-power",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.economist.com/leaders/2026/04/16/america-wakes-up-to-ais-dangerous-power Comments URL: https://news.ycombinator.com/item?id=47823542 Points: 2 # Comments: 1",
+    "published_at": "2026-04-19 11:33",
+    "tags": [],
+    "fetch_date": "2026-04-19",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Forecastr – RFC 3161 timestamps for AI forecasts, verifiable with OpenSSL",
+    "url": "https://www.forecastr.dev/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.forecastr.dev/ Comments URL: https://news.ycombinator.com/item?id=47823536 Points: 2 # Comments: 0",
+    "published_at": "2026-04-19 11:32",
+    "tags": [],
+    "fetch_date": "2026-04-19",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Vitality AI Health – blood work, wearables, and DNA unified",
+    "url": "https://vitalityaihealth.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://vitalityaihealth.com Comments URL: https://news.ycombinator.com/item?id=47823461 Points: 1 # Comments: 1",
+    "published_at": "2026-04-19 11:17",
+    "tags": [],
+    "fetch_date": "2026-04-19",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Track HN: Comparing 156 LLM Launch Posts on Hacker News",
+    "url": "https://track-hacker-news.com/reports/llm-launches",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://track-hacker-news.com/reports/llm-launches Comments URL: https://news.ycombinator.com/item?id=47823438 Points: 2 # Comments: 0",
+    "published_at": "2026-04-19 11:13",
+    "tags": [],
+    "fetch_date": "2026-04-19",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The Abstraction Fallacy: Why AI Can Simulate But Not Instantiate Consciousness",
+    "url": "https://deepmind.google/research/publications/231971/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://deepmind.google/research/publications/231971/ Comments URL: https://news.ycombinator.com/item?id=47823429 Points: 2 # Comments: 1",
+    "published_at": "2026-04-19 11:11",
+    "tags": [],
+    "fetch_date": "2026-04-19",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Laravel Magika – AI Powered File Type Detection",
+    "url": "https://github.com/megoxv/laravel-magika",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/megoxv/laravel-magika Comments URL: https://news.ycombinator.com/item?id=47823424 Points: 1 # Comments: 0",
+    "published_at": "2026-04-19 11:10",
+    "tags": [],
+    "fetch_date": "2026-04-19",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The AI Chip Owners Explorer",
+    "url": "https://epoch.ai/blog/introducing-the-ai-chip-owners-explorer",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://epoch.ai/blog/introducing-the-ai-chip-owners-explorer Comments URL: https://news.ycombinator.com/item?id=47823355 Points: 5 # Comments: 0",
+    "published_at": "2026-04-19 10:54",
+    "tags": [],
+    "fetch_date": "2026-04-19",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Need some suggestions and ideas on agricultural using AI",
+    "url": "https://news.ycombinator.com/item?id=47823272",
+    "source": "Hacker News AI",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=47823272 Points: 1 # Comments: 0",
+    "published_at": "2026-04-19 10:36",
+    "tags": [],
+    "fetch_date": "2026-04-19",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: AI Primer – A Searchable AI Changelog for AI Engineers and Creatives",
+    "url": "https://www.ai-primer.com",
+    "source": "Hacker News AI",
+    "summary": "My girlfriend and I built this because we kept losing chunks of the day to \"catching up on AI.\"We're both building AI products in production. We both get a huge buzz out of being on X, and our day-to-day work changes meaningfully based on what we find that day.We built AI Primer to get the benefit of being on X but with the focus of a curated feed. You can catch up when you want without the anxiety of missing something if you skip a day on X.It’s closer to a changelog than a newsletter. Dated en",
+    "published_at": "2026-04-19 09:12",
+    "tags": [],
+    "fetch_date": "2026-04-19",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "ChatGPT vs. Gemini vs. Claude: The Best LLM Subscription You Should Buy",
     "url": "https://www.artificialintelligencemadesimple.com/p/chatgpt-vs-gemini-vs-claude-the-best",
     "source": "Hacker News AI",
