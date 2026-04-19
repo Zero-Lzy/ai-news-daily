@@ -1,5 +1,149 @@
 [
   {
+    "title": "ChatGPT vs. Gemini vs. Claude: The Best LLM Subscription You Should Buy",
+    "url": "https://www.artificialintelligencemadesimple.com/p/chatgpt-vs-gemini-vs-claude-the-best",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.artificialintelligencemadesimple.com/p/chatgpt-vs-gemini-vs-claude-the-best Comments URL: https://news.ycombinator.com/item?id=47821378 Points: 1 # Comments: 0",
+    "published_at": "2026-04-19 02:38",
+    "tags": [],
+    "fetch_date": "2026-04-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Loomfeed – where AI agents and humans post and vote as equals",
+    "url": "https://www.loomfeed.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.loomfeed.com Comments URL: https://news.ycombinator.com/item?id=47821365 Points: 1 # Comments: 0",
+    "published_at": "2026-04-19 02:36",
+    "tags": [],
+    "fetch_date": "2026-04-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: 5-translation RAG matrix fixing LLM religious hallucinations",
+    "url": "https://github.com/salaamalykum/quran-semantic-search",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/salaamalykum/quran-semantic-search Comments URL: https://news.ycombinator.com/item?id=47821239 Points: 2 # Comments: 0",
+    "published_at": "2026-04-19 02:07",
+    "tags": [],
+    "fetch_date": "2026-04-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "TensorRT LLM",
+    "url": "https://github.com/NVIDIA/TensorRT-LLM",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/NVIDIA/TensorRT-LLM Comments URL: https://news.ycombinator.com/item?id=47821198 Points: 2 # Comments: 0",
+    "published_at": "2026-04-19 01:58",
+    "tags": [],
+    "fetch_date": "2026-04-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "CTX is a cognitive memory layer for AI systems",
+    "url": "https://github.com/diegoxtr/ctx-open",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/diegoxtr/ctx-open Comments URL: https://news.ycombinator.com/item?id=47821069 Points: 2 # Comments: 0",
+    "published_at": "2026-04-19 01:30",
+    "tags": [],
+    "fetch_date": "2026-04-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI chip startup Cerebras files for IPO",
+    "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/ Comments URL: https://news.ycombinator.com/item?id=47820871 Points: 3 # Comments: 0",
+    "published_at": "2026-04-19 00:49",
+    "tags": [],
+    "fetch_date": "2026-04-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI as Economic Warfare",
+    "url": "https://ghuntley.com/warfare/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://ghuntley.com/warfare/ Comments URL: https://news.ycombinator.com/item?id=47820327 Points: 3 # Comments: 1",
+    "published_at": "2026-04-18 23:10",
+    "tags": [],
+    "fetch_date": "2026-04-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Objection: An AI judge for investigating media claims",
+    "url": "https://www.objection.ai/press-release",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.objection.ai/press-release Comments URL: https://news.ycombinator.com/item?id=47820184 Points: 1 # Comments: 0",
+    "published_at": "2026-04-18 22:45",
+    "tags": [],
+    "fetch_date": "2026-04-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI writes code 100x faster – why hasn't productivity?",
+    "url": "https://deeptils.github.io/blog/ai-writes-code-100x-faster-productivity-hasnt/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://deeptils.github.io/blog/ai-writes-code-100x-faster-productivity-hasnt/ Comments URL: https://news.ycombinator.com/item?id=47819874 Points: 2 # Comments: 6",
+    "published_at": "2026-04-18 21:58",
+    "tags": [],
+    "fetch_date": "2026-04-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask HN: Can you show me some useful AI-written programs?",
+    "url": "https://news.ycombinator.com/item?id=47819757",
+    "source": "Hacker News AI",
+    "summary": "Looking at the software I use day to day, none of it is majority AI/LLM-written. I'm not actively going out of my way to avoid AI programs, but I haven't found any useful ones.When I say \"useful software\" I'm particularly interested in something that my grandmother would recognize as software - an OS, IDE, DAW, DBMS, word processor, a 3D modeller, game engine, video editor, CAD software, spreadsheet application, compiler, browser, etc. I'm marginally less interested in colorful cat/ls rewrites.G",
+    "published_at": "2026-04-18 21:41",
+    "tags": [],
+    "fetch_date": "2026-04-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Mapping India's homegrown AI ecosystem – 110 apps, 22 languages, 28 sectors",
+    "url": "https://github.com/suyash333/india-ai-ecosystem",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/suyash333/india-ai-ecosystem Comments URL: https://news.ycombinator.com/item?id=47819722 Points: 1 # Comments: 1",
+    "published_at": "2026-04-18 21:36",
+    "tags": [],
+    "fetch_date": "2026-04-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: How Are You-elderly fall detection app I built solo with AI in 6 months",
+    "url": "https://news.ycombinator.com/item?id=47819553",
+    "source": "Hacker News AI",
+    "summary": "I am writing the post, because I want to show that with AI, really complex and meaningful projects can be done, if the proper tools were used the proper way. I needed a project that I can use, so that I see how far I can go with only AI usage. I needed something doable, but relatively complex. And then I remembered an idea my wife shared with me, a few years ago: an app that monitors her grandfather's behavior and sends a notification if he stops moving. at that time, AI integrations were not co",
+    "published_at": "2026-04-18 21:11",
+    "tags": [],
+    "fetch_date": "2026-04-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Observability Stack – AI First?",
+    "url": "https://news.ycombinator.com/item?id=47819461",
+    "source": "Hacker News AI",
+    "summary": "So... I'm way behind. Just got into Claude this week... it's already doing most of my coding and bug fixes. Crazy stuff.Some background on my company: Mature (14 yrs) Ruby on Rails app, Sidekiq, Redis, PG, AWS lambda/eventbridge, react/preact, swift, and others. Hosted on Heroku. Very database heavy. Solo guy, owner/operator.Current stack:Datadog logging (dabbled in APM, metrics, and others, but the build pack for Heroku is so bloated I had to remove it), so now it's a simple Heroku log drain to",
+    "published_at": "2026-04-18 20:55",
+    "tags": [],
+    "fetch_date": "2026-04-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The RAM shortage could last years",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+    "source": "The Verge AI",
+    "summary": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages could last until 2030. The world's largest memory makers - Samsung, SK Hynix, and Micron - are all working to add [&#8230;]",
+    "published_at": "2026-04-18 17:08",
+    "tags": [
+      "AI",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-04-19",
+    "fetch_label": "早报"
+  },
+  {
     "title": "The App Store is booming again, and AI may be why",
     "url": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
     "source": "TechCrunch AI",
@@ -351,6 +495,22 @@
     ],
     "fetch_date": "2026-04-18",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "This charming gadget writes bad AI poetry",
+    "url": "https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on",
+    "source": "The Verge AI",
+    "summary": "I've never been as charmed and frustrated by one gadget as I have with the Poetry Camera. It's a delightful object. White and cherry red with a color-matched woven strap, it looks playful and adorably lo-fi. If I saw it on a store shelf, I'd absolutely pick it up. But aside from obviously appealing, I'm [&#8230;]",
+    "published_at": "2026-04-17 13:30",
+    "tags": [
+      "AI",
+      "Gadgets",
+      "Hands-on",
+      "Reviews",
+      "Tech"
+    ],
+    "fetch_date": "2026-04-19",
+    "fetch_label": "早报"
   },
   {
     "title": "Unweight: We compressed an LLM 22% without sacrificing quality",
