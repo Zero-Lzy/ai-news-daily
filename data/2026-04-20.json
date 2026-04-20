@@ -1,0 +1,188 @@
+{
+  "date": "2026-04-20",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-04-20 11:20:59",
+      "count": 18,
+      "articles": [
+        {
+          "title": "Is AI pressure making developer burnout worse? (anonymous survey inside)",
+          "url": "https://news.ycombinator.com/item?id=47829997",
+          "source": "Hacker News AI",
+          "summary": "I've been tracking burnout signals from engineers daily via Recharge (rechargedaily.co) and recently ran a broader survey. A few findings that surprised me:Average burnout score across respondents: 7.4/10 71% have been feeling burned out for 6+ months 68% say their manager doesn't know AI pressure to do more came up as a top 4 driver — a finding that didn't exist in surveys 2 years agoThe AI finding is what I'd love to hear HN's take on. Are you feeling pressure to do significantly more because ",
+          "published_at": "2026-04-20 03:12",
+          "tags": []
+        },
+        {
+          "title": "Autonomous Testing and AI‑Driven Tooling Are Redefining Developer Productivity",
+          "url": "https://semanticed.online/editorial-why-autonomous-testing-and-ai-driven-tooling-are-redefining",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://semanticed.online/editorial-why-autonomous-testing-and-ai-driven-tooling-are-redefining Comments URL: https://news.ycombinator.com/item?id=47829966 Points: 2 # Comments: 0",
+          "published_at": "2026-04-20 03:06",
+          "tags": []
+        },
+        {
+          "title": "Salesforce Announces AI Initiative and Calls It 'Headless 360'",
+          "url": "https://gizmodo.com/salesforce-announces-huge-ai-initiative-and-calls-it-headless-360-2000748243",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://gizmodo.com/salesforce-announces-huge-ai-initiative-and-calls-it-headless-360-2000748243 Comments URL: https://news.ycombinator.com/item?id=47829523 Points: 4 # Comments: 0",
+          "published_at": "2026-04-20 01:58",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Modular – drop AI features into your app with two function calls",
+          "url": "https://modular.run",
+          "source": "Hacker News AI",
+          "summary": "I kept hitting the same wall at work every time we needed to ship an AI feature. What looked like a week of work turned into picking a model, setting up a vector DB, managing embeddings, wiring up chat history, handling retries — none of it was the actual feature. So I built Modular. You register a function that returns your app's data, then call ai.run() for one-shot features or ai.chat() for stateful conversation. Everything else — context management, embeddings, session history, model routing",
+          "published_at": "2026-04-20 01:15",
+          "tags": []
+        },
+        {
+          "title": "Show HN: I Spy AI – Detect AI-Generated Images, with an MCP Server",
+          "url": "https://www.ispyai.io/",
+          "source": "Hacker News AI",
+          "summary": "I built I Spy AI to detect AI-generated images — upload one on the dashboard or call it from any MCP client (Claude Desktop, Cursor, etc.) via the analyze_image tool.The detection runs on a separate FastAPI backend using pure OpenCV, no ML model, no GPU, just classical computer vision techniques looking for the artifacts diffusion models leave behind. The Next.js app handles auth, billing (Dodo Payments), and proxies images as raw binary to keep latency low. Async polling on the frontend.Inspira",
+          "published_at": "2026-04-20 00:28",
+          "tags": []
+        },
+        {
+          "title": "Swiss AI Initiative (2023)",
+          "url": "https://www.swiss-ai.org",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.swiss-ai.org Comments URL: https://news.ycombinator.com/item?id=47828444 Points: 24 # Comments: 7",
+          "published_at": "2026-04-19 22:58",
+          "tags": []
+        },
+        {
+          "title": "Headless Everything for Personal AI",
+          "url": "https://interconnected.org/home/2026/04/18/headless",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://interconnected.org/home/2026/04/18/headless Comments URL: https://news.ycombinator.com/item?id=47828282 Points: 4 # Comments: 0",
+          "published_at": "2026-04-19 22:38",
+          "tags": []
+        },
+        {
+          "title": "Ex-CEO, ex-CFO of bankrupt AI company charged with fraud",
+          "url": "https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/ Comments URL: https://news.ycombinator.com/item?id=47828225 Points: 139 # Comments: 59",
+          "published_at": "2026-04-19 22:30",
+          "tags": []
+        },
+        {
+          "title": "Why your AI assistant is suddenly selling to you",
+          "url": "https://www.economist.com/business/2026/04/19/why-your-ai-assistant-is-suddenly-selling-to-you",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.economist.com/business/2026/04/19/why-your-ai-assistant-is-suddenly-selling-to-you Comments URL: https://news.ycombinator.com/item?id=47827950 Points: 2 # Comments: 0",
+          "published_at": "2026-04-19 21:52",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Auxx.ai – Customer Support CRM (Mix of Attio and N8n)",
+          "url": "https://auxx.ai",
+          "source": "Hacker News AI",
+          "summary": "Hey HN! Markus here. I have been building a Customer Support CRM for the last 12 months to help my dad's business.He was drowning in support messages (dealing with returns, product questions, sales, etc) and didn’t have a good way to organize and attack them, often forgetting to respond.We tried attio, freshworks, n8n for some automations. I liked n8n a lot but I didn’t want to leave to another app to view messages and customer info. Tried to build bridges via Google Sheets and Airtable and then",
+          "published_at": "2026-04-19 21:49",
+          "tags": []
+        },
+        {
+          "title": "AI Agent Traps",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6372438",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6372438 Comments URL: https://news.ycombinator.com/item?id=47827863 Points: 3 # Comments: 0",
+          "published_at": "2026-04-19 21:39",
+          "tags": []
+        },
+        {
+          "title": "AI's New Training Data: Your Old Work Slacks and Emails",
+          "url": "https://www.forbes.com/sites/annatong/2026/04/16/ais-new-training-data-your-old-work-slacks-and-emails/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.forbes.com/sites/annatong/2026/04/16/ais-new-training-data-your-old-work-slacks-and-emails/ Comments URL: https://news.ycombinator.com/item?id=47827792 Points: 2 # Comments: 0",
+          "published_at": "2026-04-19 21:30",
+          "tags": []
+        },
+        {
+          "title": "OpenAI’s existential questions",
+          "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+          "source": "TechCrunch AI",
+          "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+          "published_at": "2026-04-19 21:24",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "Equity podcast",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "The 12-month window",
+          "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+          "source": "TechCrunch AI",
+          "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
+          "published_at": "2026-04-19 19:30",
+          "tags": [
+            "AI",
+            "Startups",
+            "Venture",
+            "Elad Gil",
+            "No Priors",
+            "Sarah Guo"
+          ]
+        },
+        {
+          "title": "Cloud development platform Vercel was hacked",
+          "url": "https://www.theverge.com/tech/914723/vercel-hacked",
+          "source": "The Verge AI",
+          "summary": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was behind the recent hack of Rockstar Games, posted some data online, including employee names, email addresses, and activity time stamps. Vercel confirmed [&#8230;]",
+          "published_at": "2026-04-19 15:54",
+          "tags": [
+            "AI",
+            "News",
+            "Security",
+            "Tech"
+          ]
+        },
+        {
+          "title": "AI chip startup Cerebras files for IPO",
+          "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+          "source": "TechCrunch AI",
+          "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
+          "published_at": "2026-04-18 19:19",
+          "tags": [
+            "AI",
+            "Startups",
+            "cerebras systems",
+            "andrew feldman"
+          ]
+        },
+        {
+          "title": "The RAM shortage could last years",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+          "source": "The Verge AI",
+          "summary": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages could last until 2030. The world's largest memory makers - Samsung, SK Hynix, and Micron - are all working to add [&#8230;]",
+          "published_at": "2026-04-18 17:08",
+          "tags": [
+            "AI",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
+          "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+          "source": "TechCrunch AI",
+          "summary": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
+          "published_at": "2026-04-18 14:56",
+          "tags": [
+            "AI",
+            "Government & Policy",
+            "Anthropic",
+            "dario amodei",
+            "susie wiles"
+          ]
+        }
+      ]
+    }
+  ]
+}
