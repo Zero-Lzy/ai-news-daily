@@ -183,6 +183,165 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-04-20 21:45:55",
+      "count": 16,
+      "articles": [
+        {
+          "title": "Netflix's AI deal puts the global VFX workforce at risk",
+          "url": "https://restofworld.org/2026/netflix-interpositive-vfx-ai-automation/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://restofworld.org/2026/netflix-interpositive-vfx-ai-automation/ Comments URL: https://news.ycombinator.com/item?id=47834216 Points: 1 # Comments: 0",
+          "published_at": "2026-04-20 13:43",
+          "tags": []
+        },
+        {
+          "title": "Can AI Develop a Nose for News?",
+          "url": "https://www.unite.ai/can-ai-develop-a-nose-for-news/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.unite.ai/can-ai-develop-a-nose-for-news/ Comments URL: https://news.ycombinator.com/item?id=47834180 Points: 1 # Comments: 0",
+          "published_at": "2026-04-20 13:40",
+          "tags": []
+        },
+        {
+          "title": "SiIicon Valley's AI agent hiccups: Wasted tokens and 'chaotic' systems",
+          "url": "https://www.cnbc.com/2026/04/19/siiicon-valley-ai-agent-openclaw-problems.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.cnbc.com/2026/04/19/siiicon-valley-ai-agent-openclaw-problems.html Comments URL: https://news.ycombinator.com/item?id=47834159 Points: 1 # Comments: 0",
+          "published_at": "2026-04-20 13:38",
+          "tags": []
+        },
+        {
+          "title": "Orchestrating AI Code Review at Scale",
+          "url": "https://blog.cloudflare.com/ai-code-review/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blog.cloudflare.com/ai-code-review/ Comments URL: https://news.ycombinator.com/item?id=47834118 Points: 2 # Comments: 0",
+          "published_at": "2026-04-20 13:34",
+          "tags": []
+        },
+        {
+          "title": "The asymmetry at the heart of AI security",
+          "url": "https://fortuna.security/praxis/ai-security",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://fortuna.security/praxis/ai-security Comments URL: https://news.ycombinator.com/item?id=47834094 Points: 2 # Comments: 0",
+          "published_at": "2026-04-20 13:32",
+          "tags": []
+        },
+        {
+          "title": "I gave up on TDD years ago. AI coding agents made me a believer",
+          "url": "https://ipirozhenko.com/I-gave-up-on-TDD-years-ago.-AI-coding-agents-made-me-a-believer_AraZUld3PILClKFlAqNv",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://ipirozhenko.com/I-gave-up-on-TDD-years-ago.-AI-coding-agents-made-me-a-believer_AraZUld3PILClKFlAqNv Comments URL: https://news.ycombinator.com/item?id=47834093 Points: 2 # Comments: 0",
+          "published_at": "2026-04-20 13:32",
+          "tags": []
+        },
+        {
+          "title": "Vibe physics: The AI grad student",
+          "url": "https://www.anthropic.com/research/vibe-physics",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.anthropic.com/research/vibe-physics Comments URL: https://news.ycombinator.com/item?id=47834083 Points: 2 # Comments: 0",
+          "published_at": "2026-04-20 13:31",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Composable AI in the Unix command line",
+          "url": "https://linuxtoaster.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://linuxtoaster.com/ Comments URL: https://news.ycombinator.com/item?id=47834068 Points: 2 # Comments: 0",
+          "published_at": "2026-04-20 13:31",
+          "tags": []
+        },
+        {
+          "title": "AI fuels wireless talent shortage",
+          "url": "https://www.networkworld.com/article/4159230/ai-fuels-wireless-talent-shortage.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.networkworld.com/article/4159230/ai-fuels-wireless-talent-shortage.html Comments URL: https://news.ycombinator.com/item?id=47834038 Points: 1 # Comments: 0",
+          "published_at": "2026-04-20 13:28",
+          "tags": []
+        },
+        {
+          "title": "Hands On, CTF-Style AI Pentesting Labs",
+          "url": "https://www.wraith.sh/academy",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wraith.sh/academy Comments URL: https://news.ycombinator.com/item?id=47833988 Points: 2 # Comments: 0",
+          "published_at": "2026-04-20 13:24",
+          "tags": []
+        },
+        {
+          "title": "AI Consciousness Requires Validated Models of Human Consciousness [pdf]",
+          "url": "https://lossfunk.com/papers/ai-consciousness.pdf",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://lossfunk.com/papers/ai-consciousness.pdf Comments URL: https://news.ycombinator.com/item?id=47833709 Points: 3 # Comments: 0",
+          "published_at": "2026-04-20 13:04",
+          "tags": []
+        },
+        {
+          "title": "The 'Google for AI Agents' Is Coming – and It's Being Built Outside Big Tech",
+          "url": "https://superai.systems/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://superai.systems/ Comments URL: https://news.ycombinator.com/item?id=47833403 Points: 1 # Comments: 1",
+          "published_at": "2026-04-20 12:37",
+          "tags": []
+        },
+        {
+          "title": "Build AI evals from real failures",
+          "url": "https://latitude.so/blog/annotation-queue-bridge",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://latitude.so/blog/annotation-queue-bridge Comments URL: https://news.ycombinator.com/item?id=47833384 Points: 1 # Comments: 1",
+          "published_at": "2026-04-20 12:36",
+          "tags": []
+        },
+        {
+          "title": "The 12-month window",
+          "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+          "source": "TechCrunch AI",
+          "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
+          "published_at": "2026-04-19 19:30",
+          "tags": [
+            "AI",
+            "Startups",
+            "Venture",
+            "No Priors",
+            "Sarah Guo",
+            "Elad Gil"
+          ]
+        },
+        {
+          "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+          "url": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+          "source": "TechCrunch AI",
+          "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+          "published_at": "2026-04-19 16:01",
+          "tags": [
+            "Transportation",
+            "AI",
+            "jeff bezos",
+            "slate",
+            "Tesla",
+            "Uber",
+            "eclipse",
+            "Loop",
+            "Waymo",
+            "Rivian",
+            "techcrunch mobility"
+          ]
+        },
+        {
+          "title": "Cloud development platform Vercel was hacked",
+          "url": "https://www.theverge.com/tech/914723/vercel-hacked",
+          "source": "The Verge AI",
+          "summary": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was behind the recent hack of Rockstar Games, posted some data online, including employee names, email addresses, and activity time stamps. Vercel confirmed [&#8230;]",
+          "published_at": "2026-04-19 15:54",
+          "tags": [
+            "AI",
+            "News",
+            "Security",
+            "Tech"
+          ]
+        }
+      ]
     }
   ]
 }
