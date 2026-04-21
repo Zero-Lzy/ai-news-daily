@@ -195,6 +195,135 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-04-21 21:43:42",
+      "count": 8,
+      "articles": [
+        {
+          "title": "GRAI believes AI can make music more social, not replace artists",
+          "url": "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/",
+          "source": "TechCrunch AI",
+          "summary": "AI music startup GRAI says fans want to remix tracks, not generate songs from scratch.",
+          "published_at": "2026-04-21 13:00",
+          "tags": [
+            "TC",
+            "Media & Entertainment",
+            "AI",
+            "Apps",
+            "Social",
+            "Music",
+            "Remix",
+            "social apps"
+          ]
+        },
+        {
+          "title": "John Ternus’s first big problem is AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri",
+          "source": "The Verge AI",
+          "summary": "Less than a year ago, Apple made headlines for a lack of AI announcements at its annual WWDC event. Ten months later, the company has announced that hardware executive John Ternus will succeed longtime CEO Tim Cook as chief executive - and the official release doesn't mention AI once. Ternus, currently Apple's SVP of hardware [&#8230;]",
+          "published_at": "2026-04-21 09:37",
+          "tags": [
+            "AI",
+            "Analysis",
+            "Apple",
+            "Report",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+          "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
+          "published_at": "2026-04-20 23:10",
+          "tags": [
+            "AI",
+            "Amazon",
+            "Anthropic",
+            "AWS",
+            "data center",
+            "In Brief"
+          ]
+        },
+        {
+          "title": "Google rolls out Gemini in Chrome in 7 new countries",
+          "url": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
+          "source": "TechCrunch AI",
+          "summary": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of these countries except Japan.",
+          "published_at": "2026-04-20 22:00",
+          "tags": [
+            "AI",
+            "Apps",
+            "Chrome",
+            "gemini",
+            "Google",
+            "In Brief"
+          ]
+        },
+        {
+          "title": "It’s not just one thing — it’s another thing",
+          "url": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
+          "source": "TechCrunch AI",
+          "summary": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guarantee.",
+          "published_at": "2026-04-20 19:37",
+          "tags": [
+            "AI",
+            "Social",
+            "Generative AI",
+            "social media"
+          ]
+        },
+        {
+          "title": "Silicon Valley has forgotten what normal people want",
+          "url": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos",
+          "source": "The Verge AI",
+          "summary": "One of the most mortifying things about knowing a lot of techies is listening to them tell me excitedly about some very important discovery that they believe they have made. Recently, I ran into an acquaintance of mine, who began talking my ear off about an amazing discovery he'd made with LLMs. Knowledge, it turns [&#8230;]",
+          "published_at": "2026-04-20 16:30",
+          "tags": [
+            "AI",
+            "Analysis",
+            "Business",
+            "Crypto",
+            "Meta",
+            "Report",
+            "Tech",
+            "TL;DR"
+          ]
+        },
+        {
+          "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
+          "url": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
+          "source": "TechCrunch AI",
+          "summary": "NSA is said to be using Anthropic's restricted Mythos AI model.",
+          "published_at": "2026-04-20 16:06",
+          "tags": [
+            "AI",
+            "Government & Policy",
+            "cybersecurity",
+            "NSA",
+            "dod",
+            "Anthropic",
+            "In Brief",
+            "Mythos"
+          ]
+        },
+        {
+          "title": "Fortnite developers can make AI characters now — just don&#8217;t try to date them",
+          "url": "https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations",
+          "source": "The Verge AI",
+          "summary": "Following last year's AI-powered Darth Vader in Fortnite that swore in a re-creation of James Earl Jones' voice, Epic Games is now letting Fortnite creators experiment with a new \"conversations\" tool to create AI-powered characters that players can talk and interact with. \"Instead of authoring dialogue trees for characters in your islands, conversations transforms an [&#8230;]",
+          "published_at": "2026-04-20 12:58",
+          "tags": [
+            "AI",
+            "Entertainment",
+            "Fortnite",
+            "Gaming",
+            "News"
+          ]
+        }
+      ]
     }
   ]
 }
