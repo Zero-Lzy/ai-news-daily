@@ -1,5 +1,183 @@
 [
   {
+    "title": "Show HN: Pause – an AI that assigns YOU tasks",
+    "url": "https://www.pause.build/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.pause.build/ Comments URL: https://news.ycombinator.com/item?id=47843905 Points: 1 # Comments: 0",
+    "published_at": "2026-04-21 02:44",
+    "tags": [],
+    "fetch_date": "2026-04-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Palmier – bridge your AI agents and your phone",
+    "url": "https://github.com/caihongxu/palmier",
+    "source": "Hacker News AI",
+    "summary": "Hi HN — I built Palmier.Palmier bridges your AI agents and your phone.It does two things:1. It lets you use your phone to directly control AI agents running on your computer, from anywhere.2. It gives your AI agents access to your phone, wherever you are — including things like push notifications, SMS, calendar, contacts, sending email, creating calendar events, location, and more.A few details:* Supports 15+ agent CLIs* Supports Linux, Windows, and macOS* What runs on your computer and your pho",
+    "published_at": "2026-04-21 02:31",
+    "tags": [],
+    "fetch_date": "2026-04-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Trolling with AI is too much fun(2024)",
+    "url": "https://old.reddit.com/r/aiwars/comments/18ovtyp/trolling_with_ai_is_too_much_fun/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://old.reddit.com/r/aiwars/comments/18ovtyp/trolling_with_ai_is_too_much_fun/ Comments URL: https://news.ycombinator.com/item?id=47843178 Points: 1 # Comments: 0",
+    "published_at": "2026-04-21 00:45",
+    "tags": [],
+    "fetch_date": "2026-04-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "LLM from scratch (32l) – Interventions: updated instruction fine-tuning results",
+    "url": "https://www.gilesthomas.com/2026/04/llm-from-scratch-32l-interventions-instruction-fine-tuning-tests",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.gilesthomas.com/2026/04/llm-from-scratch-32l-interventions-instruction-fine-tuning-tests Comments URL: https://news.ycombinator.com/item?id=47842959 Points: 1 # Comments: 0",
+    "published_at": "2026-04-21 00:14",
+    "tags": [],
+    "fetch_date": "2026-04-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Why doesn't memory work across AI tools?",
+    "url": "https://www.ricord.ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.ricord.ai Comments URL: https://news.ycombinator.com/item?id=47842900 Points: 3 # Comments: 1",
+    "published_at": "2026-04-21 00:08",
+    "tags": [],
+    "fetch_date": "2026-04-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+    "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+    "source": "TechCrunch AI",
+    "summary": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
+    "published_at": "2026-04-20 23:10",
+    "tags": [
+      "AI",
+      "Amazon",
+      "Anthropic",
+      "AWS",
+      "data center",
+      "In Brief"
+    ],
+    "fetch_date": "2026-04-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI and the Neurodivergent Unlock",
+    "url": "https://www.jonoherrington.com/blog/the-neurodivergent-unlock",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.jonoherrington.com/blog/the-neurodivergent-unlock Comments URL: https://news.ycombinator.com/item?id=47841788 Points: 3 # Comments: 0",
+    "published_at": "2026-04-20 22:20",
+    "tags": [],
+    "fetch_date": "2026-04-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Algorithm Enables Biological Imaging Breakthroughs",
+    "url": "https://www.caltech.edu/about/news/ai-algorithm-enables-biological-imaging-breakthroughs",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.caltech.edu/about/news/ai-algorithm-enables-biological-imaging-breakthroughs Comments URL: https://news.ycombinator.com/item?id=47841460 Points: 5 # Comments: 0",
+    "published_at": "2026-04-20 21:53",
+    "tags": [],
+    "fetch_date": "2026-04-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "What we learned using AI agents to refactor a monolith",
+    "url": "https://1password.com/blog/what-we-learned-using-ai-agents-to-refactor-a-monolith",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://1password.com/blog/what-we-learned-using-ai-agents-to-refactor-a-monolith Comments URL: https://news.ycombinator.com/item?id=47840879 Points: 2 # Comments: 0",
+    "published_at": "2026-04-20 21:15",
+    "tags": [],
+    "fetch_date": "2026-04-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI quota inflation is no token effort. It's baked in",
+    "url": "https://www.theregister.com/2026/04/20/inflation_ai_quota/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theregister.com/2026/04/20/inflation_ai_quota/ Comments URL: https://news.ycombinator.com/item?id=47840683 Points: 2 # Comments: 0",
+    "published_at": "2026-04-20 21:04",
+    "tags": [],
+    "fetch_date": "2026-04-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Stack Overflow Adds AI Assist Chat",
+    "url": "https://beta.stackoverflow.com/ai-assist",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://beta.stackoverflow.com/ai-assist Comments URL: https://news.ycombinator.com/item?id=47840578 Points: 1 # Comments: 2",
+    "published_at": "2026-04-20 20:58",
+    "tags": [],
+    "fetch_date": "2026-04-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Openheim – open-source LLM agent in Rust (CLI, REPL, or HTTP server)",
+    "url": "https://openheim.io",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://openheim.io Comments URL: https://news.ycombinator.com/item?id=47839974 Points: 2 # Comments: 0",
+    "published_at": "2026-04-20 20:21",
+    "tags": [],
+    "fetch_date": "2026-04-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Agentic AI as a Part of Software Development",
+    "url": "https://nemorize.com/roadmaps/agentic-ai-as-a-part-of-software-development",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://nemorize.com/roadmaps/agentic-ai-as-a-part-of-software-development Comments URL: https://news.ycombinator.com/item?id=47839932 Points: 1 # Comments: 0",
+    "published_at": "2026-04-20 20:17",
+    "tags": [],
+    "fetch_date": "2026-04-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "ASI-Evolve: AI Accelerates AI",
+    "url": "https://arxiv.org/abs/2603.29640",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2603.29640 Comments URL: https://news.ycombinator.com/item?id=47839858 Points: 1 # Comments: 0",
+    "published_at": "2026-04-20 20:10",
+    "tags": [],
+    "fetch_date": "2026-04-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "It’s not just one thing — it’s another thing",
+    "url": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
+    "source": "TechCrunch AI",
+    "summary": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guarantee.",
+    "published_at": "2026-04-20 19:37",
+    "tags": [
+      "AI",
+      "Social",
+      "Generative AI",
+      "social media"
+    ],
+    "fetch_date": "2026-04-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
+    "url": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
+    "source": "TechCrunch AI",
+    "summary": "The startup, co-founded by former U.S. Energy Secretary Rick Perry, has faced headwinds with its AI campus in Texas.",
+    "published_at": "2026-04-20 15:30",
+    "tags": [
+      "AI",
+      "Climate",
+      "fermi",
+      "In Brief",
+      "nuclear"
+    ],
+    "fetch_date": "2026-04-21",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Netflix's AI deal puts the global VFX workforce at risk",
     "url": "https://restofworld.org/2026/netflix-interpositive-vfx-ai-automation/",
     "source": "Hacker News AI",
