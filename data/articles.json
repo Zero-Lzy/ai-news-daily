@@ -1,5 +1,179 @@
 [
   {
+    "title": "Meta to track workers' clicks and keystrokes to train AI",
+    "url": "https://www.bbc.co.uk/news/articles/cvglyklz49jo",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvglyklz49jo Comments URL: https://news.ycombinator.com/item?id=47858081 Points: 1 # Comments: 0",
+    "published_at": "2026-04-22 02:29",
+    "tags": [],
+    "fetch_date": "2026-04-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "How Gen-Z AI Founders Are Merging Work and Life",
+    "url": "https://www.inc.com/ben-sherry/gen-z-ai-founders-are-merging-work-and-life-in-these-3-ways/91239573",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.inc.com/ben-sherry/gen-z-ai-founders-are-merging-work-and-life-in-these-3-ways/91239573 Comments URL: https://news.ycombinator.com/item?id=47858060 Points: 1 # Comments: 0",
+    "published_at": "2026-04-22 02:27",
+    "tags": [],
+    "fetch_date": "2026-04-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ascend – DevSecOps framework with AI-powered merge conflict sync",
+    "url": "https://github.com/venkatapgummadi/ascend",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/venkatapgummadi/ascend Comments URL: https://news.ycombinator.com/item?id=47858020 Points: 1 # Comments: 1",
+    "published_at": "2026-04-22 02:22",
+    "tags": [],
+    "fetch_date": "2026-04-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Layer 8: The coordination protocol AI agents and embedded devices don't have yet",
+    "url": "https://www.ezthrottle.network/blog/operationless-network-for-a-new-world-of-devices",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.ezthrottle.network/blog/operationless-network-for-a-new-world-of-devices Comments URL: https://news.ycombinator.com/item?id=47857889 Points: 1 # Comments: 0",
+    "published_at": "2026-04-22 02:07",
+    "tags": [],
+    "fetch_date": "2026-04-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "I'm Sick of AI Everything",
+    "url": "https://news.ycombinator.com/item?id=47857461",
+    "source": "Hacker News AI",
+    "summary": "A while back, I stopped using Facebook because I just couldn't take it anymore. Just totally sick of it. I'm honestly getting there with AI. At this point, I would prefer to have anything AI related just be blocked at the browser level. Comments URL: https://news.ycombinator.com/item?id=47857461 Points: 99 # Comments: 37",
+    "published_at": "2026-04-22 01:19",
+    "tags": [],
+    "fetch_date": "2026-04-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Google WeatherNext 2 – Our most accurate AI weather forecasting technology",
+    "url": "https://deepmind.google/science/weathernext/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://deepmind.google/science/weathernext/ Comments URL: https://news.ycombinator.com/item?id=47857389 Points: 2 # Comments: 0",
+    "published_at": "2026-04-22 01:10",
+    "tags": [],
+    "fetch_date": "2026-04-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Voxyflow – An AI companion that plans, codes, and ships with you",
+    "url": "https://github.com/jcviau81/voxyflow",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/jcviau81/voxyflow Comments URL: https://news.ycombinator.com/item?id=47857147 Points: 1 # Comments: 0",
+    "published_at": "2026-04-22 00:45",
+    "tags": [],
+    "fetch_date": "2026-04-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Server Demand to Drive Memory Contract Price Increases in 2Q26",
+    "url": "https://www.trendforce.com/presscenter/news/20260331-12995.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.trendforce.com/presscenter/news/20260331-12995.html Comments URL: https://news.ycombinator.com/item?id=47857040 Points: 2 # Comments: 0",
+    "published_at": "2026-04-22 00:37",
+    "tags": [],
+    "fetch_date": "2026-04-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI bot buying what agents can buy in 2026",
+    "url": "https://dialtoneapp.com/2026/april/ai-bot-buying-report",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://dialtoneapp.com/2026/april/ai-bot-buying-report Comments URL: https://news.ycombinator.com/item?id=47856377 Points: 2 # Comments: 0",
+    "published_at": "2026-04-21 23:39",
+    "tags": [],
+    "fetch_date": "2026-04-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Does your boss have AI brain?",
+    "url": "https://www.milkkarten.net/p/boss-obsessed-ai-marketing",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.milkkarten.net/p/boss-obsessed-ai-marketing Comments URL: https://news.ycombinator.com/item?id=47856283 Points: 4 # Comments: 0",
+    "published_at": "2026-04-21 23:29",
+    "tags": [],
+    "fetch_date": "2026-04-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Single-minded pursuit of profit can get firms in trouble. Same thing with AI",
+    "url": "https://news.harvard.edu/gazette/story/2026/04/single-minded-pursuit-of-profit-can-get-firms-in-trouble-same-thing-with-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://news.harvard.edu/gazette/story/2026/04/single-minded-pursuit-of-profit-can-get-firms-in-trouble-same-thing-with-ai/ Comments URL: https://news.ycombinator.com/item?id=47856270 Points: 3 # Comments: 0",
+    "published_at": "2026-04-21 23:28",
+    "tags": [],
+    "fetch_date": "2026-04-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
+    "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+    "source": "TechCrunch AI",
+    "summary": "The move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI — the same companies now competing directly with Cursor for the developer market.",
+    "published_at": "2026-04-21 22:58",
+    "tags": [
+      "AI",
+      "cursor",
+      "Elon Musk",
+      "SpaceX"
+    ],
+    "fetch_date": "2026-04-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
+    "url": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
+    "source": "TechCrunch AI",
+    "summary": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
+    "published_at": "2026-04-21 19:11",
+    "tags": [
+      "AI",
+      "Startups",
+      "AI agents",
+      "AI Lab",
+      "researchers"
+    ],
+    "fetch_date": "2026-04-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "YouTube expands its AI likeness detection technology to celebrities",
+    "url": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
+    "source": "TechCrunch AI",
+    "summary": "YouTube is expanding its AI likeness detection tool to celebrities, giving talent and their reps a way to find and remove deepfakes.",
+    "published_at": "2026-04-21 15:02",
+    "tags": [
+      "AI",
+      "Media & Entertainment",
+      "YouTube",
+      "Hollywood",
+      "Celebs",
+      "likeness",
+      "deepfake"
+    ],
+    "fetch_date": "2026-04-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI backlash is coming for elections",
+    "url": "https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs",
+    "source": "The Verge AI",
+    "summary": "Ask Americans how they feel about AI and most say they have concerns. Communities have mounted resistance to data center projects, stalling them across the US. On social media, anger at AI companies and executives is unrestrained - sometimes to the point of condoning violence. But look at the issues that most campaigns are focused [&#8230;]",
+    "published_at": "2026-04-21 15:00",
+    "tags": [
+      "AI",
+      "Policy",
+      "Politics",
+      "Report"
+    ],
+    "fetch_date": "2026-04-22",
+    "fetch_label": "早报"
+  },
+  {
     "title": "GRAI believes AI can make music more social, not replace artists",
     "url": "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/",
     "source": "TechCrunch AI",
