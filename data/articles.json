@@ -1,5 +1,56 @@
 [
   {
+    "title": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
+    "url": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
+    "source": "TechCrunch AI",
+    "summary": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules.",
+    "published_at": "2026-04-22 13:00",
+    "tags": [
+      "Biotech & Health",
+      "AI",
+      "Exclusive",
+      "10x Science"
+    ],
+    "fetch_date": "2026-04-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The most interesting startups showcased at Google Cloud Next 2026",
+    "url": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
+    "source": "TechCrunch AI",
+    "summary": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference.",
+    "published_at": "2026-04-22 12:00",
+    "tags": [
+      "TC",
+      "Startups",
+      "AI",
+      "Exclusive",
+      "google cloud",
+      "interact",
+      "Notion",
+      "Google Cloud Next",
+      "Lovable"
+    ],
+    "fetch_date": "2026-04-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Google Maps is about to get a big dose of AI",
+    "url": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
+    "source": "TechCrunch AI",
+    "summary": "Generative AI is being infused into Google's popular feature within Maps.",
+    "published_at": "2026-04-22 12:00",
+    "tags": [
+      "AI",
+      "Google",
+      "Google Maps",
+      "Street View",
+      "Generative AI"
+    ],
+    "fetch_date": "2026-04-22",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Meta to track workers' clicks and keystrokes to train AI",
     "url": "https://www.bbc.co.uk/news/articles/cvglyklz49jo",
     "source": "Hacker News AI",
@@ -80,6 +131,21 @@
     "fetch_label": "早报"
   },
   {
+    "title": "Meta will record employees’ keystrokes and use it to train its AI models",
+    "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+    "source": "TechCrunch AI",
+    "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
+    "published_at": "2026-04-21 23:45",
+    "tags": [
+      "AI",
+      "AI training",
+      "In Brief",
+      "Meta"
+    ],
+    "fetch_date": "2026-04-22",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "AI bot buying what agents can buy in 2026",
     "url": "https://dialtoneapp.com/2026/april/ai-bot-buying-report",
     "source": "Hacker News AI",
@@ -108,6 +174,21 @@
     "tags": [],
     "fetch_date": "2026-04-22",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
+    "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+    "source": "TechCrunch AI",
+    "summary": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
+    "published_at": "2026-04-21 23:26",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "cybersecurity",
+      "Mythos"
+    ],
+    "fetch_date": "2026-04-22",
+    "fetch_label": "晚报"
   },
   {
     "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
@@ -139,6 +220,23 @@
     ],
     "fetch_date": "2026-04-22",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
+    "url": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
+    "source": "TechCrunch AI",
+    "summary": "This week, during a podcast appearance, OpenAI CEO Sam Altman called out his competitor's new cybersecurity model, noting that the company was using fear to make its product sound more impressive than it actually is.",
+    "published_at": "2026-04-21 18:51",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "In Brief",
+      "Mythos",
+      "OpenAI",
+      "sam altman"
+    ],
+    "fetch_date": "2026-04-22",
+    "fetch_label": "晚报"
   },
   {
     "title": "YouTube expands its AI likeness detection technology to celebrities",

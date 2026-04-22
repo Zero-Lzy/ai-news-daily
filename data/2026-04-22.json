@@ -227,6 +227,202 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-04-22 21:43:19",
+      "count": 13,
+      "articles": [
+        {
+          "title": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
+          "url": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
+          "source": "TechCrunch AI",
+          "summary": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules.",
+          "published_at": "2026-04-22 13:00",
+          "tags": [
+            "Biotech & Health",
+            "AI",
+            "Exclusive",
+            "10x Science"
+          ]
+        },
+        {
+          "title": "The most interesting startups showcased at Google Cloud Next 2026",
+          "url": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
+          "source": "TechCrunch AI",
+          "summary": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference.",
+          "published_at": "2026-04-22 12:00",
+          "tags": [
+            "TC",
+            "Startups",
+            "AI",
+            "Exclusive",
+            "google cloud",
+            "interact",
+            "Notion",
+            "Google Cloud Next",
+            "Lovable"
+          ]
+        },
+        {
+          "title": "Google Maps is about to get a big dose of AI",
+          "url": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Generative AI is being infused into Google's popular feature within Maps.",
+          "published_at": "2026-04-22 12:00",
+          "tags": [
+            "AI",
+            "Google",
+            "Google Maps",
+            "Street View",
+            "Generative AI"
+          ]
+        },
+        {
+          "title": "Meta will record employees’ keystrokes and use it to train its AI models",
+          "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+          "source": "TechCrunch AI",
+          "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
+          "published_at": "2026-04-21 23:45",
+          "tags": [
+            "AI",
+            "AI training",
+            "In Brief",
+            "Meta"
+          ]
+        },
+        {
+          "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
+          "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
+          "published_at": "2026-04-21 23:26",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "cybersecurity",
+            "Mythos"
+          ]
+        },
+        {
+          "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
+          "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+          "source": "TechCrunch AI",
+          "summary": "The move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI — the same companies now competing directly with Cursor for the developer market.",
+          "published_at": "2026-04-21 22:58",
+          "tags": [
+            "AI",
+            "cursor",
+            "Elon Musk",
+            "SpaceX"
+          ]
+        },
+        {
+          "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
+          "url": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
+          "source": "TechCrunch AI",
+          "summary": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
+          "published_at": "2026-04-21 19:11",
+          "tags": [
+            "AI",
+            "Startups",
+            "AI agents",
+            "AI Lab",
+            "researchers"
+          ]
+        },
+        {
+          "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
+          "url": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
+          "source": "TechCrunch AI",
+          "summary": "This week, during a podcast appearance, OpenAI CEO Sam Altman called out his competitor's new cybersecurity model, noting that the company was using fear to make its product sound more impressive than it actually is.",
+          "published_at": "2026-04-21 18:51",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "In Brief",
+            "Mythos",
+            "OpenAI",
+            "sam altman"
+          ]
+        },
+        {
+          "title": "AI backlash is coming for elections",
+          "url": "https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs",
+          "source": "The Verge AI",
+          "summary": "Ask Americans how they feel about AI and most say they have concerns. Communities have mounted resistance to data center projects, stalling them across the US. On social media, anger at AI companies and executives is unrestrained - sometimes to the point of condoning violence. But look at the issues that most campaigns are focused [&#8230;]",
+          "published_at": "2026-04-21 15:00",
+          "tags": [
+            "AI",
+            "Policy",
+            "Politics",
+            "Report"
+          ]
+        },
+        {
+          "title": "GRAI believes AI can make music more social, not replace artists",
+          "url": "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/",
+          "source": "TechCrunch AI",
+          "summary": "AI music startup GRAI says fans want to remix tracks, not generate songs from scratch.",
+          "published_at": "2026-04-21 13:00",
+          "tags": [
+            "AI",
+            "Apps",
+            "Media & Entertainment",
+            "Social",
+            "Startups",
+            "Inovo",
+            "Khosla Ventures",
+            "Music",
+            "Remix",
+            "social apps"
+          ]
+        },
+        {
+          "title": "John Ternus’ first big problem is AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri",
+          "source": "The Verge AI",
+          "summary": "Less than a year ago, Apple made headlines for a lack of AI announcements at its annual WWDC event. Ten months later, the company has announced that hardware executive John Ternus will succeed longtime CEO Tim Cook as chief executive - and the official release doesn't mention AI once. Ternus, currently Apple's SVP of hardware [&#8230;]",
+          "published_at": "2026-04-21 09:37",
+          "tags": [
+            "AI",
+            "Analysis",
+            "Apple",
+            "Report",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+          "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
+          "published_at": "2026-04-20 23:10",
+          "tags": [
+            "AI",
+            "Amazon",
+            "Anthropic",
+            "AWS",
+            "data center",
+            "In Brief"
+          ]
+        },
+        {
+          "title": "Google rolls out Gemini in Chrome in APAC countries",
+          "url": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
+          "source": "TechCrunch AI",
+          "summary": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of these countries except Japan.",
+          "published_at": "2026-04-20 22:00",
+          "tags": [
+            "AI",
+            "Apps",
+            "Google",
+            "In Brief",
+            "gemini",
+            "Chrome"
+          ]
+        }
+      ]
     }
   ]
 }
