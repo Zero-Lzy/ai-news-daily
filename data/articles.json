@@ -1,5 +1,183 @@
 [
   {
+    "title": "AI that turns any photo into a cinematic video in seconds",
+    "url": "https://imagetovideoai.net",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://imagetovideoai.net Comments URL: https://news.ycombinator.com/item?id=47871796 Points: 1 # Comments: 0",
+    "published_at": "2026-04-23 02:49",
+    "tags": [],
+    "fetch_date": "2026-04-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "North Korea uses AI to industrialize attacks on developers",
+    "url": "https://expel.com/blog/inside-lazarus-how-north-korea-uses-ai-to-industrialize-attacks-on-developers/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://expel.com/blog/inside-lazarus-how-north-korea-uses-ai-to-industrialize-attacks-on-developers/ Comments URL: https://news.ycombinator.com/item?id=47871714 Points: 4 # Comments: 0",
+    "published_at": "2026-04-23 02:34",
+    "tags": [],
+    "fetch_date": "2026-04-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Z.ai phasing out original subscription plans",
+    "url": "https://docs.z.ai/devpack/transition",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://docs.z.ai/devpack/transition Comments URL: https://news.ycombinator.com/item?id=47871339 Points: 1 # Comments: 0",
+    "published_at": "2026-04-23 01:25",
+    "tags": [],
+    "fetch_date": "2026-04-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Hermes Agent – A self-improving AI agent",
+    "url": "https://hermes-agent.nousresearch.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://hermes-agent.nousresearch.com Comments URL: https://news.ycombinator.com/item?id=47871176 Points: 1 # Comments: 0",
+    "published_at": "2026-04-23 01:00",
+    "tags": [],
+    "fetch_date": "2026-04-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Tokens Optimization",
+    "url": "https://tokenpinch.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://tokenpinch.com Comments URL: https://news.ycombinator.com/item?id=47871168 Points: 1 # Comments: 1",
+    "published_at": "2026-04-23 00:59",
+    "tags": [],
+    "fetch_date": "2026-04-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "How to turn off Google AI overview",
+    "url": "https://substack.com/@grefiti/p-192810091",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://substack.com/@grefiti/p-192810091 Comments URL: https://news.ycombinator.com/item?id=47871108 Points: 2 # Comments: 0",
+    "published_at": "2026-04-23 00:49",
+    "tags": [],
+    "fetch_date": "2026-04-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "CubeSandbox: Tencent's sandbox for ai agents",
+    "url": "https://github.com/tencentcloud/CubeSandbox",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/tencentcloud/CubeSandbox Comments URL: https://news.ycombinator.com/item?id=47871063 Points: 1 # Comments: 0",
+    "published_at": "2026-04-23 00:42",
+    "tags": [],
+    "fetch_date": "2026-04-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Clippy Is Back, Your Desktop AI Paperclip Agent over GUI",
+    "url": "https://github.com/AmrDab/clippyai-desktop",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/AmrDab/clippyai-desktop Comments URL: https://news.ycombinator.com/item?id=47871012 Points: 1 # Comments: 0",
+    "published_at": "2026-04-23 00:32",
+    "tags": [],
+    "fetch_date": "2026-04-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask HN: Is modern AI like glasses for the mind?",
+    "url": "https://news.ycombinator.com/item?id=47870699",
+    "source": "Hacker News AI",
+    "summary": "And if so, wouldn't using modern AI make people's effective intelligence less varied between individuals than natural human intelligence? Comments URL: https://news.ycombinator.com/item?id=47870699 Points: 1 # Comments: 2",
+    "published_at": "2026-04-22 23:45",
+    "tags": [],
+    "fetch_date": "2026-04-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: DeckWeaver – Create AI-powered Google Slides presentations in minutes",
+    "url": "https://usedeckweaver.com/login",
+    "source": "Hacker News AI",
+    "summary": "As I frequently run bespoke training sessions and project-based workshops for clients, I create quite a lot of presentations and, naturally, to some extent rely on ChatGPT and similar tools to help me create the content.However, as I use Google Slides (rather than a Markdown-based presentation tool), I faced the significant problem of having to manually import the content into Google Slides presentations via copy and paste, which was very time-consuming.Hence, I built a solution called DeckWeave",
+    "published_at": "2026-04-22 23:43",
+    "tags": [],
+    "fetch_date": "2026-04-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "An AI-gile Manifesto (2026-2030)",
+    "url": "https://www.elitesoftwareengineer.com/blog/the-aigile-manifesto-2026-2030",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.elitesoftwareengineer.com/blog/the-aigile-manifesto-2026-2030 Comments URL: https://news.ycombinator.com/item?id=47870512 Points: 1 # Comments: 1",
+    "published_at": "2026-04-22 23:19",
+    "tags": [],
+    "fetch_date": "2026-04-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Many anti-AI arguments are conservative arguments",
+    "url": "https://www.seangoedecke.com/many-anti-ai-arguments-are-conservative/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.seangoedecke.com/many-anti-ai-arguments-are-conservative/ Comments URL: https://news.ycombinator.com/item?id=47870473 Points: 15 # Comments: 7",
+    "published_at": "2026-04-22 23:13",
+    "tags": [],
+    "fetch_date": "2026-04-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "SAW-INT4: System-Aware 4-Bit KV-Cache Quantization for Real-World LLM Serving",
+    "url": "https://arxiv.org/abs/2604.19157",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2604.19157 Comments URL: https://news.ycombinator.com/item?id=47870305 Points: 1 # Comments: 0",
+    "published_at": "2026-04-22 22:49",
+    "tags": [],
+    "fetch_date": "2026-04-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
+    "url": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+    "source": "TechCrunch AI",
+    "summary": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
+    "published_at": "2026-04-22 19:51",
+    "tags": [
+      "AI",
+      "Startups",
+      "cursor",
+      "Mergers and Acquisitions",
+      "SpaceX"
+    ],
+    "fetch_date": "2026-04-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
+    "url": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
+    "source": "TechCrunch AI",
+    "summary": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization, and DevOps.",
+    "published_at": "2026-04-22 14:22",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "infosys",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-04-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Watch Sony’s elite ping-pong robot beat top-ranked players",
+    "url": "https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras",
+    "source": "The Verge AI",
+    "summary": "Humans have been building ping-pong playing robots for decades, such as Omron's FORPHEUS that challenged amateur competitors at CES 2017. What sets Ace apart from the rest is that the robot, which was developed by Sony's AI division, is the first that can hold its own against top-ranked human players and occasionally even beat them [&#8230;]",
+    "published_at": "2026-04-22 13:43",
+    "tags": [
+      "AI",
+      "News",
+      "Robot",
+      "Science",
+      "Sony",
+      "Tech"
+    ],
+    "fetch_date": "2026-04-23",
+    "fetch_label": "早报"
+  },
+  {
     "title": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
     "url": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
     "source": "TechCrunch AI",
