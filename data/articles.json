@@ -1,5 +1,55 @@
 [
   {
+    "title": "AI galaxy hunters are adding to the global GPU crunch",
+    "url": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
+    "source": "TechCrunch AI",
+    "summary": "Astronomers are turning to GPUs to find needles in the galactic haystack.",
+    "published_at": "2026-04-23 13:00",
+    "tags": [
+      "Space",
+      "AI",
+      "NASA",
+      "GPUS",
+      "Exclusive"
+    ],
+    "fetch_date": "2026-04-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "You’re about to feel the AI money squeeze",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
+    "source": "The Verge AI",
+    "summary": "Earlier this month, millions of OpenClaw users woke up to a sweeping mandate: The viral AI agent tool, which this year took the worldwide tech industry by storm, had been severely restricted by Anthropic. Anthropic, like other leading AI labs, was under immense pressure to lessen the strain on its systems and start turning a [&#8230;]",
+    "published_at": "2026-04-23 09:45",
+    "tags": [
+      "AI",
+      "Business",
+      "Report"
+    ],
+    "fetch_date": "2026-04-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "India’s app market is booming — but global platforms are capturing most of the gains",
+    "url": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
+    "source": "TechCrunch AI",
+    "summary": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers.",
+    "published_at": "2026-04-23 04:38",
+    "tags": [
+      "AI",
+      "Apps",
+      "Media & Entertainment",
+      "ChatGPT",
+      "Facebook",
+      "FreeReels",
+      "google one",
+      "Instagram",
+      "JioHotstar"
+    ],
+    "fetch_date": "2026-04-23",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "AI that turns any photo into a cinematic video in seconds",
     "url": "https://imagetovideoai.net",
     "source": "Hacker News AI",
@@ -80,6 +130,21 @@
     "fetch_label": "早报"
   },
   {
+    "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
+    "url": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
+    "source": "TechCrunch AI",
+    "summary": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year.",
+    "published_at": "2026-04-22 23:56",
+    "tags": [
+      "AI",
+      "Transportation",
+      "Elon Musk",
+      "Tesla"
+    ],
+    "fetch_date": "2026-04-23",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Ask HN: Is modern AI like glasses for the mind?",
     "url": "https://news.ycombinator.com/item?id=47870699",
     "source": "Hacker News AI",
@@ -130,6 +195,25 @@
     "fetch_label": "早报"
   },
   {
+    "title": "Hands on with X’s new AI-powered custom feeds",
+    "url": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
+    "source": "TechCrunch AI",
+    "summary": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots.",
+    "published_at": "2026-04-22 22:25",
+    "tags": [
+      "AI",
+      "Apps",
+      "Social",
+      "ai feeds",
+      "Grok",
+      "twitter/x",
+      "X",
+      "xAI"
+    ],
+    "fetch_date": "2026-04-23",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
     "url": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
     "source": "TechCrunch AI",
@@ -144,6 +228,42 @@
     ],
     "fetch_date": "2026-04-23",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+    "url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+    "source": "TechCrunch AI",
+    "summary": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
+    "published_at": "2026-04-22 18:39",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "AI chips",
+      "Google",
+      "google cloud",
+      "Google Cloud Next",
+      "nvidia"
+    ],
+    "fetch_date": "2026-04-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Overviews are coming to your Gmail at work",
+    "url": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/",
+    "source": "TechCrunch AI",
+    "summary": "The AI Overviews will offer instant summaries pulled from across multiple emails.",
+    "published_at": "2026-04-22 16:46",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "ai overviews",
+      "gemini",
+      "gmail",
+      "Google",
+      "Google Cloud Next"
+    ],
+    "fetch_date": "2026-04-23",
+    "fetch_label": "晚报"
   },
   {
     "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
@@ -190,6 +310,21 @@
       "10x Science"
     ],
     "fetch_date": "2026-04-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Google Meet will take AI notes for in-person meetings too",
+    "url": "https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings",
+    "source": "The Verge AI",
+    "summary": "Google's AI meeting notetaker is no longer limited to Google Meets - Gemini can also generate summaries and transcripts of in-person meetings now, as well as meetings on Zoom and Microsoft Teams, as first reported by 9to5Google. Support for in-person meetings was previously limited to alpha users and only available on Android. Google's support page [&#8230;]",
+    "published_at": "2026-04-22 12:38",
+    "tags": [
+      "AI",
+      "Google",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-04-23",
     "fetch_label": "晚报"
   },
   {

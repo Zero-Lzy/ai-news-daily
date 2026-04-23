@@ -225,6 +225,219 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-04-23 21:46:46",
+      "count": 14,
+      "articles": [
+        {
+          "title": "AI galaxy hunters are adding to the global GPU crunch",
+          "url": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
+          "source": "TechCrunch AI",
+          "summary": "Astronomers are turning to GPUs to find needles in the galactic haystack.",
+          "published_at": "2026-04-23 13:00",
+          "tags": [
+            "Space",
+            "AI",
+            "NASA",
+            "GPUS",
+            "Exclusive"
+          ]
+        },
+        {
+          "title": "You’re about to feel the AI money squeeze",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
+          "source": "The Verge AI",
+          "summary": "Earlier this month, millions of OpenClaw users woke up to a sweeping mandate: The viral AI agent tool, which this year took the worldwide tech industry by storm, had been severely restricted by Anthropic. Anthropic, like other leading AI labs, was under immense pressure to lessen the strain on its systems and start turning a [&#8230;]",
+          "published_at": "2026-04-23 09:45",
+          "tags": [
+            "AI",
+            "Business",
+            "Report"
+          ]
+        },
+        {
+          "title": "India’s app market is booming — but global platforms are capturing most of the gains",
+          "url": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
+          "source": "TechCrunch AI",
+          "summary": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers.",
+          "published_at": "2026-04-23 04:38",
+          "tags": [
+            "AI",
+            "Apps",
+            "Media & Entertainment",
+            "ChatGPT",
+            "Facebook",
+            "FreeReels",
+            "google one",
+            "Instagram",
+            "JioHotstar"
+          ]
+        },
+        {
+          "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
+          "url": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
+          "source": "TechCrunch AI",
+          "summary": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year.",
+          "published_at": "2026-04-22 23:56",
+          "tags": [
+            "AI",
+            "Transportation",
+            "Elon Musk",
+            "Tesla"
+          ]
+        },
+        {
+          "title": "Hands on with X’s new AI-powered custom feeds",
+          "url": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
+          "source": "TechCrunch AI",
+          "summary": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots.",
+          "published_at": "2026-04-22 22:25",
+          "tags": [
+            "AI",
+            "Apps",
+            "Social",
+            "ai feeds",
+            "Grok",
+            "twitter/x",
+            "X",
+            "xAI"
+          ]
+        },
+        {
+          "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
+          "url": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+          "source": "TechCrunch AI",
+          "summary": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
+          "published_at": "2026-04-22 19:51",
+          "tags": [
+            "AI",
+            "Startups",
+            "cursor",
+            "Mergers and Acquisitions",
+            "SpaceX"
+          ]
+        },
+        {
+          "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+          "url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+          "source": "TechCrunch AI",
+          "summary": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
+          "published_at": "2026-04-22 18:39",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "AI chips",
+            "Google",
+            "google cloud",
+            "Google Cloud Next",
+            "nvidia"
+          ]
+        },
+        {
+          "title": "AI Overviews are coming to your Gmail at work",
+          "url": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/",
+          "source": "TechCrunch AI",
+          "summary": "The AI Overviews will offer instant summaries pulled from across multiple emails.",
+          "published_at": "2026-04-22 16:46",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "ai overviews",
+            "gemini",
+            "gmail",
+            "Google",
+            "Google Cloud Next"
+          ]
+        },
+        {
+          "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
+          "url": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
+          "source": "TechCrunch AI",
+          "summary": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization, and DevOps.",
+          "published_at": "2026-04-22 14:22",
+          "tags": [
+            "Enterprise",
+            "AI",
+            "infosys",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Watch Sony’s elite ping-pong robot beat top-ranked players",
+          "url": "https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras",
+          "source": "The Verge AI",
+          "summary": "Humans have been building ping-pong playing robots for decades, such as Omron's FORPHEUS that challenged amateur competitors at CES 2017. What sets Ace apart from the rest is that the robot, which was developed by Sony's AI division, is the first that can hold its own against top-ranked human players and occasionally even beat them [&#8230;]",
+          "published_at": "2026-04-22 13:43",
+          "tags": [
+            "AI",
+            "News",
+            "Robot",
+            "Science",
+            "Sony",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Google Meet will take AI notes for in-person meetings too",
+          "url": "https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings",
+          "source": "The Verge AI",
+          "summary": "Google's AI meeting notetaker is no longer limited to Google Meets - Gemini can also generate summaries and transcripts of in-person meetings now, as well as meetings on Zoom and Microsoft Teams, as first reported by 9to5Google. Support for in-person meetings was previously limited to alpha users and only available on Android. Google's support page [&#8230;]",
+          "published_at": "2026-04-22 12:38",
+          "tags": [
+            "AI",
+            "Google",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Google Maps is about to get a big dose of AI",
+          "url": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
+          "source": "TechCrunch AI",
+          "summary": "The new features, announced at Cloud Next in Las Vegas this week, add generative AI capabilities to Google's mapping platform, giving it enhanced visual and data analytics powers.",
+          "published_at": "2026-04-22 12:00",
+          "tags": [
+            "AI",
+            "Generative AI",
+            "Google",
+            "Google Maps",
+            "Street View"
+          ]
+        },
+        {
+          "title": "The most interesting startups showcased at Google Cloud Next 2026",
+          "url": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
+          "source": "TechCrunch AI",
+          "summary": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference.",
+          "published_at": "2026-04-22 12:00",
+          "tags": [
+            "AI",
+            "Startups",
+            "Exclusive",
+            "Google",
+            "google cloud",
+            "Google Cloud Next",
+            "interact",
+            "Lovable",
+            "Notion"
+          ]
+        },
+        {
+          "title": "Meta will record employees’ keystrokes and use it to train its AI models",
+          "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+          "source": "TechCrunch AI",
+          "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
+          "published_at": "2026-04-21 23:45",
+          "tags": [
+            "AI",
+            "AI training",
+            "In Brief",
+            "Meta"
+          ]
+        }
+      ]
     }
   ]
 }
