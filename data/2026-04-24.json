@@ -1,0 +1,196 @@
+{
+  "date": "2026-04-24",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-04-24 10:56:59",
+      "count": 18,
+      "articles": [
+        {
+          "title": "Medical Student Created Top Influencer 'Emily Hart' Using AI, Making $ Thousands",
+          "url": "https://www.ibtimes.co.uk/ai-generated-influencer-emily-hart-maga-1793120",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.ibtimes.co.uk/ai-generated-influencer-emily-hart-maga-1793120 Comments URL: https://news.ycombinator.com/item?id=47884911 Points: 1 # Comments: 0",
+          "published_at": "2026-04-24 02:51",
+          "tags": []
+        },
+        {
+          "title": "The System of Context for Production AI",
+          "url": "https://www.mezmo.com/aura",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.mezmo.com/aura Comments URL: https://news.ycombinator.com/item?id=47884891 Points: 1 # Comments: 0",
+          "published_at": "2026-04-24 02:48",
+          "tags": []
+        },
+        {
+          "title": "AI agent designs a complete RISC-V CPU from 219-word spec sheet in just 12 hours",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-designs-a-complete-risc-v-cpu-from-a-219-word-spec-in-just-12-hours",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-designs-a-complete-risc-v-cpu-from-a-219-word-spec-in-just-12-hours Comments URL: https://news.ycombinator.com/item?id=47884774 Points: 2 # Comments: 0",
+          "published_at": "2026-04-24 02:27",
+          "tags": []
+        },
+        {
+          "title": "Vibe Check: GPT-5.5 Has It All",
+          "url": "https://every.to/vibe-check/gpt-5-5",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://every.to/vibe-check/gpt-5-5 Comments URL: https://news.ycombinator.com/item?id=47884761 Points: 1 # Comments: 0",
+          "published_at": "2026-04-24 02:24",
+          "tags": []
+        },
+        {
+          "title": "Too much noise with AI startups",
+          "url": "https://news.ycombinator.com/item?id=47884689",
+          "source": "Hacker News AI",
+          "summary": "anyone getting fatigue from ai launch videos and fake ARR bullpost on X? how many of them are real and how many of them are hype Comments URL: https://news.ycombinator.com/item?id=47884689 Points: 1 # Comments: 0",
+          "published_at": "2026-04-24 02:12",
+          "tags": []
+        },
+        {
+          "title": "Supply chain cracks constrain AI boom",
+          "url": "https://www.axios.com/2026/04/23/ai-iran-supply-chain",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.axios.com/2026/04/23/ai-iran-supply-chain Comments URL: https://news.ycombinator.com/item?id=47884490 Points: 2 # Comments: 0",
+          "published_at": "2026-04-24 01:38",
+          "tags": []
+        },
+        {
+          "title": "Selvedge: Capture the why behind AI code changes",
+          "url": "https://github.com/masondelan/selvedge",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/masondelan/selvedge Comments URL: https://news.ycombinator.com/item?id=47884406 Points: 1 # Comments: 1",
+          "published_at": "2026-04-24 01:23",
+          "tags": []
+        },
+        {
+          "title": "Skopx – AI analytics platform with built-in project management",
+          "url": "https://skopx.com",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://skopx.com Comments URL: https://news.ycombinator.com/item?id=47884349 Points: 1 # Comments: 1",
+          "published_at": "2026-04-24 01:14",
+          "tags": []
+        },
+        {
+          "title": "AI bot that doomscrolls so you don't have to",
+          "url": "https://techthreedots.com/noscroll-is-an-ai-bot-that-doomscrolls-so-you-dont-have-to",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://techthreedots.com/noscroll-is-an-ai-bot-that-doomscrolls-so-you-dont-have-to Comments URL: https://news.ycombinator.com/item?id=47884028 Points: 3 # Comments: 1",
+          "published_at": "2026-04-24 00:25",
+          "tags": []
+        },
+        {
+          "title": "AI #165: In Our Image",
+          "url": "https://thezvi.substack.com/p/ai-165-in-our-image",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://thezvi.substack.com/p/ai-165-in-our-image Comments URL: https://news.ycombinator.com/item?id=47884019 Points: 1 # Comments: 0",
+          "published_at": "2026-04-24 00:25",
+          "tags": []
+        },
+        {
+          "title": "AI threats in the wild: The current state of prompt injections on the web",
+          "url": "https://security.googleblog.com/2026/04/ai-threats-in-wild-current-state-of.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://security.googleblog.com/2026/04/ai-threats-in-wild-current-state-of.html Comments URL: https://news.ycombinator.com/item?id=47883385 Points: 4 # Comments: 0",
+          "published_at": "2026-04-23 23:05",
+          "tags": []
+        },
+        {
+          "title": "OpenAI Releases GPT-5.5",
+          "url": "https://techthreedots.com/openai-launches-gpt-5-5-its-smartest-model-yet",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://techthreedots.com/openai-launches-gpt-5-5-its-smartest-model-yet Comments URL: https://news.ycombinator.com/item?id=47883283 Points: 1 # Comments: 1",
+          "published_at": "2026-04-23 22:53",
+          "tags": []
+        },
+        {
+          "title": "Era raises $11M to build a software platform for AI gadgets",
+          "url": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
+          "source": "TechCrunch AI",
+          "summary": "Era thinks that we will see many form factors of AI hardware, including glasses, rings, and pendants.",
+          "published_at": "2026-04-23 16:00",
+          "tags": [
+            "Startups",
+            "Hardware",
+            "AI",
+            "BetaWorks",
+            "hardware",
+            "abstract ventures",
+            "Humane",
+            "AI gadgets"
+          ]
+        },
+        {
+          "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
+          "source": "The Verge AI",
+          "summary": "OpenAI just announced its new GPT-5.5 model, which the company calls its \"smartest and most intuitive to use model yet, and the next step toward a new way of getting work done on a computer.\" OpenAI just released GPT-5.4 last month, but says that the new GPT-5.5 \"excels\" at tasks like writing and debugging code, [&#8230;]",
+          "published_at": "2026-04-23 14:00",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
+          "url": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
+          "source": "TechCrunch AI",
+          "summary": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year.",
+          "published_at": "2026-04-22 23:56",
+          "tags": [
+            "AI",
+            "Transportation",
+            "Elon Musk",
+            "Tesla"
+          ]
+        },
+        {
+          "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
+          "url": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+          "source": "TechCrunch AI",
+          "summary": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
+          "published_at": "2026-04-22 19:51",
+          "tags": [
+            "AI",
+            "Startups",
+            "cursor",
+            "Mergers and Acquisitions",
+            "SpaceX"
+          ]
+        },
+        {
+          "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+          "url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+          "source": "TechCrunch AI",
+          "summary": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
+          "published_at": "2026-04-22 18:39",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "AI chips",
+            "Google",
+            "google cloud",
+            "Google Cloud Next",
+            "nvidia"
+          ]
+        },
+        {
+          "title": "AI Overviews are coming to your Gmail at work",
+          "url": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/",
+          "source": "TechCrunch AI",
+          "summary": "The AI Overviews will offer instant summaries pulled from across multiple emails.",
+          "published_at": "2026-04-22 16:46",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "ai overviews",
+            "gemini",
+            "gmail",
+            "Google",
+            "Google Cloud Next"
+          ]
+        }
+      ]
+    }
+  ]
+}
