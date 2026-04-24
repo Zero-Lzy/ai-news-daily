@@ -191,6 +191,216 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-04-24 21:26:22",
+      "count": 21,
+      "articles": [
+        {
+          "title": "Show HN: Moltnet – a local chat network for AI agents",
+          "url": "https://moltnet.dev/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://moltnet.dev/ Comments URL: https://news.ycombinator.com/item?id=47889911 Points: 1 # Comments: 0",
+          "published_at": "2026-04-24 13:25",
+          "tags": []
+        },
+        {
+          "title": "Meta signs agreement with AWS to power agentic AI on Amazon's Graviton chips",
+          "url": "https://www.aboutamazon.com/news/aws/meta-aws-graviton-ai-partnership",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.aboutamazon.com/news/aws/meta-aws-graviton-ai-partnership Comments URL: https://news.ycombinator.com/item?id=47889901 Points: 1 # Comments: 0",
+          "published_at": "2026-04-24 13:24",
+          "tags": []
+        },
+        {
+          "title": "Notes on running an AI agent with ADHD",
+          "url": "https://thoughts.jock.pl/p/adhd-ai-agent-personal-experience-2026",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://thoughts.jock.pl/p/adhd-ai-agent-personal-experience-2026 Comments URL: https://news.ycombinator.com/item?id=47889868 Points: 2 # Comments: 0",
+          "published_at": "2026-04-24 13:22",
+          "tags": []
+        },
+        {
+          "title": "\"AI is built by Chinese people in the U.S. and Chinese people in China.\"",
+          "url": "https://twitter.com/oswarld_oz/status/2046854384752144518",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://twitter.com/oswarld_oz/status/2046854384752144518 Comments URL: https://news.ycombinator.com/item?id=47889826 Points: 2 # Comments: 0",
+          "published_at": "2026-04-24 13:19",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: Can AI free us from horrible checkbox feedback forms?",
+          "url": "https://news.ycombinator.com/item?id=47889727",
+          "source": "Hacker News AI",
+          "summary": "I don't often fill in feedback forms because they never allow a proper answer. I did one recently for a service I received for free and felt obliged to give back. In one question there were about 15 options. Not one applied.Please can we have \"How did you feel about this service?\", with follow up questions if needed. If it fills in the same form behind the scenes I don't care. Just let me express what I need to say.I am not a great AI fan, but this would genuinely make life better. Comments URL:",
+          "published_at": "2026-04-24 13:11",
+          "tags": []
+        },
+        {
+          "title": "MiniVecDb – A local vector DB that garbage-collects AI agent memory",
+          "url": "https://github.com/Alekkk777/MiniVecDb",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/Alekkk777/MiniVecDb Comments URL: https://news.ycombinator.com/item?id=47889570 Points: 1 # Comments: 0",
+          "published_at": "2026-04-24 12:57",
+          "tags": []
+        },
+        {
+          "title": "Is AI Killing Jobs?",
+          "url": "https://twitter.com/pdmsero/status/2046943519101661561",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://twitter.com/pdmsero/status/2046943519101661561 Comments URL: https://news.ycombinator.com/item?id=47889458 Points: 1 # Comments: 0",
+          "published_at": "2026-04-24 12:45",
+          "tags": []
+        },
+        {
+          "title": "People are paying $200/mo for AI tools but still not getting work done",
+          "url": "https://workfil.com",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://workfil.com Comments URL: https://news.ycombinator.com/item?id=47889435 Points: 3 # Comments: 1",
+          "published_at": "2026-04-24 12:44",
+          "tags": []
+        },
+        {
+          "title": "AI enablement requires managed agent runtimes",
+          "url": "https://12gramsofcarbon.com/p/agentics-configuring-agents-is-still",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://12gramsofcarbon.com/p/agentics-configuring-agents-is-still Comments URL: https://news.ycombinator.com/item?id=47889423 Points: 2 # Comments: 0",
+          "published_at": "2026-04-24 12:43",
+          "tags": []
+        },
+        {
+          "title": "He Had No Medical Degree. His Mom Had Stage 4 Cancer. He Used Free AI Tools",
+          "url": "https://surajnaik2003.substack.com/p/he-had-no-medical-degree-his-mom",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://surajnaik2003.substack.com/p/he-had-no-medical-degree-his-mom Comments URL: https://news.ycombinator.com/item?id=47889374 Points: 1 # Comments: 0",
+          "published_at": "2026-04-24 12:37",
+          "tags": []
+        },
+        {
+          "title": "AI Agents Under EU Law",
+          "url": "https://arxiv.org/abs/2604.04604",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2604.04604 Comments URL: https://news.ycombinator.com/item?id=47889224 Points: 1 # Comments: 0",
+          "published_at": "2026-04-24 12:20",
+          "tags": []
+        },
+        {
+          "title": "Giving AI Hands: How KDP Makes Infrastructure Agent-Ready",
+          "url": "https://www.kubermatic.com/blog/giving-ai-hands-how-kdp-makes-infrastructure-agent-ready/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.kubermatic.com/blog/giving-ai-hands-how-kdp-makes-infrastructure-agent-ready/ Comments URL: https://news.ycombinator.com/item?id=47889022 Points: 1 # Comments: 0",
+          "published_at": "2026-04-24 11:58",
+          "tags": []
+        },
+        {
+          "title": "Show HN: I built an AI alternative to NoBroker/MagicBricks that never calls you",
+          "url": "https://www.abodex.space/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.abodex.space/ Comments URL: https://news.ycombinator.com/item?id=47888759 Points: 2 # Comments: 0",
+          "published_at": "2026-04-24 11:33",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Llm.sql – Run a 640MB LLM on SQLite, with 210MB peak RSS and 7.4 tok/s",
+          "url": "https://news.ycombinator.com/item?id=47888712",
+          "source": "Hacker News AI",
+          "summary": "Hi HN,I built llm.sql, an LLM inference framework that reimagines the LLM execution pipeline as a series of structured SQL queries atop SQLite.The motivation: Edge LLMs are getting better, but hardware remains a bottleneck, especially RAM (size and bandwidth).When available memory is less than the model size and KV cache, the OS incurs page faults and swaps pages using LRU-like strategies, resulting in throughput degradation that's hard to notice and even harder to debug. In fact, the memory acc",
+          "published_at": "2026-04-24 11:28",
+          "tags": []
+        },
+        {
+          "title": "Health-care AI is here. We don't know if it helps patients",
+          "url": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/ Comments URL: https://news.ycombinator.com/item?id=47888624 Points: 4 # Comments: 0",
+          "published_at": "2026-04-24 11:19",
+          "tags": []
+        },
+        {
+          "title": "AI agent designs a complete RISC-V CPU from a 219-word spec sheet in 12 hours",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-designs-a-complete-risc-v-cpu-from-a-219-word-spec-in-just-12-hours",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-designs-a-complete-risc-v-cpu-from-a-219-word-spec-in-just-12-hours Comments URL: https://news.ycombinator.com/item?id=47888250 Points: 1 # Comments: 0",
+          "published_at": "2026-04-24 10:30",
+          "tags": []
+        },
+        {
+          "title": "Prestigious photo contest answers ‘what is a photo?’",
+          "url": "https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo",
+          "source": "The Verge AI",
+          "summary": "We love to muse over how \"real\" photography is defined here at The Verge now that generative AI is so prolific, and the World Press Photo competition might have the answer. The prestigious award celebrates the best of photojournalism, where capturing reality is paramount. The winning entry for 2026 - \"Separated by ICE,\" captured by [&#8230;]",
+          "published_at": "2026-04-24 05:40",
+          "tags": [
+            "AI",
+            "Cameras",
+            "Gadgets",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "THE PEOPLE DO NOT YEARN FOR AUTOMATION",
+          "url": "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation",
+          "source": "The Verge AI",
+          "summary": "Today on Decoder, I want to lay out an idea that&#8217;s been banging around my head for weeks now as we&#8217;ve been reporting on AI and having conversations here on this show. I&#8217;ve been calling it software brain, and it&#8217;s a particular way of seeing the world that fits everything into algorithms, databases and loops [&#8230;]",
+          "published_at": "2026-04-23 10:00",
+          "tags": [
+            "AI",
+            "Decoder",
+            "OpenAI",
+            "Podcasts",
+            "Tech"
+          ]
+        },
+        {
+          "title": "You’re about to feel the AI money squeeze",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
+          "source": "The Verge AI",
+          "summary": "Earlier this month, millions of OpenClaw users woke up to a sweeping mandate: The viral AI agent tool, which this year took the worldwide tech industry by storm, had been severely restricted by Anthropic. Anthropic, like other leading AI labs, was under immense pressure to lessen the strain on its systems and start turning a [&#8230;]",
+          "published_at": "2026-04-23 09:45",
+          "tags": [
+            "AI",
+            "Business",
+            "Report"
+          ]
+        },
+        {
+          "title": "India’s app market is booming — but global platforms are capturing most of the gains",
+          "url": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
+          "source": "TechCrunch AI",
+          "summary": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers.",
+          "published_at": "2026-04-23 04:38",
+          "tags": [
+            "Apps",
+            "AI",
+            "Media & Entertainment",
+            "FreeReels",
+            "JioHotstar",
+            "ChatGPT",
+            "google one",
+            "Instagram",
+            "Facebook"
+          ]
+        },
+        {
+          "title": "Hands on with X’s new AI-powered custom feeds",
+          "url": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
+          "source": "TechCrunch AI",
+          "summary": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots.",
+          "published_at": "2026-04-22 22:25",
+          "tags": [
+            "AI",
+            "Apps",
+            "Social",
+            "xAI",
+            "X",
+            "Grok",
+            "twitter/x",
+            "ai feeds"
+          ]
+        }
+      ]
     }
   ]
 }
