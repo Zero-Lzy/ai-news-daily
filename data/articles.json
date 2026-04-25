@@ -1,5 +1,173 @@
 [
   {
+    "title": "AI written, edited or 'polished' books are being sold",
+    "url": "https://theconversation.com/thousands-of-ai-written-edited-or-polished-books-are-being-sold-an-eerie-echo-of-orwells-novel-writing-machines-276008",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://theconversation.com/thousands-of-ai-written-edited-or-polished-books-are-being-sold-an-eerie-echo-of-orwells-novel-writing-machines-276008 Comments URL: https://news.ycombinator.com/item?id=47898140 Points: 1 # Comments: 0",
+    "published_at": "2026-04-25 02:41",
+    "tags": [],
+    "fetch_date": "2026-04-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "GCC Establishes Working Group to Decide on AI/LLM Policy",
+    "url": "https://www.phoronix.com/news/GCC-Working-Group-AI-Policy",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.phoronix.com/news/GCC-Working-Group-AI-Policy Comments URL: https://news.ycombinator.com/item?id=47898043 Points: 1 # Comments: 0",
+    "published_at": "2026-04-25 02:18",
+    "tags": [],
+    "fetch_date": "2026-04-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "DevResolve – AI chat widget that answers technical questions from your docs",
+    "url": "https://devresolve.ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://devresolve.ai Comments URL: https://news.ycombinator.com/item?id=47897797 Points: 1 # Comments: 0",
+    "published_at": "2026-04-25 01:26",
+    "tags": [],
+    "fetch_date": "2026-04-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Llama 4: A Deep Dive into Liquid Transformers 2.0 and Sovereign AI",
+    "url": "https://en.landingfymax.com.br/artificial-intelligence/llama-4-meta-open-source-sovereignty-2026",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://en.landingfymax.com.br/artificial-intelligence/llama-4-meta-open-source-sovereignty-2026 Comments URL: https://news.ycombinator.com/item?id=47897769 Points: 1 # Comments: 0",
+    "published_at": "2026-04-25 01:20",
+    "tags": [],
+    "fetch_date": "2026-04-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Fast-AI-detector: a fast local CLI for detecting AI-generated text",
+    "url": "https://github.com/Ejhfast/fast-ai-detector",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/Ejhfast/fast-ai-detector Comments URL: https://news.ycombinator.com/item?id=47897581 Points: 1 # Comments: 0",
+    "published_at": "2026-04-25 00:50",
+    "tags": [],
+    "fetch_date": "2026-04-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Alex Bores' AI Policy Framework for Congress [pdf]",
+    "url": "https://www.alexbores.nyc/files/Bores_AI_Framework.pdf",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.alexbores.nyc/files/Bores_AI_Framework.pdf Comments URL: https://news.ycombinator.com/item?id=47897105 Points: 1 # Comments: 0",
+    "published_at": "2026-04-24 23:35",
+    "tags": [],
+    "fetch_date": "2026-04-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The xAI exodus: Meet the people who have left Musk's AI company",
+    "url": "https://www.fastcompany.com/91531084/inside-the-xai-exodus",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.fastcompany.com/91531084/inside-the-xai-exodus Comments URL: https://news.ycombinator.com/item?id=47896794 Points: 4 # Comments: 0",
+    "published_at": "2026-04-24 22:53",
+    "tags": [],
+    "fetch_date": "2026-04-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "GPT 5.5 sets new record in proofreading benchmark",
+    "url": "https://revise.io/errata-bench",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://revise.io/errata-bench Comments URL: https://news.ycombinator.com/item?id=47896710 Points: 3 # Comments: 1",
+    "published_at": "2026-04-24 22:41",
+    "tags": [],
+    "fetch_date": "2026-04-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Editable 3D models with code or AI in Roblox",
+    "url": "https://twitter.com/roblox/status/2047406073263382834",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/roblox/status/2047406073263382834 Comments URL: https://news.ycombinator.com/item?id=47896223 Points: 4 # Comments: 0",
+    "published_at": "2026-04-24 21:49",
+    "tags": [],
+    "fetch_date": "2026-04-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "What AI Needs That $700B Can't Buy",
+    "url": "https://cyrusradfar.com/thoughts/what-700-billion-cant-buy",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://cyrusradfar.com/thoughts/what-700-billion-cant-buy Comments URL: https://news.ycombinator.com/item?id=47896028 Points: 4 # Comments: 1",
+    "published_at": "2026-04-24 21:28",
+    "tags": [],
+    "fetch_date": "2026-04-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Meta’s loss is Thinking Machines’ gain",
+    "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+    "source": "TechCrunch AI",
+    "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
+    "published_at": "2026-04-24 20:52",
+    "tags": [
+      "AI",
+      "TC"
+    ],
+    "fetch_date": "2026-04-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+    "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+    "source": "TechCrunch AI",
+    "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
+    "published_at": "2026-04-24 19:49",
+    "tags": [
+      "AI",
+      "TC",
+      "Venture",
+      "comfyui",
+      "Craft Ventures",
+      "Creators",
+      "Video"
+    ],
+    "fetch_date": "2026-04-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Google to invest up to $40B in Anthropic in cash and compute",
+    "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+    "source": "TechCrunch AI",
+    "summary": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
+    "published_at": "2026-04-24 18:00",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Anthropic",
+      "anthropic investment",
+      "chips",
+      "compute",
+      "Google",
+      "google cloud"
+    ],
+    "fetch_date": "2026-04-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event",
+    "url": "https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/",
+    "source": "TechCrunch AI",
+    "summary": "Surprise! StrictlyVC San Francisco, which will kick off this year’s events lineup for TechCrunch on April 30 at the Sentro Filipino Cultural Center, is getting a new addition to its increasingly stacked lineup of speakers. Uber CTO Praveen Neppalli Naga will join the rest of the lineup to discuss operating at scale in the age of AI.",
+    "published_at": "2026-04-24 14:00",
+    "tags": [
+      "Startups",
+      "Venture",
+      "AI",
+      "Fundraising",
+      "Uber",
+      "StrictlyVC",
+      "StrictlyVC San Francisco"
+    ],
+    "fetch_date": "2026-04-25",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Show HN: Moltnet – a local chat network for AI agents",
     "url": "https://moltnet.dev/",
     "source": "Hacker News AI",
@@ -110,6 +278,28 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
+    "url": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
+    "source": "TechCrunch AI",
+    "summary": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
+    "published_at": "2026-04-24 12:00",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Hardware",
+      "TC",
+      "Amazon",
+      "AWS",
+      "CPU",
+      "GPU",
+      "Graviton",
+      "Meta",
+      "trainium"
+    ],
+    "fetch_date": "2026-04-25",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Giving AI Hands: How KDP Makes Infrastructure Agent-Ready",
     "url": "https://www.kubermatic.com/blog/giving-ai-hands-how-kdp-makes-infrastructure-agent-ready/",
     "source": "Hacker News AI",
@@ -148,6 +338,44 @@
     "tags": [],
     "fetch_date": "2026-04-24",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "AirPods, Touch Bars, and the rest of Tim Cook&#8217;s legacy",
+    "url": "https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition",
+    "source": "The Verge AI",
+    "summary": "We knew at some point Tim Cook would step down from his position as Apple's CEO. Over the last year, it has become increasingly obvious that John Ternus was his likely successor. The news this week was still a surprise, though - and this year's succession could lead to some important changes at the most [&#8230;]",
+    "published_at": "2026-04-24 10:43",
+    "tags": [
+      "AI",
+      "Apple",
+      "Gaming",
+      "Podcasts",
+      "Tech",
+      "Vergecast",
+      "Xbox"
+    ],
+    "fetch_date": "2026-04-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Musk vs. Altman is here, and it&#8217;s going to get messy",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
+    "source": "The Verge AI",
+    "summary": "Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman as the last power-hungry man standing. Now, Musk is back with a lawsuit, and a trial is scheduled to start in Oakland, California, on April 27th. Theoretically, it's a legal case about whether OpenAI defrauded Musk. [&#8230;]",
+    "published_at": "2026-04-24 08:00",
+    "tags": [
+      "AI",
+      "Analysis",
+      "Elon Musk",
+      "OpenAI",
+      "Policy",
+      "Politics",
+      "Report",
+      "Tech",
+      "xAI"
+    ],
+    "fetch_date": "2026-04-25",
+    "fetch_label": "早报"
   },
   {
     "title": "Prestigious photo contest answers ‘what is a photo?’",
@@ -283,6 +511,23 @@
     "published_at": "2026-04-23 22:53",
     "tags": [],
     "fetch_date": "2026-04-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
+    "url": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+    "source": "TechCrunch AI",
+    "summary": "OpenAI says its latest model offers increased capabilities across a broad variety of categories.",
+    "published_at": "2026-04-23 18:29",
+    "tags": [
+      "AI",
+      "sam altman",
+      "OpenAI",
+      "greg brockman",
+      "ChatGPT",
+      "GPT-5.5"
+    ],
+    "fetch_date": "2026-04-25",
     "fetch_label": "早报"
   },
   {
