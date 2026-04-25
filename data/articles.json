@@ -1,5 +1,145 @@
 [
   {
+    "title": "The Tsundoku Trap: Why AI Makes You Start Everything and Finish Nothing",
+    "url": "https://blog.danielvaughan.com/the-tsundoku-trap-why-ai-makes-you-start-everything-and-finish-nothing-7087184a4342",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.danielvaughan.com/the-tsundoku-trap-why-ai-makes-you-start-everything-and-finish-nothing-7087184a4342 Comments URL: https://news.ycombinator.com/item?id=47901024 Points: 2 # Comments: 0",
+    "published_at": "2026-04-25 12:42",
+    "tags": [],
+    "fetch_date": "2026-04-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Memweave CLI – search your AI agent's memory from the shell",
+    "url": "https://github.com/sachinsharma9780/memweave",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/sachinsharma9780/memweave Comments URL: https://news.ycombinator.com/item?id=47900995 Points: 2 # Comments: 0",
+    "published_at": "2026-04-25 12:39",
+    "tags": [],
+    "fetch_date": "2026-04-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Enlist AI: Sub-second interview coaching with persistence",
+    "url": "https://news.ycombinator.com/item?id=47900781",
+    "source": "Hacker News AI",
+    "summary": "Following some initial feedback, we’ve updated Enlist AI to ensure your preparation never resets. Based on user behavior, we noticed plans were being lost on refresh, so we've implemented local persistence to keep your progress synced.What it does: Enlist AI is a full-pipeline preparation tool that turns any job description into a custom coaching experience. You paste a JD and get a personalized day-by-day study schedule.The \"Mock Interview\" Flow: Real-time Voice Analysis: You speak your answers",
+    "published_at": "2026-04-25 12:05",
+    "tags": [],
+    "fetch_date": "2026-04-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "From $200 to $30: Five Layers of LLM Cost Optimization",
+    "url": "http://blog.dwornikowski.com/posts/cutting-llm-costs-token-optimization/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: http://blog.dwornikowski.com/posts/cutting-llm-costs-token-optimization/ Comments URL: https://news.ycombinator.com/item?id=47900746 Points: 7 # Comments: 0",
+    "published_at": "2026-04-25 11:56",
+    "tags": [],
+    "fetch_date": "2026-04-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Crafting an AI-Driven Workflow System [video]",
+    "url": "https://www.youtube.com/watch?v=SrRweChigB0",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=SrRweChigB0 Comments URL: https://news.ycombinator.com/item?id=47900731 Points: 1 # Comments: 0",
+    "published_at": "2026-04-25 11:54",
+    "tags": [],
+    "fetch_date": "2026-04-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "SAP just made the opposite bet from every other enterprise platform on AI agents",
+    "url": "https://www.sap.com/documents/2026/04/dce9aee4-497f-0010-bca6-c68f7e60039b.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.sap.com/documents/2026/04/dce9aee4-497f-0010-bca6-c68f7e60039b.html Comments URL: https://news.ycombinator.com/item?id=47900564 Points: 1 # Comments: 0",
+    "published_at": "2026-04-25 11:24",
+    "tags": [],
+    "fetch_date": "2026-04-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "GPT 5.5 flags accounts for \"potential high-risk cybersecurity\"",
+    "url": "https://twitter.com/banteg/status/2047577218142871949",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/banteg/status/2047577218142871949 Comments URL: https://news.ycombinator.com/item?id=47900544 Points: 4 # Comments: 0",
+    "published_at": "2026-04-25 11:21",
+    "tags": [],
+    "fetch_date": "2026-04-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Lambda Calculus Benchmark for AI",
+    "url": "https://victortaelin.github.io/lambench/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://victortaelin.github.io/lambench/ Comments URL: https://news.ycombinator.com/item?id=47900506 Points: 10 # Comments: 1",
+    "published_at": "2026-04-25 11:16",
+    "tags": [],
+    "fetch_date": "2026-04-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Amália- Open Source Large Language Model (LLM) for European Portuguese",
+    "url": "https://portugal.gov.pt/gc24/comunicacao/noticias/modelo-de-linguagem-em-grande-escala-para-a-lingua-portuguesa",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://portugal.gov.pt/gc24/comunicacao/noticias/modelo-de-linguagem-em-grande-escala-para-a-lingua-portuguesa Comments URL: https://news.ycombinator.com/item?id=47900407 Points: 6 # Comments: 1",
+    "published_at": "2026-04-25 10:49",
+    "tags": [],
+    "fetch_date": "2026-04-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Happy Horse AI",
+    "url": "https://www.happyhorseai.store",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.happyhorseai.store Comments URL: https://news.ycombinator.com/item?id=47900383 Points: 4 # Comments: 0",
+    "published_at": "2026-04-25 10:42",
+    "tags": [],
+    "fetch_date": "2026-04-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "South Korean workers learn AI after work, outpacing their companies",
+    "url": "https://english.kyodonews.net/articles/-/74668",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://english.kyodonews.net/articles/-/74668 Comments URL: https://news.ycombinator.com/item?id=47900380 Points: 1 # Comments: 0",
+    "published_at": "2026-04-25 10:41",
+    "tags": [],
+    "fetch_date": "2026-04-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "You probably wouldn't notice if an AI chatbot slipped ads into its responses",
+    "url": "https://theconversation.com/you-probably-wouldnt-notice-if-an-ai-chatbot-slipped-ads-into-its-responses-276010",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://theconversation.com/you-probably-wouldnt-notice-if-an-ai-chatbot-slipped-ads-into-its-responses-276010 Comments URL: https://news.ycombinator.com/item?id=47900270 Points: 10 # Comments: 0",
+    "published_at": "2026-04-25 10:25",
+    "tags": [],
+    "fetch_date": "2026-04-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "A fun 5 minute take on AI in business",
+    "url": "https://www.youtube.com/watch?v=nDL3Ch7Nz8c",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=nDL3Ch7Nz8c Comments URL: https://news.ycombinator.com/item?id=47900156 Points: 2 # Comments: 0",
+    "published_at": "2026-04-25 10:01",
+    "tags": [],
+    "fetch_date": "2026-04-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Agentic AI for Hormuz Shock Modelling",
+    "url": "https://avkcode.github.io/blog/hormuz-shock.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://avkcode.github.io/blog/hormuz-shock.html Comments URL: https://news.ycombinator.com/item?id=47900115 Points: 1 # Comments: 0",
+    "published_at": "2026-04-25 09:51",
+    "tags": [],
+    "fetch_date": "2026-04-25",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "AI written, edited or 'polished' books are being sold",
     "url": "https://theconversation.com/thousands-of-ai-written-edited-or-polished-books-are-being-sold-an-eerie-echo-of-orwells-novel-writing-machines-276008",
     "source": "Hacker News AI",
@@ -215,6 +355,20 @@
     "published_at": "2026-04-24 13:11",
     "tags": [],
     "fetch_date": "2026-04-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "How Project Maven taught the military to love AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
+    "source": "The Verge AI",
+    "summary": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was made possible by AI systems that speed up the targeting process. Chief among them is the Maven Smart [&#8230;]",
+    "published_at": "2026-04-24 13:00",
+    "tags": [
+      "AI",
+      "Books",
+      "Entertainment"
+    ],
+    "fetch_date": "2026-04-25",
     "fetch_label": "晚报"
   },
   {

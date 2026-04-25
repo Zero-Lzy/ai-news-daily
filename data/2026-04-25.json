@@ -224,6 +224,214 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-04-25 21:07:36",
+      "count": 20,
+      "articles": [
+        {
+          "title": "The Tsundoku Trap: Why AI Makes You Start Everything and Finish Nothing",
+          "url": "https://blog.danielvaughan.com/the-tsundoku-trap-why-ai-makes-you-start-everything-and-finish-nothing-7087184a4342",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blog.danielvaughan.com/the-tsundoku-trap-why-ai-makes-you-start-everything-and-finish-nothing-7087184a4342 Comments URL: https://news.ycombinator.com/item?id=47901024 Points: 2 # Comments: 0",
+          "published_at": "2026-04-25 12:42",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Memweave CLI – search your AI agent's memory from the shell",
+          "url": "https://github.com/sachinsharma9780/memweave",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/sachinsharma9780/memweave Comments URL: https://news.ycombinator.com/item?id=47900995 Points: 2 # Comments: 0",
+          "published_at": "2026-04-25 12:39",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Enlist AI: Sub-second interview coaching with persistence",
+          "url": "https://news.ycombinator.com/item?id=47900781",
+          "source": "Hacker News AI",
+          "summary": "Following some initial feedback, we’ve updated Enlist AI to ensure your preparation never resets. Based on user behavior, we noticed plans were being lost on refresh, so we've implemented local persistence to keep your progress synced.What it does: Enlist AI is a full-pipeline preparation tool that turns any job description into a custom coaching experience. You paste a JD and get a personalized day-by-day study schedule.The \"Mock Interview\" Flow: Real-time Voice Analysis: You speak your answers",
+          "published_at": "2026-04-25 12:05",
+          "tags": []
+        },
+        {
+          "title": "From $200 to $30: Five Layers of LLM Cost Optimization",
+          "url": "http://blog.dwornikowski.com/posts/cutting-llm-costs-token-optimization/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: http://blog.dwornikowski.com/posts/cutting-llm-costs-token-optimization/ Comments URL: https://news.ycombinator.com/item?id=47900746 Points: 7 # Comments: 0",
+          "published_at": "2026-04-25 11:56",
+          "tags": []
+        },
+        {
+          "title": "Crafting an AI-Driven Workflow System [video]",
+          "url": "https://www.youtube.com/watch?v=SrRweChigB0",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=SrRweChigB0 Comments URL: https://news.ycombinator.com/item?id=47900731 Points: 1 # Comments: 0",
+          "published_at": "2026-04-25 11:54",
+          "tags": []
+        },
+        {
+          "title": "SAP just made the opposite bet from every other enterprise platform on AI agents",
+          "url": "https://www.sap.com/documents/2026/04/dce9aee4-497f-0010-bca6-c68f7e60039b.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.sap.com/documents/2026/04/dce9aee4-497f-0010-bca6-c68f7e60039b.html Comments URL: https://news.ycombinator.com/item?id=47900564 Points: 1 # Comments: 0",
+          "published_at": "2026-04-25 11:24",
+          "tags": []
+        },
+        {
+          "title": "GPT 5.5 flags accounts for \"potential high-risk cybersecurity\"",
+          "url": "https://twitter.com/banteg/status/2047577218142871949",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://twitter.com/banteg/status/2047577218142871949 Comments URL: https://news.ycombinator.com/item?id=47900544 Points: 4 # Comments: 0",
+          "published_at": "2026-04-25 11:21",
+          "tags": []
+        },
+        {
+          "title": "Lambda Calculus Benchmark for AI",
+          "url": "https://victortaelin.github.io/lambench/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://victortaelin.github.io/lambench/ Comments URL: https://news.ycombinator.com/item?id=47900506 Points: 10 # Comments: 1",
+          "published_at": "2026-04-25 11:16",
+          "tags": []
+        },
+        {
+          "title": "Amália- Open Source Large Language Model (LLM) for European Portuguese",
+          "url": "https://portugal.gov.pt/gc24/comunicacao/noticias/modelo-de-linguagem-em-grande-escala-para-a-lingua-portuguesa",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://portugal.gov.pt/gc24/comunicacao/noticias/modelo-de-linguagem-em-grande-escala-para-a-lingua-portuguesa Comments URL: https://news.ycombinator.com/item?id=47900407 Points: 6 # Comments: 1",
+          "published_at": "2026-04-25 10:49",
+          "tags": []
+        },
+        {
+          "title": "Happy Horse AI",
+          "url": "https://www.happyhorseai.store",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.happyhorseai.store Comments URL: https://news.ycombinator.com/item?id=47900383 Points: 4 # Comments: 0",
+          "published_at": "2026-04-25 10:42",
+          "tags": []
+        },
+        {
+          "title": "South Korean workers learn AI after work, outpacing their companies",
+          "url": "https://english.kyodonews.net/articles/-/74668",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://english.kyodonews.net/articles/-/74668 Comments URL: https://news.ycombinator.com/item?id=47900380 Points: 1 # Comments: 0",
+          "published_at": "2026-04-25 10:41",
+          "tags": []
+        },
+        {
+          "title": "You probably wouldn't notice if an AI chatbot slipped ads into its responses",
+          "url": "https://theconversation.com/you-probably-wouldnt-notice-if-an-ai-chatbot-slipped-ads-into-its-responses-276010",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://theconversation.com/you-probably-wouldnt-notice-if-an-ai-chatbot-slipped-ads-into-its-responses-276010 Comments URL: https://news.ycombinator.com/item?id=47900270 Points: 10 # Comments: 0",
+          "published_at": "2026-04-25 10:25",
+          "tags": []
+        },
+        {
+          "title": "A fun 5 minute take on AI in business",
+          "url": "https://www.youtube.com/watch?v=nDL3Ch7Nz8c",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=nDL3Ch7Nz8c Comments URL: https://news.ycombinator.com/item?id=47900156 Points: 2 # Comments: 0",
+          "published_at": "2026-04-25 10:01",
+          "tags": []
+        },
+        {
+          "title": "Agentic AI for Hormuz Shock Modelling",
+          "url": "https://avkcode.github.io/blog/hormuz-shock.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://avkcode.github.io/blog/hormuz-shock.html Comments URL: https://news.ycombinator.com/item?id=47900115 Points: 1 # Comments: 0",
+          "published_at": "2026-04-25 09:51",
+          "tags": []
+        },
+        {
+          "title": "Meta’s loss is Thinking Machines’ gain",
+          "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+          "source": "TechCrunch AI",
+          "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
+          "published_at": "2026-04-24 20:52",
+          "tags": [
+            "AI",
+            "TC"
+          ]
+        },
+        {
+          "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+          "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+          "source": "TechCrunch AI",
+          "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
+          "published_at": "2026-04-24 19:49",
+          "tags": [
+            "AI",
+            "TC",
+            "Venture",
+            "comfyui",
+            "Craft Ventures",
+            "Creators",
+            "Video"
+          ]
+        },
+        {
+          "title": "Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event",
+          "url": "https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/",
+          "source": "TechCrunch AI",
+          "summary": "Surprise! StrictlyVC San Francisco, which will kick off this year’s events lineup for TechCrunch on April 30 at the Sentro Filipino Cultural Center, is getting a new addition to its increasingly stacked lineup of speakers. Uber CTO Praveen Neppalli Naga will join the rest of the lineup to discuss operating at scale in the age of AI.",
+          "published_at": "2026-04-24 14:00",
+          "tags": [
+            "Startups",
+            "Venture",
+            "AI",
+            "Fundraising",
+            "Uber",
+            "StrictlyVC",
+            "StrictlyVC San Francisco"
+          ]
+        },
+        {
+          "title": "How Project Maven taught the military to love AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
+          "source": "The Verge AI",
+          "summary": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was made possible by AI systems that speed up the targeting process. Chief among them is the Maven Smart [&#8230;]",
+          "published_at": "2026-04-24 13:00",
+          "tags": [
+            "AI",
+            "Books",
+            "Entertainment"
+          ]
+        },
+        {
+          "title": "AirPods, Touch Bars, and the rest of Tim Cook&#8217;s legacy",
+          "url": "https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition",
+          "source": "The Verge AI",
+          "summary": "We knew at some point Tim Cook would step down from his position as Apple's CEO. Over the last year, it has become increasingly obvious that John Ternus was his likely successor. The news this week was still a surprise, though - and this year's succession could lead to some important changes at the most [&#8230;]",
+          "published_at": "2026-04-24 10:43",
+          "tags": [
+            "AI",
+            "Apple",
+            "Gaming",
+            "Podcasts",
+            "Tech",
+            "Vergecast",
+            "Xbox"
+          ]
+        },
+        {
+          "title": "Musk vs. Altman is here, and it&#8217;s going to get messy",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
+          "source": "The Verge AI",
+          "summary": "Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman as the last power-hungry man standing. Now, Musk is back with a lawsuit, and a trial is scheduled to start in Oakland, California, on April 27th. Theoretically, it's a legal case about whether OpenAI defrauded Musk. [&#8230;]",
+          "published_at": "2026-04-24 08:00",
+          "tags": [
+            "AI",
+            "Analysis",
+            "Elon Musk",
+            "OpenAI",
+            "Policy",
+            "Politics",
+            "Report",
+            "Tech",
+            "xAI"
+          ]
+        }
+      ]
     }
   ]
 }
