@@ -1,0 +1,215 @@
+{
+  "date": "2026-04-26",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-04-26 11:23:14",
+      "count": 21,
+      "articles": [
+        {
+          "title": "How Meta used AI to map tribal knowledge in large-scale data pipelines",
+          "url": "https://engineering.fb.com/2026/04/06/developer-tools/how-meta-used-ai-to-map-tribal-knowledge-in-large-scale-data-pipelines/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://engineering.fb.com/2026/04/06/developer-tools/how-meta-used-ai-to-map-tribal-knowledge-in-large-scale-data-pipelines/ Comments URL: https://news.ycombinator.com/item?id=47906903 Points: 1 # Comments: 0",
+          "published_at": "2026-04-26 03:06",
+          "tags": []
+        },
+        {
+          "title": "The AI Compute Crunch Is Here (and It's Affecting the Economy)",
+          "url": "https://www.404media.co/the-ai-compute-crunch-is-here-and-its-affecting-the-entire-economy/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.404media.co/the-ai-compute-crunch-is-here-and-its-affecting-the-entire-economy/ Comments URL: https://news.ycombinator.com/item?id=47906841 Points: 2 # Comments: 0",
+          "published_at": "2026-04-26 02:56",
+          "tags": []
+        },
+        {
+          "title": "Claude Cowork Now Runs Any LLM. Test It Free",
+          "url": "https://www.productcompass.pm/p/cowork-on-3p-any-llm",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.productcompass.pm/p/cowork-on-3p-any-llm Comments URL: https://news.ycombinator.com/item?id=47906739 Points: 1 # Comments: 0",
+          "published_at": "2026-04-26 02:32",
+          "tags": []
+        },
+        {
+          "title": "Multi-Agent AI Systems Are Eating Single Agents",
+          "url": "https://aistackinsights.ai/blog/multi-agent-ai-systems-langgraph-crewai-production-guide",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://aistackinsights.ai/blog/multi-agent-ai-systems-langgraph-crewai-production-guide Comments URL: https://news.ycombinator.com/item?id=47906692 Points: 2 # Comments: 0",
+          "published_at": "2026-04-26 02:21",
+          "tags": []
+        },
+        {
+          "title": "Can Frontier AI Labs make money?",
+          "url": "https://janosmeny.com/blog/can-frontier-ai-labs-make-money/index.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://janosmeny.com/blog/can-frontier-ai-labs-make-money/index.html Comments URL: https://news.ycombinator.com/item?id=47906583 Points: 1 # Comments: 0",
+          "published_at": "2026-04-26 01:58",
+          "tags": []
+        },
+        {
+          "title": "Aruana – Detects scams and blocks PII before it reaches AI chatbots (100% local)",
+          "url": "https://aruana.maiaware.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://aruana.maiaware.com/ Comments URL: https://news.ycombinator.com/item?id=47906422 Points: 1 # Comments: 0",
+          "published_at": "2026-04-26 01:25",
+          "tags": []
+        },
+        {
+          "title": "Multiple AI Models in One Platform",
+          "url": "https://www.chatcomparison.ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.chatcomparison.ai/ Comments URL: https://news.ycombinator.com/item?id=47906310 Points: 1 # Comments: 0",
+          "published_at": "2026-04-26 01:01",
+          "tags": []
+        },
+        {
+          "title": "Zephyr Agent: Add AI chat to any website",
+          "url": "https://zephyr-agent.sh/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://zephyr-agent.sh/ Comments URL: https://news.ycombinator.com/item?id=47906308 Points: 2 # Comments: 0",
+          "published_at": "2026-04-26 01:01",
+          "tags": []
+        },
+        {
+          "title": "Google unveils way to train AI models across distributed data centers",
+          "url": "https://www.sdxcentral.com/news/google-unveils-way-to-train-ai-models-across-distributed-data-centers/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.sdxcentral.com/news/google-unveils-way-to-train-ai-models-across-distributed-data-centers/ Comments URL: https://news.ycombinator.com/item?id=47906171 Points: 3 # Comments: 2",
+          "published_at": "2026-04-26 00:39",
+          "tags": []
+        },
+        {
+          "title": "AI cannot plan",
+          "url": "https://orchidfiles.com/ai-will-build-your-roadmap-in-ten-seconds/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://orchidfiles.com/ai-will-build-your-roadmap-in-ten-seconds/ Comments URL: https://news.ycombinator.com/item?id=47906140 Points: 1 # Comments: 0",
+          "published_at": "2026-04-26 00:34",
+          "tags": []
+        },
+        {
+          "title": "Show HN: A privacy first companion AI",
+          "url": "https://www.friendai.pro",
+          "source": "Hacker News AI",
+          "summary": "I'm flabbergasted that people share their most sensitive messages with companion AI apps. Read their privacy policies. They can read your messages. They also have your email. That combination is a serious security threat.Replika was just fined €5M in Italy over exactly this.Yes, this is something I built. All inference runs on-device, no account, no chat data leaves your phone.Happy to defend every claim.www.friendai.pro https://apps.apple.com/au/app/friend-ai-private-chat/id67616... Comments UR",
+          "published_at": "2026-04-25 22:36",
+          "tags": []
+        },
+        {
+          "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+          "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+          "source": "TechCrunch AI",
+          "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+          "published_at": "2026-04-25 21:43",
+          "tags": [
+            "AI",
+            "Commerce",
+            "Anthropic",
+            "project deal"
+          ]
+        },
+        {
+          "title": "Our Survey on Creativity, Writing, and Reading in the Age of AI",
+          "url": "https://ellipsus.com/blog/survey-on-writing-and-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://ellipsus.com/blog/survey-on-writing-and-ai Comments URL: https://news.ycombinator.com/item?id=47904589 Points: 9 # Comments: 0",
+          "published_at": "2026-04-25 21:13",
+          "tags": []
+        },
+        {
+          "title": "The AI industry is discovering that the public hates it",
+          "url": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash Comments URL: https://news.ycombinator.com/item?id=47904568 Points: 213 # Comments: 289",
+          "published_at": "2026-04-25 21:11",
+          "tags": []
+        },
+        {
+          "title": "Memory in the Age of AI Agents",
+          "url": "https://arxiv.org/abs/2512.13564",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2512.13564 Comments URL: https://news.ycombinator.com/item?id=47904562 Points: 2 # Comments: 1",
+          "published_at": "2026-04-25 21:10",
+          "tags": []
+        },
+        {
+          "title": "Blog prize for big questions about AI",
+          "url": "https://www.dwarkesh.com/p/blog-prize",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.dwarkesh.com/p/blog-prize Comments URL: https://news.ycombinator.com/item?id=47904352 Points: 3 # Comments: 0",
+          "published_at": "2026-04-25 20:33",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Routiium – self-hosted LLM gateway with a tool-result guard",
+          "url": "https://github.com/labiium/routiium",
+          "source": "Hacker News AI",
+          "summary": "Routiium is a self-hosted, OpenAI-compatible LLM gateway I built. It does the table-stakes things you'd expect — managed keys, routing, rate limits, analytics — but the part I want to flag for HN is what it does on the agent side. Most LLM gateways judge the user's prompt and stop there. Scan the input, decide if it looks malicious, allow or block. That's the easy half. In an agent loop with web-fetch, MCP, or shell tools, the harder problem is the tool's return value becoming the next message i",
+          "published_at": "2026-04-25 20:30",
+          "tags": []
+        },
+        {
+          "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+          "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+          "source": "TechCrunch AI",
+          "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+          "published_at": "2026-04-25 17:17",
+          "tags": [
+            "AI",
+            "Government & Policy",
+            "Jesse Van Rootselaar",
+            "OpenAI",
+            "sam altman",
+            "tumbler ridge"
+          ]
+        },
+        {
+          "title": "Why Tokyo is the most important tech destination of 2026",
+          "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+          "source": "TechCrunch AI",
+          "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
+          "published_at": "2026-04-25 15:03",
+          "tags": [
+            "Startups",
+            "Media & Entertainment",
+            "AI",
+            "Robotics",
+            "Startup Battlefield 200",
+            "SusHi Tech Tokyo"
+          ]
+        },
+        {
+          "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+          "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+          "source": "TechCrunch AI",
+          "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
+          "published_at": "2026-04-24 19:49",
+          "tags": [
+            "AI",
+            "TC",
+            "Venture",
+            "comfyui",
+            "Craft Ventures",
+            "Creators",
+            "Video"
+          ]
+        },
+        {
+          "title": "Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event",
+          "url": "https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/",
+          "source": "TechCrunch AI",
+          "summary": "Surprise! StrictlyVC San Francisco, which will kick off this year’s events lineup for TechCrunch on April 30 at the Sentro Filipino Cultural Center, is getting a new addition to its increasingly stacked lineup of speakers. Uber CTO Praveen Neppalli Naga will join the rest of the lineup to discuss operating at scale in the age of AI.",
+          "published_at": "2026-04-24 14:00",
+          "tags": [
+            "Startups",
+            "Venture",
+            "AI",
+            "Fundraising",
+            "Uber",
+            "StrictlyVC",
+            "StrictlyVC San Francisco"
+          ]
+        }
+      ]
+    }
+  ]
+}
