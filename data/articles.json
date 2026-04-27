@@ -1,5 +1,55 @@
 [
   {
+    "title": "China vetoes Meta’s $2B Manus deal after months-long probe",
+    "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+    "source": "TechCrunch AI",
+    "summary": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
+    "published_at": "2026-04-27 13:16",
+    "tags": [
+      "AI",
+      "TC",
+      "China",
+      "manus",
+      "Meta"
+    ],
+    "fetch_date": "2026-04-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "OpenAI could be making a phone with AI agents replacing apps",
+    "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+    "source": "TechCrunch AI",
+    "summary": "The phone could go in mass production in 2028, an analyst says.",
+    "published_at": "2026-04-27 13:08",
+    "tags": [
+      "AI",
+      "Hardware",
+      "MediaTek",
+      "OpenAI",
+      "Qualcomm",
+      "smartphone"
+    ],
+    "fetch_date": "2026-04-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The AI-designed car is taking shape",
+    "url": "https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept",
+    "source": "The Verge AI",
+    "summary": "The auto design world is full of advanced 3D visualization tools and VR sculpting platforms, but your average new car still enters the world as a sketch. Those sketches traditionally see endless iteration and refinement from all angles before being turned into 3D models by hand, some dying in the digital world, others sculpted into [&#8230;]",
+    "published_at": "2026-04-27 07:00",
+    "tags": [
+      "AI",
+      "Cars",
+      "GM",
+      "Nissan",
+      "Report",
+      "Transportation"
+    ],
+    "fetch_date": "2026-04-27",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Making a Landing Page Work for Both Humans and AI Agents",
     "url": "https://docsalot.dev/blog/i-redesigned-my-landing-page-so-ai-agents-can-read-it",
     "source": "Hacker News AI",
