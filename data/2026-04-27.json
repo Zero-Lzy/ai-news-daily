@@ -1,0 +1,133 @@
+{
+  "date": "2026-04-27",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-04-27 11:28:09",
+      "count": 13,
+      "articles": [
+        {
+          "title": "Making a Landing Page Work for Both Humans and AI Agents",
+          "url": "https://docsalot.dev/blog/i-redesigned-my-landing-page-so-ai-agents-can-read-it",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://docsalot.dev/blog/i-redesigned-my-landing-page-so-ai-agents-can-read-it Comments URL: https://news.ycombinator.com/item?id=47917329 Points: 2 # Comments: 0",
+          "published_at": "2026-04-27 03:13",
+          "tags": []
+        },
+        {
+          "title": "AI and Digitalization in HTA: Enhancing Evidence, Equity and Efficiency [video]",
+          "url": "https://www.youtube.com/watch?v=2wN0D-AqUQQ",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=2wN0D-AqUQQ Comments URL: https://news.ycombinator.com/item?id=47917310 Points: 1 # Comments: 0",
+          "published_at": "2026-04-27 03:10",
+          "tags": []
+        },
+        {
+          "title": "What type of code should you generate with AI?",
+          "url": "https://news.ycombinator.com/item?id=47917192",
+          "source": "Hacker News AI",
+          "summary": "I (and many people) have been thinking a lot about \"what are the best tasks to do using AI.\" My personal framework I've been using is, you should use AI to generate code when: 1. The code is easy to validate 2. It is not important that a human understands itI find that the best thing to AI generate is something on the level of a pure function (easy to validate + not necessarily important to understand implementation as long as you understand the interface). I've tried doing things like generatin",
+          "published_at": "2026-04-27 02:50",
+          "tags": []
+        },
+        {
+          "title": "The AI Guy [Google_made_an_Ooopsie]",
+          "url": "https://inv.nadeko.net/channel/UCUYWQzo6AtlFSTHab_qKQaA/community",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://inv.nadeko.net/channel/UCUYWQzo6AtlFSTHab_qKQaA/community Comments URL: https://news.ycombinator.com/item?id=47917188 Points: 1 # Comments: 0",
+          "published_at": "2026-04-27 02:49",
+          "tags": []
+        },
+        {
+          "title": "Team9 Review: The Fastest AI Workspace for Small Teams",
+          "url": "https://team9.ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://team9.ai Comments URL: https://news.ycombinator.com/item?id=47917145 Points: 1 # Comments: 0",
+          "published_at": "2026-04-27 02:41",
+          "tags": []
+        },
+        {
+          "title": "Aether – A GCP-Native Framework to Terminate LLM Agent Drift",
+          "url": "https://github.com/poinsettiaclg-gif/AETHER-core",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/poinsettiaclg-gif/AETHER-core Comments URL: https://news.ycombinator.com/item?id=47916656 Points: 1 # Comments: 1",
+          "published_at": "2026-04-27 01:10",
+          "tags": []
+        },
+        {
+          "title": "Human AI Collaboration in LIterature",
+          "url": "https://indignified.com/history-of-human-ai-collaboration-in-literature/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://indignified.com/history-of-human-ai-collaboration-in-literature/ Comments URL: https://news.ycombinator.com/item?id=47916083 Points: 2 # Comments: 0",
+          "published_at": "2026-04-26 23:46",
+          "tags": []
+        },
+        {
+          "title": "Jaeger adopts OpenTelemetry at its core to solve the AI agent observability gap",
+          "url": "https://thenewstack.io/jaeger-v2-ai-observability/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://thenewstack.io/jaeger-v2-ai-observability/ Comments URL: https://news.ycombinator.com/item?id=47915620 Points: 1 # Comments: 0",
+          "published_at": "2026-04-26 22:52",
+          "tags": []
+        },
+        {
+          "title": "UK departments at odds over energy demands of AI datacentres",
+          "url": "https://www.theguardian.com/technology/2026/apr/26/uk-departments-at-odds-over-energy-demands-of-ai-datacentres",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/26/uk-departments-at-odds-over-energy-demands-of-ai-datacentres Comments URL: https://news.ycombinator.com/item?id=47915061 Points: 5 # Comments: 0",
+          "published_at": "2026-04-26 21:54",
+          "tags": []
+        },
+        {
+          "title": "Squish – a local memory runtime for AI agents",
+          "url": "https://squishplugin.dev/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://squishplugin.dev/ Comments URL: https://news.ycombinator.com/item?id=47915017 Points: 3 # Comments: 0",
+          "published_at": "2026-04-26 21:51",
+          "tags": []
+        },
+        {
+          "title": "Maine’s governor vetoes data center moratorium",
+          "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+          "source": "TechCrunch AI",
+          "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
+          "published_at": "2026-04-25 20:57",
+          "tags": [
+            "AI",
+            "Government & Policy"
+          ]
+        },
+        {
+          "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+          "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+          "source": "TechCrunch AI",
+          "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+          "published_at": "2026-04-25 17:17",
+          "tags": [
+            "AI",
+            "Government & Policy",
+            "Jesse Van Rootselaar",
+            "OpenAI",
+            "sam altman",
+            "tumbler ridge"
+          ]
+        },
+        {
+          "title": "Why Tokyo is the most important tech destination of 2026",
+          "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+          "source": "TechCrunch AI",
+          "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
+          "published_at": "2026-04-25 15:03",
+          "tags": [
+            "Startups",
+            "Media & Entertainment",
+            "AI",
+            "Robotics",
+            "Startup Battlefield 200",
+            "SusHi Tech Tokyo"
+          ]
+        }
+      ]
+    }
+  ]
+}
