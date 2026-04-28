@@ -1,0 +1,197 @@
+{
+  "date": "2026-04-28",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-04-28 11:33:48",
+      "count": 19,
+      "articles": [
+        {
+          "title": "Why Spotify has no button to filter out AI music",
+          "url": "https://www.bbc.co.uk/news/articles/cd7jpg4w181o",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bbc.co.uk/news/articles/cd7jpg4w181o Comments URL: https://news.ycombinator.com/item?id=47930128 Points: 1 # Comments: 0",
+          "published_at": "2026-04-28 03:19",
+          "tags": []
+        },
+        {
+          "title": "Grocyy – AI receipt scanner that tracks grocery spending by item, not just total",
+          "url": "https://grocyy.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://grocyy.com/ Comments URL: https://news.ycombinator.com/item?id=47930047 Points: 1 # Comments: 0",
+          "published_at": "2026-04-28 03:04",
+          "tags": []
+        },
+        {
+          "title": "The AI-X Scale for Written Content",
+          "url": "https://docs.zeropolis.net/doku.php/tech:ai-text-categorization",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://docs.zeropolis.net/doku.php/tech:ai-text-categorization Comments URL: https://news.ycombinator.com/item?id=47929918 Points: 1 # Comments: 0",
+          "published_at": "2026-04-28 02:36",
+          "tags": []
+        },
+        {
+          "title": "You were training AI while catching Pokemon [video]",
+          "url": "https://www.youtube.com/watch?v=Vk95ZO-WAvY",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=Vk95ZO-WAvY Comments URL: https://news.ycombinator.com/item?id=47929871 Points: 1 # Comments: 0",
+          "published_at": "2026-04-28 02:29",
+          "tags": []
+        },
+        {
+          "title": "An AI First World (2016)",
+          "url": "https://avc.com/2016/04/an-ai-first-world/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://avc.com/2016/04/an-ai-first-world/ Comments URL: https://news.ycombinator.com/item?id=47929692 Points: 3 # Comments: 0",
+          "published_at": "2026-04-28 01:59",
+          "tags": []
+        },
+        {
+          "title": "How AI Will Reshape Computer Systems by 2035",
+          "url": "https://cra.org/industry/2026/04/27/how-ai-will-reshape-computer-systems-by-2035-a-jeffersonian-dinner-in-san-francisco-about-our-10000x-future/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://cra.org/industry/2026/04/27/how-ai-will-reshape-computer-systems-by-2035-a-jeffersonian-dinner-in-san-francisco-about-our-10000x-future/ Comments URL: https://news.ycombinator.com/item?id=47929621 Points: 2 # Comments: 0",
+          "published_at": "2026-04-28 01:49",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Lightport – open-source AI gateway",
+          "url": "https://www.npmjs.com/package/lightport",
+          "source": "Hacker News AI",
+          "summary": "Hey HN!I am the founder of Glama.We are making Lightport open-source – it's the AI gateway that's been powering Glama.GitHub: https://github.com/glama-ai/lightportLive: https://glama.ai/ai/gatewayWhy?We're going all-in on the MCP ecosystem – it's what we're best at. Open-sourcing the gateway is both a thank-you to the community that helped us grow and a way to keep us focused.The short backstory:Lightport began as a fork of Portkey. We needed a way to make various LLM providers OpenAI-compatible",
+          "published_at": "2026-04-28 01:48",
+          "tags": []
+        },
+        {
+          "title": "The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path",
+          "url": "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/ Comments URL: https://news.ycombinator.com/item?id=47929069 Points: 2 # Comments: 0",
+          "published_at": "2026-04-28 00:35",
+          "tags": []
+        },
+        {
+          "title": "Google staff urge chief executive to block US Military AI use",
+          "url": "https://www.ft.com/content/9270ce04-558c-44e8-816f-a40219cd5007",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.ft.com/content/9270ce04-558c-44e8-816f-a40219cd5007 Comments URL: https://news.ycombinator.com/item?id=47928887 Points: 10 # Comments: 0",
+          "published_at": "2026-04-28 00:08",
+          "tags": []
+        },
+        {
+          "title": "Generative AI Vegetarianism",
+          "url": "https://sboots.ca/2026/03/11/generative-ai-vegetarianism/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://sboots.ca/2026/03/11/generative-ai-vegetarianism/ Comments URL: https://news.ycombinator.com/item?id=47928885 Points: 37 # Comments: 44",
+          "published_at": "2026-04-28 00:07",
+          "tags": []
+        },
+        {
+          "title": "Professors Disturbed to Find Their Lectures Chopped Up and Turned into AI Slop",
+          "url": "https://www.404media.co/asu-atomic-ai-modules-arizona-state-university/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.404media.co/asu-atomic-ai-modules-arizona-state-university/ Comments URL: https://news.ycombinator.com/item?id=47928842 Points: 5 # Comments: 0",
+          "published_at": "2026-04-28 00:00",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: What Makes AI a Bubble?",
+          "url": "https://news.ycombinator.com/item?id=47928683",
+          "source": "Hacker News AI",
+          "summary": "A lot of people seem to take it as a given that the AI bubble will \"pop\", leading to a mass devaluation of AI companies from their current peaks.What I'm confused about though is what makes current AI evaluations a bubble.Bubbles usually exists when future speculation outpaces productivity: eventually some realization leads the market to no longer believe in that future speculation, causing devaluation which triggers a mass sell-off.However, AI companies currently have very high revenues and are",
+          "published_at": "2026-04-27 23:32",
+          "tags": []
+        },
+        {
+          "title": "China's DeepSeek prices new V4 AI model at 97% below OpenAI's GPT-5.5",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3351595/chinas-deepseek-prices-new-v4-ai-model-97-below-openais-gpt-55",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.scmp.com/tech/tech-trends/article/3351595/chinas-deepseek-prices-new-v4-ai-model-97-below-openais-gpt-55 Comments URL: https://news.ycombinator.com/item?id=47928644 Points: 4 # Comments: 0",
+          "published_at": "2026-04-27 23:26",
+          "tags": []
+        },
+        {
+          "title": "What is physical AI?",
+          "url": "https://www.ibm.com/think/topics/physical-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.ibm.com/think/topics/physical-ai Comments URL: https://news.ycombinator.com/item?id=47928607 Points: 1 # Comments: 0",
+          "published_at": "2026-04-27 23:21",
+          "tags": []
+        },
+        {
+          "title": "Google is testing AI chatbot search for YouTube",
+          "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
+          "source": "The Verge AI",
+          "summary": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like longform videos, YouTube Shorts, and text about what you're searching for. The \"experiment\" is now available if you're a YouTube [&#8230;]",
+          "published_at": "2026-04-27 20:01",
+          "tags": [
+            "AI",
+            "Google",
+            "News",
+            "Streaming",
+            "Tech",
+            "YouTube"
+          ]
+        },
+        {
+          "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+          "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
+          "published_at": "2026-04-27 17:40",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "Amazon",
+            "Microsoft",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
+          "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+          "source": "TechCrunch AI",
+          "summary": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
+          "published_at": "2026-04-27 17:24",
+          "tags": [
+            "AI",
+            "DeepMind",
+            "ineffable intelligence",
+            "lightspeed",
+            "reinforcement learning",
+            "Sequoia Capital"
+          ]
+        },
+        {
+          "title": "Canva apologizes after its AI tool replaces ‘Palestine’ in designs",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
+          "source": "The Verge AI",
+          "summary": "One of Canva's new AI features has been caught replacing the word \"Palestine\" in designs. The Magic Layers feature - which is designed to break flat images out into separate editable components - isn't supposed to make visible alterations to user designs, but it was found by X user @ros_ie9 to automatically switch the phrase [&#8230;]",
+          "published_at": "2026-04-27 10:29",
+          "tags": [
+            "AI",
+            "Creators",
+            "Design",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "The AI-designed car is taking shape",
+          "url": "https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept",
+          "source": "The Verge AI",
+          "summary": "The auto design world is full of advanced 3D visualization tools and VR sculpting platforms, but your average new car still enters the world as a sketch. Those sketches traditionally see endless iteration and refinement from all angles before being turned into 3D models by hand, some dying in the digital world, others sculpted into [&#8230;]",
+          "published_at": "2026-04-27 07:00",
+          "tags": [
+            "AI",
+            "Cars",
+            "GM",
+            "Nissan",
+            "Report",
+            "Transportation"
+          ]
+        }
+      ]
+    }
+  ]
+}
