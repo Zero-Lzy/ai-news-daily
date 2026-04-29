@@ -1,5 +1,166 @@
 [
   {
+    "title": "Ghost-hunter – AI cloud cost investigator that never touches your cloud",
+    "url": "https://github.com/avinash-matrixgard/ghosthunter",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/avinash-matrixgard/ghosthunter Comments URL: https://news.ycombinator.com/item?id=47948513 Points: 1 # Comments: 0",
+    "published_at": "2026-04-29 13:54",
+    "tags": [],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "LLM-Audit – Semgrep Rules for OWASP LLM Top in TypeScript",
+    "url": "https://github.com/Javierlozo/llm-audit",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/Javierlozo/llm-audit Comments URL: https://news.ycombinator.com/item?id=47948507 Points: 1 # Comments: 0",
+    "published_at": "2026-04-29 13:53",
+    "tags": [],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Bit: An LLM in the browser that only answers yes or no",
+    "url": "https://bit.simone.computer",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://bit.simone.computer Comments URL: https://news.ycombinator.com/item?id=47948486 Points: 2 # Comments: 1",
+    "published_at": "2026-04-29 13:52",
+    "tags": [],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Agents Know About Supabase. They Don't Always Use It Right",
+    "url": "https://supabase.com/blog/supabase-agent-skills",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://supabase.com/blog/supabase-agent-skills Comments URL: https://news.ycombinator.com/item?id=47948388 Points: 1 # Comments: 0",
+    "published_at": "2026-04-29 13:43",
+    "tags": [],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The Bloomberg Terminal Is Getting an AI Makeover",
+    "url": "https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/ Comments URL: https://news.ycombinator.com/item?id=47948253 Points: 1 # Comments: 0",
+    "published_at": "2026-04-29 13:34",
+    "tags": [],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: AI tools index with free LLM latency and cost calculators",
+    "url": "https://www.openaitoolshub.org",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.openaitoolshub.org Comments URL: https://news.ycombinator.com/item?id=47948154 Points: 1 # Comments: 0",
+    "published_at": "2026-04-29 13:28",
+    "tags": [],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "An OpenAI Bubble Is Not an AI Bubble",
+    "url": "https://www.bloomberg.com/opinion/articles/2026-04-29/an-openai-bubble-is-not-an-ai-market-bubble",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bloomberg.com/opinion/articles/2026-04-29/an-openai-bubble-is-not-an-ai-market-bubble Comments URL: https://news.ycombinator.com/item?id=47948088 Points: 1 # Comments: 0",
+    "published_at": "2026-04-29 13:24",
+    "tags": [],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The uncomfortable truth about AI and the American worker",
+    "url": "https://fortune.com/2026/04/29/why-do-workers-hate-ai-more-productive-training-obsolete/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://fortune.com/2026/04/29/why-do-workers-hate-ai-more-productive-training-obsolete/ Comments URL: https://news.ycombinator.com/item?id=47947932 Points: 3 # Comments: 0",
+    "published_at": "2026-04-29 13:14",
+    "tags": [],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Four engineers with 10 years of experience on staying relevant in the AI era",
+    "url": "https://shiftmag.dev/what-4-engineers-with-10-years-of-experience-say-about-staying-relevant-in-the-ai-era-9309/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://shiftmag.dev/what-4-engineers-with-10-years-of-experience-say-about-staying-relevant-in-the-ai-era-9309/ Comments URL: https://news.ycombinator.com/item?id=47947797 Points: 4 # Comments: 0",
+    "published_at": "2026-04-29 13:03",
+    "tags": [],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Prxhub – open registry so AI agents stop re-running the same research",
+    "url": "https://prxhub.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://prxhub.com Comments URL: https://news.ycombinator.com/item?id=47947759 Points: 5 # Comments: 0",
+    "published_at": "2026-04-29 13:00",
+    "tags": [],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Chatbots – Last Week Tonight [video]",
+    "url": "https://www.youtube.com/watch?v=Ykvf3MunGf8",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=Ykvf3MunGf8 Comments URL: https://news.ycombinator.com/item?id=47947671 Points: 1 # Comments: 0",
+    "published_at": "2026-04-29 12:54",
+    "tags": [],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Megent – Firewall for AI Agents",
+    "url": "https://megent.dev",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://megent.dev Comments URL: https://news.ycombinator.com/item?id=47947605 Points: 1 # Comments: 0",
+    "published_at": "2026-04-29 12:50",
+    "tags": [],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Letting AI play my game – building an agentic test harness to help play-testing",
+    "url": "https://blog.jeffschomay.com/letting-ai-play-my-game",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.jeffschomay.com/letting-ai-play-my-game Comments URL: https://news.ycombinator.com/item?id=47947525 Points: 15 # Comments: 1",
+    "published_at": "2026-04-29 12:43",
+    "tags": [],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Larry’s risky business",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout",
+    "source": "The Verge AI",
+    "summary": "If you want to know whether the AI bubble is bursting, there's only one publicly traded company that will tell you: Oracle. That's right, the database company. Oracle has burned its boats and pivoted to AI, but not in any kind of usual way. It is not a foundation model builder like OpenAI or Anthropic, [&#8230;]",
+    "published_at": "2026-04-29 09:57",
+    "tags": [
+      "AI",
+      "Business",
+      "OpenAI",
+      "Report"
+    ],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Colby Adcock’s Scout AI raises $100M to train its models for war. We visited its bootcamp",
+    "url": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
+    "source": "TechCrunch AI",
+    "summary": "We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles.",
+    "published_at": "2026-04-29 09:45",
+    "tags": [
+      "AI",
+      "Robotics",
+      "defense tech",
+      "Exclusive",
+      "Scout AI"
+    ],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "(One) Good AI Is Here – Anil Dash",
     "url": "https://www.anildash.com/2026/04/28/one-good-ai-is-here/",
     "source": "Hacker News AI",
@@ -120,6 +281,23 @@
     "fetch_label": "早报"
   },
   {
+    "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
+    "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+    "source": "TechCrunch AI",
+    "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
+    "published_at": "2026-04-28 18:49",
+    "tags": [
+      "AI",
+      "Apps",
+      "Commerce",
+      "Amazon",
+      "eCommerce",
+      "Rufus"
+    ],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
     "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
     "source": "TechCrunch AI",
@@ -149,6 +327,25 @@
     ],
     "fetch_date": "2026-04-29",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+    "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+    "source": "The Verge AI",
+    "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. The trial began with [&#8230;]",
+    "published_at": "2026-04-28 15:27",
+    "tags": [
+      "AI",
+      "Elon Musk",
+      "Law",
+      "News",
+      "OpenAI",
+      "Policy",
+      "Tech",
+      "xAI"
+    ],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "晚报"
   },
   {
     "title": "YouTube is testing an AI-powered search feature that shows guided answers",
