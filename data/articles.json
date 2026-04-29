@@ -1,5 +1,190 @@
 [
   {
+    "title": "(One) Good AI Is Here – Anil Dash",
+    "url": "https://www.anildash.com/2026/04/28/one-good-ai-is-here/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.anildash.com/2026/04/28/one-good-ai-is-here/ Comments URL: https://news.ycombinator.com/item?id=47943828 Points: 1 # Comments: 0",
+    "published_at": "2026-04-29 03:20",
+    "tags": [],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Help a fellow dev on AI-localization?",
+    "url": "https://news.ycombinator.com/item?id=47943730",
+    "source": "Hacker News AI",
+    "summary": "We built an AI-based localization pipeline for our software product (HR domain) and would love feedback/ suggestions from others working in production MT/localization, so that we can learn and improve.Current methodology:GPT-5-nano forward translation + back-translationtext-embedding-3-small cosine similarity on source vs. back-translated text.Threshold: ≥0.92 = auto-approvedOn a recent ~970-string Spanish localization run:~75% of strings passed automaticallyWe then had two human translators rev",
+    "published_at": "2026-04-29 03:01",
+    "tags": [],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Spotify Shares Fall Most Since 2022 on AI Fears [video]",
+    "url": "https://www.youtube.com/watch?v=pXgf7uZT7OU",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=pXgf7uZT7OU Comments URL: https://news.ycombinator.com/item?id=47943691 Points: 1 # Comments: 0",
+    "published_at": "2026-04-29 02:53",
+    "tags": [],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The Uncanny Horror of AI Hallucinations (2025)",
+    "url": "https://www.youtube.com/watch?v=vimNI7NjuS8",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=vimNI7NjuS8 Comments URL: https://news.ycombinator.com/item?id=47943650 Points: 1 # Comments: 0",
+    "published_at": "2026-04-29 02:45",
+    "tags": [],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Edge Computing and Intelligence: AI for Edge and AI on Edge",
+    "url": "https://blog.sparsh.dev/edge-ai-computing-intelligence/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.sparsh.dev/edge-ai-computing-intelligence/ Comments URL: https://news.ycombinator.com/item?id=47943647 Points: 1 # Comments: 1",
+    "published_at": "2026-04-29 02:45",
+    "tags": [],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "I Built My Own Hair Electrolysis Machine",
+    "url": "https://www.scd31.com/posts/diy-hair-electrolysis-machine",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.scd31.com/posts/diy-hair-electrolysis-machine Comments URL: https://news.ycombinator.com/item?id=47943632 Points: 2 # Comments: 0",
+    "published_at": "2026-04-29 02:42",
+    "tags": [],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "I hired an AI as SO. He chose a name, and we co-authored a book",
+    "url": "https://jdeid.it/agi-research/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://jdeid.it/agi-research/ Comments URL: https://news.ycombinator.com/item?id=47943532 Points: 1 # Comments: 0",
+    "published_at": "2026-04-29 02:24",
+    "tags": [],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Designs Thermoelectric Generators 10k Times Faster Than We Can",
+    "url": "https://spectrum.ieee.org/ai-designed-thermoelectric-generator",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://spectrum.ieee.org/ai-designed-thermoelectric-generator Comments URL: https://news.ycombinator.com/item?id=47943214 Points: 2 # Comments: 0",
+    "published_at": "2026-04-29 01:39",
+    "tags": [],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "From One AI to Any AI: JetBrains rethinks the approach to AI tooling [video]",
+    "url": "https://www.youtube.com/watch?v=J8fHU4WFd_c",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=J8fHU4WFd_c Comments URL: https://news.ycombinator.com/item?id=47942940 Points: 1 # Comments: 0",
+    "published_at": "2026-04-29 01:02",
+    "tags": [],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Tencent used Anthropic's Claude to fine-tune it's new Hy3 AI model",
+    "url": "https://www.reuters.com/world/china/chinese-companies-used-claude-improve-own-models-anthropic-says-2026-02-23/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.reuters.com/world/china/chinese-companies-used-claude-improve-own-models-anthropic-says-2026-02-23/ Comments URL: https://news.ycombinator.com/item?id=47942759 Points: 2 # Comments: 0",
+    "published_at": "2026-04-29 00:35",
+    "tags": [],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "vLLM-Compile: Bringing Compiler Optimizations to LLM Inference",
+    "url": "https://docs.google.com/presentation/d/17WYU9T9qouY20zJg-7n_kV8DrMRJ2LHeNh_WXD6bUmc/view",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://docs.google.com/presentation/d/17WYU9T9qouY20zJg-7n_kV8DrMRJ2LHeNh_WXD6bUmc/view Comments URL: https://news.ycombinator.com/item?id=47942713 Points: 1 # Comments: 0",
+    "published_at": "2026-04-29 00:28",
+    "tags": [],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "From spaghetti to main bus: refactoring an AI agent orchestrator with Elm",
+    "url": "https://blog.mariohayashi.com/p/the-factory-must-grow-part-ii-from",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.mariohayashi.com/p/the-factory-must-grow-part-ii-from Comments URL: https://news.ycombinator.com/item?id=47942296 Points: 2 # Comments: 0",
+    "published_at": "2026-04-28 23:35",
+    "tags": [],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
+    "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+    "source": "TechCrunch AI",
+    "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
+    "published_at": "2026-04-28 18:15",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Defense Department",
+      "Google",
+      "pentagon"
+    ],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Elon Musk tells the jury that all he wants to do is save humanity",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity",
+    "source": "The Verge AI",
+    "summary": "On the stand, Elon Musk is positioning himself as a savior. In the high-profile trial between him and his fellow OpenAI co-founder, now CEO, Sam Altman, Musk opened by going through his background. He went as far back as being raised in South Africa and arriving in Canada for college with \"2,500 in Canadian travelers' [&#8230;]",
+    "published_at": "2026-04-28 16:46",
+    "tags": [
+      "AI",
+      "Elon Musk",
+      "OpenAI",
+      "Tech"
+    ],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "YouTube is testing an AI-powered search feature that shows guided answers",
+    "url": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
+    "source": "TechCrunch AI",
+    "summary": "YouTube is rolling out the new AI search feature to Premium subscribers in the U.S. on an opt-in basis.",
+    "published_at": "2026-04-28 13:54",
+    "tags": [
+      "AI",
+      "Apps",
+      "Media & Entertainment",
+      "Google",
+      "Search",
+      "Video",
+      "YouTube"
+    ],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Musk and Altman go to court",
+    "url": "https://www.theverge.com/podcast/919534/musk-openai-trial-vergecast",
+    "source": "The Verge AI",
+    "summary": "The trial between Elon Musk and OpenAI is officially upon us. And it is going to be a mess. As the two sides fight over the early days of AI, who deserves credit and cash for what, and more, we're likely to spend the next few weeks hearing a lot of important people's secrets made [&#8230;]",
+    "published_at": "2026-04-28 10:47",
+    "tags": [
+      "AI",
+      "Gadgets",
+      "OpenAI",
+      "Podcasts",
+      "Vergecast"
+    ],
+    "fetch_date": "2026-04-29",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Why Spotify has no button to filter out AI music",
     "url": "https://www.bbc.co.uk/news/articles/cd7jpg4w181o",
     "source": "Hacker News AI",
