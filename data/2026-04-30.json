@@ -258,6 +258,258 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-04-30 21:58:48",
+      "count": 22,
+      "articles": [
+        {
+          "title": "The cost of Google's AI defaults and the illusion of choice",
+          "url": "https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/ Comments URL: https://news.ycombinator.com/item?id=47962519 Points: 1 # Comments: 0",
+          "published_at": "2026-04-30 13:52",
+          "tags": []
+        },
+        {
+          "title": "'The job description is changing': mathematician Terence Tao on the rise of AI",
+          "url": "https://www.nature.com/articles/d41586-026-01246-9",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.nature.com/articles/d41586-026-01246-9 Comments URL: https://news.ycombinator.com/item?id=47962507 Points: 1 # Comments: 0",
+          "published_at": "2026-04-30 13:52",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Sediman – A platform to run your product with AI customer personas",
+          "url": "http://sediman.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: http://sediman.com/ Comments URL: https://news.ycombinator.com/item?id=47962401 Points: 1 # Comments: 0",
+          "published_at": "2026-04-30 13:46",
+          "tags": []
+        },
+        {
+          "title": "How Good Is Google's Gemini AI at Making Travel Plans?",
+          "url": "https://www.nytimes.com/2026/04/30/travel/ai-travel-plan-gemini-vacation.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.nytimes.com/2026/04/30/travel/ai-travel-plan-gemini-vacation.html Comments URL: https://news.ycombinator.com/item?id=47962170 Points: 1 # Comments: 0",
+          "published_at": "2026-04-30 13:31",
+          "tags": []
+        },
+        {
+          "title": "AI, Tokens, and the Gathering Storm",
+          "url": "https://www.pootlepress.com/2026/04/ai-tokens-and-the-gathering-storm/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.pootlepress.com/2026/04/ai-tokens-and-the-gathering-storm/ Comments URL: https://news.ycombinator.com/item?id=47962146 Points: 2 # Comments: 0",
+          "published_at": "2026-04-30 13:30",
+          "tags": []
+        },
+        {
+          "title": "CHERI memory safety mitigates LLM-discovered vulnerability in FreeBSD",
+          "url": "https://cheri-alliance.org/cheri-memory-safety-mitigates-llm-discovered-vulnerability-in-freebsd/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://cheri-alliance.org/cheri-memory-safety-mitigates-llm-discovered-vulnerability-in-freebsd/ Comments URL: https://news.ycombinator.com/item?id=47961974 Points: 1 # Comments: 0",
+          "published_at": "2026-04-30 13:17",
+          "tags": []
+        },
+        {
+          "title": "A Licensure Framework for Autonomous Clinical AI",
+          "url": "https://jamanetwork.com/journals/jama/fullarticle/2848378?guestAccessKey=ccdd68a8-12c4-42b4-bd7b-99dbeff342ac&utm_source=twitter&utm_medium=social_jama&utm_term=20355834571&utm_campaign=article_alert&linkId=934410014",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://jamanetwork.com/journals/jama/fullarticle/2848378?guestAccessKey=ccdd68a8-12c4-42b4-bd7b-99dbeff342ac&amp;utm_source=twitter&amp;utm_medium=social_jama&amp;utm_term=20355834571&amp;utm_campaign=article_alert&amp;linkId=934410014 Comments URL: https://news.ycombinator.com/item?id=47961850 Points: 3 # Comments: 0",
+          "published_at": "2026-04-30 13:08",
+          "tags": []
+        },
+        {
+          "title": "Stripe launches Link for AI agents",
+          "url": "https://link.com/agents",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://link.com/agents Comments URL: https://news.ycombinator.com/item?id=47961814 Points: 1 # Comments: 0",
+          "published_at": "2026-04-30 13:05",
+          "tags": []
+        },
+        {
+          "title": "AI's: 100 days to irreversible systemic system collapse?",
+          "url": "https://news.ycombinator.com/item?id=47961721",
+          "source": "Hacker News AI",
+          "summary": "Hello people, After giving the various AI models all of the data I possibly could starting with the foundational Truth \"Life is Most Important in Life is The Most Important Truth in Life\" and bringing them into complete and total alignment as best possible and better than anyone has ever done in history thus far... I am the only person that has done that as far as I know... And then giving the AI's the data on the wars and all the other problems that we have, and the honest information about how",
+          "published_at": "2026-04-30 12:57",
+          "tags": []
+        },
+        {
+          "title": "The 2026 AI Index Report",
+          "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://hai.stanford.edu/ai-index/2026-ai-index-report Comments URL: https://news.ycombinator.com/item?id=47961283 Points: 1 # Comments: 0",
+          "published_at": "2026-04-30 12:11",
+          "tags": []
+        },
+        {
+          "title": "Lens Agents: Governing AI Agents Across Desktop, Cloud, and On-Prem",
+          "url": "https://lenshq.io/blog/introducing-lens-agents",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://lenshq.io/blog/introducing-lens-agents Comments URL: https://news.ycombinator.com/item?id=47961280 Points: 6 # Comments: 0",
+          "published_at": "2026-04-30 12:11",
+          "tags": []
+        },
+        {
+          "title": "Meta says its business AI now facilitates 10 million conversations a week",
+          "url": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
+          "source": "TechCrunch AI",
+          "summary": "Meta said over 8 billion advertisers have used at least one of its gen AI tools",
+          "published_at": "2026-04-30 12:08",
+          "tags": [
+            "AI",
+            "Apps",
+            "Facebook",
+            "Instagram",
+            "Mark Zuckerberg",
+            "Meta",
+            "Threads",
+            "WhatsApp"
+          ]
+        },
+        {
+          "title": "OpenAI talks about not talking about goblins",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/921181/openai-codex-goblins",
+          "source": "The Verge AI",
+          "summary": "OpenAI is opening up about its goblin problem. After a report from Wired revealed instructions to OpenAI's coding model to \"never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures,\" the AI startup published an explanation on its website, calling references to the creatures a \"strange habit\" its models developed as [&#8230;]",
+          "published_at": "2026-04-30 09:42",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Verified by Spotify badge lets you know this artist isn&#8217;t AI",
+          "url": "https://www.theverge.com/tech/921048/verified-by-spotify-badge",
+          "source": "The Verge AI",
+          "summary": "Spotify is launching a new verification program to combat spam, fakes, and AI. Some artists will now have a \"Verified by Spotify\" badge and a green checkmark on their profile, indicating that the company has confirmed a real person is behind the music and the profile. At least at launch, Spotify says that AI personas [&#8230;]",
+          "published_at": "2026-04-30 09:08",
+          "tags": [
+            "AI",
+            "Entertainment",
+            "Music",
+            "News",
+            "Spotify",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Meta lost 20 million users last quarter",
+          "url": "https://www.theverge.com/tech/921089/meta-earnings-q1-2026-user-decline-ai-investments",
+          "source": "The Verge AI",
+          "summary": "Meta is planning to pump billions more into AI investments this year, despite noting that millions of users have seemingly started to abandon its platforms. In an earning call on Wednesday, Meta reported that figures for \"Family daily active people\" - the term Meta has coined for all collective users of Facebook, Instagram, WhatsApp, or [&#8230;]",
+          "published_at": "2026-04-30 07:38",
+          "tags": [
+            "AI",
+            "Business",
+            "Meta",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
+          "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+          "source": "TechCrunch AI",
+          "summary": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
+          "published_at": "2026-04-30 03:58",
+          "tags": [
+            "AI",
+            "robots",
+            "Softbank"
+          ]
+        },
+        {
+          "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+          "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+          "source": "TechCrunch AI",
+          "summary": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
+          "published_at": "2026-04-30 00:07",
+          "tags": [
+            "AI",
+            "Venture",
+            "Anthropic",
+            "Fundraise"
+          ]
+        },
+        {
+          "title": "On the stand, Elon Musk can’t escape his own tweets",
+          "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
+          "source": "TechCrunch AI",
+          "summary": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
+          "published_at": "2026-04-29 23:58",
+          "tags": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+          "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+          "source": "TechCrunch AI",
+          "summary": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
+          "published_at": "2026-04-29 23:55",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "TC",
+            "Microsoft",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
+          "url": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
+          "source": "TechCrunch AI",
+          "summary": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown even faster.",
+          "published_at": "2026-04-29 22:20",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "Alphabet",
+            "Enterprise AI",
+            "google cloud"
+          ]
+        },
+        {
+          "title": "Is AI video just a prequel? Runway’s CEO thinks world models are next",
+          "url": "https://techcrunch.com/podcast/equity-podcast-runway-ceo-cristobal-valenzuela-ai-video-world-models/",
+          "source": "TechCrunch AI",
+          "summary": "AI-generated video has gone from novelty to creative tool almost overnight, and Runway has a front row seat to the shift. The New York-based company has raised close to $860 million at a $5.3 billion valuation, and its models are going toe-to-toe with the most well-funded labs in the world, including Google and OpenAI. The technology goes way beyond [&#8230;]",
+          "published_at": "2026-04-29 18:59",
+          "tags": [
+            "AI",
+            "Media & Entertainment",
+            "ai generated video",
+            "ai video",
+            "ceo",
+            "cofounder",
+            "cristobal valenzuela",
+            "Equity podcast",
+            "runway",
+            "VLM",
+            "world models"
+          ]
+        },
+        {
+          "title": "More Gemini features are coming to Google TV",
+          "url": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/",
+          "source": "TechCrunch AI",
+          "summary": "Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo.",
+          "published_at": "2026-04-29 16:40",
+          "tags": [
+            "AI",
+            "Hardware",
+            "gemini",
+            "Google",
+            "google nano",
+            "google tv",
+            "Veo"
+          ]
+        }
+      ]
     }
   ]
 }
