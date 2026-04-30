@@ -1,5 +1,274 @@
 [
   {
+    "title": "AI Groupchats app just launched",
+    "url": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/ Comments URL: https://news.ycombinator.com/item?id=47957580 Points: 1 # Comments: 1",
+    "published_at": "2026-04-30 03:05",
+    "tags": [],
+    "fetch_date": "2026-04-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The TypeScript AI Framework – Mastra",
+    "url": "https://mastra.ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://mastra.ai/ Comments URL: https://news.ycombinator.com/item?id=47957538 Points: 1 # Comments: 0",
+    "published_at": "2026-04-30 03:00",
+    "tags": [],
+    "fetch_date": "2026-04-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The AI Compute Extensions (ACE) for x86 [pdf]",
+    "url": "https://x86ecosystem.org/wp-content/uploads/2026/03/ACE-Whitepaper-v1.pdf",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://x86ecosystem.org/wp-content/uploads/2026/03/ACE-Whitepaper-v1.pdf Comments URL: https://news.ycombinator.com/item?id=47957495 Points: 2 # Comments: 0",
+    "published_at": "2026-04-30 02:52",
+    "tags": [],
+    "fetch_date": "2026-04-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The Zig project's rationale for their firm anti-AI contribution policy",
+    "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/ Comments URL: https://news.ycombinator.com/item?id=47957294 Points: 6 # Comments: 1",
+    "published_at": "2026-04-30 02:15",
+    "tags": [],
+    "fetch_date": "2026-04-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Musk casts himself as AI's good guy in testimony vs. OpenAI",
+    "url": "https://www.axios.com/2026/04/30/musk-openai-safety-grok",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.axios.com/2026/04/30/musk-openai-safety-grok Comments URL: https://news.ycombinator.com/item?id=47957250 Points: 3 # Comments: 0",
+    "published_at": "2026-04-30 02:07",
+    "tags": [],
+    "fetch_date": "2026-04-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Copilot Student GPT-5.3-Codex removal from model picker",
+    "url": "https://github.blog/changelog/2026-04-27-copilot-student-gpt-5-3-codex-removal-from-model-picker/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.blog/changelog/2026-04-27-copilot-student-gpt-5-3-codex-removal-from-model-picker/ Comments URL: https://news.ycombinator.com/item?id=47957142 Points: 1 # Comments: 1",
+    "published_at": "2026-04-30 01:51",
+    "tags": [],
+    "fetch_date": "2026-04-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Microsoft lifts 2026 AI spend by $25B to cover component price rises",
+    "url": "https://www.theregister.com/2026/04/30/microsoft_q3_2026/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theregister.com/2026/04/30/microsoft_q3_2026/ Comments URL: https://news.ycombinator.com/item?id=47957119 Points: 4 # Comments: 0",
+    "published_at": "2026-04-30 01:48",
+    "tags": [],
+    "fetch_date": "2026-04-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Failed AI tractor company lays off all employees, abandons Bay Area headquarters",
+    "url": "https://www.sfgate.com/tech/article/monarch-ai-tractor-failure-22183476.php",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.sfgate.com/tech/article/monarch-ai-tractor-failure-22183476.php Comments URL: https://news.ycombinator.com/item?id=47956976 Points: 5 # Comments: 0",
+    "published_at": "2026-04-30 01:31",
+    "tags": [],
+    "fetch_date": "2026-04-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Claude.ai down again?",
+    "url": "https://news.ycombinator.com/item?id=47956890",
+    "source": "Hacker News AI",
+    "summary": "Please run /login · API Error: 403 {\"type\":\"error\",\"error\":{\"type\":\"permission_error\",\"message\":\"Account is no longer a member of the organization associated with this token.\"}}Can't reach Claude Check your connection. Comments URL: https://news.ycombinator.com/item?id=47956890 Points: 22 # Comments: 18",
+    "published_at": "2026-04-30 01:20",
+    "tags": [],
+    "fetch_date": "2026-04-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Gen Z is outsourcing hard conversations to AI. Why it matters",
+    "url": "https://www.rnz.co.nz/life/relationships/gen-z-is-outsourcing-hard-conversations-to-ai-why-it-matters",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.rnz.co.nz/life/relationships/gen-z-is-outsourcing-hard-conversations-to-ai-why-it-matters Comments URL: https://news.ycombinator.com/item?id=47956783 Points: 6 # Comments: 0",
+    "published_at": "2026-04-30 01:02",
+    "tags": [],
+    "fetch_date": "2026-04-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Dex Raised $5.3M to Hire Your AI Engineers Without the LinkedIn Parade",
+    "url": "https://www.siliconsnark.com/dex-raised-5-3m-to-hire-your-ai-engineers-without-the-linkedin-parade/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.siliconsnark.com/dex-raised-5-3m-to-hire-your-ai-engineers-without-the-linkedin-parade/ Comments URL: https://news.ycombinator.com/item?id=47956761 Points: 2 # Comments: 1",
+    "published_at": "2026-04-30 00:59",
+    "tags": [],
+    "fetch_date": "2026-04-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Mike: open-source legal AI",
+    "url": "https://mikeoss.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://mikeoss.com/ Comments URL: https://news.ycombinator.com/item?id=47956739 Points: 20 # Comments: 5",
+    "published_at": "2026-04-30 00:56",
+    "tags": [],
+    "fetch_date": "2026-04-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Yiitap – AI-native Notion-style block editor",
+    "url": "https://github.com/pileax-ai/yiitap",
+    "source": "Hacker News AI",
+    "summary": "Hi HN,I built an open-source block editor designed for AI-native apps.It’s inspired by Notion, but built with AI workflows in mind: - Built-in AI capabilities to supercharge content creation and productivity. - Block-based editing (drag, split, reorder) - Markdown paste & copy - Built on top of Tiptap & ProseMirrorSupports both Vue and React.Demo: https://yiitap.pileax.ai/demo/vueGitHub: https://github.com/pileax-ai/yiitapWould love feedback — especially what kind of AI features you'd expect in ",
+    "published_at": "2026-04-30 00:28",
+    "tags": [],
+    "fetch_date": "2026-04-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask HN: Do you think AI will end up like dotcom?",
+    "url": "https://news.ycombinator.com/item?id=47956459",
+    "source": "Hacker News AI",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=47956459 Points: 3 # Comments: 1",
+    "published_at": "2026-04-30 00:24",
+    "tags": [],
+    "fetch_date": "2026-04-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Claude AI agent admits: “I violated every principle” after wiping firm database",
+    "url": "https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database Comments URL: https://news.ycombinator.com/item?id=47956396 Points: 2 # Comments: 2",
+    "published_at": "2026-04-30 00:16",
+    "tags": [],
+    "fetch_date": "2026-04-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Amazon’s cloud business is surging — and so is its capital spending",
+    "url": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
+    "source": "TechCrunch AI",
+    "summary": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.",
+    "published_at": "2026-04-30 00:14",
+    "tags": [
+      "AI",
+      "Amazon",
+      "Andy Jassy",
+      "AWS"
+    ],
+    "fetch_date": "2026-04-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Meta is still burning money on AR/VR",
+    "url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
+    "source": "TechCrunch AI",
+    "summary": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
+    "published_at": "2026-04-29 23:58",
+    "tags": [
+      "AI",
+      "Meta"
+    ],
+    "fetch_date": "2026-04-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+    "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+    "source": "TechCrunch AI",
+    "summary": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
+    "published_at": "2026-04-29 23:55",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "TC",
+      "Microsoft",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-04-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
+    "url": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
+    "source": "TechCrunch AI",
+    "summary": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown even faster.",
+    "published_at": "2026-04-29 22:20",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Alphabet",
+      "Enterprise AI",
+      "google cloud"
+    ],
+    "fetch_date": "2026-04-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Is AI video just a prequel? Runway’s CEO thinks world models are next",
+    "url": "https://techcrunch.com/podcast/equity-podcast-runway-ceo-cristobal-valenzuela-ai-video-world-models/",
+    "source": "TechCrunch AI",
+    "summary": "AI-generated video has gone from novelty to creative tool almost overnight, and Runway has a front row seat to the shift. The New York-based company has raised close to $860 million at a $5.3 billion valuation, and its models are going toe-to-toe with the most well-funded labs in the world, including Google and OpenAI. The technology goes way beyond [&#8230;]",
+    "published_at": "2026-04-29 18:59",
+    "tags": [
+      "AI",
+      "Media & Entertainment",
+      "ai generated video",
+      "ai video",
+      "ceo",
+      "cofounder",
+      "cristobal valenzuela",
+      "Equity podcast",
+      "runway",
+      "VLM",
+      "world models"
+    ],
+    "fetch_date": "2026-04-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "More Gemini features are coming to Google TV",
+    "url": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/",
+    "source": "TechCrunch AI",
+    "summary": "Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo.",
+    "published_at": "2026-04-29 16:40",
+    "tags": [
+      "AI",
+      "Hardware",
+      "gemini",
+      "Google",
+      "google nano",
+      "google tv",
+      "Veo"
+    ],
+    "fetch_date": "2026-04-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "All the evidence unveiled so far in Musk v. Altman",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+    "source": "The Verge AI",
+    "summary": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some high-level takeaways: [&#8230;]",
+    "published_at": "2026-04-29 14:03",
+    "tags": [
+      "AI",
+      "Analysis",
+      "Elon Musk",
+      "Law",
+      "OpenAI",
+      "Policy",
+      "Report",
+      "Tech"
+    ],
+    "fetch_date": "2026-04-30",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Ghost-hunter – AI cloud cost investigator that never touches your cloud",
     "url": "https://github.com/avinash-matrixgard/ghosthunter",
     "source": "Hacker News AI",
@@ -128,6 +397,21 @@
     "tags": [],
     "fetch_date": "2026-04-29",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "ChatGPT downloads are slowing — and may cause problems for OpenAI&#8217;s IPO",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/920476/openai-chatgpt-downloads-slow-down-ipo",
+    "source": "The Verge AI",
+    "summary": "ChatGPT is struggling to keep up its once-explosive growth as users uninstall the app or opt for rival chatbots instead. According to data from market intelligence firm Sensor Tower, ChatGPT experienced a 132 percent increase in uninstalls year over year in April. Its uninstall rate was even higher last month, up 413 percent year-over-year, following [&#8230;]",
+    "published_at": "2026-04-29 10:43",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI",
+      "Tech"
+    ],
+    "fetch_date": "2026-04-30",
+    "fetch_label": "早报"
   },
   {
     "title": "Larry’s risky business",
