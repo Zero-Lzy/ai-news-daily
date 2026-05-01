@@ -1,5 +1,115 @@
 [
   {
+    "title": "Top AI Companies Agree to Pentagon Deals for Classified Work",
+    "url": "https://www.wsj.com/tech/ai/top-ai-companies-agree-to-pentagon-deals-for-classified-work-9c621e78",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/top-ai-companies-agree-to-pentagon-deals-for-classified-work-9c621e78 Comments URL: https://news.ycombinator.com/item?id=47974475 Points: 1 # Comments: 1",
+    "published_at": "2026-05-01 13:17",
+    "tags": [],
+    "fetch_date": "2026-05-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ask HN: How do you feel about AI assisted blogging?",
+    "url": "https://news.ycombinator.com/item?id=47974256",
+    "source": "Hacker News AI",
+    "summary": "How do you feel when you learn someone has been using AI heavily to help them write? Setting aside English as a second language.My knee-jerk is to find it disappointing. But maybe I’m missing some nuance. And I don’t have the same negative reaction to AI coding.But if you’re going to ask me to read a blog article, I don’t quite enjoy it when it’s not in your own words. I want to be in conversation with you, not you intermediated through an LLM.While I don’t particularly care about a bit of LLM s",
+    "published_at": "2026-05-01 12:56",
+    "tags": [],
+    "fetch_date": "2026-05-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Stanzio, AI presentation tool that designs each slide as real HTML",
+    "url": "https://stanzio.fly.dev/",
+    "source": "Hacker News AI",
+    "summary": "Given that PowerPoint's format doesn't play well with LLMs, I built a tool that generates presentations as real HTML instead. Think Lovable but for slides. Would love to hear what you think :) Comments URL: https://news.ycombinator.com/item?id=47974235 Points: 1 # Comments: 0",
+    "published_at": "2026-05-01 12:54",
+    "tags": [],
+    "fetch_date": "2026-05-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "An AI reasoning system just discovered a candidate universal law in astrophysics",
+    "url": "https://blankline.org/research/universal-bimodal-drift-rate",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blankline.org/research/universal-bimodal-drift-rate Comments URL: https://news.ycombinator.com/item?id=47974218 Points: 1 # Comments: 1",
+    "published_at": "2026-05-01 12:52",
+    "tags": [],
+    "fetch_date": "2026-05-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Coverage-guided and grammar-aware and LLM fuzzing finds 100 compiler bugs",
+    "url": "https://nowarp.io/blog/compiler-testing-part-1/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://nowarp.io/blog/compiler-testing-part-1/ Comments URL: https://news.ycombinator.com/item?id=47974089 Points: 1 # Comments: 1",
+    "published_at": "2026-05-01 12:38",
+    "tags": [],
+    "fetch_date": "2026-05-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "So, About That AI Bubble",
+    "url": "https://www.theatlantic.com/economy/2026/05/ai-bubble-revenue-anthropic/687022/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theatlantic.com/economy/2026/05/ai-bubble-revenue-anthropic/687022/ Comments URL: https://news.ycombinator.com/item?id=47973544 Points: 2 # Comments: 0",
+    "published_at": "2026-05-01 11:31",
+    "tags": [],
+    "fetch_date": "2026-05-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The AI Jailbreakers",
+    "url": "https://www.theguardian.com/technology/2026/apr/29/meet-the-ai-jailbreakers-i-see-the-worst-things-humanity-has-produced",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/29/meet-the-ai-jailbreakers-i-see-the-worst-things-humanity-has-produced Comments URL: https://news.ycombinator.com/item?id=47973206 Points: 1 # Comments: 0",
+    "published_at": "2026-05-01 10:43",
+    "tags": [],
+    "fetch_date": "2026-05-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Chinese Courts Rule Companies Cannot Fire Workers Simply to Replace Them with AI",
+    "url": "https://www.caixinglobal.com/2026-04-30/chinese-courts-rule-companies-cannot-fire-workers-simply-to-replace-them-with-ai-102439602.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.caixinglobal.com/2026-04-30/chinese-courts-rule-companies-cannot-fire-workers-simply-to-replace-them-with-ai-102439602.html Comments URL: https://news.ycombinator.com/item?id=47972831 Points: 5 # Comments: 1",
+    "published_at": "2026-05-01 09:42",
+    "tags": [],
+    "fetch_date": "2026-05-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Meta Just Killed Open-Source AI",
+    "url": "https://www.utkarshapoorva.com/writing/meta-llama-trap/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.utkarshapoorva.com/writing/meta-llama-trap/ Comments URL: https://news.ycombinator.com/item?id=47972744 Points: 2 # Comments: 0",
+    "published_at": "2026-05-01 09:27",
+    "tags": [],
+    "fetch_date": "2026-05-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Xmemory: Benchmarking Structured AI Memory Against RAG and Hybrid RAG",
+    "url": "https://arxiv.org/abs/2604.27906",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2604.27906 Comments URL: https://news.ycombinator.com/item?id=47972683 Points: 4 # Comments: 0",
+    "published_at": "2026-05-01 09:15",
+    "tags": [],
+    "fetch_date": "2026-05-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ubuntu is going all in on Generative AI and other Linux distros might follow",
+    "url": "https://www.neowin.net/news/ubuntu-is-going-all-in-on-generative-ai-and-other-linux-distros-might-follow/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.neowin.net/news/ubuntu-is-going-all-in-on-generative-ai-and-other-linux-distros-might-follow/ Comments URL: https://news.ycombinator.com/item?id=47972608 Points: 2 # Comments: 0",
+    "published_at": "2026-05-01 08:59",
+    "tags": [],
+    "fetch_date": "2026-05-01",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "I made a weird AI kids app (Little Chicken)",
     "url": "https://apps.apple.com/us/app/kids-games-fun-little-chicken/id6759822036",
     "source": "Hacker News AI",
@@ -18,6 +128,23 @@
     "tags": [],
     "fetch_date": "2026-05-01",
     "fetch_label": "早报"
+  },
+  {
+    "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+    "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+    "source": "TechCrunch AI",
+    "summary": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
+    "published_at": "2026-05-01 02:00",
+    "tags": [
+      "AI",
+      "Apps",
+      "OpenAI",
+      "ChatGPT",
+      "ChatGPT Images 2.0",
+      "ChatGPT Images"
+    ],
+    "fetch_date": "2026-05-01",
+    "fetch_label": "晚报"
   },
   {
     "title": "Enabling privacy-preserving AI training on everyday devices",
@@ -180,6 +307,24 @@
     ],
     "fetch_date": "2026-05-01",
     "fetch_label": "早报"
+  },
+  {
+    "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
+    "url": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/",
+    "source": "TechCrunch AI",
+    "summary": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red tape.",
+    "published_at": "2026-04-30 17:53",
+    "tags": [
+      "AI",
+      "Startups",
+      "BioticsAI",
+      "Build Mode",
+      "Build Mode Video",
+      "Startup Battlefield",
+      "startup battlefield winner"
+    ],
+    "fetch_date": "2026-05-01",
+    "fetch_label": "晚报"
   },
   {
     "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
@@ -360,6 +505,22 @@
       "WhatsApp"
     ],
     "fetch_date": "2026-04-30",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Here&#8217;s how the new Microsoft and OpenAI deal breaks down",
+    "url": "https://www.theverge.com/tech/921210/microsoft-openai-partnership-divorce-notepad",
+    "source": "The Verge AI",
+    "summary": "Microsoft's relationship with OpenAI has always been complicated, so I expected the close partnership-turned-situationship to end in tears. After all, executive disagreements, rearranged contracts, and frustrations over AI infrastructure have all regularly been part of the partnership, creating plenty of tension along the way. But against all odds, Microsoft and OpenAI divorced this week in [&#8230;]",
+    "published_at": "2026-04-30 12:00",
+    "tags": [
+      "AI",
+      "Microsoft",
+      "Notepad",
+      "OpenAI",
+      "Tech"
+    ],
+    "fetch_date": "2026-05-01",
     "fetch_label": "晚报"
   },
   {

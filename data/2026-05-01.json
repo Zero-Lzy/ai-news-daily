@@ -260,6 +260,288 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-05-01 21:21:25",
+      "count": 24,
+      "articles": [
+        {
+          "title": "Top AI Companies Agree to Pentagon Deals for Classified Work",
+          "url": "https://www.wsj.com/tech/ai/top-ai-companies-agree-to-pentagon-deals-for-classified-work-9c621e78",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wsj.com/tech/ai/top-ai-companies-agree-to-pentagon-deals-for-classified-work-9c621e78 Comments URL: https://news.ycombinator.com/item?id=47974475 Points: 1 # Comments: 1",
+          "published_at": "2026-05-01 13:17",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: How do you feel about AI assisted blogging?",
+          "url": "https://news.ycombinator.com/item?id=47974256",
+          "source": "Hacker News AI",
+          "summary": "How do you feel when you learn someone has been using AI heavily to help them write? Setting aside English as a second language.My knee-jerk is to find it disappointing. But maybe I’m missing some nuance. And I don’t have the same negative reaction to AI coding.But if you’re going to ask me to read a blog article, I don’t quite enjoy it when it’s not in your own words. I want to be in conversation with you, not you intermediated through an LLM.While I don’t particularly care about a bit of LLM s",
+          "published_at": "2026-05-01 12:56",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Stanzio, AI presentation tool that designs each slide as real HTML",
+          "url": "https://stanzio.fly.dev/",
+          "source": "Hacker News AI",
+          "summary": "Given that PowerPoint's format doesn't play well with LLMs, I built a tool that generates presentations as real HTML instead. Think Lovable but for slides. Would love to hear what you think :) Comments URL: https://news.ycombinator.com/item?id=47974235 Points: 1 # Comments: 0",
+          "published_at": "2026-05-01 12:54",
+          "tags": []
+        },
+        {
+          "title": "An AI reasoning system just discovered a candidate universal law in astrophysics",
+          "url": "https://blankline.org/research/universal-bimodal-drift-rate",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blankline.org/research/universal-bimodal-drift-rate Comments URL: https://news.ycombinator.com/item?id=47974218 Points: 1 # Comments: 1",
+          "published_at": "2026-05-01 12:52",
+          "tags": []
+        },
+        {
+          "title": "Coverage-guided and grammar-aware and LLM fuzzing finds 100 compiler bugs",
+          "url": "https://nowarp.io/blog/compiler-testing-part-1/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://nowarp.io/blog/compiler-testing-part-1/ Comments URL: https://news.ycombinator.com/item?id=47974089 Points: 1 # Comments: 1",
+          "published_at": "2026-05-01 12:38",
+          "tags": []
+        },
+        {
+          "title": "So, About That AI Bubble",
+          "url": "https://www.theatlantic.com/economy/2026/05/ai-bubble-revenue-anthropic/687022/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theatlantic.com/economy/2026/05/ai-bubble-revenue-anthropic/687022/ Comments URL: https://news.ycombinator.com/item?id=47973544 Points: 2 # Comments: 0",
+          "published_at": "2026-05-01 11:31",
+          "tags": []
+        },
+        {
+          "title": "The AI Jailbreakers",
+          "url": "https://www.theguardian.com/technology/2026/apr/29/meet-the-ai-jailbreakers-i-see-the-worst-things-humanity-has-produced",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/29/meet-the-ai-jailbreakers-i-see-the-worst-things-humanity-has-produced Comments URL: https://news.ycombinator.com/item?id=47973206 Points: 1 # Comments: 0",
+          "published_at": "2026-05-01 10:43",
+          "tags": []
+        },
+        {
+          "title": "Chinese Courts Rule Companies Cannot Fire Workers Simply to Replace Them with AI",
+          "url": "https://www.caixinglobal.com/2026-04-30/chinese-courts-rule-companies-cannot-fire-workers-simply-to-replace-them-with-ai-102439602.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.caixinglobal.com/2026-04-30/chinese-courts-rule-companies-cannot-fire-workers-simply-to-replace-them-with-ai-102439602.html Comments URL: https://news.ycombinator.com/item?id=47972831 Points: 5 # Comments: 1",
+          "published_at": "2026-05-01 09:42",
+          "tags": []
+        },
+        {
+          "title": "Meta Just Killed Open-Source AI",
+          "url": "https://www.utkarshapoorva.com/writing/meta-llama-trap/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.utkarshapoorva.com/writing/meta-llama-trap/ Comments URL: https://news.ycombinator.com/item?id=47972744 Points: 2 # Comments: 0",
+          "published_at": "2026-05-01 09:27",
+          "tags": []
+        },
+        {
+          "title": "Xmemory: Benchmarking Structured AI Memory Against RAG and Hybrid RAG",
+          "url": "https://arxiv.org/abs/2604.27906",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2604.27906 Comments URL: https://news.ycombinator.com/item?id=47972683 Points: 4 # Comments: 0",
+          "published_at": "2026-05-01 09:15",
+          "tags": []
+        },
+        {
+          "title": "Ubuntu is going all in on Generative AI and other Linux distros might follow",
+          "url": "https://www.neowin.net/news/ubuntu-is-going-all-in-on-generative-ai-and-other-linux-distros-might-follow/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.neowin.net/news/ubuntu-is-going-all-in-on-generative-ai-and-other-linux-distros-might-follow/ Comments URL: https://news.ycombinator.com/item?id=47972608 Points: 2 # Comments: 0",
+          "published_at": "2026-05-01 08:59",
+          "tags": []
+        },
+        {
+          "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+          "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+          "source": "TechCrunch AI",
+          "summary": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
+          "published_at": "2026-05-01 02:00",
+          "tags": [
+            "AI",
+            "Apps",
+            "OpenAI",
+            "ChatGPT",
+            "ChatGPT Images 2.0",
+            "ChatGPT Images"
+          ]
+        },
+        {
+          "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+          "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
+          "published_at": "2026-04-30 23:07",
+          "tags": [
+            "AI",
+            "Venture",
+            "Anthropic",
+            "Exclusive",
+            "megarounds"
+          ]
+        },
+        {
+          "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
+          "url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
+          "source": "TechCrunch AI",
+          "summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
+          "published_at": "2026-04-30 20:14",
+          "tags": [
+            "AI",
+            "Startups",
+            "Harvey",
+            "jude law",
+            "legal tech",
+            "legora",
+            "nventures",
+            "nvidia"
+          ]
+        },
+        {
+          "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
+          "url": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
+          "source": "TechCrunch AI",
+          "summary": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
+          "published_at": "2026-04-30 18:03",
+          "tags": [
+            "AI",
+            "AI training",
+            "distillation",
+            "Elon Musk",
+            "Grok",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
+          "url": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/",
+          "source": "TechCrunch AI",
+          "summary": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red tape.",
+          "published_at": "2026-04-30 17:53",
+          "tags": [
+            "AI",
+            "Startups",
+            "BioticsAI",
+            "Build Mode",
+            "Build Mode Video",
+            "Startup Battlefield",
+            "startup battlefield winner"
+          ]
+        },
+        {
+          "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
+          "url": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/",
+          "source": "TechCrunch AI",
+          "summary": "The move signals Google’s push to bring more advanced, conversational AI into the driving experience.",
+          "published_at": "2026-04-30 17:46",
+          "tags": [
+            "AI",
+            "Transportation",
+            "gemini",
+            "Generative AI",
+            "Google",
+            "google cars",
+            "Vehicles"
+          ]
+        },
+        {
+          "title": "X announces a rebuilt ad platform powered by AI",
+          "url": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/",
+          "source": "TechCrunch AI",
+          "summary": "X is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again.",
+          "published_at": "2026-04-30 15:14",
+          "tags": [
+            "AI",
+            "Apps",
+            "Social",
+            "Adtech",
+            "advertising",
+            "X",
+            "xAI"
+          ]
+        },
+        {
+          "title": "Meta is running get-rich-quick ads for its AI tools",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/915970/meta-manus-ai-ads-website-slop",
+          "source": "The Verge AI",
+          "summary": "Manus, an AI company Meta acquired for $2 billion last year is running ads promising quick, easy money with AI: Find local businesses without websites or with bad websites, have AI build them one, then call them up and sell it to them. As part of the campaign, Manus was paying content creators to build [&#8230;]",
+          "published_at": "2026-04-30 12:48",
+          "tags": [
+            "AI",
+            "Meta",
+            "Report",
+            "Social Media",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Here&#8217;s how the new Microsoft and OpenAI deal breaks down",
+          "url": "https://www.theverge.com/tech/921210/microsoft-openai-partnership-divorce-notepad",
+          "source": "The Verge AI",
+          "summary": "Microsoft's relationship with OpenAI has always been complicated, so I expected the close partnership-turned-situationship to end in tears. After all, executive disagreements, rearranged contracts, and frustrations over AI infrastructure have all regularly been part of the partnership, creating plenty of tension along the way. But against all odds, Microsoft and OpenAI divorced this week in [&#8230;]",
+          "published_at": "2026-04-30 12:00",
+          "tags": [
+            "AI",
+            "Microsoft",
+            "Notepad",
+            "OpenAI",
+            "Tech"
+          ]
+        },
+        {
+          "title": "OpenAI talks about not talking about goblins",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/921181/openai-codex-goblins",
+          "source": "The Verge AI",
+          "summary": "OpenAI is opening up about its goblin problem. After a report from Wired revealed instructions to OpenAI's coding model to \"never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures,\" the AI startup published an explanation on its website, calling references to the creatures a \"strange habit\" its models developed as [&#8230;]",
+          "published_at": "2026-04-30 09:42",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
+          "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+          "source": "TechCrunch AI",
+          "summary": "You need infrastructure to build AI and robots, but apparently you also need AI and robots to build infrastructure.",
+          "published_at": "2026-04-30 03:58",
+          "tags": [
+            "AI",
+            "In Brief",
+            "robots",
+            "Softbank"
+          ]
+        },
+        {
+          "title": "Amazon’s cloud business is surging — and so is its capital spending",
+          "url": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
+          "source": "TechCrunch AI",
+          "summary": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.",
+          "published_at": "2026-04-30 00:14",
+          "tags": [
+            "AI",
+            "Amazon",
+            "Andy Jassy",
+            "AWS"
+          ]
+        },
+        {
+          "title": "Meta is still burning money on AR/VR",
+          "url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
+          "source": "TechCrunch AI",
+          "summary": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
+          "published_at": "2026-04-29 23:58",
+          "tags": [
+            "AI",
+            "ar/vr",
+            "Meta"
+          ]
+        }
+      ]
     }
   ]
 }
