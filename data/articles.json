@@ -1,5 +1,223 @@
 [
   {
+    "title": "I made a weird AI kids app (Little Chicken)",
+    "url": "https://apps.apple.com/us/app/kids-games-fun-little-chicken/id6759822036",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://apps.apple.com/us/app/kids-games-fun-little-chicken/id6759822036 Comments URL: https://news.ycombinator.com/item?id=47970860 Points: 1 # Comments: 0",
+    "published_at": "2026-05-01 02:55",
+    "tags": [],
+    "fetch_date": "2026-05-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Cursor's 'Rogue' AI agent goes haywire, deletes company's database [video]",
+    "url": "https://www.youtube.com/watch?v=XBVoLSXaAHA",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=XBVoLSXaAHA Comments URL: https://news.ycombinator.com/item?id=47970851 Points: 2 # Comments: 2",
+    "published_at": "2026-05-01 02:54",
+    "tags": [],
+    "fetch_date": "2026-05-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Enabling privacy-preserving AI training on everyday devices",
+    "url": "https://news.mit.edu/2026/enabling-privacy-preserving-ai-training-everyday-devices-0429",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://news.mit.edu/2026/enabling-privacy-preserving-ai-training-everyday-devices-0429 Comments URL: https://news.ycombinator.com/item?id=47970405 Points: 2 # Comments: 0",
+    "published_at": "2026-05-01 01:31",
+    "tags": [],
+    "fetch_date": "2026-05-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "State of the AI Frontier, April 2026",
+    "url": "https://gertlabs.com/blog/state-of-frontier-april-2026",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://gertlabs.com/blog/state-of-frontier-april-2026 Comments URL: https://news.ycombinator.com/item?id=47970396 Points: 6 # Comments: 1",
+    "published_at": "2026-05-01 01:30",
+    "tags": [],
+    "fetch_date": "2026-05-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Status (Mac App)| FOSS",
+    "url": "https://github.com/Jaecobd1/ai-status",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/Jaecobd1/ai-status Comments URL: https://news.ycombinator.com/item?id=47970224 Points: 2 # Comments: 0",
+    "published_at": "2026-05-01 00:57",
+    "tags": [],
+    "fetch_date": "2026-05-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "What We're Missing About Generative AI",
+    "url": "https://onlinelibrary.wiley.com/doi/10.1155/hbe2/2320511",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://onlinelibrary.wiley.com/doi/10.1155/hbe2/2320511 Comments URL: https://news.ycombinator.com/item?id=47970215 Points: 2 # Comments: 0",
+    "published_at": "2026-05-01 00:55",
+    "tags": [],
+    "fetch_date": "2026-05-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: LLM-Powered News –> Event Map, Timeline, and Analysis",
+    "url": "https://conflictintelligence.ai/",
+    "source": "Hacker News AI",
+    "summary": "Been working on this for a few months, since the day the USA hit Iran. It started out as a simple OSS conflict monitor of which many were popping up at the time, but it developed into an entirely domain-agnostic pipeline which extracts claims + evidence, synthesizes events, and maps them on a timeline. It also attributes actors, relates events to each other, and contributes analysis.There are a lot of features under the hood that I'm not sure what to do with yet - various contextual analyses, a ",
+    "published_at": "2026-05-01 00:48",
+    "tags": [],
+    "fetch_date": "2026-05-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "LLM Quantization",
+    "url": "https://huggingface.co/docs/transformers/main_classes/quantization",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://huggingface.co/docs/transformers/main_classes/quantization Comments URL: https://news.ycombinator.com/item?id=47969848 Points: 1 # Comments: 0",
+    "published_at": "2026-04-30 23:54",
+    "tags": [],
+    "fetch_date": "2026-05-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Chinese Courts Rule Companies Cannot Fire Workers Simply to Replace Them with AI",
+    "url": "https://www.caixinglobal.com/2026-04-30/chinese-courts-rule-companies-cannot-fire-workers-simply-to-replace-them-with-ai-1024",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.caixinglobal.com/2026-04-30/chinese-courts-rule-companies-cannot-fire-workers-simply-to-replace-them-with-ai-1024 Comments URL: https://news.ycombinator.com/item?id=47969733 Points: 6 # Comments: 1",
+    "published_at": "2026-04-30 23:37",
+    "tags": [],
+    "fetch_date": "2026-05-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "In Musk vs. Altman case, judge warns lawyers that AI itself is not on trial",
+    "url": "https://www.nbcnews.com/tech/tech-news/elon-musk-testimony-day-three-sam-altman-openai-trial-rcna342967",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/elon-musk-testimony-day-three-sam-altman-openai-trial-rcna342967 Comments URL: https://news.ycombinator.com/item?id=47969589 Points: 1 # Comments: 0",
+    "published_at": "2026-04-30 23:21",
+    "tags": [],
+    "fetch_date": "2026-05-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Onyx Pro, a local desktop utility for resetting AI IDE trial state",
+    "url": "https://getonyxpro.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://getonyxpro.com Comments URL: https://news.ycombinator.com/item?id=47969523 Points: 1 # Comments: 0",
+    "published_at": "2026-04-30 23:15",
+    "tags": [],
+    "fetch_date": "2026-05-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask HN: Local or Cloud -based AI?",
+    "url": "https://news.ycombinator.com/item?id=47969476",
+    "source": "Hacker News AI",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=47969476 Points: 1 # Comments: 0",
+    "published_at": "2026-04-30 23:10",
+    "tags": [],
+    "fetch_date": "2026-05-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+    "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+    "source": "TechCrunch AI",
+    "summary": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
+    "published_at": "2026-04-30 23:07",
+    "tags": [
+      "AI",
+      "Venture",
+      "Anthropic",
+      "Exclusive",
+      "megarounds"
+    ],
+    "fetch_date": "2026-05-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI discovery reveals DNA isn’t locked away in cells after all",
+    "url": "https://gladstone.org/news/ai-discovery-reveals-dna-isnt-locked-away-cells-after-all",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://gladstone.org/news/ai-discovery-reveals-dna-isnt-locked-away-cells-after-all Comments URL: https://news.ycombinator.com/item?id=47969258 Points: 18 # Comments: 6",
+    "published_at": "2026-04-30 22:45",
+    "tags": [],
+    "fetch_date": "2026-05-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
+    "url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
+    "source": "TechCrunch AI",
+    "summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
+    "published_at": "2026-04-30 20:14",
+    "tags": [
+      "AI",
+      "Startups",
+      "Harvey",
+      "jude law",
+      "legal tech",
+      "legora",
+      "nventures",
+      "nvidia"
+    ],
+    "fetch_date": "2026-05-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
+    "url": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
+    "source": "TechCrunch AI",
+    "summary": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
+    "published_at": "2026-04-30 18:03",
+    "tags": [
+      "AI",
+      "AI training",
+      "distillation",
+      "Elon Musk",
+      "Grok",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-05-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
+    "url": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/",
+    "source": "TechCrunch AI",
+    "summary": "The move signals Google’s push to bring more advanced, conversational AI into the driving experience.",
+    "published_at": "2026-04-30 17:46",
+    "tags": [
+      "AI",
+      "Transportation",
+      "gemini",
+      "Generative AI",
+      "Google",
+      "google cars",
+      "Vehicles"
+    ],
+    "fetch_date": "2026-05-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "X announces a rebuilt ad platform powered by AI",
+    "url": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/",
+    "source": "TechCrunch AI",
+    "summary": "X is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again.",
+    "published_at": "2026-04-30 15:14",
+    "tags": [
+      "AI",
+      "Apps",
+      "Social",
+      "Adtech",
+      "advertising",
+      "X",
+      "xAI"
+    ],
+    "fetch_date": "2026-05-01",
+    "fetch_label": "早报"
+  },
+  {
     "title": "The cost of Google's AI defaults and the illusion of choice",
     "url": "https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/",
     "source": "Hacker News AI",
@@ -88,6 +306,22 @@
     "tags": [],
     "fetch_date": "2026-04-30",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Meta is running get-rich-quick ads for its AI tools",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/915970/meta-manus-ai-ads-website-slop",
+    "source": "The Verge AI",
+    "summary": "Manus, an AI company Meta acquired for $2 billion last year is running ads promising quick, easy money with AI: Find local businesses without websites or with bad websites, have AI build them one, then call them up and sell it to them. As part of the campaign, Manus was paying content creators to build [&#8230;]",
+    "published_at": "2026-04-30 12:48",
+    "tags": [
+      "AI",
+      "Meta",
+      "Report",
+      "Social Media",
+      "Tech"
+    ],
+    "fetch_date": "2026-05-01",
+    "fetch_label": "早报"
   },
   {
     "title": "The 2026 AI Index Report",
