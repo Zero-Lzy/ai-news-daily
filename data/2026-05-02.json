@@ -227,6 +227,191 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-05-02 21:14:46",
+      "count": 18,
+      "articles": [
+        {
+          "title": "The AI supply crunch is here",
+          "url": "https://www.economist.com/leaders/2026/04/30/the-ai-supply-crunch-is-here",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.economist.com/leaders/2026/04/30/the-ai-supply-crunch-is-here Comments URL: https://news.ycombinator.com/item?id=47986087 Points: 1 # Comments: 0",
+          "published_at": "2026-05-02 13:08",
+          "tags": []
+        },
+        {
+          "title": "I Just Launched the AI Pledge for Humanity. Here's Why",
+          "url": "https://scottsantens.substack.com/p/i-just-launched-the-ai-pledge-for",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://scottsantens.substack.com/p/i-just-launched-the-ai-pledge-for Comments URL: https://news.ycombinator.com/item?id=47985976 Points: 1 # Comments: 3",
+          "published_at": "2026-05-02 12:51",
+          "tags": []
+        },
+        {
+          "title": "David Bessis on AI destroying mathematics",
+          "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy Comments URL: https://news.ycombinator.com/item?id=47985962 Points: 1 # Comments: 0",
+          "published_at": "2026-05-02 12:48",
+          "tags": []
+        },
+        {
+          "title": "AI Cyberattacks Meet Memory-Safe Code Defenses",
+          "url": "https://spectrum.ieee.org/ai-cyberattacks-memory-safe-code",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://spectrum.ieee.org/ai-cyberattacks-memory-safe-code Comments URL: https://news.ycombinator.com/item?id=47985890 Points: 1 # Comments: 0",
+          "published_at": "2026-05-02 12:38",
+          "tags": []
+        },
+        {
+          "title": "I'm building a pool logging and AI app. What would make this genuinely useful?",
+          "url": "https://poolquant.com",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://poolquant.com Comments URL: https://news.ycombinator.com/item?id=47985799 Points: 1 # Comments: 0",
+          "published_at": "2026-05-02 12:23",
+          "tags": []
+        },
+        {
+          "title": "When generative AI makes mistakes, are they the same as human errors?",
+          "url": "https://link.springer.com/article/10.1007/s13347-026-01056-x",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://link.springer.com/article/10.1007/s13347-026-01056-x Comments URL: https://news.ycombinator.com/item?id=47985788 Points: 1 # Comments: 1",
+          "published_at": "2026-05-02 12:22",
+          "tags": []
+        },
+        {
+          "title": "Herbert Simon in 1979: on AI and robotics [video]",
+          "url": "https://www.youtube.com/watch?v=p5c9ns0oeZg",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=p5c9ns0oeZg Comments URL: https://news.ycombinator.com/item?id=47985711 Points: 1 # Comments: 0",
+          "published_at": "2026-05-02 12:09",
+          "tags": []
+        },
+        {
+          "title": "Quantization for Modern AI Systems (70-page free eBook)",
+          "url": "https://pawankjha.substack.com/p/my-new-ebook-free-download-quantization",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://pawankjha.substack.com/p/my-new-ebook-free-download-quantization Comments URL: https://news.ycombinator.com/item?id=47985687 Points: 2 # Comments: 0",
+          "published_at": "2026-05-02 12:06",
+          "tags": []
+        },
+        {
+          "title": "Minnesota passes ban on fake AI nudes; app makers risk $500K fines",
+          "url": "https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/ Comments URL: https://news.ycombinator.com/item?id=47985613 Points: 3 # Comments: 1",
+          "published_at": "2026-05-02 11:55",
+          "tags": []
+        },
+        {
+          "title": "A New Mental Model for Work in the AI Age",
+          "url": "https://dalehurley.com/posts/newmentalmodelforworkintheaiage/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://dalehurley.com/posts/newmentalmodelforworkintheaiage/ Comments URL: https://news.ycombinator.com/item?id=47985600 Points: 1 # Comments: 2",
+          "published_at": "2026-05-02 11:53",
+          "tags": []
+        },
+        {
+          "title": "Architecting AI Compute (Part 1)",
+          "url": "https://pawankjha.substack.com/p/architecting-ai-compute-part-1-the",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://pawankjha.substack.com/p/architecting-ai-compute-part-1-the Comments URL: https://news.ycombinator.com/item?id=47985484 Points: 1 # Comments: 0",
+          "published_at": "2026-05-02 11:35",
+          "tags": []
+        },
+        {
+          "title": "WebLLM is a high-performance in-browser LLM inference engine",
+          "url": "https://github.com/mlc-ai/web-llm",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/mlc-ai/web-llm Comments URL: https://news.ycombinator.com/item?id=47985332 Points: 1 # Comments: 0",
+          "published_at": "2026-05-02 11:08",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
+          "url": "https://mljar.com/",
+          "source": "Hacker News AI",
+          "summary": "Hi HN,I’ve been working on mljar-supervised (open-source AutoML for tabular data) for a few years. Recently I built a desktop app around it called MLJAR Studio.The idea is simple: you talk to your data in natural language, the AI generates Python code, executes it locally, and the whole conversation becomes a reproducible notebook (*.ipynb file). So instead of just chatting with data, you end up with something you can inspect, modify, and rerun.What MLJAR Studio does:- Sets up a local Python env",
+          "published_at": "2026-05-02 10:21",
+          "tags": []
+        },
+        {
+          "title": "The AI Race Is Charged by the Fear of Being Left Behind",
+          "url": "https://thewalrus.ca/the-ai-race-is-charged-by-the-fear-of-being-left-behind/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://thewalrus.ca/the-ai-race-is-charged-by-the-fear-of-being-left-behind/ Comments URL: https://news.ycombinator.com/item?id=47984998 Points: 9 # Comments: 2",
+          "published_at": "2026-05-02 10:06",
+          "tags": []
+        },
+        {
+          "title": "Apple just gave a clue that a big AI acquisition may be in the cards",
+          "url": "https://www.marketwatch.com/story/apple-just-gave-a-subtle-clue-that-a-splashy-ai-acquisition-may-be-in-the-cards-110f5ce2?mod=home_lead",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.marketwatch.com/story/apple-just-gave-a-subtle-clue-that-a-splashy-ai-acquisition-may-be-in-the-cards-110f5ce2?mod=home_lead Comments URL: https://news.ycombinator.com/item?id=47984913 Points: 1 # Comments: 0",
+          "published_at": "2026-05-02 09:45",
+          "tags": []
+        },
+        {
+          "title": "Musk v. Altman is just getting started",
+          "url": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+          "source": "TechCrunch AI",
+          "summary": "Elon Musk spent the better part of three days&#160;on the witness stand&#160;this week&#160;in his lawsuit against OpenAI, and&#160;it&#8217;s&#160;already getting messy. Emails, texts, and&#160;his own tweets&#160;are surfacing in court, and there are plenty more witnesses to come. Musk&#8217;s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the [&#8230;]",
+          "published_at": "2026-05-01 14:00",
+          "tags": [
+            "AI",
+            "Startups",
+            "Acquisitions",
+            "ai infrastructure",
+            "Amazon",
+            "big tech earnings",
+            "Elon Musk",
+            "Google",
+            "Meta",
+            "Microsoft",
+            "military AI",
+            "OpenAI",
+            "sallie mae",
+            "sam altman",
+            "Scout AI"
+          ]
+        },
+        {
+          "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
+          "source": "The Verge AI",
+          "summary": "The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according to an announcement on Friday. At the same time, the Defense Department has left out Anthropic - which it previously used for classified information - [&#8230;]",
+          "published_at": "2026-05-01 10:09",
+          "tags": [
+            "AI",
+            "Amazon",
+            "Google",
+            "Microsoft",
+            "News",
+            "Nvidia",
+            "OpenAI",
+            "Policy",
+            "Politics",
+            "Tech",
+            "xAI"
+          ]
+        },
+        {
+          "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+          "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
+          "published_at": "2026-04-30 23:07",
+          "tags": [
+            "AI",
+            "Venture",
+            "Anthropic",
+            "Exclusive",
+            "megarounds"
+          ]
+        }
+      ]
     }
   ]
 }

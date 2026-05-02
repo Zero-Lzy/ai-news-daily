@@ -1,5 +1,155 @@
 [
   {
+    "title": "The AI supply crunch is here",
+    "url": "https://www.economist.com/leaders/2026/04/30/the-ai-supply-crunch-is-here",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.economist.com/leaders/2026/04/30/the-ai-supply-crunch-is-here Comments URL: https://news.ycombinator.com/item?id=47986087 Points: 1 # Comments: 0",
+    "published_at": "2026-05-02 13:08",
+    "tags": [],
+    "fetch_date": "2026-05-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "I Just Launched the AI Pledge for Humanity. Here's Why",
+    "url": "https://scottsantens.substack.com/p/i-just-launched-the-ai-pledge-for",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://scottsantens.substack.com/p/i-just-launched-the-ai-pledge-for Comments URL: https://news.ycombinator.com/item?id=47985976 Points: 1 # Comments: 3",
+    "published_at": "2026-05-02 12:51",
+    "tags": [],
+    "fetch_date": "2026-05-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "David Bessis on AI destroying mathematics",
+    "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy Comments URL: https://news.ycombinator.com/item?id=47985962 Points: 1 # Comments: 0",
+    "published_at": "2026-05-02 12:48",
+    "tags": [],
+    "fetch_date": "2026-05-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Cyberattacks Meet Memory-Safe Code Defenses",
+    "url": "https://spectrum.ieee.org/ai-cyberattacks-memory-safe-code",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://spectrum.ieee.org/ai-cyberattacks-memory-safe-code Comments URL: https://news.ycombinator.com/item?id=47985890 Points: 1 # Comments: 0",
+    "published_at": "2026-05-02 12:38",
+    "tags": [],
+    "fetch_date": "2026-05-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "I'm building a pool logging and AI app. What would make this genuinely useful?",
+    "url": "https://poolquant.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://poolquant.com Comments URL: https://news.ycombinator.com/item?id=47985799 Points: 1 # Comments: 0",
+    "published_at": "2026-05-02 12:23",
+    "tags": [],
+    "fetch_date": "2026-05-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "When generative AI makes mistakes, are they the same as human errors?",
+    "url": "https://link.springer.com/article/10.1007/s13347-026-01056-x",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://link.springer.com/article/10.1007/s13347-026-01056-x Comments URL: https://news.ycombinator.com/item?id=47985788 Points: 1 # Comments: 1",
+    "published_at": "2026-05-02 12:22",
+    "tags": [],
+    "fetch_date": "2026-05-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Herbert Simon in 1979: on AI and robotics [video]",
+    "url": "https://www.youtube.com/watch?v=p5c9ns0oeZg",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=p5c9ns0oeZg Comments URL: https://news.ycombinator.com/item?id=47985711 Points: 1 # Comments: 0",
+    "published_at": "2026-05-02 12:09",
+    "tags": [],
+    "fetch_date": "2026-05-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Quantization for Modern AI Systems (70-page free eBook)",
+    "url": "https://pawankjha.substack.com/p/my-new-ebook-free-download-quantization",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://pawankjha.substack.com/p/my-new-ebook-free-download-quantization Comments URL: https://news.ycombinator.com/item?id=47985687 Points: 2 # Comments: 0",
+    "published_at": "2026-05-02 12:06",
+    "tags": [],
+    "fetch_date": "2026-05-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Minnesota passes ban on fake AI nudes; app makers risk $500K fines",
+    "url": "https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/ Comments URL: https://news.ycombinator.com/item?id=47985613 Points: 3 # Comments: 1",
+    "published_at": "2026-05-02 11:55",
+    "tags": [],
+    "fetch_date": "2026-05-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "A New Mental Model for Work in the AI Age",
+    "url": "https://dalehurley.com/posts/newmentalmodelforworkintheaiage/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://dalehurley.com/posts/newmentalmodelforworkintheaiage/ Comments URL: https://news.ycombinator.com/item?id=47985600 Points: 1 # Comments: 2",
+    "published_at": "2026-05-02 11:53",
+    "tags": [],
+    "fetch_date": "2026-05-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Architecting AI Compute (Part 1)",
+    "url": "https://pawankjha.substack.com/p/architecting-ai-compute-part-1-the",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://pawankjha.substack.com/p/architecting-ai-compute-part-1-the Comments URL: https://news.ycombinator.com/item?id=47985484 Points: 1 # Comments: 0",
+    "published_at": "2026-05-02 11:35",
+    "tags": [],
+    "fetch_date": "2026-05-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "WebLLM is a high-performance in-browser LLM inference engine",
+    "url": "https://github.com/mlc-ai/web-llm",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/mlc-ai/web-llm Comments URL: https://news.ycombinator.com/item?id=47985332 Points: 1 # Comments: 0",
+    "published_at": "2026-05-02 11:08",
+    "tags": [],
+    "fetch_date": "2026-05-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
+    "url": "https://mljar.com/",
+    "source": "Hacker News AI",
+    "summary": "Hi HN,I’ve been working on mljar-supervised (open-source AutoML for tabular data) for a few years. Recently I built a desktop app around it called MLJAR Studio.The idea is simple: you talk to your data in natural language, the AI generates Python code, executes it locally, and the whole conversation becomes a reproducible notebook (*.ipynb file). So instead of just chatting with data, you end up with something you can inspect, modify, and rerun.What MLJAR Studio does:- Sets up a local Python env",
+    "published_at": "2026-05-02 10:21",
+    "tags": [],
+    "fetch_date": "2026-05-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The AI Race Is Charged by the Fear of Being Left Behind",
+    "url": "https://thewalrus.ca/the-ai-race-is-charged-by-the-fear-of-being-left-behind/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://thewalrus.ca/the-ai-race-is-charged-by-the-fear-of-being-left-behind/ Comments URL: https://news.ycombinator.com/item?id=47984998 Points: 9 # Comments: 2",
+    "published_at": "2026-05-02 10:06",
+    "tags": [],
+    "fetch_date": "2026-05-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Apple just gave a clue that a big AI acquisition may be in the cards",
+    "url": "https://www.marketwatch.com/story/apple-just-gave-a-subtle-clue-that-a-splashy-ai-acquisition-may-be-in-the-cards-110f5ce2?mod=home_lead",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.marketwatch.com/story/apple-just-gave-a-subtle-clue-that-a-splashy-ai-acquisition-may-be-in-the-cards-110f5ce2?mod=home_lead Comments URL: https://news.ycombinator.com/item?id=47984913 Points: 1 # Comments: 0",
+    "published_at": "2026-05-02 09:45",
+    "tags": [],
+    "fetch_date": "2026-05-02",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Sam Altman says OpenAI doesn't want to replace you with AI",
     "url": "https://www.neowin.net/news/sam-altman-says-that-openai-doesnt-want-to-replace-you-with-ai/",
     "source": "Hacker News AI",
@@ -173,6 +323,28 @@
     "published_at": "2026-05-01 10:43",
     "tags": [],
     "fetch_date": "2026-05-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
+    "source": "The Verge AI",
+    "summary": "The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according to an announcement on Friday. At the same time, the Defense Department has left out Anthropic - which it previously used for classified information - [&#8230;]",
+    "published_at": "2026-05-01 10:09",
+    "tags": [
+      "AI",
+      "Amazon",
+      "Google",
+      "Microsoft",
+      "News",
+      "Nvidia",
+      "OpenAI",
+      "Policy",
+      "Politics",
+      "Tech",
+      "xAI"
+    ],
+    "fetch_date": "2026-05-02",
     "fetch_label": "晚报"
   },
   {
