@@ -1,5 +1,145 @@
 [
   {
+    "title": "Fun, open-source AI transparency project",
+    "url": "https://github.com/realalonw/agent-receipts",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/realalonw/agent-receipts Comments URL: https://news.ycombinator.com/item?id=47992816 Points: 1 # Comments: 1",
+    "published_at": "2026-05-03 02:44",
+    "tags": [],
+    "fetch_date": "2026-05-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI, Intimacy, and the Data You Never Meant to Share",
+    "url": "https://fshot.org/techzone/the-algorithm-knows.php",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://fshot.org/techzone/the-algorithm-knows.php Comments URL: https://news.ycombinator.com/item?id=47992802 Points: 1 # Comments: 0",
+    "published_at": "2026-05-03 02:42",
+    "tags": [],
+    "fetch_date": "2026-05-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The AI workflow I use to build apps",
+    "url": "https://juanmanuelalloron.com/post/my-current-ai-workflow-for-building-apps/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://juanmanuelalloron.com/post/my-current-ai-workflow-for-building-apps/ Comments URL: https://news.ycombinator.com/item?id=47992665 Points: 1 # Comments: 0",
+    "published_at": "2026-05-03 02:14",
+    "tags": [],
+    "fetch_date": "2026-05-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "US Navy signs deal with AI firm for training underwater drones",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-navy-signs-deal-with-ai-firm-for-training-underwater-drones-to-detect-mines-in-strait-of-hormuz-usd100-million-would-allow-drone-minesweepers-to-update-their-detection-algorithms-in-days-instead-of-months",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/us-navy-signs-deal-with-ai-firm-for-training-underwater-drones-to-detect-mines-in-strait-of-hormuz-usd100-million-would-allow-drone-minesweepers-to-update-their-detection-algorithms-in-days-instead-of-months Comments URL: https://news.ycombinator.com/item?id=47992542 Points: 1 # Comments: 0",
+    "published_at": "2026-05-03 01:52",
+    "tags": [],
+    "fetch_date": "2026-05-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "In real-world test, an AI model did better than doctors at diagnosing patients",
+    "url": "https://www.npr.org/2026/04/30/nx-s1-5804474/ai-doctors-openai-patient-care-diagnosis",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.npr.org/2026/04/30/nx-s1-5804474/ai-doctors-openai-patient-care-diagnosis Comments URL: https://news.ycombinator.com/item?id=47991831 Points: 2 # Comments: 0",
+    "published_at": "2026-05-03 00:06",
+    "tags": [],
+    "fetch_date": "2026-05-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI is locking people out. At Scale",
+    "url": "https://conesible.de/wab/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://conesible.de/wab/ Comments URL: https://news.ycombinator.com/item?id=47991586 Points: 7 # Comments: 0",
+    "published_at": "2026-05-02 23:23",
+    "tags": [],
+    "fetch_date": "2026-05-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "VueBuds integrate low-res cameras and visual AI as a smart glasses alternative",
+    "url": "https://spectrum.ieee.org/smart-earbuds-smart-glasses-privacy",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://spectrum.ieee.org/smart-earbuds-smart-glasses-privacy Comments URL: https://news.ycombinator.com/item?id=47991577 Points: 3 # Comments: 0",
+    "published_at": "2026-05-02 23:21",
+    "tags": [],
+    "fetch_date": "2026-05-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Wrote the Code. Can Your Enterprise Ship It?",
+    "url": "https://stackgen.com/blog/your-ai-wrote-the-code.-can-your-enterprise-actually-ship-it",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://stackgen.com/blog/your-ai-wrote-the-code.-can-your-enterprise-actually-ship-it Comments URL: https://news.ycombinator.com/item?id=47991395 Points: 1 # Comments: 0",
+    "published_at": "2026-05-02 22:51",
+    "tags": [],
+    "fetch_date": "2026-05-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious",
+    "url": "https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/ Comments URL: https://news.ycombinator.com/item?id=47991340 Points: 58 # Comments: 78",
+    "published_at": "2026-05-02 22:44",
+    "tags": [],
+    "fetch_date": "2026-05-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "CISA, NSA & Five Eyes publishes guide on how to safely deploy AI agents",
+    "url": "https://cyberscoop.com/cisa-nsa-five-eyes-guidance-secure-deployment-ai-agents/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://cyberscoop.com/cisa-nsa-five-eyes-guidance-secure-deployment-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=47990574 Points: 3 # Comments: 0",
+    "published_at": "2026-05-02 21:10",
+    "tags": [],
+    "fetch_date": "2026-05-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Rotato – Node.js proxy that rotates LLM API keys on 429 errors",
+    "url": "https://github.com/p32929/rotato",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/p32929/rotato Comments URL: https://news.ycombinator.com/item?id=47990541 Points: 2 # Comments: 0",
+    "published_at": "2026-05-02 21:08",
+    "tags": [],
+    "fetch_date": "2026-05-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Automate Anything with Python and AI",
+    "url": "https://codeonix.app/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://codeonix.app/ Comments URL: https://news.ycombinator.com/item?id=47990319 Points: 1 # Comments: 0",
+    "published_at": "2026-05-02 20:46",
+    "tags": [],
+    "fetch_date": "2026-05-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "English councils to trial Google AI tool to speed up planning decisions",
+    "url": "https://www.ft.com/content/91ce4475-d325-4d65-babb-4214996bc0f6",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.ft.com/content/91ce4475-d325-4d65-babb-4214996bc0f6 Comments URL: https://news.ycombinator.com/item?id=47989887 Points: 2 # Comments: 1",
+    "published_at": "2026-05-02 19:57",
+    "tags": [],
+    "fetch_date": "2026-05-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+    "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/ Comments URL: https://news.ycombinator.com/item?id=47989767 Points: 4 # Comments: 0",
+    "published_at": "2026-05-02 19:44",
+    "tags": [],
+    "fetch_date": "2026-05-03",
+    "fetch_label": "早报"
+  },
+  {
     "title": "The AI supply crunch is here",
     "url": "https://www.economist.com/leaders/2026/04/30/the-ai-supply-crunch-is-here",
     "source": "Hacker News AI",
