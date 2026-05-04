@@ -1,5 +1,105 @@
 [
   {
+    "title": "Flaws in Kenya's AI-driven health reforms driving up costs for the poorest",
+    "url": "https://www.theguardian.com/global-development/2026/may/04/kenya-ai-healthcare-reforms-driving-up-costs-for-poor",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theguardian.com/global-development/2026/may/04/kenya-ai-healthcare-reforms-driving-up-costs-for-poor Comments URL: https://news.ycombinator.com/item?id=48008803 Points: 1 # Comments: 0",
+    "published_at": "2026-05-04 13:53",
+    "tags": [],
+    "fetch_date": "2026-05-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The AI Governance Gap",
+    "url": "https://news.ycombinator.com/item?id=48008604",
+    "source": "Hacker News AI",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=48008604 Points: 1 # Comments: 2",
+    "published_at": "2026-05-04 13:37",
+    "tags": [],
+    "fetch_date": "2026-05-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Safety layer between AI agents and databases",
+    "url": "https://github.com/fazhq/faz",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/fazhq/faz Comments URL: https://news.ycombinator.com/item?id=48008603 Points: 1 # Comments: 2",
+    "published_at": "2026-05-04 13:37",
+    "tags": [],
+    "fetch_date": "2026-05-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Agent API Grader",
+    "url": "https://saastr.ai/api-report-card",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://saastr.ai/api-report-card Comments URL: https://news.ycombinator.com/item?id=48008261 Points: 2 # Comments: 1",
+    "published_at": "2026-05-04 13:07",
+    "tags": [],
+    "fetch_date": "2026-05-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "How to Improve at Sensemaking AI?",
+    "url": "https://commoncog.com/how-to-improve-at-sensemaking-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://commoncog.com/how-to-improve-at-sensemaking-ai/ Comments URL: https://news.ycombinator.com/item?id=48008142 Points: 2 # Comments: 1",
+    "published_at": "2026-05-04 12:58",
+    "tags": [],
+    "fetch_date": "2026-05-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Fluctuating Accuracy in LLM Responses",
+    "url": "https://news.ycombinator.com/item?id=48008015",
+    "source": "Hacker News AI",
+    "summary": "Dear HN community, I’m brand new here and already feel right at home after just 5 minutes. I have a question for you about my theory:I’m sure you’ve all experienced the wildly fluctuating quality of LLM responses. My theory: During peak times, the operators gradually reduce the depth of processing to take some of the load off the servers. I’ve noticed this a lot with Claude over the past few months. What do you think? Comments URL: https://news.ycombinator.com/item?id=48008015 Points: 3 # Commen",
+    "published_at": "2026-05-04 12:46",
+    "tags": [],
+    "fetch_date": "2026-05-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Train a LLM from Scratch",
+    "url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/raiyanyahya/how-to-train-your-gpt Comments URL: https://news.ycombinator.com/item?id=48007926 Points: 3 # Comments: 1",
+    "published_at": "2026-05-04 12:36",
+    "tags": [],
+    "fetch_date": "2026-05-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: PDF to AI podcast in 9 Indian languages",
+    "url": "https://n8n.io/workflows/15350-generate-two-host-pdf-podcasts-with-gpt-5-smallest-ai-and-gmail/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://n8n.io/workflows/15350-generate-two-host-pdf-podcasts-with-gpt-5-smallest-ai-and-gmail/ Comments URL: https://news.ycombinator.com/item?id=48007874 Points: 3 # Comments: 0",
+    "published_at": "2026-05-04 12:31",
+    "tags": [],
+    "fetch_date": "2026-05-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Next-generation AI for visually occult pancreatic cancer detection",
+    "url": "https://gut.bmj.com/content/early/2026/04/22/gutjnl-2025-337266",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://gut.bmj.com/content/early/2026/04/22/gutjnl-2025-337266 Comments URL: https://news.ycombinator.com/item?id=48007684 Points: 3 # Comments: 0",
+    "published_at": "2026-05-04 12:09",
+    "tags": [],
+    "fetch_date": "2026-05-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Senate Advances Guard Act Targeting AI Chatbots and Minors – Let's Data Science",
+    "url": "https://letsdatascience.com/news/senate-advances-guard-act-targeting-ai-chatbots-and-minors-4e69679f",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://letsdatascience.com/news/senate-advances-guard-act-targeting-ai-chatbots-and-minors-4e69679f Comments URL: https://news.ycombinator.com/item?id=48007594 Points: 2 # Comments: 0",
+    "published_at": "2026-05-04 11:58",
+    "tags": [],
+    "fetch_date": "2026-05-04",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Big Tech cut 80k jobs, blamed AI; experts say firms are overstaffed 25%-75%",
     "url": "https://finance.yahoo.com/sectors/technology/articles/big-tech-cut-80-000-211500038.html",
     "source": "Hacker News AI",
