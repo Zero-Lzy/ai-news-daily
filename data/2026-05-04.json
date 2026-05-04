@@ -1,0 +1,138 @@
+{
+  "date": "2026-05-04",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-05-04 11:34:19",
+      "count": 15,
+      "articles": [
+        {
+          "title": "Big Tech cut 80k jobs, blamed AI; experts say firms are overstaffed 25%-75%",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/big-tech-cut-80-000-211500038.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://finance.yahoo.com/sectors/technology/articles/big-tech-cut-80-000-211500038.html Comments URL: https://news.ycombinator.com/item?id=48004055 Points: 1 # Comments: 0",
+          "published_at": "2026-05-04 02:46",
+          "tags": []
+        },
+        {
+          "title": "Ex-DeepMind David Silver Raises $1.1B for AI Startup Ineffable",
+          "url": "https://www.cnbc.com/2026/04/27/deepmind-ineffable-intelligence-record-seed-funding-nvidia-google.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.cnbc.com/2026/04/27/deepmind-ineffable-intelligence-record-seed-funding-nvidia-google.html Comments URL: https://news.ycombinator.com/item?id=48003934 Points: 1 # Comments: 0",
+          "published_at": "2026-05-04 02:24",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: Do you feel reading AI generated readme tiring?",
+          "url": "https://news.ycombinator.com/item?id=48003871",
+          "source": "Hacker News AI",
+          "summary": "It’s not just this but it’s that. This changes everything. This, and this and that.Reading this writing structure over and over is really starting to tire me out. Comments URL: https://news.ycombinator.com/item?id=48003871 Points: 4 # Comments: 1",
+          "published_at": "2026-05-04 02:13",
+          "tags": []
+        },
+        {
+          "title": "Do AI Detectors Work Well Enough to Trust?",
+          "url": "https://www.chicagobooth.edu/review/do-ai-detectors-work-well-enough-trust",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.chicagobooth.edu/review/do-ai-detectors-work-well-enough-trust Comments URL: https://news.ycombinator.com/item?id=48003026 Points: 2 # Comments: 0",
+          "published_at": "2026-05-04 00:10",
+          "tags": []
+        },
+        {
+          "title": "Know thyself: LLM schema for personal memory",
+          "url": "https://github.com/parrik/know-thyself",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/parrik/know-thyself Comments URL: https://news.ycombinator.com/item?id=48003019 Points: 2 # Comments: 0",
+          "published_at": "2026-05-04 00:09",
+          "tags": []
+        },
+        {
+          "title": "H4ckf0r0day/obscura: The headless browser for AI agents and web scraping",
+          "url": "https://github.com/h4ckf0r0day/obscura",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/h4ckf0r0day/obscura Comments URL: https://news.ycombinator.com/item?id=48002523 Points: 4 # Comments: 3",
+          "published_at": "2026-05-03 23:03",
+          "tags": []
+        },
+        {
+          "title": "Next-Token Predictor Is An AI's Job, Not Its Species",
+          "url": "https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job Comments URL: https://news.ycombinator.com/item?id=48002072 Points: 2 # Comments: 0",
+          "published_at": "2026-05-03 22:07",
+          "tags": []
+        },
+        {
+          "title": "Sato – AI desktop companion for macOS with multi-provider support",
+          "url": "https://www.sato.host/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.sato.host/ Comments URL: https://news.ycombinator.com/item?id=48001985 Points: 2 # Comments: 0",
+          "published_at": "2026-05-03 21:58",
+          "tags": []
+        },
+        {
+          "title": "Building a daily AI news brief in 325 lines of Python",
+          "url": "https://gist.github.com/Agentic-Intel/33fa978b281667bf0852d33f146c4528",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://gist.github.com/Agentic-Intel/33fa978b281667bf0852d33f146c4528 Comments URL: https://news.ycombinator.com/item?id=48001767 Points: 1 # Comments: 0",
+          "published_at": "2026-05-03 21:35",
+          "tags": []
+        },
+        {
+          "title": "UAE Plans to Run 50% of Government on Agentic AI Within Two Years",
+          "url": "https://www.mitsloanme.com/article/uae-plans-to-run-50-of-government-on-agentic-ai-within-two-years/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.mitsloanme.com/article/uae-plans-to-run-50-of-government-on-agentic-ai-within-two-years/ Comments URL: https://news.ycombinator.com/item?id=48001340 Points: 3 # Comments: 0",
+          "published_at": "2026-05-03 20:50",
+          "tags": []
+        },
+        {
+          "title": "AI for Teams: Team-in-the-Loop",
+          "url": "https://jitera.com/blog/team-in-the-loop/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://jitera.com/blog/team-in-the-loop/ Comments URL: https://news.ycombinator.com/item?id=48001176 Points: 2 # Comments: 0",
+          "published_at": "2026-05-03 20:35",
+          "tags": []
+        },
+        {
+          "title": "Most Companies Aren't Anywhere Near Ready for AI",
+          "url": "https://danielmiessler.com/blog/most-companies-arent-ready-for-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://danielmiessler.com/blog/most-companies-arent-ready-for-ai Comments URL: https://news.ycombinator.com/item?id=48001097 Points: 6 # Comments: 3",
+          "published_at": "2026-05-03 20:28",
+          "tags": []
+        },
+        {
+          "title": "Professor's bold prediction: AI could help cure all diseases within a decade",
+          "url": "https://excitech.media/p/professors-bold-prediction-ai-could",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://excitech.media/p/professors-bold-prediction-ai-could Comments URL: https://news.ycombinator.com/item?id=48000703 Points: 2 # Comments: 1",
+          "published_at": "2026-05-03 19:49",
+          "tags": []
+        },
+        {
+          "title": "The Paradox of Medical AI Implementation",
+          "url": "https://erictopol.substack.com/p/the-paradox-of-medical-ai-implementation",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://erictopol.substack.com/p/the-paradox-of-medical-ai-implementation Comments URL: https://news.ycombinator.com/item?id=48000344 Points: 1 # Comments: 0",
+          "published_at": "2026-05-03 19:16",
+          "tags": []
+        },
+        {
+          "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+          "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+          "source": "TechCrunch AI",
+          "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+          "published_at": "2026-05-03 18:00",
+          "tags": [
+            "AI",
+            "Biotech & Health",
+            "beth israel",
+            "harvard medical school",
+            "OpenAI"
+          ]
+        }
+      ]
+    }
+  ]
+}
