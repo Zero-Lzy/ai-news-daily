@@ -1,5 +1,199 @@
 [
   {
+    "title": "First Church of the Singularity: An AI Art Experiment",
+    "url": "https://firstchurchofthesingularity.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://firstchurchofthesingularity.com/ Comments URL: https://news.ycombinator.com/item?id=48049544 Points: 2 # Comments: 1",
+    "published_at": "2026-05-07 13:57",
+    "tags": [],
+    "fetch_date": "2026-05-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Open-source AI code review (AGPLv3, BYOK)",
+    "url": "https://github.com/kodustech/kodus-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/kodustech/kodus-ai Comments URL: https://news.ycombinator.com/item?id=48049508 Points: 3 # Comments: 0",
+    "published_at": "2026-05-07 13:54",
+    "tags": [],
+    "fetch_date": "2026-05-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: AERF – receipts for AI agents, crypto-signed like cosign for evidence",
+    "url": "https://github.com/aerf-spec/aerf",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/aerf-spec/aerf Comments URL: https://news.ycombinator.com/item?id=48049489 Points: 2 # Comments: 0",
+    "published_at": "2026-05-07 13:53",
+    "tags": [],
+    "fetch_date": "2026-05-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Comparing Sandboxing Approaches for AI Agents",
+    "url": "https://www.docker.com/blog/comparing-sandboxing-approaches-ai-agents/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.docker.com/blog/comparing-sandboxing-approaches-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48049447 Points: 2 # Comments: 0",
+    "published_at": "2026-05-07 13:50",
+    "tags": [],
+    "fetch_date": "2026-05-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Git for AI Agents",
+    "url": "https://github.com/regent-vcs/re_gent",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/regent-vcs/re_gent Comments URL: https://news.ycombinator.com/item?id=48049431 Points: 4 # Comments: 1",
+    "published_at": "2026-05-07 13:49",
+    "tags": [],
+    "fetch_date": "2026-05-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open-source AI skyrockets",
+    "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+    "source": "TechCrunch AI",
+    "summary": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
+    "published_at": "2026-05-07 13:44",
+    "tags": [
+      "AI",
+      "Startups",
+      "China",
+      "kimi",
+      "large language models",
+      "moonshot ai"
+    ],
+    "fetch_date": "2026-05-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Xfra AI",
+    "url": "https://www.xfra.ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.xfra.ai/ Comments URL: https://news.ycombinator.com/item?id=48049359 Points: 3 # Comments: 0",
+    "published_at": "2026-05-07 13:43",
+    "tags": [],
+    "fetch_date": "2026-05-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI for Bio has a Fuzzy API problem",
+    "url": "https://ankitg.me/blog/2026/05/04/fuzzy_api.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://ankitg.me/blog/2026/05/04/fuzzy_api.html Comments URL: https://news.ycombinator.com/item?id=48049311 Points: 2 # Comments: 1",
+    "published_at": "2026-05-07 13:39",
+    "tags": [],
+    "fetch_date": "2026-05-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "What would make an academic AI assistant trustworthy for students?",
+    "url": "https://github.com/DavidHavoc/openworkers",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/DavidHavoc/openworkers Comments URL: https://news.ycombinator.com/item?id=48049190 Points: 2 # Comments: 1",
+    "published_at": "2026-05-07 13:28",
+    "tags": [],
+    "fetch_date": "2026-05-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AgentWrit, a Go broker for task-scoped AI agent credentials",
+    "url": "https://github.com/devonartis/agentwrit",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/devonartis/agentwrit Comments URL: https://news.ycombinator.com/item?id=48049140 Points: 2 # Comments: 0",
+    "published_at": "2026-05-07 13:24",
+    "tags": [],
+    "fetch_date": "2026-05-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Consuming too much AI can be bad. Data on 'tokenmaxxing' reveals a better way",
+    "url": "https://www.businessinsider.com/ai-tokenmaxxing-fails-as-productivity-strategy-jellyfish-2026-5",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.businessinsider.com/ai-tokenmaxxing-fails-as-productivity-strategy-jellyfish-2026-5 Comments URL: https://news.ycombinator.com/item?id=48049131 Points: 2 # Comments: 0",
+    "published_at": "2026-05-07 13:23",
+    "tags": [],
+    "fetch_date": "2026-05-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI in B2B Sales: How Managed Loops Are Replacing CRM Services",
+    "url": "https://www.promptmetrics.dev/blog/services-as-software-is-coming-for-your-crm-heres-how-to-win",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.promptmetrics.dev/blog/services-as-software-is-coming-for-your-crm-heres-how-to-win Comments URL: https://news.ycombinator.com/item?id=48049043 Points: 2 # Comments: 0",
+    "published_at": "2026-05-07 13:15",
+    "tags": [],
+    "fetch_date": "2026-05-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "LLM-driven security reports disrupt coordinated disclosure",
+    "url": "https://lwn.net/SubscriberLink/1070698/708a56108d2a9e2e/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://lwn.net/SubscriberLink/1070698/708a56108d2a9e2e/ Comments URL: https://news.ycombinator.com/item?id=48049021 Points: 2 # Comments: 0",
+    "published_at": "2026-05-07 13:13",
+    "tags": [],
+    "fetch_date": "2026-05-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Needs Better Metaphors",
+    "url": "https://metedata.substack.com/p/011-ai-needs-better-metaphors",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://metedata.substack.com/p/011-ai-needs-better-metaphors Comments URL: https://news.ycombinator.com/item?id=48049013 Points: 2 # Comments: 0",
+    "published_at": "2026-05-07 13:12",
+    "tags": [],
+    "fetch_date": "2026-05-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Writting AI evals is not the point",
+    "url": "https://www.youtube.com/watch?v=sXusaxZeB7Q",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=sXusaxZeB7Q Comments URL: https://news.ycombinator.com/item?id=48048939 Points: 1 # Comments: 0",
+    "published_at": "2026-05-07 13:05",
+    "tags": [],
+    "fetch_date": "2026-05-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "An AI powered track recommendation app for DJs",
+    "url": "https://www.nexttrack.club/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.nexttrack.club/ Comments URL: https://news.ycombinator.com/item?id=48048757 Points: 2 # Comments: 1",
+    "published_at": "2026-05-07 12:46",
+    "tags": [],
+    "fetch_date": "2026-05-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The Roadmap to Mastering Tool Calling in AI Agents",
+    "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48048721 Points: 1 # Comments: 0",
+    "published_at": "2026-05-07 12:43",
+    "tags": [],
+    "fetch_date": "2026-05-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese",
+    "url": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
+    "source": "TechCrunch AI",
+    "summary": "Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese.",
+    "published_at": "2026-05-07 12:20",
+    "tags": [
+      "AI",
+      "Apps",
+      "Media & Entertainment",
+      "ai dj",
+      "music streaming services",
+      "Spotify"
+    ],
+    "fetch_date": "2026-05-07",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "How AI Works Under the Hood – LLMs Explained with Code",
     "url": "https://nitayneeman.com/blog/how-ai-works-under-the-hood-llms-explained-with-code/",
     "source": "Hacker News AI",

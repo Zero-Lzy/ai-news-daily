@@ -257,6 +257,281 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-05-07 22:12:05",
+      "count": 25,
+      "articles": [
+        {
+          "title": "First Church of the Singularity: An AI Art Experiment",
+          "url": "https://firstchurchofthesingularity.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://firstchurchofthesingularity.com/ Comments URL: https://news.ycombinator.com/item?id=48049544 Points: 2 # Comments: 1",
+          "published_at": "2026-05-07 13:57",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Open-source AI code review (AGPLv3, BYOK)",
+          "url": "https://github.com/kodustech/kodus-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/kodustech/kodus-ai Comments URL: https://news.ycombinator.com/item?id=48049508 Points: 3 # Comments: 0",
+          "published_at": "2026-05-07 13:54",
+          "tags": []
+        },
+        {
+          "title": "Show HN: AERF – receipts for AI agents, crypto-signed like cosign for evidence",
+          "url": "https://github.com/aerf-spec/aerf",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/aerf-spec/aerf Comments URL: https://news.ycombinator.com/item?id=48049489 Points: 2 # Comments: 0",
+          "published_at": "2026-05-07 13:53",
+          "tags": []
+        },
+        {
+          "title": "Comparing Sandboxing Approaches for AI Agents",
+          "url": "https://www.docker.com/blog/comparing-sandboxing-approaches-ai-agents/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.docker.com/blog/comparing-sandboxing-approaches-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48049447 Points: 2 # Comments: 0",
+          "published_at": "2026-05-07 13:50",
+          "tags": []
+        },
+        {
+          "title": "Git for AI Agents",
+          "url": "https://github.com/regent-vcs/re_gent",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/regent-vcs/re_gent Comments URL: https://news.ycombinator.com/item?id=48049431 Points: 4 # Comments: 1",
+          "published_at": "2026-05-07 13:49",
+          "tags": []
+        },
+        {
+          "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open-source AI skyrockets",
+          "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+          "source": "TechCrunch AI",
+          "summary": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
+          "published_at": "2026-05-07 13:44",
+          "tags": [
+            "AI",
+            "Startups",
+            "China",
+            "kimi",
+            "large language models",
+            "moonshot ai"
+          ]
+        },
+        {
+          "title": "Xfra AI",
+          "url": "https://www.xfra.ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.xfra.ai/ Comments URL: https://news.ycombinator.com/item?id=48049359 Points: 3 # Comments: 0",
+          "published_at": "2026-05-07 13:43",
+          "tags": []
+        },
+        {
+          "title": "AI for Bio has a Fuzzy API problem",
+          "url": "https://ankitg.me/blog/2026/05/04/fuzzy_api.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://ankitg.me/blog/2026/05/04/fuzzy_api.html Comments URL: https://news.ycombinator.com/item?id=48049311 Points: 2 # Comments: 1",
+          "published_at": "2026-05-07 13:39",
+          "tags": []
+        },
+        {
+          "title": "What would make an academic AI assistant trustworthy for students?",
+          "url": "https://github.com/DavidHavoc/openworkers",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/DavidHavoc/openworkers Comments URL: https://news.ycombinator.com/item?id=48049190 Points: 2 # Comments: 1",
+          "published_at": "2026-05-07 13:28",
+          "tags": []
+        },
+        {
+          "title": "AgentWrit, a Go broker for task-scoped AI agent credentials",
+          "url": "https://github.com/devonartis/agentwrit",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/devonartis/agentwrit Comments URL: https://news.ycombinator.com/item?id=48049140 Points: 2 # Comments: 0",
+          "published_at": "2026-05-07 13:24",
+          "tags": []
+        },
+        {
+          "title": "Consuming too much AI can be bad. Data on 'tokenmaxxing' reveals a better way",
+          "url": "https://www.businessinsider.com/ai-tokenmaxxing-fails-as-productivity-strategy-jellyfish-2026-5",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.businessinsider.com/ai-tokenmaxxing-fails-as-productivity-strategy-jellyfish-2026-5 Comments URL: https://news.ycombinator.com/item?id=48049131 Points: 2 # Comments: 0",
+          "published_at": "2026-05-07 13:23",
+          "tags": []
+        },
+        {
+          "title": "AI in B2B Sales: How Managed Loops Are Replacing CRM Services",
+          "url": "https://www.promptmetrics.dev/blog/services-as-software-is-coming-for-your-crm-heres-how-to-win",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.promptmetrics.dev/blog/services-as-software-is-coming-for-your-crm-heres-how-to-win Comments URL: https://news.ycombinator.com/item?id=48049043 Points: 2 # Comments: 0",
+          "published_at": "2026-05-07 13:15",
+          "tags": []
+        },
+        {
+          "title": "LLM-driven security reports disrupt coordinated disclosure",
+          "url": "https://lwn.net/SubscriberLink/1070698/708a56108d2a9e2e/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://lwn.net/SubscriberLink/1070698/708a56108d2a9e2e/ Comments URL: https://news.ycombinator.com/item?id=48049021 Points: 2 # Comments: 0",
+          "published_at": "2026-05-07 13:13",
+          "tags": []
+        },
+        {
+          "title": "AI Needs Better Metaphors",
+          "url": "https://metedata.substack.com/p/011-ai-needs-better-metaphors",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://metedata.substack.com/p/011-ai-needs-better-metaphors Comments URL: https://news.ycombinator.com/item?id=48049013 Points: 2 # Comments: 0",
+          "published_at": "2026-05-07 13:12",
+          "tags": []
+        },
+        {
+          "title": "Writting AI evals is not the point",
+          "url": "https://www.youtube.com/watch?v=sXusaxZeB7Q",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=sXusaxZeB7Q Comments URL: https://news.ycombinator.com/item?id=48048939 Points: 1 # Comments: 0",
+          "published_at": "2026-05-07 13:05",
+          "tags": []
+        },
+        {
+          "title": "An AI powered track recommendation app for DJs",
+          "url": "https://www.nexttrack.club/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.nexttrack.club/ Comments URL: https://news.ycombinator.com/item?id=48048757 Points: 2 # Comments: 1",
+          "published_at": "2026-05-07 12:46",
+          "tags": []
+        },
+        {
+          "title": "The Roadmap to Mastering Tool Calling in AI Agents",
+          "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48048721 Points: 1 # Comments: 0",
+          "published_at": "2026-05-07 12:43",
+          "tags": []
+        },
+        {
+          "title": "Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese",
+          "url": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
+          "source": "TechCrunch AI",
+          "summary": "Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese.",
+          "published_at": "2026-05-07 12:20",
+          "tags": [
+            "AI",
+            "Apps",
+            "Media & Entertainment",
+            "ai dj",
+            "music streaming services",
+            "Spotify"
+          ]
+        },
+        {
+          "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
+          "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+          "source": "TechCrunch AI",
+          "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
+          "published_at": "2026-05-06 21:43",
+          "tags": [
+            "AI",
+            "Apps",
+            "Social",
+            "Perplexity",
+            "Snap",
+            "Snapchat"
+          ]
+        },
+        {
+          "title": "Is xAI a neocloud now?",
+          "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+          "source": "TechCrunch AI",
+          "summary": "xAI's real business may be more about building data centers than training AI models.",
+          "published_at": "2026-05-06 21:32",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "data center",
+            "Elon Musk",
+            "neocloud",
+            "SpaceX",
+            "xAI"
+          ]
+        },
+        {
+          "title": "Musk’s biggest loyalist became his biggest liability",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony",
+          "source": "The Verge AI",
+          "summary": "I sat down in the Musk v. Altman trial courtroom today, painfully aware that no one was going to ask Shivon Zilis the question on everyone's minds: Girl, what the fuck are you doing? Zilis, who testified under oath that she is the mother of four of Musk's children, was… what's the best way to [&#8230;]",
+          "published_at": "2026-05-06 19:37",
+          "tags": [
+            "AI",
+            "Elon Musk",
+            "OpenAI",
+            "Tech"
+          ]
+        },
+        {
+          "title": "DeepSeek could hit $45B valuation from its first investment round",
+          "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+          "source": "TechCrunch AI",
+          "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic.",
+          "published_at": "2026-05-06 17:20",
+          "tags": [
+            "AI",
+            "Startups",
+            "China",
+            "deepseek",
+            "In Brief"
+          ]
+        },
+        {
+          "title": "3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
+          "source": "TechCrunch AI",
+          "summary": "Three days left to lock in 50% off a second ticket to Disrupt 2026. Buy one TechCrunch Disrupt 2026 ticket, and get a second ticket at 50% off. Gain more visibility in the tech industry. Offer ends May 8 at 11:59 p.m. PT.",
+          "published_at": "2026-05-06 14:00",
+          "tags": [
+            "TC",
+            "Startups",
+            "Transportation",
+            "Privacy",
+            "Hardware",
+            "Crypto",
+            "Climate",
+            "Fintech",
+            "Biotech & Health",
+            "Venture",
+            "Media & Entertainment",
+            "AI",
+            "Robotics",
+            "Fundraising",
+            "TechCrunch Disrupt 2026"
+          ]
+        },
+        {
+          "title": "AI boom pushes Samsung to $1T",
+          "url": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
+          "source": "TechCrunch AI",
+          "summary": "Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit the milestone.",
+          "published_at": "2026-05-06 13:54",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "artificial intelligence",
+            "Samsung Electronics",
+            "south korea"
+          ]
+        },
+        {
+          "title": "Chrome’s AI features may be hogging 4GB of your computer storage",
+          "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+          "source": "The Verge AI",
+          "summary": "Google Chrome may be taking up more of your storage than expected thanks to a large on-device AI model file that, in some cases, is being automatically downloaded to the browser's system folders. Users who have noticed unexplained drops in their available desktop device storage are now discovering that Chrome is installing a 4GB weights.bin [&#8230;]",
+          "published_at": "2026-05-06 06:13",
+          "tags": [
+            "AI",
+            "Chrome",
+            "Google",
+            "News",
+            "Tech"
+          ]
+        }
+      ]
     }
   ]
 }
