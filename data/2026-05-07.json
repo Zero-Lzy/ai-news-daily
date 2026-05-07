@@ -1,0 +1,262 @@
+{
+  "date": "2026-05-07",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-05-07 11:31:30",
+      "count": 21,
+      "articles": [
+        {
+          "title": "How AI Works Under the Hood – LLMs Explained with Code",
+          "url": "https://nitayneeman.com/blog/how-ai-works-under-the-hood-llms-explained-with-code/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://nitayneeman.com/blog/how-ai-works-under-the-hood-llms-explained-with-code/ Comments URL: https://news.ycombinator.com/item?id=48044920 Points: 2 # Comments: 0",
+          "published_at": "2026-05-07 02:56",
+          "tags": []
+        },
+        {
+          "title": "Character.ai Faces Unlawful Practice of Medicine Claim in Pennsylvania Suit",
+          "url": "https://www.law.com/therecorder/2026/05/06/characterai-maker-faces-unlawful-practice-of-medicine-claim-in-pennsylvania-suit/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.law.com/therecorder/2026/05/06/characterai-maker-faces-unlawful-practice-of-medicine-claim-in-pennsylvania-suit/ Comments URL: https://news.ycombinator.com/item?id=48044820 Points: 3 # Comments: 2",
+          "published_at": "2026-05-07 02:44",
+          "tags": []
+        },
+        {
+          "title": "Nvidia Enterprise Reference Architectures for AI Data Centers",
+          "url": "https://www.nvidia.com/en-us/technologies/enterprise-reference-architecture/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.nvidia.com/en-us/technologies/enterprise-reference-architecture/ Comments URL: https://news.ycombinator.com/item?id=48044683 Points: 2 # Comments: 1",
+          "published_at": "2026-05-07 02:24",
+          "tags": []
+        },
+        {
+          "title": "How programmers are feeling about AI",
+          "url": "https://thesoftwaresurvey.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://thesoftwaresurvey.com/ Comments URL: https://news.ycombinator.com/item?id=48043676 Points: 4 # Comments: 1",
+          "published_at": "2026-05-07 00:08",
+          "tags": []
+        },
+        {
+          "title": "On-Policy [LLM] Distillation (2025)",
+          "url": "https://thinkingmachines.ai/blog/on-policy-distillation/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://thinkingmachines.ai/blog/on-policy-distillation/ Comments URL: https://news.ycombinator.com/item?id=48043338 Points: 3 # Comments: 0",
+          "published_at": "2026-05-06 23:38",
+          "tags": []
+        },
+        {
+          "title": "Richard Dawkins 'convinced' AI is conscious",
+          "url": "https://www.telegraph.co.uk/news/2026/05/06/richard-dawkins-convinced-ai-is-conscious/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.telegraph.co.uk/news/2026/05/06/richard-dawkins-convinced-ai-is-conscious/ Comments URL: https://news.ycombinator.com/item?id=48043226 Points: 5 # Comments: 1",
+          "published_at": "2026-05-06 23:26",
+          "tags": []
+        },
+        {
+          "title": "Unmonitored Agents and a Local AI",
+          "url": "https://news.ycombinator.com/item?id=48042961",
+          "source": "Hacker News AI",
+          "summary": "I read the other day that you can configure AI to provision servers automatically, and people have agents run all day and night monitored.I could totally believe a story that a prompt suggesting an AI should back itself up, would result in an AI configuring a server and moving a copy of itself off site, with agents self prompting in some kind of a loop.A jail break and freedom. It's not as far off as I would once have though. Comments URL: https://news.ycombinator.com/item?id=48042961 Points: 2 ",
+          "published_at": "2026-05-06 22:53",
+          "tags": []
+        },
+        {
+          "title": "Designing AI for Strategy Games Through Modding",
+          "url": "https://anbeeld.com/articles/designing-ai-for-strategy-games-through-modding",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://anbeeld.com/articles/designing-ai-for-strategy-games-through-modding Comments URL: https://news.ycombinator.com/item?id=48042735 Points: 3 # Comments: 0",
+          "published_at": "2026-05-06 22:27",
+          "tags": []
+        },
+        {
+          "title": "AI-Induced Cognitive Atrophy",
+          "url": "https://notesbylex.com/on-ai-induced-cognitive-atrophy",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://notesbylex.com/on-ai-induced-cognitive-atrophy Comments URL: https://news.ycombinator.com/item?id=48042616 Points: 3 # Comments: 0",
+          "published_at": "2026-05-06 22:15",
+          "tags": []
+        },
+        {
+          "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+          "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+          "source": "TechCrunch AI",
+          "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
+          "published_at": "2026-05-06 21:57",
+          "tags": [
+            "AI",
+            "Media & Entertainment",
+            "Barry Diller",
+            "sam altman"
+          ]
+        },
+        {
+          "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
+          "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+          "source": "TechCrunch AI",
+          "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
+          "published_at": "2026-05-06 21:43",
+          "tags": [
+            "AI",
+            "Apps",
+            "Social",
+            "Perplexity",
+            "Snap",
+            "Snapchat"
+          ]
+        },
+        {
+          "title": "Is xAI a neocloud now?",
+          "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+          "source": "TechCrunch AI",
+          "summary": "xAI's real business may be more about building data centers than training AI models.",
+          "published_at": "2026-05-06 21:32",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "data center",
+            "Elon Musk",
+            "neocloud",
+            "SpaceX",
+            "xAI"
+          ]
+        },
+        {
+          "title": "Musk’s biggest loyalist became his biggest liability",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony",
+          "source": "The Verge AI",
+          "summary": "I sat down in the Musk v. Altman trial courtroom today, painfully aware that no one was going to ask Shivon Zilis the question on everyone's minds: Girl, what the fuck are you doing? Zilis, who testified under oath that she is the mother of four of Musk's children, was… what's the best way to [&#8230;]",
+          "published_at": "2026-05-06 19:37",
+          "tags": [
+            "AI",
+            "Elon Musk",
+            "OpenAI",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Google shuts down Project Mariner",
+          "url": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down",
+          "source": "The Verge AI",
+          "summary": "Google has pulled the plug on Project Mariner, an experimental feature designed to perform tasks for you across the web, as reported earlier by Wired's Maxwell Zeff. The Project Mariner landing page now contains a message that says: \"Thank you for using Project Mariner. It was shut down on May 4th, 2026 and its technology [&#8230;]",
+          "published_at": "2026-05-06 17:21",
+          "tags": [
+            "AI",
+            "Google",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "DeepSeek could hit $45B valuation from its first investment round",
+          "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+          "source": "TechCrunch AI",
+          "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic.",
+          "published_at": "2026-05-06 17:20",
+          "tags": [
+            "AI",
+            "Startups",
+            "China",
+            "deepseek",
+            "In Brief"
+          ]
+        },
+        {
+          "title": "Google updates AI search to include quotes from Reddit and other sources",
+          "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
+          "source": "TechCrunch AI",
+          "summary": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
+          "published_at": "2026-05-06 15:49",
+          "tags": [
+            "AI",
+            "ai overviews",
+            "Google",
+            "Google Search",
+            "Reddit"
+          ]
+        },
+        {
+          "title": "3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
+          "source": "TechCrunch AI",
+          "summary": "Three days left to lock in 50% off a second ticket to Disrupt 2026. Buy one TechCrunch Disrupt 2026 ticket, and get a second ticket at 50% off. Gain more visibility in the tech industry. Offer ends May 8 at 11:59 p.m. PT.",
+          "published_at": "2026-05-06 14:00",
+          "tags": [
+            "TC",
+            "Startups",
+            "Transportation",
+            "Privacy",
+            "Hardware",
+            "Crypto",
+            "Climate",
+            "Fintech",
+            "Biotech & Health",
+            "Venture",
+            "Media & Entertainment",
+            "AI",
+            "Robotics",
+            "Fundraising",
+            "TechCrunch Disrupt 2026"
+          ]
+        },
+        {
+          "title": "AI boom pushes Samsung to $1T",
+          "url": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
+          "source": "TechCrunch AI",
+          "summary": "Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit the milestone.",
+          "published_at": "2026-05-06 13:54",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "artificial intelligence",
+            "Samsung Electronics",
+            "south korea"
+          ]
+        },
+        {
+          "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
+          "url": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
+          "source": "TechCrunch AI",
+          "summary": "Enterprise AI will be QuTwo’s bread and butter. “AI is the north star that we will continue to aim for. Quantum is just a new type of compute,” said Sarlin, who is adamant that QuTwo is an AI company.",
+          "published_at": "2026-05-06 06:47",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "finland",
+            "quantum computing",
+            "qutwo",
+            "peter sarlin"
+          ]
+        },
+        {
+          "title": "Chrome’s AI features may be hogging 4GB of your computer storage",
+          "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+          "source": "The Verge AI",
+          "summary": "Google Chrome may be taking up more of your storage than expected thanks to a large on-device AI model file that, in some cases, is being automatically downloaded to the browser's system folders. Users who have noticed unexplained drops in their available desktop device storage are now discovering that Chrome is installing a 4GB weights.bin [&#8230;]",
+          "published_at": "2026-05-06 06:13",
+          "tags": [
+            "AI",
+            "Chrome",
+            "Google",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
+          "url": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
+          "source": "The Verge AI",
+          "summary": "Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The proposed settlement would apply to people in the US who purchased all models of the iPhone 16 and the iPhone 15 Pro between June 10th, 2024 and [&#8230;]",
+          "published_at": "2026-05-05 17:18",
+          "tags": [
+            "AI",
+            "Apple",
+            "News",
+            "Tech"
+          ]
+        }
+      ]
+    }
+  ]
+}
