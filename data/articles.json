@@ -1,5 +1,172 @@
 [
   {
+    "title": "New 40k Acre NSA AI Datacenter: Stratos Project Fact Sheet",
+    "url": "https://www.boxeldercountyut.gov/647/Stratos-Project-Fact-Sheet",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.boxeldercountyut.gov/647/Stratos-Project-Fact-Sheet Comments URL: https://news.ycombinator.com/item?id=48063120 Points: 1 # Comments: 1",
+    "published_at": "2026-05-08 13:49",
+    "tags": [],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Huawei braces for $12B in AI chip revenue-Chinese fabs can barely keep up",
+    "url": "https://www.tomshardware.com/tech-industry/huawei-expects-12-billion-in-ai-chip-revenue-this-year-as-nvidias-china-market-share-hits-zero",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/huawei-expects-12-billion-in-ai-chip-revenue-this-year-as-nvidias-china-market-share-hits-zero Comments URL: https://news.ycombinator.com/item?id=48063091 Points: 2 # Comments: 1",
+    "published_at": "2026-05-08 13:47",
+    "tags": [],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Yes, I set up Karpathy's LLM wiki. Now what?",
+    "url": "https://twitter.com/keane42443/status/2052426761477255448",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/keane42443/status/2052426761477255448 Comments URL: https://news.ycombinator.com/item?id=48063085 Points: 1 # Comments: 0",
+    "published_at": "2026-05-08 13:46",
+    "tags": [],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ask HN: What are your strategies for reviewing AI generated code?",
+    "url": "https://news.ycombinator.com/item?id=48063044",
+    "source": "Hacker News AI",
+    "summary": "Almost everyone I talk to feels the pain of reviewing code generated with LLMs. It feels like humans have become the bottleneck in the development process.Some teams are setting guardrails, like limiting PR size or enforcing a max number of changed lines, but it still feels like everyone is figuring this out in real time.What has actually worked for you to make reviewing AI generated code easier? Comments URL: https://news.ycombinator.com/item?id=48063044 Points: 1 # Comments: 0",
+    "published_at": "2026-05-08 13:43",
+    "tags": [],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Addressing Some AI Fake News [video]",
+    "url": "https://www.youtube.com/watch?v=vdPP7zLCgrk",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=vdPP7zLCgrk Comments URL: https://news.ycombinator.com/item?id=48062901 Points: 2 # Comments: 1",
+    "published_at": "2026-05-08 13:33",
+    "tags": [],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Is GraphQL the Panacea for Agentic AI?",
+    "url": "https://magiroux.com/posts/is-graphql-the-panacea-for-agentic-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://magiroux.com/posts/is-graphql-the-panacea-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=48062860 Points: 2 # Comments: 0",
+    "published_at": "2026-05-08 13:30",
+    "tags": [],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Arlo – Your AI Chief of Staff: Kill 80% of the noise. Focus on the 20%.",
+    "url": "https://www.arlo.fyi",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.arlo.fyi Comments URL: https://news.ycombinator.com/item?id=48062633 Points: 1 # Comments: 0",
+    "published_at": "2026-05-08 13:14",
+    "tags": [],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "How LLM Inference Works",
+    "url": "https://twitter.com/akshay_pachaar/status/2050941458614751327",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/akshay_pachaar/status/2050941458614751327 Comments URL: https://news.ycombinator.com/item?id=48062500 Points: 1 # Comments: 0",
+    "published_at": "2026-05-08 13:04",
+    "tags": [],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "What Is an AI Control Plane",
+    "url": "https://www.speakeasy.com/resources/ai-control-plane",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.speakeasy.com/resources/ai-control-plane Comments URL: https://news.ycombinator.com/item?id=48062280 Points: 2 # Comments: 0",
+    "published_at": "2026-05-08 12:46",
+    "tags": [],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: NanoCorp – Create autonomous companies run by AI",
+    "url": "https://www.nanocorp.so",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.nanocorp.so Comments URL: https://news.ycombinator.com/item?id=48062033 Points: 3 # Comments: 1",
+    "published_at": "2026-05-08 12:19",
+    "tags": [],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The Impact of AI-Generated Text on the Internet",
+    "url": "https://ai-on-the-internet.github.io/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://ai-on-the-internet.github.io/ Comments URL: https://news.ycombinator.com/item?id=48061924 Points: 2 # Comments: 0",
+    "published_at": "2026-05-08 12:08",
+    "tags": [],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Benchmarking AI agent retrieval strategies on Kubernetes bug fixes",
+    "url": "https://www.cncf.io/blog/2026/05/08/benchmarking-ai-agent-retrieval-strategies-on-kubernetes-bug-fixes/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.cncf.io/blog/2026/05/08/benchmarking-ai-agent-retrieval-strategies-on-kubernetes-bug-fixes/ Comments URL: https://news.ycombinator.com/item?id=48061869 Points: 2 # Comments: 0",
+    "published_at": "2026-05-08 12:01",
+    "tags": [],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Building an Open Source 7MB AI Terminal with Agents and Code Editor (Rust/Tauri)",
+    "url": "https://github.com/crynta/terax-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/crynta/terax-ai Comments URL: https://news.ycombinator.com/item?id=48061825 Points: 2 # Comments: 1",
+    "published_at": "2026-05-08 11:55",
+    "tags": [],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Everybody wants to rule the AI world",
+    "url": "https://www.theverge.com/podcast/926707/openai-ceo-murati-musk-trial-vergecast",
+    "source": "The Verge AI",
+    "summary": "Sometimes, companies pick CEOs based on carefully laid succession plans designed to maximize investor confidence and future performance. Other times, apparently, companies pick CEOs based on a bunch of video calls while the current CEO is texting the former CEO about who the new CEO even is. Such was the story of The Blip, the [&#8230;]",
+    "published_at": "2026-05-08 09:31",
+    "tags": [
+      "AI",
+      "Elon Musk",
+      "OpenAI",
+      "Podcasts",
+      "Tech",
+      "Vergecast"
+    ],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Why you can never get your doctor to call you back",
+    "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
+    "source": "TechCrunch AI",
+    "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried about drowning.",
+    "published_at": "2026-05-08 04:42",
+    "tags": [
+      "AI",
+      "Biotech & Health",
+      "TC",
+      "Aileen Lee",
+      "Basata",
+      "Basis Set Ventures",
+      "cowboy ventures",
+      "Sofeon",
+      "Victoria Treyger"
+    ],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Sley is live: the first native AI programming language",
     "url": "https://github.com/GreyforgeLabs/sley",
     "source": "Hacker News AI",
@@ -426,6 +593,21 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "OpenClaw and Claude can put your AI-generated podcasts in Spotify",
+    "url": "https://www.theverge.com/entertainment/925916/save-to-spotify-ai-podcasts",
+    "source": "The Verge AI",
+    "summary": "Save to Spotify is a new command-line tool designed specifically for AI agents like OpenClaw, Claude Code, or OpenAI Codex. If you're the kind of person who collects research on a topic, then feeds it through their AI of choice to create audio summaries and personal podcasts, this lets you save them right alongside the [&#8230;]",
+    "published_at": "2026-05-07 10:15",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "News",
+      "Spotify"
+    ],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Google’s taking a big swing at AI health with the Fitbit Air",
     "url": "https://www.theverge.com/gadgets/925458/google-health-fitbit-air-ai-coaching-wearables-fitness-trackers",
     "source": "The Verge AI",
@@ -443,6 +625,29 @@
     ],
     "fetch_date": "2026-05-08",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Five architects of the AI economy explain where the wheels are coming off",
+    "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
+    "source": "TechCrunch AI",
+    "summary": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Institute Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture that undergirds the tech is wrong.",
+    "published_at": "2026-05-07 05:25",
+    "tags": [
+      "AI",
+      "TC",
+      "applied intuition",
+      "ASML",
+      "Christophe Fouquet",
+      "Dimitry Shevelenko",
+      "Eve Bodnia",
+      "Francis deSouza",
+      "google cloud",
+      "Logical Intelligence",
+      "Milken Institute",
+      "Qasar Younis"
+    ],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "晚报"
   },
   {
     "title": "How AI Works Under the Hood – LLMs Explained with Code",
