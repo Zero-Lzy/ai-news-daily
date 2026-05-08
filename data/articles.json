@@ -1,5 +1,237 @@
 [
   {
+    "title": "Sley is live: the first native AI programming language",
+    "url": "https://github.com/GreyforgeLabs/sley",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/GreyforgeLabs/sley Comments URL: https://news.ycombinator.com/item?id=48058152 Points: 1 # Comments: 1",
+    "published_at": "2026-05-08 03:26",
+    "tags": [],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI at Discount",
+    "url": "https://tomtunguz.com/ai-at-discount/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://tomtunguz.com/ai-at-discount/ Comments URL: https://news.ycombinator.com/item?id=48057930 Points: 1 # Comments: 0",
+    "published_at": "2026-05-08 02:54",
+    "tags": [],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Loxai.tech and Neutboom – Gen AI's frontier of individuality",
+    "url": "https://www.neutboom.com",
+    "source": "Hacker News AI",
+    "summary": "Hi- I hope you’re all having a good day so far! I'm not sure where to post this but I do have two things for you guys today, related to the AI space: individuality and a new era to AI! So: - LLM wrappers are crumbling- these businesses will not survive as foundational models begin to offer the functionalities consumers have been seeking. This maybe represents a failure in interpretation of individuality as horizontal growth (these startups didn't last too long...), which brings up the next point",
+    "published_at": "2026-05-08 02:50",
+    "tags": [],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Anthropic's Mythos Threw the White House AI Strategy into Chaos",
+    "url": "https://www.wsj.com/tech/ai/trump-ai-anthropic-mythos-regulation-2378971f",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/trump-ai-anthropic-mythos-regulation-2378971f Comments URL: https://news.ycombinator.com/item?id=48057717 Points: 1 # Comments: 0",
+    "published_at": "2026-05-08 02:22",
+    "tags": [],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows",
+    "url": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/ Comments URL: https://news.ycombinator.com/item?id=48057652 Points: 5 # Comments: 0",
+    "published_at": "2026-05-08 02:10",
+    "tags": [],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Roche to Buy PathAI for Up to $1.05B to Bolster AI Diagnostics Tools",
+    "url": "https://www.wsj.com/business/deals/roche-to-buy-pathai-for-up-to-1-05-billion-to-bolster-ai-diagnostics-tools-0b4575ee",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wsj.com/business/deals/roche-to-buy-pathai-for-up-to-1-05-billion-to-bolster-ai-diagnostics-tools-0b4575ee Comments URL: https://news.ycombinator.com/item?id=48057610 Points: 1 # Comments: 0",
+    "published_at": "2026-05-08 02:02",
+    "tags": [],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Upper bound for AI output is based on your taste/exposure",
+    "url": "https://news.ycombinator.com/item?id=48057514",
+    "source": "Hacker News AI",
+    "summary": "For image models specifically, but I think it applies to LLMs aswell Comments URL: https://news.ycombinator.com/item?id=48057514 Points: 1 # Comments: 0",
+    "published_at": "2026-05-08 01:47",
+    "tags": [],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Contributions to CPAN: The Copyright Question",
+    "url": "https://blogs.perl.org/users/todd_rinaldo/2026/04/ai-contributions-to-cpan-the-copyright-question.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blogs.perl.org/users/todd_rinaldo/2026/04/ai-contributions-to-cpan-the-copyright-question.html Comments URL: https://news.ycombinator.com/item?id=48057449 Points: 2 # Comments: 0",
+    "published_at": "2026-05-08 01:37",
+    "tags": [],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "GPT-5.5 Price Increase: What It Costs",
+    "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://openrouter.ai/announcements/gpt55-cost-analysis Comments URL: https://news.ycombinator.com/item?id=48057209 Points: 2 # Comments: 0",
+    "published_at": "2026-05-08 01:02",
+    "tags": [],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Netflix tests its own AI-powered voice search",
+    "url": "https://www.lowpass.cc/p/ask-netflix-ai-voice-search",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.lowpass.cc/p/ask-netflix-ai-voice-search Comments URL: https://news.ycombinator.com/item?id=48057196 Points: 1 # Comments: 0",
+    "published_at": "2026-05-08 01:01",
+    "tags": [],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "\"Surface\" a Governed AI-Agentic Surface",
+    "url": "https://news.ycombinator.com/item?id=48056969",
+    "source": "Hacker News AI",
+    "summary": "A continued work in progress https://github.com/pauljbernard/sbcl-agent-desktop and https://github.com/pauljbernard/sbcl-agentan implementation of the ideas discussed in: The Evolution of Software Scale https://www.amazon.com/Evolution-Software-Scale-Paul-Bernard-ebook/dp/B0GXSTLF12/ref=sr_1_1?crid=3F3JXYZY0PDL3&amp;dib=eyJ2IjoiMSJ9.QhAkRorJvGyy90H6OKqlspC352w_xYlEL2qcLlE3xsHmL_oYmj0c-CqF9s7HRGdWPYK7IBvB4FSAPrphSFZCX-Lwo3aKYnBk_RIObV1CZxBakoa4gUDWvSA2PpfCzOSiIh-jDYNAopMn24iHVGocGa89Z_5bByiJTB6-P",
+    "published_at": "2026-05-08 00:34",
+    "tags": [],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The AI Ad-Hoc Prior Restraint Era Begins",
+    "url": "https://thezvi.substack.com/p/the-ai-ad-hoc-prior-restraint-era",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://thezvi.substack.com/p/the-ai-ad-hoc-prior-restraint-era Comments URL: https://news.ycombinator.com/item?id=48056873 Points: 1 # Comments: 1",
+    "published_at": "2026-05-08 00:21",
+    "tags": [],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Chrome's 4GB AI Surprise: Why Google Chrome Is Quietly Downloading Gemini Nano",
+    "url": "https://blog.praveen.science/chrome-s-4gb-ai-surprise-why-google-chrome-is-quietly-downloading-gemini-nano-to-your-device/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.praveen.science/chrome-s-4gb-ai-surprise-why-google-chrome-is-quietly-downloading-gemini-nano-to-your-device/ Comments URL: https://news.ycombinator.com/item?id=48056866 Points: 3 # Comments: 0",
+    "published_at": "2026-05-08 00:20",
+    "tags": [],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI launches new voice intelligence features in its API",
+    "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+    "source": "TechCrunch AI",
+    "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
+    "published_at": "2026-05-07 22:24",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "gpt"
+    ],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
+    "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+    "source": "TechCrunch AI",
+    "summary": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial general intelligence.",
+    "published_at": "2026-05-07 19:21",
+    "tags": [
+      "AI",
+      "Elon Musk",
+      "OpenAI",
+      "openai lawsuit",
+      "sam altman"
+    ],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
+    "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+    "source": "ArsTechnica AI",
+    "summary": "The developer of Firefox says it has \"completely bought in\" on AI-assisted bug discovery.",
+    "published_at": "2026-05-07 19:18",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "Security",
+      "firefox",
+      "Mythos",
+      "vulnerabilities"
+    ],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
+    "source": "The Verge AI",
+    "summary": "The week leading up to Thanksgiving 2023 was the AI industry's biggest soap opera moment. OpenAI CEO Sam Altman was abruptly ousted from his role at the ChatGPT maker. The explanation? That Altman was \"not consistently candid in his communications with the board.\" Now, via witness testimony and trial exhibits in Musk v. Altman, the [&#8230;]",
+    "published_at": "2026-05-07 15:55",
+    "tags": [
+      "AI",
+      "Analysis",
+      "Elon Musk",
+      "Law",
+      "OpenAI",
+      "Policy",
+      "Report",
+      "Tech"
+    ],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Apple&#8217;s AirPods with cameras for AI are apparently close to production",
+    "url": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production",
+    "source": "The Verge AI",
+    "summary": "Apple's rumored AirPods with cameras are nearing a stage where the company will test early mass production, Bloomberg's Mark Gurman reports. Currently, Apple testers are \"actively using\" prototypes that are in the design validation test stage, which is one step before the production validation test stage. The AirPods' cameras \"aren't designed\" to snap photos or [&#8230;]",
+    "published_at": "2026-05-07 15:39",
+    "tags": [
+      "AI",
+      "Apple",
+      "Gadgets",
+      "Headphones",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "SpaceX has a $55 billion plan to build AI chips in Texas",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips",
+    "source": "The Verge AI",
+    "summary": "Elon Musk's plans to get into the AI chip manufacturing business are going to be costly. As the New York Times and CNBC report, SpaceX is planning to invest at least $55 billion into its \"Terafab\" chip plant in Austin, Texas. That's according to the details of a public hearing notice filed in Grimes County, [&#8230;]",
+    "published_at": "2026-05-07 15:26",
+    "tags": [
+      "AI",
+      "Elon Musk",
+      "News",
+      "Science",
+      "Space",
+      "SpaceX",
+      "Tech",
+      "xAI"
+    ],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "早报"
+  },
+  {
     "title": "First Church of the Singularity: An AI Art Experiment",
     "url": "https://firstchurchofthesingularity.com/",
     "source": "Hacker News AI",
@@ -192,6 +424,25 @@
     ],
     "fetch_date": "2026-05-07",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Google’s taking a big swing at AI health with the Fitbit Air",
+    "url": "https://www.theverge.com/gadgets/925458/google-health-fitbit-air-ai-coaching-wearables-fitness-trackers",
+    "source": "The Verge AI",
+    "summary": "It's a Whoop dupe. That was my first thought when I saw the new $99 Google Fitbit Air. You can hardly blame me. The band is screenless with a metallic fabric clasp. My eyes flickered between the Fitbit Air and my wrist, where I'm wearing a Whoop MG. Was I not seeing double? But as [&#8230;]",
+    "published_at": "2026-05-07 10:00",
+    "tags": [
+      "AI",
+      "Gadgets",
+      "Google",
+      "Health",
+      "News",
+      "Science",
+      "Tech",
+      "Wearable"
+    ],
+    "fetch_date": "2026-05-08",
+    "fetch_label": "早报"
   },
   {
     "title": "How AI Works Under the Hood – LLMs Explained with Code",
