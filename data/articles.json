@@ -1,5 +1,183 @@
 [
   {
+    "title": "Meltdown: LLM Client Made in Python and Tk",
+    "url": "https://github.com/Merkoba/Meltdown",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/Merkoba/Meltdown Comments URL: https://news.ycombinator.com/item?id=48071307 Points: 2 # Comments: 0",
+    "published_at": "2026-05-09 02:48",
+    "tags": [],
+    "fetch_date": "2026-05-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask Hacker News: AI music with feedback",
+    "url": "https://news.ycombinator.com/item?id=48070959",
+    "source": "Hacker News AI",
+    "summary": "Can someone make streaming music that changes based on input from the phone, or does this already exist and what app? Comments URL: https://news.ycombinator.com/item?id=48070959 Points: 1 # Comments: 0",
+    "published_at": "2026-05-09 01:50",
+    "tags": [],
+    "fetch_date": "2026-05-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "How to Work and Compound with AI",
+    "url": "https://eugeneyan.com/writing/working-with-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://eugeneyan.com/writing/working-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48070873 Points: 1 # Comments: 0",
+    "published_at": "2026-05-09 01:30",
+    "tags": [],
+    "fetch_date": "2026-05-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI's Circular Psychosis",
+    "url": "https://www.wheresyoured.at/premium-ais-circular-psychosis/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wheresyoured.at/premium-ais-circular-psychosis/ Comments URL: https://news.ycombinator.com/item?id=48070826 Points: 7 # Comments: 6",
+    "published_at": "2026-05-09 01:22",
+    "tags": [],
+    "fetch_date": "2026-05-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Hard Drive Shortage Making It More Expensive, Harder to Archive the Internet",
+    "url": "https://www.404media.co/the-ai-hard-drive-shortage-is-making-it-more-expensive-and-harder-to-archive-the-internet/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.404media.co/the-ai-hard-drive-shortage-is-making-it-more-expensive-and-harder-to-archive-the-internet/ Comments URL: https://news.ycombinator.com/item?id=48070817 Points: 2 # Comments: 1",
+    "published_at": "2026-05-09 01:22",
+    "tags": [],
+    "fetch_date": "2026-05-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Nexa-gauge – Cache/cost-aware graph-based eval for LLM and RAG",
+    "url": "https://github.com/harnexa/nexa-gauge",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/harnexa/nexa-gauge Comments URL: https://news.ycombinator.com/item?id=48070603 Points: 3 # Comments: 0",
+    "published_at": "2026-05-09 00:45",
+    "tags": [],
+    "fetch_date": "2026-05-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "People Hate AI Art",
+    "url": "https://mccue.dev/pages/5-8-26-ai-art",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://mccue.dev/pages/5-8-26-ai-art Comments URL: https://news.ycombinator.com/item?id=48070548 Points: 97 # Comments: 94",
+    "published_at": "2026-05-09 00:39",
+    "tags": [],
+    "fetch_date": "2026-05-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Accelerator Applicant's AI System Makes Faux Pau; Critical of Accelerator Model",
+    "url": "https://news.novonavis.com/news/intel_080526_2297",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://news.novonavis.com/news/intel_080526_2297 Comments URL: https://news.ycombinator.com/item?id=48070540 Points: 1 # Comments: 1",
+    "published_at": "2026-05-09 00:38",
+    "tags": [],
+    "fetch_date": "2026-05-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Canasta Scoring App",
+    "url": "https://canastascore.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://canastascore.com/ Comments URL: https://news.ycombinator.com/item?id=48070497 Points: 1 # Comments: 0",
+    "published_at": "2026-05-09 00:33",
+    "tags": [],
+    "fetch_date": "2026-05-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Playing Around with OpenAI's GPT Realtime Voice API",
+    "url": "https://nathancooper.io/blog/2026-05-08-gpt-realtime-audio",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://nathancooper.io/blog/2026-05-08-gpt-realtime-audio Comments URL: https://news.ycombinator.com/item?id=48070481 Points: 2 # Comments: 0",
+    "published_at": "2026-05-09 00:29",
+    "tags": [],
+    "fetch_date": "2026-05-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: AI-native tech assessments (end of LeetCode)",
+    "url": "https://www.openround.ai/",
+    "source": "Hacker News AI",
+    "summary": "Hi HN!We built openround.ai - an assessment platform to hire AI native engineers. On OpenRound, engineers build a project or solve a problem using AI. This replaces a usual coding round/take home assessment.I believe coding assessments measure who is good at passing interviews, not who is actually a good engineer.We want to flip that by showing how engineers actually work on a real problem.2 interesting things we solve -1. Designing assessments and environments that are not one shotted by AI.2. ",
+    "published_at": "2026-05-09 00:28",
+    "tags": [],
+    "fetch_date": "2026-05-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask HN: What are the most joyful AI projects you've seen?",
+    "url": "https://news.ycombinator.com/item?id=48070363",
+    "source": "Hacker News AI",
+    "summary": "A lot of AI work I see is about automation, agents, productivity. Useful, but not exactly joyful.What AI projects have you built, used, or seen that felt genuinely fun, playful, weird, beautiful, or surprising? Comments URL: https://news.ycombinator.com/item?id=48070363 Points: 3 # Comments: 2",
+    "published_at": "2026-05-09 00:14",
+    "tags": [],
+    "fetch_date": "2026-05-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "DeepSeek Seeks Funding at $45B Valuation as China Backs Homegrown AI Rival",
+    "url": "https://theaiinsider.tech/2026/05/08/deepseek-seeks-first-outside-funding-at-45b-valuation-as-china-backs-homegrown-ai-rival/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://theaiinsider.tech/2026/05/08/deepseek-seeks-first-outside-funding-at-45b-valuation-as-china-backs-homegrown-ai-rival/ Comments URL: https://news.ycombinator.com/item?id=48069927 Points: 3 # Comments: 1",
+    "published_at": "2026-05-08 23:14",
+    "tags": [],
+    "fetch_date": "2026-05-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
+    "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+    "source": "TechCrunch AI",
+    "summary": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
+    "published_at": "2026-05-08 22:59",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "TC",
+      "Exclusive",
+      "Layoffs",
+      "oracle",
+      "severence"
+    ],
+    "fetch_date": "2026-05-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Contral – the agent which will teach you while you build with AI",
+    "url": "https://contral.ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://contral.ai Comments URL: https://news.ycombinator.com/item?id=48069590 Points: 2 # Comments: 1",
+    "published_at": "2026-05-08 22:34",
+    "tags": [],
+    "fetch_date": "2026-05-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI makes weak engineers less harmful",
+    "url": "https://www.seangoedecke.com/ai-makes-weak-engineers-less-harmful/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.seangoedecke.com/ai-makes-weak-engineers-less-harmful/ Comments URL: https://news.ycombinator.com/item?id=48069496 Points: 3 # Comments: 0",
+    "published_at": "2026-05-08 22:24",
+    "tags": [],
+    "fetch_date": "2026-05-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "How Do You Know If a Skill Is Any Good? LLM-as-Judge Scoring",
+    "url": "http://instructionmanuel.com/scoring-skills-with-llm-as-judge",
+    "source": "Hacker News AI",
+    "summary": "Article URL: http://instructionmanuel.com/scoring-skills-with-llm-as-judge Comments URL: https://news.ycombinator.com/item?id=48069403 Points: 2 # Comments: 0",
+    "published_at": "2026-05-08 22:11",
+    "tags": [],
+    "fetch_date": "2026-05-09",
+    "fetch_label": "早报"
+  },
+  {
     "title": "New 40k Acre NSA AI Datacenter: Stratos Project Fact Sheet",
     "url": "https://www.boxeldercountyut.gov/647/Stratos-Project-Fact-Sheet",
     "source": "Hacker News AI",
@@ -130,6 +308,24 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure",
+    "url": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure",
+    "source": "The Verge AI",
+    "summary": "When OpenAI was busy experimenting with AI-powered gaming bots, Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman were in the early days of forming an AI partnership. Court documents from the ongoing Musk v. Altman trial have provided a rare look at the communications between Microsoft's top executives about investing in OpenAI and fears [&#8230;]",
+    "published_at": "2026-05-08 11:25",
+    "tags": [
+      "AI",
+      "Gaming",
+      "Microsoft",
+      "OpenAI",
+      "Report",
+      "Tech",
+      "Xbox"
+    ],
+    "fetch_date": "2026-05-09",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Everybody wants to rule the AI world",
     "url": "https://www.theverge.com/podcast/926707/openai-ceo-murati-musk-trial-vergecast",
     "source": "The Verge AI",
@@ -145,6 +341,21 @@
     ],
     "fetch_date": "2026-05-08",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Nanoleaf bets its future on robots, red light therapy, and AI",
+    "url": "https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness",
+    "source": "The Verge AI",
+    "summary": "Smart lighting company Nanoleaf has been unusually quiet recently. While competitors such as Govee and Philips Hue have been pumping out new products and innovative features at an impressive pace, Nanoleaf has launched just a handful of smart lighting products in the last two years. There's a reason for this lull - the company has [&#8230;]",
+    "published_at": "2026-05-08 08:15",
+    "tags": [
+      "AI",
+      "Matter",
+      "Smart Home",
+      "Tech"
+    ],
+    "fetch_date": "2026-05-09",
+    "fetch_label": "早报"
   },
   {
     "title": "Why you can never get your doctor to call you back",
@@ -311,6 +522,21 @@
     "fetch_label": "早报"
   },
   {
+    "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
+    "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+    "source": "TechCrunch AI",
+    "summary": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
+    "published_at": "2026-05-07 19:57",
+    "tags": [
+      "AI",
+      "Apps",
+      "Perplexity",
+      "perplexity computer"
+    ],
+    "fetch_date": "2026-05-09",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
     "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
     "source": "TechCrunch AI",
@@ -396,6 +622,20 @@
       "xAI"
     ],
     "fetch_date": "2026-05-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "ChatGPT&#8217;s &#8216;Trusted Contact&#8217; will alert loved ones of safety concerns",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification",
+    "source": "The Verge AI",
+    "summary": "OpenAI is launching an optional safety feature for ChatGPT that allows adult users to assign an emergency contact for mental health and safety concerns. Friends, family members, or caregivers designated as a \"Trusted Contact\" will be notified if OpenAI detects that a person may have discussed topics like self-harm or suicide with the chatbot. \"Trusted [&#8230;]",
+    "published_at": "2026-05-07 14:00",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-05-09",
     "fetch_label": "早报"
   },
   {
