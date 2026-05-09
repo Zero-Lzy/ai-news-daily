@@ -178,6 +178,28 @@
     "fetch_label": "早报"
   },
   {
+    "title": "The “people’s airline” and the enterprise AI gold rush",
+    "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
+    "source": "TechCrunch AI",
+    "summary": "Everyone wants a piece of the&#160;enterprise&#160;AI pie, and this week, we saw a string of companies making their moves. From&#160;Anthropic and OpenAI announcing new joint ventures&#160;targeting enterprise AI deployment to&#160;SAP dropping $1B&#160;on German AI startup Prior Labs,&#160;it&#8217;s&#160;becoming clear that if&#160;you&#8217;re&#160;a startup building enterprise tools,&#160;you&#8217;re&#160;likely an&#160;acquisition target.&#160; On this episode of TechCrunch&#8217;s&#160;Eq",
+    "published_at": "2026-05-08 15:46",
+    "tags": [
+      "AI",
+      "Startups",
+      "Anthropic",
+      "crypto",
+      "Enterprise AI",
+      "Equity podcast",
+      "OpenAI",
+      "prior labs",
+      "Roundup",
+      "sap",
+      "xAI"
+    ],
+    "fetch_date": "2026-05-09",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "New 40k Acre NSA AI Datacenter: Stratos Project Fact Sheet",
     "url": "https://www.boxeldercountyut.gov/647/Stratos-Project-Fact-Sheet",
     "source": "Hacker News AI",
@@ -265,6 +287,21 @@
     "published_at": "2026-05-08 12:46",
     "tags": [],
     "fetch_date": "2026-05-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
+    "url": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
+    "source": "The Verge AI",
+    "summary": "As part of an earnings presentation on Friday, Sony shared how it's thinking about AI at the company, including many details about how it's evaluating AI as part of making PlayStation games. Generative AI has recently been showing up in bigger games - though many indie developers still reject it - and while Sony calls [&#8230;]",
+    "published_at": "2026-05-08 12:30",
+    "tags": [
+      "AI",
+      "Gaming",
+      "News",
+      "PlayStation"
+    ],
+    "fetch_date": "2026-05-09",
     "fetch_label": "晚报"
   },
   {

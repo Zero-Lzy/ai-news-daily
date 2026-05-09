@@ -264,6 +264,123 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-05-09 21:19:59",
+      "count": 7,
+      "articles": [
+        {
+          "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
+          "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+          "source": "TechCrunch AI",
+          "summary": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
+          "published_at": "2026-05-08 22:59",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "TC",
+            "Exclusive",
+            "Layoffs",
+            "oracle",
+            "severence"
+          ]
+        },
+        {
+          "title": "The “people’s airline” and the enterprise AI gold rush",
+          "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
+          "source": "TechCrunch AI",
+          "summary": "Everyone wants a piece of the&#160;enterprise&#160;AI pie, and this week, we saw a string of companies making their moves. From&#160;Anthropic and OpenAI announcing new joint ventures&#160;targeting enterprise AI deployment to&#160;SAP dropping $1B&#160;on German AI startup Prior Labs,&#160;it&#8217;s&#160;becoming clear that if&#160;you&#8217;re&#160;a startup building enterprise tools,&#160;you&#8217;re&#160;likely an&#160;acquisition target.&#160; On this episode of TechCrunch&#8217;s&#160;Eq",
+          "published_at": "2026-05-08 15:46",
+          "tags": [
+            "AI",
+            "Startups",
+            "Anthropic",
+            "crypto",
+            "Enterprise AI",
+            "Equity podcast",
+            "OpenAI",
+            "prior labs",
+            "Roundup",
+            "sap",
+            "xAI"
+          ]
+        },
+        {
+          "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
+          "url": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
+          "source": "The Verge AI",
+          "summary": "As part of an earnings presentation on Friday, Sony shared how it's thinking about AI at the company, including many details about how it's evaluating AI as part of making PlayStation games. Generative AI has recently been showing up in bigger games - though many indie developers still reject it - and while Sony calls [&#8230;]",
+          "published_at": "2026-05-08 12:30",
+          "tags": [
+            "AI",
+            "Gaming",
+            "News",
+            "PlayStation"
+          ]
+        },
+        {
+          "title": "Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure",
+          "url": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure",
+          "source": "The Verge AI",
+          "summary": "When OpenAI was busy experimenting with AI-powered gaming bots, Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman were in the early days of forming an AI partnership. Court documents from the ongoing Musk v. Altman trial have provided a rare look at the communications between Microsoft's top executives about investing in OpenAI and fears [&#8230;]",
+          "published_at": "2026-05-08 11:25",
+          "tags": [
+            "AI",
+            "Gaming",
+            "Microsoft",
+            "OpenAI",
+            "Report",
+            "Tech",
+            "Xbox"
+          ]
+        },
+        {
+          "title": "Everybody wants to rule the AI world",
+          "url": "https://www.theverge.com/podcast/926707/openai-ceo-murati-musk-trial-vergecast",
+          "source": "The Verge AI",
+          "summary": "Sometimes, companies pick CEOs based on carefully laid succession plans designed to maximize investor confidence and future performance. Other times, apparently, companies pick CEOs based on a bunch of video calls while the current CEO is texting the former CEO about who the new CEO even is. Such was the story of The Blip, the [&#8230;]",
+          "published_at": "2026-05-08 09:31",
+          "tags": [
+            "AI",
+            "Elon Musk",
+            "OpenAI",
+            "Podcasts",
+            "Tech",
+            "Vergecast"
+          ]
+        },
+        {
+          "title": "The fax machine is the bottleneck in US healthcare, and VCs are starting to notice",
+          "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
+          "source": "TechCrunch AI",
+          "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried about drowning.",
+          "published_at": "2026-05-08 04:42",
+          "tags": [
+            "AI",
+            "Biotech & Health",
+            "TC",
+            "Aileen Lee",
+            "Basata",
+            "Basis Set Ventures",
+            "cowboy ventures",
+            "Sofeon",
+            "Victoria Treyger"
+          ]
+        },
+        {
+          "title": "OpenAI launches new voice intelligence features in its API",
+          "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+          "source": "TechCrunch AI",
+          "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
+          "published_at": "2026-05-07 22:24",
+          "tags": [
+            "AI",
+            "OpenAI",
+            "gpt"
+          ]
+        }
+      ]
     }
   ]
 }
