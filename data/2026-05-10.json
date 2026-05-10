@@ -1,0 +1,189 @@
+{
+  "date": "2026-05-10",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-05-10 11:38:32",
+      "count": 18,
+      "articles": [
+        {
+          "title": "Snyk and Claude Code: real-time security scanning of AI-generated code",
+          "url": "https://codebrainery.com/articles/snyk-claude-code-real-time-security-scanning-for-ai-code",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://codebrainery.com/articles/snyk-claude-code-real-time-security-scanning-for-ai-code Comments URL: https://news.ycombinator.com/item?id=48080697 Points: 1 # Comments: 0",
+          "published_at": "2026-05-10 03:21",
+          "tags": []
+        },
+        {
+          "title": "\"genesis mission (US Government)\" (Angela Collier on AI and research) [video]",
+          "url": "https://www.youtube.com/watch?v=p6Ejmhwb8Sc",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=p6Ejmhwb8Sc Comments URL: https://news.ycombinator.com/item?id=48080668 Points: 1 # Comments: 0",
+          "published_at": "2026-05-10 03:16",
+          "tags": []
+        },
+        {
+          "title": "Powering the Inference Era: Inside the DigitalOcean AI-Native Cloud",
+          "url": "https://www.digitalocean.com/blog/powering-the-inference-era",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.digitalocean.com/blog/powering-the-inference-era Comments URL: https://news.ycombinator.com/item?id=48080656 Points: 1 # Comments: 0",
+          "published_at": "2026-05-10 03:14",
+          "tags": []
+        },
+        {
+          "title": "Crypto exchange Coinbase to lay off 14% of staff as AI reshapes work",
+          "url": "https://www.latimes.com/business/story/2026-05-05/crypto-exchange-coinbase-to-lay-off-14-of-staff-as-ai-reshapes-work",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.latimes.com/business/story/2026-05-05/crypto-exchange-coinbase-to-lay-off-14-of-staff-as-ai-reshapes-work Comments URL: https://news.ycombinator.com/item?id=48080379 Points: 2 # Comments: 0",
+          "published_at": "2026-05-10 02:17",
+          "tags": []
+        },
+        {
+          "title": "AI creates a fearsome cold-war-style dilemma",
+          "url": "https://www.economist.com/china/2026/05/07/ai-creates-a-fearsome-cold-war-style-dilemma",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.economist.com/china/2026/05/07/ai-creates-a-fearsome-cold-war-style-dilemma Comments URL: https://news.ycombinator.com/item?id=48080171 Points: 3 # Comments: 0",
+          "published_at": "2026-05-10 01:43",
+          "tags": []
+        },
+        {
+          "title": "Mark Zuckerberg Told 8k Employees Their Layoffs Are a Line Item in AI Bill",
+          "url": "https://247wallst.com/investing/2026/05/08/mark-zuckerberg-just-told-8000-employees-their-layoffs-are-a-line-item-in-his-145-billion-ai-bill/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://247wallst.com/investing/2026/05/08/mark-zuckerberg-just-told-8000-employees-their-layoffs-are-a-line-item-in-his-145-billion-ai-bill/ Comments URL: https://news.ycombinator.com/item?id=48079938 Points: 6 # Comments: 4",
+          "published_at": "2026-05-10 01:03",
+          "tags": []
+        },
+        {
+          "title": "24/7 AI-powered radio station. Generates music, writes hosted breaks,speaks them",
+          "url": "https://github.com/keltokhy/writ-fm",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/keltokhy/writ-fm Comments URL: https://news.ycombinator.com/item?id=48079865 Points: 2 # Comments: 0",
+          "published_at": "2026-05-10 00:47",
+          "tags": []
+        },
+        {
+          "title": "React-AI-stream – back end-agnostic SSE streaming hook for React",
+          "url": "https://github.com/trimooo/react-ai-stream",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/trimooo/react-ai-stream Comments URL: https://news.ycombinator.com/item?id=48079525 Points: 1 # Comments: 0",
+          "published_at": "2026-05-09 23:53",
+          "tags": []
+        },
+        {
+          "title": "I built an AI to stress-test my thinking",
+          "url": "https://mindmilker.com",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://mindmilker.com Comments URL: https://news.ycombinator.com/item?id=48079369 Points: 1 # Comments: 0",
+          "published_at": "2026-05-09 23:32",
+          "tags": []
+        },
+        {
+          "title": "Stale Gov.uk pages are feeding AI overviews old data and Brits are believing it",
+          "url": "https://www.theregister.com/software/2026/04/23/govuk-says-ai-gaslighting-brits-with-stale-govuk-data/5229766",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theregister.com/software/2026/04/23/govuk-says-ai-gaslighting-brits-with-stale-govuk-data/5229766 Comments URL: https://news.ycombinator.com/item?id=48079094 Points: 2 # Comments: 0",
+          "published_at": "2026-05-09 22:58",
+          "tags": []
+        },
+        {
+          "title": "Mississippi's Air Quality Is Worsening Amid AI Data Center Boom, Report Finds",
+          "url": "https://www.mississippifreepress.org/mississippis-air-quality-is-worsening-amid-ai-data-center-boom-report-finds/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.mississippifreepress.org/mississippis-air-quality-is-worsening-amid-ai-data-center-boom-report-finds/ Comments URL: https://news.ycombinator.com/item?id=48078751 Points: 1 # Comments: 0",
+          "published_at": "2026-05-09 22:08",
+          "tags": []
+        },
+        {
+          "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+          "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+          "source": "TechCrunch AI",
+          "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+          "published_at": "2026-05-09 21:45",
+          "tags": [
+            "AI",
+            "evergreens",
+            "artificial intelligence",
+            "Glossary"
+          ]
+        },
+        {
+          "title": "Feedback on my local-first AI assistant project?",
+          "url": "https://github.com/joshuatic/voxel",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/joshuatic/voxel Comments URL: https://news.ycombinator.com/item?id=48078376 Points: 1 # Comments: 1",
+          "published_at": "2026-05-09 21:21",
+          "tags": []
+        },
+        {
+          "title": "Consumer AI's ARPU Problem",
+          "url": "https://twitter.com/SashaKaletsky/status/2051366803897766236",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://twitter.com/SashaKaletsky/status/2051366803897766236 Comments URL: https://news.ycombinator.com/item?id=48078239 Points: 1 # Comments: 0",
+          "published_at": "2026-05-09 21:04",
+          "tags": []
+        },
+        {
+          "title": "Nvidia has already committed $40B to equity AI deals this year",
+          "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia continues to be a big investor in the AI ecosystem.",
+          "published_at": "2026-05-09 14:43",
+          "tags": [
+            "AI",
+            "Startups",
+            "Venture",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+          "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
+          "source": "TechCrunch AI",
+          "summary": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
+          "published_at": "2026-05-08 18:33",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "TC",
+            "cloudflare",
+            "Layoffs"
+          ]
+        },
+        {
+          "title": "The “people’s airline” and the enterprise AI gold rush",
+          "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
+          "source": "TechCrunch AI",
+          "summary": "Everyone wants a piece of the&#160;enterprise&#160;AI pie, and this week, we saw a string of companies making their moves. From&#160;Anthropic and OpenAI announcing new joint ventures&#160;targeting enterprise AI deployment to&#160;SAP dropping $1B&#160;on German AI startup Prior Labs,&#160;it&#8217;s&#160;becoming clear that if&#160;you&#8217;re&#160;a startup building enterprise tools,&#160;you&#8217;re&#160;likely an&#160;acquisition target.&#160; On this episode of TechCrunch&#8217;s&#160;Eq",
+          "published_at": "2026-05-08 15:46",
+          "tags": [
+            "AI",
+            "Startups",
+            "Anthropic",
+            "crypto",
+            "Enterprise AI",
+            "Equity podcast",
+            "OpenAI",
+            "prior labs",
+            "Roundup",
+            "sap",
+            "xAI"
+          ]
+        },
+        {
+          "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
+          "url": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
+          "source": "The Verge AI",
+          "summary": "As part of an earnings presentation on Friday, Sony shared how it's thinking about AI at the company, including many details about how it's evaluating AI as part of making PlayStation games. Generative AI has recently been showing up in bigger games - though many indie developers still reject it - and while Sony calls [&#8230;]",
+          "published_at": "2026-05-08 12:30",
+          "tags": [
+            "AI",
+            "Gaming",
+            "News",
+            "PlayStation"
+          ]
+        }
+      ]
+    }
+  ]
+}
