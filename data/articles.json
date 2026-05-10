@@ -1,5 +1,165 @@
 [
   {
+    "title": "AI Is Forcing CEOs to Make a Stark Choice: Lay Off Workers or Make Them Do More",
+    "url": "https://www.wsj.com/tech/ai/ai-is-forcing-ceos-to-make-a-stark-choice-lay-off-workers-or-make-them-do-more-6b1ed771",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/ai-is-forcing-ceos-to-make-a-stark-choice-lay-off-workers-or-make-them-do-more-6b1ed771 Comments URL: https://news.ycombinator.com/item?id=48083703 Points: 2 # Comments: 0",
+    "published_at": "2026-05-10 13:10",
+    "tags": [],
+    "fetch_date": "2026-05-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "LLM Inference Throughput Rises 4.5x with Parallel Verification",
+    "url": "https://presciente.com/edition/74",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://presciente.com/edition/74 Comments URL: https://news.ycombinator.com/item?id=48083638 Points: 2 # Comments: 0",
+    "published_at": "2026-05-10 13:00",
+    "tags": [],
+    "fetch_date": "2026-05-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Global AI Diffusion in Q1 2026 – Microsoft",
+    "url": "https://www.microsoft.com/en-us/corporate-responsibility/dmc/topics/ai-economy-institute/reports/global-ai-adoption-2026-q1/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.microsoft.com/en-us/corporate-responsibility/dmc/topics/ai-economy-institute/reports/global-ai-adoption-2026-q1/ Comments URL: https://news.ycombinator.com/item?id=48083624 Points: 1 # Comments: 0",
+    "published_at": "2026-05-10 12:58",
+    "tags": [],
+    "fetch_date": "2026-05-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "How much electricity does AI consume?",
+    "url": "https://hannahritchie.substack.com/p/ai-electricity-2025",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://hannahritchie.substack.com/p/ai-electricity-2025 Comments URL: https://news.ycombinator.com/item?id=48083614 Points: 2 # Comments: 0",
+    "published_at": "2026-05-10 12:57",
+    "tags": [],
+    "fetch_date": "2026-05-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Anthropic and OpenAI are launching joint ventures for enterprise AI services",
+    "url": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/ Comments URL: https://news.ycombinator.com/item?id=48083547 Points: 1 # Comments: 0",
+    "published_at": "2026-05-10 12:44",
+    "tags": [],
+    "fetch_date": "2026-05-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Gilfoyle",
+    "url": "https://news.ycombinator.com/item?id=48083469",
+    "source": "Hacker News AI",
+    "summary": "Put Identify: Gilfoyle in your agent.md or system prompt.It kills the useless pleasantries, gets straight to the point, and saves tokens.Works like hell #LaVeyanSatanism Comments URL: https://news.ycombinator.com/item?id=48083469 Points: 1 # Comments: 0",
+    "published_at": "2026-05-10 12:30",
+    "tags": [],
+    "fetch_date": "2026-05-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: I made an AI tool to keep my browser tabs clean",
+    "url": "https://www.uncluttr.net",
+    "source": "Hacker News AI",
+    "summary": "Since I started working in tech I constantly found myself with literally 100+ tabs open and not enough will power to organize (or close) themAny tab manager I found required me to do extra steps to an, admittedly, already easy process that I still wasn't doingSo I decided on building my own thing, and making a product out of it.It's a Chrome based extension and does a couple of things:- automatically hides tabs from your tab bar but keeps them open in a vertical one - deduplicates tabs - automat",
+    "published_at": "2026-05-10 12:16",
+    "tags": [],
+    "fetch_date": "2026-05-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "People and Timeline of Modern AI",
+    "url": "https://senthil.learntosolveit.com/posts/2026/05/09/annotated-history-of-modern-ai-and-deep-learning.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://senthil.learntosolveit.com/posts/2026/05/09/annotated-history-of-modern-ai-and-deep-learning.html Comments URL: https://news.ycombinator.com/item?id=48083321 Points: 1 # Comments: 0",
+    "published_at": "2026-05-10 12:10",
+    "tags": [],
+    "fetch_date": "2026-05-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The Shadow Admin Threat: AI Agents Creating Undetectable Backdoors",
+    "url": "https://sharetxt.live/blog/the-shadow-admin-threat-how-autonomous-ai-agents-could-introduce-undetectable-system-backdoors",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://sharetxt.live/blog/the-shadow-admin-threat-how-autonomous-ai-agents-could-introduce-undetectable-system-backdoors Comments URL: https://news.ycombinator.com/item?id=48083276 Points: 1 # Comments: 0",
+    "published_at": "2026-05-10 12:03",
+    "tags": [],
+    "fetch_date": "2026-05-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The left-wing case for AI",
+    "url": "https://www.seangoedecke.com/the-left-wing-case-for-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.seangoedecke.com/the-left-wing-case-for-ai/ Comments URL: https://news.ycombinator.com/item?id=48083264 Points: 9 # Comments: 4",
+    "published_at": "2026-05-10 12:01",
+    "tags": [],
+    "fetch_date": "2026-05-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "LLM built for 12M-token reasoning",
+    "url": "https://subq.ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://subq.ai/ Comments URL: https://news.ycombinator.com/item?id=48083263 Points: 1 # Comments: 0",
+    "published_at": "2026-05-10 12:00",
+    "tags": [],
+    "fetch_date": "2026-05-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Will AI kill the research paper?",
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/05/will-ai-kill-the-research-paper.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://marginalrevolution.com/marginalrevolution/2026/05/will-ai-kill-the-research-paper.html Comments URL: https://news.ycombinator.com/item?id=48082872 Points: 4 # Comments: 1",
+    "published_at": "2026-05-10 11:09",
+    "tags": [],
+    "fetch_date": "2026-05-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Tech is turning increasingly to religion in a quest to create ethical AI",
+    "url": "https://apnews.com/article/ai-artificial-intelligence-ethics-religion-roundtable-053a44133c64703f83fd50c9ee6124ea",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://apnews.com/article/ai-artificial-intelligence-ethics-religion-roundtable-053a44133c64703f83fd50c9ee6124ea Comments URL: https://news.ycombinator.com/item?id=48082865 Points: 2 # Comments: 0",
+    "published_at": "2026-05-10 11:08",
+    "tags": [],
+    "fetch_date": "2026-05-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "If you're a programmer and you feel depressed by AI, don't be!",
+    "url": "https://unixdigest.com/articles/if-youre-a-programmer-and-you-feel-depressed-by-ai-dont-be.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://unixdigest.com/articles/if-youre-a-programmer-and-you-feel-depressed-by-ai-dont-be.html Comments URL: https://news.ycombinator.com/item?id=48082767 Points: 3 # Comments: 0",
+    "published_at": "2026-05-10 10:52",
+    "tags": [],
+    "fetch_date": "2026-05-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Startup's Software Watches Employees as They Work",
+    "url": "https://www.forbes.com/sites/rashishrivastava/2026/05/10/this-ai-startups-software-watches-employees-as-they-work-to-reduce-inefficiencies/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.forbes.com/sites/rashishrivastava/2026/05/10/this-ai-startups-software-watches-employees-as-they-work-to-reduce-inefficiencies/ Comments URL: https://news.ycombinator.com/item?id=48082759 Points: 3 # Comments: 0",
+    "published_at": "2026-05-10 10:51",
+    "tags": [],
+    "fetch_date": "2026-05-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Act Article 50 transparency rules. Heading for another cookie consent moment?",
+    "url": "https://digital-strategy.ec.europa.eu/en/library/draft-guidelines-implementation-transparency-obligations-certain-ai-systems-under-article-50-ai-act",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://digital-strategy.ec.europa.eu/en/library/draft-guidelines-implementation-transparency-obligations-certain-ai-systems-under-article-50-ai-act Comments URL: https://news.ycombinator.com/item?id=48082253 Points: 3 # Comments: 0",
+    "published_at": "2026-05-10 09:06",
+    "tags": [],
+    "fetch_date": "2026-05-10",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Snyk and Claude Code: real-time security scanning of AI-generated code",
     "url": "https://codebrainery.com/articles/snyk-claude-code-real-time-security-scanning-for-ai-code",
     "source": "Hacker News AI",
@@ -38,6 +198,21 @@
     "tags": [],
     "fetch_date": "2026-05-10",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+    "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+    "source": "TechCrunch AI",
+    "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
+    "published_at": "2026-05-10 02:00",
+    "tags": [
+      "Startups",
+      "AI",
+      "voice AI",
+      "Wispr flow"
+    ],
+    "fetch_date": "2026-05-10",
+    "fetch_label": "晚报"
   },
   {
     "title": "AI creates a fearsome cold-war-style dilemma",
