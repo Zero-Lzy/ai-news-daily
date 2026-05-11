@@ -121,6 +121,123 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-05-11 22:55:36",
+      "count": 13,
+      "articles": [
+        {
+          "title": "The Cognitive Overload of AI Development",
+          "url": "https://dataengineeringcentral.substack.com/p/the-cognitive-overload-of-ai-development",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://dataengineeringcentral.substack.com/p/the-cognitive-overload-of-ai-development Comments URL: https://news.ycombinator.com/item?id=48095648 Points: 5 # Comments: 0",
+          "published_at": "2026-05-11 14:42",
+          "tags": []
+        },
+        {
+          "title": "AI Targeting Firm Faces Protests for Shipments to Israeli Military",
+          "url": "https://theintercept.com/2026/05/05/portland-sightline-ai-surveillance-drones-israel/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://theintercept.com/2026/05/05/portland-sightline-ai-surveillance-drones-israel/ Comments URL: https://news.ycombinator.com/item?id=48095558 Points: 2 # Comments: 0",
+          "published_at": "2026-05-11 14:34",
+          "tags": []
+        },
+        {
+          "title": "TypeScript framework for building reactive AI agents",
+          "url": "https://github.com/jigjoy-ai/mozaik",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/jigjoy-ai/mozaik Comments URL: https://news.ycombinator.com/item?id=48095496 Points: 1 # Comments: 0",
+          "published_at": "2026-05-11 14:30",
+          "tags": []
+        },
+        {
+          "title": "Show HN: LLM post-training to speak like GenZ, costing less than a cup of coffee",
+          "url": "https://github.com/aidarbek/genz-qwen",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/aidarbek/genz-qwen Comments URL: https://news.ycombinator.com/item?id=48095446 Points: 5 # Comments: 1",
+          "published_at": "2026-05-11 14:27",
+          "tags": []
+        },
+        {
+          "title": "JetBrains Junie – an LLM-agnostic AI coding agent",
+          "url": "https://www.jetbrains.com/junie/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.jetbrains.com/junie/ Comments URL: https://news.ycombinator.com/item?id=48095392 Points: 2 # Comments: 0",
+          "published_at": "2026-05-11 14:23",
+          "tags": []
+        },
+        {
+          "title": "How to bring a company up to speed on AI",
+          "url": "https://www.theaithinker.com/p/how-to-bring-a-company-up-to-speed",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theaithinker.com/p/how-to-bring-a-company-up-to-speed Comments URL: https://news.ycombinator.com/item?id=48095364 Points: 2 # Comments: 0",
+          "published_at": "2026-05-11 14:20",
+          "tags": []
+        },
+        {
+          "title": "What's Wrong with AI?",
+          "url": "https://kurtis.weblog.lol/2026/05/whats-wrong-with-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://kurtis.weblog.lol/2026/05/whats-wrong-with-ai Comments URL: https://news.ycombinator.com/item?id=48095337 Points: 2 # Comments: 0",
+          "published_at": "2026-05-11 14:18",
+          "tags": []
+        },
+        {
+          "title": "Can we get an AI to write better?",
+          "url": "https://www.strangeloopcanon.com/p/can-we-get-an-ai-to-write-better",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.strangeloopcanon.com/p/can-we-get-an-ai-to-write-better Comments URL: https://news.ycombinator.com/item?id=48095305 Points: 2 # Comments: 0",
+          "published_at": "2026-05-11 14:15",
+          "tags": []
+        },
+        {
+          "title": "The Morse Code Hack That Made an AI Agent Spend $200k [video]",
+          "url": "https://www.youtube.com/watch?v=UQ4pSVS_mN0",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=UQ4pSVS_mN0 Comments URL: https://news.ycombinator.com/item?id=48095290 Points: 2 # Comments: 1",
+          "published_at": "2026-05-11 14:13",
+          "tags": []
+        },
+        {
+          "title": "China's Mandate of AI",
+          "url": "https://afraw.substack.com/p/mandate-of-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://afraw.substack.com/p/mandate-of-ai Comments URL: https://news.ycombinator.com/item?id=48095044 Points: 3 # Comments: 0",
+          "published_at": "2026-05-11 13:53",
+          "tags": []
+        },
+        {
+          "title": "Looping AI for Science",
+          "url": "https://github.com/hassard0/itb-engine",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/hassard0/itb-engine Comments URL: https://news.ycombinator.com/item?id=48094927 Points: 1 # Comments: 1",
+          "published_at": "2026-05-11 13:44",
+          "tags": []
+        },
+        {
+          "title": "Why \"Consensus\" Is Failing AI: My Research into the Hallucination Tax",
+          "url": "https://www.indiehackers.com/post/why-consensus-is-failing-ai-my-research-into-the-hallucination-tax-A0mS5UvYEiwkkcPJ1ka8",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.indiehackers.com/post/why-consensus-is-failing-ai-my-research-into-the-hallucination-tax-A0mS5UvYEiwkkcPJ1ka8 Comments URL: https://news.ycombinator.com/item?id=48094731 Points: 2 # Comments: 1",
+          "published_at": "2026-05-11 13:27",
+          "tags": []
+        },
+        {
+          "title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
+          "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+          "source": "TechCrunch AI",
+          "summary": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.",
+          "published_at": "2026-05-11 13:00",
+          "tags": [
+            "Space",
+            "AI",
+            "baiju bhatt",
+            "Aetherflux",
+            "Cowboy Space Company"
+          ]
+        }
+      ]
     }
   ]
 }
