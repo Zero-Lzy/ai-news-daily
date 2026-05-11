@@ -1,5 +1,115 @@
 [
   {
+    "title": "Trump's Border Spending Spurs Boom in AI-Infused Surveillance",
+    "url": "https://www.wsj.com/tech/trumps-border-spending-spurs-boom-in-ai-infused-surveillance-4714521b",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wsj.com/tech/trumps-border-spending-spurs-boom-in-ai-infused-surveillance-4714521b Comments URL: https://news.ycombinator.com/item?id=48090621 Points: 1 # Comments: 0",
+    "published_at": "2026-05-11 03:01",
+    "tags": [],
+    "fetch_date": "2026-05-11",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Copilot Builder enables welding with AI",
+    "url": "https://www.millerwelds.com/products/copilot-builder-with-blue-iq-powered-by-novai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.millerwelds.com/products/copilot-builder-with-blue-iq-powered-by-novai Comments URL: https://news.ycombinator.com/item?id=48090512 Points: 1 # Comments: 0",
+    "published_at": "2026-05-11 02:41",
+    "tags": [],
+    "fetch_date": "2026-05-11",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "A Job at OpenAI Became the Greatest Lottery Ticket of the AI Boom",
+    "url": "https://www.wsj.com/tech/openai-employee-stock-sales-71ed10bd",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wsj.com/tech/openai-employee-stock-sales-71ed10bd Comments URL: https://news.ycombinator.com/item?id=48090240 Points: 3 # Comments: 0",
+    "published_at": "2026-05-11 02:01",
+    "tags": [],
+    "fetch_date": "2026-05-11",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Stack of 500: 500 Production-Tested AI Prompts",
+    "url": "https://stackkit.gumroad.com/l/lhxxik",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://stackkit.gumroad.com/l/lhxxik Comments URL: https://news.ycombinator.com/item?id=48090221 Points: 1 # Comments: 0",
+    "published_at": "2026-05-11 01:58",
+    "tags": [],
+    "fetch_date": "2026-05-11",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Make America AI-Ready",
+    "url": "https://beta.dol.gov/ai-ready",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://beta.dol.gov/ai-ready Comments URL: https://news.ycombinator.com/item?id=48089809 Points: 2 # Comments: 0",
+    "published_at": "2026-05-11 00:48",
+    "tags": [],
+    "fetch_date": "2026-05-11",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Budi – local-first AI coding cost tracker (Rust, tails local logs, no proxy)",
+    "url": "https://getbudi.dev/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://getbudi.dev/ Comments URL: https://news.ycombinator.com/item?id=48089769 Points: 2 # Comments: 0",
+    "published_at": "2026-05-11 00:44",
+    "tags": [],
+    "fetch_date": "2026-05-11",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The new Wild West of AI kids' toys",
+    "url": "https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/ Comments URL: https://news.ycombinator.com/item?id=48089385 Points: 1 # Comments: 0",
+    "published_at": "2026-05-10 23:52",
+    "tags": [],
+    "fetch_date": "2026-05-11",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+    "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 68 # Comments: 10",
+    "published_at": "2026-05-10 23:39",
+    "tags": [],
+    "fetch_date": "2026-05-11",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
+    "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656 Comments URL: https://news.ycombinator.com/item?id=48089263 Points: 107 # Comments: 74",
+    "published_at": "2026-05-10 23:36",
+    "tags": [],
+    "fetch_date": "2026-05-11",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Gawk Dev – live feed tracking what's happening across AI tools",
+    "url": "https://gawk.dev",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://gawk.dev Comments URL: https://news.ycombinator.com/item?id=48089145 Points: 1 # Comments: 0",
+    "published_at": "2026-05-10 23:17",
+    "tags": [],
+    "fetch_date": "2026-05-11",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Frona v2026.5.0 – self-hosted personal AI assistant",
+    "url": "https://github.com/fronalabs/frona/releases/tag/v2026.5.0",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/fronalabs/frona/releases/tag/v2026.5.0 Comments URL: https://news.ycombinator.com/item?id=48088308 Points: 2 # Comments: 0",
+    "published_at": "2026-05-10 21:33",
+    "tags": [],
+    "fetch_date": "2026-05-11",
+    "fetch_label": "早报"
+  },
+  {
     "title": "AI Is Forcing CEOs to Make a Stark Choice: Lay Off Workers or Make Them Do More",
     "url": "https://www.wsj.com/tech/ai/ai-is-forcing-ceos-to-make-a-stark-choice-lay-off-workers-or-make-them-do-more-6b1ed771",
     "source": "Hacker News AI",
