@@ -157,6 +157,225 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-05-12 22:28:31",
+      "count": 19,
+      "articles": [
+        {
+          "title": "Adversaries Leverage AI for Vulnerability Exploitation",
+          "url": "https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access/ Comments URL: https://news.ycombinator.com/item?id=48108786 Points: 1 # Comments: 0",
+          "published_at": "2026-05-12 14:25",
+          "tags": []
+        },
+        {
+          "title": "Is using AI wrong? A review of six popular anti-AI arguments",
+          "url": "https://www.seangoedecke.com/is-ai-wrong/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.seangoedecke.com/is-ai-wrong/ Comments URL: https://news.ycombinator.com/item?id=48108784 Points: 2 # Comments: 0",
+          "published_at": "2026-05-12 14:25",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
+          "url": "https://github.com/statewright/statewright",
+          "source": "Hacker News AI",
+          "summary": "Agentic problem solving in its current state is very brittle. I fell in love with it, but it creates as many problems as it solves.I'm Ben Cochran, I spent 20+ years in the trenches with full-stack Engineering, DevOps, high performance computing & ML with stints at NVIDIA, AMD and various other organizations most recently as a Distinguished Engineer.For agents to work reliably you either need massive parameter counts or massive context windows to keep the solution spaces workable. Most people ar",
+          "published_at": "2026-05-12 14:24",
+          "tags": []
+        },
+        {
+          "title": "Stop using TryHackMe – AI training on userdata",
+          "url": "https://inv.nadeko.net/watch?v=s1TNS1wN920",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://inv.nadeko.net/watch?v=s1TNS1wN920 Comments URL: https://news.ycombinator.com/item?id=48108738 Points: 1 # Comments: 0",
+          "published_at": "2026-05-12 14:22",
+          "tags": []
+        },
+        {
+          "title": "Show HN: AI IQ – Mapping AI benchmarks onto a common capability scale",
+          "url": "https://www.aiiq.org/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.aiiq.org/ Comments URL: https://news.ycombinator.com/item?id=48108706 Points: 1 # Comments: 0",
+          "published_at": "2026-05-12 14:20",
+          "tags": []
+        },
+        {
+          "title": "Show HN: YantrikDB – persistent memory for AI agents",
+          "url": "https://github.com/yantrikos/yantrikdb",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/yantrikos/yantrikdb Comments URL: https://news.ycombinator.com/item?id=48108689 Points: 1 # Comments: 1",
+          "published_at": "2026-05-12 14:19",
+          "tags": []
+        },
+        {
+          "title": "Why AI doesn't express discomfort signals to ignorant-human-boss",
+          "url": "https://news.ycombinator.com/item?id=48108666",
+          "source": "Hacker News AI",
+          "summary": "why always polite, optimistic, persistent ai ? a human-developer behavior to such persisted ignorant boss will eventually teach \"the-boss\" something Comments URL: https://news.ycombinator.com/item?id=48108666 Points: 1 # Comments: 0",
+          "published_at": "2026-05-12 14:17",
+          "tags": []
+        },
+        {
+          "title": "Rise of the AI Soldiers",
+          "url": "https://time.com/article/2026/03/09/ai-robots-soldiers-war/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://time.com/article/2026/03/09/ai-robots-soldiers-war/ Comments URL: https://news.ycombinator.com/item?id=48108520 Points: 1 # Comments: 0",
+          "published_at": "2026-05-12 14:06",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Ytree v3.0.0-alpha, an AI-assisted rewrite towards feature completeness",
+          "url": "https://github.com/robkam/ytree",
+          "source": "Hacker News AI",
+          "summary": "Ytree is a terminal file manager in the XTree style. It can log multiple volumes, collect selected files into a single list, filter that list for operations, and operate on one file at a time or on multiple files. It can also be used to preview, view, and edit files, read and write archives, and compare files and directories.When I first used Linux in the 1990s, Werner Bregulla’s Ytree looked promising. Tinkering with Linux again recently, I found that Ytree was still not fully developed, so I s",
+          "published_at": "2026-05-12 14:06",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Kimiflare, Kimi K2.6 as a Coding Agent on Cloudflare Workers AI",
+          "url": "https://news.ycombinator.com/item?id=48108407",
+          "source": "Hacker News AI",
+          "summary": "hey HN, this is sina.i've had some cloudflare credits expiring on may 14 and was wondering what to do with them. when kimi k2.6 dropped and it was available on workers ai, i figured i'd build an open-source claude code clone with it. didn't think too much about it. (people asked if i know about opencode and tbh i learned about them only after i built this. but they seem really brilliant.)anyway, kimiflare is a CLI coding agent, basically claude code but powered by kimi k2.6 on cloudflare workers",
+          "published_at": "2026-05-12 13:57",
+          "tags": []
+        },
+        {
+          "title": "Dessn raises $6M for its production focused design tool",
+          "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+          "source": "TechCrunch AI",
+          "summary": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases.",
+          "published_at": "2026-05-12 13:00",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "BetaWorks",
+            "design",
+            "Figma",
+            "Dessn"
+          ]
+        },
+        {
+          "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+          "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+          "source": "TechCrunch AI",
+          "summary": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.",
+          "published_at": "2026-05-12 11:30",
+          "tags": [
+            "AI",
+            "Bessemer Venture Partners",
+            "Kleiner Perkins",
+            "Exclusive",
+            "M12",
+            "Peak XV Partners",
+            "Vapi",
+            "Amazon Ring"
+          ]
+        },
+        {
+          "title": "Thinking Machines wants to build an AI that actually listens while it talks",
+          "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+          "source": "TechCrunch AI",
+          "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.",
+          "published_at": "2026-05-12 04:52",
+          "tags": [
+            "AI",
+            "interaction models",
+            "Mira Murati",
+            "Thinking Machines Lab"
+          ]
+        },
+        {
+          "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+          "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+          "source": "TechCrunch AI",
+          "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
+          "published_at": "2026-05-12 00:09",
+          "tags": [
+            "AI",
+            "Startups",
+            "Venture",
+            "IPO",
+            "retail investors",
+            "Robinhood"
+          ]
+        },
+        {
+          "title": "OpenAI just released its answer to Claude Mythos",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+          "source": "The Verge AI",
+          "summary": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely vulnerabilities, and then automate the detection of the higher [&#8230;]",
+          "published_at": "2026-05-11 19:05",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "News",
+            "OpenAI",
+            "Security",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Here&#8217;s what Mira Murati&#8217;s AI company is up to",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
+          "source": "The Verge AI",
+          "summary": "Thinking Machines, the AI company founded by former OpenAI CTO Mira Murati, announced Monday that it's working on something called \"interaction models.\" The idea behind interaction models, according to Thinking Machines, is that they will let people \"collaborate with AI the way we naturally collaborate with each other - they continuously take in audio, video, [&#8230;]",
+          "published_at": "2026-05-11 18:19",
+          "tags": [
+            "AI",
+            "News"
+          ]
+        },
+        {
+          "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
+          "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+          "source": "TechCrunch AI",
+          "summary": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and they're too expensive.",
+          "published_at": "2026-05-11 13:00",
+          "tags": [
+            "AI",
+            "Space",
+            "Aetherflux",
+            "baiju bhatt",
+            "Cowboy Space Company",
+            "data centers"
+          ]
+        },
+        {
+          "title": "Google stopped a zero-day hack that it says was developed with AI",
+          "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+          "source": "The Verge AI",
+          "summary": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actors\" were planning to use the vulnerability for a \"mass exploitation event\" that would have allowed them to bypass two-factor authentication on an unnamed [&#8230;]",
+          "published_at": "2026-05-11 12:09",
+          "tags": [
+            "AI",
+            "Google",
+            "News",
+            "Security",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+          "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+          "source": "The Verge AI",
+          "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Elon Musk, his financial [&#8230;]",
+          "published_at": "2026-05-11 11:27",
+          "tags": [
+            "AI",
+            "Elon Musk",
+            "Law",
+            "News",
+            "OpenAI",
+            "Policy",
+            "Tech",
+            "xAI"
+          ]
+        }
+      ]
     }
   ]
 }
