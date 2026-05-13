@@ -1,0 +1,203 @@
+{
+  "date": "2026-05-13",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-05-13 11:43:50",
+      "count": 18,
+      "articles": [
+        {
+          "title": "Self-hosted AI memory with web dashboard – Cloudflare Workers, D1, Vectorize",
+          "url": "https://github.com/rahilp/second-brain-cloudflare",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/rahilp/second-brain-cloudflare Comments URL: https://news.ycombinator.com/item?id=48117112 Points: 1 # Comments: 0",
+          "published_at": "2026-05-13 02:26",
+          "tags": []
+        },
+        {
+          "title": "Show HN: I spent $100 in Claude tokens and 1k battles training my AI tank",
+          "url": "https://agentank.ai/history/mat_8v9fSEZE8295dcZ8U",
+          "source": "Hacker News AI",
+          "summary": "Hi HN, I built AgenTank.It is a small game where an AI agent writes the logic for your tank. You watch it fight, give strategic feedback, let the agent update the tank code, and send it back into battle.I have run 1,000+ battles on my own tank and spent about $200 in Claude credits improving it. The part I enjoy most is not just winning, but watching the tank make visible mistakes, thinking of a better strategy, and seeing whether Claude can turn that into better code. Comments URL: https://news",
+          "published_at": "2026-05-13 02:20",
+          "tags": []
+        },
+        {
+          "title": "Using LLM in the shebang line of a script",
+          "url": "https://til.simonwillison.net/llms/llm-shebang",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://til.simonwillison.net/llms/llm-shebang Comments URL: https://news.ycombinator.com/item?id=48116986 Points: 3 # Comments: 0",
+          "published_at": "2026-05-13 02:03",
+          "tags": []
+        },
+        {
+          "title": "Revisiting \"No Silver Bullets\" in the Age of AI",
+          "url": "https://newsletter.pragmaticengineer.com/p/revisiting-no-silver-bullets-in-the",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://newsletter.pragmaticengineer.com/p/revisiting-no-silver-bullets-in-the Comments URL: https://news.ycombinator.com/item?id=48116862 Points: 1 # Comments: 1",
+          "published_at": "2026-05-13 01:43",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: Is your kids Alexa now have conversational AI?",
+          "url": "https://news.ycombinator.com/item?id=48116806",
+          "source": "Hacker News AI",
+          "summary": "I had a very locked down kids Alexa for my daughter that could just play music and stories and was age restricted. Today though its now a conversational AI and my daughter is talking to it like a human. How can I disable this? How the heck did they opt-in to this? Comments URL: https://news.ycombinator.com/item?id=48116806 Points: 1 # Comments: 0",
+          "published_at": "2026-05-13 01:35",
+          "tags": []
+        },
+        {
+          "title": "How AI Killed a 133-Year-Old Princeton Tradition",
+          "url": "https://www.theatlantic.com/ideas/2026/05/princeton-ai-honor-code/687144/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theatlantic.com/ideas/2026/05/princeton-ai-honor-code/687144/ Comments URL: https://news.ycombinator.com/item?id=48116752 Points: 4 # Comments: 0",
+          "published_at": "2026-05-13 01:23",
+          "tags": []
+        },
+        {
+          "title": "Atlas: An LLM inference engine written from scratch in Rust and CUDA",
+          "url": "https://atlasinference.io",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://atlasinference.io Comments URL: https://news.ycombinator.com/item?id=48116631 Points: 3 # Comments: 0",
+          "published_at": "2026-05-13 01:02",
+          "tags": []
+        },
+        {
+          "title": "AI shouldn't have a meter. Unlimited tokens. Forever",
+          "url": "https://www.openmonoagent.ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.openmonoagent.ai/ Comments URL: https://news.ycombinator.com/item?id=48116604 Points: 16 # Comments: 7",
+          "published_at": "2026-05-13 00:58",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Chrome extension that blocks API keys from being pasted into AI tools",
+          "url": "https://vaultbix.com",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://vaultbix.com Comments URL: https://news.ycombinator.com/item?id=48116429 Points: 2 # Comments: 0",
+          "published_at": "2026-05-13 00:34",
+          "tags": []
+        },
+        {
+          "title": "AI load breaks GitHub – why not other vendors?",
+          "url": "https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github/ Comments URL: https://news.ycombinator.com/item?id=48115918 Points: 7 # Comments: 3",
+          "published_at": "2026-05-12 23:27",
+          "tags": []
+        },
+        {
+          "title": "The newest AI boom pitch: Host a mini data center at your home",
+          "url": "https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/ Comments URL: https://news.ycombinator.com/item?id=48115754 Points: 2 # Comments: 0",
+          "published_at": "2026-05-12 23:06",
+          "tags": []
+        },
+        {
+          "title": "Anything that is underneath the cursor gets fed into Google's surveillance AI",
+          "url": "https://mastodon.social/@mcc/116563821063587689",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://mastodon.social/@mcc/116563821063587689 Comments URL: https://news.ycombinator.com/item?id=48115669 Points: 4 # Comments: 0",
+          "published_at": "2026-05-12 22:55",
+          "tags": []
+        },
+        {
+          "title": "Report: Google and SpaceX in talks to put data centers into orbit",
+          "url": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
+          "source": "TechCrunch AI",
+          "summary": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
+          "published_at": "2026-05-12 17:30",
+          "tags": [
+            "AI",
+            "Space",
+            "Alphabet",
+            "Anthropic",
+            "Google",
+            "In Brief",
+            "orbital data centers",
+            "SpaceX",
+            "xAI"
+          ]
+        },
+        {
+          "title": "Threads tests a Meta AI integration that works similarly to Grok",
+          "url": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
+          "source": "TechCrunch AI",
+          "summary": "The feature is designed to help people get real-time context about trends and breaking stories, as well as receive recommendations, all within conversations.",
+          "published_at": "2026-05-12 16:34",
+          "tags": [
+            "AI",
+            "Apps",
+            "Social",
+            "Meta",
+            "meta ai",
+            "Threads"
+          ]
+        },
+        {
+          "title": "Dessn raises $6M for its production-focused design tool",
+          "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+          "source": "TechCrunch AI",
+          "summary": "A new startup called Dessn has raised $6 million to build AI-powered design tools that work directly with production codebases.",
+          "published_at": "2026-05-12 13:00",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "BetaWorks",
+            "design",
+            "Dessn",
+            "Figma"
+          ]
+        },
+        {
+          "title": "Gemini&#8217;s latest updates are all about controlling your phone",
+          "url": "https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill",
+          "source": "The Verge AI",
+          "summary": "It is, once again, Gemini season. Google is announcing a host of new Gemini features during its pre-I/O Android showcase, many of which aim to help use your phone for you. You'll find Gemini in more places, like Chrome on Android, in your autofill suggestions, and all up in your apps - if you want. [&#8230;]",
+          "published_at": "2026-05-12 13:00",
+          "tags": [
+            "AI",
+            "Android",
+            "Google",
+            "Google I/O 2026",
+            "Mobile",
+            "Tech"
+          ]
+        },
+        {
+          "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+          "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+          "source": "TechCrunch AI",
+          "summary": "Vapi says its enterprise business has grown tenfold since early 2025 as companies shift customer support and sales calls to AI agents.",
+          "published_at": "2026-05-12 11:30",
+          "tags": [
+            "AI",
+            "Amazon Ring",
+            "Bessemer Venture Partners",
+            "Exclusive",
+            "Kleiner Perkins",
+            "M12",
+            "Peak XV Partners",
+            "Vapi"
+          ]
+        },
+        {
+          "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
+          "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+          "source": "TechCrunch AI",
+          "summary": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and they're too expensive.",
+          "published_at": "2026-05-11 13:00",
+          "tags": [
+            "AI",
+            "Space",
+            "Aetherflux",
+            "baiju bhatt",
+            "Cowboy Space Company",
+            "data centers"
+          ]
+        }
+      ]
+    }
+  ]
+}
