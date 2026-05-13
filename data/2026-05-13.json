@@ -198,6 +198,251 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-05-13 22:36:43",
+      "count": 23,
+      "articles": [
+        {
+          "title": "What breaks when AI-generated code reaches production systems",
+          "url": "https://deepsense.ai/blog/when-code-gets-cheaper-judgment-gets-more-precious-quality-bottlenecks-in-enterprise-ai-systems/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://deepsense.ai/blog/when-code-gets-cheaper-judgment-gets-more-precious-quality-bottlenecks-in-enterprise-ai-systems/ Comments URL: https://news.ycombinator.com/item?id=48122418 Points: 2 # Comments: 0",
+          "published_at": "2026-05-13 14:29",
+          "tags": []
+        },
+        {
+          "title": "Kyunghyuncho Teaching Fundamentals of Machine Learning",
+          "url": "https://kyunghyuncho.me/teaching-fundamentals-of-machine-learning/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://kyunghyuncho.me/teaching-fundamentals-of-machine-learning/ Comments URL: https://news.ycombinator.com/item?id=48122411 Points: 1 # Comments: 0",
+          "published_at": "2026-05-13 14:29",
+          "tags": []
+        },
+        {
+          "title": "AI Journal",
+          "url": "https://aijournal.store",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://aijournal.store Comments URL: https://news.ycombinator.com/item?id=48122357 Points: 1 # Comments: 0",
+          "published_at": "2026-05-13 14:25",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: What are you working on (non-AI)?",
+          "url": "https://news.ycombinator.com/item?id=48122103",
+          "source": "Hacker News AI",
+          "summary": "Please don't turn this into an inflammatory post.Regardless of \"AI\" being good or bad (it's not even just one thing as many of you know), I feel like the \"What are you working on?\" posts are drowning in things that use AI for something and/or are clearly \"AI slop\".I'd like to look at things other humans have been doing (even if they used a bit of some kind of AI for assistance), that aren't a product or tool that uses AI for something.I know it exists (and I use and build some), but it's incredi",
+          "published_at": "2026-05-13 14:07",
+          "tags": []
+        },
+        {
+          "title": "WhatsApp adds an incognito mode in Meta AI chats",
+          "url": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
+          "source": "TechCrunch AI",
+          "summary": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat.",
+          "published_at": "2026-05-13 14:00",
+          "tags": [
+            "AI",
+            "Apps",
+            "Meta",
+            "meta ai",
+            "WhatsApp"
+          ]
+        },
+        {
+          "title": "What if your AI could buy you a car?",
+          "url": "https://medium.com/@alex_21933/what-if-your-ai-could-actually-buy-you-a-car-7ba84bae4a55",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://medium.com/@alex_21933/what-if-your-ai-could-actually-buy-you-a-car-7ba84bae4a55 Comments URL: https://news.ycombinator.com/item?id=48121946 Points: 1 # Comments: 1",
+          "published_at": "2026-05-13 13:55",
+          "tags": []
+        },
+        {
+          "title": "The US Is Winning the AI Race",
+          "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://avkcode.github.io/blog/us-winning-ai-race.html Comments URL: https://news.ycombinator.com/item?id=48121929 Points: 30 # Comments: 45",
+          "published_at": "2026-05-13 13:53",
+          "tags": []
+        },
+        {
+          "title": "AI agents make small companies bigger",
+          "url": "https://text-incubation.com/ai-agents-make-small-companies-bigger",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://text-incubation.com/ai-agents-make-small-companies-bigger Comments URL: https://news.ycombinator.com/item?id=48121836 Points: 1 # Comments: 0",
+          "published_at": "2026-05-13 13:44",
+          "tags": []
+        },
+        {
+          "title": "Software Developers Say AI Is Rotting Their Brains",
+          "url": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/ Comments URL: https://news.ycombinator.com/item?id=48121717 Points: 44 # Comments: 48",
+          "published_at": "2026-05-13 13:34",
+          "tags": []
+        },
+        {
+          "title": "Claude's Constitution; or love as the solution to the AI alignment problem",
+          "url": "https://nintil.com/claude-constitution/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://nintil.com/claude-constitution/ Comments URL: https://news.ycombinator.com/item?id=48121669 Points: 1 # Comments: 0",
+          "published_at": "2026-05-13 13:30",
+          "tags": []
+        },
+        {
+          "title": "I tried to put an on-device LLM in an iOS Share Extension. It didn't fit",
+          "url": "https://apps.apple.com/ch/app/recipeinbox-rezept-speicher/id6766694174RecipeInbox:RezeptSpeicher",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://apps.apple.com/ch/app/recipeinbox-rezept-speicher/id6766694174RecipeInbox:RezeptSpeicher Comments URL: https://news.ycombinator.com/item?id=48121663 Points: 1 # Comments: 0",
+          "published_at": "2026-05-13 13:29",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Docker AI Stack – Deploy 8 self-hosted AI services with one command",
+          "url": "https://github.com/hwdsl2/docker-ai-stack",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/hwdsl2/docker-ai-stack Comments URL: https://news.ycombinator.com/item?id=48121643 Points: 1 # Comments: 0",
+          "published_at": "2026-05-13 13:27",
+          "tags": []
+        },
+        {
+          "title": "Helm AI Kernel – an open-source execution firewall for AI agents",
+          "url": "https://github.com/Mindburn-Labs/helm-ai-kernel",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/Mindburn-Labs/helm-ai-kernel Comments URL: https://news.ycombinator.com/item?id=48121617 Points: 1 # Comments: 0",
+          "published_at": "2026-05-13 13:25",
+          "tags": []
+        },
+        {
+          "title": "AI Coding Assistant Is Not Enough",
+          "url": "https://articles.zimetic.com/your-ai-coding-assistant-is-not-enough/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://articles.zimetic.com/your-ai-coding-assistant-is-not-enough/ Comments URL: https://news.ycombinator.com/item?id=48121580 Points: 2 # Comments: 0",
+          "published_at": "2026-05-13 13:22",
+          "tags": []
+        },
+        {
+          "title": "Princeton Changes Its 133-Year-Old Honor Code over AI Cheating Fears",
+          "url": "https://www.wsj.com/us-news/education/princeton-cheating-ai-proctors-2a1cf62e",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wsj.com/us-news/education/princeton-cheating-ai-proctors-2a1cf62e Comments URL: https://news.ycombinator.com/item?id=48121542 Points: 2 # Comments: 1",
+          "published_at": "2026-05-13 13:19",
+          "tags": []
+        },
+        {
+          "title": "Beyond the Coding Assistant: A Series on AI-Assisted Software Engineering",
+          "url": "https://articles.zimetic.com/beyond-the-coding-assistant-a-series-on-ai-assisted-software-engineering/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://articles.zimetic.com/beyond-the-coding-assistant-a-series-on-ai-assisted-software-engineering/ Comments URL: https://news.ycombinator.com/item?id=48121506 Points: 2 # Comments: 0",
+          "published_at": "2026-05-13 13:16",
+          "tags": []
+        },
+        {
+          "title": "Alexa is moving into Amazon.com",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus",
+          "source": "The Verge AI",
+          "summary": "Amazon is bringing Alexa Plus to Amazon.com, integrating its LLM-powered AI assistant directly into the company's shopping experience. Beginning today, when you type a query into Amazon, you'll be talking to Alexa for Shopping, the company's new shopping assistant, powered by Alexa Plus. So, while a search for \"toilet paper\" will still return the expected [&#8230;]",
+          "published_at": "2026-05-13 09:00",
+          "tags": [
+            "AI",
+            "Amazon",
+            "Amazon Alexa",
+            "News",
+            "Online Shopping",
+            "Smart Home",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Threads tests a Meta AI integration that works similarly to Grok",
+          "url": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
+          "source": "TechCrunch AI",
+          "summary": "The feature is designed to help people get real-time context about trends and breaking stories, as well as receive recommendations, all within conversations.",
+          "published_at": "2026-05-12 16:34",
+          "tags": [
+            "AI",
+            "Apps",
+            "Social",
+            "Meta",
+            "meta ai",
+            "Threads"
+          ]
+        },
+        {
+          "title": "Dessn raises $6M for its production-focused design tool",
+          "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+          "source": "TechCrunch AI",
+          "summary": "A new startup called Dessn has raised $6 million to build AI-powered design tools that work directly with production codebases.",
+          "published_at": "2026-05-12 13:00",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "BetaWorks",
+            "design",
+            "Dessn",
+            "Figma"
+          ]
+        },
+        {
+          "title": "The 9 biggest new features in Android 17",
+          "url": "https://www.theverge.com/tech/928653/google-android-17-9-biggest-new-features-android-show-io",
+          "source": "The Verge AI",
+          "summary": "Would it shock you to hear that Android 17 is filled with new AI-enabled features, like improved dictation and vibe-coded widgets? Fortunately, that's not all. The platform is getting non-AI updates too, from an emoji overhaul to a new screentime tool that helps you avoid distracting apps. Google has just revealed the biggest changes coming [&#8230;]",
+          "published_at": "2026-05-12 13:00",
+          "tags": [
+            "AI",
+            "Android",
+            "Apps",
+            "Google",
+            "Tech"
+          ]
+        },
+        {
+          "title": "George Clooney, Tom Hanks, and Meryl Streep back new &#8216;Human Consent Standard&#8217; for AI licensing",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/928534/rsl-media-human-consent-standard",
+          "source": "The Verge AI",
+          "summary": "Hollywood actors and producers are standing behind a new AI licensing standard that will tell AI systems whether they'll need to pay to use a person's likeness, creative work, characters, and designs. With the Human Consent Standard, people can set terms for the use of their work or likeness, including giving AI systems full permission [&#8230;]",
+          "published_at": "2026-05-12 12:00",
+          "tags": [
+            "AI",
+            "Entertainment",
+            "News",
+            "Tech",
+            "Web"
+          ]
+        },
+        {
+          "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+          "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+          "source": "TechCrunch AI",
+          "summary": "Vapi says its enterprise business has grown tenfold since early 2025 as companies shift customer support and sales calls to AI agents.",
+          "published_at": "2026-05-12 11:30",
+          "tags": [
+            "AI",
+            "Amazon Ring",
+            "Bessemer Venture Partners",
+            "Exclusive",
+            "Kleiner Perkins",
+            "M12",
+            "Peak XV Partners",
+            "Vapi"
+          ]
+        },
+        {
+          "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+          "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+          "source": "TechCrunch AI",
+          "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
+          "published_at": "2026-05-11 23:04",
+          "tags": [
+            "AI",
+            "Transportation",
+            "GM",
+            "Layoffs"
+          ]
+        }
+      ]
     }
   ]
 }
