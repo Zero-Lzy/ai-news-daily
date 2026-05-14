@@ -1,5 +1,124 @@
 [
   {
+    "title": "Charity Majors on AI, Observability, and the Future of Software [audio]",
+    "url": "https://scalingdevtools.com/podcast/episodes/charity",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://scalingdevtools.com/podcast/episodes/charity Comments URL: https://news.ycombinator.com/item?id=48130605 Points: 1 # Comments: 0",
+    "published_at": "2026-05-14 03:01",
+    "tags": [],
+    "fetch_date": "2026-05-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Measuring the Self-Reported Impact of Early-2026 AI on Tech Worker Productivity",
+    "url": "https://metr.org/blog/2026-05-11-ai-usage-survey/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://metr.org/blog/2026-05-11-ai-usage-survey/ Comments URL: https://news.ycombinator.com/item?id=48130558 Points: 1 # Comments: 1",
+    "published_at": "2026-05-14 02:53",
+    "tags": [],
+    "fetch_date": "2026-05-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Containarium – self-hosted sandbox for AI agents, MCP-native",
+    "url": "https://github.com/footprintai/Containarium",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/footprintai/Containarium Comments URL: https://news.ycombinator.com/item?id=48130526 Points: 1 # Comments: 0",
+    "published_at": "2026-05-14 02:46",
+    "tags": [],
+    "fetch_date": "2026-05-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The Other Half of AI Safety",
+    "url": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://personalaisafety.com/p/the-other-half-of-ai-safety Comments URL: https://news.ycombinator.com/item?id=48129561 Points: 52 # Comments: 67",
+    "published_at": "2026-05-14 00:27",
+    "tags": [],
+    "fetch_date": "2026-05-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Cyber Lack of Security and AI Governance",
+    "url": "https://thezvi.substack.com/p/cyber-lack-of-security-and-ai-governance",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://thezvi.substack.com/p/cyber-lack-of-security-and-ai-governance Comments URL: https://news.ycombinator.com/item?id=48129225 Points: 2 # Comments: 0",
+    "published_at": "2026-05-13 23:47",
+    "tags": [],
+    "fetch_date": "2026-05-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Robyx-AI, Your AI staff, managed from chat",
+    "url": "https://github.com/terrordrummer/robyx-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/terrordrummer/robyx-ai Comments URL: https://news.ycombinator.com/item?id=48128684 Points: 1 # Comments: 0",
+    "published_at": "2026-05-13 22:55",
+    "tags": [],
+    "fetch_date": "2026-05-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Unity AI Open Beta",
+    "url": "https://unity.com/features/ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://unity.com/features/ai Comments URL: https://news.ycombinator.com/item?id=48128572 Points: 3 # Comments: 0",
+    "published_at": "2026-05-13 22:44",
+    "tags": [],
+    "fetch_date": "2026-05-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Notion just turned its workspace into a hub for AI agents",
+    "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+    "source": "TechCrunch AI",
+    "summary": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
+    "published_at": "2026-05-13 21:45",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "AI agents",
+      "Notion"
+    ],
+    "fetch_date": "2026-05-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+    "url": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+    "source": "TechCrunch AI",
+    "summary": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
+    "published_at": "2026-05-13 19:49",
+    "tags": [
+      "AI",
+      "Climate",
+      "air pollution",
+      "data centers",
+      "Elon Musk",
+      "natural gas",
+      "xAI"
+    ],
+    "fetch_date": "2026-05-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Microsoft&#8217;s Edge Copilot update uses AI to pull information from across your tabs",
+    "url": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs",
+    "source": "The Verge AI",
+    "summary": "Microsoft Edge is adding a new feature that will allow its Copilot AI chatbot to gather information from all of your open tabs. When you start a conversation with Copilot, you can ask the chatbot questions about what's in your tabs, compare the products you're looking at, summarize your open articles, and more. In its [&#8230;]",
+    "published_at": "2026-05-13 18:04",
+    "tags": [
+      "AI",
+      "Microsoft",
+      "News",
+      "Tech",
+      "Web"
+    ],
+    "fetch_date": "2026-05-14",
+    "fetch_label": "早报"
+  },
+  {
     "title": "What breaks when AI-generated code reaches production systems",
     "url": "https://deepsense.ai/blog/when-code-gets-cheaper-judgment-gets-more-precious-quality-bottlenecks-in-enterprise-ai-systems/",
     "source": "Hacker News AI",
@@ -304,6 +423,21 @@
     "fetch_label": "早报"
   },
   {
+    "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+    "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+    "source": "TechCrunch AI",
+    "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usually did not give it up.\"",
+    "published_at": "2026-05-12 18:05",
+    "tags": [
+      "AI",
+      "Elon Musk",
+      "OpenAI",
+      "sam altman"
+    ],
+    "fetch_date": "2026-05-14",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Report: Google and SpaceX in talks to put data centers into orbit",
     "url": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
     "source": "TechCrunch AI",
@@ -321,6 +455,39 @@
       "xAI"
     ],
     "fetch_date": "2026-05-13",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
+    "url": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
+    "source": "TechCrunch AI",
+    "summary": "Anthropic's new tools are designed to help law firms automate specific clerical functions — things like document search and review, case law resources, deposition prep, document drafting, and other related areas.",
+    "published_at": "2026-05-12 17:00",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Claude",
+      "Harvey",
+      "legora"
+    ],
+    "fetch_date": "2026-05-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Google brings agentic AI and vibe-coded widgets to Android",
+    "url": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
+    "source": "TechCrunch AI",
+    "summary": "Gemini Intelligence will also include Gboard-based dictation and form-filling capabilities.",
+    "published_at": "2026-05-12 17:00",
+    "tags": [
+      "AI",
+      "Apps",
+      "Chrome",
+      "gemini",
+      "Google",
+      "vibe coding"
+    ],
+    "fetch_date": "2026-05-14",
     "fetch_label": "早报"
   },
   {
