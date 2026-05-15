@@ -1,0 +1,229 @@
+{
+  "date": "2026-05-15",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-05-15 11:47:58",
+      "count": 22,
+      "articles": [
+        {
+          "title": "Systematically Auditing AI Agent Benchmarks with BenchJack",
+          "url": "https://arxiv.org/abs/2605.12673",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2605.12673 Comments URL: https://news.ycombinator.com/item?id=48144283 Points: 1 # Comments: 0",
+          "published_at": "2026-05-15 03:38",
+          "tags": []
+        },
+        {
+          "title": "Big tech is sacrificing its cashflows to prop up the AI boom",
+          "url": "https://www.economist.com/business/2026/05/13/big-tech-is-sacrificing-its-cashflows-to-prop-up-the-ai-boom",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.economist.com/business/2026/05/13/big-tech-is-sacrificing-its-cashflows-to-prop-up-the-ai-boom Comments URL: https://news.ycombinator.com/item?id=48144202 Points: 2 # Comments: 0",
+          "published_at": "2026-05-15 03:26",
+          "tags": []
+        },
+        {
+          "title": "A defunct email service as a template for campus AI",
+          "url": "https://nathanschneider.info/2026/05/a-defunct-email-service-as-a-template-for-campus-ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://nathanschneider.info/2026/05/a-defunct-email-service-as-a-template-for-campus-ai/ Comments URL: https://news.ycombinator.com/item?id=48144036 Points: 1 # Comments: 0",
+          "published_at": "2026-05-15 02:57",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: What is shared across participants within \"AI-native\" environments?",
+          "url": "https://news.ycombinator.com/item?id=48143975",
+          "source": "Hacker News AI",
+          "summary": "I see a lot of discussions happening around AI workflows nowadays; not only on social medias, but also in my working environment.Less about architectures or principles, more and more about prompting, agents, MCPs.Less about what and how \"the work\" should be done, becoming more what and how \"the instructions\" should be written for AI.Am I the only one experiencing it? Comments URL: https://news.ycombinator.com/item?id=48143975 Points: 1 # Comments: 1",
+          "published_at": "2026-05-15 02:48",
+          "tags": []
+        },
+        {
+          "title": "AI co-mathematician: Accelerating mathematicians with agentic AI",
+          "url": "https://arxiv.org/abs/2605.06651",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2605.06651 Comments URL: https://news.ycombinator.com/item?id=48143791 Points: 1 # Comments: 0",
+          "published_at": "2026-05-15 02:22",
+          "tags": []
+        },
+        {
+          "title": "AI music generator so YouTubers never get copyright strikes",
+          "url": "https://dmitrithegamer.github.io/soundcraft/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://dmitrithegamer.github.io/soundcraft/ Comments URL: https://news.ycombinator.com/item?id=48143727 Points: 1 # Comments: 0",
+          "published_at": "2026-05-15 02:11",
+          "tags": []
+        },
+        {
+          "title": "WordPress Lost 19% of the Internet to AI [video]",
+          "url": "https://www.youtube.com/watch?v=0tFRdZWmGdc",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=0tFRdZWmGdc Comments URL: https://news.ycombinator.com/item?id=48143686 Points: 1 # Comments: 0",
+          "published_at": "2026-05-15 02:06",
+          "tags": []
+        },
+        {
+          "title": "GPT convinced me there was a bug in my code before a freeze",
+          "url": "https://www.droppedasbaby.com/posts/2602-02/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.droppedasbaby.com/posts/2602-02/ Comments URL: https://news.ycombinator.com/item?id=48143647 Points: 1 # Comments: 0",
+          "published_at": "2026-05-15 02:00",
+          "tags": []
+        },
+        {
+          "title": "AI Slopification and Writing",
+          "url": "https://ordinaryintelligence.substack.com/p/ai-slopification",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://ordinaryintelligence.substack.com/p/ai-slopification Comments URL: https://news.ycombinator.com/item?id=48143372 Points: 3 # Comments: 0",
+          "published_at": "2026-05-15 01:22",
+          "tags": []
+        },
+        {
+          "title": "Princeton will supervise exams for first time in 133 years because of AI",
+          "url": "https://www.independent.co.uk/news/world/americas/princeton-proctor-exams-ai-b2976111.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.independent.co.uk/news/world/americas/princeton-proctor-exams-ai-b2976111.html Comments URL: https://news.ycombinator.com/item?id=48143304 Points: 2 # Comments: 0",
+          "published_at": "2026-05-15 01:11",
+          "tags": []
+        },
+        {
+          "title": "Cut Off: why access to frontier AI will soon be scarce and selective",
+          "url": "https://writing.antonleicht.me/p/cut-off",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://writing.antonleicht.me/p/cut-off Comments URL: https://news.ycombinator.com/item?id=48143284 Points: 4 # Comments: 0",
+          "published_at": "2026-05-15 01:08",
+          "tags": []
+        },
+        {
+          "title": "15% of AI agent skill files carry hardcoded credentials with DB write access",
+          "url": "https://securityboulevard.com/2026/05/capsule-security-analysis-details-scope-of-vulnerable-ai-agent-attack-surface/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://securityboulevard.com/2026/05/capsule-security-analysis-details-scope-of-vulnerable-ai-agent-attack-surface/ Comments URL: https://news.ycombinator.com/item?id=48143167 Points: 4 # Comments: 0",
+          "published_at": "2026-05-15 00:51",
+          "tags": []
+        },
+        {
+          "title": "A Private Way to Chat with AI",
+          "url": "https://about.fb.com/news/2026/05/incognito-chat-whatsapp-meta-ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://about.fb.com/news/2026/05/incognito-chat-whatsapp-meta-ai/ Comments URL: https://news.ycombinator.com/item?id=48143091 Points: 2 # Comments: 2",
+          "published_at": "2026-05-15 00:39",
+          "tags": []
+        },
+        {
+          "title": "AI detected a person in the Blessed Sacrament",
+          "url": "https://twitter.com/trad_west_/status/2055029902349598827",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://twitter.com/trad_west_/status/2055029902349598827 Comments URL: https://news.ycombinator.com/item?id=48142940 Points: 2 # Comments: 2",
+          "published_at": "2026-05-15 00:19",
+          "tags": []
+        },
+        {
+          "title": "LLM Policy for Rust Compiler",
+          "url": "https://github.com/rust-lang/rust-forge/pull/1040",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/rust-lang/rust-forge/pull/1040 Comments URL: https://news.ycombinator.com/item?id=48142650 Points: 19 # Comments: 6",
+          "published_at": "2026-05-14 23:37",
+          "tags": []
+        },
+        {
+          "title": "OpenAI says Codex is coming to your phone",
+          "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+          "source": "TechCrunch AI",
+          "summary": "The update gives users enhanced flexibility over how they can manage their workflows.",
+          "published_at": "2026-05-14 20:58",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "ChatGPT",
+            "codex",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Closing time",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis",
+          "source": "The Verge AI",
+          "summary": "Today was closing arguments in the Musk v. Altman trial, and I almost feel bad writing about the unbelievable demolition derby I just witnessed. Steven Molo, Musk's lawyer, stumbled over his words. He at one point called Greg Brockman - a co-defendant - Greg Altman. He erroneously claimed that Musk wasn't asking for money and [&#8230;]",
+          "published_at": "2026-05-14 18:21",
+          "tags": [
+            "AI",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Behold, the Elon Musk jackass trophy",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
+          "source": "The Verge AI",
+          "summary": "Yesterday, in Musk v. Altman, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a little league trophy. It was not. Yvonne Gonzalez Rogers had the lawyers read the inscription aloud for the press: \"Never stop being a jackass.\" It's a commemoration OpenAI employees bought for [&#8230;]",
+          "published_at": "2026-05-14 16:59",
+          "tags": [
+            "AI",
+            "Elon Musk",
+            "OpenAI",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
+          "url": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
+          "source": "TechCrunch AI",
+          "summary": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
+          "published_at": "2026-05-14 15:20",
+          "tags": [
+            "AI",
+            "Fintech",
+            "Venture",
+            "accounting",
+            "bench",
+            "Khosla Ventures",
+            "synthetic"
+          ]
+        },
+        {
+          "title": "Use this map to find the data centers in your backyard",
+          "url": "https://www.theverge.com/policy/930629/data-center-policy-map-interactive",
+          "source": "The Verge AI",
+          "summary": "When Oregon resident Isabelle Reksopuro heard Google was gobbling up public land to fuel its data centers in her home state, she didn't initially know what to believe. \"There's a lot of misinformation about data centers,\" she said. \"Google has denied taking that land.\" Technically, she explains, The Dalles, a city near the Washington state [&#8230;]",
+          "published_at": "2026-05-14 13:40",
+          "tags": [
+            "AI",
+            "Policy",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+          "url": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+          "source": "TechCrunch AI",
+          "summary": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
+          "published_at": "2026-05-13 19:49",
+          "tags": [
+            "AI",
+            "Climate",
+            "air pollution",
+            "data centers",
+            "Elon Musk",
+            "In Brief",
+            "natural gas",
+            "xAI"
+          ]
+        },
+        {
+          "title": "Microsoft&#8217;s Edge Copilot update uses AI to pull information from across your tabs",
+          "url": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs",
+          "source": "The Verge AI",
+          "summary": "Microsoft Edge is adding a new feature that will allow its Copilot AI chatbot to gather information from all of your open tabs. When you start a conversation with Copilot, you can ask the chatbot questions about what's in your tabs, compare the products you're looking at, summarize your open articles, and more. In its [&#8230;]",
+          "published_at": "2026-05-13 18:04",
+          "tags": [
+            "AI",
+            "Microsoft",
+            "News",
+            "Tech",
+            "Web"
+          ]
+        }
+      ]
+    }
+  ]
+}
