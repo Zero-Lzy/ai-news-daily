@@ -224,6 +224,240 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-05-15 22:09:13",
+      "count": 23,
+      "articles": [
+        {
+          "title": "The U.S. has 1,200 AI bills and no good test for any of them",
+          "url": "https://fortune.com/2026/05/15/ai-policy-patchwork-state-federal-regulation-framework-sonnenfeld-marcus/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://fortune.com/2026/05/15/ai-policy-patchwork-state-federal-regulation-framework-sonnenfeld-marcus/ Comments URL: https://news.ycombinator.com/item?id=48148635 Points: 3 # Comments: 0",
+          "published_at": "2026-05-15 13:54",
+          "tags": []
+        },
+        {
+          "title": "What we learned using AI agents to refactor a monolith",
+          "url": "https://1password.com/blog/what-we-learned-using-ai-agents-to-refactor-a-monolith",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://1password.com/blog/what-we-learned-using-ai-agents-to-refactor-a-monolith Comments URL: https://news.ycombinator.com/item?id=48148471 Points: 2 # Comments: 0",
+          "published_at": "2026-05-15 13:40",
+          "tags": []
+        },
+        {
+          "title": "AI is wiping out entry-level jobs",
+          "url": "https://fortune.com/2026/05/15/ai-entry-level-jobs-higher-education-experience-gap/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://fortune.com/2026/05/15/ai-entry-level-jobs-higher-education-experience-gap/ Comments URL: https://news.ycombinator.com/item?id=48148440 Points: 25 # Comments: 14",
+          "published_at": "2026-05-15 13:38",
+          "tags": []
+        },
+        {
+          "title": "The Wonders of AI: We Are Retiring Our Bug Bounty Program",
+          "url": "https://turso.tech/blog/the-wonders-of-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://turso.tech/blog/the-wonders-of-ai Comments URL: https://news.ycombinator.com/item?id=48148391 Points: 56 # Comments: 16",
+          "published_at": "2026-05-15 13:33",
+          "tags": []
+        },
+        {
+          "title": "Amazon workers under pressure to up their AI usage–so they're making up tasks",
+          "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks Comments URL: https://news.ycombinator.com/item?id=48148337 Points: 19 # Comments: 9",
+          "published_at": "2026-05-15 13:28",
+          "tags": []
+        },
+        {
+          "title": "The AI layoffs end in 12 months and I know why [video]",
+          "url": "https://www.youtube.com/watch?v=doI1GYZ7r-w",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=doI1GYZ7r-w Comments URL: https://news.ycombinator.com/item?id=48148335 Points: 3 # Comments: 0",
+          "published_at": "2026-05-15 13:28",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: How are you using AI?",
+          "url": "https://news.ycombinator.com/item?id=48148293",
+          "source": "Hacker News AI",
+          "summary": "I'm a software developer and I do some DevOps. I've gone back and forth on the pendulum of AI. Code completion, having it generate code, write tests, scripts, even tried vibe coding something from scratch.There are times it amazes me with how \"capable\" it seems but more often than not I'm not happy with the end result as well as the missed opportunity to learn something or reinforce existing knowledge. At the same time I feel that it is useful in some scenarios and I just need to learn when and ",
+          "published_at": "2026-05-15 13:24",
+          "tags": []
+        },
+        {
+          "title": "Revswap.ai: Trade Dollars with other startups. Book it as revenue",
+          "url": "https://www.revswap.ai/#how",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.revswap.ai/#how Comments URL: https://news.ycombinator.com/item?id=48148287 Points: 1 # Comments: 0",
+          "published_at": "2026-05-15 13:23",
+          "tags": []
+        },
+        {
+          "title": "Show HN: PileaX – AI Chat and note and book Library, all-in-one KnowledgeBase",
+          "url": "https://github.com/pileax-ai/pileax",
+          "source": "Hacker News AI",
+          "summary": "Hi HN,I built an all-in-one AI KnowledgeBase.PileaX is a local-first, all-in-one AI knowledge base that integrates AI chat, smart notes, and e-book reading & management. From knowledge creation to application, PileaX helps you build a unified knowledge base and continuously optimizes the AI interaction experience with AI agent technologies.Your data is fully under your control. It supports offline desktop apps and flexibly deployable web apps.- Desktop Platform: Windows, macOS, Linux- EBook: EPU",
+          "published_at": "2026-05-15 13:23",
+          "tags": []
+        },
+        {
+          "title": "#1 on the leading AI memory benchmark using a smaller, cheaper model",
+          "url": "https://exabase.io/research/exabase-achieves-state-of-the-art-on-longmemeval-benchmark",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://exabase.io/research/exabase-achieves-state-of-the-art-on-longmemeval-benchmark Comments URL: https://news.ycombinator.com/item?id=48148237 Points: 3 # Comments: 1",
+          "published_at": "2026-05-15 13:19",
+          "tags": []
+        },
+        {
+          "title": "AI Fusion Photography",
+          "url": "https://aifusionphotography.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://aifusionphotography.com/ Comments URL: https://news.ycombinator.com/item?id=48148068 Points: 1 # Comments: 1",
+          "published_at": "2026-05-15 13:03",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Vouch, I scanned 50 AI-coded repos with my own scanner",
+          "url": "https://www.vouch-secure.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.vouch-secure.com/ Comments URL: https://news.ycombinator.com/item?id=48147990 Points: 2 # Comments: 0",
+          "published_at": "2026-05-15 12:54",
+          "tags": []
+        },
+        {
+          "title": "The AI-Native Developer",
+          "url": "https://queue.acm.org/detail.cfm?id=3807961",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://queue.acm.org/detail.cfm?id=3807961 Comments URL: https://news.ycombinator.com/item?id=48147914 Points: 1 # Comments: 0",
+          "published_at": "2026-05-15 12:44",
+          "tags": []
+        },
+        {
+          "title": "Cerebras CEO: AI chip demand is 'not speculative', IPO price doubles",
+          "url": "https://fortune.com/2026/05/14/cerebras-one-of-the-biggest-ipos-of-the-year/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://fortune.com/2026/05/14/cerebras-one-of-the-biggest-ipos-of-the-year/ Comments URL: https://news.ycombinator.com/item?id=48147893 Points: 3 # Comments: 1",
+          "published_at": "2026-05-15 12:42",
+          "tags": []
+        },
+        {
+          "title": "AI Did Not",
+          "url": "https://www.stephenlewis.me/blog/ai-did-not/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.stephenlewis.me/blog/ai-did-not/ Comments URL: https://news.ycombinator.com/item?id=48147838 Points: 4 # Comments: 0",
+          "published_at": "2026-05-15 12:36",
+          "tags": []
+        },
+        {
+          "title": "AI research papers are getting better, and it’s a big problem for scientists",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem",
+          "source": "The Verge AI",
+          "summary": "Last summer, Peter Degen's postdoctoral supervisor came to him with an unusual problem: One of his papers was being cited too much. Citations are the currency of academia, but there was something unusual about these. Published in 2017, the paper had assessed the accuracy of a particular type of statistical analysis on epidemiological data and [&#8230;]",
+          "published_at": "2026-05-15 07:00",
+          "tags": [
+            "AI",
+            "Science"
+          ]
+        },
+        {
+          "title": "OpenAI says Codex is coming to your phone",
+          "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+          "source": "TechCrunch AI",
+          "summary": "The update gives users enhanced flexibility over how they can manage their workflows.",
+          "published_at": "2026-05-14 20:58",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "ChatGPT",
+            "codex",
+            "In Brief",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "What happens when AI starts building itself?",
+          "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+          "source": "TechCrunch AI",
+          "summary": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
+          "published_at": "2026-05-14 19:57",
+          "tags": [
+            "AI",
+            "greycroft",
+            "GV",
+            "recursive superintelligence",
+            "Richard Socher"
+          ]
+        },
+        {
+          "title": "Closing time",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis",
+          "source": "The Verge AI",
+          "summary": "Today was closing arguments in the Musk v. Altman trial, and I almost feel bad writing about the unbelievable demolition derby I just witnessed. Steven Molo, Musk's lawyer, stumbled over his words. He at one point called Greg Brockman - a co-defendant - Greg Altman. He erroneously claimed that Musk wasn't asking for money and [&#8230;]",
+          "published_at": "2026-05-14 18:21",
+          "tags": [
+            "AI",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
+          "source": "The Verge AI",
+          "summary": "OpenAI is going to let users access Codex, its desktop AI tool that can write code and use apps on your computer, from the ChatGPT app on your phone. Following the surge in popularity for Anthropic's Claude Code, OpenAI has been working quickly to try and catch up, including by cutting back on \"side quests,\" [&#8230;]",
+          "published_at": "2026-05-14 16:00",
+          "tags": [
+            "AI",
+            "Apps",
+            "News",
+            "OpenAI",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
+          "url": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
+          "source": "TechCrunch AI",
+          "summary": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
+          "published_at": "2026-05-14 14:01",
+          "tags": [
+            "AI",
+            "Security",
+            "chuck robbins",
+            "Cisco",
+            "cybersecurity",
+            "In Brief",
+            "Layoffs"
+          ]
+        },
+        {
+          "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
+          "url": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
+          "source": "TechCrunch AI",
+          "summary": "The company pivoted to being a data provider in 2023 and now supplies datasets of images, videos, design assets, and gaming and 3D content to AI labs.",
+          "published_at": "2026-05-14 14:00",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "AI data",
+            "Nava Ventures",
+            "Wirestock"
+          ]
+        },
+        {
+          "title": "Americans do not want AI data centers in their backyards",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/930477/ai-data-centers-gallup-survey-70-percent-opposition",
+          "source": "The Verge AI",
+          "summary": "Over 70 percent of Americans oppose AI data center construction in their area, according to a new Gallup survey. Just 7 percent said they were \"strongly\" in favor of new data centers. According to Gallup, data centers are so strongly disliked that Americans would prefer to live near a nuclear power plant than a data [&#8230;]",
+          "published_at": "2026-05-14 11:24",
+          "tags": [
+            "AI",
+            "News",
+            "Policy"
+          ]
+        }
+      ]
     }
   ]
 }
