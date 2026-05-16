@@ -195,6 +195,158 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-05-16 21:24:32",
+      "count": 16,
+      "articles": [
+        {
+          "title": "Git is unprepared for the AI coding tsunami",
+          "url": "https://www.theregister.com/devops/2026/05/15/git-is-unprepared-for-the-ai-coding-tsunami/5241480",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theregister.com/devops/2026/05/15/git-is-unprepared-for-the-ai-coding-tsunami/5241480 Comments URL: https://news.ycombinator.com/item?id=48160044 Points: 1 # Comments: 0",
+          "published_at": "2026-05-16 13:21",
+          "tags": []
+        },
+        {
+          "title": "A personal letter on transformative AI",
+          "url": "https://multipliercg.substack.com/p/a-personal-letter-on-transformative",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://multipliercg.substack.com/p/a-personal-letter-on-transformative Comments URL: https://news.ycombinator.com/item?id=48160020 Points: 1 # Comments: 0",
+          "published_at": "2026-05-16 13:17",
+          "tags": []
+        },
+        {
+          "title": "Can AI Un-Slop Itself?",
+          "url": "https://github.com/cuzzo/clear/blob/master/docs/retrospective/can-ai-unslop-itself.md",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/cuzzo/clear/blob/master/docs/retrospective/can-ai-unslop-itself.md Comments URL: https://news.ycombinator.com/item?id=48159910 Points: 1 # Comments: 0",
+          "published_at": "2026-05-16 13:04",
+          "tags": []
+        },
+        {
+          "title": "ArXiv to Ban Researchers for a Year If They Submit AI Slop",
+          "url": "https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/ Comments URL: https://news.ycombinator.com/item?id=48159794 Points: 4 # Comments: 0",
+          "published_at": "2026-05-16 12:49",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Pop the AI Bubble – A satirical card game mocking AI hype",
+          "url": "https://poptheaibubble.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://poptheaibubble.com/ Comments URL: https://news.ycombinator.com/item?id=48159546 Points: 1 # Comments: 1",
+          "published_at": "2026-05-16 12:22",
+          "tags": []
+        },
+        {
+          "title": "AI Agents Are Currently Stealing My Job, and Honestly? They Can Have It",
+          "url": "https://www.bwanaerp.com/blog/ai-agents-are-currently-stealing-my-job-and-honestly-they-can-have-it-12",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bwanaerp.com/blog/ai-agents-are-currently-stealing-my-job-and-honestly-they-can-have-it-12 Comments URL: https://news.ycombinator.com/item?id=48159432 Points: 2 # Comments: 0",
+          "published_at": "2026-05-16 12:04",
+          "tags": []
+        },
+        {
+          "title": "Prepare for an AI Jobs Apocalypse",
+          "url": "https://www.economist.com/leaders/2026/05/14/prepare-for-an-ai-jobs-apocalypse",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.economist.com/leaders/2026/05/14/prepare-for-an-ai-jobs-apocalypse Comments URL: https://news.ycombinator.com/item?id=48159291 Points: 10 # Comments: 0",
+          "published_at": "2026-05-16 11:45",
+          "tags": []
+        },
+        {
+          "title": "TokenBBQ – track AI coding token usage across Claude, Codex, Gemini",
+          "url": "https://github.com/offbyone1/tokenbbq",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/offbyone1/tokenbbq Comments URL: https://news.ycombinator.com/item?id=48159289 Points: 2 # Comments: 0",
+          "published_at": "2026-05-16 11:45",
+          "tags": []
+        },
+        {
+          "title": "Automated AI-Based Pigeon Defense System",
+          "url": "https://old.reddit.com/r/SideProject/comments/1s9ywir/automated_pigeon_defense_system/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://old.reddit.com/r/SideProject/comments/1s9ywir/automated_pigeon_defense_system/ Comments URL: https://news.ycombinator.com/item?id=48158835 Points: 2 # Comments: 1",
+          "published_at": "2026-05-16 10:29",
+          "tags": []
+        },
+        {
+          "title": "Setting up an AI-native organization",
+          "url": "https://aweb.ai/blog/ai-first-company-howto",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://aweb.ai/blog/ai-first-company-howto Comments URL: https://news.ycombinator.com/item?id=48158737 Points: 3 # Comments: 11",
+          "published_at": "2026-05-16 10:11",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Offline voice to text and AI keyboard",
+          "url": "https://apps.apple.com/us/app/dictawiz-voice-notes-recorder/id6759256382",
+          "source": "Hacker News AI",
+          "summary": "Record and transcribe anything, replay with word-by-word highlighting, and dictate/use AI into any app; all on-device and private.Includes a lot of features missing in Wispr Flow (Apple Watch recording, dark mode, no time-limits, smart notes and lifetime subscription plan). It has a lifetime subscription and upcoming MacOS companion. Comments URL: https://news.ycombinator.com/item?id=48158632 Points: 3 # Comments: 0",
+          "published_at": "2026-05-16 09:53",
+          "tags": []
+        },
+        {
+          "title": "The Japanese companies minting money from AI",
+          "url": "https://www.economist.com/business/2026/05/14/the-strange-japanese-companies-minting-money-from-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.economist.com/business/2026/05/14/the-strange-japanese-companies-minting-money-from-ai Comments URL: https://news.ycombinator.com/item?id=48158466 Points: 3 # Comments: 2",
+          "published_at": "2026-05-16 09:23",
+          "tags": []
+        },
+        {
+          "title": "Moving away from Tailwind, and learning to structure my CSS",
+          "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/ Comments URL: https://news.ycombinator.com/item?id=48158400 Points: 18 # Comments: 2",
+          "published_at": "2026-05-16 09:14",
+          "tags": []
+        },
+        {
+          "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
+          "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+          "source": "The Verge AI",
+          "summary": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detection feature uses a selfie-style scan of a person's face to monitor YouTube for lookalikes. If there is a match, YouTube alerts [&#8230;]",
+          "published_at": "2026-05-15 18:25",
+          "tags": [
+            "AI",
+            "Creators",
+            "Google",
+            "News",
+            "Streaming",
+            "Tech",
+            "YouTube"
+          ]
+        },
+        {
+          "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
+          "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
+          "source": "TechCrunch AI",
+          "summary": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
+          "published_at": "2026-05-15 18:14",
+          "tags": [
+            "AI",
+            "Climate",
+            "electrical grid",
+            "Lake Tahoe"
+          ]
+        },
+        {
+          "title": "ArXiv will ban researchers who upload papers full of AI slop",
+          "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+          "source": "The Verge AI",
+          "summary": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated references or \"meta-comments\" left by an LLM, authors will be [&#8230;]",
+          "published_at": "2026-05-15 16:38",
+          "tags": [
+            "AI",
+            "News",
+            "Science"
+          ]
+        }
+      ]
     }
   ]
 }
