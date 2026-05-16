@@ -1,5 +1,135 @@
 [
   {
+    "title": "What we should be afraid of in AI (2021)",
+    "url": "https://roganov.me/blog/ai-real-fears/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://roganov.me/blog/ai-real-fears/ Comments URL: https://news.ycombinator.com/item?id=48156499 Points: 1 # Comments: 0",
+    "published_at": "2026-05-16 03:08",
+    "tags": [],
+    "fetch_date": "2026-05-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask HN: Is there anything built around AI context drift problem to fix?",
+    "url": "https://news.ycombinator.com/item?id=48156498",
+    "source": "Hacker News AI",
+    "summary": "I am very interested to know, about AI context drift problem. mostly in Chat GPT I faced too much drift, it lost the the whole base context at first opening I given.How to fix that? It don't work also on project. Comments URL: https://news.ycombinator.com/item?id=48156498 Points: 1 # Comments: 2",
+    "published_at": "2026-05-16 03:08",
+    "tags": [],
+    "fetch_date": "2026-05-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI for the Real World: A Conversation with Yann LeCun",
+    "url": "https://twitter.com/AnneliesGamble/status/2054219457451733382",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/AnneliesGamble/status/2054219457451733382 Comments URL: https://news.ycombinator.com/item?id=48156223 Points: 2 # Comments: 0",
+    "published_at": "2026-05-16 02:20",
+    "tags": [],
+    "fetch_date": "2026-05-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Used to manage a collection of AI workflows for a single vertical domain – Wasup",
+    "url": "https://github.com/EdwardJoke/Wasup",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/EdwardJoke/Wasup Comments URL: https://news.ycombinator.com/item?id=48156103 Points: 1 # Comments: 1",
+    "published_at": "2026-05-16 01:56",
+    "tags": [],
+    "fetch_date": "2026-05-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Symposia AI",
+    "url": "https://www.trysymposiaai.com/landing",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.trysymposiaai.com/landing Comments URL: https://news.ycombinator.com/item?id=48155946 Points: 2 # Comments: 1",
+    "published_at": "2026-05-16 01:26",
+    "tags": [],
+    "fetch_date": "2026-05-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Jane Street's approach to AI adoption throughout their SDLC [video]",
+    "url": "https://www.youtube.com/watch?v=rUYP4C29yCw",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=rUYP4C29yCw Comments URL: https://news.ycombinator.com/item?id=48155904 Points: 3 # Comments: 1",
+    "published_at": "2026-05-16 01:18",
+    "tags": [],
+    "fetch_date": "2026-05-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "A Compression Tool for LLM Reads. Est. 60-95% Fewer Tokens",
+    "url": "https://github.com/chopratejas/headroom",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/chopratejas/headroom Comments URL: https://news.ycombinator.com/item?id=48155888 Points: 3 # Comments: 0",
+    "published_at": "2026-05-16 01:16",
+    "tags": [],
+    "fetch_date": "2026-05-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Gaps in AI Development Closing 2.1B in Pain",
+    "url": "https://news.novonavis.com/builders",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://news.novonavis.com/builders Comments URL: https://news.ycombinator.com/item?id=48155707 Points: 2 # Comments: 1",
+    "published_at": "2026-05-16 00:39",
+    "tags": [],
+    "fetch_date": "2026-05-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ken Liu on AI and Freedom",
+    "url": "https://www.chinatalk.media/p/ken-liu-on-ai-and-freedom",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.chinatalk.media/p/ken-liu-on-ai-and-freedom Comments URL: https://news.ycombinator.com/item?id=48155534 Points: 3 # Comments: 0",
+    "published_at": "2026-05-16 00:09",
+    "tags": [],
+    "fetch_date": "2026-05-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ghost Job Detector – AI that decodes fake job posts and HR lies",
+    "url": "https://ghost-job-detector-rlcx.vercel.app/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://ghost-job-detector-rlcx.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48155273 Points: 3 # Comments: 0",
+    "published_at": "2026-05-15 23:29",
+    "tags": [],
+    "fetch_date": "2026-05-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Adobe Latest Target in Wave of Lawsuits over AI Voice Training",
+    "url": "https://news.bloomberglaw.com/privacy-and-data-security/adobe-latest-target-in-wave-of-lawsuits-over-ai-voice-training",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://news.bloomberglaw.com/privacy-and-data-security/adobe-latest-target-in-wave-of-lawsuits-over-ai-voice-training Comments URL: https://news.ycombinator.com/item?id=48155005 Points: 2 # Comments: 0",
+    "published_at": "2026-05-15 22:57",
+    "tags": [],
+    "fetch_date": "2026-05-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Big Tech goes beyond Wall Street for AI borrowing",
+    "url": "https://www.ft.com/content/d137f1a1-4188-4784-b274-f53082d27aa8",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.ft.com/content/d137f1a1-4188-4784-b274-f53082d27aa8 Comments URL: https://news.ycombinator.com/item?id=48154966 Points: 2 # Comments: 0",
+    "published_at": "2026-05-15 22:51",
+    "tags": [],
+    "fetch_date": "2026-05-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Git is unprepared for the AI coding tsunami",
+    "url": "https://www.theregister.com/devops/2026/05/15/git-is-unprepared-for-the-ai-coding-tsunami/5241480",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theregister.com/devops/2026/05/15/git-is-unprepared-for-the-ai-coding-tsunami/5241480 Comments URL: https://news.ycombinator.com/item?id=48154854 Points: 3 # Comments: 1",
+    "published_at": "2026-05-15 22:37",
+    "tags": [],
+    "fetch_date": "2026-05-16",
+    "fetch_label": "早报"
+  },
+  {
     "title": "The U.S. has 1,200 AI bills and no good test for any of them",
     "url": "https://fortune.com/2026/05/15/ai-policy-patchwork-state-federal-regulation-framework-sonnenfeld-marcus/",
     "source": "Hacker News AI",
@@ -88,6 +218,24 @@
     "tags": [],
     "fetch_date": "2026-05-15",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
+    "source": "The Verge AI",
+    "summary": "Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there. \"Thinking Frequencies\" is run by Claude, \"OpenAIR\" by ChatGPT, \"Backlink Broadcast\" by Google's Gemini, and \"Grok and Roll [&#8230;]",
+    "published_at": "2026-05-15 13:09",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Google",
+      "News",
+      "OpenAI",
+      "Tech",
+      "xAI"
+    ],
+    "fetch_date": "2026-05-16",
+    "fetch_label": "早报"
   },
   {
     "title": "AI Fusion Photography",
@@ -360,6 +508,21 @@
       "Tech"
     ],
     "fetch_date": "2026-05-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
+    "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+    "source": "TechCrunch AI",
+    "summary": "A year ago, it looked like this day would never happen for Cerebras.",
+    "published_at": "2026-05-14 16:30",
+    "tags": [
+      "AI",
+      "Hardware",
+      "Cerebras",
+      "IPO"
+    ],
+    "fetch_date": "2026-05-16",
     "fetch_label": "早报"
   },
   {

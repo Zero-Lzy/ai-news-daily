@@ -1,0 +1,200 @@
+{
+  "date": "2026-05-16",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-05-16 11:30:48",
+      "count": 19,
+      "articles": [
+        {
+          "title": "What we should be afraid of in AI (2021)",
+          "url": "https://roganov.me/blog/ai-real-fears/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://roganov.me/blog/ai-real-fears/ Comments URL: https://news.ycombinator.com/item?id=48156499 Points: 1 # Comments: 0",
+          "published_at": "2026-05-16 03:08",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: Is there anything built around AI context drift problem to fix?",
+          "url": "https://news.ycombinator.com/item?id=48156498",
+          "source": "Hacker News AI",
+          "summary": "I am very interested to know, about AI context drift problem. mostly in Chat GPT I faced too much drift, it lost the the whole base context at first opening I given.How to fix that? It don't work also on project. Comments URL: https://news.ycombinator.com/item?id=48156498 Points: 1 # Comments: 2",
+          "published_at": "2026-05-16 03:08",
+          "tags": []
+        },
+        {
+          "title": "AI for the Real World: A Conversation with Yann LeCun",
+          "url": "https://twitter.com/AnneliesGamble/status/2054219457451733382",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://twitter.com/AnneliesGamble/status/2054219457451733382 Comments URL: https://news.ycombinator.com/item?id=48156223 Points: 2 # Comments: 0",
+          "published_at": "2026-05-16 02:20",
+          "tags": []
+        },
+        {
+          "title": "Used to manage a collection of AI workflows for a single vertical domain – Wasup",
+          "url": "https://github.com/EdwardJoke/Wasup",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/EdwardJoke/Wasup Comments URL: https://news.ycombinator.com/item?id=48156103 Points: 1 # Comments: 1",
+          "published_at": "2026-05-16 01:56",
+          "tags": []
+        },
+        {
+          "title": "Symposia AI",
+          "url": "https://www.trysymposiaai.com/landing",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.trysymposiaai.com/landing Comments URL: https://news.ycombinator.com/item?id=48155946 Points: 2 # Comments: 1",
+          "published_at": "2026-05-16 01:26",
+          "tags": []
+        },
+        {
+          "title": "Jane Street's approach to AI adoption throughout their SDLC [video]",
+          "url": "https://www.youtube.com/watch?v=rUYP4C29yCw",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=rUYP4C29yCw Comments URL: https://news.ycombinator.com/item?id=48155904 Points: 3 # Comments: 1",
+          "published_at": "2026-05-16 01:18",
+          "tags": []
+        },
+        {
+          "title": "A Compression Tool for LLM Reads. Est. 60-95% Fewer Tokens",
+          "url": "https://github.com/chopratejas/headroom",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/chopratejas/headroom Comments URL: https://news.ycombinator.com/item?id=48155888 Points: 3 # Comments: 0",
+          "published_at": "2026-05-16 01:16",
+          "tags": []
+        },
+        {
+          "title": "Gaps in AI Development Closing 2.1B in Pain",
+          "url": "https://news.novonavis.com/builders",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://news.novonavis.com/builders Comments URL: https://news.ycombinator.com/item?id=48155707 Points: 2 # Comments: 1",
+          "published_at": "2026-05-16 00:39",
+          "tags": []
+        },
+        {
+          "title": "Ken Liu on AI and Freedom",
+          "url": "https://www.chinatalk.media/p/ken-liu-on-ai-and-freedom",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.chinatalk.media/p/ken-liu-on-ai-and-freedom Comments URL: https://news.ycombinator.com/item?id=48155534 Points: 3 # Comments: 0",
+          "published_at": "2026-05-16 00:09",
+          "tags": []
+        },
+        {
+          "title": "Ghost Job Detector – AI that decodes fake job posts and HR lies",
+          "url": "https://ghost-job-detector-rlcx.vercel.app/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://ghost-job-detector-rlcx.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48155273 Points: 3 # Comments: 0",
+          "published_at": "2026-05-15 23:29",
+          "tags": []
+        },
+        {
+          "title": "Adobe Latest Target in Wave of Lawsuits over AI Voice Training",
+          "url": "https://news.bloomberglaw.com/privacy-and-data-security/adobe-latest-target-in-wave-of-lawsuits-over-ai-voice-training",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://news.bloomberglaw.com/privacy-and-data-security/adobe-latest-target-in-wave-of-lawsuits-over-ai-voice-training Comments URL: https://news.ycombinator.com/item?id=48155005 Points: 2 # Comments: 0",
+          "published_at": "2026-05-15 22:57",
+          "tags": []
+        },
+        {
+          "title": "Big Tech goes beyond Wall Street for AI borrowing",
+          "url": "https://www.ft.com/content/d137f1a1-4188-4784-b274-f53082d27aa8",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.ft.com/content/d137f1a1-4188-4784-b274-f53082d27aa8 Comments URL: https://news.ycombinator.com/item?id=48154966 Points: 2 # Comments: 0",
+          "published_at": "2026-05-15 22:51",
+          "tags": []
+        },
+        {
+          "title": "Git is unprepared for the AI coding tsunami",
+          "url": "https://www.theregister.com/devops/2026/05/15/git-is-unprepared-for-the-ai-coding-tsunami/5241480",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theregister.com/devops/2026/05/15/git-is-unprepared-for-the-ai-coding-tsunami/5241480 Comments URL: https://news.ycombinator.com/item?id=48154854 Points: 3 # Comments: 1",
+          "published_at": "2026-05-15 22:37",
+          "tags": []
+        },
+        {
+          "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
+          "source": "The Verge AI",
+          "summary": "Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there. \"Thinking Frequencies\" is run by Claude, \"OpenAIR\" by ChatGPT, \"Backlink Broadcast\" by Google's Gemini, and \"Grok and Roll [&#8230;]",
+          "published_at": "2026-05-15 13:09",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "Google",
+            "News",
+            "OpenAI",
+            "Tech",
+            "xAI"
+          ]
+        },
+        {
+          "title": "What happens when AI starts building itself?",
+          "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+          "source": "TechCrunch AI",
+          "summary": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
+          "published_at": "2026-05-14 19:57",
+          "tags": [
+            "AI",
+            "greycroft",
+            "GV",
+            "recursive superintelligence",
+            "Richard Socher"
+          ]
+        },
+        {
+          "title": "Closing time",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis",
+          "source": "The Verge AI",
+          "summary": "Today was closing arguments in the Musk v. Altman trial, and I almost feel bad writing about the unbelievable demolition derby I just witnessed. Steven Molo, Musk's lawyer, stumbled over his words. He at one point called Greg Brockman - a co-defendant - Greg Altman. He erroneously claimed that Musk wasn't asking for money and [&#8230;]",
+          "published_at": "2026-05-14 18:21",
+          "tags": [
+            "AI",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
+          "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+          "source": "TechCrunch AI",
+          "summary": "A year ago, it looked like this day would never happen for Cerebras.",
+          "published_at": "2026-05-14 16:30",
+          "tags": [
+            "AI",
+            "Hardware",
+            "Cerebras",
+            "IPO"
+          ]
+        },
+        {
+          "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
+          "url": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
+          "source": "TechCrunch AI",
+          "summary": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
+          "published_at": "2026-05-14 15:20",
+          "tags": [
+            "AI",
+            "Fintech",
+            "Venture",
+            "accounting",
+            "bench",
+            "Khosla Ventures",
+            "synthetic"
+          ]
+        },
+        {
+          "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
+          "url": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
+          "source": "TechCrunch AI",
+          "summary": "The company pivoted to being a data provider in 2023 and now supplies datasets of images, videos, design assets, and gaming and 3D content to AI labs.",
+          "published_at": "2026-05-14 14:00",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "AI data",
+            "Nava Ventures",
+            "Wirestock"
+          ]
+        }
+      ]
+    }
+  ]
+}
