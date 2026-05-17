@@ -1,0 +1,171 @@
+{
+  "date": "2026-05-17",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-05-17 11:48:06",
+      "count": 18,
+      "articles": [
+        {
+          "title": "Learning to Write (Again)",
+          "url": "https://jampa.bearblog.dev/learning-to-write-again/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://jampa.bearblog.dev/learning-to-write-again/ Comments URL: https://news.ycombinator.com/item?id=48165853 Points: 1 # Comments: 0",
+          "published_at": "2026-05-17 03:37",
+          "tags": []
+        },
+        {
+          "title": "Recent Developments in LLM Architectures: KV Sharing, MHC, Compressed Attention",
+          "url": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures Comments URL: https://news.ycombinator.com/item?id=48165807 Points: 1 # Comments: 0",
+          "published_at": "2026-05-17 03:27",
+          "tags": []
+        },
+        {
+          "title": "AI Faceless Video Generator for TikTok, Shorts and Reels",
+          "url": "https://faceless-video.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://faceless-video.com/ Comments URL: https://news.ycombinator.com/item?id=48165742 Points: 1 # Comments: 0",
+          "published_at": "2026-05-17 03:08",
+          "tags": []
+        },
+        {
+          "title": "The Blind Witness: AI observer with fu",
+          "url": "https://theairtgroup.com/blind-witness.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://theairtgroup.com/blind-witness.html Comments URL: https://news.ycombinator.com/item?id=48165725 Points: 1 # Comments: 0",
+          "published_at": "2026-05-17 03:04",
+          "tags": []
+        },
+        {
+          "title": "Unmanned lab opens with robots at work as researchers push AI, automation",
+          "url": "https://japantoday.com/category/tech/unmanned-lab-opens-with-robots-at-work-as-researchers-push-ai-automation",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://japantoday.com/category/tech/unmanned-lab-opens-with-robots-at-work-as-researchers-push-ai-automation Comments URL: https://news.ycombinator.com/item?id=48165623 Points: 1 # Comments: 0",
+          "published_at": "2026-05-17 02:40",
+          "tags": []
+        },
+        {
+          "title": "AI Poised to Tilt Job Market Leverage Toward Older Workers",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-16/ai-poised-to-tilt-job-market-leverage-toward-older-workers",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-16/ai-poised-to-tilt-job-market-leverage-toward-older-workers Comments URL: https://news.ycombinator.com/item?id=48165248 Points: 5 # Comments: 3",
+          "published_at": "2026-05-17 01:14",
+          "tags": []
+        },
+        {
+          "title": "Humans VS AI.IO – Update, New features and turrets",
+          "url": "https://humansvsai.io",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://humansvsai.io Comments URL: https://news.ycombinator.com/item?id=48165169 Points: 1 # Comments: 0",
+          "published_at": "2026-05-17 00:55",
+          "tags": []
+        },
+        {
+          "title": "Curl maintainer: AI security reports are no longer slop",
+          "url": "https://daniel.haxx.se/blog/2026/04/22/high-quality-chaos/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://daniel.haxx.se/blog/2026/04/22/high-quality-chaos/ Comments URL: https://news.ycombinator.com/item?id=48164849 Points: 5 # Comments: 1",
+          "published_at": "2026-05-16 23:52",
+          "tags": []
+        },
+        {
+          "title": "We built a zero-telemetry Native Rust AI engine. (Ghost Lock included)",
+          "url": "https://github.com/jrabbass/-esai-community-edition",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/jrabbass/-esai-community-edition Comments URL: https://news.ycombinator.com/item?id=48164600 Points: 1 # Comments: 0",
+          "published_at": "2026-05-16 23:11",
+          "tags": []
+        },
+        {
+          "title": "AI's eyes to help with component inspections",
+          "url": "https://newsreleases.sandia.gov/ai-inspections/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://newsreleases.sandia.gov/ai-inspections/ Comments URL: https://news.ycombinator.com/item?id=48164584 Points: 1 # Comments: 0",
+          "published_at": "2026-05-16 23:07",
+          "tags": []
+        },
+        {
+          "title": "Singapore Foreign Minister's Keynote at AI Engineer Singapore",
+          "url": "https://www.youtube.com/watch?v=t-4a20_iYhg",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=t-4a20_iYhg Comments URL: https://news.ycombinator.com/item?id=48164557 Points: 2 # Comments: 0",
+          "published_at": "2026-05-16 23:03",
+          "tags": []
+        },
+        {
+          "title": "AI Memory Reader – Native macOS app for browsing Claude Code memory files",
+          "url": "https://github.com/nvwalj/ai-memory-reader",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/nvwalj/ai-memory-reader Comments URL: https://news.ycombinator.com/item?id=48164406 Points: 3 # Comments: 0",
+          "published_at": "2026-05-16 22:41",
+          "tags": []
+        },
+        {
+          "title": "AI face is taking over – and driving plastic surgeons crazy",
+          "url": "https://www.businessinsider.com/ai-generated-images-chatgpt-reshape-plastic-surgery-beauty-expectations-2026-5",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.businessinsider.com/ai-generated-images-chatgpt-reshape-plastic-surgery-beauty-expectations-2026-5 Comments URL: https://news.ycombinator.com/item?id=48164072 Points: 2 # Comments: 0",
+          "published_at": "2026-05-16 21:42",
+          "tags": []
+        },
+        {
+          "title": "Pity the poor AI datacenters facing 'discrimination'",
+          "url": "https://www.theguardian.com/commentisfree/2026/may/16/pity-the-poor-ai-datacenters-facing-discrimination",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theguardian.com/commentisfree/2026/may/16/pity-the-poor-ai-datacenters-facing-discrimination Comments URL: https://news.ycombinator.com/item?id=48164034 Points: 6 # Comments: 0",
+          "published_at": "2026-05-16 21:37",
+          "tags": []
+        },
+        {
+          "title": "Google AI Overview – \"Tersely\"",
+          "url": "https://www.google.com/search?q=tersely&oq=tersely",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.google.com/search?q=tersely&amp;oq=tersely Comments URL: https://news.ycombinator.com/item?id=48163930 Points: 1 # Comments: 0",
+          "published_at": "2026-05-16 21:21",
+          "tags": []
+        },
+        {
+          "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+          "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+          "source": "TechCrunch AI",
+          "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
+          "published_at": "2026-05-16 18:54",
+          "tags": [
+            "AI",
+            "arxiv"
+          ]
+        },
+        {
+          "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
+          "url": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
+          "source": "The Verge AI",
+          "summary": "After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos, but makes suggestions based on lighting, depth, and subject. Point the camera at something, and it will give you four options [&#8230;]",
+          "published_at": "2026-05-16 11:37",
+          "tags": [
+            "AI",
+            "Cameras",
+            "Gadgets",
+            "News",
+            "Sony",
+            "Tech"
+          ]
+        },
+        {
+          "title": "OpenAI now wants ChatGPT to access your bank accounts",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
+          "source": "The Verge AI",
+          "summary": "Your trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts. The new feature announced in preview today will allow users to \"securely connect\" ChatGPT with Plaid - the bank-to-app bridging platform used by 12,000 financial institutions, including Schwab, Fidelity, [&#8230;]",
+          "published_at": "2026-05-15 12:00",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI",
+            "Tech"
+          ]
+        }
+      ]
+    }
+  ]
+}
