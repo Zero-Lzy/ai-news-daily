@@ -166,6 +166,135 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-05-17 21:22:53",
+      "count": 13,
+      "articles": [
+        {
+          "title": "AI is a technology not a product",
+          "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://daringfireball.net/2026/05/ai_is_technology_not_a_product Comments URL: https://news.ycombinator.com/item?id=48168626 Points: 2 # Comments: 0",
+          "published_at": "2026-05-17 13:11",
+          "tags": []
+        },
+        {
+          "title": "Stochastic Flocks and the Critical Problem of 'Useful' AI",
+          "url": "https://www.techpolicy.press/stochastic-flocks-and-the-critical-problem-of-useful-ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.techpolicy.press/stochastic-flocks-and-the-critical-problem-of-useful-ai/ Comments URL: https://news.ycombinator.com/item?id=48168516 Points: 1 # Comments: 0",
+          "published_at": "2026-05-17 12:55",
+          "tags": []
+        },
+        {
+          "title": "WorkClarity – Free AI tools fo freelancers",
+          "url": "https://workclarity.co",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://workclarity.co Comments URL: https://news.ycombinator.com/item?id=48168314 Points: 1 # Comments: 0",
+          "published_at": "2026-05-17 12:28",
+          "tags": []
+        },
+        {
+          "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
+          "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.thestateofbrand.com/news/ai-subscription-time-bomb Comments URL: https://news.ycombinator.com/item?id=48168056 Points: 40 # Comments: 28",
+          "published_at": "2026-05-17 11:49",
+          "tags": []
+        },
+        {
+          "title": "Kaiden: Workstation AI Sandbox Desktop Application",
+          "url": "https://openkaiden.ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://openkaiden.ai/ Comments URL: https://news.ycombinator.com/item?id=48168046 Points: 1 # Comments: 1",
+          "published_at": "2026-05-17 11:47",
+          "tags": []
+        },
+        {
+          "title": "AI in Finance: What Is Working Today",
+          "url": "https://members.sigmazero.cc/posts/ai-in-finance-is-157955538?postId=ai-in-finance-is-157955538",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://members.sigmazero.cc/posts/ai-in-finance-is-157955538?postId=ai-in-finance-is-157955538 Comments URL: https://news.ycombinator.com/item?id=48167931 Points: 2 # Comments: 0",
+          "published_at": "2026-05-17 11:28",
+          "tags": []
+        },
+        {
+          "title": "American Jobs with AI Exposure Are Starting to Disappear, Data Show",
+          "url": "https://gizmodo.com/american-jobs-with-ai-exposure-really-are-starting-to-disappear-data-show-2000759602",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://gizmodo.com/american-jobs-with-ai-exposure-really-are-starting-to-disappear-data-show-2000759602 Comments URL: https://news.ycombinator.com/item?id=48167817 Points: 1 # Comments: 0",
+          "published_at": "2026-05-17 11:04",
+          "tags": []
+        },
+        {
+          "title": "My Thoughts on AI, Part 1: Fears, Opinions, and Mental Journey",
+          "url": "https://blog.isquaredsoftware.com/2026/05/ai-thoughts-part-1-fears-opinions-journey/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blog.isquaredsoftware.com/2026/05/ai-thoughts-part-1-fears-opinions-journey/ Comments URL: https://news.ycombinator.com/item?id=48167453 Points: 1 # Comments: 0",
+          "published_at": "2026-05-17 09:50",
+          "tags": []
+        },
+        {
+          "title": "Chatbots at the drive-thru are just the beginning",
+          "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
+          "source": "The Verge AI",
+          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is seeping into our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started In 2021, McDonald's became one [&#8230;]",
+          "published_at": "2026-05-17 08:00",
+          "tags": [
+            "AI",
+            "Column",
+            "The Stepback"
+          ]
+        },
+        {
+          "title": "A cheap fix that saves the AI $400M dollars a year and brings 4B people online",
+          "url": "https://codecai.net/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://codecai.net/ Comments URL: https://news.ycombinator.com/item?id=48166786 Points: 3 # Comments: 0",
+          "published_at": "2026-05-17 07:30",
+          "tags": []
+        },
+        {
+          "title": "The haves and have nots of the AI gold rush",
+          "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+          "source": "TechCrunch AI",
+          "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
+          "published_at": "2026-05-16 20:17",
+          "tags": [
+            "AI",
+            "Startups",
+            "deedy das"
+          ]
+        },
+        {
+          "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+          "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+          "source": "TechCrunch AI",
+          "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
+          "published_at": "2026-05-16 18:54",
+          "tags": [
+            "AI",
+            "arxiv"
+          ]
+        },
+        {
+          "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
+          "url": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
+          "source": "The Verge AI",
+          "summary": "After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos, but makes suggestions based on lighting, depth, and subject. Point the camera at something, and it will give you four options [&#8230;]",
+          "published_at": "2026-05-16 11:37",
+          "tags": [
+            "AI",
+            "Cameras",
+            "Gadgets",
+            "News",
+            "Sony",
+            "Tech"
+          ]
+        }
+      ]
     }
   ]
 }
