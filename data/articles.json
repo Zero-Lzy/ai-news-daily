@@ -1,5 +1,69 @@
 [
   {
+    "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+    "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+    "source": "TechCrunch AI",
+    "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
+    "published_at": "2026-05-17 19:46",
+    "tags": [
+      "AI",
+      "Elon Musk",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-05-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+    "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+    "source": "TechCrunch AI",
+    "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
+    "published_at": "2026-05-17 16:32",
+    "tags": [
+      "AI",
+      "commencement speeches",
+      "Eric Schmidt",
+      "gloria caulfield"
+    ],
+    "fetch_date": "2026-05-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+    "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+    "source": "TechCrunch AI",
+    "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+    "published_at": "2026-05-17 16:05",
+    "tags": [
+      "Transportation",
+      "AI",
+      "General Motors",
+      "Rivian",
+      "RJ Scaringe",
+      "Rapido",
+      "techcrunch mobility",
+      "mind robotics"
+    ],
+    "fetch_date": "2026-05-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Revamped Siri will reportedly offer auto-deleting chats",
+    "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
+    "source": "The Verge AI",
+    "summary": "Apple is hoping that its record on privacy can be the differentiator on the AI front, and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut in iOS 27 will include the option to autodelete chat histories. [&#8230;]",
+    "published_at": "2026-05-17 14:40",
+    "tags": [
+      "AI",
+      "Apple",
+      "Apple Rumors",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-05-18",
+    "fetch_label": "早报"
+  },
+  {
     "title": "AI is a technology not a product",
     "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
     "source": "Hacker News AI",

@@ -1,0 +1,103 @@
+{
+  "date": "2026-05-18",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-05-18 12:00:49",
+      "count": 7,
+      "articles": [
+        {
+          "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+          "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+          "source": "TechCrunch AI",
+          "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
+          "published_at": "2026-05-17 19:46",
+          "tags": [
+            "AI",
+            "Elon Musk",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+          "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+          "source": "TechCrunch AI",
+          "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
+          "published_at": "2026-05-17 16:32",
+          "tags": [
+            "AI",
+            "commencement speeches",
+            "Eric Schmidt",
+            "gloria caulfield"
+          ]
+        },
+        {
+          "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+          "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+          "source": "TechCrunch AI",
+          "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+          "published_at": "2026-05-17 16:05",
+          "tags": [
+            "Transportation",
+            "AI",
+            "General Motors",
+            "Rivian",
+            "RJ Scaringe",
+            "Rapido",
+            "techcrunch mobility",
+            "mind robotics"
+          ]
+        },
+        {
+          "title": "Revamped Siri will reportedly offer auto-deleting chats",
+          "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
+          "source": "The Verge AI",
+          "summary": "Apple is hoping that its record on privacy can be the differentiator on the AI front, and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut in iOS 27 will include the option to autodelete chat histories. [&#8230;]",
+          "published_at": "2026-05-17 14:40",
+          "tags": [
+            "AI",
+            "Apple",
+            "Apple Rumors",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Chatbots at the drive-thru are just the beginning",
+          "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
+          "source": "The Verge AI",
+          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is seeping into our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started In 2021, McDonald's became one [&#8230;]",
+          "published_at": "2026-05-17 08:00",
+          "tags": [
+            "AI",
+            "Column",
+            "The Stepback"
+          ]
+        },
+        {
+          "title": "The haves and have nots of the AI gold rush",
+          "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+          "source": "TechCrunch AI",
+          "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
+          "published_at": "2026-05-16 20:17",
+          "tags": [
+            "AI",
+            "Startups",
+            "deedy das"
+          ]
+        },
+        {
+          "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+          "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+          "source": "TechCrunch AI",
+          "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
+          "published_at": "2026-05-16 18:54",
+          "tags": [
+            "AI",
+            "arxiv"
+          ]
+        }
+      ]
+    }
+  ]
+}
