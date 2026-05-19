@@ -1,0 +1,183 @@
+{
+  "date": "2026-05-19",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-05-19 11:54:27",
+      "count": 17,
+      "articles": [
+        {
+          "title": "Google, Blackstone to Create AI Cloud Firm with In-House Chips",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-19/google-to-create-ai-cloud-business-with-blackstone-wsj-says",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-19/google-to-create-ai-cloud-business-with-blackstone-wsj-says Comments URL: https://news.ycombinator.com/item?id=48188933 Points: 1 # Comments: 0",
+          "published_at": "2026-05-19 03:44",
+          "tags": []
+        },
+        {
+          "title": "TuriX AI launched the latest version",
+          "url": "https://github.com/TurixAI/TuriX-CUA",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/TurixAI/TuriX-CUA Comments URL: https://news.ycombinator.com/item?id=48188822 Points: 1 # Comments: 1",
+          "published_at": "2026-05-19 03:23",
+          "tags": []
+        },
+        {
+          "title": "AI Grant Writing Assistant",
+          "url": "https://grantbot.pl",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://grantbot.pl Comments URL: https://news.ycombinator.com/item?id=48188643 Points: 1 # Comments: 0",
+          "published_at": "2026-05-19 02:53",
+          "tags": []
+        },
+        {
+          "title": "Vault Pro – AI Scaffolder for Obsidian Project Notes (Node/Claude)",
+          "url": "https://checkout.stripe.com/c/pay/cs_live_a1T5cP4xxXFYhY045VE1ui9fm1NJj0ACL1umdUosCWtXUSR8CKrdNPsqn6#fidnandhYHdWcXxpYCc%2FJ2FgY2RwaXEnKSdicGRmZGhqaWBTZHdsZGtxJz8nZmprcXdqaScpJ2R1bE5gfCc%2FJ3VuWmlsc2BaMDRRSVF3TEJ8bnFIYn18XE49QDxqcV12bnFhNXI9U19HRjBucWBPVTNoRHxnVkxpMUxPZFc8Sm4yNm9vMFZQaFJ%2FPGtTQHQ0MD00fXV1cUEzdkBDNVdKf3I1NTZVZGFJaGo2JyknY3dqaFZgd3Ngdyc%2FcXdwYCknZ2RmbmJ3anBrYUZqaWp3Jz8nJjxnNGc2NScpJ2lkfGpwcVF8dWAnPyd2bGtiaWBabHFgaCcpJ2BrZGdpYFVpZGZgbWppYWB3dic%2FcXdwYHgl",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://checkout.stripe.com/c/pay/cs_live_a1T5cP4xxXFYhY045VE1ui9fm1NJj0ACL1umdUosCWtXUSR8CKrdNPsqn6#fidnandhYHdWcXxpYCc%2FJ2FgY2RwaXEnKSdicGRmZGhqaWBTZHdsZGtxJz8nZmprcXdqaScpJ2R1bE5gfCc%2FJ3VuWmlsc2BaMDRRSVF3TEJ8bnFIYn18XE49QDxqcV12bnFhNXI9U19HRjBucWBPVTNoRHxnVkxpMUxPZFc8Sm4yNm9vMFZQaFJ%2FPGtTQHQ0MD00fXV1cUEzdkBDNVdKf3I1NTZVZGFJaGo2JyknY3dqaFZgd3Ngdyc%2FcXdwYCknZ2RmbmJ3anBrYUZqaWp3Jz8nJjxnNGc2NScpJ2lkfGpwcVF8dWAnPyd2bGtiaWBabHFgaCcpJ2BrZGdpYFVpZGZgbWppYWB3dic%2FcXdwYHgl Comments UR",
+          "published_at": "2026-05-19 02:44",
+          "tags": []
+        },
+        {
+          "title": "People who use ChatGPT for writing are accurate detectors of AI text (2025)",
+          "url": "https://arxiv.org/abs/2501.15654",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2501.15654 Comments URL: https://news.ycombinator.com/item?id=48188566 Points: 3 # Comments: 0",
+          "published_at": "2026-05-19 02:36",
+          "tags": []
+        },
+        {
+          "title": "Can AI just replace me already? – A comparative AI-writing ID experiment",
+          "url": "https://www.richardhanania.com/p/can-ai-replace-me-already",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.richardhanania.com/p/can-ai-replace-me-already Comments URL: https://news.ycombinator.com/item?id=48188560 Points: 1 # Comments: 0",
+          "published_at": "2026-05-19 02:34",
+          "tags": []
+        },
+        {
+          "title": "The American Rebellion Against AI Is Gaining Steam",
+          "url": "https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529 Comments URL: https://news.ycombinator.com/item?id=48188310 Points: 57 # Comments: 46",
+          "published_at": "2026-05-19 01:51",
+          "tags": []
+        },
+        {
+          "title": "Reverse Lookup and AI-Powered Osint",
+          "url": "https://sherlockeye.io/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://sherlockeye.io/ Comments URL: https://news.ycombinator.com/item?id=48188253 Points: 2 # Comments: 0",
+          "published_at": "2026-05-19 01:41",
+          "tags": []
+        },
+        {
+          "title": "Nitsum: Serving Tiered LLM Requests with Adaptive Tensor Parallelism",
+          "url": "https://mlsys.wuklab.io/posts/nitsum/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://mlsys.wuklab.io/posts/nitsum/ Comments URL: https://news.ycombinator.com/item?id=48188152 Points: 2 # Comments: 0",
+          "published_at": "2026-05-19 01:24",
+          "tags": []
+        },
+        {
+          "title": "BudgetBites – AI meal planning app that helps you save money on groceries",
+          "url": "https://budgetbites.website/login",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://budgetbites.website/login Comments URL: https://news.ycombinator.com/item?id=48188029 Points: 3 # Comments: 0",
+          "published_at": "2026-05-19 01:09",
+          "tags": []
+        },
+        {
+          "title": "Make products AI agents want",
+          "url": "https://anitakirkovska.com/blog/make-products-ai-agents-want/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://anitakirkovska.com/blog/make-products-ai-agents-want/ Comments URL: https://news.ycombinator.com/item?id=48188019 Points: 2 # Comments: 0",
+          "published_at": "2026-05-19 01:07",
+          "tags": []
+        },
+        {
+          "title": "Google, Blackstone plan AI cloud venture with $5B backing, WSJ reports",
+          "url": "https://www.reuters.com/business/google-blackstone-create-new-ai-cloud-company-wsj-reports-2026-05-19/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.reuters.com/business/google-blackstone-create-new-ai-cloud-company-wsj-reports-2026-05-19/ Comments URL: https://news.ycombinator.com/item?id=48188008 Points: 2 # Comments: 0",
+          "published_at": "2026-05-19 01:06",
+          "tags": []
+        },
+        {
+          "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+          "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+          "source": "TechCrunch AI",
+          "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+          "published_at": "2026-05-18 17:34",
+          "tags": [
+            "AI",
+            "Elon Musk",
+            "greg brockman",
+            "Microsoft",
+            "OpenAI trial",
+            "sam altman"
+          ]
+        },
+        {
+          "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
+          "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
+          "published_at": "2026-05-18 14:56",
+          "tags": [
+            "AI",
+            "Media & Entertainment",
+            "alexa plus",
+            "alexa+",
+            "Amazon",
+            "Generative AI",
+            "podcasts"
+          ]
+        },
+        {
+          "title": "Elon Musk loses his case against Sam Altman",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial",
+          "source": "The Verge AI",
+          "summary": "After around two hours of deliberation, the jury has reached a unanimous verdict in Musk v. Altman, the tech trial of the year. The group found that two claims were barred by the statute of limitations, and a third failed thanks to the dismissal of one of these. The jury here is an advisory jury, [&#8230;]",
+          "published_at": "2026-05-18 13:39",
+          "tags": [
+            "AI",
+            "Elon Musk",
+            "Law",
+            "Microsoft",
+            "News",
+            "OpenAI",
+            "Policy",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+          "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+          "source": "TechCrunch AI",
+          "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
+          "published_at": "2026-05-17 19:46",
+          "tags": [
+            "AI",
+            "Elon Musk",
+            "OpenAI",
+            "sam altman",
+            "TechCrunch Equity"
+          ]
+        },
+        {
+          "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+          "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+          "source": "TechCrunch AI",
+          "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
+          "published_at": "2026-05-17 16:32",
+          "tags": [
+            "AI",
+            "commencement speeches",
+            "Eric Schmidt",
+            "gloria caulfield"
+          ]
+        }
+      ]
+    }
+  ]
+}
