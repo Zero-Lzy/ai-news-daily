@@ -1,5 +1,101 @@
 [
   {
+    "title": "AI search startups are blowing up",
+    "url": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
+    "source": "TechCrunch AI",
+    "summary": "AI search has quietly become one of the most attractive targets in consumer AI.",
+    "published_at": "2026-05-20 15:04",
+    "tags": [
+      "AI",
+      "AI search",
+      "Exa Labs",
+      "Parallel Web Systems"
+    ],
+    "fetch_date": "2026-05-20",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Stability AI releases a new audio model that can create six-minute songs",
+    "url": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
+    "source": "TechCrunch AI",
+    "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks",
+    "published_at": "2026-05-20 15:00",
+    "tags": [
+      "AI",
+      "audio creation",
+      "Music",
+      "Stability AI"
+    ],
+    "fetch_date": "2026-05-20",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
+    "url": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
+    "source": "TechCrunch AI",
+    "summary": "NanoCo, the company behind OpenClaw alternative NanoClaw, has raised a $12 million seed after a viral launch, the founders tell TechCrunch.",
+    "published_at": "2026-05-20 14:00",
+    "tags": [
+      "Startups",
+      "AI",
+      "Hugging Face",
+      "AI agents",
+      "openclaw",
+      "NanoClaw"
+    ],
+    "fetch_date": "2026-05-20",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Figma adds an AI assistant to its collaborative canvas",
+    "url": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
+    "source": "TechCrunch AI",
+    "summary": "Figma's new AI assistant will be first available on Figma Design",
+    "published_at": "2026-05-20 13:00",
+    "tags": [
+      "AI",
+      "Apps",
+      "design",
+      "Figma",
+      "AI assistant"
+    ],
+    "fetch_date": "2026-05-20",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "It&#8217;s make or break time for AI labeling systems",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
+    "source": "The Verge AI",
+    "summary": "We're about to find out if the systems designed to make deepfakes and AI-generated content easy to spot are actually up to snuff. SynthID and C2PA Content Credentials, two distinct technologies for invisibly tagging image, video, and audio files with information about their origins, are getting their biggest expansion to date, and with it, the [&#8230;]",
+    "published_at": "2026-05-20 10:12",
+    "tags": [
+      "AI",
+      "Analysis",
+      "Google",
+      "Report",
+      "Tech"
+    ],
+    "fetch_date": "2026-05-20",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "If Google can’t make AI agents useful, maybe no one can",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can",
+    "source": "The Verge AI",
+    "summary": "For years, tech companies have promised AI will give everyone a capable personal assistant but delivered something more like a clueless intern. Over the past six months, that has started to change, thanks largely to the viral open-source AI agent platform OpenClaw. And among the top AI labs now chasing similar success, one seems particularly [&#8230;]",
+    "published_at": "2026-05-20 09:24",
+    "tags": [
+      "AI",
+      "Analysis",
+      "Google",
+      "Google I/O 2026",
+      "Report",
+      "Tech"
+    ],
+    "fetch_date": "2026-05-20",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "OpenAI commits S$300M to grow Singapore's AI capabilities",
     "url": "https://www.channelnewsasia.com/singapore/openai-singapore-300-million-ai-6128036",
     "source": "Hacker News AI",
@@ -147,6 +243,25 @@
     "fetch_label": "早报"
   },
   {
+    "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+    "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+    "source": "TechCrunch AI",
+    "summary": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
+    "published_at": "2026-05-19 21:25",
+    "tags": [
+      "AI",
+      "Apps",
+      "gemini ai",
+      "gmail",
+      "Google",
+      "google io",
+      "google io 2026",
+      "Google Workspace"
+    ],
+    "fetch_date": "2026-05-20",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
     "url": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
     "source": "TechCrunch AI",
@@ -198,6 +313,39 @@
     "fetch_label": "早报"
   },
   {
+    "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+    "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+    "source": "TechCrunch AI",
+    "summary": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building software from scratch.",
+    "published_at": "2026-05-19 17:51",
+    "tags": [
+      "AI",
+      "gemini",
+      "gemini flash 3.5",
+      "Google",
+      "google io 2026"
+    ],
+    "fetch_date": "2026-05-20",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Google Search as you know it is over",
+    "url": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
+    "source": "TechCrunch AI",
+    "summary": "Google is transforming Search from a list of links into an AI-powered experience filled with conversational answers, autonomous agents, and interactive interfaces — a shift that could further reduce traffic to publishers across the web.",
+    "published_at": "2026-05-19 17:46",
+    "tags": [
+      "AI",
+      "Apps",
+      "Google",
+      "Google Search",
+      "AI search",
+      "google io 2026"
+    ],
+    "fetch_date": "2026-05-20",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026",
     "url": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/",
     "source": "TechCrunch AI",
@@ -232,6 +380,23 @@
     ],
     "fetch_date": "2026-05-20",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Google’s new Universal Cart wants to follow your entire shopping journey across the internet",
+    "url": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-your-entire-shopping-journey-across-the-internet/",
+    "source": "TechCrunch AI",
+    "summary": "Most people shop across multiple devices, many retailers, and over the course of many days, which is why Google is launching Universal Cart.",
+    "published_at": "2026-05-19 17:45",
+    "tags": [
+      "AI",
+      "Apps",
+      "Commerce",
+      "Google",
+      "Google I/O",
+      "google io 2026"
+    ],
+    "fetch_date": "2026-05-20",
+    "fetch_label": "晚报"
   },
   {
     "title": "Gemini will use Volvo’s external cameras to interpret parking signs",
@@ -269,6 +434,22 @@
     "fetch_label": "早报"
   },
   {
+    "title": "Google wants to compete with Anthropic’s Mythos",
+    "url": "https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos",
+    "source": "The Verge AI",
+    "summary": "Google is making a big push into cybersecurity. At I/O, the company announced that it was inviting select groups of experts to test the API for CodeMender, an \"AI agent for code security\" it debuted last October. The difference is that Google is now making the tool more widely available externally - and marketing it [&#8230;]",
+    "published_at": "2026-05-19 13:48",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Google",
+      "Google I/O 2026",
+      "Tech"
+    ],
+    "fetch_date": "2026-05-20",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Google Search is getting its biggest changes ever",
     "url": "https://www.theverge.com/tech/932970/google-search-ai-update-io-2026",
     "source": "The Verge AI",
@@ -298,6 +479,22 @@
     ],
     "fetch_date": "2026-05-20",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Google can now vibe-code you an Android app",
+    "url": "https://www.theverge.com/tech/932364/google-ai-studio-native-android-apps-vibe-code-google-io-2026",
+    "source": "The Verge AI",
+    "summary": "Google is announcing a major upgrade to one of its vibe coding platforms: Beginning today, you can now use AI Studio to build native Android apps. With Google AI Studio, you can prompt your idea for an app and preview it with an embedded emulator of Android. When you want to try it out on [&#8230;]",
+    "published_at": "2026-05-19 13:45",
+    "tags": [
+      "AI",
+      "Android",
+      "Google",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-05-20",
+    "fetch_label": "晚报"
   },
   {
     "title": "Google, Blackstone to Create AI Cloud Firm with In-House Chips",
