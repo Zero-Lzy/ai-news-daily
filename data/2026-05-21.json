@@ -300,6 +300,231 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-05-21 23:30:03",
+      "count": 14,
+      "articles": [
+        {
+          "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
+          "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+          "source": "TechCrunch AI",
+          "summary": "Spotify will let you generate daily or weekly briefs based on your prompts",
+          "published_at": "2026-05-21 15:27",
+          "tags": [
+            "AI",
+            "Apps",
+            "AI audio",
+            "ai generated content",
+            "Spotify"
+          ]
+        },
+        {
+          "title": "Hark raises $700M Series A for its secretive “universal” AI interface",
+          "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+          "source": "TechCrunch AI",
+          "summary": "Brett Adcock's new AI startup is now valued at $6 billion by its investors.",
+          "published_at": "2026-05-21 14:00",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "hark",
+            "AI hardware",
+            "AI assistants"
+          ]
+        },
+        {
+          "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
+          "url": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
+          "source": "TechCrunch AI",
+          "summary": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.",
+          "published_at": "2026-05-21 14:00",
+          "tags": [
+            "AI",
+            "Apps",
+            "Biotech & Health",
+            "Fundraising",
+            "calm",
+            "mental health apps",
+            "The Path",
+            "Tony Robbins"
+          ]
+        },
+        {
+          "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+          "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
+          "source": "TechCrunch AI",
+          "summary": "The AI agents are coming. A lot of them.",
+          "published_at": "2026-05-21 13:52",
+          "tags": [
+            "AI",
+            "Apps",
+            "TC",
+            "AI agents",
+            "android halo",
+            "gemini",
+            "Google",
+            "google io 2026",
+            "spark"
+          ]
+        },
+        {
+          "title": "Musk v. Altman: Much ado about nothing",
+          "url": "https://www.theverge.com/podcast/934869/elon-musk-sam-altman-openai-suit-loss-pointless",
+          "source": "The Verge AI",
+          "summary": "Today I’m talking with Liz Lopatto, who spent the last month covering the Musk v. Altman trial in all its chaos. You’ll hear her describe the courthouse as a “zoo” and explain that there were protests of one kind or another happening outside every day. Both Elon Musk and Sam Altman are big personalities, and [&#8230;]",
+          "published_at": "2026-05-21 10:00",
+          "tags": [
+            "AI",
+            "Decoder",
+            "Elon Musk",
+            "Law",
+            "OpenAI",
+            "Podcasts",
+            "Policy",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Meta lays off thousands of employees to offset AI investments",
+          "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
+          "source": "The Verge AI",
+          "summary": "Meta has reportedly notified thousands of employees that they've been laid off as the company attempts to compensate for its hefty AI investments. In an email from Meta management shared by Business Insider, impacted staffers were told that the planned headcount reduction was part of the company's \"continued effort to run the company more efficiently [&#8230;]",
+          "published_at": "2026-05-21 05:20",
+          "tags": [
+            "AI",
+            "Business",
+            "Meta",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+          "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+          "source": "TechCrunch AI",
+          "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
+          "published_at": "2026-05-21 00:28",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "TC",
+            "cpus",
+            "nvidia"
+          ]
+        },
+        {
+          "title": "In SpaceX’s IPO, Elon Musk is the risk factor",
+          "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
+          "source": "The Verge AI",
+          "summary": "The SpaceX IPO is here, and it's more than just an historic public offering that could make Elon Musk the world's first trillionaire. It also reveals more ways in which Elon Musk's companies interact and overlap with each other, shuffling money around in ways that are often difficult to keep track of. This is evident [&#8230;]",
+          "published_at": "2026-05-20 23:42",
+          "tags": [
+            "AI",
+            "Business",
+            "Electric Cars",
+            "Elon Musk",
+            "News",
+            "Science",
+            "Space",
+            "SpaceX",
+            "Tech",
+            "Tesla",
+            "Transportation",
+            "xAI"
+          ]
+        },
+        {
+          "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
+          "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+          "source": "TechCrunch AI",
+          "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
+          "published_at": "2026-05-20 22:26",
+          "tags": [
+            "AI",
+            "Space",
+            "Elon Musk",
+            "Grok",
+            "SpaceX",
+            "spacex ipo",
+            "X"
+          ]
+        },
+        {
+          "title": "Anthropic will pay xAI $1.25B per month for compute",
+          "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+          "source": "TechCrunch AI",
+          "summary": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
+          "published_at": "2026-05-20 21:29",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "colossus",
+            "data centers",
+            "SpaceX",
+            "xAI"
+          ]
+        },
+        {
+          "title": "OpenAI barrels toward IPO that may happen in September",
+          "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+          "source": "TechCrunch AI",
+          "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO.",
+          "published_at": "2026-05-20 17:24",
+          "tags": [
+            "AI",
+            "Startups",
+            "Elon Musk",
+            "In Brief",
+            "IPOs",
+            "OpenAI",
+            "sam altman"
+          ]
+        },
+        {
+          "title": "Vibe coding is coming to your phone",
+          "url": "https://www.theverge.com/tech/934628/google-io-2026-android-ai-studio-widgets-shortcuts",
+          "source": "The Verge AI",
+          "summary": "\"There's an app for that\" was the promise of the App Store from the very beginning. The app that will get your phone to do the thing you want it to? It's just a few taps away. The tagline wasn't strictly true - I'm still waiting for that one perfect grocery list app. Still, apps [&#8230;]",
+          "published_at": "2026-05-20 13:40",
+          "tags": [
+            "AI",
+            "Android",
+            "Google",
+            "Google I/O 2026",
+            "Mobile",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Google Search’s AI evolution includes more ads",
+          "url": "https://www.theverge.com/tech/934585/google-ai-shopping-ads-search",
+          "source": "The Verge AI",
+          "summary": "Google's AI-powered Search era apparently also extends to its ads. Now, when you look for a product in Search, Google's Gemini AI model will surface relevant items and generate a \"custom explainer\" about why you should purchase a specific one. The update comes just one day after Google revealed a new Search box for larger, [&#8230;]",
+          "published_at": "2026-05-20 12:00",
+          "tags": [
+            "AI",
+            "Google",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "It&#8217;s make or break time for AI labeling systems",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
+          "source": "The Verge AI",
+          "summary": "We're about to find out if the systems designed to make deepfakes and AI-generated content easy to spot are actually up to snuff. SynthID and C2PA Content Credentials, two distinct technologies for invisibly tagging image, video, and audio files with information about their origins, are getting their biggest expansion to date, and with it, the [&#8230;]",
+          "published_at": "2026-05-20 10:12",
+          "tags": [
+            "AI",
+            "Analysis",
+            "Google",
+            "Report",
+            "Tech"
+          ]
+        }
+      ]
     }
   ]
 }
