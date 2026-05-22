@@ -1,5 +1,125 @@
 [
   {
+    "title": "AI Model Inflation: The Unsustainable Subsidy",
+    "url": "https://tomtunguz.com/ai-model-inflation/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://tomtunguz.com/ai-model-inflation/ Comments URL: https://news.ycombinator.com/item?id=48231614 Points: 2 # Comments: 0",
+    "published_at": "2026-05-22 03:25",
+    "tags": [],
+    "fetch_date": "2026-05-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "FreeLLMAPI – One key. One billion free LLM tokens. Every month",
+    "url": "https://tashfeenahmed.github.io/freellmapi/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://tashfeenahmed.github.io/freellmapi/ Comments URL: https://news.ycombinator.com/item?id=48231237 Points: 2 # Comments: 0",
+    "published_at": "2026-05-22 02:23",
+    "tags": [],
+    "fetch_date": "2026-05-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "ReCardEx – AI product photos, infographics and videos for e-commerce sellers",
+    "url": "https://recardex.com/en",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://recardex.com/en Comments URL: https://news.ycombinator.com/item?id=48231173 Points: 1 # Comments: 0",
+    "published_at": "2026-05-22 02:11",
+    "tags": [],
+    "fetch_date": "2026-05-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "White House yanked AI order after David Sacks raised industry concerns",
+    "url": "https://www.politico.com/news/2026/05/21/trump-ai-order-sacks-00933295",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.politico.com/news/2026/05/21/trump-ai-order-sacks-00933295 Comments URL: https://news.ycombinator.com/item?id=48231124 Points: 3 # Comments: 0",
+    "published_at": "2026-05-22 02:03",
+    "tags": [],
+    "fetch_date": "2026-05-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Slop and the Vulnerability Treadmill",
+    "url": "https://redmonk.com/kholterhoff/2026/05/05/ai-slop-vulnerability-treadmill/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://redmonk.com/kholterhoff/2026/05/05/ai-slop-vulnerability-treadmill/ Comments URL: https://news.ycombinator.com/item?id=48230975 Points: 1 # Comments: 0",
+    "published_at": "2026-05-22 01:41",
+    "tags": [],
+    "fetch_date": "2026-05-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The AI-Native Interview",
+    "url": "https://sierra.ai/blog/the-ai-native-interview",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://sierra.ai/blog/the-ai-native-interview Comments URL: https://news.ycombinator.com/item?id=48230970 Points: 2 # Comments: 0",
+    "published_at": "2026-05-22 01:40",
+    "tags": [],
+    "fetch_date": "2026-05-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
+    "url": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://qz.com/samsung-chip-workers-bonus-ai-profits-052126 Comments URL: https://news.ycombinator.com/item?id=48230892 Points: 94 # Comments: 23",
+    "published_at": "2026-05-22 01:30",
+    "tags": [],
+    "fetch_date": "2026-05-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Crypto and AI-Funded Super PACs Are Metastasizing",
+    "url": "https://www.thenation.com/article/politics/crypto-ai-super-pacs-election-spending-big-tech-dark-money-2026/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.thenation.com/article/politics/crypto-ai-super-pacs-election-spending-big-tech-dark-money-2026/ Comments URL: https://news.ycombinator.com/item?id=48230798 Points: 2 # Comments: 0",
+    "published_at": "2026-05-22 01:17",
+    "tags": [],
+    "fetch_date": "2026-05-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The AI Bubble – No One's Happy",
+    "url": "https://nooneshappy.com/article/the-ai-bubble/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://nooneshappy.com/article/the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=48230753 Points: 7 # Comments: 5",
+    "published_at": "2026-05-22 01:10",
+    "tags": [],
+    "fetch_date": "2026-05-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Tell HN: I'm tired of AI-generated answers",
+    "url": "https://news.ycombinator.com/item?id=48230104",
+    "source": "Hacker News AI",
+    "summary": "I found GitHub repositories that were spreading malware. I asked AI what I should do about it, but it gave me nothing useful. So I opened a discussion on GitHub. Someone replied. It was literally the exact same text the AI had given me. I called it out and the comment was deleted. Then another person replied. Same exact AI response again.I worked as a developer in a company. I asked the business owner a question about a business task. He sent me a ChatGPT screenshot with the answer. I replied th",
+    "published_at": "2026-05-21 23:37",
+    "tags": [],
+    "fetch_date": "2026-05-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Why metaphors make AI animations come out better",
+    "url": "https://frigade.com/blog/describe-the-world-not-the-widget",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://frigade.com/blog/describe-the-world-not-the-widget Comments URL: https://news.ycombinator.com/item?id=48230022 Points: 1 # Comments: 0",
+    "published_at": "2026-05-21 23:25",
+    "tags": [],
+    "fetch_date": "2026-05-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Erlang_Python – Combine Python's ML/AI Ecosystem with Erlang's Concurrency",
+    "url": "https://hexdocs.pm/erlang_python/readme.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://hexdocs.pm/erlang_python/readme.html Comments URL: https://news.ycombinator.com/item?id=48229798 Points: 2 # Comments: 0",
+    "published_at": "2026-05-21 22:52",
+    "tags": [],
+    "fetch_date": "2026-05-22",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
     "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
     "source": "TechCrunch AI",
@@ -69,6 +189,36 @@
     ],
     "fetch_date": "2026-05-21",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Spotify Studio&#8217;s AI agent creates a daily podcast just for you",
+    "url": "https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts",
+    "source": "The Verge AI",
+    "summary": "Studio by Spotify Labs is a new standalone AI app that generates a daily briefing, podcasts, and playlists on your PC using chatbot prompts. The AI-generated content draws from your Spotify listening history, as well as info from apps you connect to it, like your email inbox, calendar, and notes. Spotify says its AI can [&#8230;]",
+    "published_at": "2026-05-21 11:47",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "News",
+      "Spotify"
+    ],
+    "fetch_date": "2026-05-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI video is moving beyond clip slop",
+    "url": "https://www.theverge.com/column/935310/ai-video-luma-hollywood",
+    "source": "The Verge AI",
+    "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Hollywood is cooked - or so a growing number of people on social media would like you to believe. Their purported proof: AI-generated clips of Daniel Craig riding a Vespa [&#8230;]",
+    "published_at": "2026-05-21 11:30",
+    "tags": [
+      "AI",
+      "Column",
+      "Entertainment",
+      "Lowpass"
+    ],
+    "fetch_date": "2026-05-22",
+    "fetch_label": "早报"
   },
   {
     "title": "Musk v. Altman: Much ado about nothing",

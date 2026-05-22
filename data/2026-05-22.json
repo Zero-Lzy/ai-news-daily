@@ -1,0 +1,242 @@
+{
+  "date": "2026-05-22",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-05-22 11:58:50",
+      "count": 21,
+      "articles": [
+        {
+          "title": "AI Model Inflation: The Unsustainable Subsidy",
+          "url": "https://tomtunguz.com/ai-model-inflation/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://tomtunguz.com/ai-model-inflation/ Comments URL: https://news.ycombinator.com/item?id=48231614 Points: 2 # Comments: 0",
+          "published_at": "2026-05-22 03:25",
+          "tags": []
+        },
+        {
+          "title": "FreeLLMAPI – One key. One billion free LLM tokens. Every month",
+          "url": "https://tashfeenahmed.github.io/freellmapi/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://tashfeenahmed.github.io/freellmapi/ Comments URL: https://news.ycombinator.com/item?id=48231237 Points: 2 # Comments: 0",
+          "published_at": "2026-05-22 02:23",
+          "tags": []
+        },
+        {
+          "title": "ReCardEx – AI product photos, infographics and videos for e-commerce sellers",
+          "url": "https://recardex.com/en",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://recardex.com/en Comments URL: https://news.ycombinator.com/item?id=48231173 Points: 1 # Comments: 0",
+          "published_at": "2026-05-22 02:11",
+          "tags": []
+        },
+        {
+          "title": "White House yanked AI order after David Sacks raised industry concerns",
+          "url": "https://www.politico.com/news/2026/05/21/trump-ai-order-sacks-00933295",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.politico.com/news/2026/05/21/trump-ai-order-sacks-00933295 Comments URL: https://news.ycombinator.com/item?id=48231124 Points: 3 # Comments: 0",
+          "published_at": "2026-05-22 02:03",
+          "tags": []
+        },
+        {
+          "title": "AI Slop and the Vulnerability Treadmill",
+          "url": "https://redmonk.com/kholterhoff/2026/05/05/ai-slop-vulnerability-treadmill/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://redmonk.com/kholterhoff/2026/05/05/ai-slop-vulnerability-treadmill/ Comments URL: https://news.ycombinator.com/item?id=48230975 Points: 1 # Comments: 0",
+          "published_at": "2026-05-22 01:41",
+          "tags": []
+        },
+        {
+          "title": "The AI-Native Interview",
+          "url": "https://sierra.ai/blog/the-ai-native-interview",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://sierra.ai/blog/the-ai-native-interview Comments URL: https://news.ycombinator.com/item?id=48230970 Points: 2 # Comments: 0",
+          "published_at": "2026-05-22 01:40",
+          "tags": []
+        },
+        {
+          "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
+          "url": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://qz.com/samsung-chip-workers-bonus-ai-profits-052126 Comments URL: https://news.ycombinator.com/item?id=48230892 Points: 94 # Comments: 23",
+          "published_at": "2026-05-22 01:30",
+          "tags": []
+        },
+        {
+          "title": "Crypto and AI-Funded Super PACs Are Metastasizing",
+          "url": "https://www.thenation.com/article/politics/crypto-ai-super-pacs-election-spending-big-tech-dark-money-2026/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.thenation.com/article/politics/crypto-ai-super-pacs-election-spending-big-tech-dark-money-2026/ Comments URL: https://news.ycombinator.com/item?id=48230798 Points: 2 # Comments: 0",
+          "published_at": "2026-05-22 01:17",
+          "tags": []
+        },
+        {
+          "title": "The AI Bubble – No One's Happy",
+          "url": "https://nooneshappy.com/article/the-ai-bubble/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://nooneshappy.com/article/the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=48230753 Points: 7 # Comments: 5",
+          "published_at": "2026-05-22 01:10",
+          "tags": []
+        },
+        {
+          "title": "Tell HN: I'm tired of AI-generated answers",
+          "url": "https://news.ycombinator.com/item?id=48230104",
+          "source": "Hacker News AI",
+          "summary": "I found GitHub repositories that were spreading malware. I asked AI what I should do about it, but it gave me nothing useful. So I opened a discussion on GitHub. Someone replied. It was literally the exact same text the AI had given me. I called it out and the comment was deleted. Then another person replied. Same exact AI response again.I worked as a developer in a company. I asked the business owner a question about a business task. He sent me a ChatGPT screenshot with the answer. I replied th",
+          "published_at": "2026-05-21 23:37",
+          "tags": []
+        },
+        {
+          "title": "Why metaphors make AI animations come out better",
+          "url": "https://frigade.com/blog/describe-the-world-not-the-widget",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://frigade.com/blog/describe-the-world-not-the-widget Comments URL: https://news.ycombinator.com/item?id=48230022 Points: 1 # Comments: 0",
+          "published_at": "2026-05-21 23:25",
+          "tags": []
+        },
+        {
+          "title": "Erlang_Python – Combine Python's ML/AI Ecosystem with Erlang's Concurrency",
+          "url": "https://hexdocs.pm/erlang_python/readme.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://hexdocs.pm/erlang_python/readme.html Comments URL: https://news.ycombinator.com/item?id=48229798 Points: 2 # Comments: 0",
+          "published_at": "2026-05-21 22:52",
+          "tags": []
+        },
+        {
+          "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
+          "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+          "source": "TechCrunch AI",
+          "summary": "Spotify will let you generate daily or weekly briefs based on your prompts",
+          "published_at": "2026-05-21 15:27",
+          "tags": [
+            "AI",
+            "Apps",
+            "AI audio",
+            "ai generated content",
+            "Spotify"
+          ]
+        },
+        {
+          "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
+          "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+          "source": "TechCrunch AI",
+          "summary": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with hardware devices built specifically for those systems.",
+          "published_at": "2026-05-21 14:00",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "AI assistants",
+            "AI hardware",
+            "hark"
+          ]
+        },
+        {
+          "title": "Spotify Studio&#8217;s AI agent creates a daily podcast just for you",
+          "url": "https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts",
+          "source": "The Verge AI",
+          "summary": "Studio by Spotify Labs is a new standalone AI app that generates a daily briefing, podcasts, and playlists on your PC using chatbot prompts. The AI-generated content draws from your Spotify listening history, as well as info from apps you connect to it, like your email inbox, calendar, and notes. Spotify says its AI can [&#8230;]",
+          "published_at": "2026-05-21 11:47",
+          "tags": [
+            "AI",
+            "Entertainment",
+            "News",
+            "Spotify"
+          ]
+        },
+        {
+          "title": "AI video is moving beyond clip slop",
+          "url": "https://www.theverge.com/column/935310/ai-video-luma-hollywood",
+          "source": "The Verge AI",
+          "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Hollywood is cooked - or so a growing number of people on social media would like you to believe. Their purported proof: AI-generated clips of Daniel Craig riding a Vespa [&#8230;]",
+          "published_at": "2026-05-21 11:30",
+          "tags": [
+            "AI",
+            "Column",
+            "Entertainment",
+            "Lowpass"
+          ]
+        },
+        {
+          "title": "Musk v. Altman: Much ado about nothing",
+          "url": "https://www.theverge.com/podcast/934869/elon-musk-sam-altman-openai-suit-loss-pointless",
+          "source": "The Verge AI",
+          "summary": "Today I’m talking with Liz Lopatto, who spent the last month covering the Musk v. Altman trial in all its chaos. You’ll hear her describe the courthouse as a “zoo” and explain that there were protests of one kind or another happening outside every day. Both Elon Musk and Sam Altman are big personalities, and [&#8230;]",
+          "published_at": "2026-05-21 10:00",
+          "tags": [
+            "AI",
+            "Decoder",
+            "Elon Musk",
+            "Law",
+            "OpenAI",
+            "Podcasts",
+            "Policy",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+          "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+          "source": "TechCrunch AI",
+          "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
+          "published_at": "2026-05-21 00:28",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "TC",
+            "cpus",
+            "nvidia"
+          ]
+        },
+        {
+          "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
+          "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+          "source": "TechCrunch AI",
+          "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
+          "published_at": "2026-05-20 22:26",
+          "tags": [
+            "AI",
+            "Space",
+            "Elon Musk",
+            "Grok",
+            "SpaceX",
+            "spacex ipo",
+            "X"
+          ]
+        },
+        {
+          "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
+          "url": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
+          "source": "TechCrunch AI",
+          "summary": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
+          "published_at": "2026-05-20 21:55",
+          "tags": [
+            "AI",
+            "Climate",
+            "air pollution",
+            "data centers",
+            "Elon Musk",
+            "natural gas",
+            "SpaceX",
+            "spacex ipo",
+            "spacexai",
+            "xAI"
+          ]
+        },
+        {
+          "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+          "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
+          "published_at": "2026-05-20 20:28",
+          "tags": [
+            "AI",
+            "ChatGPT",
+            "erdos problems",
+            "OpenAI",
+            "reasoning models"
+          ]
+        }
+      ]
+    }
+  ]
+}
