@@ -1,5 +1,148 @@
 [
   {
+    "title": "Show HN: Cq exchange: Hosted knowledge commons for AI coding agents",
+    "url": "https://blog.mozilla.ai/cq-exchange-agents-without-borders/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.mozilla.ai/cq-exchange-agents-without-borders/ Comments URL: https://news.ycombinator.com/item?id=48236536 Points: 1 # Comments: 0",
+    "published_at": "2026-05-22 14:38",
+    "tags": [],
+    "fetch_date": "2026-05-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Fixing LLM Writing with Distribution Fine Tuning",
+    "url": "https://rosmine.ai/2026/05/18/fixing-llm-writing-with-distribution-fine-tuning/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://rosmine.ai/2026/05/18/fixing-llm-writing-with-distribution-fine-tuning/ Comments URL: https://news.ycombinator.com/item?id=48236451 Points: 1 # Comments: 0",
+    "published_at": "2026-05-22 14:33",
+    "tags": [],
+    "fetch_date": "2026-05-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "HN isn't swamped yet, just AI-obsessed",
+    "url": "https://www.mahl.me/blog/hacker-news-isnt-swamped-yet/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.mahl.me/blog/hacker-news-isnt-swamped-yet/ Comments URL: https://news.ycombinator.com/item?id=48236351 Points: 2 # Comments: 0",
+    "published_at": "2026-05-22 14:28",
+    "tags": [],
+    "fetch_date": "2026-05-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "I built Search Engine $100 business ideas filtered by budget,niche and AI Tools",
+    "url": "https://onehundredbiz.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://onehundredbiz.com Comments URL: https://news.ycombinator.com/item?id=48236266 Points: 1 # Comments: 0",
+    "published_at": "2026-05-22 14:22",
+    "tags": [],
+    "fetch_date": "2026-05-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "An AI system to help scientists write expert-level empirical software",
+    "url": "https://arxiv.org/abs/2509.06503",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2509.06503 Comments URL: https://news.ycombinator.com/item?id=48236239 Points: 1 # Comments: 0",
+    "published_at": "2026-05-22 14:21",
+    "tags": [],
+    "fetch_date": "2026-05-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Literary AI Scandal Changes Everything",
+    "url": "https://www.theatlantic.com/books/2026/05/granta-ai-fiction-book-scandal-changes-everything/687243/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theatlantic.com/books/2026/05/granta-ai-fiction-book-scandal-changes-everything/687243/ Comments URL: https://news.ycombinator.com/item?id=48235947 Points: 1 # Comments: 0",
+    "published_at": "2026-05-22 13:58",
+    "tags": [],
+    "fetch_date": "2026-05-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Building Context-Aware Search in Python with LLM Embeddings and Metadata",
+    "url": "https://machinelearningmastery.com/building-context-aware-search-in-python-with-llm-embeddings-metadata/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://machinelearningmastery.com/building-context-aware-search-in-python-with-llm-embeddings-metadata/ Comments URL: https://news.ycombinator.com/item?id=48235888 Points: 1 # Comments: 0",
+    "published_at": "2026-05-22 13:52",
+    "tags": [],
+    "fetch_date": "2026-05-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Anthropic, Microsoft in talks about Maia AI chip deal",
+    "url": "https://www.cnbc.com/2026/05/21/anthropic-microsoft-maia-200-ai-chip.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.cnbc.com/2026/05/21/anthropic-microsoft-maia-200-ai-chip.html Comments URL: https://news.ycombinator.com/item?id=48235848 Points: 1 # Comments: 0",
+    "published_at": "2026-05-22 13:49",
+    "tags": [],
+    "fetch_date": "2026-05-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Idea: Subreddits as curator blogs for the AI era",
+    "url": "https://old.reddit.com/r/ideas/comments/1tkie1c/idea_subreddits_as_curator_blogs_for_the_ai_era/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://old.reddit.com/r/ideas/comments/1tkie1c/idea_subreddits_as_curator_blogs_for_the_ai_era/ Comments URL: https://news.ycombinator.com/item?id=48235765 Points: 1 # Comments: 0",
+    "published_at": "2026-05-22 13:43",
+    "tags": [],
+    "fetch_date": "2026-05-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The AI Elephant in the Room",
+    "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/ Comments URL: https://news.ycombinator.com/item?id=48235526 Points: 71 # Comments: 73",
+    "published_at": "2026-05-22 13:22",
+    "tags": [],
+    "fetch_date": "2026-05-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Prize-winning story published in Granta was (likely) written by AI",
+    "url": "https://lithub.com/a-prize-winning-story-published-in-granta-was-very-likely-written-by-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://lithub.com/a-prize-winning-story-published-in-granta-was-very-likely-written-by-ai/ Comments URL: https://news.ycombinator.com/item?id=48235464 Points: 2 # Comments: 0",
+    "published_at": "2026-05-22 13:16",
+    "tags": [],
+    "fetch_date": "2026-05-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "China's AI optimism isn't what it seems",
+    "url": "https://www.chinatalk.media/p/chinas-ai-optimism-isnt-what-it-seems",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.chinatalk.media/p/chinas-ai-optimism-isnt-what-it-seems Comments URL: https://news.ycombinator.com/item?id=48235237 Points: 2 # Comments: 0",
+    "published_at": "2026-05-22 12:56",
+    "tags": [],
+    "fetch_date": "2026-05-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ask HN: How much AI is in your writing?",
+    "url": "https://news.ycombinator.com/item?id=48235223",
+    "source": "Hacker News AI",
+    "summary": "Looking at tech blogs, HN submissions, et cetera, a lot of content is (partly, increasingly?) generated by AI. The value of the reader's time and slop has been discussed at length. I ask:Among you, the HN-community who writes, how much do you use AI in the process?There is somewhat a spectrum from none, to grammarly-style cleanup, to whisprflow to 'look at my project, write me a HN-ready post'.Personally, I've done a 180, where I started at light touchups to rough draft-to-polished back to almos",
+    "published_at": "2026-05-22 12:55",
+    "tags": [],
+    "fetch_date": "2026-05-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The literary world isn’t prepared for AI",
+    "url": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
+    "source": "The Verge AI",
+    "summary": "Since 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was something off about one of the selections for the prestigious award: It appears to have been written by AI. Jamir Nazir's \"The Serpent in the Grove\" has many of the hallmarks [&#8230;]",
+    "published_at": "2026-05-22 10:30",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "fetch_date": "2026-05-22",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "AI Model Inflation: The Unsustainable Subsidy",
     "url": "https://tomtunguz.com/ai-model-inflation/",
     "source": "Hacker News AI",
@@ -118,6 +261,37 @@
     "tags": [],
     "fetch_date": "2026-05-22",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+    "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+    "source": "TechCrunch AI",
+    "summary": "Spotify is partnering with Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
+    "published_at": "2026-05-21 19:45",
+    "tags": [
+      "Media & Entertainment",
+      "AI",
+      "Apps",
+      "Spotify",
+      "ai music",
+      "universal music group"
+    ],
+    "fetch_date": "2026-05-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Six search engines worth trying now that Google isn’t really Google anymore",
+    "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+    "source": "TechCrunch AI",
+    "summary": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
+    "published_at": "2026-05-21 19:19",
+    "tags": [
+      "AI",
+      "evergreen",
+      "Google"
+    ],
+    "fetch_date": "2026-05-22",
+    "fetch_label": "晚报"
   },
   {
     "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
