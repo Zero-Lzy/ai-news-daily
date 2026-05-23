@@ -1,5 +1,165 @@
 [
   {
+    "title": "AI is changing the internet forever",
+    "url": "https://www.cnn.com/2026/05/23/tech/ai-internet-search",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.cnn.com/2026/05/23/tech/ai-internet-search Comments URL: https://news.ycombinator.com/item?id=48247458 Points: 1 # Comments: 0",
+    "published_at": "2026-05-23 13:22",
+    "tags": [],
+    "fetch_date": "2026-05-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Runway started by helping filmmakers – now it wants to beat Google at AI",
+    "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/ Comments URL: https://news.ycombinator.com/item?id=48247430 Points: 1 # Comments: 0",
+    "published_at": "2026-05-23 13:19",
+    "tags": [],
+    "fetch_date": "2026-05-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "I let an AI agent loose on my network – it owned my supply chain in 12 minutes",
+    "url": "https://dennysentinel.com/blog/deepseek-owned-supply-chain-12-minutes/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://dennysentinel.com/blog/deepseek-owned-supply-chain-12-minutes/ Comments URL: https://news.ycombinator.com/item?id=48247425 Points: 2 # Comments: 0",
+    "published_at": "2026-05-23 13:18",
+    "tags": [],
+    "fetch_date": "2026-05-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Elon Musk has given up on solar power (on Earth)",
+    "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+    "source": "TechCrunch AI",
+    "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
+    "published_at": "2026-05-23 13:00",
+    "tags": [
+      "Climate",
+      "AI",
+      "Analysis",
+      "data centers",
+      "Elon Musk",
+      "Solar Power",
+      "SpaceX",
+      "Tesla",
+      "xAI"
+    ],
+    "fetch_date": "2026-05-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Herdr: A tmux-like terminal multiplexer for AI coding agents",
+    "url": "https://github.com/ogulcancelik/herdr",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/ogulcancelik/herdr Comments URL: https://news.ycombinator.com/item?id=48247248 Points: 2 # Comments: 0",
+    "published_at": "2026-05-23 12:53",
+    "tags": [],
+    "fetch_date": "2026-05-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "MediaUse Makes FIFA 2026 Programmable for AI Agents (No Vision)",
+    "url": "https://mediause.dev/skills/fifa2026",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://mediause.dev/skills/fifa2026 Comments URL: https://news.ycombinator.com/item?id=48247131 Points: 1 # Comments: 0",
+    "published_at": "2026-05-23 12:35",
+    "tags": [],
+    "fetch_date": "2026-05-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "OpenClaw: Own Personal AI Assistant. Any OS. Any Platform",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/openclaw/openclaw Comments URL: https://news.ycombinator.com/item?id=48247104 Points: 1 # Comments: 0",
+    "published_at": "2026-05-23 12:31",
+    "tags": [],
+    "fetch_date": "2026-05-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Making Deep Learning Go Brrrr from First Principles",
+    "url": "https://horace.io/brrr_intro.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://horace.io/brrr_intro.html Comments URL: https://news.ycombinator.com/item?id=48246889 Points: 27 # Comments: 12",
+    "published_at": "2026-05-23 11:50",
+    "tags": [],
+    "fetch_date": "2026-05-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI doesn't divide developers – it just reveals them",
+    "url": "https://overco.de/posts/ai-doesnt-divide-developers-it-just-reveals-them/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://overco.de/posts/ai-doesnt-divide-developers-it-just-reveals-them/ Comments URL: https://news.ycombinator.com/item?id=48246539 Points: 1 # Comments: 1",
+    "published_at": "2026-05-23 10:42",
+    "tags": [],
+    "fetch_date": "2026-05-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Cool New AI Meetup",
+    "url": "https://greenvilleAI.coffee/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://greenvilleAI.coffee/ Comments URL: https://news.ycombinator.com/item?id=48246443 Points: 1 # Comments: 0",
+    "published_at": "2026-05-23 10:18",
+    "tags": [],
+    "fetch_date": "2026-05-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ask HN: Where AI Researchers Congregate?",
+    "url": "https://news.ycombinator.com/item?id=48246397",
+    "source": "Hacker News AI",
+    "summary": "So I’m doing plenty of experiments and applied research in autonomous agents and agentic flows in general. I’m looking for a place where I could collaborate and discuss with other like minded people. I would love to get recommendations for such a place online. Comments URL: https://news.ycombinator.com/item?id=48246397 Points: 1 # Comments: 0",
+    "published_at": "2026-05-23 10:05",
+    "tags": [],
+    "fetch_date": "2026-05-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Directionally bad – a newsletter about risks of AI centralization",
+    "url": "https://deaination.substack.com/p/directionally-bad-issue-002",
+    "source": "Hacker News AI",
+    "summary": "Hello, I'm sultan, a Research Analyst working to analyze and explore the world of decentralized AI. I have launched a new newsletter for everyone curious about where DeAI is going, and what's up with the centralized AI labs. Would be glad to hear your feedback! Comments URL: https://news.ycombinator.com/item?id=48246326 Points: 2 # Comments: 0",
+    "published_at": "2026-05-23 09:51",
+    "tags": [],
+    "fetch_date": "2026-05-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The AI Great Leap Forward (A Warning)",
+    "url": "https://mamund.substack.com/p/the-ai-great-leap-forward-a-warning",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://mamund.substack.com/p/the-ai-great-leap-forward-a-warning Comments URL: https://news.ycombinator.com/item?id=48246235 Points: 2 # Comments: 0",
+    "published_at": "2026-05-23 09:37",
+    "tags": [],
+    "fetch_date": "2026-05-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Embedded acoustic AI with <16ms latency running on 8MB RAM",
+    "url": "https://www.voisace.com/blog",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.voisace.com/blog Comments URL: https://news.ycombinator.com/item?id=48245869 Points: 3 # Comments: 0",
+    "published_at": "2026-05-23 08:26",
+    "tags": [],
+    "fetch_date": "2026-05-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "ChatGPT as the AOL of AI",
+    "url": "https://rebecca-powell.com/posts/return-on-intelligence-02-moats/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://rebecca-powell.com/posts/return-on-intelligence-02-moats/ Comments URL: https://news.ycombinator.com/item?id=48245748 Points: 4 # Comments: 1",
+    "published_at": "2026-05-23 08:01",
+    "tags": [],
+    "fetch_date": "2026-05-23",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "How the Library of Congress is using both AI and volunteers to unlock history",
     "url": "https://www.nextgov.com/artificial-intelligence/2026/05/how-library-congress-using-both-ai-and-volunteers-unlock-public-broadcasting-history/413742/",
     "source": "Hacker News AI",
@@ -130,6 +290,23 @@
     "fetch_label": "早报"
   },
   {
+    "title": "AI is being used to resurrect the voices of dead pilots",
+    "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+    "source": "TechCrunch AI",
+    "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+    "published_at": "2026-05-22 23:03",
+    "tags": [
+      "AI",
+      "Transportation",
+      "crash",
+      "flight",
+      "In Brief",
+      "NTSB"
+    ],
+    "fetch_date": "2026-05-23",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Don't just paste the AI at me",
     "url": "https://dontquotetheai.com/",
     "source": "Hacker News AI",
@@ -138,6 +315,24 @@
     "tags": [],
     "fetch_date": "2026-05-23",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption",
+    "url": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
+    "source": "ArsTechnica AI",
+    "summary": "Critics note a lack of factual support in lawsuit filed by US Senate candidate.",
+    "published_at": "2026-05-22 18:13",
+    "tags": [
+      "Biz & IT",
+      "Policy",
+      "Security",
+      "cryptography",
+      "encryption",
+      "meta",
+      "whatsapp"
+    ],
+    "fetch_date": "2026-05-23",
+    "fetch_label": "晚报"
   },
   {
     "title": "Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for",
@@ -153,6 +348,22 @@
     ],
     "fetch_date": "2026-05-23",
     "fetch_label": "早报"
+  },
+  {
+    "title": "You can no longer Google the word ‘disregard’",
+    "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
+    "source": "TechCrunch AI",
+    "summary": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
+    "published_at": "2026-05-22 16:16",
+    "tags": [
+      "AI",
+      "AI summaries",
+      "Google",
+      "Google Search",
+      "In Brief"
+    ],
+    "fetch_date": "2026-05-23",
+    "fetch_label": "晚报"
   },
   {
     "title": "Show HN: Cq exchange: Hosted knowledge commons for AI coding agents",
