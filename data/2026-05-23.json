@@ -1,0 +1,268 @@
+{
+  "date": "2026-05-23",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-05-23 11:35:57",
+      "count": 24,
+      "articles": [
+        {
+          "title": "How the Library of Congress is using both AI and volunteers to unlock history",
+          "url": "https://www.nextgov.com/artificial-intelligence/2026/05/how-library-congress-using-both-ai-and-volunteers-unlock-public-broadcasting-history/413742/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.nextgov.com/artificial-intelligence/2026/05/how-library-congress-using-both-ai-and-volunteers-unlock-public-broadcasting-history/413742/ Comments URL: https://news.ycombinator.com/item?id=48244327 Points: 1 # Comments: 0",
+          "published_at": "2026-05-23 03:25",
+          "tags": []
+        },
+        {
+          "title": "Any positive sides of LLM there?",
+          "url": "https://news.ycombinator.com/item?id=48244190",
+          "source": "Hacker News AI",
+          "summary": "I started to wonder that I dont remember reading any positive articles or discussion about AI.It is deep in human nature for stressing out about our problems that might occur and possible dangers, and for myself I think I have been quite deep lately for the upcoming \"world-end\" and overall stressing about the world state. There has been so much about how AI could contribute to psychosis, how AI will take our jobs etc.. Which surely are important problems. But with just little imagination I could",
+          "published_at": "2026-05-23 03:05",
+          "tags": []
+        },
+        {
+          "title": "Let me AI that for you",
+          "url": "https://let-me-ai.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://let-me-ai.com/ Comments URL: https://news.ycombinator.com/item?id=48243968 Points: 2 # Comments: 2",
+          "published_at": "2026-05-23 02:29",
+          "tags": []
+        },
+        {
+          "title": "Sci-Hub has created a new AI chatbot. Is it any good?",
+          "url": "https://cen.acs.org/policy/publishing/Sci-Hub-created-new-AI/104/web/2026/04",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://cen.acs.org/policy/publishing/Sci-Hub-created-new-AI/104/web/2026/04 Comments URL: https://news.ycombinator.com/item?id=48243836 Points: 4 # Comments: 0",
+          "published_at": "2026-05-23 02:04",
+          "tags": []
+        },
+        {
+          "title": "What it takes to run an AI coworker on iMessage",
+          "url": "https://opencomputer.dev/blog/what-it-takes-to-run-an-ai-coworker-on-imessage/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://opencomputer.dev/blog/what-it-takes-to-run-an-ai-coworker-on-imessage/ Comments URL: https://news.ycombinator.com/item?id=48243799 Points: 2 # Comments: 0",
+          "published_at": "2026-05-23 01:58",
+          "tags": []
+        },
+        {
+          "title": "94% companies will keep spending on AI even when it fails",
+          "url": "https://readuncut.com/94-will-keep-spending-on-ai-even-when-it-fails/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://readuncut.com/94-will-keep-spending-on-ai-even-when-it-fails/ Comments URL: https://news.ycombinator.com/item?id=48243523 Points: 5 # Comments: 0",
+          "published_at": "2026-05-23 01:09",
+          "tags": []
+        },
+        {
+          "title": "Frustrated franchisee sues Pizza Hut over crappy kitchen AI",
+          "url": "https://www.theregister.com/ai-ml/2026/05/19/frustrated-franchisee-sues-pizza-hut-over-crappy-kitchen-ai/5242899",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/19/frustrated-franchisee-sues-pizza-hut-over-crappy-kitchen-ai/5242899 Comments URL: https://news.ycombinator.com/item?id=48243396 Points: 4 # Comments: 1",
+          "published_at": "2026-05-23 00:50",
+          "tags": []
+        },
+        {
+          "title": "Show HN: 24/7 AI Pet Assistant – Pookie by Purr",
+          "url": "https://play.google.com/store/apps/details?id=com.nem.purr&hl=en_US",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://play.google.com/store/apps/details?id=com.nem.purr&amp;hl=en_US Comments URL: https://news.ycombinator.com/item?id=48243249 Points: 1 # Comments: 0",
+          "published_at": "2026-05-23 00:29",
+          "tags": []
+        },
+        {
+          "title": "Context windows are the wrong solution to AI memory",
+          "url": "https://www.thesecondbrain.dev",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.thesecondbrain.dev Comments URL: https://news.ycombinator.com/item?id=48243091 Points: 2 # Comments: 0",
+          "published_at": "2026-05-23 00:04",
+          "tags": []
+        },
+        {
+          "title": "Show HN: AI Guided 3D atomic orbital simulation",
+          "url": "https://atom.plumocracy.com",
+          "source": "Hacker News AI",
+          "summary": "Hey folks, I've been working on this atomic orbital for the last few months. It's specifically designed to help you learn about quantum mechanics. Would love some feedback! Comments URL: https://news.ycombinator.com/item?id=48242962 Points: 2 # Comments: 0",
+          "published_at": "2026-05-22 23:42",
+          "tags": []
+        },
+        {
+          "title": "Cheap AI Could Derail OpenAI and Anthropic's IPOs",
+          "url": "https://www.cnbc.com/2026/05/20/cheap-ai-could-derail-openai-and-anthropics-ipos.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.cnbc.com/2026/05/20/cheap-ai-could-derail-openai-and-anthropics-ipos.html Comments URL: https://news.ycombinator.com/item?id=48242934 Points: 8 # Comments: 3",
+          "published_at": "2026-05-22 23:37",
+          "tags": []
+        },
+        {
+          "title": "Future of AI-Facilitated Medicine",
+          "url": "https://www.amacad.org/publication/daedalus/future-ai-facilitated-medicine",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.amacad.org/publication/daedalus/future-ai-facilitated-medicine Comments URL: https://news.ycombinator.com/item?id=48242874 Points: 2 # Comments: 0",
+          "published_at": "2026-05-22 23:29",
+          "tags": []
+        },
+        {
+          "title": "I used $30,983 of AI tokens last month in Claude Code on $200/mo plan",
+          "url": "https://www.indiehackers.com/post/i-used-30-983-of-ai-tokens-last-month-in-claude-code-on-200-mo-plan-3337a369a6",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.indiehackers.com/post/i-used-30-983-of-ai-tokens-last-month-in-claude-code-on-200-mo-plan-3337a369a6 Comments URL: https://news.ycombinator.com/item?id=48242756 Points: 8 # Comments: 2",
+          "published_at": "2026-05-22 23:11",
+          "tags": []
+        },
+        {
+          "title": "Don't just paste the AI at me",
+          "url": "https://dontquotetheai.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://dontquotetheai.com/ Comments URL: https://news.ycombinator.com/item?id=48242648 Points: 140 # Comments: 92",
+          "published_at": "2026-05-22 22:57",
+          "tags": []
+        },
+        {
+          "title": "Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for",
+          "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+          "source": "The Verge AI",
+          "summary": "Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term \"disregard,\" the AI Overview section would include a response like what you'd see from a more traditional AI chatbot instead of the typical AI summary, as spotted on X. As you can see in the [&#8230;]",
+          "published_at": "2026-05-22 16:39",
+          "tags": [
+            "AI",
+            "Google",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Elon, stop trying to make Grok happen",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
+          "source": "The Verge AI",
+          "summary": "There is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reuters report, which found that Grok barely appears in federal records of how the US government used AI last year. It's not the only sign xAI's [&#8230;]",
+          "published_at": "2026-05-22 13:17",
+          "tags": [
+            "AI",
+            "Report",
+            "xAI"
+          ]
+        },
+        {
+          "title": "Spotify says its AI remix tool is for superfans, but I&#8217;m not convinced",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan",
+          "source": "The Verge AI",
+          "summary": "AI covers and remixes of songs are already a blight on the internet. Spotify, YouTube, TikTok, and Instagram are awash in flat reggae versions of \"Smells Like Teen Spirit,\" dinky country renditions of The Weeknd, and monotonous Motown reimaginings of AC/DC. Now, a new tool from Spotify will make them even easier to generate and [&#8230;]",
+          "published_at": "2026-05-22 10:20",
+          "tags": [
+            "AI",
+            "Entertainment",
+            "Music",
+            "Report",
+            "Spotify"
+          ]
+        },
+        {
+          "title": "Samsung&#8217;s memory chip employees negotiated $340,000 bonuses this year",
+          "url": "https://www.theverge.com/tech/936002/samsung-memory-chip-employees-deal-strike-bonus",
+          "source": "The Verge AI",
+          "summary": "Details have emerged about a tentative deal struck between Samsung and semiconductor employees who had threatened to strike. The deal reportedly makes some workers eligible for average annual bonuses of $340,000. The proposed 18-day strike had hinged on Samsung's bonus cap for employees in the semiconductor division and followed a substantial rise in the possible [&#8230;]",
+          "published_at": "2026-05-22 07:05",
+          "tags": [
+            "AI",
+            "Business",
+            "Labor",
+            "News",
+            "Samsung",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+          "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+          "source": "TechCrunch AI",
+          "summary": "Spotify is partnering with Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
+          "published_at": "2026-05-21 19:45",
+          "tags": [
+            "Media & Entertainment",
+            "AI",
+            "Apps",
+            "Spotify",
+            "ai music",
+            "universal music group"
+          ]
+        },
+        {
+          "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
+          "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+          "source": "TechCrunch AI",
+          "summary": "Spotify will let you generate daily or weekly briefs based on your prompts",
+          "published_at": "2026-05-21 15:27",
+          "tags": [
+            "AI",
+            "Apps",
+            "AI audio",
+            "ai generated content",
+            "Spotify"
+          ]
+        },
+        {
+          "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
+          "url": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
+          "source": "TechCrunch AI",
+          "summary": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.",
+          "published_at": "2026-05-21 14:00",
+          "tags": [
+            "AI",
+            "Apps",
+            "Biotech & Health",
+            "Fundraising",
+            "calm",
+            "mental health apps",
+            "The Path",
+            "Tony Robbins"
+          ]
+        },
+        {
+          "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
+          "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+          "source": "TechCrunch AI",
+          "summary": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with hardware devices built specifically for those systems.",
+          "published_at": "2026-05-21 14:00",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "AI assistants",
+            "AI hardware",
+            "hark"
+          ]
+        },
+        {
+          "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+          "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
+          "source": "TechCrunch AI",
+          "summary": "One of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it was also the most confusing.",
+          "published_at": "2026-05-21 13:52",
+          "tags": [
+            "AI",
+            "Apps",
+            "AI agents",
+            "android halo",
+            "gemini",
+            "Google",
+            "google io 2026",
+            "spark"
+          ]
+        },
+        {
+          "title": "Spotify Studio&#8217;s AI agent creates a daily podcast just for you",
+          "url": "https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts",
+          "source": "The Verge AI",
+          "summary": "Studio by Spotify Labs is a new standalone AI app that generates a daily briefing, podcasts, and playlists on your PC using chatbot prompts. The AI-generated content draws from your Spotify listening history, as well as info from apps you connect to it, like your email inbox, calendar, and notes. Spotify says its AI can [&#8230;]",
+          "published_at": "2026-05-21 11:47",
+          "tags": [
+            "AI",
+            "Entertainment",
+            "News",
+            "Spotify"
+          ]
+        }
+      ]
+    }
+  ]
+}
