@@ -1,5 +1,135 @@
 [
   {
+    "title": "2028: Two scenarios for global AI leadership",
+    "url": "https://www.anthropic.com/research/2028-ai-leadership",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.anthropic.com/research/2028-ai-leadership Comments URL: https://news.ycombinator.com/item?id=48257135 Points: 1 # Comments: 0",
+    "published_at": "2026-05-24 13:27",
+    "tags": [],
+    "fetch_date": "2026-05-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI writes x86_64 asm and eBPF for fractals on /dev/fb0, in a browser VM",
+    "url": "https://zozo123.github.io/wolfram-fb0/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://zozo123.github.io/wolfram-fb0/ Comments URL: https://news.ycombinator.com/item?id=48257102 Points: 1 # Comments: 0",
+    "published_at": "2026-05-24 13:22",
+    "tags": [],
+    "fetch_date": "2026-05-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Bursting the AI Bubble: Fed Could Take Away the \"Who Could Have Known?\" Defense",
+    "url": "https://deanbaker22.substack.com/p/bursting-the-ai-bubble-the-fed-could",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://deanbaker22.substack.com/p/bursting-the-ai-bubble-the-fed-could Comments URL: https://news.ycombinator.com/item?id=48257074 Points: 1 # Comments: 1",
+    "published_at": "2026-05-24 13:18",
+    "tags": [],
+    "fetch_date": "2026-05-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The guide to RL environments: building and scaling them in the LLM era",
+    "url": "https://huggingface.co/spaces/AdithyaSK/rl-environments-guide",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://huggingface.co/spaces/AdithyaSK/rl-environments-guide Comments URL: https://news.ycombinator.com/item?id=48256800 Points: 2 # Comments: 0",
+    "published_at": "2026-05-24 12:41",
+    "tags": [],
+    "fetch_date": "2026-05-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Proves Mathematicians Wrong",
+    "url": "https://www.heise.de/en/news/AI-proves-mathematicians-wrong-11303022.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.heise.de/en/news/AI-proves-mathematicians-wrong-11303022.html Comments URL: https://news.ycombinator.com/item?id=48256796 Points: 2 # Comments: 1",
+    "published_at": "2026-05-24 12:41",
+    "tags": [],
+    "fetch_date": "2026-05-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "I built a free AI travel planner for budget Europe trips",
+    "url": "https://news.ycombinator.com/item?id=48256767",
+    "source": "Hacker News AI",
+    "summary": "Built with Next.js and Claude API. Would love feedback from the HN community. Comments URL: https://news.ycombinator.com/item?id=48256767 Points: 2 # Comments: 2",
+    "published_at": "2026-05-24 12:34",
+    "tags": [],
+    "fetch_date": "2026-05-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Our AI just got better",
+    "url": "https://blog.ecosia.org/improving-our-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.ecosia.org/improving-our-ai/ Comments URL: https://news.ycombinator.com/item?id=48256749 Points: 6 # Comments: 2",
+    "published_at": "2026-05-24 12:31",
+    "tags": [],
+    "fetch_date": "2026-05-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Pi-Mojo – A Mojo Port of Pi AI Agent Toolkit",
+    "url": "https://github.com/atveit/pi-mojo/tree/main",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/atveit/pi-mojo/tree/main Comments URL: https://news.ycombinator.com/item?id=48256552 Points: 1 # Comments: 0",
+    "published_at": "2026-05-24 11:59",
+    "tags": [],
+    "fetch_date": "2026-05-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The invisible fabric of AI: chips aren't a US-China war, but a 30-country chain",
+    "url": "https://zoopa.es/en/innovation-technology/invisible-fabric-ai-chips-geopolitics/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://zoopa.es/en/innovation-technology/invisible-fabric-ai-chips-geopolitics/ Comments URL: https://news.ycombinator.com/item?id=48256396 Points: 2 # Comments: 1",
+    "published_at": "2026-05-24 11:23",
+    "tags": [],
+    "fetch_date": "2026-05-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Responsible Work with AI",
+    "url": "https://www.satisfice.com/responsible",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.satisfice.com/responsible Comments URL: https://news.ycombinator.com/item?id=48256376 Points: 1 # Comments: 0",
+    "published_at": "2026-05-24 11:20",
+    "tags": [],
+    "fetch_date": "2026-05-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The AI Existential Crisis: Western AI Agents Will Win Commerce",
+    "url": "https://medium.com/@vektormemory/the-ai-existential-crisis-western-ai-agents-will-win-finance-chinas-will-win-the-world-3945a70b3366",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://medium.com/@vektormemory/the-ai-existential-crisis-western-ai-agents-will-win-finance-chinas-will-win-the-world-3945a70b3366 Comments URL: https://news.ycombinator.com/item?id=48256365 Points: 1 # Comments: 0",
+    "published_at": "2026-05-24 11:18",
+    "tags": [],
+    "fetch_date": "2026-05-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Physicists create hybrid light-matter particles to replace electrons in AI cmpt",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.sciencedaily.com/releases/2026/05/260518041341.htm Comments URL: https://news.ycombinator.com/item?id=48256161 Points: 1 # Comments: 0",
+    "published_at": "2026-05-24 10:41",
+    "tags": [],
+    "fetch_date": "2026-05-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "State Explosion Security Problem in AI-Era Software Supply Chains",
+    "url": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=09213cdc-9f30-4e82-aa6f-9b6e8d82dab3&redirect_uri=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fs%2Fauth%2Foauth2callback%2Fproviderid%2Fdefault&response_type=code&state=NvXPbqZ37O0VmIJaiNKiAjCz7yTOwVZ7xk8ZlXLO9C2fqqrIl4euo9S_A75_2IG4VuQ4ksOf1FkVUZIJLuRHngiRd6dED-IOdAYL0z8V36yZglQkbjEyslljCbf-NMbv&scope=User.Read+openid+email+profile+offline_access&referer=https%253A%252F%252Ftechcommunity.microsoft.com%252Fblog%252Fmicrosoft-security-blog%252Fstate-explosion-security-problem-in-ai-era-software-supply-chains%252F4518255%253FpreviewMessage%253Dtrue",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=09213cdc-9f30-4e82-aa6f-9b6e8d82dab3&amp;redirect_uri=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fs%2Fauth%2Foauth2callback%2Fproviderid%2Fdefault&amp;response_type=code&amp;state=NvXPbqZ37O0VmIJaiNKiAjCz7yTOwVZ7xk8ZlXLO9C2fqqrIl4euo9S_A75_2IG4VuQ4ksOf1FkVUZIJLuRHngiRd6dED-IOdAYL0z8V36yZglQkbjEyslljCbf-NMbv&amp;scope=User.Read+openid+email+profile+offline_access&amp;referer=https%253A%252F%252Ftechcommunit",
+    "published_at": "2026-05-24 09:43",
+    "tags": [],
+    "fetch_date": "2026-05-24",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "AI as a Design Medium",
     "url": "https://www.harvarddesignmagazine.org/articles/ai-as-a-design-medium-rodenbeck/",
     "source": "Hacker News AI",
