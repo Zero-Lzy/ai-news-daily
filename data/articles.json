@@ -1,5 +1,173 @@
 [
   {
+    "title": "AI as a Design Medium",
+    "url": "https://www.harvarddesignmagazine.org/articles/ai-as-a-design-medium-rodenbeck/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.harvarddesignmagazine.org/articles/ai-as-a-design-medium-rodenbeck/ Comments URL: https://news.ycombinator.com/item?id=48254170 Points: 1 # Comments: 0",
+    "published_at": "2026-05-24 03:46",
+    "tags": [],
+    "fetch_date": "2026-05-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "From Vibe Coding to AI-Assisted Engineering: Lessons from Real Projects",
+    "url": "https://medium.com/@eritonsilva/from-vibe-coding-to-ai-assisted-engineering-lessons-from-real-projects-c403b85eaad1",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://medium.com/@eritonsilva/from-vibe-coding-to-ai-assisted-engineering-lessons-from-real-projects-c403b85eaad1 Comments URL: https://news.ycombinator.com/item?id=48253987 Points: 3 # Comments: 0",
+    "published_at": "2026-05-24 03:13",
+    "tags": [],
+    "fetch_date": "2026-05-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "SSV: Sparse Speculative Verification for Efficient LLM Inference",
+    "url": "https://arxiv.org/abs/2605.19893",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2605.19893 Comments URL: https://news.ycombinator.com/item?id=48253621 Points: 3 # Comments: 0",
+    "published_at": "2026-05-24 02:04",
+    "tags": [],
+    "fetch_date": "2026-05-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Characterization of machine learning compilers for LLM inference on NVIDIA GPUs",
+    "url": "https://link.springer.com/article/10.1007/s11227-026-08559-6",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://link.springer.com/article/10.1007/s11227-026-08559-6 Comments URL: https://news.ycombinator.com/item?id=48253584 Points: 3 # Comments: 0",
+    "published_at": "2026-05-24 01:59",
+    "tags": [],
+    "fetch_date": "2026-05-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Shannon Got AI This Far. Kolmogorov Shows Where It Stops",
+    "url": "https://medium.com/@vishalmisra/shannon-got-ai-this-far-kolmogorov-shows-where-it-stops-c81825f89ca0",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://medium.com/@vishalmisra/shannon-got-ai-this-far-kolmogorov-shows-where-it-stops-c81825f89ca0 Comments URL: https://news.ycombinator.com/item?id=48253580 Points: 3 # Comments: 0",
+    "published_at": "2026-05-24 01:58",
+    "tags": [],
+    "fetch_date": "2026-05-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "A simple AI agent in Java",
+    "url": "https://github.com/machineswillrise/jagent",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/machineswillrise/jagent Comments URL: https://news.ycombinator.com/item?id=48253474 Points: 4 # Comments: 0",
+    "published_at": "2026-05-24 01:35",
+    "tags": [],
+    "fetch_date": "2026-05-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Scan any codebase in 3s, then verify what your AI builds",
+    "url": "https://github.com/anatomia-dev/anatomia",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/anatomia-dev/anatomia Comments URL: https://news.ycombinator.com/item?id=48253446 Points: 5 # Comments: 0",
+    "published_at": "2026-05-24 01:30",
+    "tags": [],
+    "fetch_date": "2026-05-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Joe Rogan accidentally exposed AI in four words [video][12 mins]",
+    "url": "https://www.youtube.com/watch?v=waFl4uBfXRA",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=waFl4uBfXRA Comments URL: https://news.ycombinator.com/item?id=48253414 Points: 3 # Comments: 0",
+    "published_at": "2026-05-24 01:25",
+    "tags": [],
+    "fetch_date": "2026-05-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI didn't kill your junior pipeline. You did",
+    "url": "https://andrewmurphy.io/blog/ai-didnt-kill-your-junior-pipeline-you-did",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://andrewmurphy.io/blog/ai-didnt-kill-your-junior-pipeline-you-did Comments URL: https://news.ycombinator.com/item?id=48253237 Points: 8 # Comments: 2",
+    "published_at": "2026-05-24 01:00",
+    "tags": [],
+    "fetch_date": "2026-05-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Bateschess – Chess Analytics Feeding Stockfish Evals into LLM's",
+    "url": "https://bateschess.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://bateschess.com Comments URL: https://news.ycombinator.com/item?id=48253002 Points: 2 # Comments: 0",
+    "published_at": "2026-05-24 00:22",
+    "tags": [],
+    "fetch_date": "2026-05-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The unlikely Vatican-Anthropic relationship that's reshaping AI ethics debate",
+    "url": "https://religionnews.com/2026/05/22/why-anthropic-is-helping-unveil-the-popes-new-encyclical-on-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://religionnews.com/2026/05/22/why-anthropic-is-helping-unveil-the-popes-new-encyclical-on-ai/ Comments URL: https://news.ycombinator.com/item?id=48252986 Points: 3 # Comments: 0",
+    "published_at": "2026-05-24 00:19",
+    "tags": [],
+    "fetch_date": "2026-05-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Jeremy Scott gets cheer after ripping up AI-written commencement speech",
+    "url": "https://www.businessinsider.com/jeremy-scott-fashion-graduation-speech-commencement-ai-student-backlash-2026-5",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.businessinsider.com/jeremy-scott-fashion-graduation-speech-commencement-ai-student-backlash-2026-5 Comments URL: https://news.ycombinator.com/item?id=48252741 Points: 7 # Comments: 1",
+    "published_at": "2026-05-23 23:42",
+    "tags": [],
+    "fetch_date": "2026-05-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Sycophantic AI decreases prosocial intentions and promotes dependence",
+    "url": "https://www.science.org/doi/10.1126/science.aec8352",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.science.org/doi/10.1126/science.aec8352 Comments URL: https://news.ycombinator.com/item?id=48252729 Points: 2 # Comments: 0",
+    "published_at": "2026-05-23 23:40",
+    "tags": [],
+    "fetch_date": "2026-05-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI-fix: type one word after a failed command and it fixes it",
+    "url": "https://github.com/anasmohiuddinsyed-bit/ai-fix",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/anasmohiuddinsyed-bit/ai-fix Comments URL: https://news.ycombinator.com/item?id=48252705 Points: 2 # Comments: 0",
+    "published_at": "2026-05-23 23:38",
+    "tags": [],
+    "fetch_date": "2026-05-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Customizing an LLM for Enterprise Software Engineering",
+    "url": "https://arxiv.org/abs/2605.16517",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2605.16517 Comments URL: https://news.ycombinator.com/item?id=48252173 Points: 4 # Comments: 0",
+    "published_at": "2026-05-23 22:23",
+    "tags": [],
+    "fetch_date": "2026-05-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ferrari is using IBM’s AI to create F1 superfans",
+    "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+    "source": "TechCrunch AI",
+    "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+    "published_at": "2026-05-23 15:08",
+    "tags": [
+      "Transportation",
+      "AI",
+      "IBM",
+      "Apps",
+      "formula one",
+      "Exclusive",
+      "f1"
+    ],
+    "fetch_date": "2026-05-24",
+    "fetch_label": "早报"
+  },
+  {
     "title": "AI is changing the internet forever",
     "url": "https://www.cnn.com/2026/05/23/tech/ai-internet-search",
     "source": "Hacker News AI",
@@ -158,6 +326,23 @@
     "tags": [],
     "fetch_date": "2026-05-23",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Google’s new anything-to-anything AI model is wild",
+    "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+    "source": "The Verge AI",
+    "summary": "Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-year-old. [&#8230;]",
+    "published_at": "2026-05-23 07:00",
+    "tags": [
+      "AI",
+      "Google",
+      "Google I/O 2026",
+      "Hands-on",
+      "Reviews",
+      "Tech"
+    ],
+    "fetch_date": "2026-05-24",
+    "fetch_label": "早报"
   },
   {
     "title": "How the Library of Congress is using both AI and volunteers to unlock history",
