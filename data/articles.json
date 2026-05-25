@@ -140,6 +140,35 @@
     "fetch_label": "早报"
   },
   {
+    "title": "Everyone is navigating AI security in real time — even Google",
+    "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+    "source": "TechCrunch AI",
+    "summary": "We're in the transition period -- all of us.",
+    "published_at": "2026-05-24 21:39",
+    "tags": [
+      "AI",
+      "TC"
+    ],
+    "fetch_date": "2026-05-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+    "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+    "source": "TechCrunch AI",
+    "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
+    "published_at": "2026-05-24 15:00",
+    "tags": [
+      "AI",
+      "Gadgets",
+      "Amazon",
+      "AI hardware",
+      "Bee wearable"
+    ],
+    "fetch_date": "2026-05-25",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "2028: Two scenarios for global AI leadership",
     "url": "https://www.anthropic.com/research/2028-ai-leadership",
     "source": "Hacker News AI",
