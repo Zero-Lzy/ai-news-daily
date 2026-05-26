@@ -85,6 +85,129 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-05-26 23:32:21",
+      "count": 8,
+      "articles": [
+        {
+          "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
+          "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
+          "source": "TechCrunch AI",
+          "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies",
+          "published_at": "2026-05-26 14:55",
+          "tags": [
+            "AI",
+            "Apps",
+            "Media & Entertainment",
+            "TikTok",
+            "universal music group"
+          ]
+        },
+        {
+          "title": "Sundar Pichai on AI, the future of search, and what’s happening to the web",
+          "url": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
+          "source": "The Verge AI",
+          "summary": "Today, I’m talking with Google and Alphabet CEO Sundar Pichai, in a conversation we recorded just after the Google I/O developer conference. This is the fifth year Sundar and I have sat down after I/O, and it’s become one of my favorite Decoder traditions. There’s always a lot of news at I/O, and this year [&#8230;]",
+          "published_at": "2026-05-26 10:00",
+          "tags": [
+            "AI",
+            "Decoder",
+            "Google",
+            "Google I/O 2026",
+            "Podcasts",
+            "Tech",
+            "Web"
+          ]
+        },
+        {
+          "title": "Nobody wants to tell me why they only listen to their own Suno slop",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop",
+          "source": "The Verge AI",
+          "summary": "There's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their own slop. And in some cases, they proudly proclaim that they don't listen to music on traditional streaming platforms anymore - it's just AI all day. \"Does anyone just listen to their own [&#8230;]",
+          "published_at": "2026-05-26 08:46",
+          "tags": [
+            "AI",
+            "Entertainment",
+            "Music",
+            "Report"
+          ]
+        },
+        {
+          "title": "AI warfare is already here",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines",
+          "source": "The Verge AI",
+          "summary": "The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United Nations in Geneva. When Branka Marijan attended in November 2017, she thought the five-day sessions - which dealt largely in hypotheticals, speculating on a world where warfare was fought with killer robots [&#8230;]",
+          "published_at": "2026-05-26 08:00",
+          "tags": [
+            "AI",
+            "Analysis",
+            "Anthropic",
+            "Law",
+            "OpenAI",
+            "Policy",
+            "Report"
+          ]
+        },
+        {
+          "title": "Uber president says AI spending is getting ‘harder to justify’",
+          "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+          "source": "The Verge AI",
+          "summary": "After reportedly exhausting its annual AI budget just four months into 2026, Uber is now questioning whether it's actually seeing meaningful returns on its investments. In an interview with Rapid Response, Uber president and chief operating officer Andrew Macdonald said the company isn't seeing a connection between rising token consumption for Claude Code and more [&#8230;]",
+          "published_at": "2026-05-26 05:55",
+          "tags": [
+            "AI",
+            "Business",
+            "News",
+            "Ride-sharing",
+            "Transportation",
+            "Uber"
+          ]
+        },
+        {
+          "title": "What ClickUp’s mass layoff tells us about the future of work",
+          "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+          "source": "TechCrunch AI",
+          "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
+          "published_at": "2026-05-25 16:00",
+          "tags": [
+            "Startups",
+            "AI",
+            "layoff",
+            "ClickUp"
+          ]
+        },
+        {
+          "title": "The pope’s AI encyclical isn’t really about AI",
+          "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
+          "published_at": "2026-05-25 15:09",
+          "tags": [
+            "AI",
+            "ai encyclical",
+            "Magnifica Humanitas",
+            "pope leo xiv",
+            "the vatican"
+          ]
+        },
+        {
+          "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
+          "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+          "source": "The Verge AI",
+          "summary": "Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the pope's manifesto on \"safeguarding the human person in the time of artificial intelligence,\" in which he discusses the dangers of AI-powered warfare, the effects of AI on labor, and [&#8230;]",
+          "published_at": "2026-05-25 11:05",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "Law",
+            "News",
+            "Policy",
+            "Politics"
+          ]
+        }
+      ]
     }
   ]
 }
