@@ -1,5 +1,101 @@
 [
   {
+    "title": "Show HN: AgentToolBench-Code – security benchmark for AI coding agents",
+    "url": "https://gist.github.com/allenwu-blip/fa2bd0218b93a1d7aef765817e3c6608",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://gist.github.com/allenwu-blip/fa2bd0218b93a1d7aef765817e3c6608 Comments URL: https://news.ycombinator.com/item?id=48274727 Points: 1 # Comments: 0",
+    "published_at": "2026-05-26 03:45",
+    "tags": [],
+    "fetch_date": "2026-05-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Argus – multi‑agent AI coding assistant that never gets stuc",
+    "url": "https://github.com/argustek/Argus",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/argustek/Argus Comments URL: https://news.ycombinator.com/item?id=48274671 Points: 1 # Comments: 0",
+    "published_at": "2026-05-26 03:36",
+    "tags": [],
+    "fetch_date": "2026-05-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Brockovich AI Data Center Reporting",
+    "url": "https://www.brockovichdatacenter.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.brockovichdatacenter.com/ Comments URL: https://news.ycombinator.com/item?id=48274402 Points: 2 # Comments: 0",
+    "published_at": "2026-05-26 02:46",
+    "tags": [],
+    "fetch_date": "2026-05-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Crypto code commits fall 75% as developers move to AI projects",
+    "url": "https://www.coindesk.com/tech/2026/03/12/crypto-developer-activity-sinks-to-multi-year-low-as-ai-absorbs-github-s-talent-boom",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.coindesk.com/tech/2026/03/12/crypto-developer-activity-sinks-to-multi-year-low-as-ai-absorbs-github-s-talent-boom Comments URL: https://news.ycombinator.com/item?id=48274215 Points: 5 # Comments: 0",
+    "published_at": "2026-05-26 02:18",
+    "tags": [],
+    "fetch_date": "2026-05-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI SEO: compare with your competitor",
+    "url": "https://usefox.co/competitor-analyzer",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://usefox.co/competitor-analyzer Comments URL: https://news.ycombinator.com/item?id=48274049 Points: 3 # Comments: 0",
+    "published_at": "2026-05-26 01:50",
+    "tags": [],
+    "fetch_date": "2026-05-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Distributing LLM Inference in DwarfStar",
+    "url": "https://antirez.com/news/167",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://antirez.com/news/167 Comments URL: https://news.ycombinator.com/item?id=48273010 Points: 2 # Comments: 0",
+    "published_at": "2026-05-25 23:19",
+    "tags": [],
+    "fetch_date": "2026-05-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The evolution of AI-assisted software engineering paradigms",
+    "url": "https://pasqualepillitteri.it/en/news/182/evolution-ai-software-engineering-paradigms-agentic-loop",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://pasqualepillitteri.it/en/news/182/evolution-ai-software-engineering-paradigms-agentic-loop Comments URL: https://news.ycombinator.com/item?id=48272994 Points: 1 # Comments: 0",
+    "published_at": "2026-05-25 23:18",
+    "tags": [],
+    "fetch_date": "2026-05-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Every Frontier AI Is INTJ",
+    "url": "https://zonted.com/posts/every-ai-is-intj/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://zonted.com/posts/every-ai-is-intj/ Comments URL: https://news.ycombinator.com/item?id=48272755 Points: 20 # Comments: 9",
+    "published_at": "2026-05-25 22:43",
+    "tags": [],
+    "fetch_date": "2026-05-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The pope’s AI encyclical isn’t really about AI",
+    "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+    "source": "TechCrunch AI",
+    "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
+    "published_at": "2026-05-25 15:09",
+    "tags": [
+      "AI",
+      "ai encyclical",
+      "Magnifica Humanitas",
+      "pope leo xiv",
+      "the vatican"
+    ],
+    "fetch_date": "2026-05-26",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Show HN: Live AI music sequencing agent",
     "url": "https://pretzel.shukant.com/?nickname=Anonymous&role=stage",
     "source": "Hacker News AI",
