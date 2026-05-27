@@ -1,5 +1,160 @@
 [
   {
+    "title": "FBI agent explains how easy it is to ID people posting AI porn without consent",
+    "url": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/ Comments URL: https://news.ycombinator.com/item?id=48289479 Points: 1 # Comments: 0",
+    "published_at": "2026-05-27 04:02",
+    "tags": [],
+    "fetch_date": "2026-05-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Booming AI chip demand helps create two new $1T club members",
+    "url": "https://www.bbc.com/news/articles/cnvp9dq0p3go",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cnvp9dq0p3go Comments URL: https://news.ycombinator.com/item?id=48289473 Points: 1 # Comments: 0",
+    "published_at": "2026-05-27 04:02",
+    "tags": [],
+    "fetch_date": "2026-05-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Bill Gates AI on AI (one month later)",
+    "url": "https://news.ycombinator.com/item?id=48289469",
+    "source": "Hacker News AI",
+    "summary": "# The Agentic Tidal Wave*To:* Executive Staff and Direct Reports *From:* Bill Gates *Date:* April 26, 2026Our vision for the last 20 years can be summarized in a succinct way. We saw that exponential improvements in cloud would make great software quite available. In the next 20 years the improvement in computer power will be outpaced by the exponential improvements in autonomous expert systems. Verifiable trust will be crucial to delivering the benefits of these advances.Most users of software ",
+    "published_at": "2026-05-27 04:01",
+    "tags": [],
+    "fetch_date": "2026-05-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The AI Decoupling",
+    "url": "https://vintagedata.org/blog/posts/the-ai-decoupling",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://vintagedata.org/blog/posts/the-ai-decoupling Comments URL: https://news.ycombinator.com/item?id=48289370 Points: 2 # Comments: 0",
+    "published_at": "2026-05-27 03:45",
+    "tags": [],
+    "fetch_date": "2026-05-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Why Does Your AI Agent Work Better for You Than for Me?",
+    "url": "https://vexjoy.com/posts/why-your-ai-agent-works-better-for-you/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://vexjoy.com/posts/why-your-ai-agent-works-better-for-you/ Comments URL: https://news.ycombinator.com/item?id=48289364 Points: 1 # Comments: 0",
+    "published_at": "2026-05-27 03:44",
+    "tags": [],
+    "fetch_date": "2026-05-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "I built a 28-tool AI video SaaS solo with Python, Flask and OpenAI APIs",
+    "url": "https://snipforge.video",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://snipforge.video Comments URL: https://news.ycombinator.com/item?id=48288744 Points: 3 # Comments: 0",
+    "published_at": "2026-05-27 02:26",
+    "tags": [],
+    "fetch_date": "2026-05-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "ACM Conference on AI and Agentic Systems – ACM CAIS 2026",
+    "url": "https://www.caisconf.org/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.caisconf.org/ Comments URL: https://news.ycombinator.com/item?id=48288737 Points: 2 # Comments: 0",
+    "published_at": "2026-05-27 02:25",
+    "tags": [],
+    "fetch_date": "2026-05-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "ClearCompli: AI Compliance Solution",
+    "url": "https://app.clearcompli.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://app.clearcompli.com Comments URL: https://news.ycombinator.com/item?id=48288645 Points: 3 # Comments: 0",
+    "published_at": "2026-05-27 02:15",
+    "tags": [],
+    "fetch_date": "2026-05-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI tools are only as good as your judgment",
+    "url": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html Comments URL: https://news.ycombinator.com/item?id=48287649 Points: 70 # Comments: 22",
+    "published_at": "2026-05-27 00:00",
+    "tags": [],
+    "fetch_date": "2026-05-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+    "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+    "source": "TechCrunch AI",
+    "summary": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
+    "published_at": "2026-05-26 22:32",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "AI search",
+      "DuckDuckGo",
+      "Google",
+      "google io 2026",
+      "Google Search"
+    ],
+    "fetch_date": "2026-05-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Did the Pope use AI to write about the dangers of AI?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+    "source": "The Verge AI",
+    "summary": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram. The [&#8230;]",
+    "published_at": "2026-05-26 20:38",
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "fetch_date": "2026-05-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+    "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+    "source": "ArsTechnica AI",
+    "summary": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads.",
+    "published_at": "2026-05-26 19:50",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "Security",
+      "AI agents",
+      "Starlette",
+      "vulnerability"
+    ],
+    "fetch_date": "2026-05-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+    "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+    "source": "TechCrunch AI",
+    "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
+    "published_at": "2026-05-26 18:33",
+    "tags": [
+      "AI",
+      "Startups",
+      "AI gateway",
+      "CapitalG",
+      "In Brief",
+      "openrouter"
+    ],
+    "fetch_date": "2026-05-27",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
     "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
     "source": "TechCrunch AI",
