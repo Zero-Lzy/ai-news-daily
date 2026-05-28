@@ -1,0 +1,302 @@
+{
+  "date": "2026-05-28",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-05-28 11:56:48",
+      "count": 24,
+      "articles": [
+        {
+          "title": "When everyone has access to the same AI models",
+          "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/from-ai-table-stakes-to-ai-advantage-building-competitive-moats",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.mckinsey.com/capabilities/quantumblack/our-insights/from-ai-table-stakes-to-ai-advantage-building-competitive-moats Comments URL: https://news.ycombinator.com/item?id=48304292 Points: 1 # Comments: 0",
+          "published_at": "2026-05-28 03:53",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: Burned out on AI and want to go part time",
+          "url": "https://news.ycombinator.com/item?id=48304035",
+          "source": "Hacker News AI",
+          "summary": "I’ve been in the industry for ten years and have been fortunate enough to build up enough savings to where I could work for substantially less than I make now.I’m so burned out on writing software and the never ending rat race that the industry has evolved into over the years that I’m at peace with quitting to do something part time so that I can focus on doing things just for myself that make me happy and give more of a sense of purpose that I feel is lacking in my life.Has anyone made a simila",
+          "published_at": "2026-05-28 03:17",
+          "tags": []
+        },
+        {
+          "title": "Popular LLM software hit by critical vulnerability in Python package Starlette",
+          "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/ Comments URL: https://news.ycombinator.com/item?id=48303937 Points: 1 # Comments: 0",
+          "published_at": "2026-05-28 03:05",
+          "tags": []
+        },
+        {
+          "title": "Your Future job will be to keep AI on task",
+          "url": "https://www.noahpinion.blog/p/your-future-job-will-be-to-keep-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.noahpinion.blog/p/your-future-job-will-be-to-keep-ai Comments URL: https://news.ycombinator.com/item?id=48303543 Points: 3 # Comments: 1",
+          "published_at": "2026-05-28 02:14",
+          "tags": []
+        },
+        {
+          "title": "Safescript – A Language for AI Era",
+          "url": "https://safescript.cc/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://safescript.cc/ Comments URL: https://news.ycombinator.com/item?id=48303516 Points: 2 # Comments: 0",
+          "published_at": "2026-05-28 02:10",
+          "tags": []
+        },
+        {
+          "title": "Pimmur, can LLM simulate human collective behavior?",
+          "url": "https://arxiv.org/abs/2509.18052",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2509.18052 Comments URL: https://news.ycombinator.com/item?id=48303461 Points: 1 # Comments: 0",
+          "published_at": "2026-05-28 02:03",
+          "tags": []
+        },
+        {
+          "title": "Zig 2026: No-AI Policy, $670K Foundation, Left GitHub and Why Zig Isn't 1.0 [video]",
+          "url": "https://www.youtube.com/watch?v=iqddnwKF8HQ",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=iqddnwKF8HQ Comments URL: https://news.ycombinator.com/item?id=48303273 Points: 15 # Comments: 0",
+          "published_at": "2026-05-28 01:40",
+          "tags": []
+        },
+        {
+          "title": "Dario Amodei warned of an AI white-collar bloodbath, now he's changing narrative",
+          "url": "https://fortune.com/2026/05/05/dario-amodei-jevons-paradox-will-ai-wipe-out-white-collar-jobs/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://fortune.com/2026/05/05/dario-amodei-jevons-paradox-will-ai-wipe-out-white-collar-jobs/ Comments URL: https://news.ycombinator.com/item?id=48303262 Points: 4 # Comments: 0",
+          "published_at": "2026-05-28 01:39",
+          "tags": []
+        },
+        {
+          "title": "Do they know we can tell it's AI slop?",
+          "url": "https://news.ycombinator.com/item?id=48303252",
+          "source": "Hacker News AI",
+          "summary": "What do I do when the entrepreneurs I work for send out AI slop in their communications?I work for a great group of entrepreneurs as CTO/fCFO. They are all sales guys. In my childhood and professional career, I have seen so many toxic partnerships. I don’t waste any time on those anymore and I genuinely respect the guys I work for.So, to the main question, what do I do when it’s blatant that they are just copying AI slop from Grok or chatGPT? I notice it all the time. But I genuinely respect the",
+          "published_at": "2026-05-28 01:38",
+          "tags": []
+        },
+        {
+          "title": "AI Cheats [pdf]",
+          "url": "https://metr.org/risk-report-feb-mar-2026.pdf",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://metr.org/risk-report-feb-mar-2026.pdf Comments URL: https://news.ycombinator.com/item?id=48302863 Points: 1 # Comments: 0",
+          "published_at": "2026-05-28 00:54",
+          "tags": []
+        },
+        {
+          "title": "Why Google’s AI can’t spell Google (or anything else)",
+          "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+          "source": "TechCrunch AI",
+          "summary": "Google is embarrassing itself, again.",
+          "published_at": "2026-05-28 00:17",
+          "tags": [
+            "AI",
+            "Google",
+            "spelling"
+          ]
+        },
+        {
+          "title": "The Authorization Paradox: Who Has the Keys to Your AI? [video]",
+          "url": "https://www.youtube.com/watch?v=5UUpxgcGKXk",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=5UUpxgcGKXk Comments URL: https://news.ycombinator.com/item?id=48302451 Points: 2 # Comments: 0",
+          "published_at": "2026-05-28 00:00",
+          "tags": []
+        },
+        {
+          "title": "Building the Future of Accessible Tech: Inside Uvilox AI",
+          "url": "https://uvilox-aiwebsite.pages.dev/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://uvilox-aiwebsite.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=48302269 Points: 3 # Comments: 0",
+          "published_at": "2026-05-27 23:37",
+          "tags": []
+        },
+        {
+          "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+          "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+          "source": "TechCrunch AI",
+          "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
+          "published_at": "2026-05-27 20:10",
+          "tags": [
+            "Enterprise",
+            "TC",
+            "AI",
+            "Amazon",
+            "AWS",
+            "Snowflake",
+            "AI chips"
+          ]
+        },
+        {
+          "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
+          "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+          "source": "TechCrunch AI",
+          "summary": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.",
+          "published_at": "2026-05-27 19:39",
+          "tags": [
+            "AI",
+            "AI adoption",
+            "Remote"
+          ]
+        },
+        {
+          "title": "Your SEO strategy is optimized for a search engine that no longer exists.",
+          "url": "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/",
+          "source": "TechCrunch AI",
+          "summary": "Google I/O made it official: AI-generated answers are now front and&#160;center&#160;in search, and most brands have almost no visibility into how AI is describing them to their customers.&#160;For anyone who has spent years building a strategy around 10 blue links, the rules just changed in a pretty significant way.&#160; On this episode of TechCrunch&#8217;s Equity podcast, Rebecca [&#8230;]",
+          "published_at": "2026-05-27 18:39",
+          "tags": [
+            "AI",
+            "Startups",
+            "AI agents",
+            "AI search",
+            "discoverability",
+            "Equity podcast",
+            "Geo",
+            "google io",
+            "Google Search",
+            "scrunch",
+            "SEO"
+          ]
+        },
+        {
+          "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+          "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+          "source": "TechCrunch AI",
+          "summary": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
+          "published_at": "2026-05-27 16:00",
+          "tags": [
+            "AI",
+            "Startups",
+            "ai coding",
+            "cognition",
+            "Devin"
+          ]
+        },
+        {
+          "title": "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup",
+          "url": "https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/",
+          "source": "TechCrunch AI",
+          "summary": "Today is the final day to apply or nominate a startup for Startup Battlefield 200. Once the clock strikes 11:59 p.m. PT, the window closes on your chance to compete for $100,000 in equity-free funding, gain global visibility, connect directly with investors, and launch on the TechCrunch Disrupt stage.",
+          "published_at": "2026-05-27 14:15",
+          "tags": [
+            "AI",
+            "Apps",
+            "Biotech & Health",
+            "Climate",
+            "Crypto",
+            "Fintech",
+            "Fundraising",
+            "Gadgets",
+            "Hardware",
+            "Media & Entertainment",
+            "Robotics",
+            "Startups",
+            "Venture",
+            "Startup Battlefield",
+            "TechCrunch Disrupt 2026"
+          ]
+        },
+        {
+          "title": "TechCrunch Disrupt 2026 Early Bird ticket savings end in 3 days",
+          "url": "https://techcrunch.com/2026/05/27/techcrunch-disrupt-2026-early-bird-ticket-savings-end-in-3-days/",
+          "source": "TechCrunch AI",
+          "summary": "There are only 3 days left to save up to $410 on your ticket to TechCrunch Disrupt 2026. Early Bird pricing ends May 29 at 11:59 p.m. PT, and once the deadline passes, ticket prices increase. If you plan to attend one of the most influential gatherings in tech this year, now is the time to lock in your pass before rates go up again.",
+          "published_at": "2026-05-27 14:00",
+          "tags": [
+            "AI",
+            "Apps",
+            "Biotech & Health",
+            "Climate",
+            "Crypto",
+            "Fintech",
+            "Fundraising",
+            "Government & Policy",
+            "Hardware",
+            "Media & Entertainment",
+            "Robotics",
+            "Security",
+            "Startups",
+            "Transportation",
+            "Venture",
+            "TechCrunch Disrupt 2026"
+          ]
+        },
+        {
+          "title": "YouTube will now automatically label AI videos",
+          "url": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/",
+          "source": "TechCrunch AI",
+          "summary": "YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels more prominent.",
+          "published_at": "2026-05-27 13:00",
+          "tags": [
+            "AI",
+            "Media & Entertainment",
+            "AI content",
+            "Creators",
+            "media",
+            "YouTube"
+          ]
+        },
+        {
+          "title": "Robinhood now lets your AI agents trade stocks",
+          "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+          "source": "TechCrunch AI",
+          "summary": "While these agents would be able to read and analyze users' portfolios to come up with trading strategies and suggest investments, they'll only be able to access the pre-loaded balance in the dedicated wallet to place orders.",
+          "published_at": "2026-05-27 12:30",
+          "tags": [
+            "AI",
+            "Fintech",
+            "AI agents",
+            "AI stock trading",
+            "payments",
+            "Robinhood"
+          ]
+        },
+        {
+          "title": "This smart bird feeder captures more of my backyard drama",
+          "url": "https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review",
+          "source": "The Verge AI",
+          "summary": "Since moving to South Carolina's Lowcountry, I've been spellbound by the myriad of beautiful birds that share the coast with us - ospreys raising their babies in towering nests beside the road to my daughter's school, roseate spoonbills wading in the marsh on my morning walks, eagles circling over my son's tennis matches, and a [&#8230;]",
+          "published_at": "2026-05-27 10:00",
+          "tags": [
+            "AI",
+            "Cameras",
+            "Gadgets",
+            "Reviews",
+            "Smart Home Reviews",
+            "Tech"
+          ]
+        },
+        {
+          "title": "The Pope isn’t AGI-pilled",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions",
+          "source": "The Verge AI",
+          "summary": "On Monday, Pope Leo XIV unveiled an encyclical letter addressing the societal implications of artificial intelligence. The letter, titled Magnifica Humanitas, warned that the \"use of AI is never a purely technical matter: when it enters processes that affect people's lives, it touches on rights, opportunities, status and freedom.\" Alongside him was Anthropic cofounder and [&#8230;]",
+          "published_at": "2026-05-27 08:00",
+          "tags": [
+            "AI",
+            "Report"
+          ]
+        },
+        {
+          "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+          "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+          "source": "TechCrunch AI",
+          "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
+          "published_at": "2026-05-26 18:33",
+          "tags": [
+            "AI",
+            "Startups",
+            "AI gateway",
+            "CapitalG",
+            "In Brief",
+            "openrouter"
+          ]
+        }
+      ]
+    }
+  ]
+}

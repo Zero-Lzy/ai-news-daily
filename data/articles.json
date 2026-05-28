@@ -1,5 +1,199 @@
 [
   {
+    "title": "When everyone has access to the same AI models",
+    "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/from-ai-table-stakes-to-ai-advantage-building-competitive-moats",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.mckinsey.com/capabilities/quantumblack/our-insights/from-ai-table-stakes-to-ai-advantage-building-competitive-moats Comments URL: https://news.ycombinator.com/item?id=48304292 Points: 1 # Comments: 0",
+    "published_at": "2026-05-28 03:53",
+    "tags": [],
+    "fetch_date": "2026-05-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask HN: Burned out on AI and want to go part time",
+    "url": "https://news.ycombinator.com/item?id=48304035",
+    "source": "Hacker News AI",
+    "summary": "I’ve been in the industry for ten years and have been fortunate enough to build up enough savings to where I could work for substantially less than I make now.I’m so burned out on writing software and the never ending rat race that the industry has evolved into over the years that I’m at peace with quitting to do something part time so that I can focus on doing things just for myself that make me happy and give more of a sense of purpose that I feel is lacking in my life.Has anyone made a simila",
+    "published_at": "2026-05-28 03:17",
+    "tags": [],
+    "fetch_date": "2026-05-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Your Future job will be to keep AI on task",
+    "url": "https://www.noahpinion.blog/p/your-future-job-will-be-to-keep-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.noahpinion.blog/p/your-future-job-will-be-to-keep-ai Comments URL: https://news.ycombinator.com/item?id=48303543 Points: 3 # Comments: 1",
+    "published_at": "2026-05-28 02:14",
+    "tags": [],
+    "fetch_date": "2026-05-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Safescript – A Language for AI Era",
+    "url": "https://safescript.cc/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://safescript.cc/ Comments URL: https://news.ycombinator.com/item?id=48303516 Points: 2 # Comments: 0",
+    "published_at": "2026-05-28 02:10",
+    "tags": [],
+    "fetch_date": "2026-05-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Pimmur, can LLM simulate human collective behavior?",
+    "url": "https://arxiv.org/abs/2509.18052",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2509.18052 Comments URL: https://news.ycombinator.com/item?id=48303461 Points: 1 # Comments: 0",
+    "published_at": "2026-05-28 02:03",
+    "tags": [],
+    "fetch_date": "2026-05-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Zig 2026: No-AI Policy, $670K Foundation, Left GitHub and Why Zig Isn't 1.0 [video]",
+    "url": "https://www.youtube.com/watch?v=iqddnwKF8HQ",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=iqddnwKF8HQ Comments URL: https://news.ycombinator.com/item?id=48303273 Points: 15 # Comments: 0",
+    "published_at": "2026-05-28 01:40",
+    "tags": [],
+    "fetch_date": "2026-05-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Dario Amodei warned of an AI white-collar bloodbath, now he's changing narrative",
+    "url": "https://fortune.com/2026/05/05/dario-amodei-jevons-paradox-will-ai-wipe-out-white-collar-jobs/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://fortune.com/2026/05/05/dario-amodei-jevons-paradox-will-ai-wipe-out-white-collar-jobs/ Comments URL: https://news.ycombinator.com/item?id=48303262 Points: 4 # Comments: 0",
+    "published_at": "2026-05-28 01:39",
+    "tags": [],
+    "fetch_date": "2026-05-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Do they know we can tell it's AI slop?",
+    "url": "https://news.ycombinator.com/item?id=48303252",
+    "source": "Hacker News AI",
+    "summary": "What do I do when the entrepreneurs I work for send out AI slop in their communications?I work for a great group of entrepreneurs as CTO/fCFO. They are all sales guys. In my childhood and professional career, I have seen so many toxic partnerships. I don’t waste any time on those anymore and I genuinely respect the guys I work for.So, to the main question, what do I do when it’s blatant that they are just copying AI slop from Grok or chatGPT? I notice it all the time. But I genuinely respect the",
+    "published_at": "2026-05-28 01:38",
+    "tags": [],
+    "fetch_date": "2026-05-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Cheats [pdf]",
+    "url": "https://metr.org/risk-report-feb-mar-2026.pdf",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://metr.org/risk-report-feb-mar-2026.pdf Comments URL: https://news.ycombinator.com/item?id=48302863 Points: 1 # Comments: 0",
+    "published_at": "2026-05-28 00:54",
+    "tags": [],
+    "fetch_date": "2026-05-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Why Google’s AI can’t spell Google (or anything else)",
+    "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+    "source": "TechCrunch AI",
+    "summary": "Google is embarrassing itself, again.",
+    "published_at": "2026-05-28 00:17",
+    "tags": [
+      "AI",
+      "Google",
+      "spelling"
+    ],
+    "fetch_date": "2026-05-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The Authorization Paradox: Who Has the Keys to Your AI? [video]",
+    "url": "https://www.youtube.com/watch?v=5UUpxgcGKXk",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=5UUpxgcGKXk Comments URL: https://news.ycombinator.com/item?id=48302451 Points: 2 # Comments: 0",
+    "published_at": "2026-05-28 00:00",
+    "tags": [],
+    "fetch_date": "2026-05-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Building the Future of Accessible Tech: Inside Uvilox AI",
+    "url": "https://uvilox-aiwebsite.pages.dev/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://uvilox-aiwebsite.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=48302269 Points: 3 # Comments: 0",
+    "published_at": "2026-05-27 23:37",
+    "tags": [],
+    "fetch_date": "2026-05-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+    "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+    "source": "TechCrunch AI",
+    "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
+    "published_at": "2026-05-27 20:10",
+    "tags": [
+      "Enterprise",
+      "TC",
+      "AI",
+      "Amazon",
+      "AWS",
+      "Snowflake",
+      "AI chips"
+    ],
+    "fetch_date": "2026-05-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
+    "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+    "source": "TechCrunch AI",
+    "summary": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.",
+    "published_at": "2026-05-27 19:39",
+    "tags": [
+      "AI",
+      "AI adoption",
+      "Remote"
+    ],
+    "fetch_date": "2026-05-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Your SEO strategy is optimized for a search engine that no longer exists.",
+    "url": "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/",
+    "source": "TechCrunch AI",
+    "summary": "Google I/O made it official: AI-generated answers are now front and&#160;center&#160;in search, and most brands have almost no visibility into how AI is describing them to their customers.&#160;For anyone who has spent years building a strategy around 10 blue links, the rules just changed in a pretty significant way.&#160; On this episode of TechCrunch&#8217;s Equity podcast, Rebecca [&#8230;]",
+    "published_at": "2026-05-27 18:39",
+    "tags": [
+      "AI",
+      "Startups",
+      "AI agents",
+      "AI search",
+      "discoverability",
+      "Equity podcast",
+      "Geo",
+      "google io",
+      "Google Search",
+      "scrunch",
+      "SEO"
+    ],
+    "fetch_date": "2026-05-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+    "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+    "source": "TechCrunch AI",
+    "summary": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
+    "published_at": "2026-05-27 16:00",
+    "tags": [
+      "AI",
+      "Startups",
+      "ai coding",
+      "cognition",
+      "Devin"
+    ],
+    "fetch_date": "2026-05-28",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup",
     "url": "https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/",
     "source": "TechCrunch AI",
