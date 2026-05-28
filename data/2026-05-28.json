@@ -297,6 +297,277 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-05-28 23:58:26",
+      "count": 17,
+      "articles": [
+        {
+          "title": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
+          "url": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
+          "source": "TechCrunch AI",
+          "summary": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.",
+          "published_at": "2026-05-28 15:36",
+          "tags": [
+            "AI",
+            "TC",
+            "Anthropic",
+            "compute",
+            "SpaceX",
+            "xAI"
+          ]
+        },
+        {
+          "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
+          "url": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
+          "source": "TechCrunch AI",
+          "summary": "Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a person.",
+          "published_at": "2026-05-28 15:35",
+          "tags": [
+            "AI",
+            "Apps",
+            "AI agents",
+            "ai apps",
+            "conversational AI",
+            "sesame"
+          ]
+        },
+        {
+          "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
+          "url": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
+          "source": "TechCrunch AI",
+          "summary": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience powered and standalone Siri app.",
+          "published_at": "2026-05-28 14:45",
+          "tags": [
+            "AI",
+            "Apps",
+            "Apple",
+            "iOS 27",
+            "iPhone",
+            "siri"
+          ]
+        },
+        {
+          "title": "RSI is the new AGI — and it’s just as hard to pin down",
+          "url": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
+          "source": "TechCrunch AI",
+          "summary": "A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive.",
+          "published_at": "2026-05-28 14:30",
+          "tags": [
+            "AI",
+            "Adaption",
+            "AGI",
+            "Alex Karpathy",
+            "artificial intelligence",
+            "neolab",
+            "RSI"
+          ]
+        },
+        {
+          "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
+          "url": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
+          "source": "TechCrunch AI",
+          "summary": "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly.",
+          "published_at": "2026-05-28 14:30",
+          "tags": [
+            "Enterprise",
+            "Startups",
+            "AI",
+            "Databricks",
+            "TechCrunch Disrupt 2026"
+          ]
+        },
+        {
+          "title": "YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’",
+          "url": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/",
+          "source": "TechCrunch AI",
+          "summary": "The update signals YouTube's ongoing efforts to compete with other platforms for podcast audiences.",
+          "published_at": "2026-05-28 14:28",
+          "tags": [
+            "AI",
+            "Apps",
+            "podcasts",
+            "YouTube"
+          ]
+        },
+        {
+          "title": "These new iOS 27 renders hint at Siri’s big redesign",
+          "url": "https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg",
+          "source": "The Verge AI",
+          "summary": "Apple's long-awaited Siri overhaul, expected to arrive in iOS 27, might look a lot like ChatGPT with a splash of Liquid Glass. Renders from Bloomberg offer a preview of iOS 27, including the new app and chat interface for Siri. The renders are \"based on information viewed by Bloomberg and people with knowledge of [Apple's] [&#8230;]",
+          "published_at": "2026-05-28 10:33",
+          "tags": [
+            "AI",
+            "Apple",
+            "Apple Rumors",
+            "iOS",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "CNN sues Perplexity over ‘verbatim’ copycat articles",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit",
+          "source": "The Verge AI",
+          "summary": "CNN has filed a lawsuit against Perplexity, claiming that the startup's AI tools generate \"verbatim\" copies of its work, as reported earlier by CNN. The lawsuit, filed in a New York court on Thursday, also alleges that Perplexity provides users with information locked behind CNN's subscription. Perplexity, which offers an AI \"answer\" engine along with [&#8230;]",
+          "published_at": "2026-05-28 10:08",
+          "tags": [
+            "AI",
+            "Copyright",
+            "Law",
+            "News",
+            "Policy"
+          ]
+        },
+        {
+          "title": "Rivian’s software chief thinks you don&#8217;t need CarPlay or buttons",
+          "url": "https://www.theverge.com/podcast/929940/rivian-wassym-bensaid-software-volkswagen-carplay-assistant-ai",
+          "source": "The Verge AI",
+          "summary": "Today, I’m talking with Wassym Bensaid, the chief software officer at Rivian, and the co-CEO of Rivian’s platform joint venture with Volkswagen, which everyone just calls RV Tech. That joint venture kicked off about a year and a half ago with a nearly $6 billion investment from Volkswagen. It effectively puts Wassym in charge of [&#8230;]",
+          "published_at": "2026-05-28 10:00",
+          "tags": [
+            "AI",
+            "Cars",
+            "Decoder",
+            "Electric Cars",
+            "Podcasts",
+            "Tech",
+            "Transportation"
+          ]
+        },
+        {
+          "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
+          "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+          "source": "TechCrunch AI",
+          "summary": "Built on top of the open source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
+          "published_at": "2026-05-28 07:00",
+          "tags": [
+            "AI",
+            "Gadgets",
+            "Hardware",
+            "foldable smartphone",
+            "Hermes Agent",
+            "Vertu",
+            "Vertu Alphafold"
+          ]
+        },
+        {
+          "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+          "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+          "source": "TechCrunch AI",
+          "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
+          "published_at": "2026-05-27 20:10",
+          "tags": [
+            "Enterprise",
+            "TC",
+            "AI",
+            "Amazon",
+            "AWS",
+            "Snowflake",
+            "AI chips"
+          ]
+        },
+        {
+          "title": "Your SEO strategy is optimized for a search engine that no longer exists.",
+          "url": "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/",
+          "source": "TechCrunch AI",
+          "summary": "Google I/O made it official: AI-generated answers are now front and&#160;center&#160;in search, and most brands have almost no visibility into how AI is describing them to their customers.&#160;For anyone who has spent years building a strategy around 10 blue links, the rules just changed in a pretty significant way.&#160; On this episode of TechCrunch&#8217;s Equity podcast, Rebecca [&#8230;]",
+          "published_at": "2026-05-27 18:39",
+          "tags": [
+            "AI",
+            "Startups",
+            "AI agents",
+            "AI search",
+            "discoverability",
+            "Equity podcast",
+            "Geo",
+            "google io",
+            "Google Search",
+            "scrunch",
+            "SEO"
+          ]
+        },
+        {
+          "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+          "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+          "source": "TechCrunch AI",
+          "summary": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
+          "published_at": "2026-05-27 16:00",
+          "tags": [
+            "AI",
+            "Startups",
+            "ai coding",
+            "cognition",
+            "Devin"
+          ]
+        },
+        {
+          "title": "TechCrunch Disrupt 2026 Early Bird ticket savings end in 3 days",
+          "url": "https://techcrunch.com/2026/05/27/techcrunch-disrupt-2026-early-bird-ticket-savings-end-in-3-days/",
+          "source": "TechCrunch AI",
+          "summary": "There are only 3 days left to save up to $410 on your ticket to TechCrunch Disrupt 2026. Early Bird pricing ends May 29 at 11:59 p.m. PT, and once the deadline passes, ticket prices increase. If you plan to attend one of the most influential gatherings in tech this year, now is the time to lock in your pass before rates go up again.",
+          "published_at": "2026-05-27 14:00",
+          "tags": [
+            "AI",
+            "Apps",
+            "Biotech & Health",
+            "Climate",
+            "Crypto",
+            "Fintech",
+            "Fundraising",
+            "Government & Policy",
+            "Hardware",
+            "Media & Entertainment",
+            "Robotics",
+            "Security",
+            "Startups",
+            "Transportation",
+            "Venture",
+            "TechCrunch Disrupt 2026"
+          ]
+        },
+        {
+          "title": "This smart bird feeder captures more of my backyard drama",
+          "url": "https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review",
+          "source": "The Verge AI",
+          "summary": "Since moving to South Carolina's Lowcountry, I've been spellbound by the myriad of beautiful birds that share the coast with us - ospreys raising their babies in towering nests beside the road to my daughter's school, roseate spoonbills wading in the marsh on my morning walks, eagles circling over my son's tennis matches, and a [&#8230;]",
+          "published_at": "2026-05-27 10:00",
+          "tags": [
+            "AI",
+            "Cameras",
+            "Gadgets",
+            "Reviews",
+            "Smart Home Reviews",
+            "Tech"
+          ]
+        },
+        {
+          "title": "The AI fight brewing inside The New York Times",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/937689/new-york-times-tech-guild-ai-monitoring-performance-union-contract",
+          "source": "The Verge AI",
+          "summary": "How newsrooms should use AI - or if they should at all - has been a recurrent debate within the media industry over the last several years. Increasingly, these rules are being hammered out at the bargaining table between unions and publishers. Right now, employees at The New York Times are gearing up for a [&#8230;]",
+          "published_at": "2026-05-27 08:00",
+          "tags": [
+            "AI",
+            "Business",
+            "Creators",
+            "Labor",
+            "Tech"
+          ]
+        },
+        {
+          "title": "The Pope isn’t AGI-pilled",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions",
+          "source": "The Verge AI",
+          "summary": "On Monday, Pope Leo XIV unveiled an encyclical letter addressing the societal implications of artificial intelligence. The letter, titled Magnifica Humanitas, warned that the \"use of AI is never a purely technical matter: when it enters processes that affect people's lives, it touches on rights, opportunities, status and freedom.\" Alongside him was Anthropic cofounder and [&#8230;]",
+          "published_at": "2026-05-27 08:00",
+          "tags": [
+            "AI",
+            "Report"
+          ]
+        }
+      ]
     }
   ]
 }
