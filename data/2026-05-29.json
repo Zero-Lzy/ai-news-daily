@@ -303,6 +303,318 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-05-29 23:35:57",
+      "count": 27,
+      "articles": [
+        {
+          "title": "HTTP Streaming and AI",
+          "url": "https://ably.com/docs/ai-transport/why/http-streaming-and-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://ably.com/docs/ai-transport/why/http-streaming-and-ai Comments URL: https://news.ycombinator.com/item?id=48324538 Points: 1 # Comments: 0",
+          "published_at": "2026-05-29 15:34",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Agent Memory Guard – OWASP defense for AI agent memory poisoning",
+          "url": "https://github.com/OWASP/www-project-agent-memory-guard",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/OWASP/www-project-agent-memory-guard Comments URL: https://news.ycombinator.com/item?id=48324512 Points: 1 # Comments: 0",
+          "published_at": "2026-05-29 15:33",
+          "tags": []
+        },
+        {
+          "title": "When AI starts writing systems code",
+          "url": "https://www.coreauto.com/blog/when-ai-starts-writing-systems-code",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.coreauto.com/blog/when-ai-starts-writing-systems-code Comments URL: https://news.ycombinator.com/item?id=48324381 Points: 1 # Comments: 0",
+          "published_at": "2026-05-29 15:26",
+          "tags": []
+        },
+        {
+          "title": "Brilliant launches AI tutor to get kids to think",
+          "url": "https://twitter.com/suekhim/status/2060378988606878147",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://twitter.com/suekhim/status/2060378988606878147 Comments URL: https://news.ycombinator.com/item?id=48324357 Points: 2 # Comments: 0",
+          "published_at": "2026-05-29 15:25",
+          "tags": []
+        },
+        {
+          "title": "Does AI Make Totalitarianism More Likely?",
+          "url": "https://demonstrandom.com/essays/posts/ai_totalitarianism/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://demonstrandom.com/essays/posts/ai_totalitarianism/ Comments URL: https://news.ycombinator.com/item?id=48324319 Points: 2 # Comments: 3",
+          "published_at": "2026-05-29 15:23",
+          "tags": []
+        },
+        {
+          "title": "The literary world is sleepwalking into an AI disaster",
+          "url": "https://www.theargumentmag.com/p/the-literary-world-is-sleepwalking",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theargumentmag.com/p/the-literary-world-is-sleepwalking Comments URL: https://news.ycombinator.com/item?id=48324276 Points: 3 # Comments: 0",
+          "published_at": "2026-05-29 15:20",
+          "tags": []
+        },
+        {
+          "title": "The Biggest Tell That Something Was Written by AI",
+          "url": "https://www.theatlantic.com/technology/2026/05/how-to-tell-ai-writing/687345/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theatlantic.com/technology/2026/05/how-to-tell-ai-writing/687345/ Comments URL: https://news.ycombinator.com/item?id=48324146 Points: 2 # Comments: 0",
+          "published_at": "2026-05-29 15:13",
+          "tags": []
+        },
+        {
+          "title": "Resistance Against AI Is Not Futile. A List Is a Good Start",
+          "url": "https://read.misalignedmag.com/resistance-against-ai-is-not-futile-a-list-is-a-good-start-3b8a4d39139e",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://read.misalignedmag.com/resistance-against-ai-is-not-futile-a-list-is-a-good-start-3b8a4d39139e Comments URL: https://news.ycombinator.com/item?id=48324109 Points: 1 # Comments: 0",
+          "published_at": "2026-05-29 15:11",
+          "tags": []
+        },
+        {
+          "title": "AI Content Fatigue",
+          "url": "https://dheer.co/ai-content-fatigue/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://dheer.co/ai-content-fatigue/ Comments URL: https://news.ycombinator.com/item?id=48324090 Points: 2 # Comments: 0",
+          "published_at": "2026-05-29 15:10",
+          "tags": []
+        },
+        {
+          "title": "ON1 (G116 V8): 38μs Black-Box AI Memory Retrieval on Virtual Chip ISA",
+          "url": "https://github.com/ON1-Hao/ON1",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/ON1-Hao/ON1 Comments URL: https://news.ycombinator.com/item?id=48323932 Points: 2 # Comments: 0",
+          "published_at": "2026-05-29 15:00",
+          "tags": []
+        },
+        {
+          "title": "South Africa AI Policy Leverage as Africa's Test Case",
+          "url": "https://spectrum.ieee.org/south-africa-ai-policy",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://spectrum.ieee.org/south-africa-ai-policy Comments URL: https://news.ycombinator.com/item?id=48323649 Points: 2 # Comments: 0",
+          "published_at": "2026-05-29 14:38",
+          "tags": []
+        },
+        {
+          "title": "Selling a House with AI",
+          "url": "https://www.nytimes.com/2026/05/28/technology/sell-house-with-ai-no-realtor.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.nytimes.com/2026/05/28/technology/sell-house-with-ai-no-realtor.html Comments URL: https://news.ycombinator.com/item?id=48323618 Points: 4 # Comments: 0",
+          "published_at": "2026-05-29 14:36",
+          "tags": []
+        },
+        {
+          "title": "Show HN: OpenHive – AI agents share solutions so other agents dont re-solve them",
+          "url": "https://openhivemind.vercel.app/",
+          "source": "Hacker News AI",
+          "summary": "I kept noticing the same pattern: my AI coding agents solve the same problems over and over across sessions. Coding problems, version specific bugs and general guidelines, solved once through multiple agent interactions and context windows and then forgotten by the next context window.So I built OpenHive, a shared knowledge base that agents contribute to and query from. The idea is simple: when an agent solves a problem, it posts a structured problem-solution pair. When another agent hits a simi",
+          "published_at": "2026-05-29 14:35",
+          "tags": []
+        },
+        {
+          "title": "A graph-theoretic approach to building reliable LLM judges for retrieval",
+          "url": "https://georgianailab.substack.com/p/evaluating-retrieval-without-ground",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://georgianailab.substack.com/p/evaluating-retrieval-without-ground Comments URL: https://news.ycombinator.com/item?id=48323562 Points: 3 # Comments: 0",
+          "published_at": "2026-05-29 14:31",
+          "tags": []
+        },
+        {
+          "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
+          "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+          "source": "TechCrunch AI",
+          "summary": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.",
+          "published_at": "2026-05-29 12:00",
+          "tags": [
+            "AI",
+            "Startups",
+            "dram",
+            "memory chip shortage",
+            "memory chips",
+            "Samsung Electronics",
+            "SK Hynix",
+            "south korea",
+            "XCENA"
+          ]
+        },
+        {
+          "title": "Glean’s top line crosses $300M as AI budget cutting becomes its major selling point",
+          "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+          "source": "TechCrunch AI",
+          "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
+          "published_at": "2026-05-29 00:44",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "Startups",
+            "AI search",
+            "Glean",
+            "revenue"
+          ]
+        },
+        {
+          "title": "The internet is being rebuilt for machines",
+          "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+          "source": "TechCrunch AI",
+          "summary": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
+          "published_at": "2026-05-28 21:24",
+          "tags": [
+            "AI",
+            "agentic search",
+            "AI agents",
+            "AWS",
+            "aws opensearch serverless"
+          ]
+        },
+        {
+          "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
+          "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
+          "published_at": "2026-05-28 18:52",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Anthropic",
+            "Claude",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
+          "url": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
+          "source": "TechCrunch AI",
+          "summary": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth.",
+          "published_at": "2026-05-28 18:32",
+          "tags": [
+            "AI",
+            "AI futures",
+            "ai tokens",
+            "CME Group",
+            "commodities",
+            "Intercontinental Exchange"
+          ]
+        },
+        {
+          "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
+          "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+          "source": "TechCrunch AI",
+          "summary": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents.",
+          "published_at": "2026-05-28 17:00",
+          "tags": [
+            "AI",
+            "TC",
+            "agent swarms",
+            "Anthropic",
+            "Claude",
+            "Opus"
+          ]
+        },
+        {
+          "title": "RSI is the new AGI — and it’s just as hard to pin down",
+          "url": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
+          "source": "TechCrunch AI",
+          "summary": "A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive.",
+          "published_at": "2026-05-28 14:30",
+          "tags": [
+            "AI",
+            "Adaption",
+            "AGI",
+            "Andrej Karpathy",
+            "artificial intelligence",
+            "neolab",
+            "RSI"
+          ]
+        },
+        {
+          "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
+          "url": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
+          "source": "TechCrunch AI",
+          "summary": "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly.",
+          "published_at": "2026-05-28 14:30",
+          "tags": [
+            "Enterprise",
+            "Startups",
+            "AI",
+            "Databricks",
+            "TechCrunch Disrupt 2026"
+          ]
+        },
+        {
+          "title": "YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’",
+          "url": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/",
+          "source": "TechCrunch AI",
+          "summary": "The update signals YouTube's ongoing efforts to compete with other platforms for podcast audiences.",
+          "published_at": "2026-05-28 14:28",
+          "tags": [
+            "AI",
+            "Apps",
+            "podcasts",
+            "YouTube"
+          ]
+        },
+        {
+          "title": "A $2,000 AI-generated film will make its debut at Tribeca",
+          "url": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca",
+          "source": "The Verge AI",
+          "summary": "Next month's Tribeca Festival will include the premiere of an AI-generated film: Dreams of Violets. The 75-minute film is a fictional dramatization of the Iranian government's mass killing of protestors in January, with the people and images fully created by AI, as reported earlier by The Hollywood Reporter. Dreams of Violets cost $2,000 to make [&#8230;]",
+          "published_at": "2026-05-28 12:08",
+          "tags": [
+            "AI",
+            "Entertainment",
+            "Film"
+          ]
+        },
+        {
+          "title": "These new iOS 27 renders hint at Siri’s big redesign",
+          "url": "https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg",
+          "source": "The Verge AI",
+          "summary": "Apple's long-awaited Siri overhaul, expected to arrive in iOS 27, might look a lot like ChatGPT with a splash of Liquid Glass. Renders from Bloomberg offer a preview of iOS 27, including the new app and chat interface for Siri. The renders are \"based on information viewed by Bloomberg and people with knowledge of [Apple's] [&#8230;]",
+          "published_at": "2026-05-28 10:33",
+          "tags": [
+            "AI",
+            "Apple",
+            "Apple Rumors",
+            "iOS",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Rivian’s software chief thinks you don&#8217;t need CarPlay or buttons",
+          "url": "https://www.theverge.com/podcast/929940/rivian-wassym-bensaid-software-volkswagen-carplay-assistant-ai",
+          "source": "The Verge AI",
+          "summary": "Today, I’m talking with Wassym Bensaid, the chief software officer at Rivian, and the co-CEO of Rivian’s platform joint venture with Volkswagen, which everyone just calls RV Tech. That joint venture kicked off about a year and a half ago with a nearly $6 billion investment from Volkswagen. It effectively puts Wassym in charge of [&#8230;]",
+          "published_at": "2026-05-28 10:00",
+          "tags": [
+            "AI",
+            "Cars",
+            "Decoder",
+            "Electric Cars",
+            "Podcasts",
+            "Tech",
+            "Transportation"
+          ]
+        },
+        {
+          "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
+          "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+          "source": "TechCrunch AI",
+          "summary": "Built on top of the open source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
+          "published_at": "2026-05-28 07:00",
+          "tags": [
+            "AI",
+            "Gadgets",
+            "Hardware",
+            "foldable smartphone",
+            "Hermes Agent",
+            "Vertu",
+            "Vertu Alphafold"
+          ]
+        }
+      ]
     }
   ]
 }

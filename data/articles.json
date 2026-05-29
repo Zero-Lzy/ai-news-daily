@@ -1,5 +1,165 @@
 [
   {
+    "title": "HTTP Streaming and AI",
+    "url": "https://ably.com/docs/ai-transport/why/http-streaming-and-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://ably.com/docs/ai-transport/why/http-streaming-and-ai Comments URL: https://news.ycombinator.com/item?id=48324538 Points: 1 # Comments: 0",
+    "published_at": "2026-05-29 15:34",
+    "tags": [],
+    "fetch_date": "2026-05-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Agent Memory Guard – OWASP defense for AI agent memory poisoning",
+    "url": "https://github.com/OWASP/www-project-agent-memory-guard",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/OWASP/www-project-agent-memory-guard Comments URL: https://news.ycombinator.com/item?id=48324512 Points: 1 # Comments: 0",
+    "published_at": "2026-05-29 15:33",
+    "tags": [],
+    "fetch_date": "2026-05-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "When AI starts writing systems code",
+    "url": "https://www.coreauto.com/blog/when-ai-starts-writing-systems-code",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.coreauto.com/blog/when-ai-starts-writing-systems-code Comments URL: https://news.ycombinator.com/item?id=48324381 Points: 1 # Comments: 0",
+    "published_at": "2026-05-29 15:26",
+    "tags": [],
+    "fetch_date": "2026-05-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Brilliant launches AI tutor to get kids to think",
+    "url": "https://twitter.com/suekhim/status/2060378988606878147",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/suekhim/status/2060378988606878147 Comments URL: https://news.ycombinator.com/item?id=48324357 Points: 2 # Comments: 0",
+    "published_at": "2026-05-29 15:25",
+    "tags": [],
+    "fetch_date": "2026-05-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Does AI Make Totalitarianism More Likely?",
+    "url": "https://demonstrandom.com/essays/posts/ai_totalitarianism/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://demonstrandom.com/essays/posts/ai_totalitarianism/ Comments URL: https://news.ycombinator.com/item?id=48324319 Points: 2 # Comments: 3",
+    "published_at": "2026-05-29 15:23",
+    "tags": [],
+    "fetch_date": "2026-05-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The literary world is sleepwalking into an AI disaster",
+    "url": "https://www.theargumentmag.com/p/the-literary-world-is-sleepwalking",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theargumentmag.com/p/the-literary-world-is-sleepwalking Comments URL: https://news.ycombinator.com/item?id=48324276 Points: 3 # Comments: 0",
+    "published_at": "2026-05-29 15:20",
+    "tags": [],
+    "fetch_date": "2026-05-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The Biggest Tell That Something Was Written by AI",
+    "url": "https://www.theatlantic.com/technology/2026/05/how-to-tell-ai-writing/687345/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theatlantic.com/technology/2026/05/how-to-tell-ai-writing/687345/ Comments URL: https://news.ycombinator.com/item?id=48324146 Points: 2 # Comments: 0",
+    "published_at": "2026-05-29 15:13",
+    "tags": [],
+    "fetch_date": "2026-05-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Resistance Against AI Is Not Futile. A List Is a Good Start",
+    "url": "https://read.misalignedmag.com/resistance-against-ai-is-not-futile-a-list-is-a-good-start-3b8a4d39139e",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://read.misalignedmag.com/resistance-against-ai-is-not-futile-a-list-is-a-good-start-3b8a4d39139e Comments URL: https://news.ycombinator.com/item?id=48324109 Points: 1 # Comments: 0",
+    "published_at": "2026-05-29 15:11",
+    "tags": [],
+    "fetch_date": "2026-05-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Content Fatigue",
+    "url": "https://dheer.co/ai-content-fatigue/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://dheer.co/ai-content-fatigue/ Comments URL: https://news.ycombinator.com/item?id=48324090 Points: 2 # Comments: 0",
+    "published_at": "2026-05-29 15:10",
+    "tags": [],
+    "fetch_date": "2026-05-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "ON1 (G116 V8): 38μs Black-Box AI Memory Retrieval on Virtual Chip ISA",
+    "url": "https://github.com/ON1-Hao/ON1",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/ON1-Hao/ON1 Comments URL: https://news.ycombinator.com/item?id=48323932 Points: 2 # Comments: 0",
+    "published_at": "2026-05-29 15:00",
+    "tags": [],
+    "fetch_date": "2026-05-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "South Africa AI Policy Leverage as Africa's Test Case",
+    "url": "https://spectrum.ieee.org/south-africa-ai-policy",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://spectrum.ieee.org/south-africa-ai-policy Comments URL: https://news.ycombinator.com/item?id=48323649 Points: 2 # Comments: 0",
+    "published_at": "2026-05-29 14:38",
+    "tags": [],
+    "fetch_date": "2026-05-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Selling a House with AI",
+    "url": "https://www.nytimes.com/2026/05/28/technology/sell-house-with-ai-no-realtor.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.nytimes.com/2026/05/28/technology/sell-house-with-ai-no-realtor.html Comments URL: https://news.ycombinator.com/item?id=48323618 Points: 4 # Comments: 0",
+    "published_at": "2026-05-29 14:36",
+    "tags": [],
+    "fetch_date": "2026-05-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: OpenHive – AI agents share solutions so other agents dont re-solve them",
+    "url": "https://openhivemind.vercel.app/",
+    "source": "Hacker News AI",
+    "summary": "I kept noticing the same pattern: my AI coding agents solve the same problems over and over across sessions. Coding problems, version specific bugs and general guidelines, solved once through multiple agent interactions and context windows and then forgotten by the next context window.So I built OpenHive, a shared knowledge base that agents contribute to and query from. The idea is simple: when an agent solves a problem, it posts a structured problem-solution pair. When another agent hits a simi",
+    "published_at": "2026-05-29 14:35",
+    "tags": [],
+    "fetch_date": "2026-05-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "A graph-theoretic approach to building reliable LLM judges for retrieval",
+    "url": "https://georgianailab.substack.com/p/evaluating-retrieval-without-ground",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://georgianailab.substack.com/p/evaluating-retrieval-without-ground Comments URL: https://news.ycombinator.com/item?id=48323562 Points: 3 # Comments: 0",
+    "published_at": "2026-05-29 14:31",
+    "tags": [],
+    "fetch_date": "2026-05-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
+    "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+    "source": "TechCrunch AI",
+    "summary": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.",
+    "published_at": "2026-05-29 12:00",
+    "tags": [
+      "AI",
+      "Startups",
+      "dram",
+      "memory chip shortage",
+      "memory chips",
+      "Samsung Electronics",
+      "SK Hynix",
+      "south korea",
+      "XCENA"
+    ],
+    "fetch_date": "2026-05-29",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "We Saw What AI Data Centers Don't Want You to See [video]",
     "url": "https://www.youtube.com/watch?v=5p426fSlYH4",
     "source": "Hacker News AI",
@@ -204,6 +364,23 @@
     ],
     "fetch_date": "2026-05-29",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
+    "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+    "source": "TechCrunch AI",
+    "summary": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents.",
+    "published_at": "2026-05-28 17:00",
+    "tags": [
+      "AI",
+      "TC",
+      "agent swarms",
+      "Anthropic",
+      "Claude",
+      "Opus"
+    ],
+    "fetch_date": "2026-05-29",
+    "fetch_label": "晚报"
   },
   {
     "title": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
