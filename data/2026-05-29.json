@@ -1,0 +1,308 @@
+{
+  "date": "2026-05-29",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-05-29 11:58:29",
+      "count": 27,
+      "articles": [
+        {
+          "title": "We Saw What AI Data Centers Don't Want You to See [video]",
+          "url": "https://www.youtube.com/watch?v=5p426fSlYH4",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=5p426fSlYH4 Comments URL: https://news.ycombinator.com/item?id=48318833 Points: 1 # Comments: 0",
+          "published_at": "2026-05-29 03:55",
+          "tags": []
+        },
+        {
+          "title": "Ruby inventor Matz working on native compiler with AI help",
+          "url": "https://www.theregister.com/devops/2026/05/06/ruby-inventor-matz-working-on-native-compiler-with-ai-help/5230532",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theregister.com/devops/2026/05/06/ruby-inventor-matz-working-on-native-compiler-with-ai-help/5230532 Comments URL: https://news.ycombinator.com/item?id=48318760 Points: 2 # Comments: 1",
+          "published_at": "2026-05-29 03:44",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: How are you handling upfront AI token costs when building products?",
+          "url": "https://news.ycombinator.com/item?id=48318622",
+          "source": "Hacker News AI",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=48318622 Points: 1 # Comments: 2",
+          "published_at": "2026-05-29 03:21",
+          "tags": []
+        },
+        {
+          "title": "How to optimize your AI token usage",
+          "url": "https://github.com/KrishivPiduri/repo-brain/releases/tag/v1.0.0",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/KrishivPiduri/repo-brain/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=48318255 Points: 1 # Comments: 0",
+          "published_at": "2026-05-29 02:24",
+          "tags": []
+        },
+        {
+          "title": "StudySong – paste anything you need to memorize, get a full AI-generated song",
+          "url": "https://www.studysong.org/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.studysong.org/ Comments URL: https://news.ycombinator.com/item?id=48318008 Points: 1 # Comments: 0",
+          "published_at": "2026-05-29 01:53",
+          "tags": []
+        },
+        {
+          "title": "Starbucks retired AI agent that miscounted inventories, slowed down baristas",
+          "url": "https://fortune.com/2026/05/28/starbucks-quietly-retired-ai-inventory-agent-barista-complaints-hallucinations/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://fortune.com/2026/05/28/starbucks-quietly-retired-ai-inventory-agent-barista-complaints-hallucinations/ Comments URL: https://news.ycombinator.com/item?id=48317932 Points: 4 # Comments: 0",
+          "published_at": "2026-05-29 01:41",
+          "tags": []
+        },
+        {
+          "title": "Bixonimania – the fake illness that AI fell for",
+          "url": "https://www.scientificamerican.com/podcast/episode/bixonimania-the-fake-illness-that-ai-fell-for/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.scientificamerican.com/podcast/episode/bixonimania-the-fake-illness-that-ai-fell-for/ Comments URL: https://news.ycombinator.com/item?id=48317852 Points: 4 # Comments: 0",
+          "published_at": "2026-05-29 01:26",
+          "tags": []
+        },
+        {
+          "title": "Dis Dat – Loom for AI coding agents",
+          "url": "https://disdat.dev",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://disdat.dev Comments URL: https://news.ycombinator.com/item?id=48317796 Points: 2 # Comments: 0",
+          "published_at": "2026-05-29 01:18",
+          "tags": []
+        },
+        {
+          "title": "Are AI PowerPoint Tools Worth Using?",
+          "url": "https://smallppt.com/blog/ai-tools/genspark-alternatives",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://smallppt.com/blog/ai-tools/genspark-alternatives Comments URL: https://news.ycombinator.com/item?id=48317791 Points: 1 # Comments: 0",
+          "published_at": "2026-05-29 01:18",
+          "tags": []
+        },
+        {
+          "title": "Microsoft data suggests using AI is more expensive than hiring people",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-data-suggests-using-ai-225900743.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://finance.yahoo.com/sectors/technology/articles/microsoft-data-suggests-using-ai-225900743.html Comments URL: https://news.ycombinator.com/item?id=48317563 Points: 32 # Comments: 3",
+          "published_at": "2026-05-29 00:49",
+          "tags": []
+        },
+        {
+          "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+          "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+          "source": "TechCrunch AI",
+          "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
+          "published_at": "2026-05-29 00:44",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "Startups",
+            "AI search",
+            "Glean",
+            "revenue"
+          ]
+        },
+        {
+          "title": "Kirkland Investing $500M in Proprietary AI System",
+          "url": "https://www.law.com/americanlawyer/2026/05/28/kirkland-investing-500m-in-proprietary-ai-system-to-support-client-work-start-to-finish/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.law.com/americanlawyer/2026/05/28/kirkland-investing-500m-in-proprietary-ai-system-to-support-client-work-start-to-finish/ Comments URL: https://news.ycombinator.com/item?id=48317509 Points: 2 # Comments: 0",
+          "published_at": "2026-05-29 00:42",
+          "tags": []
+        },
+        {
+          "title": "Evaluating \"Co-Scientist\", a New AI Science System",
+          "url": "https://www.science.org/content/blog-post/evaluating-co-scientist-new-ai-science-system",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.science.org/content/blog-post/evaluating-co-scientist-new-ai-science-system Comments URL: https://news.ycombinator.com/item?id=48317507 Points: 1 # Comments: 0",
+          "published_at": "2026-05-29 00:42",
+          "tags": []
+        },
+        {
+          "title": "AI and the End of Recessions as We Know Them",
+          "url": "https://www.forbes.com/sites/brandonkochkodin/2026/05/28/ai-and-the-end-of-recessions-as-we-know-them/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.forbes.com/sites/brandonkochkodin/2026/05/28/ai-and-the-end-of-recessions-as-we-know-them/ Comments URL: https://news.ycombinator.com/item?id=48317347 Points: 2 # Comments: 0",
+          "published_at": "2026-05-29 00:17",
+          "tags": []
+        },
+        {
+          "title": "NBA to use AI for automatic out-of-bounds calls, Silver says",
+          "url": "https://www.reuters.com/sports/league-use-ai-objective-calls-silver-says-2026-05-28/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.reuters.com/sports/league-use-ai-objective-calls-silver-says-2026-05-28/ Comments URL: https://news.ycombinator.com/item?id=48317332 Points: 3 # Comments: 0",
+          "published_at": "2026-05-29 00:15",
+          "tags": []
+        },
+        {
+          "title": "The internet is being rebuilt for machines",
+          "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+          "source": "TechCrunch AI",
+          "summary": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
+          "published_at": "2026-05-28 21:24",
+          "tags": [
+            "AI",
+            "agentic search",
+            "AI agents",
+            "AWS",
+            "aws opensearch serverless"
+          ]
+        },
+        {
+          "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
+          "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
+          "published_at": "2026-05-28 18:52",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Anthropic",
+            "Claude",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
+          "url": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
+          "source": "TechCrunch AI",
+          "summary": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth.",
+          "published_at": "2026-05-28 18:32",
+          "tags": [
+            "AI",
+            "AI futures",
+            "ai tokens",
+            "CME Group",
+            "commodities",
+            "Intercontinental Exchange"
+          ]
+        },
+        {
+          "title": "How long is Anthropic’s lease with SpaceX? Opinions vary",
+          "url": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
+          "source": "TechCrunch AI",
+          "summary": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.",
+          "published_at": "2026-05-28 15:36",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "compute",
+            "Elon Musk",
+            "SpaceX",
+            "xAI"
+          ]
+        },
+        {
+          "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
+          "url": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
+          "source": "TechCrunch AI",
+          "summary": "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly.",
+          "published_at": "2026-05-28 14:30",
+          "tags": [
+            "Enterprise",
+            "Startups",
+            "AI",
+            "Databricks",
+            "TechCrunch Disrupt 2026"
+          ]
+        },
+        {
+          "title": "Visa invests in Replit to power agentic payments for developers",
+          "url": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
+          "source": "TechCrunch AI",
+          "summary": "Visa said that over 1,000 employees have been using Replit for prototyping and development.",
+          "published_at": "2026-05-28 14:00",
+          "tags": [
+            "AI",
+            "TC",
+            "agentic payments",
+            "Replit",
+            "visa"
+          ]
+        },
+        {
+          "title": "Claude’s new model is more ‘honest’ when it messes up",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
+          "source": "The Verge AI",
+          "summary": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI models is that they sometimes jump to conclusions, [&#8230;]",
+          "published_at": "2026-05-28 13:00",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "News"
+          ]
+        },
+        {
+          "title": "A $2,000 AI-generated film will make its debut at Tribeca",
+          "url": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca",
+          "source": "The Verge AI",
+          "summary": "Next month's Tribeca Festival will include the premiere of an AI-generated film: Dreams of Violets. The 75-minute film is a fictional dramatization of the Iranian government's mass killing of protestors in January, with the people and images fully created by AI, as reported earlier by The Hollywood Reporter. Dreams of Violets cost $2,000 to make [&#8230;]",
+          "published_at": "2026-05-28 12:08",
+          "tags": [
+            "AI",
+            "Entertainment",
+            "Film"
+          ]
+        },
+        {
+          "title": "CNN sues Perplexity over ‘verbatim’ copycat articles",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit",
+          "source": "The Verge AI",
+          "summary": "CNN has filed a lawsuit against Perplexity, claiming that the startup's AI tools generate \"verbatim\" copies of its work, as reported earlier by CNN. The lawsuit, filed in a New York court on Thursday, also alleges that Perplexity provides users with information locked behind CNN's subscription. Perplexity, which offers an AI \"answer\" engine along with [&#8230;]",
+          "published_at": "2026-05-28 10:08",
+          "tags": [
+            "AI",
+            "Copyright",
+            "Law",
+            "News",
+            "Policy"
+          ]
+        },
+        {
+          "title": "Rivian’s software chief thinks you don&#8217;t need CarPlay or buttons",
+          "url": "https://www.theverge.com/podcast/929940/rivian-wassym-bensaid-software-volkswagen-carplay-assistant-ai",
+          "source": "The Verge AI",
+          "summary": "Today, I’m talking with Wassym Bensaid, the chief software officer at Rivian, and the co-CEO of Rivian’s platform joint venture with Volkswagen, which everyone just calls RV Tech. That joint venture kicked off about a year and a half ago with a nearly $6 billion investment from Volkswagen. It effectively puts Wassym in charge of [&#8230;]",
+          "published_at": "2026-05-28 10:00",
+          "tags": [
+            "AI",
+            "Cars",
+            "Decoder",
+            "Electric Cars",
+            "Podcasts",
+            "Tech",
+            "Transportation"
+          ]
+        },
+        {
+          "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
+          "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+          "source": "TechCrunch AI",
+          "summary": "Built on top of the open source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
+          "published_at": "2026-05-28 07:00",
+          "tags": [
+            "AI",
+            "Gadgets",
+            "Hardware",
+            "foldable smartphone",
+            "Hermes Agent",
+            "Vertu",
+            "Vertu Alphafold"
+          ]
+        },
+        {
+          "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
+          "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+          "source": "TechCrunch AI",
+          "summary": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.",
+          "published_at": "2026-05-27 19:39",
+          "tags": [
+            "AI",
+            "Startups",
+            "AI adoption",
+            "Remote"
+          ]
+        }
+      ]
+    }
+  ]
+}
