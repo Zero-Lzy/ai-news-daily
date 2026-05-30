@@ -1,5 +1,153 @@
 [
   {
+    "title": "AI demand absorbs wafer capacity, crushing budget PC segment",
+    "url": "https://www.trendforce.com/presscenter/news/20260529-13068.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.trendforce.com/presscenter/news/20260529-13068.html Comments URL: https://news.ycombinator.com/item?id=48335958 Points: 2 # Comments: 0",
+    "published_at": "2026-05-30 13:29",
+    "tags": [],
+    "fetch_date": "2026-05-30",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI and Taste",
+    "url": "https://twitter.com/joulee/status/2054275672563175834",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/joulee/status/2054275672563175834 Comments URL: https://news.ycombinator.com/item?id=48335815 Points: 1 # Comments: 0",
+    "published_at": "2026-05-30 13:15",
+    "tags": [],
+    "fetch_date": "2026-05-30",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "QEMU mulls relaxing AI contribution ban",
+    "url": "https://www.theregister.com/ai-ml/2026/05/29/qemu-mulls-relaxing-ai-contribution-ban/5248638",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/29/qemu-mulls-relaxing-ai-contribution-ban/5248638 Comments URL: https://news.ycombinator.com/item?id=48335784 Points: 1 # Comments: 0",
+    "published_at": "2026-05-30 13:11",
+    "tags": [],
+    "fetch_date": "2026-05-30",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
+    "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+    "source": "TechCrunch AI",
+    "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+    "published_at": "2026-05-30 13:00",
+    "tags": [
+      "Startups",
+      "AI",
+      "Apps",
+      "Browser",
+      "search engines",
+      "web browser",
+      "evergreens"
+    ],
+    "fetch_date": "2026-05-30",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The AI Takeover Has Arrived",
+    "url": "https://thehonestsorcerer.substack.com/p/the-ai-takeover-has-arrived",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://thehonestsorcerer.substack.com/p/the-ai-takeover-has-arrived Comments URL: https://news.ycombinator.com/item?id=48335654 Points: 2 # Comments: 0",
+    "published_at": "2026-05-30 12:55",
+    "tags": [],
+    "fetch_date": "2026-05-30",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Tokentoll, a CI gate for LLM API cost regressions",
+    "url": "https://github.com/Jwrede/tokentoll",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/Jwrede/tokentoll Comments URL: https://news.ycombinator.com/item?id=48335559 Points: 2 # Comments: 0",
+    "published_at": "2026-05-30 12:41",
+    "tags": [],
+    "fetch_date": "2026-05-30",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "DocumentAI Visual Benchmark - GPT 5.5, Gemini 3.5, Qwen...",
+    "url": "https://www.maltebuettner.eu/posts/documentai-bbox-benchmark",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.maltebuettner.eu/posts/documentai-bbox-benchmark Comments URL: https://news.ycombinator.com/item?id=48335498 Points: 1 # Comments: 0",
+    "published_at": "2026-05-30 12:32",
+    "tags": [],
+    "fetch_date": "2026-05-30",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
+    "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a Comments URL: https://news.ycombinator.com/item?id=48335388 Points: 22 # Comments: 15",
+    "published_at": "2026-05-30 12:17",
+    "tags": [],
+    "fetch_date": "2026-05-30",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Is AI putting graduates out of work already?",
+    "url": "https://www.economist.com/finance-and-economics/2026/05/13/is-ai-putting-graduates-out-of-work-already",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/05/13/is-ai-putting-graduates-out-of-work-already Comments URL: https://news.ycombinator.com/item?id=48335312 Points: 2 # Comments: 0",
+    "published_at": "2026-05-30 12:06",
+    "tags": [],
+    "fetch_date": "2026-05-30",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Open-source spectre haunts the AI feast",
+    "url": "https://www.reuters.com/commentary/breakingviews/open-source-spectre-haunts-ai-feast-2026-05-28/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.reuters.com/commentary/breakingviews/open-source-spectre-haunts-ai-feast-2026-05-28/ Comments URL: https://news.ycombinator.com/item?id=48335290 Points: 2 # Comments: 0",
+    "published_at": "2026-05-30 12:03",
+    "tags": [],
+    "fetch_date": "2026-05-30",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Researchers, Ask Yourself These 6 Questions to Strengthen Your Moral Muscles",
+    "url": "https://www.lesswrong.com/posts/w4ynu8L57dJP29p5c/ai-researchers-ask-yourself-these-6-questions-to-strengthen",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.lesswrong.com/posts/w4ynu8L57dJP29p5c/ai-researchers-ask-yourself-these-6-questions-to-strengthen Comments URL: https://news.ycombinator.com/item?id=48335268 Points: 1 # Comments: 1",
+    "published_at": "2026-05-30 12:00",
+    "tags": [],
+    "fetch_date": "2026-05-30",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Billionaires Brace for Pitchforks",
+    "url": "https://www.axios.com/2026/05/29/ai-billionaires-tech-taxes-wealth",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.axios.com/2026/05/29/ai-billionaires-tech-taxes-wealth Comments URL: https://news.ycombinator.com/item?id=48334902 Points: 7 # Comments: 0",
+    "published_at": "2026-05-30 11:01",
+    "tags": [],
+    "fetch_date": "2026-05-30",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Multi-Lora-Continual-Learning",
+    "url": "https://trajectory.ai/field-notes/multi-lora-training-for-continual-learning",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://trajectory.ai/field-notes/multi-lora-training-for-continual-learning Comments URL: https://news.ycombinator.com/item?id=48334520 Points: 3 # Comments: 2",
+    "published_at": "2026-05-30 09:57",
+    "tags": [],
+    "fetch_date": "2026-05-30",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Slow Journal app, with AI integration",
+    "url": "https://nemejournal.app/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://nemejournal.app/ Comments URL: https://news.ycombinator.com/item?id=48334405 Points: 2 # Comments: 0",
+    "published_at": "2026-05-30 09:41",
+    "tags": [],
+    "fetch_date": "2026-05-30",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Imece – a decentralized AI compute cooperative",
     "url": "https://github.com/jstdv/imece",
     "source": "Hacker News AI",
@@ -348,6 +496,31 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "Does your CEO have AI psychosis? Aaron Levie thinks most of them do.",
+    "url": "https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do/",
+    "source": "TechCrunch AI",
+    "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of &#8220;AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, [&#8230;]",
+    "published_at": "2026-05-29 14:00",
+    "tags": [
+      "AI",
+      "Startups",
+      "Aaron Levie",
+      "AI agents",
+      "AI layoffs",
+      "ai psychosis",
+      "AWS",
+      "ClickUp",
+      "CPU",
+      "Equity podcast",
+      "openrouter",
+      "Snowflake",
+      "Stord",
+      "Waymo robotaxi"
+    ],
+    "fetch_date": "2026-05-30",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
     "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
     "source": "TechCrunch AI",
@@ -365,6 +538,23 @@
       "XCENA"
     ],
     "fetch_date": "2026-05-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Adobe’s conversational AI agent is a mediocre design intern",
+    "url": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
+    "source": "The Verge AI",
+    "summary": "AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable result. So I was pleasantly surprised by Adobe's latest take on an AI image assistant: It's a [&#8230;]",
+    "published_at": "2026-05-29 06:00",
+    "tags": [
+      "Adobe",
+      "AI",
+      "Analysis",
+      "Creators",
+      "Report",
+      "Tech"
+    ],
+    "fetch_date": "2026-05-30",
     "fetch_label": "晚报"
   },
   {
