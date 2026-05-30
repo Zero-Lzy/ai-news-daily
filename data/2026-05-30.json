@@ -1,0 +1,238 @@
+{
+  "date": "2026-05-30",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-05-30 11:43:58",
+      "count": 23,
+      "articles": [
+        {
+          "title": "Imece – a decentralized AI compute cooperative",
+          "url": "https://github.com/jstdv/imece",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/jstdv/imece Comments URL: https://news.ycombinator.com/item?id=48332332 Points: 1 # Comments: 0",
+          "published_at": "2026-05-30 03:43",
+          "tags": []
+        },
+        {
+          "title": "AI Isn't Replacing Curious Developers",
+          "url": "https://dataengineeringcentral.substack.com/p/ai-isnt-replacing-developers",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://dataengineeringcentral.substack.com/p/ai-isnt-replacing-developers Comments URL: https://news.ycombinator.com/item?id=48332282 Points: 1 # Comments: 0",
+          "published_at": "2026-05-30 03:32",
+          "tags": []
+        },
+        {
+          "title": "Uber and the Bitter Truth About Low AI ROI",
+          "url": "https://news.ycombinator.com/item?id=48332242",
+          "source": "Hacker News AI",
+          "summary": "It took me a long time to swallow this pill, but I hereby regret to inform you that the reason companies have been experiencing low AI ROI is simply the fact that employees have either A) not been delegating enough of their work to AI or B) delegating \"fake\" work to AI to satisfy their managers' tokenmaxxing demands.Throughout the last few weeks, as I rotted away in two to three hour meetings, I ran the following experiment over and over again: I opened my terminal, sent a short prompt to GPT-5.",
+          "published_at": "2026-05-30 03:26",
+          "tags": []
+        },
+        {
+          "title": "A Famous Math Problem Stumped Humans for 80 Years. AI Just Cracked It",
+          "url": "https://www.wsj.com/tech/ai/ai-math-solves-erdos-problem-openai-c4029e84",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wsj.com/tech/ai/ai-math-solves-erdos-problem-openai-c4029e84 Comments URL: https://news.ycombinator.com/item?id=48332080 Points: 1 # Comments: 0",
+          "published_at": "2026-05-30 03:05",
+          "tags": []
+        },
+        {
+          "title": "Lessons from Shipping Persistent Memory for AI Agents",
+          "url": "https://www.pingcap.com/blog/how-we-built-mem9-agent-memory-product/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.pingcap.com/blog/how-we-built-mem9-agent-memory-product/ Comments URL: https://news.ycombinator.com/item?id=48332053 Points: 1 # Comments: 1",
+          "published_at": "2026-05-30 02:59",
+          "tags": []
+        },
+        {
+          "title": "SpaceX has almost finished writing v1.0 of an in-house AI training stack in C",
+          "url": "https://xcancel.com/elonmusk/status/2059884150187053488",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://xcancel.com/elonmusk/status/2059884150187053488 Comments URL: https://news.ycombinator.com/item?id=48332000 Points: 1 # Comments: 2",
+          "published_at": "2026-05-30 02:50",
+          "tags": []
+        },
+        {
+          "title": "Avai – your first AI antivirus",
+          "url": "https://github.com/iklobato/avai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/iklobato/avai Comments URL: https://news.ycombinator.com/item?id=48331726 Points: 2 # Comments: 0",
+          "published_at": "2026-05-30 02:11",
+          "tags": []
+        },
+        {
+          "title": "Aedis – An open-source macroeconomic framework for the AI transition Body",
+          "url": "https://github.com/rand55/project-aedis-framework/tree/main",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/rand55/project-aedis-framework/tree/main Comments URL: https://news.ycombinator.com/item?id=48331506 Points: 1 # Comments: 0",
+          "published_at": "2026-05-30 01:39",
+          "tags": []
+        },
+        {
+          "title": "What a 98-Year Old Children's Book Teaches Us About AI",
+          "url": "https://angrystaffofficer.com/2026/05/28/what-a-98-year-old-childrens-book-teaches-us-about-ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://angrystaffofficer.com/2026/05/28/what-a-98-year-old-childrens-book-teaches-us-about-ai/ Comments URL: https://news.ycombinator.com/item?id=48331320 Points: 3 # Comments: 0",
+          "published_at": "2026-05-30 01:05",
+          "tags": []
+        },
+        {
+          "title": "Software Architecture After AI",
+          "url": "https://brianguthrie.com/p/software-architecture-after-ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://brianguthrie.com/p/software-architecture-after-ai/ Comments URL: https://news.ycombinator.com/item?id=48330939 Points: 2 # Comments: 0",
+          "published_at": "2026-05-30 00:03",
+          "tags": []
+        },
+        {
+          "title": "China Limits Overseas Travel for AI Talent at DeepSeek, Alibaba, Private Firms",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-26/china-expands-travel-curbs-to-top-ai-talent-at-private-firms",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-26/china-expands-travel-curbs-to-top-ai-talent-at-private-firms Comments URL: https://news.ycombinator.com/item?id=48330881 Points: 8 # Comments: 0",
+          "published_at": "2026-05-29 23:54",
+          "tags": []
+        },
+        {
+          "title": "21 days, $5K, 7 AI agents: how a non-programmer built a talent marketplace",
+          "url": "https://www.bearhugrecruiting.com/startup-recruiting/bearhug-network-origin-story",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bearhugrecruiting.com/startup-recruiting/bearhug-network-origin-story Comments URL: https://news.ycombinator.com/item?id=48330482 Points: 3 # Comments: 0",
+          "published_at": "2026-05-29 23:02",
+          "tags": []
+        },
+        {
+          "title": "Flathub bans AI-generated apps and submissions",
+          "url": "https://www.gamingonlinux.com/2026/05/flathub-moves-to-ban-nearly-all-apps-and-submissions-made-with-generative-ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.gamingonlinux.com/2026/05/flathub-moves-to-ban-nearly-all-apps-and-submissions-made-with-generative-ai/ Comments URL: https://news.ycombinator.com/item?id=48330069 Points: 4 # Comments: 0",
+          "published_at": "2026-05-29 22:20",
+          "tags": []
+        },
+        {
+          "title": "Machine First: Why AEO Is Not SEO 2.0",
+          "url": "https://www.richresults.ai/machine-first-aeo.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.richresults.ai/machine-first-aeo.html Comments URL: https://news.ycombinator.com/item?id=48330068 Points: 2 # Comments: 3",
+          "published_at": "2026-05-29 22:20",
+          "tags": []
+        },
+        {
+          "title": "GPT 5.5 Bro [video]",
+          "url": "https://www.youtube.com/watch?v=v1zSDACAXK4",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=v1zSDACAXK4 Comments URL: https://news.ycombinator.com/item?id=48329838 Points: 2 # Comments: 0",
+          "published_at": "2026-05-29 21:56",
+          "tags": []
+        },
+        {
+          "title": "Where AI coding spend goes: 48% code, 40% thinking",
+          "url": "https://codeburn.app/blog/where-ai-coding-spend-goes",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://codeburn.app/blog/where-ai-coding-spend-goes Comments URL: https://news.ycombinator.com/item?id=48329652 Points: 2 # Comments: 0",
+          "published_at": "2026-05-29 21:37",
+          "tags": []
+        },
+        {
+          "title": "Why AI can't match human creative work",
+          "url": "https://www.computerworld.com/article/4178383/why-ai-cant-match-human-creative-work.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.computerworld.com/article/4178383/why-ai-cant-match-human-creative-work.html Comments URL: https://news.ycombinator.com/item?id=48329569 Points: 3 # Comments: 2",
+          "published_at": "2026-05-29 21:31",
+          "tags": []
+        },
+        {
+          "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+          "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+          "source": "TechCrunch AI",
+          "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+          "published_at": "2026-05-29 18:49",
+          "tags": [
+            "AI",
+            "artificial intelligence",
+            "evergreens",
+            "Glossary"
+          ]
+        },
+        {
+          "title": "What happens when companies become too AI-pilled?",
+          "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+          "source": "TechCrunch AI",
+          "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of &#8220;AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, [&#8230;]",
+          "published_at": "2026-05-29 17:57",
+          "tags": [
+            "AI",
+            "Aaron Levie",
+            "AI agents",
+            "AI layoffs",
+            "ai psychosis",
+            "Amazon competition",
+            "AWS",
+            "Equity",
+            "openrouter",
+            "Snowflake",
+            "Stord",
+            "Waymo robotaxi"
+          ]
+        },
+        {
+          "title": "Glean’s top line crosses $300M as AI budget cutting becomes its major selling point",
+          "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+          "source": "TechCrunch AI",
+          "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
+          "published_at": "2026-05-29 00:44",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "Startups",
+            "AI search",
+            "Glean",
+            "revenue"
+          ]
+        },
+        {
+          "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
+          "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
+          "published_at": "2026-05-28 18:52",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Anthropic",
+            "Claude",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
+          "url": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
+          "source": "TechCrunch AI",
+          "summary": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth.",
+          "published_at": "2026-05-28 18:32",
+          "tags": [
+            "AI",
+            "AI futures",
+            "ai tokens",
+            "CME Group",
+            "commodities",
+            "Intercontinental Exchange"
+          ]
+        },
+        {
+          "title": "A $2,000 AI-generated film will make its debut at Tribeca",
+          "url": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca",
+          "source": "The Verge AI",
+          "summary": "Next month's Tribeca Festival will include the premiere of an AI-generated film: Dreams of Violets. The 75-minute film is a fictional dramatization of the Iranian government's mass killing of protestors in January, with the people and images fully created by AI, as reported earlier by The Hollywood Reporter. Dreams of Violets cost $2,000 to make [&#8230;]",
+          "published_at": "2026-05-28 12:08",
+          "tags": [
+            "AI",
+            "Entertainment",
+            "Film"
+          ]
+        }
+      ]
+    }
+  ]
+}
