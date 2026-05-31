@@ -1,5 +1,159 @@
 [
   {
+    "title": "The AI Boom Is Coming to Your Backyard [video]",
+    "url": "https://www.youtube.com/watch?v=bA2rUkm7J9k",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=bA2rUkm7J9k Comments URL: https://news.ycombinator.com/item?id=48342345 Points: 2 # Comments: 0",
+    "published_at": "2026-05-31 01:47",
+    "tags": [],
+    "fetch_date": "2026-05-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: I made a Gemma 4 Mac app that names screenshots with local AI",
+    "url": "https://snapname.app",
+    "source": "Hacker News AI",
+    "summary": "I made my first macOS utility app that ships with a bundled Gemma 4 model, specifically the Gemma E4B one. It made my app DMG have 5.3 GB in size, but I think it is a small size for the power that this free local model can provide.It runs fine on CPU, but can also run on Apple Silicon GPU, although I did not notice any performance improvements with GPU (tested on a M5 chip).I think these local lightweight and multimodal models will open multiple possibilities for new software tools where privacy",
+    "published_at": "2026-05-31 01:40",
+    "tags": [],
+    "fetch_date": "2026-05-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "How to protect your AI endpoints with Vercel BotID",
+    "url": "https://vercel.com/kb/guide/protect-ai-endpoints-with-vercel-botid",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://vercel.com/kb/guide/protect-ai-endpoints-with-vercel-botid Comments URL: https://news.ycombinator.com/item?id=48342146 Points: 2 # Comments: 0",
+    "published_at": "2026-05-31 01:06",
+    "tags": [],
+    "fetch_date": "2026-05-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI grifters are creating fake Black people to sell Shein junk",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping Comments URL: https://news.ycombinator.com/item?id=48341921 Points: 30 # Comments: 1",
+    "published_at": "2026-05-31 00:23",
+    "tags": [],
+    "fetch_date": "2026-05-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Dell, Snowflake, and Ford show how the AI boom is spreading: Alpha Check",
+    "url": "https://finance.yahoo.com/markets/article/dell-snowflake-and-ford-show-how-the-ai-boom-is-spreading-alpha-check-210740675.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://finance.yahoo.com/markets/article/dell-snowflake-and-ford-show-how-the-ai-boom-is-spreading-alpha-check-210740675.html Comments URL: https://news.ycombinator.com/item?id=48341748 Points: 3 # Comments: 0",
+    "published_at": "2026-05-30 23:55",
+    "tags": [],
+    "fetch_date": "2026-05-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Keep AI Weird",
+    "url": "https://www.economist.com/by-invitation/2026/04/01/the-it-department-where-ai-goes-to-die",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.economist.com/by-invitation/2026/04/01/the-it-department-where-ai-goes-to-die Comments URL: https://news.ycombinator.com/item?id=48341697 Points: 2 # Comments: 0",
+    "published_at": "2026-05-30 23:45",
+    "tags": [],
+    "fetch_date": "2026-05-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Hardware",
+    "url": "https://www.categoryvc.com/writing/where-the-ai-hardware-market-is",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.categoryvc.com/writing/where-the-ai-hardware-market-is Comments URL: https://news.ycombinator.com/item?id=48341537 Points: 1 # Comments: 0",
+    "published_at": "2026-05-30 23:18",
+    "tags": [],
+    "fetch_date": "2026-05-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "DeepSWE: More and cheaper intelligence from maxed GPT 5.5 than maxed Opus 4.8",
+    "url": "https://twitter.com/rajveerbach/status/2060846974824255936/photo/1",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/rajveerbach/status/2060846974824255936/photo/1 Comments URL: https://news.ycombinator.com/item?id=48341143 Points: 4 # Comments: 1",
+    "published_at": "2026-05-30 22:17",
+    "tags": [],
+    "fetch_date": "2026-05-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Why Deep Learning Works Even Though It Shouldn't",
+    "url": "https://moultano.wordpress.com/2020/10/18/why-deep-learning-works-even-though-it-shouldnt/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://moultano.wordpress.com/2020/10/18/why-deep-learning-works-even-though-it-shouldnt/ Comments URL: https://news.ycombinator.com/item?id=48341003 Points: 3 # Comments: 0",
+    "published_at": "2026-05-30 21:58",
+    "tags": [],
+    "fetch_date": "2026-05-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Model Links Tumor Mutations to Treatment Response",
+    "url": "https://today.ucsd.edu/story/ai-model-links-tumor-mutations-to-treatment-response",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://today.ucsd.edu/story/ai-model-links-tumor-mutations-to-treatment-response Comments URL: https://news.ycombinator.com/item?id=48340457 Points: 3 # Comments: 1",
+    "published_at": "2026-05-30 20:47",
+    "tags": [],
+    "fetch_date": "2026-05-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Mystery company accidentally blew $500M on Claude AI in a single month",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mystery-company-accidentally-blew-usd500-million-on-claude-in-a-single-month-failed-to-put-usage-limit-on-licenses-for-employees",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/mystery-company-accidentally-blew-usd500-million-on-claude-in-a-single-month-failed-to-put-usage-limit-on-licenses-for-employees Comments URL: https://news.ycombinator.com/item?id=48340367 Points: 18 # Comments: 4",
+    "published_at": "2026-05-30 20:36",
+    "tags": [],
+    "fetch_date": "2026-05-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Google's AI Is Confused About Fish and the Days of the Week",
+    "url": "https://opus.ing/p/google-ai-really-confused-about-fish-days-week",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://opus.ing/p/google-ai-really-confused-about-fish-days-week Comments URL: https://news.ycombinator.com/item?id=48340306 Points: 3 # Comments: 2",
+    "published_at": "2026-05-30 20:30",
+    "tags": [],
+    "fetch_date": "2026-05-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Meta is reportedly developing an AI pendant",
+    "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+    "source": "TechCrunch AI",
+    "summary": "Meta seems to be making big bets on AI-powered hardware.",
+    "published_at": "2026-05-30 15:59",
+    "tags": [
+      "AI",
+      "Gadgets",
+      "Hardware",
+      "Meta"
+    ],
+    "fetch_date": "2026-05-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+    "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+    "source": "TechCrunch AI",
+    "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
+    "published_at": "2026-05-30 15:30",
+    "tags": [
+      "TC",
+      "AI",
+      "Apps",
+      "Google",
+      "gemini",
+      "AI assistant",
+      "gemini ai",
+      "Gemini Spark"
+    ],
+    "fetch_date": "2026-05-31",
+    "fetch_label": "早报"
+  },
+  {
     "title": "AI demand absorbs wafer capacity, crushing budget PC segment",
     "url": "https://www.trendforce.com/presscenter/news/20260529-13068.html",
     "source": "Hacker News AI",

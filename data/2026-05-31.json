@@ -1,0 +1,219 @@
+{
+  "date": "2026-05-31",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-05-31 12:10:18",
+      "count": 19,
+      "articles": [
+        {
+          "title": "Show HN: OWASP Agent Memory Guard – Stop AI Agent Memory Poisoning",
+          "url": "https://github.com/OWASP/www-project-agent-memory-guard",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/OWASP/www-project-agent-memory-guard Comments URL: https://news.ycombinator.com/item?id=48342710 Points: 1 # Comments: 0",
+          "published_at": "2026-05-31 03:17",
+          "tags": []
+        },
+        {
+          "title": "The AI Boom Is Coming to Your Backyard [video]",
+          "url": "https://www.youtube.com/watch?v=bA2rUkm7J9k",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=bA2rUkm7J9k Comments URL: https://news.ycombinator.com/item?id=48342345 Points: 2 # Comments: 0",
+          "published_at": "2026-05-31 01:47",
+          "tags": []
+        },
+        {
+          "title": "Show HN: I made a Gemma 4 Mac app that names screenshots with local AI",
+          "url": "https://snapname.app",
+          "source": "Hacker News AI",
+          "summary": "I made my first macOS utility app that ships with a bundled Gemma 4 model, specifically the Gemma E4B one. It made my app DMG have 5.3 GB in size, but I think it is a small size for the power that this free local model can provide.It runs fine on CPU, but can also run on Apple Silicon GPU, although I did not notice any performance improvements with GPU (tested on a M5 chip).I think these local lightweight and multimodal models will open multiple possibilities for new software tools where privacy",
+          "published_at": "2026-05-31 01:40",
+          "tags": []
+        },
+        {
+          "title": "How to protect your AI endpoints with Vercel BotID",
+          "url": "https://vercel.com/kb/guide/protect-ai-endpoints-with-vercel-botid",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://vercel.com/kb/guide/protect-ai-endpoints-with-vercel-botid Comments URL: https://news.ycombinator.com/item?id=48342146 Points: 2 # Comments: 0",
+          "published_at": "2026-05-31 01:06",
+          "tags": []
+        },
+        {
+          "title": "AI grifters are creating fake Black people to sell Shein junk",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping Comments URL: https://news.ycombinator.com/item?id=48341921 Points: 30 # Comments: 1",
+          "published_at": "2026-05-31 00:23",
+          "tags": []
+        },
+        {
+          "title": "Dell, Snowflake, and Ford show how the AI boom is spreading: Alpha Check",
+          "url": "https://finance.yahoo.com/markets/article/dell-snowflake-and-ford-show-how-the-ai-boom-is-spreading-alpha-check-210740675.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://finance.yahoo.com/markets/article/dell-snowflake-and-ford-show-how-the-ai-boom-is-spreading-alpha-check-210740675.html Comments URL: https://news.ycombinator.com/item?id=48341748 Points: 3 # Comments: 0",
+          "published_at": "2026-05-30 23:55",
+          "tags": []
+        },
+        {
+          "title": "Keep AI Weird",
+          "url": "https://www.economist.com/by-invitation/2026/04/01/the-it-department-where-ai-goes-to-die",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.economist.com/by-invitation/2026/04/01/the-it-department-where-ai-goes-to-die Comments URL: https://news.ycombinator.com/item?id=48341697 Points: 2 # Comments: 0",
+          "published_at": "2026-05-30 23:45",
+          "tags": []
+        },
+        {
+          "title": "AI Hardware",
+          "url": "https://www.categoryvc.com/writing/where-the-ai-hardware-market-is",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.categoryvc.com/writing/where-the-ai-hardware-market-is Comments URL: https://news.ycombinator.com/item?id=48341537 Points: 1 # Comments: 0",
+          "published_at": "2026-05-30 23:18",
+          "tags": []
+        },
+        {
+          "title": "DeepSWE: More and cheaper intelligence from maxed GPT 5.5 than maxed Opus 4.8",
+          "url": "https://twitter.com/rajveerbach/status/2060846974824255936/photo/1",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://twitter.com/rajveerbach/status/2060846974824255936/photo/1 Comments URL: https://news.ycombinator.com/item?id=48341143 Points: 4 # Comments: 1",
+          "published_at": "2026-05-30 22:17",
+          "tags": []
+        },
+        {
+          "title": "Why Deep Learning Works Even Though It Shouldn't",
+          "url": "https://moultano.wordpress.com/2020/10/18/why-deep-learning-works-even-though-it-shouldnt/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://moultano.wordpress.com/2020/10/18/why-deep-learning-works-even-though-it-shouldnt/ Comments URL: https://news.ycombinator.com/item?id=48341003 Points: 3 # Comments: 0",
+          "published_at": "2026-05-30 21:58",
+          "tags": []
+        },
+        {
+          "title": "AI Model Links Tumor Mutations to Treatment Response",
+          "url": "https://today.ucsd.edu/story/ai-model-links-tumor-mutations-to-treatment-response",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://today.ucsd.edu/story/ai-model-links-tumor-mutations-to-treatment-response Comments URL: https://news.ycombinator.com/item?id=48340457 Points: 3 # Comments: 1",
+          "published_at": "2026-05-30 20:47",
+          "tags": []
+        },
+        {
+          "title": "Mystery company accidentally blew $500M on Claude AI in a single month",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mystery-company-accidentally-blew-usd500-million-on-claude-in-a-single-month-failed-to-put-usage-limit-on-licenses-for-employees",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/mystery-company-accidentally-blew-usd500-million-on-claude-in-a-single-month-failed-to-put-usage-limit-on-licenses-for-employees Comments URL: https://news.ycombinator.com/item?id=48340367 Points: 18 # Comments: 4",
+          "published_at": "2026-05-30 20:36",
+          "tags": []
+        },
+        {
+          "title": "Google's AI Is Confused About Fish and the Days of the Week",
+          "url": "https://opus.ing/p/google-ai-really-confused-about-fish-days-week",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://opus.ing/p/google-ai-really-confused-about-fish-days-week Comments URL: https://news.ycombinator.com/item?id=48340306 Points: 3 # Comments: 2",
+          "published_at": "2026-05-30 20:30",
+          "tags": []
+        },
+        {
+          "title": "Meta is reportedly developing an AI pendant",
+          "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+          "source": "TechCrunch AI",
+          "summary": "Meta seems to be making big bets on AI-powered hardware.",
+          "published_at": "2026-05-30 15:59",
+          "tags": [
+            "AI",
+            "Gadgets",
+            "Hardware",
+            "Meta"
+          ]
+        },
+        {
+          "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+          "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+          "source": "TechCrunch AI",
+          "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
+          "published_at": "2026-05-30 15:30",
+          "tags": [
+            "TC",
+            "AI",
+            "Apps",
+            "Google",
+            "gemini",
+            "AI assistant",
+            "gemini ai",
+            "Gemini Spark"
+          ]
+        },
+        {
+          "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
+          "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+          "source": "TechCrunch AI",
+          "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+          "published_at": "2026-05-30 13:00",
+          "tags": [
+            "Startups",
+            "AI",
+            "Apps",
+            "Browser",
+            "search engines",
+            "web browser",
+            "evergreens"
+          ]
+        },
+        {
+          "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+          "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+          "source": "TechCrunch AI",
+          "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+          "published_at": "2026-05-29 18:49",
+          "tags": [
+            "AI",
+            "artificial intelligence",
+            "evergreens",
+            "Glossary"
+          ]
+        },
+        {
+          "title": "What happens when companies become too AI-pilled?",
+          "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+          "source": "TechCrunch AI",
+          "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of &#8220;AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, [&#8230;]",
+          "published_at": "2026-05-29 17:57",
+          "tags": [
+            "AI",
+            "Aaron Levie",
+            "AI agents",
+            "AI layoffs",
+            "ai psychosis",
+            "Amazon competition",
+            "AWS",
+            "Equity",
+            "openrouter",
+            "Snowflake",
+            "Stord",
+            "Waymo robotaxi"
+          ]
+        },
+        {
+          "title": "Does your CEO have AI psychosis? Aaron Levie thinks most of them do.",
+          "url": "https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do/",
+          "source": "TechCrunch AI",
+          "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of &#8220;AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, [&#8230;]",
+          "published_at": "2026-05-29 14:00",
+          "tags": [
+            "AI",
+            "Startups",
+            "Aaron Levie",
+            "AI agents",
+            "AI layoffs",
+            "ai psychosis",
+            "AWS",
+            "ClickUp",
+            "CPU",
+            "Equity podcast",
+            "openrouter",
+            "Snowflake",
+            "Stord",
+            "Waymo robotaxi"
+          ]
+        }
+      ]
+    }
+  ]
+}
