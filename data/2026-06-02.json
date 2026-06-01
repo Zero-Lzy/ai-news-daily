@@ -1,0 +1,114 @@
+{
+  "date": "2026-06-02",
+  "runs": [
+    {
+      "label": "晚报",
+      "time": "2026-06-02 01:41:47",
+      "count": 7,
+      "articles": [
+        {
+          "title": "Anthropic files to go public",
+          "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+          "source": "TechCrunch AI",
+          "summary": "The company said Monday it has filed confidentially for an IPO.",
+          "published_at": "2026-06-01 16:36",
+          "tags": [
+            "AI",
+            "TC",
+            "Anthropic",
+            "IPO",
+            "OpenAI",
+            "SpaceX"
+          ]
+        },
+        {
+          "title": "This AI weather startup is out-forecasting government agencies",
+          "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+          "source": "TechCrunch AI",
+          "summary": "Windborne Systems' newest weather forecasting model beats the best government predictions by days.",
+          "published_at": "2026-06-01 16:00",
+          "tags": [
+            "AI",
+            "Exclusive",
+            "Windborne Systems"
+          ]
+        },
+        {
+          "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
+          "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+          "source": "TechCrunch AI",
+          "summary": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
+          "published_at": "2026-06-01 14:49",
+          "tags": [
+            "AI",
+            "Apps",
+            "Chrome",
+            "DuckDuckGo",
+            "Firefox",
+            "Google",
+            "Search"
+          ]
+        },
+        {
+          "title": "Microsoft to unveil new AI models and Windows improvements at Build",
+          "url": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect",
+          "source": "The Verge AI",
+          "summary": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft called it the Professional Developers Conference, and I can't remember a more pivotal moment. As Microsoft continues to reshuffle its entire business around AI, it's moving Build [&#8230;]",
+          "published_at": "2026-06-01 10:39",
+          "tags": [
+            "AI",
+            "Microsoft",
+            "Microsoft Build",
+            "Report",
+            "Tech",
+            "Windows"
+          ]
+        },
+        {
+          "title": "AI is blowing up music. How should the Grammys handle it?",
+          "url": "https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason",
+          "source": "The Verge AI",
+          "summary": "Today I’m talking with Harvey Mason Jr., who is CEO of the Recording Academy — that’s the outfit that puts on the Grammy Awards. I last talked to Harvey in 2024, when it was obvious that generative AI would upend the music industry, but still not exactly clear how that would happen.&#160; Well, it’s been [&#8230;]",
+          "published_at": "2026-06-01 10:30",
+          "tags": [
+            "AI",
+            "Decoder",
+            "Entertainment",
+            "Music",
+            "Podcasts",
+            "Spotify"
+          ]
+        },
+        {
+          "title": "Strava blames zero-code AI apps and scrapers as it tightens API access",
+          "url": "https://www.theverge.com/gadgets/940854/strava-restricts-api-access-ai-apps",
+          "source": "The Verge AI",
+          "summary": "The popular fitness-tracking platform, Strava, is restricting access to its API as part of efforts to clamp down on AI scraping, as reported earlier by TechCrunch. Developers who want to build an app using Strava's data now need to pay for a flat $11.99 / month subscription. In an update on its developer hub, Strava [&#8230;]",
+          "published_at": "2026-06-01 10:06",
+          "tags": [
+            "AI",
+            "Apps",
+            "Gadgets",
+            "News",
+            "Tech",
+            "Wearable"
+          ]
+        },
+        {
+          "title": "Erin Brockovich takes aim at data center secrecy",
+          "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+          "source": "TechCrunch AI",
+          "summary": "Environmental activist Erin Brockovich has a new mission.",
+          "published_at": "2026-05-31 21:05",
+          "tags": [
+            "AI",
+            "Government & Policy",
+            "data centers",
+            "erin brockovich",
+            "In Brief"
+          ]
+        }
+      ]
+    }
+  ]
+}
