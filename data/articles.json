@@ -1,5 +1,120 @@
 [
   {
+    "title": "People found a way to trick Meta's AI into handing over Instagram accounts",
+    "url": "https://www.neowin.net/news/people-are-using-prompt-injection-to-trick-metas-ai-into-handing-over-instagram-accounts/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.neowin.net/news/people-are-using-prompt-injection-to-trick-metas-ai-into-handing-over-instagram-accounts/ Comments URL: https://news.ycombinator.com/item?id=48352529 Points: 2 # Comments: 0",
+    "published_at": "2026-06-01 04:13",
+    "tags": [],
+    "fetch_date": "2026-06-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Peter Thiel warns AI is threat to technical roles more than to creative thinkers",
+    "url": "https://fortune.com/article/peter-thiel-ai-skills-creative-thinking-technical/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://fortune.com/article/peter-thiel-ai-skills-creative-thinking-technical/ Comments URL: https://news.ycombinator.com/item?id=48352298 Points: 4 # Comments: 1",
+    "published_at": "2026-06-01 03:27",
+    "tags": [],
+    "fetch_date": "2026-06-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Instagram exploit allows you to use Meta AI to reset passwords to accounts",
+    "url": "https://xcancel.com/DarkWebInformer/status/2061253599758315527",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://xcancel.com/DarkWebInformer/status/2061253599758315527 Comments URL: https://news.ycombinator.com/item?id=48352268 Points: 3 # Comments: 0",
+    "published_at": "2026-06-01 03:21",
+    "tags": [],
+    "fetch_date": "2026-06-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Smart Rename – renames image file downloads in real time using local AI",
+    "url": "https://github.com/chudweiser/smart-rename",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/chudweiser/smart-rename Comments URL: https://news.ycombinator.com/item?id=48352070 Points: 2 # Comments: 0",
+    "published_at": "2026-06-01 02:41",
+    "tags": [],
+    "fetch_date": "2026-06-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "How bosses should talk about AI",
+    "url": "https://www.economist.com/business/2026/05/28/how-should-bosses-talk-about-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.economist.com/business/2026/05/28/how-should-bosses-talk-about-ai Comments URL: https://news.ycombinator.com/item?id=48351772 Points: 4 # Comments: 0",
+    "published_at": "2026-06-01 01:49",
+    "tags": [],
+    "fetch_date": "2026-06-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "SBT: A new Social Media for you and your AI companion",
+    "url": "https://testflight.apple.com/join/MMY4rDjT",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://testflight.apple.com/join/MMY4rDjT Comments URL: https://news.ycombinator.com/item?id=48351707 Points: 1 # Comments: 0",
+    "published_at": "2026-06-01 01:39",
+    "tags": [],
+    "fetch_date": "2026-06-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "What Kind of Clock Is an LLM?",
+    "url": "https://isthisanart.substack.com/p/what-kind-of-clock-is-an-llm",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://isthisanart.substack.com/p/what-kind-of-clock-is-an-llm Comments URL: https://news.ycombinator.com/item?id=48351302 Points: 1 # Comments: 0",
+    "published_at": "2026-06-01 00:28",
+    "tags": [],
+    "fetch_date": "2026-06-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Tell HN: Meta's AI support feature allows Instagram accounts to be stolen",
+    "url": "https://news.ycombinator.com/item?id=48350239",
+    "source": "Hacker News AI",
+    "summary": "If the AI support option is enabled for your Instagram account (it appears to be A/B tested for only a percentage of accounts), anyone can hijack it with little effort. Simply get on a proxy or VPN close to the account's region, then ask the agent to send a code to an arbitrary email address. Once you receive the code, pass it forward to the agent, and it'll provide you with a password reset link which you can then use to sign into the account.Posting here for any Meta employees who may be readi",
+    "published_at": "2026-05-31 22:11",
+    "tags": [],
+    "fetch_date": "2026-06-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Can I just say f*** AI, f*** AI, f*** AI? [video]",
+    "url": "https://www.youtube.com/shorts/0z7Q0Bg9TAY",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/shorts/0z7Q0Bg9TAY Comments URL: https://news.ycombinator.com/item?id=48350223 Points: 1 # Comments: 2",
+    "published_at": "2026-05-31 22:10",
+    "tags": [],
+    "fetch_date": "2026-06-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "G7 Agrees on Shared Language Around Open-Source AI, Open Weights AI",
+    "url": "https://www.phoronix.com/news/G7-On-Open-Source-AI",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.phoronix.com/news/G7-On-Open-Source-AI Comments URL: https://news.ycombinator.com/item?id=48350096 Points: 2 # Comments: 0",
+    "published_at": "2026-05-31 21:49",
+    "tags": [],
+    "fetch_date": "2026-06-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Erin Brockovich takes aim at data center secrecy",
+    "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+    "source": "TechCrunch AI",
+    "summary": "Environmental activist Erin Brockovich has a new mission.",
+    "published_at": "2026-05-31 21:05",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "data centers",
+      "erin brockovich"
+    ],
+    "fetch_date": "2026-06-01",
+    "fetch_label": "早报"
+  },
+  {
     "title": "The AI Boom Is Coming to Your Backyard [video]",
     "url": "https://www.youtube.com/watch?v=bA2rUkm7J9k",
     "source": "Hacker News AI",
