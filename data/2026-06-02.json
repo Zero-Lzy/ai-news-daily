@@ -109,6 +109,232 @@
           ]
         }
       ]
+    },
+    {
+      "label": "早报",
+      "time": "2026-06-02 12:17:57",
+      "count": 21,
+      "articles": [
+        {
+          "title": "When Agentic AI Met the Common Law of Agency [pdf]",
+          "url": "https://download.ssrn.com/2026/5/27/6838660.pdf?response-content-disposition=inline&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFQaCXVzLWVhc3QtMSJGMEQCIGCqRt3E43JqumYgrLNdiLIHcwl4vS%2F0umJm5fj1DgvqAiAvib35M%2BdXgdaFDsjX4yKd3aeebKQLtbtu3Tt1hk8w0iq9BQgcEAQaDDMwODQ3NTMwMTI1NyIMCfQ8Rd3NIrLXpeB2KpoFBGQlbWI5fPXOWdOpXqA4IhMosTVZpVkxaHnIF%2FofUKhmHLnJ5N7pmpTc90IxtpKjzT%2FHTBXP7X5w7S4ood6VkvpC%2B8w6xfL4qxv85BgxPrUYQHCY4LcF%2FyP1wyhOYGi92R7A3Eb63lD84scBBlqpjX3EwoBslfOjUpL52x8SoCL1VR7ESR18%2B3Jp9ukCCCd%2BMez%2BoycAZMvG9zj5XB2irLTL6GQq%2F%2FGviowJ8TPQfjledMpnufc6jtHqxL2UDOWEBfSskj1fj4El1Z8CR9RMxHuiy%2FQHye2M3Rmte7ClWdCFeaIK7EAKi1uMwc3HTa4qgXkKcUSfs8sFCg6HgjscdO2Ft%2FxeR7MEeJ%2F4DpuvkgMT6JqPNdgyUNdlbjESL0P%2FVShFnySxLItbCIt9gk2BUADmKp0eSsaGakq%2Bsa0ux0ZnhS8O%2BmVg%2FUf%2F2KLx1JZ1yXZbZ0aKw5GaxJGeG7cHg9JrfkbKIZsWpwRfd01y0qmrnvF0RITxVJXxWbcGRPt%2B9juPBM3XLhjfh8agRuX7eOYWVqWKxo0OibuCTkAEF%2B9GumDpfSz0sxy43IAtu1bbHbb%2B9HprtD2J3QVJDpp4mGwKszjfJ%2BzMWjKjOmxTSFtaElhS4XeeZoOzI6zjUyc0ccL5Am3BeAy46d4hmMOBsSr0mYMAyPVHiHJze9fd9On8HeodJl1pV%2Fj%2F9O5dLTxIGGZM2ZMRdU3tgDTony4fN4C%2ByA%2BivgpaCBdy3JWalH1mosRLZkjJw8PYx%2FVtT84%2BROt62AKtszEt0EDdvlo%2FoVyChEKYWvuYTZVZ%2FHIyVqEBD77b0uNHvvYeGIHVklSFIDm%2BLQvckTYFyjIRQa%2BnM7Ih31jCkECto21D0tD1w%2B51oABYYD3JxCAjMPGX%2BdAGOrIBXbgCuhCyivu3m7cX9trkuy5Qime45cpnmPPTspQTVeSYzV1iMw4eHqlgP4%2FhHJhRqBgctBUBmrv8N7ZEXKbH9iRxq2VwMOrKcv23%2BfyJ1XcSEpHPuM7zv1pHeRj6%2FGRo2CQrxfD%2FNZYjw2lxF39YUdE74SblFUoRNxLeDfC9GJZ%2FGU1%2FFbK5qUWcLDajlPBw%2FbK60%2Btw7uLMAE4iojvJqw5jWytKOODyrcWGKiUsI14Tqw%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260602T035615Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAUPUUPRWE6DHJ6PFC%2F20260602%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=d3bd657ebc4c27abea99e0b6758554cf5465c68cf03dacf601d29cec139cbfbe&abstractId=6838660",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://download.ssrn.com/2026/5/27/6838660.pdf?response-content-disposition=inline&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFQaCXVzLWVhc3QtMSJGMEQCIGCqRt3E43JqumYgrLNdiLIHcwl4vS%2F0umJm5fj1DgvqAiAvib35M%2BdXgdaFDsjX4yKd3aeebKQLtbtu3Tt1hk8w0iq9BQgcEAQaDDMwODQ3NTMwMTI1NyIMCfQ8Rd3NIrLXpeB2KpoFBGQlbWI5fPXOWdOpXqA4IhMosTVZpVkxaHnIF%2FofUKhmHLnJ5N7pmpTc90IxtpKjzT%2FHTBXP7X5w7S4ood6VkvpC%2B8w6xfL4qxv85BgxPrUYQHCY4LcF%2FyP1wyhOYGi92R7A3Eb63lD84scBBlqpjX3EwoBslfOjUpL52x8SoCL1VR7ESR18%2B3Jp",
+          "published_at": "2026-06-02 03:57",
+          "tags": []
+        },
+        {
+          "title": "Bloc – Cursor for AI video (a canvas IDE, not a timeline)",
+          "url": "https://vidbloc.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://vidbloc.com/ Comments URL: https://news.ycombinator.com/item?id=48365802 Points: 1 # Comments: 0",
+          "published_at": "2026-06-02 03:52",
+          "tags": []
+        },
+        {
+          "title": "AI can chart a course to disaster faster than humans can notice",
+          "url": "https://thebulletin.org/2026/05/ai-can-chart-a-course-to-disaster-faster-than-humans-can-notice/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://thebulletin.org/2026/05/ai-can-chart-a-course-to-disaster-faster-than-humans-can-notice/ Comments URL: https://news.ycombinator.com/item?id=48365704 Points: 1 # Comments: 0",
+          "published_at": "2026-06-02 03:37",
+          "tags": []
+        },
+        {
+          "title": "Introducing The American AI Sovereign Wealth Fund Act [video]",
+          "url": "https://www.youtube.com/watch?v=VN4b4UCWMKI",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=VN4b4UCWMKI Comments URL: https://news.ycombinator.com/item?id=48365681 Points: 1 # Comments: 0",
+          "published_at": "2026-06-02 03:33",
+          "tags": []
+        },
+        {
+          "title": "Meta AI Support – full system prompt leaked",
+          "url": "https://github.com/michaelcummings12/meta-ai-support-prompt/blob/main/system-prompt.md",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/michaelcummings12/meta-ai-support-prompt/blob/main/system-prompt.md Comments URL: https://news.ycombinator.com/item?id=48365565 Points: 3 # Comments: 0",
+          "published_at": "2026-06-02 03:17",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Memex – A local-first AI journal that keeps everything as Markdown",
+          "url": "https://github.com/memex-lab/memex",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/memex-lab/memex Comments URL: https://news.ycombinator.com/item?id=48365371 Points: 1 # Comments: 0",
+          "published_at": "2026-06-02 02:48",
+          "tags": []
+        },
+        {
+          "title": "X.org Server Starts June Nine New Security Vulnerabilities Discovered via AI",
+          "url": "https://www.phoronix.com/news/X.Org-9-Vulnerabilities-AI",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.phoronix.com/news/X.Org-9-Vulnerabilities-AI Comments URL: https://news.ycombinator.com/item?id=48365188 Points: 2 # Comments: 0",
+          "published_at": "2026-06-02 02:22",
+          "tags": []
+        },
+        {
+          "title": "DeepMind CEO says those cutting jobs because of AI 'lack imagination'",
+          "url": "https://www.inc.com/jessica-stillman/nobel-prize-winner-demis-hassabis-says-ai-job-cuts-are-dumb-research-agrees/91348959",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.inc.com/jessica-stillman/nobel-prize-winner-demis-hassabis-says-ai-job-cuts-are-dumb-research-agrees/91348959 Comments URL: https://news.ycombinator.com/item?id=48364740 Points: 7 # Comments: 0",
+          "published_at": "2026-06-02 01:21",
+          "tags": []
+        },
+        {
+          "title": "Building an Open-Source Verilog Simulator with AI: 580K Lines in 43 Days",
+          "url": "https://normalcomputing.com/blog/building-an-open-source-verilog-simulator-with-ai-580k-lines-in-43-days",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://normalcomputing.com/blog/building-an-open-source-verilog-simulator-with-ai-580k-lines-in-43-days Comments URL: https://news.ycombinator.com/item?id=48364654 Points: 2 # Comments: 0",
+          "published_at": "2026-06-02 01:09",
+          "tags": []
+        },
+        {
+          "title": "aweskills: Let Your AI Agent Manage skills for You",
+          "url": "https://aweskill.webioinfo.top/articles/let-your-ai-agent-manage-aweskill-for-you/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://aweskill.webioinfo.top/articles/let-your-ai-agent-manage-aweskill-for-you/ Comments URL: https://news.ycombinator.com/item?id=48364549 Points: 1 # Comments: 0",
+          "published_at": "2026-06-02 00:56",
+          "tags": []
+        },
+        {
+          "title": "Colorado Rolls Back Landmark AI Governance Law",
+          "url": "https://www.bankinfosecurity.com/colorado-rolls-back-landmark-ai-governance-law-a-31804",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bankinfosecurity.com/colorado-rolls-back-landmark-ai-governance-law-a-31804 Comments URL: https://news.ycombinator.com/item?id=48364520 Points: 6 # Comments: 0",
+          "published_at": "2026-06-02 00:53",
+          "tags": []
+        },
+        {
+          "title": "LLM and Clojure",
+          "url": "https://tusshah.codeberg.page/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://tusshah.codeberg.page/ Comments URL: https://news.ycombinator.com/item?id=48364415 Points: 1 # Comments: 0",
+          "published_at": "2026-06-02 00:41",
+          "tags": []
+        },
+        {
+          "title": "CHSE – Rust LLM compressor: 1.15M lines/s, 69-91% token savings",
+          "url": "https://news.ycombinator.com/item?id=48364338",
+          "source": "Hacker News AI",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=48364338 Points: 1 # Comments: 0",
+          "published_at": "2026-06-02 00:29",
+          "tags": []
+        },
+        {
+          "title": "Vercel AI Gateway Appears to Block BYOK Requests When Account Balance Reaches $0",
+          "url": "https://github.com/vercel/ai/issues/11280",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/vercel/ai/issues/11280 Comments URL: https://news.ycombinator.com/item?id=48364193 Points: 2 # Comments: 1",
+          "published_at": "2026-06-02 00:07",
+          "tags": []
+        },
+        {
+          "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+          "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+          "source": "TechCrunch AI",
+          "summary": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
+          "published_at": "2026-06-01 21:35",
+          "tags": [
+            "AI",
+            "Hardware",
+            "TC",
+            "AI PC",
+            "cpus",
+            "Microsoft",
+            "nvidia"
+          ]
+        },
+        {
+          "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+          "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+          "source": "TechCrunch AI",
+          "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
+          "published_at": "2026-06-01 20:03",
+          "tags": [
+            "AI",
+            "ChatGPT",
+            "lawsuits",
+            "OpenAI",
+            "sam altman"
+          ]
+        },
+        {
+          "title": "Anthropic files to go public",
+          "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models.",
+          "published_at": "2026-06-01 16:36",
+          "tags": [
+            "AI",
+            "TC",
+            "Anthropic",
+            "IPO",
+            "OpenAI",
+            "SpaceX"
+          ]
+        },
+        {
+          "title": "Gemini’s new AI agent is about as good as Google’s demo",
+          "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
+          "source": "The Verge AI",
+          "summary": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me access to Spark last week. Google advertises Spark as an AI agent that can take on tasks and work on them [&#8230;]",
+          "published_at": "2026-06-01 16:00",
+          "tags": [
+            "AI",
+            "Google",
+            "Google I/O 2026",
+            "Hands-on",
+            "Report",
+            "Reviews",
+            "Tech"
+          ]
+        },
+        {
+          "title": "AI is blowing up music. How should the Grammys handle it?",
+          "url": "https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason",
+          "source": "The Verge AI",
+          "summary": "Today I’m talking with Harvey Mason Jr., who is CEO of the Recording Academy — that’s the outfit that puts on the Grammy Awards. I last talked to Harvey in 2024, when it was obvious that generative AI would upend the music industry, but still not exactly clear how that would happen.&#160; Well, it’s been [&#8230;]",
+          "published_at": "2026-06-01 10:30",
+          "tags": [
+            "AI",
+            "Decoder",
+            "Entertainment",
+            "Music",
+            "Podcasts",
+            "Spotify"
+          ]
+        },
+        {
+          "title": "Strava blames zero-code AI apps and scrapers as it tightens API access",
+          "url": "https://www.theverge.com/gadgets/940854/strava-restricts-api-access-ai-apps",
+          "source": "The Verge AI",
+          "summary": "The popular fitness-tracking platform, Strava, is restricting access to its API as part of efforts to clamp down on AI scraping, as reported earlier by TechCrunch. Developers who want to build an app using Strava's data now need to pay for a flat $11.99 / month subscription. In an update on its developer hub, Strava [&#8230;]",
+          "published_at": "2026-06-01 10:06",
+          "tags": [
+            "AI",
+            "Apps",
+            "Gadgets",
+            "News",
+            "Tech",
+            "Wearable"
+          ]
+        },
+        {
+          "title": "Making sense of the debate over AI psychosis",
+          "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+          "source": "TechCrunch AI",
+          "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
+          "published_at": "2026-05-31 15:30",
+          "tags": [
+            "AI",
+            "Startups",
+            "Aaron Levie",
+            "ai psychosis",
+            "DuckDuckGo",
+            "Equity podcast",
+            "Google"
+          ]
+        }
+      ]
     }
   ]
 }
