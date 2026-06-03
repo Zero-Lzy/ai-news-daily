@@ -1,5 +1,141 @@
 [
   {
+    "title": "Inside Meta's attempts to play catch-up with AI",
+    "url": "https://arstechnica.com/ai/2026/06/inside-metas-attempts-to-play-catch-up-with-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/06/inside-metas-attempts-to-play-catch-up-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48386232 Points: 1 # Comments: 0",
+    "published_at": "2026-06-03 16:32",
+    "tags": [],
+    "fetch_date": "2026-06-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "GitLab cuts 14% of staff as it scales its platform to serve AI workloads",
+    "url": "https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/ Comments URL: https://news.ycombinator.com/item?id=48386127 Points: 5 # Comments: 1",
+    "published_at": "2026-06-03 16:24",
+    "tags": [],
+    "fetch_date": "2026-06-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Agent-browser-shield – free extension to protect AI agents on the web",
+    "url": "https://github.com/pixiebrix/agent-browser-shield",
+    "source": "Hacker News AI",
+    "summary": "I've been experimenting with Claude Code, ChatGPT Agent, and OpenClaw to perform more open-ended tasks for me online. A big blocker I've hit on shopping and research tasks is the agent getting a key piece of info wrong.For example, in one case, my agent decided to add a brand I don't like to the cart because the site flagged it as almost sold outThe HN crowd is probably pretty aware of the threats and can avoid them while browsing. But what about their agents?I tried prompting, but it was ineffe",
+    "published_at": "2026-06-03 16:23",
+    "tags": [],
+    "fetch_date": "2026-06-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "'Close to the Terminator narrative': the dawn of self-improving AI",
+    "url": "https://www.ft.com/content/7cc7800f-18ed-47d8-9539-221ae3e16182",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.ft.com/content/7cc7800f-18ed-47d8-9539-221ae3e16182 Comments URL: https://news.ycombinator.com/item?id=48386069 Points: 2 # Comments: 1",
+    "published_at": "2026-06-03 16:19",
+    "tags": [],
+    "fetch_date": "2026-06-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Resource consumption of AI: The insatiable industry and its costs",
+    "url": "https://algorithmwatch.org/en/climate-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://algorithmwatch.org/en/climate-ai/ Comments URL: https://news.ycombinator.com/item?id=48386028 Points: 1 # Comments: 0",
+    "published_at": "2026-06-03 16:16",
+    "tags": [],
+    "fetch_date": "2026-06-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Meta says hackers can no longer access accounts through its AI chatbot",
+    "url": "https://globalnews.ca/news/11886958/meta-hack-ai-chatbot-accounts-hijacked/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://globalnews.ca/news/11886958/meta-hack-ai-chatbot-accounts-hijacked/ Comments URL: https://news.ycombinator.com/item?id=48385891 Points: 2 # Comments: 1",
+    "published_at": "2026-06-03 16:03",
+    "tags": [],
+    "fetch_date": "2026-06-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: I built a personal AI agent that schedules its own wake-ups",
+    "url": "https://github.com/Aitne-sh/Aitne",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/Aitne-sh/Aitne Comments URL: https://news.ycombinator.com/item?id=48385687 Points: 2 # Comments: 0",
+    "published_at": "2026-06-03 15:49",
+    "tags": [],
+    "fetch_date": "2026-06-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Search Visibility Checker",
+    "url": "https://www.techwrath.com/ai-search-visibility-checker/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.techwrath.com/ai-search-visibility-checker/ Comments URL: https://news.ycombinator.com/item?id=48385495 Points: 2 # Comments: 0",
+    "published_at": "2026-06-03 15:34",
+    "tags": [],
+    "fetch_date": "2026-06-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI has a water problem. Google thinks it has a fix",
+    "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theverge.com/policy/942296/google-water-commitments-data-centers Comments URL: https://news.ycombinator.com/item?id=48385322 Points: 2 # Comments: 1",
+    "published_at": "2026-06-03 15:21",
+    "tags": [],
+    "fetch_date": "2026-06-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: On-device Chrome extension that blocks credential leaks to LLM chats",
+    "url": "https://redact.clearformlabs.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://redact.clearformlabs.com/ Comments URL: https://news.ycombinator.com/item?id=48385152 Points: 3 # Comments: 0",
+    "published_at": "2026-06-03 15:08",
+    "tags": [],
+    "fetch_date": "2026-06-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Twelve Ways to Be Wrong About AI-Assisted Coding",
+    "url": "https://third-bit.com/2026/05/20/twelve-ways-to-be-wrong/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://third-bit.com/2026/05/20/twelve-ways-to-be-wrong/ Comments URL: https://news.ycombinator.com/item?id=48384971 Points: 3 # Comments: 0",
+    "published_at": "2026-06-03 14:55",
+    "tags": [],
+    "fetch_date": "2026-06-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "ASML Becomes Europe's Most Valuable Stock Ever on AI Boom",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-03/asml-becomes-europe-s-most-valuable-stock-ever-on-ai-boom",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-03/asml-becomes-europe-s-most-valuable-stock-ever-on-ai-boom Comments URL: https://news.ycombinator.com/item?id=48384895 Points: 5 # Comments: 1",
+    "published_at": "2026-06-03 14:49",
+    "tags": [],
+    "fetch_date": "2026-06-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy",
+    "url": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
+    "source": "The Verge AI",
+    "summary": "Amazon's updated search bar will now show you AI-generated images of products as you describe them. For now, the in-app feature only surfaces AI images of clothing and home goods, allowing you to tap on the image that best matches what you're looking for and search for similar-looking items. In a blog post, Amazon positions [&#8230;]",
+    "published_at": "2026-06-03 12:07",
+    "tags": [
+      "AI",
+      "Amazon",
+      "Apps",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-06-04",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Uber caps employee AI spending after blowing through budget in 4 months",
     "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
     "source": "TechCrunch AI",
