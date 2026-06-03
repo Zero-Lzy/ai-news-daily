@@ -1,5 +1,70 @@
 [
   {
+    "title": "Uber caps employee AI spending after blowing through budget in 4 months",
+    "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+    "source": "TechCrunch AI",
+    "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
+    "published_at": "2026-06-02 19:11",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "claude code",
+      "In Brief",
+      "Uber"
+    ],
+    "fetch_date": "2026-06-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
+    "url": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
+    "source": "TechCrunch AI",
+    "summary": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.",
+    "published_at": "2026-06-02 18:16",
+    "tags": [
+      "AI",
+      "Media & Entertainment",
+      "TC",
+      "black forest labs",
+      "In Brief",
+      "martin scorsese"
+    ],
+    "fetch_date": "2026-06-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
+    "url": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
+    "source": "TechCrunch AI",
+    "summary": "As people increasingly refuse to answer calls from unknown numbers, scammers are shifting their tactics by spoofing trusted phone numbers and using AI deepfake technology to sound like authority figures, family members, or employers.",
+    "published_at": "2026-06-02 18:00",
+    "tags": [
+      "AI",
+      "Apps",
+      "Android",
+      "deepfakes",
+      "Google"
+    ],
+    "fetch_date": "2026-06-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Amazon faces class action lawsuit over Ring facial-recognition feature",
+    "url": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
+    "source": "TechCrunch AI",
+    "summary": "The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby without consent.",
+    "published_at": "2026-06-02 17:47",
+    "tags": [
+      "AI",
+      "Privacy",
+      "Amazon",
+      "facial recognition",
+      "Ring"
+    ],
+    "fetch_date": "2026-06-03",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Trump signs narrower executive order on AI oversight after industry objections",
     "url": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
     "source": "TechCrunch AI",
@@ -28,6 +93,23 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "Microsoft Build 2026: The 7 biggest announcements",
+    "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
+    "source": "The Verge AI",
+    "summary": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on personal assistant and updates across Microsoft's in-house AI models. If you didn't watch the event live, you can catch up on all the [&#8230;]",
+    "published_at": "2026-06-02 15:23",
+    "tags": [
+      "AI",
+      "Microsoft",
+      "Microsoft Build",
+      "News",
+      "Tech",
+      "Windows"
+    ],
+    "fetch_date": "2026-06-03",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
     "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
     "source": "TechCrunch AI",
@@ -42,6 +124,38 @@
     ],
     "fetch_date": "2026-06-03",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Microsoft’s first advanced reasoning AI is here",
+    "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
+    "source": "The Verge AI",
+    "summary": "Microsoft announced a bunch of new in-house AI models at Build 2026, including a new \"flagship\" model: MAI-Thinking-1. It's an ambitious step into model development for Microsoft, which introduced its initial in-house models last year - before then, it had relied on OpenAI's models. The two companies recently renegotiated their deal to loosen ties. According [&#8230;]",
+    "published_at": "2026-06-02 14:12",
+    "tags": [
+      "AI",
+      "Microsoft",
+      "Microsoft Build",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-06-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Microsoft&#8217;s Project Solara is an OS for AI agent gadgets",
+    "url": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
+    "source": "The Verge AI",
+    "summary": "Microsoft just announced \"Project Solara,\" a new OS designed for gadgets that run AI agents, at Build 2026. The company is calling it \"a new platform built from the ground up to power agent-driven experiences.\" It's built on Android, not Windows. Microsoft demonstrated two concept Project Solara devices at Build today: Desk concept and badge [&#8230;]",
+    "published_at": "2026-06-02 13:31",
+    "tags": [
+      "AI",
+      "Microsoft",
+      "Microsoft Build",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-06-03",
+    "fetch_label": "早报"
   },
   {
     "title": "ZeroDrift raises $10M to protect AI models from themselves",
@@ -69,6 +183,23 @@
     ],
     "fetch_date": "2026-06-03",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Microsoft Build 2026: All the news about Windows, AI, RTX Spark, and more",
+    "url": "https://www.theverge.com/tech/941668/microsoft-build-may-2026-live-news-updates",
+    "source": "The Verge AI",
+    "summary": "Microsoft Build 2026 kicked off with a keynote presentation that introduced some developer-focused Windows updates, an OpenClaw-based AI assistant called Scout, the new Majorana 2 quantum computing chip, and a Surface mini PC designed for AI developers. Microsoft also rolled out a new Android-based OS called Project Solara that’s designed for gadgets that run AI [&#8230;]",
+    "published_at": "2026-06-02 11:59",
+    "tags": [
+      "AI",
+      "Microsoft",
+      "Microsoft Build",
+      "News",
+      "Tech",
+      "Windows"
+    ],
+    "fetch_date": "2026-06-03",
+    "fetch_label": "早报"
   },
   {
     "title": "When Agentic AI Met the Common Law of Agency [pdf]",
