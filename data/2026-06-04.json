@@ -215,6 +215,213 @@
           ]
         }
       ]
+    },
+    {
+      "label": "早报",
+      "time": "2026-06-04 12:22:33",
+      "count": 20,
+      "articles": [
+        {
+          "title": "Ask HN: Google's AI mode not available on Firefox?",
+          "url": "https://news.ycombinator.com/item?id=48393739",
+          "source": "Hacker News AI",
+          "summary": "I can't seem to get it to work on my firefox desktop on Linux. If this is indeed true, I wonder if there are anti-trust concerns here? Comments URL: https://news.ycombinator.com/item?id=48393739 Points: 1 # Comments: 1",
+          "published_at": "2026-06-04 04:15",
+          "tags": []
+        },
+        {
+          "title": "Will OSS that does not use AI disappear?",
+          "url": "https://ai-coding.info/reports/articles/20260603",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://ai-coding.info/reports/articles/20260603 Comments URL: https://news.ycombinator.com/item?id=48393710 Points: 1 # Comments: 0",
+          "published_at": "2026-06-04 04:11",
+          "tags": []
+        },
+        {
+          "title": "Show HN: X402-express. Pay-per-call HTTP 402 middleware for AI agents on Base L2",
+          "url": "https://github.com/Evozim/m2mcent-sdk",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/Evozim/m2mcent-sdk Comments URL: https://news.ycombinator.com/item?id=48393601 Points: 1 # Comments: 0",
+          "published_at": "2026-06-04 03:57",
+          "tags": []
+        },
+        {
+          "title": "Trump signs AI order asking companies to give government early access to models",
+          "url": "https://www.cnbc.com/2026/06/02/trump-executive-order-ai.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.cnbc.com/2026/06/02/trump-executive-order-ai.html Comments URL: https://news.ycombinator.com/item?id=48393575 Points: 3 # Comments: 1",
+          "published_at": "2026-06-04 03:54",
+          "tags": []
+        },
+        {
+          "title": "Sam Altman has a proposition for startup founders: AI tokens for equity",
+          "url": "https://www.businessinsider.com/sam-altman-openai-offer-tokens-for-startup-equity-y-combinator-2026-5",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.businessinsider.com/sam-altman-openai-offer-tokens-for-startup-equity-y-combinator-2026-5 Comments URL: https://news.ycombinator.com/item?id=48393473 Points: 3 # Comments: 1",
+          "published_at": "2026-06-04 03:42",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Suture – a reverse proxy that repairs truncated JSON in LLM streams",
+          "url": "https://github.com/tensorhq/suture-stream-repair",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/tensorhq/suture-stream-repair Comments URL: https://news.ycombinator.com/item?id=48393431 Points: 1 # Comments: 0",
+          "published_at": "2026-06-04 03:36",
+          "tags": []
+        },
+        {
+          "title": "Top AI CEOs Call for Law Protecting Against Biological Weapons",
+          "url": "https://www.wsj.com/politics/policy/top-ai-ceos-call-for-law-protecting-against-biological-weapons-88f2f99f",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wsj.com/politics/policy/top-ai-ceos-call-for-law-protecting-against-biological-weapons-88f2f99f Comments URL: https://news.ycombinator.com/item?id=48393156 Points: 2 # Comments: 0",
+          "published_at": "2026-06-04 03:00",
+          "tags": []
+        },
+        {
+          "title": "Show HN: AI Agent that resolves all your support issues",
+          "url": "https://news.ycombinator.com/item?id=48393046",
+          "source": "Hacker News AI",
+          "summary": "https://seaticket.ai/ Comments URL: https://news.ycombinator.com/item?id=48393046 Points: 1 # Comments: 0",
+          "published_at": "2026-06-04 02:45",
+          "tags": []
+        },
+        {
+          "title": "Large AI Models in Dental Healthcare",
+          "url": "https://arxiv.org/abs/2606.02914",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2606.02914 Comments URL: https://news.ycombinator.com/item?id=48392947 Points: 1 # Comments: 0",
+          "published_at": "2026-06-04 02:32",
+          "tags": []
+        },
+        {
+          "title": "Meta Is Reportedly Working on an AI Pendant and More Smart Glasses",
+          "url": "https://www.engadget.com/2184224/meta-developing-ai-pendant-more-smart-glass-models/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.engadget.com/2184224/meta-developing-ai-pendant-more-smart-glass-models/ Comments URL: https://news.ycombinator.com/item?id=48392911 Points: 1 # Comments: 0",
+          "published_at": "2026-06-04 02:26",
+          "tags": []
+        },
+        {
+          "title": "Show HN: AI Gauge, a desktop monitor for Claude/Codex/Copilot usage limits",
+          "url": "https://github.com/jpajak/ai-gauge",
+          "source": "Hacker News AI",
+          "summary": "Hi HN, new account but long-time reader. I built this for myself because I kept manually checking usage across Claude, Codex, and Copilot, and wanted to track the session and weekly usage all in one place.It's helping me better track and get the most out of my AI subscriptions. It's also a good testament to agentic coding making it easy to create useful tools that wouldn't have been worth the time before, or to build more complete utilities instead of bare-minimum solutions.Putting it out there ",
+          "published_at": "2026-06-04 02:18",
+          "tags": []
+        },
+        {
+          "title": "AI Conversations Are Not Yours. Yet",
+          "url": "https://medium.com/@vektormemory/your-ai-conversations-are-not-yours-yet-cd1b7925e9cf",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://medium.com/@vektormemory/your-ai-conversations-are-not-yours-yet-cd1b7925e9cf Comments URL: https://news.ycombinator.com/item?id=48392696 Points: 2 # Comments: 0",
+          "published_at": "2026-06-04 01:56",
+          "tags": []
+        },
+        {
+          "title": "Show HN: A rich, HTML-native document canvas for human <> AI collaboration",
+          "url": "https://app.productnow.ai/app/home",
+          "source": "Hacker News AI",
+          "summary": "We've spent the last several months iterating on a rich, HTML-native document canvas. We kept finding we wanted a shared space where we could work on a written artifact with our team while getting some AI assistance along the way.Lots of interesting and challenging problems when designing a document editor that allows many humans and agents to understand and edit simultaneously. Especially one that supports things like Mermaid diagrams and XYZ flow charts out of the box!We're officially GA, woul",
+          "published_at": "2026-06-04 01:55",
+          "tags": []
+        },
+        {
+          "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+          "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+          "source": "TechCrunch AI",
+          "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
+          "published_at": "2026-06-03 19:38",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "TC",
+            "Alphabet",
+            "capital expenditures",
+            "Google",
+            "IPOs"
+          ]
+        },
+        {
+          "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+          "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+          "source": "TechCrunch AI",
+          "summary": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
+          "published_at": "2026-06-03 19:07",
+          "tags": [
+            "AI",
+            "Dreambeans",
+            "Google"
+          ]
+        },
+        {
+          "title": "As AI gets better, it reveals an empty promise",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
+          "source": "The Verge AI",
+          "summary": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark knew that David's dog is named Frida and knew the first name of Jay's wife, even though neither of them explicitly [&#8230;]",
+          "published_at": "2026-06-03 13:45",
+          "tags": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Google must let publishers opt out of AI Search features, rules UK",
+          "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
+          "source": "The Verge AI",
+          "summary": "Online publishers are getting more control over whether their websites appear in Google's AI Search features, thanks to a UK regulatory ruling. The new conduct rule imposed by the Competition and Markets Authority (CMA) requires Google to let website owners keep their content out of features like AI Overviews and prevent it from being used [&#8230;]",
+          "published_at": "2026-06-03 04:45",
+          "tags": [
+            "AI",
+            "Google",
+            "News",
+            "Policy",
+            "Politics",
+            "Regulation",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Microsoft Build 2026: The 7 biggest announcements",
+          "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
+          "source": "The Verge AI",
+          "summary": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on personal assistant and updates across Microsoft's in-house AI models. If you didn't watch the event live, you can catch up on all the [&#8230;]",
+          "published_at": "2026-06-02 15:23",
+          "tags": [
+            "AI",
+            "Microsoft",
+            "Microsoft Build",
+            "News",
+            "Tech",
+            "Windows"
+          ]
+        },
+        {
+          "title": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
+          "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targeting critical infrastructure in power, water, healthcare, and communications where a cyberattack could affect 100 million people.",
+          "published_at": "2026-06-02 14:44",
+          "tags": [
+            "AI",
+            "Security",
+            "Anthropic",
+            "Claude",
+            "Mythos"
+          ]
+        },
+        {
+          "title": "ZeroDrift raises $10M to protect AI models from themselves",
+          "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+          "source": "TechCrunch AI",
+          "summary": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
+          "published_at": "2026-06-02 12:32",
+          "tags": [
+            "AI",
+            "Startups",
+            "compliance",
+            "Zerodrift"
+          ]
+        }
+      ]
     }
   ]
 }
