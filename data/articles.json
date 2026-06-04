@@ -1,5 +1,171 @@
 [
   {
+    "title": "The Jo Language: Secure Programming for the AI Era",
+    "url": "https://jo-lang.org/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://jo-lang.org/ Comments URL: https://news.ycombinator.com/item?id=48399905 Points: 1 # Comments: 0",
+    "published_at": "2026-06-04 15:14",
+    "tags": [],
+    "fetch_date": "2026-06-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Disrupted My YouTube Business. So I Got a Job [video]",
+    "url": "https://www.youtube.com/watch?v=AQVyHXZWILo",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=AQVyHXZWILo Comments URL: https://news.ycombinator.com/item?id=48399834 Points: 1 # Comments: 0",
+    "published_at": "2026-06-04 15:09",
+    "tags": [],
+    "fetch_date": "2026-06-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "What I've done with all the extra time gained from learning the Ian Knot",
+    "url": "https://blog.klungo.no/2025/12/31/two-years-of-the-ian-knot/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.klungo.no/2025/12/31/two-years-of-the-ian-knot/ Comments URL: https://news.ycombinator.com/item?id=48399623 Points: 1 # Comments: 0",
+    "published_at": "2026-06-04 14:54",
+    "tags": [],
+    "fetch_date": "2026-06-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Wiki Race Against AI",
+    "url": "https://www.wikiraceai.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wikiraceai.com Comments URL: https://news.ycombinator.com/item?id=48399599 Points: 1 # Comments: 1",
+    "published_at": "2026-06-04 14:53",
+    "tags": [],
+    "fetch_date": "2026-06-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI, Ashby Engineering, and the Future",
+    "url": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future Comments URL: https://news.ycombinator.com/item?id=48399528 Points: 2 # Comments: 0",
+    "published_at": "2026-06-04 14:48",
+    "tags": [],
+    "fetch_date": "2026-06-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Black-box API bug detection across 7 AI systems",
+    "url": "https://resources.kusho.ai/ai-agent-benchmark-api-bug-detection",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://resources.kusho.ai/ai-agent-benchmark-api-bug-detection Comments URL: https://news.ycombinator.com/item?id=48399429 Points: 8 # Comments: 4",
+    "published_at": "2026-06-04 14:42",
+    "tags": [],
+    "fetch_date": "2026-06-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Solving the Worlds Hardest Problems with AI",
+    "url": "https://worldproblemssolved.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://worldproblemssolved.com Comments URL: https://news.ycombinator.com/item?id=48399383 Points: 2 # Comments: 2",
+    "published_at": "2026-06-04 14:40",
+    "tags": [],
+    "fetch_date": "2026-06-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: AgentKitten: Swift package for provider-agnostic AI agents",
+    "url": "https://github.com/fbeeper/agentkitten",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/fbeeper/agentkitten Comments URL: https://news.ycombinator.com/item?id=48399345 Points: 6 # Comments: 1",
+    "published_at": "2026-06-04 14:37",
+    "tags": [],
+    "fetch_date": "2026-06-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Getting into Physical AI and Robotics",
+    "url": "https://news.ycombinator.com/item?id=48399271",
+    "source": "Hacker News AI",
+    "summary": "I started reading about Build AI when I come across their launch in Feb and couldn't stop noticing all these new companies talking about selling data for robots.Would appreciate any thoughts on how I can learn more, link: https://x.com/airwarmedd/status/2051270391692497253 Comments URL: https://news.ycombinator.com/item?id=48399271 Points: 1 # Comments: 0",
+    "published_at": "2026-06-04 14:32",
+    "tags": [],
+    "fetch_date": "2026-06-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI as a Context Compiler",
+    "url": "https://dominiek.substack.com/p/ai-as-a-context-compiler",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://dominiek.substack.com/p/ai-as-a-context-compiler Comments URL: https://news.ycombinator.com/item?id=48399229 Points: 2 # Comments: 0",
+    "published_at": "2026-06-04 14:30",
+    "tags": [],
+    "fetch_date": "2026-06-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Sangam Tamil literature search engine with AI explanations",
+    "url": "http://sangam.tamilnlp.com/mp/json/ai.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: http://sangam.tamilnlp.com/mp/json/ai.html Comments URL: https://news.ycombinator.com/item?id=48398995 Points: 1 # Comments: 0",
+    "published_at": "2026-06-04 14:14",
+    "tags": [],
+    "fetch_date": "2026-06-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "First clinical pregnancy following AI-based sperm detection and recovery",
+    "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01623-X/fulltext",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01623-X/fulltext Comments URL: https://news.ycombinator.com/item?id=48398984 Points: 2 # Comments: 0",
+    "published_at": "2026-06-04 14:14",
+    "tags": [],
+    "fetch_date": "2026-06-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Let us filter AI slop, you cowards",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok Comments URL: https://news.ycombinator.com/item?id=48398902 Points: 1 # Comments: 0",
+    "published_at": "2026-06-04 14:08",
+    "tags": [],
+    "fetch_date": "2026-06-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Less than 4% Australians trust AI companies",
+    "url": "https://www.abc.net.au/news/2026-06-04/artificial-intelligence-australians-trust-survey-pope-leo-ai/106745098",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.abc.net.au/news/2026-06-04/artificial-intelligence-australians-trust-survey-pope-leo-ai/106745098 Comments URL: https://news.ycombinator.com/item?id=48398508 Points: 3 # Comments: 0",
+    "published_at": "2026-06-04 13:40",
+    "tags": [],
+    "fetch_date": "2026-06-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Hello Inbox – Your AI Email Deliverability Expert, Available 24/7",
+    "url": "https://www.helloinbox.email/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.helloinbox.email/ Comments URL: https://news.ycombinator.com/item?id=48398490 Points: 2 # Comments: 0",
+    "published_at": "2026-06-04 13:38",
+    "tags": [],
+    "fetch_date": "2026-06-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Amazon develops a warehouse robot that workers can speak to",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+    "source": "The Verge AI",
+    "summary": "Amazon has announced a new version of its fully autonomous warehouse robot, Proteus, that will interact using language instead of code. The expanded capabilities come as part of a growing pivot toward automation as the e-commerce giant replaces its human workers with robots. Amazon says the AI-powered upgrade means its human employees can assign the [&#8230;]",
+    "published_at": "2026-06-04 05:31",
+    "tags": [
+      "AI",
+      "Amazon",
+      "News",
+      "Robot",
+      "Tech"
+    ],
+    "fetch_date": "2026-06-04",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Ask HN: Google's AI mode not available on Firefox?",
     "url": "https://news.ycombinator.com/item?id=48393739",
     "source": "Hacker News AI",
@@ -218,6 +384,23 @@
     "summary": "Article URL: https://globalnews.ca/news/11886958/meta-hack-ai-chatbot-accounts-hijacked/ Comments URL: https://news.ycombinator.com/item?id=48385891 Points: 2 # Comments: 1",
     "published_at": "2026-06-03 16:03",
     "tags": [],
+    "fetch_date": "2026-06-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Amazon will show AI product images when you search for some reason",
+    "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+    "source": "TechCrunch AI",
+    "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
+    "published_at": "2026-06-03 15:50",
+    "tags": [
+      "AI",
+      "Apps",
+      "Commerce",
+      "AI search",
+      "Amazon",
+      "retail"
+    ],
     "fetch_date": "2026-06-04",
     "fetch_label": "晚报"
   },
