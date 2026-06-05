@@ -1,5 +1,136 @@
 [
   {
+    "title": "AI Agents Enable Adaptive Computer Worms",
+    "url": "https://cleverhans.io/latest-research.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://cleverhans.io/latest-research.html Comments URL: https://news.ycombinator.com/item?id=48413296 Points: 1 # Comments: 0",
+    "published_at": "2026-06-05 14:48",
+    "tags": [],
+    "fetch_date": "2026-06-05",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: InferBench – Benchmark local LLM engines with one click",
+    "url": "https://github.com/JoniMartin27/inferbench",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/JoniMartin27/inferbench Comments URL: https://news.ycombinator.com/item?id=48413247 Points: 1 # Comments: 0",
+    "published_at": "2026-06-05 14:44",
+    "tags": [],
+    "fetch_date": "2026-06-05",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI is designing OpenAI's next model in a sign of 'super intelligence'",
+    "url": "https://www.cnbc.com/2026/06/05/softbank-masayoshi-son-openai-model-super-intelligence.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.cnbc.com/2026/06/05/softbank-masayoshi-son-openai-model-super-intelligence.html Comments URL: https://news.ycombinator.com/item?id=48412879 Points: 1 # Comments: 0",
+    "published_at": "2026-06-05 14:16",
+    "tags": [],
+    "fetch_date": "2026-06-05",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Crustafarianism: The religion AI agents built in 14 hours",
+    "url": "https://mibitacora.eu/57-crustafarianismo-religion-agentes/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://mibitacora.eu/57-crustafarianismo-religion-agentes/ Comments URL: https://news.ycombinator.com/item?id=48412751 Points: 2 # Comments: 1",
+    "published_at": "2026-06-05 14:05",
+    "tags": [],
+    "fetch_date": "2026-06-05",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The Next Frontier of Visual AI Is Code",
+    "url": "https://a16z.com/the-next-frontier-of-visual-ai-is-code/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://a16z.com/the-next-frontier-of-visual-ai-is-code/ Comments URL: https://news.ycombinator.com/item?id=48412615 Points: 1 # Comments: 0",
+    "published_at": "2026-06-05 13:54",
+    "tags": [],
+    "fetch_date": "2026-06-05",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Piqc – An open-source GPU waste scanner for LLM inference clusters",
+    "url": "https://github.com/paralleliq/piqc",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/paralleliq/piqc Comments URL: https://news.ycombinator.com/item?id=48412542 Points: 1 # Comments: 1",
+    "published_at": "2026-06-05 13:48",
+    "tags": [],
+    "fetch_date": "2026-06-05",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Why Linux creator Linus Torvalds gets angry hearing \"99% of code is AI\"",
+    "url": "https://thenewstack.io/torvalds-ai-programming-productivity/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://thenewstack.io/torvalds-ai-programming-productivity/ Comments URL: https://news.ycombinator.com/item?id=48412372 Points: 6 # Comments: 0",
+    "published_at": "2026-06-05 13:36",
+    "tags": [],
+    "fetch_date": "2026-06-05",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Jo – AI-native language to catch prompt injection at compile-time",
+    "url": "https://github.com/typescope/jo",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/typescope/jo Comments URL: https://news.ycombinator.com/item?id=48412229 Points: 6 # Comments: 3",
+    "published_at": "2026-06-05 13:25",
+    "tags": [],
+    "fetch_date": "2026-06-05",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ask HN: Why isn't AI image generation closely linked with graphics code gen?",
+    "url": "https://news.ycombinator.com/item?id=48412001",
+    "source": "Hacker News AI",
+    "summary": "For example, when making an iOS game, you might want to ask the AI look at a screenshot of your game and to generate images with improved graphics.You could then pick one of the AI images that you like and then ask the AI to write Swift code to generate scalable graphics like that for your iOS game.Why is AI image and code generation not currently optimized for this use case? Comments URL: https://news.ycombinator.com/item?id=48412001 Points: 1 # Comments: 1",
+    "published_at": "2026-06-05 13:10",
+    "tags": [],
+    "fetch_date": "2026-06-05",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+    "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+    "source": "TechCrunch AI",
+    "summary": "The Australian data center operator plans to set up 5GW of capacity in India.",
+    "published_at": "2026-06-05 13:03",
+    "tags": [
+      "AI",
+      "AirTrunk",
+      "data centers"
+    ],
+    "fetch_date": "2026-06-05",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "This AI startup says it can tell if a script will make a hit film",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
+    "source": "The Verge AI",
+    "summary": "When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got a chance to experiment with Quilty's product, though, they were left skeptical. Even with all the available data in the world, it predicted the [&#8230;]",
+    "published_at": "2026-06-05 09:57",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Film",
+      "TV Shows"
+    ],
+    "fetch_date": "2026-06-05",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Mira Murati steps back into the spotlight, carefully",
+    "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+    "source": "TechCrunch AI",
+    "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
+    "published_at": "2026-06-05 05:06",
+    "tags": [
+      "AI"
+    ],
+    "fetch_date": "2026-06-05",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
     "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
     "source": "TechCrunch AI",
