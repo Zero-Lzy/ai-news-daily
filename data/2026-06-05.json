@@ -1,0 +1,207 @@
+{
+  "date": "2026-06-05",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-06-05 12:05:48",
+      "count": 14,
+      "articles": [
+        {
+          "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+          "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
+          "published_at": "2026-06-04 22:43",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "IPO"
+          ]
+        },
+        {
+          "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+          "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+          "source": "TechCrunch AI",
+          "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+          "published_at": "2026-06-04 22:29",
+          "tags": [
+            "AI",
+            "Airbnb",
+            "brian chesky",
+            "In Brief",
+            "sam altman"
+          ]
+        },
+        {
+          "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+          "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+          "source": "TechCrunch AI",
+          "summary": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure your spot today.",
+          "published_at": "2026-06-04 21:30",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Security",
+            "Space",
+            "Startups",
+            "Venture",
+            "StrictlyVC"
+          ]
+        },
+        {
+          "title": "Meta rolls out a new AI creator assistant on Facebook",
+          "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
+          "source": "TechCrunch AI",
+          "summary": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\"",
+          "published_at": "2026-06-04 16:32",
+          "tags": [
+            "AI",
+            "Apps",
+            "Social",
+            "Creators",
+            "Meta"
+          ]
+        },
+        {
+          "title": "TSMC struggles to keep up with AI demand: &#8216;We can only support so much&#8217;",
+          "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
+          "source": "The Verge AI",
+          "summary": "Taiwan Semiconductor Manufacturing Co. - the world's biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory buildout in the US, according to reports from Reuters and Bloomberg. \"Customer demand is so high, and we can only support so much,\" TSMC CEO C.C. Wei said after a shareholder meeting on [&#8230;]",
+          "published_at": "2026-06-04 10:15",
+          "tags": [
+            "AI",
+            "Business",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Let us filter AI slop, you cowards",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
+          "source": "The Verge AI",
+          "summary": "It's almost impossible to avoid seeing AI-generated content online, but it doesn't have to be this way. YouTube, Instagram, TikTok, and more have ramped up content authentication efforts over the last year, with many now automatically applying labels to distinguish AI-generated images, videos, and music from those made by real, human creators. That's all very [&#8230;]",
+          "published_at": "2026-06-04 08:30",
+          "tags": [
+            "AI",
+            "Analysis",
+            "Creators",
+            "Report",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Amazon develops a warehouse robot that workers can speak to",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+          "source": "The Verge AI",
+          "summary": "Amazon has announced a new version of its fully autonomous warehouse robot, Proteus, that will interact using language instead of code. The expanded capabilities come as part of a growing pivot toward automation as the e-commerce giant replaces its human workers with robots. Amazon says the AI-powered upgrade means its human employees can assign the [&#8230;]",
+          "published_at": "2026-06-04 05:31",
+          "tags": [
+            "AI",
+            "Amazon",
+            "News",
+            "Robot",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+          "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+          "source": "TechCrunch AI",
+          "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+          "published_at": "2026-06-03 22:56",
+          "tags": [
+            "AI",
+            "Startups",
+            "Anthropic",
+            "google cloud",
+            "Lovable"
+          ]
+        },
+        {
+          "title": "Can't make sense of Dashlane's vault theft notification? You're not alone.",
+          "url": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/",
+          "source": "ArsTechnica AI",
+          "summary": "Security advisory leaves out key details. Dashlane maintains complete silence.",
+          "published_at": "2026-06-03 19:53",
+          "tags": [
+            "Biz & IT",
+            "Security",
+            "2fa",
+            "dashlane",
+            "mfa",
+            "multi factor authentication",
+            "password managers",
+            "two-factor authentication"
+          ]
+        },
+        {
+          "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+          "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+          "source": "TechCrunch AI",
+          "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
+          "published_at": "2026-06-03 19:38",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "TC",
+            "Alphabet",
+            "capital expenditures",
+            "Google",
+            "IPOs"
+          ]
+        },
+        {
+          "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+          "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+          "source": "TechCrunch AI",
+          "summary": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
+          "published_at": "2026-06-03 19:07",
+          "tags": [
+            "AI",
+            "Dreambeans",
+            "Google"
+          ]
+        },
+        {
+          "title": "As AI gets better, it reveals an empty promise",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
+          "source": "The Verge AI",
+          "summary": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark knew that David's dog is named Frida and knew the first name of Jay's wife, even though neither of them explicitly [&#8230;]",
+          "published_at": "2026-06-03 13:45",
+          "tags": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Meta’s AI agent for WhatsApp Business is now available globally",
+          "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+          "source": "TechCrunch AI",
+          "summary": "WhatsApp will charge businesses for using its AI agent based on token usage.",
+          "published_at": "2026-06-03 13:40",
+          "tags": [
+            "AI",
+            "Apps",
+            "Meta",
+            "WhatsApp",
+            "whatsapp business"
+          ]
+        },
+        {
+          "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+          "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+          "source": "TechCrunch AI",
+          "summary": "Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their behavior, troubleshoot failures, and provide the operational data needed to keep them running reliably.",
+          "published_at": "2026-06-03 13:02",
+          "tags": [
+            "AI",
+            "Startups",
+            "Advent",
+            "AI agents",
+            "Canada Pension Plan Investment Board",
+            "Coralogix"
+          ]
+        }
+      ]
+    }
+  ]
+}
