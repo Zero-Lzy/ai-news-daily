@@ -196,6 +196,186 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-06-06 21:45:39",
+      "count": 11,
+      "articles": [
+        {
+          "title": "Here comes new Siri again",
+          "url": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
+          "source": "The Verge AI",
+          "summary": "Apple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move. At WWDC on Monday, Apple appears to be getting ready to reintroduce us to the new Siri. Again. As a reminder, we met the new Siri in [&#8230;]",
+          "published_at": "2026-06-06 08:00",
+          "tags": [
+            "AI",
+            "Apple",
+            "Apple Event",
+            "Tech",
+            "WWDC 2026"
+          ]
+        },
+        {
+          "title": "Startup Battlefield 200 applications officially close in 3 days",
+          "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+          "source": "TechCrunch AI",
+          "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
+          "published_at": "2026-06-05 20:00",
+          "tags": [
+            "AI",
+            "Biotech & Health",
+            "Climate",
+            "Fintech",
+            "Fundraising",
+            "Media & Entertainment",
+            "Robotics",
+            "Startups",
+            "TC",
+            "Startup Battlefield",
+            "TechCrunch Disrupt 2026"
+          ]
+        },
+        {
+          "title": "Google will pay SpaceX $920M per month for compute",
+          "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+          "source": "TechCrunch AI",
+          "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
+          "published_at": "2026-06-05 18:57",
+          "tags": [
+            "AI",
+            "AI compute",
+            "Alphabet",
+            "Google",
+            "SpaceX"
+          ]
+        },
+        {
+          "title": "The most interesting startups right now want to get you off your phone",
+          "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+          "source": "TechCrunch AI",
+          "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup focused on bringing people together through in-person games and social experiences.&#160;Cyberdeck creators are going viral&#160;crafting whimsical DIY computers that&#160;literally encourage&#160;users to touch grass. Unlike the&#160;AI-free browser crowd, this&#160;doesn&#8217;t&#160;just&#160;feel",
+          "published_at": "2026-06-05 17:17",
+          "tags": [
+            "AI",
+            "Hardware",
+            "Startups",
+            "anthropic ipo",
+            "board",
+            "Brynn Putnam",
+            "climate tech vc",
+            "cyberdeck",
+            "Equity",
+            "impulse space",
+            "Roundup",
+            "slow tech",
+            "together tech"
+          ]
+        },
+        {
+          "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+          "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+          "source": "TechCrunch AI",
+          "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
+          "published_at": "2026-06-05 14:49",
+          "tags": [
+            "AI",
+            "ai tokens",
+            "linux foundation",
+            "tokenmaxxing"
+          ]
+        },
+        {
+          "title": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
+          "url": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
+          "source": "TechCrunch AI",
+          "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup focused on bringing people together through in-person games and social experiences.&#160;Cyberdeck creators are going viral&#160;crafting whimsical DIY computers that&#160;literally encourage&#160;users to touch grass. Unlike the&#160;AI-free browser crowd, this&#160;doesn&#8217;t&#160;just&#160;feel",
+          "published_at": "2026-06-05 14:00",
+          "tags": [
+            "AI",
+            "Hardware",
+            "Startups",
+            "anthropic ipo",
+            "board",
+            "Brynn Putnam",
+            "climate tech vc",
+            "cyberdeck",
+            "Equity",
+            "Equity podcast",
+            "hardware",
+            "impulse space",
+            "Roundup",
+            "slow tech",
+            "together tech"
+          ]
+        },
+        {
+          "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+          "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+          "source": "TechCrunch AI",
+          "summary": "The Australian data center operator plans to set up 5GW of capacity in India.",
+          "published_at": "2026-06-05 13:03",
+          "tags": [
+            "AI",
+            "AirTrunk",
+            "data centers"
+          ]
+        },
+        {
+          "title": "This is your laptop… on AI",
+          "url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+          "source": "The Verge AI",
+          "summary": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described a completely new way of using our laptops [&#8230;]",
+          "published_at": "2026-06-05 12:39",
+          "tags": [
+            "AI",
+            "Gadgets",
+            "Microsoft",
+            "Podcasts",
+            "Tech",
+            "Vergecast"
+          ]
+        },
+        {
+          "title": "This AI startup says it can tell if a script will make a hit film",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
+          "source": "The Verge AI",
+          "summary": "When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got a chance to experiment with Quilty's product, though, they were left skeptical. Even with all the available data in the world, it predicted the [&#8230;]",
+          "published_at": "2026-06-05 09:57",
+          "tags": [
+            "AI",
+            "Entertainment",
+            "Film",
+            "TV Shows"
+          ]
+        },
+        {
+          "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+          "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
+          "published_at": "2026-06-04 22:43",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "IPO"
+          ]
+        },
+        {
+          "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+          "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+          "source": "TechCrunch AI",
+          "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+          "published_at": "2026-06-04 22:29",
+          "tags": [
+            "AI",
+            "Airbnb",
+            "brian chesky",
+            "In Brief",
+            "sam altman"
+          ]
+        }
+      ]
     }
   ]
 }
