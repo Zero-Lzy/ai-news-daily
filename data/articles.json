@@ -1,5 +1,82 @@
 [
   {
+    "title": "Startup Battlefield 200 applications officially close in 3 days",
+    "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+    "source": "TechCrunch AI",
+    "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
+    "published_at": "2026-06-05 20:00",
+    "tags": [
+      "AI",
+      "Biotech & Health",
+      "Climate",
+      "Fintech",
+      "Fundraising",
+      "Media & Entertainment",
+      "Robotics",
+      "Startups",
+      "TC",
+      "Startup Battlefield",
+      "TechCrunch Disrupt 2026"
+    ],
+    "fetch_date": "2026-06-06",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Google will pay SpaceX $920M per month for compute",
+    "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+    "source": "TechCrunch AI",
+    "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
+    "published_at": "2026-06-05 18:57",
+    "tags": [
+      "AI",
+      "AI compute",
+      "Alphabet",
+      "Google",
+      "SpaceX"
+    ],
+    "fetch_date": "2026-06-06",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The most interesting startups right now want to get you off your phone",
+    "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+    "source": "TechCrunch AI",
+    "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup focused on bringing people together through in-person games and social experiences.&#160;Cyberdeck creators are going viral&#160;crafting whimsical DIY computers that&#160;literally encourage&#160;users to touch grass. Unlike the&#160;AI-free browser crowd, this&#160;doesn&#8217;t&#160;just&#160;feel",
+    "published_at": "2026-06-05 17:17",
+    "tags": [
+      "AI",
+      "Hardware",
+      "Startups",
+      "anthropic ipo",
+      "board",
+      "Brynn Putnam",
+      "climate tech vc",
+      "cyberdeck",
+      "Equity",
+      "impulse space",
+      "Roundup",
+      "slow tech",
+      "together tech"
+    ],
+    "fetch_date": "2026-06-06",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+    "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+    "source": "TechCrunch AI",
+    "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
+    "published_at": "2026-06-05 14:49",
+    "tags": [
+      "AI",
+      "ai tokens",
+      "linux foundation",
+      "tokenmaxxing"
+    ],
+    "fetch_date": "2026-06-06",
+    "fetch_label": "早报"
+  },
+  {
     "title": "AI Agents Enable Adaptive Computer Worms",
     "url": "https://cleverhans.io/latest-research.html",
     "source": "Hacker News AI",
@@ -38,6 +115,32 @@
     "tags": [],
     "fetch_date": "2026-06-05",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
+    "url": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
+    "source": "TechCrunch AI",
+    "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup focused on bringing people together through in-person games and social experiences.&#160;Cyberdeck creators are going viral&#160;crafting whimsical DIY computers that&#160;literally encourage&#160;users to touch grass. Unlike the&#160;AI-free browser crowd, this&#160;doesn&#8217;t&#160;just&#160;feel",
+    "published_at": "2026-06-05 14:00",
+    "tags": [
+      "AI",
+      "Hardware",
+      "Startups",
+      "anthropic ipo",
+      "board",
+      "Brynn Putnam",
+      "climate tech vc",
+      "cyberdeck",
+      "Equity",
+      "Equity podcast",
+      "hardware",
+      "impulse space",
+      "Roundup",
+      "slow tech",
+      "together tech"
+    ],
+    "fetch_date": "2026-06-06",
+    "fetch_label": "早报"
   },
   {
     "title": "The Next Frontier of Visual AI Is Code",
@@ -102,6 +205,23 @@
     ],
     "fetch_date": "2026-06-05",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "This is your laptop… on AI",
+    "url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+    "source": "The Verge AI",
+    "summary": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described a completely new way of using our laptops [&#8230;]",
+    "published_at": "2026-06-05 12:39",
+    "tags": [
+      "AI",
+      "Gadgets",
+      "Microsoft",
+      "Podcasts",
+      "Tech",
+      "Vergecast"
+    ],
+    "fetch_date": "2026-06-06",
+    "fetch_label": "早报"
   },
   {
     "title": "This AI startup says it can tell if a script will make a hit film",
