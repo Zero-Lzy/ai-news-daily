@@ -214,6 +214,173 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-06-07 21:54:46",
+      "count": 18,
+      "articles": [
+        {
+          "title": "AI Companies' Shared Destiny Recalls Dot-Com Bubble Memories",
+          "url": "https://www.bullbear.ninja/board/10",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bullbear.ninja/board/10 Comments URL: https://news.ycombinator.com/item?id=48434847 Points: 3 # Comments: 0",
+          "published_at": "2026-06-07 13:47",
+          "tags": []
+        },
+        {
+          "title": "Why Companies Are Replacing Traditional Interviews with AI Assessments",
+          "url": "https://pressearn.it.com/blog/2026/06/02/how-ai-is-changing-job-interviews-in-2026/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://pressearn.it.com/blog/2026/06/02/how-ai-is-changing-job-interviews-in-2026/ Comments URL: https://news.ycombinator.com/item?id=48434738 Points: 1 # Comments: 0",
+          "published_at": "2026-06-07 13:38",
+          "tags": []
+        },
+        {
+          "title": "AI and the Pitfalls of Innovation",
+          "url": "https://paulkrugman.substack.com/p/ai-and-the-pitfalls-of-innovation",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://paulkrugman.substack.com/p/ai-and-the-pitfalls-of-innovation Comments URL: https://news.ycombinator.com/item?id=48434298 Points: 2 # Comments: 1",
+          "published_at": "2026-06-07 12:46",
+          "tags": []
+        },
+        {
+          "title": "Government to buy AI chips to stop tech companies fleeing Britain",
+          "url": "https://www.telegraph.co.uk/business/2026/06/07/government-buy-ai-chips-stop-tech-companies-fleeing/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.telegraph.co.uk/business/2026/06/07/government-buy-ai-chips-stop-tech-companies-fleeing/ Comments URL: https://news.ycombinator.com/item?id=48434017 Points: 3 # Comments: 0",
+          "published_at": "2026-06-07 12:08",
+          "tags": []
+        },
+        {
+          "title": "Stack Overflow didn't just help AI learn to code",
+          "url": "https://zozo123.github.io/how-stackoverflow-taught-ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://zozo123.github.io/how-stackoverflow-taught-ai/ Comments URL: https://news.ycombinator.com/item?id=48433886 Points: 1 # Comments: 0",
+          "published_at": "2026-06-07 11:39",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Version Control for AI Agents",
+          "url": "https://cognatoai.com",
+          "source": "Hacker News AI",
+          "summary": "Git/GitHub did not evolve for agentic era, so we are building Comments URL: https://news.ycombinator.com/item?id=48433857 Points: 3 # Comments: 2",
+          "published_at": "2026-06-07 11:32",
+          "tags": []
+        },
+        {
+          "title": "AI needs shame, not taste",
+          "url": "https://www.jacquescorbytuech.com/writing/ai-needs-shame-not-taste",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.jacquescorbytuech.com/writing/ai-needs-shame-not-taste Comments URL: https://news.ycombinator.com/item?id=48433824 Points: 2 # Comments: 0",
+          "published_at": "2026-06-07 11:28",
+          "tags": []
+        },
+        {
+          "title": "ESMFold 2 has the highest throughput on Tenstorrent AI processors",
+          "url": "https://twitter.com/moritzthuening/status/2063382385845244281",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://twitter.com/moritzthuening/status/2063382385845244281 Comments URL: https://news.ycombinator.com/item?id=48433509 Points: 3 # Comments: 0",
+          "published_at": "2026-06-07 10:33",
+          "tags": []
+        },
+        {
+          "title": "The breakneck AI boom is fueling anti-tech extremism",
+          "url": "https://www.theguardian.com/technology/2026/jun/07/anti-ai-tech-extremism-violence",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theguardian.com/technology/2026/jun/07/anti-ai-tech-extremism-violence Comments URL: https://news.ycombinator.com/item?id=48433493 Points: 5 # Comments: 2",
+          "published_at": "2026-06-07 10:30",
+          "tags": []
+        },
+        {
+          "title": "Automated QA and Testing with AI",
+          "url": "https://antirez.com/news/168",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://antirez.com/news/168 Comments URL: https://news.ycombinator.com/item?id=48433351 Points: 8 # Comments: 3",
+          "published_at": "2026-06-07 09:57",
+          "tags": []
+        },
+        {
+          "title": "An AI Story Just Won the Commonwealth Short Story Prize",
+          "url": "https://tumbleweedwords.com/ai-literary-prize-flash-fiction.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://tumbleweedwords.com/ai-literary-prize-flash-fiction.html Comments URL: https://news.ycombinator.com/item?id=48433318 Points: 3 # Comments: 0",
+          "published_at": "2026-06-07 09:46",
+          "tags": []
+        },
+        {
+          "title": "Klarna CMO created an AI \"venting machine\" of himself",
+          "url": "https://www.businessinsider.com/klarna-cmo-built-ai-replica-himself-colleagues-vent-at-2026-5",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.businessinsider.com/klarna-cmo-built-ai-replica-himself-colleagues-vent-at-2026-5 Comments URL: https://news.ycombinator.com/item?id=48433292 Points: 2 # Comments: 0",
+          "published_at": "2026-06-07 09:41",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Best setup local LLM found for a 5090 (llama.cpp fork + turboquant)",
+          "url": "https://local-llm.utop.workers.dev/",
+          "source": "Hacker News AI",
+          "summary": "Hi folks, I found this setup on consummer hardware that seems to have great results on local hardware. - qwen 3.6 q6 - 450 K context using turboquant turbo3 mode llama.cpp fork - multimodal supportThis AI generated blog article is a kind of \"report\" of what and how I did and result exemples.I hope this can be usefull to some peopole.Note : I am not much intersted in having success with this article, I mainly want to share what I think is an interesting use of a 5090. I generated the blog page te",
+          "published_at": "2026-06-07 09:36",
+          "tags": []
+        },
+        {
+          "title": "AI Memory Fails Spectacularly: 95% Error Rate Unveiled",
+          "url": "https://www.machinebrief.com/news/ai-memory-fails-spectacularly-95percent-error-rate-unveiled-ewj0",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.machinebrief.com/news/ai-memory-fails-spectacularly-95percent-error-rate-unveiled-ewj0 Comments URL: https://news.ycombinator.com/item?id=48433243 Points: 3 # Comments: 1",
+          "published_at": "2026-06-07 09:29",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: Who here still codes without AI, and why?",
+          "url": "https://news.ycombinator.com/item?id=48432990",
+          "source": "Hacker News AI",
+          "summary": "As someone who loves coding (uses vim, and has done so for ~10 years),but also is amazed by AI coding tools and has embraced them recently (e.g. copilot then claude code then codex),I'm curious, who out there is still not using any of these tools? And if not, why?I feel it's become as common-place as autocomplete, or intellisense. Though I remember people used to hate those too.I guess AI is like the modern day intellisense + docs targeted for exactly what you're doing, always (maybe that + an i",
+          "published_at": "2026-06-07 08:37",
+          "tags": []
+        },
+        {
+          "title": "The Trump administration might take an equity stake in OpenAI",
+          "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+          "source": "TechCrunch AI",
+          "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+          "published_at": "2026-06-06 16:17",
+          "tags": [
+            "AI",
+            "Government & Policy",
+            "Donald Trump",
+            "OpenAI",
+            "sam altman"
+          ]
+        },
+        {
+          "title": "Meta made its own AI-generated clickbait news feed",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
+          "source": "The Verge AI",
+          "summary": "Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI. The standalone Meta AI app now has a \"For You\" section that populates a list of clickbait-style stories for you to read. But the topics, images, and text are all AI-generated - and as questionable [&#8230;]",
+          "published_at": "2026-06-06 10:00",
+          "tags": [
+            "AI",
+            "Meta",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Here comes new Siri again",
+          "url": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
+          "source": "The Verge AI",
+          "summary": "Apple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move. At WWDC on Monday, Apple appears to be getting ready to reintroduce us to the new Siri. Again. As a reminder, we met the new Siri in [&#8230;]",
+          "published_at": "2026-06-06 08:00",
+          "tags": [
+            "AI",
+            "Apple",
+            "Apple Event",
+            "Tech",
+            "WWDC 2026"
+          ]
+        }
+      ]
     }
   ]
 }
