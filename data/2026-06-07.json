@@ -1,0 +1,219 @@
+{
+  "date": "2026-06-07",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-06-07 12:15:47",
+      "count": 19,
+      "articles": [
+        {
+          "title": "Declank – Remove AI Watermarks from Images",
+          "url": "https://declank.skeptrune.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://declank.skeptrune.com/ Comments URL: https://news.ycombinator.com/item?id=48431623 Points: 1 # Comments: 0",
+          "published_at": "2026-06-07 03:56",
+          "tags": []
+        },
+        {
+          "title": "Substack CEO dismisses popular open letter about platform drift as 'AI slop'",
+          "url": "https://substack.com/@cb/note/c-271417569",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://substack.com/@cb/note/c-271417569 Comments URL: https://news.ycombinator.com/item?id=48431559 Points: 1 # Comments: 0",
+          "published_at": "2026-06-07 03:44",
+          "tags": []
+        },
+        {
+          "title": "How to tame AI's voracious appetite for energy",
+          "url": "https://knowablemagazine.org/content/article/technology/2026/lowering-energy-use-artificial-intelligence-datacenters",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://knowablemagazine.org/content/article/technology/2026/lowering-energy-use-artificial-intelligence-datacenters Comments URL: https://news.ycombinator.com/item?id=48431500 Points: 1 # Comments: 0",
+          "published_at": "2026-06-07 03:29",
+          "tags": []
+        },
+        {
+          "title": "Show HN: LLM for Dummies",
+          "url": "https://ronreiter.github.io/llm-for-dummies/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://ronreiter.github.io/llm-for-dummies/ Comments URL: https://news.ycombinator.com/item?id=48431261 Points: 1 # Comments: 0",
+          "published_at": "2026-06-07 02:42",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Ext-Infer – Native LLM Inference and Embeddings for PHP",
+          "url": "https://infer.displace.tech",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://infer.displace.tech Comments URL: https://news.ycombinator.com/item?id=48431237 Points: 1 # Comments: 0",
+          "published_at": "2026-06-07 02:39",
+          "tags": []
+        },
+        {
+          "title": "Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments",
+          "url": "https://arxiv.org/abs/2602.11964",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2602.11964 Comments URL: https://news.ycombinator.com/item?id=48430918 Points: 2 # Comments: 0",
+          "published_at": "2026-06-07 01:36",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: Where do you get the latest updates about AI?",
+          "url": "https://news.ycombinator.com/item?id=48430864",
+          "source": "Hacker News AI",
+          "summary": "Besides hacker news, of course. Comments URL: https://news.ycombinator.com/item?id=48430864 Points: 3 # Comments: 1",
+          "published_at": "2026-06-07 01:24",
+          "tags": []
+        },
+        {
+          "title": "When Can Amazon Block an Agentic AI Service?–Amazon vs. Perplexity",
+          "url": "https://blog.ericgoldman.org/archives/2026/06/when-can-amazon-block-an-agentic-ai-service-amazon-v-perplexity-guest-blog-post.htm",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blog.ericgoldman.org/archives/2026/06/when-can-amazon-block-an-agentic-ai-service-amazon-v-perplexity-guest-blog-post.htm Comments URL: https://news.ycombinator.com/item?id=48430822 Points: 3 # Comments: 0",
+          "published_at": "2026-06-07 01:17",
+          "tags": []
+        },
+        {
+          "title": "AI Criticism",
+          "url": "https://dennisforbes.ca/blog/microblog/2026/06/on_ai_criticism/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://dennisforbes.ca/blog/microblog/2026/06/on_ai_criticism/ Comments URL: https://news.ycombinator.com/item?id=48430722 Points: 3 # Comments: 0",
+          "published_at": "2026-06-07 00:57",
+          "tags": []
+        },
+        {
+          "title": "Is AI Anxiety Causing the Vibecession? An Investigation",
+          "url": "https://kevinonthemargin.com/is-ai-anxiety-causing-the-vibecession-an-investigation/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://kevinonthemargin.com/is-ai-anxiety-causing-the-vibecession-an-investigation/ Comments URL: https://news.ycombinator.com/item?id=48430602 Points: 3 # Comments: 0",
+          "published_at": "2026-06-07 00:32",
+          "tags": []
+        },
+        {
+          "title": "AI Can now control your desktop",
+          "url": "https://clawdcursor.com",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://clawdcursor.com Comments URL: https://news.ycombinator.com/item?id=48430028 Points: 3 # Comments: 0",
+          "published_at": "2026-06-06 23:14",
+          "tags": []
+        },
+        {
+          "title": "Experts and superforecasters update their AI timelines",
+          "url": "https://forecastingresearch.substack.com/p/leap-wave-8-ai-timelines",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://forecastingresearch.substack.com/p/leap-wave-8-ai-timelines Comments URL: https://news.ycombinator.com/item?id=48429707 Points: 2 # Comments: 0",
+          "published_at": "2026-06-06 22:35",
+          "tags": []
+        },
+        {
+          "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+          "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+          "source": "TechCrunch AI",
+          "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+          "published_at": "2026-06-06 20:32",
+          "tags": [
+            "AI",
+            "Security",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "The Trump administration might take an equity stake in OpenAI",
+          "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+          "source": "TechCrunch AI",
+          "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+          "published_at": "2026-06-06 16:17",
+          "tags": [
+            "AI",
+            "Government & Policy",
+            "Donald Trump",
+            "OpenAI",
+            "sam altman"
+          ]
+        },
+        {
+          "title": "Here comes new Siri again",
+          "url": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
+          "source": "The Verge AI",
+          "summary": "Apple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move. At WWDC on Monday, Apple appears to be getting ready to reintroduce us to the new Siri. Again. As a reminder, we met the new Siri in [&#8230;]",
+          "published_at": "2026-06-06 08:00",
+          "tags": [
+            "AI",
+            "Apple",
+            "Apple Event",
+            "Tech",
+            "WWDC 2026"
+          ]
+        },
+        {
+          "title": "Startup Battlefield 200 applications officially close in 3 days",
+          "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+          "source": "TechCrunch AI",
+          "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
+          "published_at": "2026-06-05 20:00",
+          "tags": [
+            "AI",
+            "Biotech & Health",
+            "Climate",
+            "Fintech",
+            "Fundraising",
+            "Media & Entertainment",
+            "Robotics",
+            "Startups",
+            "TC",
+            "Startup Battlefield",
+            "TechCrunch Disrupt 2026"
+          ]
+        },
+        {
+          "title": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
+          "url": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
+          "source": "TechCrunch AI",
+          "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup focused on bringing people together through in-person games and social experiences.&#160;Cyberdeck creators are going viral&#160;crafting whimsical DIY computers that&#160;literally encourage&#160;users to touch grass. Unlike the&#160;AI-free browser crowd, this&#160;doesn&#8217;t&#160;just&#160;feel",
+          "published_at": "2026-06-05 14:00",
+          "tags": [
+            "AI",
+            "Hardware",
+            "Startups",
+            "anthropic ipo",
+            "board",
+            "Brynn Putnam",
+            "climate tech vc",
+            "cyberdeck",
+            "Equity",
+            "Equity podcast",
+            "hardware",
+            "impulse space",
+            "Roundup",
+            "slow tech",
+            "together tech"
+          ]
+        },
+        {
+          "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+          "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+          "source": "TechCrunch AI",
+          "summary": "The Australian data center operator plans to set up 5GW of capacity in India.",
+          "published_at": "2026-06-05 13:03",
+          "tags": [
+            "AI",
+            "AirTrunk",
+            "data centers"
+          ]
+        },
+        {
+          "title": "This is your laptop… on AI",
+          "url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+          "source": "The Verge AI",
+          "summary": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described a completely new way of using our laptops [&#8230;]",
+          "published_at": "2026-06-05 12:39",
+          "tags": [
+            "AI",
+            "Gadgets",
+            "Microsoft",
+            "Podcasts",
+            "Tech",
+            "Vergecast"
+          ]
+        }
+      ]
+    }
+  ]
+}
