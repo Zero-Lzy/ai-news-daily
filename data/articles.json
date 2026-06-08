@@ -1,5 +1,159 @@
 [
   {
+    "title": "\"AI is someone else's GPU\"",
+    "url": "https://waterpigs.co.uk/notes/5cVMNm/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://waterpigs.co.uk/notes/5cVMNm/ Comments URL: https://news.ycombinator.com/item?id=48441286 Points: 1 # Comments: 0",
+    "published_at": "2026-06-08 04:19",
+    "tags": [],
+    "fetch_date": "2026-06-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Web Speed – A shared web-map registry for AI agents (MCP, open source)",
+    "url": "https://www.getwebspeed.io/",
+    "source": "Hacker News AI",
+    "summary": "Hey everyone, I've been working on a tool called Web Speed. It takes web pages full of HTML and parses them into an easily readable sitemap for an AI agent. By ensuring the AI doesn't have to analyze the full HTML from the page or screenshots of the page, it makes the agent a lot cheaper and faster. It's MCP-native, so any AI that supports MCP can run it and take control of your browser for you. There are both “normal” and post-auth versions live on GitHub. What I think is the coolest thing abou",
+    "published_at": "2026-06-08 04:16",
+    "tags": [],
+    "fetch_date": "2026-06-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "What we know about the plan to give Americans an equity stake in AI",
+    "url": "https://www.ft.com/content/8559a3f9-86de-4a1c-8a75-6623e83e6a00",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.ft.com/content/8559a3f9-86de-4a1c-8a75-6623e83e6a00 Comments URL: https://news.ycombinator.com/item?id=48441234 Points: 1 # Comments: 1",
+    "published_at": "2026-06-08 04:08",
+    "tags": [],
+    "fetch_date": "2026-06-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI for the Operator",
+    "url": "https://github.com/cerebrocybersolutions/cerebro-whitepaper",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/cerebrocybersolutions/cerebro-whitepaper Comments URL: https://news.ycombinator.com/item?id=48441178 Points: 1 # Comments: 0",
+    "published_at": "2026-06-08 03:57",
+    "tags": [],
+    "fetch_date": "2026-06-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The deadliest poison known to AI",
+    "url": "https://iocaine.madhouse-project.org/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://iocaine.madhouse-project.org/ Comments URL: https://news.ycombinator.com/item?id=48441139 Points: 1 # Comments: 0",
+    "published_at": "2026-06-08 03:49",
+    "tags": [],
+    "fetch_date": "2026-06-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "SDSU Wired Its Dorms with 1,300 AI Cameras Without Telling Students",
+    "url": "https://reclaimthenet.org/sdsu-adds-1300-ai-cameras-330-in-student-dorms",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://reclaimthenet.org/sdsu-adds-1300-ai-cameras-330-in-student-dorms Comments URL: https://news.ycombinator.com/item?id=48440994 Points: 8 # Comments: 1",
+    "published_at": "2026-06-08 03:24",
+    "tags": [],
+    "fetch_date": "2026-06-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Running an AI-native engineering org",
+    "url": "https://claude.com/blog/running-an-ai-native-engineering-org",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://claude.com/blog/running-an-ai-native-engineering-org Comments URL: https://news.ycombinator.com/item?id=48440840 Points: 1 # Comments: 0",
+    "published_at": "2026-06-08 02:54",
+    "tags": [],
+    "fetch_date": "2026-06-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The coming rise of anti-AI populism",
+    "url": "https://www.ft.com/content/b4429ea0-4a0a-4a28-96f5-debf4f3eb339",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.ft.com/content/b4429ea0-4a0a-4a28-96f5-debf4f3eb339 Comments URL: https://news.ycombinator.com/item?id=48440654 Points: 2 # Comments: 1",
+    "published_at": "2026-06-08 02:13",
+    "tags": [],
+    "fetch_date": "2026-06-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+    "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision Comments URL: https://news.ycombinator.com/item?id=48440448 Points: 143 # Comments: 37",
+    "published_at": "2026-06-08 01:39",
+    "tags": [],
+    "fetch_date": "2026-06-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Code Stitcher",
+    "url": "https://github.com/ue-patcher/code_stitcher/releases",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/ue-patcher/code_stitcher/releases Comments URL: https://news.ycombinator.com/item?id=48439911 Points: 1 # Comments: 0",
+    "published_at": "2026-06-08 00:00",
+    "tags": [],
+    "fetch_date": "2026-06-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "I built an AI agent that monitors job boards daily and emails you scored matches",
+    "url": "https://www.matchmind.site",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.matchmind.site Comments URL: https://news.ycombinator.com/item?id=48439900 Points: 1 # Comments: 0",
+    "published_at": "2026-06-07 23:58",
+    "tags": [],
+    "fetch_date": "2026-06-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: I built free VoiceToText app with local LLM polish to save 60 min/day",
+    "url": "https://vox.rizenhq.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://vox.rizenhq.com/ Comments URL: https://news.ycombinator.com/item?id=48439779 Points: 1 # Comments: 0",
+    "published_at": "2026-06-07 23:38",
+    "tags": [],
+    "fetch_date": "2026-06-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "TaskbarQuota – Real-time AI quota tracker in the Windows taskbar",
+    "url": "https://github.com/zioder/TaskbarQuota",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/zioder/TaskbarQuota Comments URL: https://news.ycombinator.com/item?id=48439651 Points: 1 # Comments: 0",
+    "published_at": "2026-06-07 23:19",
+    "tags": [],
+    "fetch_date": "2026-06-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "SpaceX IPO deck says \"Deploy orbital AI compute at scale\"",
+    "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026040610/spacexfwp.htm",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.sec.gov/Archives/edgar/data/1181412/000162828026040610/spacexfwp.htm Comments URL: https://news.ycombinator.com/item?id=48439442 Points: 2 # Comments: 2",
+    "published_at": "2026-06-07 22:51",
+    "tags": [],
+    "fetch_date": "2026-06-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI is still working on that ‘super app’",
+    "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+    "source": "TechCrunch AI",
+    "summary": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
+    "published_at": "2026-06-07 16:23",
+    "tags": [
+      "AI",
+      "ChatGPT",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-06-08",
+    "fetch_label": "早报"
+  },
+  {
     "title": "AI Companies' Shared Destiny Recalls Dot-Com Bubble Memories",
     "url": "https://www.bullbear.ninja/board/10",
     "source": "Hacker News AI",
@@ -150,6 +304,20 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "AI ‘content creators’ are getting harder to spot",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators",
+    "source": "The Verge AI",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI confusion, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started At first, AI influencers were relatively easy to identify - and to [&#8230;]",
+    "published_at": "2026-06-07 08:00",
+    "tags": [
+      "AI",
+      "Social Media",
+      "Tech"
+    ],
+    "fetch_date": "2026-06-08",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Declank – Remove AI Watermarks from Images",
     "url": "https://declank.skeptrune.com/",
     "source": "Hacker News AI",
@@ -271,6 +439,21 @@
       "OpenAI"
     ],
     "fetch_date": "2026-06-07",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+    "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+    "source": "TechCrunch AI",
+    "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+    "published_at": "2026-06-06 17:42",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "Donald Trump",
+      "Sriram Krishnan"
+    ],
+    "fetch_date": "2026-06-08",
     "fetch_label": "早报"
   },
   {
