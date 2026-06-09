@@ -243,6 +243,231 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-06-09 22:53:35",
+      "count": 22,
+      "articles": [
+        {
+          "title": "AI cracked an Erdős math problem. Now experts want guardrails",
+          "url": "https://www.sciencenews.org/article/ai-guardrails-erdos-math-problem",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.sciencenews.org/article/ai-guardrails-erdos-math-problem Comments URL: https://news.ycombinator.com/item?id=48461929 Points: 1 # Comments: 0",
+          "published_at": "2026-06-09 14:51",
+          "tags": []
+        },
+        {
+          "title": "The Nerdy Escorts Cashing in on Silicon Valley's AI Boom",
+          "url": "https://www.forbes.com/sites/annatong/2026/06/07/the-nerdy-escorts-cashing-in-on-silicon-valleys-ai-boom/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.forbes.com/sites/annatong/2026/06/07/the-nerdy-escorts-cashing-in-on-silicon-valleys-ai-boom/ Comments URL: https://news.ycombinator.com/item?id=48461884 Points: 1 # Comments: 0",
+          "published_at": "2026-06-09 14:48",
+          "tags": []
+        },
+        {
+          "title": "Apple says its AI is still private, even when it's running on Google's servers",
+          "url": "https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/ Comments URL: https://news.ycombinator.com/item?id=48461720 Points: 2 # Comments: 2",
+          "published_at": "2026-06-09 14:35",
+          "tags": []
+        },
+        {
+          "title": "The YC AI Stack",
+          "url": "https://www.ycombinator.com/blog/the-yc-ai-student-starter-pack",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.ycombinator.com/blog/the-yc-ai-student-starter-pack Comments URL: https://news.ycombinator.com/item?id=48461684 Points: 1 # Comments: 0",
+          "published_at": "2026-06-09 14:33",
+          "tags": []
+        },
+        {
+          "title": "A system programmer's guide to LLM inference",
+          "url": "https://blog.xiangpeng.systems/posts/how-to-llm-inference/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blog.xiangpeng.systems/posts/how-to-llm-inference/ Comments URL: https://news.ycombinator.com/item?id=48461660 Points: 1 # Comments: 0",
+          "published_at": "2026-06-09 14:31",
+          "tags": []
+        },
+        {
+          "title": "EU Says Decision Not to Launch Siri AI in Europe Is Apple's Alone",
+          "url": "https://www.macrumors.com/2026/06/09/eu-says-decision-not-to-launch-siri-ai-in-europe-is-apples/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.macrumors.com/2026/06/09/eu-says-decision-not-to-launch-siri-ai-in-europe-is-apples/ Comments URL: https://news.ycombinator.com/item?id=48461466 Points: 3 # Comments: 0",
+          "published_at": "2026-06-09 14:16",
+          "tags": []
+        },
+        {
+          "title": "AI takes people at their word",
+          "url": "https://futuresearch.ai/ai-takes-people-at-their-word/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://futuresearch.ai/ai-takes-people-at-their-word/ Comments URL: https://news.ycombinator.com/item?id=48461396 Points: 4 # Comments: 1",
+          "published_at": "2026-06-09 14:11",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Ocdify – Offline AI that organizes your Mac files, 100% on-device",
+          "url": "https://ocdify.vyanlabs.in",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://ocdify.vyanlabs.in Comments URL: https://news.ycombinator.com/item?id=48461393 Points: 2 # Comments: 0",
+          "published_at": "2026-06-09 14:11",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Sandbox AI-app lifecycle, from build to run",
+          "url": "https://capakit.com/",
+          "source": "Hacker News AI",
+          "summary": "Hi HN,This is a project I've been working on since the beginning of 2025 full time, without funding.Coding agents have fundamentally changed the way we write software. When you let an agent write code, pull dependencies, and run scripts, you are delegating trust while still keeping the responsibility. You shouldn't have to choose between moving fast with agents and maintaining basic control over your host machine.Normally, we just inspect the final result, treating the app like a black box. Most",
+          "published_at": "2026-06-09 14:02",
+          "tags": []
+        },
+        {
+          "title": "Bonsai: Human->LLM->Web with LLM interface using Gemma4 12B locally on Windows",
+          "url": "https://drive.google.com/drive/folders/1QsdOvsBKIavXDhwikouzQMOc8H_94bQd",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://drive.google.com/drive/folders/1QsdOvsBKIavXDhwikouzQMOc8H_94bQd Comments URL: https://news.ycombinator.com/item?id=48461245 Points: 2 # Comments: 1",
+          "published_at": "2026-06-09 13:58",
+          "tags": []
+        },
+        {
+          "title": "Accelerating Feed-Forward Networks for Disaggregated AI Inference",
+          "url": "https://www.d-matrix.ai/how-accelerating-feed-forward-networks-in-disaggregated-inference-pipelines-power-next-generation-ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.d-matrix.ai/how-accelerating-feed-forward-networks-in-disaggregated-inference-pipelines-power-next-generation-ai/ Comments URL: https://news.ycombinator.com/item?id=48461007 Points: 1 # Comments: 0",
+          "published_at": "2026-06-09 13:39",
+          "tags": []
+        },
+        {
+          "title": "OpenLoomi: SOTA Holistic Context Graph for AI Agents",
+          "url": "https://github.com/melandlabs/openloomi",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/melandlabs/openloomi Comments URL: https://news.ycombinator.com/item?id=48460969 Points: 1 # Comments: 0",
+          "published_at": "2026-06-09 13:36",
+          "tags": []
+        },
+        {
+          "title": "AI Has a Measurement Problem: From tokenmaxxing to attribution",
+          "url": "https://luisgardea.substack.com/p/ai-has-a-measurement-problem",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://luisgardea.substack.com/p/ai-has-a-measurement-problem Comments URL: https://news.ycombinator.com/item?id=48460851 Points: 1 # Comments: 0",
+          "published_at": "2026-06-09 13:25",
+          "tags": []
+        },
+        {
+          "title": "AI Can Help Track the Shrinking Glaciers",
+          "url": "https://spectrum.ieee.org/tracking-glacier-melting-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://spectrum.ieee.org/tracking-glacier-melting-ai Comments URL: https://news.ycombinator.com/item?id=48460778 Points: 2 # Comments: 0",
+          "published_at": "2026-06-09 13:19",
+          "tags": []
+        },
+        {
+          "title": "Show HN: JazzBench, an LLM reasoning benchmark using jazz improvisation",
+          "url": "https://flatnine.co/blog/i-built-my-own-eval",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://flatnine.co/blog/i-built-my-own-eval Comments URL: https://news.ycombinator.com/item?id=48460776 Points: 2 # Comments: 0",
+          "published_at": "2026-06-09 13:19",
+          "tags": []
+        },
+        {
+          "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
+          "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+          "source": "TechCrunch AI",
+          "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
+          "published_at": "2026-06-09 01:56",
+          "tags": [
+            "AI",
+            "Apple",
+            "iPhone",
+            "siri ai",
+            "WWDC 2026"
+          ]
+        },
+        {
+          "title": "OpenAI files confidentially for IPO, following Anthropic",
+          "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+          "source": "TechCrunch AI",
+          "summary": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
+          "published_at": "2026-06-08 21:29",
+          "tags": [
+            "AI",
+            "IPO",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Apple plays catch-up at WWDC",
+          "url": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+          "source": "TechCrunch AI",
+          "summary": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
+          "published_at": "2026-06-08 21:15",
+          "tags": [
+            "AI",
+            "Apps",
+            "TC",
+            "Apple",
+            "wwdc",
+            "WWDC 2026"
+          ]
+        },
+        {
+          "title": "Apple bets cheaper AI will woo small developers",
+          "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+          "source": "TechCrunch AI",
+          "summary": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
+          "published_at": "2026-06-08 20:53",
+          "tags": [
+            "AI",
+            "Apps",
+            "Apple",
+            "developers",
+            "wwdc",
+            "WWDC 2026"
+          ]
+        },
+        {
+          "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+          "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+          "source": "TechCrunch AI",
+          "summary": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
+          "published_at": "2026-06-08 19:41",
+          "tags": [
+            "AI",
+            "Apple",
+            "siri",
+            "wwdc"
+          ]
+        },
+        {
+          "title": "Amazon is launching AI-generated custom merch",
+          "url": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
+          "source": "The Verge AI",
+          "summary": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies. Shoppers can use text prompts to generate images that are then printed onto blanks for sale on Amazon. They can then share the link to the design so other people can buy the [&#8230;]",
+          "published_at": "2026-06-08 13:52",
+          "tags": [
+            "AI",
+            "Amazon",
+            "Amazon Alexa",
+            "News",
+            "Online Shopping",
+            "Tech"
+          ]
+        },
+        {
+          "title": "NotebookLM&#8217;s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
+          "url": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
+          "source": "The Verge AI",
+          "summary": "Google is rolling out \"across the board\" updates to NotebookLM. The AI-powered note-taking app now uses Google's upgraded Gemini 3.5 model, which will allow it to respond with \"more accurate and reliable information,\" according to a blog post on Monday. Launched in 2023, NotebookLM allows you to interact with your notes and sources using AI, [&#8230;]",
+          "published_at": "2026-06-08 12:00",
+          "tags": [
+            "AI",
+            "Apps",
+            "Google",
+            "News",
+            "Tech"
+          ]
+        }
+      ]
     }
   ]
 }
