@@ -1,0 +1,248 @@
+{
+  "date": "2026-06-09",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-06-09 11:51:27",
+      "count": 22,
+      "articles": [
+        {
+          "title": "Ask HN: I see AI valuation coming down as soon as next year. What do you think?",
+          "url": "https://news.ycombinator.com/item?id=48455882",
+          "source": "Hacker News AI",
+          "summary": "AI companies started with very cheap subscriptions and it's been hardly 1 year and costs has increased 10-50x in a lot of cases. A lot of companies are still using Coding agents as they don't want to miss out on AI.I see AI companies valuation from trillion dollars to low hundred billion maybe by next year. Reason I think is, corporates are spending upto $500 per month per employee and local AI models are becoming good. So companies can just spend 1000 USD more on beefy 128GB machines and save i",
+          "published_at": "2026-06-09 03:15",
+          "tags": []
+        },
+        {
+          "title": "Crowdsourced AI and= Knostic",
+          "url": "https://blog.virustotal.com/2026/06/crowdsourced-ai-knostic.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blog.virustotal.com/2026/06/crowdsourced-ai-knostic.html Comments URL: https://news.ycombinator.com/item?id=48455863 Points: 1 # Comments: 0",
+          "published_at": "2026-06-09 03:12",
+          "tags": []
+        },
+        {
+          "title": "Community LLM reference – VRAM tables, GPU tier filter, tool-call ratings",
+          "url": "https://bmt-llm-reference.vercel.app",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://bmt-llm-reference.vercel.app Comments URL: https://news.ycombinator.com/item?id=48455815 Points: 1 # Comments: 0",
+          "published_at": "2026-06-09 03:07",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Built software to orchestrate AI and human loops",
+          "url": "https://github.com/sparckix/cognitive-firm",
+          "source": "Hacker News AI",
+          "summary": "Let me know what you think! Comments URL: https://news.ycombinator.com/item?id=48455712 Points: 1 # Comments: 0",
+          "published_at": "2026-06-09 02:55",
+          "tags": []
+        },
+        {
+          "title": "Configuring Agentic AI Coding Tools: An Exploratory Study",
+          "url": "https://arxiv.org/abs/2602.14690",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2602.14690 Comments URL: https://news.ycombinator.com/item?id=48455519 Points: 1 # Comments: 0",
+          "published_at": "2026-06-09 02:32",
+          "tags": []
+        },
+        {
+          "title": "Show HN: AI agent for all your support issues",
+          "url": "https://github.com/seaticket-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/seaticket-ai Comments URL: https://news.ycombinator.com/item?id=48455305 Points: 1 # Comments: 0",
+          "published_at": "2026-06-09 02:05",
+          "tags": []
+        },
+        {
+          "title": "AI-noleak – Local secret proxy for AI CLIs",
+          "url": "https://github.com/ahmedxuhri/ai-noleak",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/ahmedxuhri/ai-noleak Comments URL: https://news.ycombinator.com/item?id=48455280 Points: 1 # Comments: 0",
+          "published_at": "2026-06-09 02:02",
+          "tags": []
+        },
+        {
+          "title": "New AI espionage powers trigger Putin camera scare",
+          "url": "https://www.ft.com/content/6f4d806c-eb22-4c32-8352-b82692d30e9f",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.ft.com/content/6f4d806c-eb22-4c32-8352-b82692d30e9f Comments URL: https://news.ycombinator.com/item?id=48455192 Points: 1 # Comments: 0",
+          "published_at": "2026-06-09 01:52",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Web tools an AI agent pays for per call in USDC, no API key (x402+MCP)",
+          "url": "https://superhighway.walls.sh",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://superhighway.walls.sh Comments URL: https://news.ycombinator.com/item?id=48454470 Points: 2 # Comments: 0",
+          "published_at": "2026-06-09 00:30",
+          "tags": []
+        },
+        {
+          "title": "AI, Argentina and the Antichrist: Thiel's Vision Blooms",
+          "url": "https://www.thenerdreich.com/ai-argentina-and-the-antichrist-thiels-vision-blooms/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.thenerdreich.com/ai-argentina-and-the-antichrist-thiels-vision-blooms/ Comments URL: https://news.ycombinator.com/item?id=48454461 Points: 2 # Comments: 0",
+          "published_at": "2026-06-09 00:28",
+          "tags": []
+        },
+        {
+          "title": "Let us filter AI slop, you cowards",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok Comments URL: https://news.ycombinator.com/item?id=48454205 Points: 7 # Comments: 0",
+          "published_at": "2026-06-09 00:01",
+          "tags": []
+        },
+        {
+          "title": "If HN policy disallows AI comments, why is linking to AI generated content ok?",
+          "url": "https://news.ycombinator.com/item?id=48454138",
+          "source": "Hacker News AI",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=48454138 Points: 8 # Comments: 8",
+          "published_at": "2026-06-08 23:52",
+          "tags": []
+        },
+        {
+          "title": "AI Is Upending One of Finance's Cushiest Jobs",
+          "url": "https://www.bloomberg.com/news/features/2026-06-05/ai-is-upending-traditional-financial-advisor-jobs",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bloomberg.com/news/features/2026-06-05/ai-is-upending-traditional-financial-advisor-jobs Comments URL: https://news.ycombinator.com/item?id=48453850 Points: 4 # Comments: 2",
+          "published_at": "2026-06-08 23:23",
+          "tags": []
+        },
+        {
+          "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+          "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+          "source": "TechCrunch AI",
+          "summary": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
+          "published_at": "2026-06-08 22:39",
+          "tags": [
+            "AI",
+            "Apps",
+            "Gadgets",
+            "TC",
+            "apple intellignce",
+            "siri",
+            "wwdc",
+            "WWDC 2026"
+          ]
+        },
+        {
+          "title": "Apple plays catch-up at WWDC",
+          "url": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+          "source": "TechCrunch AI",
+          "summary": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
+          "published_at": "2026-06-08 21:15",
+          "tags": [
+            "AI",
+            "Apps",
+            "TC",
+            "Apple",
+            "wwdc",
+            "WWDC 2026"
+          ]
+        },
+        {
+          "title": "Apple bets cheaper AI will woo small developers",
+          "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+          "source": "TechCrunch AI",
+          "summary": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
+          "published_at": "2026-06-08 20:53",
+          "tags": [
+            "AI",
+            "Apps",
+            "Apple",
+            "developers",
+            "wwdc",
+            "WWDC 2026"
+          ]
+        },
+        {
+          "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+          "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+          "source": "TechCrunch AI",
+          "summary": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
+          "published_at": "2026-06-08 19:41",
+          "tags": [
+            "AI",
+            "Apple",
+            "siri",
+            "wwdc"
+          ]
+        },
+        {
+          "title": "Apple’s Image Playground doesn’t suck anymore",
+          "url": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
+          "source": "TechCrunch AI",
+          "summary": "Apple's AI image generator is getting a makeover that could make it more competitive.",
+          "published_at": "2026-06-08 18:38",
+          "tags": [
+            "AI",
+            "Apps",
+            "Apple",
+            "image playground",
+            "wwdc",
+            "WWDC 2026"
+          ]
+        },
+        {
+          "title": "Apple is using AI to fix Safari’s extension problem",
+          "url": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
+          "source": "The Verge AI",
+          "summary": "Apple is trying to solve one of Safari's biggest weaknesses with AI. Safari has long lacked the robust library of extensions that its rivals have, mainly due to the stringent development requirements from Apple. But now, Apple is inviting users to essentially vibe-code their own extensions. In a demo shared by Apple, the company showed [&#8230;]",
+          "published_at": "2026-06-08 18:14",
+          "tags": [
+            "AI",
+            "Apple",
+            "News",
+            "Tech",
+            "Web",
+            "WWDC 2026"
+          ]
+        },
+        {
+          "title": "Amazon is launching AI-generated custom merch",
+          "url": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
+          "source": "The Verge AI",
+          "summary": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies. Shoppers can use text prompts to generate images that are then printed onto blanks for sale on Amazon. They can then share the link to the design so other people can buy the [&#8230;]",
+          "published_at": "2026-06-08 13:52",
+          "tags": [
+            "AI",
+            "Amazon",
+            "Amazon Alexa",
+            "News",
+            "Online Shopping",
+            "Tech"
+          ]
+        },
+        {
+          "title": "NotebookLM&#8217;s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
+          "url": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
+          "source": "The Verge AI",
+          "summary": "Google is rolling out \"across the board\" updates to NotebookLM. The AI-powered note-taking app now uses Google's upgraded Gemini 3.5 model, which will allow it to respond with \"more accurate and reliable information,\" according to a blog post on Monday. Launched in 2023, NotebookLM allows you to interact with your notes and sources using AI, [&#8230;]",
+          "published_at": "2026-06-08 12:00",
+          "tags": [
+            "AI",
+            "Apps",
+            "Google",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Notion restores access to Anthropic after service disruption",
+          "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+          "source": "TechCrunch AI",
+          "summary": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
+          "published_at": "2026-06-07 17:56",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "In Brief",
+            "Notion"
+          ]
+        }
+      ]
+    }
+  ]
+}
