@@ -1,5 +1,183 @@
 [
   {
+    "title": "Siri AI Is a Malware Vector",
+    "url": "https://loufranco.com/blog/siri-ai-is-a-malware-vector",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://loufranco.com/blog/siri-ai-is-a-malware-vector Comments URL: https://news.ycombinator.com/item?id=48478009 Points: 1 # Comments: 0",
+    "published_at": "2026-06-10 15:38",
+    "tags": [],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Inkfox – One workspace for AI image gen, editing, and photo-to-video",
+    "url": "https://inkfox.app",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://inkfox.app Comments URL: https://news.ycombinator.com/item?id=48477759 Points: 1 # Comments: 0",
+    "published_at": "2026-06-10 15:24",
+    "tags": [],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Writers Against AI",
+    "url": "https://www.writersagainstai.net/essay",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.writersagainstai.net/essay Comments URL: https://news.ycombinator.com/item?id=48477749 Points: 1 # Comments: 0",
+    "published_at": "2026-06-10 15:24",
+    "tags": [],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Papermill Press – An AI-friendly markup language for PDF generation",
+    "url": "https://news.ycombinator.com/item?id=48477708",
+    "source": "Hacker News AI",
+    "summary": "If you’ve generated PDFs from HTML, you’ll know the pain: headless Chrome in Docker, CSS hacks, content that flows over pages or table boundaries and other quality issues.The fundamental problem is that HTML was designed for screens, not print.We built Press, a markup-based document language where pages, content flows, and assets are first-class concepts. Content can flow across frames, columns, and pages without manual pagination. Pages are created dynamically based on the available content.Pre",
+    "published_at": "2026-06-10 15:21",
+    "tags": [],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "HoneyAI – AI-powered honeypot replacing Cowrie/OpenCanary/Galah with one process",
+    "url": "https://github.com/martidu4/honey-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/martidu4/honey-ai Comments URL: https://news.ycombinator.com/item?id=48477620 Points: 1 # Comments: 0",
+    "published_at": "2026-06-10 15:15",
+    "tags": [],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "LLM – Jagged Intelligence",
+    "url": "https://yalereview.org/article/melanie-mitchell-jagged-intelligence",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://yalereview.org/article/melanie-mitchell-jagged-intelligence Comments URL: https://news.ycombinator.com/item?id=48477459 Points: 1 # Comments: 0",
+    "published_at": "2026-06-10 15:04",
+    "tags": [],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Apache Burr: Build reliable AI agents and applications",
+    "url": "https://burr.apache.org/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://burr.apache.org/ Comments URL: https://news.ycombinator.com/item?id=48477400 Points: 15 # Comments: 1",
+    "published_at": "2026-06-10 15:01",
+    "tags": [],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: AuthAI, an open-source relay for user-authorized AI sessions",
+    "url": "https://github.com/authai-io/authai",
+    "source": "Hacker News AI",
+    "summary": "Hello HN,My name is Riccardo and I created AuthAI for indie hackers.The idea is quite simple: let the end users connect their chatgpt/grok/copilot account and route the AI requests through their AI subscriptions.This enable a lot of new cool ideas where the business model/unit economics don't always make sense.The flow is straightforward:They click on \"login with AI\", choose their provider, and authorise the device on the provider's website.Tokens get encrypted using a per-user AES-256-GCM encry",
+    "published_at": "2026-06-10 14:56",
+    "tags": [],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Skimming an AI answer cost me 100 passwords",
+    "url": "https://alwaysdraft.com/skimming-ai-answer-cost-100-passwords/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://alwaysdraft.com/skimming-ai-answer-cost-100-passwords/ Comments URL: https://news.ycombinator.com/item?id=48477307 Points: 2 # Comments: 1",
+    "published_at": "2026-06-10 14:55",
+    "tags": [],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Economists Weigh in on the Future of Work and AI",
+    "url": "https://www.wsj.com/tech/ai/economists-weigh-in-on-the-future-of-work-and-ai-f59311e9",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/economists-weigh-in-on-the-future-of-work-and-ai-f59311e9 Comments URL: https://news.ycombinator.com/item?id=48477134 Points: 2 # Comments: 0",
+    "published_at": "2026-06-10 14:47",
+    "tags": [],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Security scanners for AI agent skills agree no better than chance",
+    "url": "https://trymastro.com/study",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://trymastro.com/study Comments URL: https://news.ycombinator.com/item?id=48477095 Points: 2 # Comments: 0",
+    "published_at": "2026-06-10 14:45",
+    "tags": [],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Manifesto for Agentic Teams – reorganizing engineering around AI agents",
+    "url": "https://agentic-team-manifesto.org/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://agentic-team-manifesto.org/ Comments URL: https://news.ycombinator.com/item?id=48476888 Points: 3 # Comments: 0",
+    "published_at": "2026-06-10 14:32",
+    "tags": [],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Warner Music acquires AI attribution startup Sureel AI",
+    "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+    "source": "TechCrunch AI",
+    "summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
+    "published_at": "2026-06-10 14:31",
+    "tags": [
+      "AI",
+      "Media & Entertainment",
+      "Startups",
+      "AI startups",
+      "warner music"
+    ],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AtlasForgeX – AI-powered living business intelligence network",
+    "url": "https://atlasforgex.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://atlasforgex.com/ Comments URL: https://news.ycombinator.com/item?id=48476499 Points: 1 # Comments: 0",
+    "published_at": "2026-06-10 14:05",
+    "tags": [],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+    "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+    "source": "TechCrunch AI",
+    "summary": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
+    "published_at": "2026-06-10 13:33",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Fundraising",
+      "AI agents",
+      "context graphs",
+      "Jedify"
+    ],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Meta signs first AI data center deal in India with Reliance",
+    "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+    "source": "TechCrunch AI",
+    "summary": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
+    "published_at": "2026-06-10 07:05",
+    "tags": [
+      "AI",
+      "Meta",
+      "reliance",
+      "reliance industries"
+    ],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "SafeAgentDB – Isolated databases for every AI agent branch",
     "url": "https://github.com/Aidan945/SafeAgentDB",
     "source": "Hacker News AI",
@@ -371,6 +549,36 @@
     "published_at": "2026-06-09 13:19",
     "tags": [],
     "fetch_date": "2026-06-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "How an e-scooter founder raised $5 million to build space data centers",
+    "url": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
+    "source": "TechCrunch AI",
+    "summary": "Orbital founder Euwyn Poon built 250,000 scooters at Spin. Now he wants to launch 10,000 space data centers.",
+    "published_at": "2026-06-09 12:00",
+    "tags": [
+      "AI",
+      "Space",
+      "Exclusive",
+      "Orbital"
+    ],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Microsoft AI chief walks back comments about AI taking over white-collar work",
+    "url": "https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs",
+    "source": "The Verge AI",
+    "summary": "Microsoft AI head Mustafa Suleyman is walking back his statement about AI automating jobs done by white-collar workers, including lawyers, accountants, and project managers. During an episode of Decoder on Monday, Suleyman says he meant AI will help these workers complete tasks, rather than do their jobs: Sending an email, having a conversation with a [&#8230;]",
+    "published_at": "2026-06-09 10:54",
+    "tags": [
+      "AI",
+      "Microsoft",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-06-10",
     "fetch_label": "晚报"
   },
   {

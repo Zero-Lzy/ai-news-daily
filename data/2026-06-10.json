@@ -275,6 +275,276 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-06-10 23:39:40",
+      "count": 24,
+      "articles": [
+        {
+          "title": "Siri AI Is a Malware Vector",
+          "url": "https://loufranco.com/blog/siri-ai-is-a-malware-vector",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://loufranco.com/blog/siri-ai-is-a-malware-vector Comments URL: https://news.ycombinator.com/item?id=48478009 Points: 1 # Comments: 0",
+          "published_at": "2026-06-10 15:38",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Inkfox – One workspace for AI image gen, editing, and photo-to-video",
+          "url": "https://inkfox.app",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://inkfox.app Comments URL: https://news.ycombinator.com/item?id=48477759 Points: 1 # Comments: 0",
+          "published_at": "2026-06-10 15:24",
+          "tags": []
+        },
+        {
+          "title": "Writers Against AI",
+          "url": "https://www.writersagainstai.net/essay",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.writersagainstai.net/essay Comments URL: https://news.ycombinator.com/item?id=48477749 Points: 1 # Comments: 0",
+          "published_at": "2026-06-10 15:24",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Papermill Press – An AI-friendly markup language for PDF generation",
+          "url": "https://news.ycombinator.com/item?id=48477708",
+          "source": "Hacker News AI",
+          "summary": "If you’ve generated PDFs from HTML, you’ll know the pain: headless Chrome in Docker, CSS hacks, content that flows over pages or table boundaries and other quality issues.The fundamental problem is that HTML was designed for screens, not print.We built Press, a markup-based document language where pages, content flows, and assets are first-class concepts. Content can flow across frames, columns, and pages without manual pagination. Pages are created dynamically based on the available content.Pre",
+          "published_at": "2026-06-10 15:21",
+          "tags": []
+        },
+        {
+          "title": "HoneyAI – AI-powered honeypot replacing Cowrie/OpenCanary/Galah with one process",
+          "url": "https://github.com/martidu4/honey-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/martidu4/honey-ai Comments URL: https://news.ycombinator.com/item?id=48477620 Points: 1 # Comments: 0",
+          "published_at": "2026-06-10 15:15",
+          "tags": []
+        },
+        {
+          "title": "LLM – Jagged Intelligence",
+          "url": "https://yalereview.org/article/melanie-mitchell-jagged-intelligence",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://yalereview.org/article/melanie-mitchell-jagged-intelligence Comments URL: https://news.ycombinator.com/item?id=48477459 Points: 1 # Comments: 0",
+          "published_at": "2026-06-10 15:04",
+          "tags": []
+        },
+        {
+          "title": "Apache Burr: Build reliable AI agents and applications",
+          "url": "https://burr.apache.org/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://burr.apache.org/ Comments URL: https://news.ycombinator.com/item?id=48477400 Points: 15 # Comments: 1",
+          "published_at": "2026-06-10 15:01",
+          "tags": []
+        },
+        {
+          "title": "Show HN: AuthAI, an open-source relay for user-authorized AI sessions",
+          "url": "https://github.com/authai-io/authai",
+          "source": "Hacker News AI",
+          "summary": "Hello HN,My name is Riccardo and I created AuthAI for indie hackers.The idea is quite simple: let the end users connect their chatgpt/grok/copilot account and route the AI requests through their AI subscriptions.This enable a lot of new cool ideas where the business model/unit economics don't always make sense.The flow is straightforward:They click on \"login with AI\", choose their provider, and authorise the device on the provider's website.Tokens get encrypted using a per-user AES-256-GCM encry",
+          "published_at": "2026-06-10 14:56",
+          "tags": []
+        },
+        {
+          "title": "Skimming an AI answer cost me 100 passwords",
+          "url": "https://alwaysdraft.com/skimming-ai-answer-cost-100-passwords/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://alwaysdraft.com/skimming-ai-answer-cost-100-passwords/ Comments URL: https://news.ycombinator.com/item?id=48477307 Points: 2 # Comments: 1",
+          "published_at": "2026-06-10 14:55",
+          "tags": []
+        },
+        {
+          "title": "Economists Weigh in on the Future of Work and AI",
+          "url": "https://www.wsj.com/tech/ai/economists-weigh-in-on-the-future-of-work-and-ai-f59311e9",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wsj.com/tech/ai/economists-weigh-in-on-the-future-of-work-and-ai-f59311e9 Comments URL: https://news.ycombinator.com/item?id=48477134 Points: 2 # Comments: 0",
+          "published_at": "2026-06-10 14:47",
+          "tags": []
+        },
+        {
+          "title": "Security scanners for AI agent skills agree no better than chance",
+          "url": "https://trymastro.com/study",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://trymastro.com/study Comments URL: https://news.ycombinator.com/item?id=48477095 Points: 2 # Comments: 0",
+          "published_at": "2026-06-10 14:45",
+          "tags": []
+        },
+        {
+          "title": "Manifesto for Agentic Teams – reorganizing engineering around AI agents",
+          "url": "https://agentic-team-manifesto.org/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://agentic-team-manifesto.org/ Comments URL: https://news.ycombinator.com/item?id=48476888 Points: 3 # Comments: 0",
+          "published_at": "2026-06-10 14:32",
+          "tags": []
+        },
+        {
+          "title": "Warner Music acquires AI attribution startup Sureel AI",
+          "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
+          "published_at": "2026-06-10 14:31",
+          "tags": [
+            "AI",
+            "Media & Entertainment",
+            "Startups",
+            "AI startups",
+            "warner music"
+          ]
+        },
+        {
+          "title": "AtlasForgeX – AI-powered living business intelligence network",
+          "url": "https://atlasforgex.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://atlasforgex.com/ Comments URL: https://news.ycombinator.com/item?id=48476499 Points: 1 # Comments: 0",
+          "published_at": "2026-06-10 14:05",
+          "tags": []
+        },
+        {
+          "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+          "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+          "source": "TechCrunch AI",
+          "summary": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
+          "published_at": "2026-06-10 13:33",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "Fundraising",
+            "AI agents",
+            "context graphs",
+            "Jedify"
+          ]
+        },
+        {
+          "title": "Meta signs first AI data center deal in India with Reliance",
+          "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+          "source": "TechCrunch AI",
+          "summary": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
+          "published_at": "2026-06-10 07:05",
+          "tags": [
+            "AI",
+            "Meta",
+            "reliance",
+            "reliance industries"
+          ]
+        },
+        {
+          "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+          "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+          "source": "TechCrunch AI",
+          "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
+          "published_at": "2026-06-09 23:17",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Venture",
+            "anduril",
+            "Anthropic",
+            "playground global",
+            "SpaceX",
+            "SPV"
+          ]
+        },
+        {
+          "title": "Hey, Siri, here’s what I actually want from AI",
+          "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+          "source": "TechCrunch AI",
+          "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
+          "published_at": "2026-06-09 20:50",
+          "tags": [
+            "AI",
+            "Apple",
+            "siri",
+            "WWDC 2026"
+          ]
+        },
+        {
+          "title": "Can tech companies learn to love cheaper AI models?",
+          "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+          "source": "TechCrunch AI",
+          "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
+          "published_at": "2026-06-09 18:56",
+          "tags": [
+            "AI",
+            "TC",
+            "ai models",
+            "Anthropic",
+            "Harvey",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+          "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+          "source": "TechCrunch AI",
+          "summary": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
+          "published_at": "2026-06-09 18:04",
+          "tags": [
+            "AI",
+            "Apple",
+            "siri",
+            "wwdc",
+            "WWDC 2026"
+          ]
+        },
+        {
+          "title": "It’s not FAANG anymore. It’s MANGOS.",
+          "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+          "source": "TechCrunch AI",
+          "summary": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to MANGOS.",
+          "published_at": "2026-06-09 16:09",
+          "tags": [
+            "AI",
+            "Startups",
+            "TC",
+            "big tech",
+            "FAANG",
+            "In Brief"
+          ]
+        },
+        {
+          "title": "How an e-scooter founder raised $5 million to build space data centers",
+          "url": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
+          "source": "TechCrunch AI",
+          "summary": "Orbital founder Euwyn Poon built 250,000 scooters at Spin. Now he wants to launch 10,000 space data centers.",
+          "published_at": "2026-06-09 12:00",
+          "tags": [
+            "AI",
+            "Space",
+            "Exclusive",
+            "Orbital"
+          ]
+        },
+        {
+          "title": "Microsoft AI chief walks back comments about AI taking over white-collar work",
+          "url": "https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs",
+          "source": "The Verge AI",
+          "summary": "Microsoft AI head Mustafa Suleyman is walking back his statement about AI automating jobs done by white-collar workers, including lawyers, accountants, and project managers. During an episode of Decoder on Monday, Suleyman says he meant AI will help these workers complete tasks, rather than do their jobs: Sending an email, having a conversation with a [&#8230;]",
+          "published_at": "2026-06-09 10:54",
+          "tags": [
+            "AI",
+            "Microsoft",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Apple’s AI pitch will live or die by its privacy promise",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/946705/apple-private-cloud-compute-ai-siri-intelligence-wwdc",
+          "source": "The Verge AI",
+          "summary": "As expected, yesterday's WWDC keynote was mostly about AI. And also as expected, Apple tried to turn its late arrival into its sales pitch: It didn't rush into AI because it was taking its time to do things right. In this case, \"right\" means \"with more privacy than anyone else.\" It's a good pitch - [&#8230;]",
+          "published_at": "2026-06-09 08:55",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "Apple",
+            "Apple Event",
+            "Google",
+            "OpenAI",
+            "Report",
+            "Tech"
+          ]
+        }
+      ]
     }
   ]
 }
