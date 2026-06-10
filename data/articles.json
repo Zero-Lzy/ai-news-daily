@@ -1,5 +1,229 @@
 [
   {
+    "title": "SafeAgentDB – Isolated databases for every AI agent branch",
+    "url": "https://github.com/Aidan945/SafeAgentDB",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/Aidan945/SafeAgentDB Comments URL: https://news.ycombinator.com/item?id=48470846 Points: 2 # Comments: 0",
+    "published_at": "2026-06-10 02:59",
+    "tags": [],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Would like learning history with any philosophers",
+    "url": "http://mailto:constituence@icloud.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: http://mailto:constituence@icloud.com Comments URL: https://news.ycombinator.com/item?id=48470773 Points: 2 # Comments: 1",
+    "published_at": "2026-06-10 02:51",
+    "tags": [],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Rich Sutton on AI creativity and discovery",
+    "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+    "source": "Hacker News AI",
+    "summary": "https://www.youtube.com/watch?v=K5LAFEjTlBA Comments URL: https://news.ycombinator.com/item?id=48470581 Points: 37 # Comments: 16",
+    "published_at": "2026-06-10 02:25",
+    "tags": [],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "State of AI and Identity Report",
+    "url": "https://fusionauth.io/blog/2026-ai-identity-report",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://fusionauth.io/blog/2026-ai-identity-report Comments URL: https://news.ycombinator.com/item?id=48470554 Points: 2 # Comments: 0",
+    "published_at": "2026-06-10 02:22",
+    "tags": [],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "UN Scientists: AI Is Threatening Natural Resources for Billions",
+    "url": "https://unu.edu/inweh/news/environmental-cost-of-AIs-Enrgy-use-carbon-water-and-land-footprints",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://unu.edu/inweh/news/environmental-cost-of-AIs-Enrgy-use-carbon-water-and-land-footprints Comments URL: https://news.ycombinator.com/item?id=48470358 Points: 2 # Comments: 0",
+    "published_at": "2026-06-10 01:57",
+    "tags": [],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Safety and the Age of Dislightenment (2023)",
+    "url": "https://www.fast.ai/posts/2023-11-07-dislightenment.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.fast.ai/posts/2023-11-07-dislightenment.html Comments URL: https://news.ycombinator.com/item?id=48470343 Points: 1 # Comments: 0",
+    "published_at": "2026-06-10 01:56",
+    "tags": [],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Claude Fable 5 feels less like a launch and more like a preview of AI inequality",
+    "url": "https://old.reddit.com/r/ClaudeAI/comments/1u1fsdi/claude_fable_5_feels_less_like_a_model_launch_and/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://old.reddit.com/r/ClaudeAI/comments/1u1fsdi/claude_fable_5_feels_less_like_a_model_launch_and/ Comments URL: https://news.ycombinator.com/item?id=48470301 Points: 9 # Comments: 0",
+    "published_at": "2026-06-10 01:50",
+    "tags": [],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Efficient and Lossless Moe Diffusion LLM Inference with I/O-Aware Expert Offload",
+    "url": "https://tide-paper.vercel.app",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://tide-paper.vercel.app Comments URL: https://news.ycombinator.com/item?id=48470284 Points: 1 # Comments: 1",
+    "published_at": "2026-06-10 01:48",
+    "tags": [],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "German ruling declares Google liable for false answers in AI Overviews",
+    "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/ Comments URL: https://news.ycombinator.com/item?id=48470248 Points: 147 # Comments: 65",
+    "published_at": "2026-06-10 01:44",
+    "tags": [],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Estimating the Productivity of an Autonomous AI Software Engineer",
+    "url": "https://cognition.ai/blog/ai-productivity",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://cognition.ai/blog/ai-productivity Comments URL: https://news.ycombinator.com/item?id=48470133 Points: 2 # Comments: 0",
+    "published_at": "2026-06-10 01:30",
+    "tags": [],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Companies Investing Billions in Residential Proxy",
+    "url": "https://nanog.org/events/nanog-97/content/5771",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://nanog.org/events/nanog-97/content/5771 Comments URL: https://news.ycombinator.com/item?id=48469874 Points: 4 # Comments: 1",
+    "published_at": "2026-06-10 00:57",
+    "tags": [],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Firefox adds Google Play Integrity checks for it's AI features",
+    "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=2015109",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://bugzilla.mozilla.org/show_bug.cgi?id=2015109 Comments URL: https://news.ycombinator.com/item?id=48469808 Points: 3 # Comments: 2",
+    "published_at": "2026-06-10 00:47",
+    "tags": [],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ottawa's bill regulating social media, AI expected to include age restrictions",
+    "url": "https://www.cbc.ca/news/politics/online-harms-social-media-ban-youth-teens-9.7228651",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.cbc.ca/news/politics/online-harms-social-media-ban-youth-teens-9.7228651 Comments URL: https://news.ycombinator.com/item?id=48469704 Points: 7 # Comments: 0",
+    "published_at": "2026-06-10 00:36",
+    "tags": [],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Subscriptions Are Dead",
+    "url": "https://twitter.com/i/status/2064492311686607161",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/i/status/2064492311686607161 Comments URL: https://news.ycombinator.com/item?id=48469562 Points: 5 # Comments: 5",
+    "published_at": "2026-06-10 00:13",
+    "tags": [],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+    "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+    "source": "TechCrunch AI",
+    "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
+    "published_at": "2026-06-09 23:17",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "Venture",
+      "anduril",
+      "Anthropic",
+      "playground global",
+      "SpaceX",
+      "SPV"
+    ],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Hey, Siri, here’s what I actually want from AI",
+    "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+    "source": "TechCrunch AI",
+    "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
+    "published_at": "2026-06-09 20:50",
+    "tags": [
+      "AI",
+      "Apple",
+      "siri",
+      "WWDC 2026"
+    ],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Can tech companies learn to love cheaper AI models?",
+    "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+    "source": "TechCrunch AI",
+    "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
+    "published_at": "2026-06-09 18:56",
+    "tags": [
+      "AI",
+      "TC",
+      "ai models",
+      "Anthropic",
+      "Harvey",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+    "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+    "source": "TechCrunch AI",
+    "summary": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
+    "published_at": "2026-06-09 18:04",
+    "tags": [
+      "AI",
+      "Apple",
+      "siri",
+      "wwdc",
+      "WWDC 2026"
+    ],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "It’s not FAANG anymore. It’s MANGOS.",
+    "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+    "source": "TechCrunch AI",
+    "summary": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to MANGOS.",
+    "published_at": "2026-06-09 16:09",
+    "tags": [
+      "AI",
+      "Startups",
+      "TC",
+      "big tech",
+      "FAANG",
+      "In Brief"
+    ],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "早报"
+  },
+  {
     "title": "AI cracked an Erdős math problem. Now experts want guardrails",
     "url": "https://www.sciencenews.org/article/ai-guardrails-erdos-math-problem",
     "source": "Hacker News AI",
@@ -150,6 +374,39 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "Apple’s best AI idea looks a lot like vibe coding",
+    "url": "https://www.theverge.com/tech/946733/apple-shortcuts-ai-safari-tabs-vibe-code",
+    "source": "The Verge AI",
+    "summary": "Most of Apple's current AI ideas are roughly the same as everyone else's AI ideas. A chatbot you can ask questions; quick ways to create or summarize text; bizarre, borderline creepy image-generation tools. The company spent most of its WWDC keynote playing catch-up with the state of the AI art, announcing Siri features you can [&#8230;]",
+    "published_at": "2026-06-09 09:34",
+    "tags": [
+      "AI",
+      "Apple",
+      "Tech"
+    ],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Apple’s AI pitch will live or die by its privacy promise",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/946705/apple-private-cloud-compute-ai-siri-intelligence-wwdc",
+    "source": "The Verge AI",
+    "summary": "As expected, yesterday's WWDC keynote was mostly about AI. And also as expected, Apple tried to turn its late arrival into its sales pitch: It didn't rush into AI because it was taking its time to do things right. In this case, \"right\" means \"with more privacy than anyone else.\" It's a good pitch - [&#8230;]",
+    "published_at": "2026-06-09 08:55",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Apple",
+      "Apple Event",
+      "Google",
+      "OpenAI",
+      "Report",
+      "Tech"
+    ],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Ask HN: I see AI valuation coming down as soon as next year. What do you think?",
     "url": "https://news.ycombinator.com/item?id=48455882",
     "source": "Hacker News AI",
@@ -276,6 +533,23 @@
     "fetch_label": "早报"
   },
   {
+    "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+    "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+    "source": "TechCrunch AI",
+    "summary": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
+    "published_at": "2026-06-08 22:41",
+    "tags": [
+      "AI",
+      "TC",
+      "In Brief",
+      "Layoffs",
+      "sam altman",
+      "tools for humanity"
+    ],
+    "fetch_date": "2026-06-10",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
     "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
     "source": "TechCrunch AI",
@@ -372,6 +646,23 @@
       "WWDC 2026"
     ],
     "fetch_date": "2026-06-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
+    "url": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
+    "source": "ArsTechnica AI",
+    "summary": "73 packages run self-replicating stealer as soon as they're opened by an AI agent.",
+    "published_at": "2026-06-08 18:34",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "Security",
+      "GitHub",
+      "microsoft",
+      "worms"
+    ],
+    "fetch_date": "2026-06-10",
     "fetch_label": "早报"
   },
   {
