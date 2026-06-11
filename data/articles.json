@@ -1,5 +1,20 @@
 [
   {
+    "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
+    "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+    "source": "TechCrunch AI",
+    "summary": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.",
+    "published_at": "2026-06-11 14:23",
+    "tags": [
+      "AI",
+      "Apps",
+      "AI chatbot",
+      "DoorDash"
+    ],
+    "fetch_date": "2026-06-12",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
     "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
     "source": "TechCrunch AI",
@@ -203,6 +218,21 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "Claude Fable won’t answer basic biology questions",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+    "source": "The Verge AI",
+    "summary": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query to the former flagship [&#8230;]",
+    "published_at": "2026-06-10 14:43",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Report",
+      "Science"
+    ],
+    "fetch_date": "2026-06-12",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Manifesto for Agentic Teams – reorganizing engineering around AI agents",
     "url": "https://agentic-team-manifesto.org/",
     "source": "Hacker News AI",
@@ -273,6 +303,23 @@
     ],
     "fetch_date": "2026-06-11",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
+    "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
+    "source": "The Verge AI",
+    "summary": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data retention requirements. While Microsoft quickly rolled out Claude Fable 5 to its GitHub Copilot and Foundry customers, I'm [&#8230;]",
+    "published_at": "2026-06-10 12:50",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Exclusive",
+      "Microsoft",
+      "Report",
+      "Tech"
+    ],
+    "fetch_date": "2026-06-12",
+    "fetch_label": "晚报"
   },
   {
     "title": "Meta signs first AI data center deal in India with Reliance",

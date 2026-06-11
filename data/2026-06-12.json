@@ -1,0 +1,179 @@
+{
+  "date": "2026-06-12",
+  "runs": [
+    {
+      "label": "晚报",
+      "time": "2026-06-12 00:03:26",
+      "count": 12,
+      "articles": [
+        {
+          "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
+          "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+          "source": "TechCrunch AI",
+          "summary": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.",
+          "published_at": "2026-06-11 14:23",
+          "tags": [
+            "AI",
+            "Apps",
+            "AI chatbot",
+            "DoorDash"
+          ]
+        },
+        {
+          "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+          "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+          "source": "TechCrunch AI",
+          "summary": "The decision comes as India emerges as the world’s largest GCC market.",
+          "published_at": "2026-06-11 04:02",
+          "tags": [
+            "AI",
+            "Startups",
+            "OpenDoor"
+          ]
+        },
+        {
+          "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+          "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+          "source": "TechCrunch AI",
+          "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
+          "published_at": "2026-06-10 22:31",
+          "tags": [
+            "AI",
+            "ai safety",
+            "devin kim",
+            "Grok",
+            "SpaceX",
+            "xAI"
+          ]
+        },
+        {
+          "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+          "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+          "source": "TechCrunch AI",
+          "summary": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
+          "published_at": "2026-06-10 20:19",
+          "tags": [
+            "AI",
+            "Amazon",
+            "citigroup",
+            "In Brief"
+          ]
+        },
+        {
+          "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
+          "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+          "source": "TechCrunch AI",
+          "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
+          "published_at": "2026-06-10 17:07",
+          "tags": [
+            "AI",
+            "ai tokens",
+            "Ramp",
+            "ramp ai index"
+          ]
+        },
+        {
+          "title": "How memory tools can make AI models worse",
+          "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+          "source": "TechCrunch AI",
+          "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
+          "published_at": "2026-06-10 16:11",
+          "tags": [
+            "AI",
+            "ai models",
+            "writer"
+          ]
+        },
+        {
+          "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+          "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+          "source": "TechCrunch AI",
+          "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+          "published_at": "2026-06-10 15:41",
+          "tags": [
+            "AI",
+            "Security",
+            "ai safety",
+            "Anthropic",
+            "cybersecurity",
+            "fable",
+            "Mythos"
+          ]
+        },
+        {
+          "title": "Claude Fable won’t answer basic biology questions",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+          "source": "The Verge AI",
+          "summary": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query to the former flagship [&#8230;]",
+          "published_at": "2026-06-10 14:43",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "Report",
+            "Science"
+          ]
+        },
+        {
+          "title": "Warner Music acquires AI attribution startup Sureel AI",
+          "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
+          "published_at": "2026-06-10 14:31",
+          "tags": [
+            "AI",
+            "Media & Entertainment",
+            "Startups",
+            "AI startups",
+            "Mergers and Acquisitions",
+            "warner music"
+          ]
+        },
+        {
+          "title": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
+          "url": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+          "source": "TechCrunch AI",
+          "summary": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on.",
+          "published_at": "2026-06-10 13:07",
+          "tags": [
+            "AI",
+            "Startups",
+            "Transportation",
+            "autonomous vehicles",
+            "decart",
+            "Exclusive",
+            "oasis 3",
+            "world models"
+          ]
+        },
+        {
+          "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
+          "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
+          "source": "The Verge AI",
+          "summary": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data retention requirements. While Microsoft quickly rolled out Claude Fable 5 to its GitHub Copilot and Foundry customers, I'm [&#8230;]",
+          "published_at": "2026-06-10 12:50",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "Exclusive",
+            "Microsoft",
+            "Report",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Meta signs first AI data center deal in India with Reliance",
+          "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+          "source": "TechCrunch AI",
+          "summary": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
+          "published_at": "2026-06-10 07:05",
+          "tags": [
+            "AI",
+            "Meta",
+            "reliance",
+            "reliance industries"
+          ]
+        }
+      ]
+    }
+  ]
+}
