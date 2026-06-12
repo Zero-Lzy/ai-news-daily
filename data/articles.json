@@ -1,5 +1,159 @@
 [
   {
+    "title": "From ML engineer to AI-native: reskilling toward an edge",
+    "url": "https://shrikar.com/writing/ml-engineer-to-ai-native-reskill",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://shrikar.com/writing/ml-engineer-to-ai-native-reskill Comments URL: https://news.ycombinator.com/item?id=48505186 Points: 1 # Comments: 1",
+    "published_at": "2026-06-12 15:11",
+    "tags": [],
+    "fetch_date": "2026-06-12",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: I had Fable clone a game, it turned it into an arena combat AI trainer",
+    "url": "https://soldat.bobbby.online/",
+    "source": "Hacker News AI",
+    "summary": "I started off with a simple goal: port the game Soldat to Typescript. I ended up not only with the game, but with a full system to train AI bots to play my own game, building a neural net to train new bot AIs from tens of thousands of simulated matches with different strategies. It also runs live all the time on my website and has a news dashboard and you can replay any game exactly. It all was a very fun way to dig into Fable's capabilities.The bill if I had done this with API billing? Nearly $",
+    "published_at": "2026-06-12 14:55",
+    "tags": [],
+    "fetch_date": "2026-06-12",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Stages of AI engineering maturity: a framework for teams",
+    "url": "https://upsun.com/blog/8-stages-ai-engineering-maturity/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://upsun.com/blog/8-stages-ai-engineering-maturity/ Comments URL: https://news.ycombinator.com/item?id=48504959 Points: 5 # Comments: 1",
+    "published_at": "2026-06-12 14:52",
+    "tags": [],
+    "fetch_date": "2026-06-12",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Slightly reducing the sloppiness of AI generated front end",
+    "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://envs.net/~volpe/blog/posts/reduce-slop.html Comments URL: https://news.ycombinator.com/item?id=48504912 Points: 5 # Comments: 1",
+    "published_at": "2026-06-12 14:48",
+    "tags": [],
+    "fetch_date": "2026-06-12",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Siri won't be your AI girlfriend",
+    "url": "https://sixcolors.com/link/2026/06/siri-wont-be-your-ai-girlfriend/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://sixcolors.com/link/2026/06/siri-wont-be-your-ai-girlfriend/ Comments URL: https://news.ycombinator.com/item?id=48504822 Points: 2 # Comments: 0",
+    "published_at": "2026-06-12 14:42",
+    "tags": [],
+    "fetch_date": "2026-06-12",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Powerful Hivemind, Disempowered Individuals: Notes of a Conflicted AI Maximalist",
+    "url": "https://eighttrigrams.net/article/38",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://eighttrigrams.net/article/38 Comments URL: https://news.ycombinator.com/item?id=48504572 Points: 2 # Comments: 1",
+    "published_at": "2026-06-12 14:23",
+    "tags": [],
+    "fetch_date": "2026-06-12",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The Bear Case for Frontier AI Labs",
+    "url": "https://www.parand.com/the-bear-case-for-frontier-ai-labs.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.parand.com/the-bear-case-for-frontier-ai-labs.html Comments URL: https://news.ycombinator.com/item?id=48504435 Points: 2 # Comments: 0",
+    "published_at": "2026-06-12 14:15",
+    "tags": [],
+    "fetch_date": "2026-06-12",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Memoriq – Private AI Memory for ChatGPT, Claude, Gemini and Grok",
+    "url": "https://memoriq.me/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://memoriq.me/ Comments URL: https://news.ycombinator.com/item?id=48504064 Points: 2 # Comments: 0",
+    "published_at": "2026-06-12 13:51",
+    "tags": [],
+    "fetch_date": "2026-06-12",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Bernie Sanders' AI Sovereign Wealth Fund Plan",
+    "url": "https://www.schneier.com/blog/archives/2026/06/bernie-sanders-ai-sovereign-wealth-fund-plan.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.schneier.com/blog/archives/2026/06/bernie-sanders-ai-sovereign-wealth-fund-plan.html Comments URL: https://news.ycombinator.com/item?id=48504004 Points: 2 # Comments: 1",
+    "published_at": "2026-06-12 13:46",
+    "tags": [],
+    "fetch_date": "2026-06-12",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Trajeckt: a fail-closed gateway that enforces what AI agents can do (~1.6ms)",
+    "url": "https://traject.tamor.ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://traject.tamor.ai/ Comments URL: https://news.ycombinator.com/item?id=48503930 Points: 1 # Comments: 0",
+    "published_at": "2026-06-12 13:39",
+    "tags": [],
+    "fetch_date": "2026-06-12",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: RedNotebook AI open-source AI data notebook for Trino, +12 SQL engines",
+    "url": "https://github.com/sanniheruwala/RedNotebookAI/blob/main/README.md",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/sanniheruwala/RedNotebookAI/blob/main/README.md Comments URL: https://news.ycombinator.com/item?id=48503888 Points: 1 # Comments: 0",
+    "published_at": "2026-06-12 13:34",
+    "tags": [],
+    "fetch_date": "2026-06-12",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Spec-Driven Development: A Spec-First Approach to AI-Native Engineering",
+    "url": "https://developer.microsoft.com/blog/spec-driven-development-ai-native-engineering",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://developer.microsoft.com/blog/spec-driven-development-ai-native-engineering Comments URL: https://news.ycombinator.com/item?id=48503856 Points: 2 # Comments: 0",
+    "published_at": "2026-06-12 13:30",
+    "tags": [],
+    "fetch_date": "2026-06-12",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "SpaceX’s massive IPO: all the latest news",
+    "url": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
+    "source": "The Verge AI",
+    "summary": "SpaceX&#8217;s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and is raising enough money to likely make Elon Musk the first trillionaire.&#160; He&#8217;ll have more wealth, on paper at least, than the economies of nations like Ireland, Sweden, or his home [&#8230;]",
+    "published_at": "2026-06-12 10:35",
+    "tags": [
+      "AI",
+      "Business",
+      "Elon Musk",
+      "Science",
+      "Space",
+      "SpaceX",
+      "Tech",
+      "Twitter - X",
+      "xAI"
+    ],
+    "fetch_date": "2026-06-12",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
+    "source": "The Verge AI",
+    "summary": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, aims to develop AI-powered engineering tools to aid in the design of physical products. The NYT first reported on Prometheus last November, but now [&#8230;]",
+    "published_at": "2026-06-12 10:03",
+    "tags": [
+      "AI",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-06-12",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Ask HN: Is anyone running AI agents in production reliably – what's your stack?",
     "url": "https://news.ycombinator.com/item?id=48499826",
     "source": "Hacker News AI",
