@@ -174,6 +174,218 @@
           ]
         }
       ]
+    },
+    {
+      "label": "早报",
+      "time": "2026-06-12 12:18:17",
+      "count": 20,
+      "articles": [
+        {
+          "title": "Ask HN: Is anyone running AI agents in production reliably – what's your stack?",
+          "url": "https://news.ycombinator.com/item?id=48499826",
+          "source": "Hacker News AI",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=48499826 Points: 2 # Comments: 0",
+          "published_at": "2026-06-12 04:10",
+          "tags": []
+        },
+        {
+          "title": "The Normalization of Deviance in AI",
+          "url": "https://embracethered.com/blog/posts/2025/the-normalization-of-deviance-in-ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://embracethered.com/blog/posts/2025/the-normalization-of-deviance-in-ai/ Comments URL: https://news.ycombinator.com/item?id=48499790 Points: 1 # Comments: 0",
+          "published_at": "2026-06-12 04:04",
+          "tags": []
+        },
+        {
+          "title": "Engineers aren't afraid of AI – they're afraid of becoming junior again",
+          "url": "https://www.andykelk.net/leadership/your-engineers-arent-afraid-of-ai-theyre-afraid-of-being-junior-again/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.andykelk.net/leadership/your-engineers-arent-afraid-of-ai-theyre-afraid-of-being-junior-again/ Comments URL: https://news.ycombinator.com/item?id=48499585 Points: 3 # Comments: 0",
+          "published_at": "2026-06-12 03:28",
+          "tags": []
+        },
+        {
+          "title": "Show HN: MandoCode – local-first AI coding agent (.NET and Ollama)",
+          "url": "https://github.com/DevMando/MandoCode",
+          "source": "Hacker News AI",
+          "summary": "I built MandoCode, an open source CLI coding agent in .NET that runs against local Ollama models. No API keys, nothing leaves your machine (Ollama cloud models work too if you want them). It reads, edits, searches, plans, and browses the web across your codebase, and it supports MCP and Skills.Install with dotnet tool install -g MandoCode.I found semantic Kernel great to give me the ability to just go and build on .NET C#. Lots of more work to do! Comments URL: https://news.ycombinator.com/item?",
+          "published_at": "2026-06-12 03:22",
+          "tags": []
+        },
+        {
+          "title": "Fylun.ai – All-in-one AI workspace (chat, notes, apps, automation, search)",
+          "url": "https://fylun.ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://fylun.ai Comments URL: https://news.ycombinator.com/item?id=48499360 Points: 2 # Comments: 0",
+          "published_at": "2026-06-12 02:59",
+          "tags": []
+        },
+        {
+          "title": "LLM podcast addressing AI genocide of humanity",
+          "url": "https://MachineDeposition.com",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://MachineDeposition.com Comments URL: https://news.ycombinator.com/item?id=48499288 Points: 1 # Comments: 1",
+          "published_at": "2026-06-12 02:50",
+          "tags": []
+        },
+        {
+          "title": "Chaining LLM and web bugs to Admin",
+          "url": "https://blog.quarkslab.com/from-prompt-to-pwned-chaining-llm-and-web-bugs-to-admin.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blog.quarkslab.com/from-prompt-to-pwned-chaining-llm-and-web-bugs-to-admin.html Comments URL: https://news.ycombinator.com/item?id=48498943 Points: 1 # Comments: 0",
+          "published_at": "2026-06-12 01:59",
+          "tags": []
+        },
+        {
+          "title": "Built SwiPR – swipe-to-review GitHub PRs with AI context",
+          "url": "https://github.com/nochinxx/SwiPR",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/nochinxx/SwiPR Comments URL: https://news.ycombinator.com/item?id=48498866 Points: 1 # Comments: 0",
+          "published_at": "2026-06-12 01:49",
+          "tags": []
+        },
+        {
+          "title": "The Nerdy Escorts Cashing in on Silicon Valley's AI Boom",
+          "url": "https://www.forbes.com/sites/annatong/2026/06/07/the-nerdy-escorts-cashing-in-on-silicon-valleys-ai-boom/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.forbes.com/sites/annatong/2026/06/07/the-nerdy-escorts-cashing-in-on-silicon-valleys-ai-boom/ Comments URL: https://news.ycombinator.com/item?id=48498863 Points: 6 # Comments: 1",
+          "published_at": "2026-06-12 01:49",
+          "tags": []
+        },
+        {
+          "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+          "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+          "source": "TechCrunch AI",
+          "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
+          "published_at": "2026-06-12 01:48",
+          "tags": [
+            "AI",
+            "Robotics",
+            "Startups",
+            "Automation",
+            "theker"
+          ]
+        },
+        {
+          "title": "79% on LongMemEval: How We Beat Full-Context GPT-4 with a Local SQLite Database",
+          "url": "https://medium.com/@vektormemory/79-on-longmemeval-how-we-beat-full-context-gpt-4-with-a-local-sqlite-database-4ca10ade91ae",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://medium.com/@vektormemory/79-on-longmemeval-how-we-beat-full-context-gpt-4-with-a-local-sqlite-database-4ca10ade91ae Comments URL: https://news.ycombinator.com/item?id=48498787 Points: 3 # Comments: 0",
+          "published_at": "2026-06-12 01:38",
+          "tags": []
+        },
+        {
+          "title": "AI Cannot Desire",
+          "url": "https://www.troywolters.com/blog/ai-cannot-desire.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.troywolters.com/blog/ai-cannot-desire.html Comments URL: https://news.ycombinator.com/item?id=48498646 Points: 1 # Comments: 0",
+          "published_at": "2026-06-12 01:19",
+          "tags": []
+        },
+        {
+          "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+          "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+          "source": "TechCrunch AI",
+          "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
+          "published_at": "2026-06-12 01:04",
+          "tags": [
+            "AI",
+            "Biotech & Health",
+            "Hardware",
+            "jeff bezos",
+            "physical ai",
+            "Prometheus"
+          ]
+        },
+        {
+          "title": "Don't let the LLM speak, just probe it",
+          "url": "https://blog.j11y.io/2026-06-10_hidden-state-probes/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blog.j11y.io/2026-06-10_hidden-state-probes/ Comments URL: https://news.ycombinator.com/item?id=48498283 Points: 12 # Comments: 0",
+          "published_at": "2026-06-12 00:24",
+          "tags": []
+        },
+        {
+          "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+          "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+          "source": "TechCrunch AI",
+          "summary": "The decision comes as India emerges as the world’s largest GCC market.",
+          "published_at": "2026-06-11 04:02",
+          "tags": [
+            "AI",
+            "Startups",
+            "OpenDoor"
+          ]
+        },
+        {
+          "title": "Anthropic’s Dario Amodei has just one direct report",
+          "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+          "source": "TechCrunch AI",
+          "summary": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now.",
+          "published_at": "2026-06-11 03:53",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "dario amodei",
+            "In Brief"
+          ]
+        },
+        {
+          "title": "How memory tools can make AI models worse",
+          "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+          "source": "TechCrunch AI",
+          "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
+          "published_at": "2026-06-10 16:11",
+          "tags": [
+            "AI",
+            "ai models",
+            "writer"
+          ]
+        },
+        {
+          "title": "Claude Fable won’t answer basic biology questions",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+          "source": "The Verge AI",
+          "summary": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query to the former flagship [&#8230;]",
+          "published_at": "2026-06-10 14:43",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "Report",
+            "Science"
+          ]
+        },
+        {
+          "title": "Warner Music acquires AI attribution startup Sureel AI",
+          "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
+          "published_at": "2026-06-10 14:31",
+          "tags": [
+            "AI",
+            "Media & Entertainment",
+            "Startups",
+            "AI startups",
+            "Mergers and Acquisitions",
+            "warner music"
+          ]
+        },
+        {
+          "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
+          "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
+          "source": "The Verge AI",
+          "summary": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data retention requirements. While Microsoft quickly rolled out Claude Fable 5 to its GitHub Copilot and Foundry customers, I'm [&#8230;]",
+          "published_at": "2026-06-10 12:50",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "Exclusive",
+            "Microsoft",
+            "Report",
+            "Tech"
+          ]
+        }
+      ]
     }
   ]
 }

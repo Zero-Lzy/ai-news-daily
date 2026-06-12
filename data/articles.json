@@ -1,5 +1,148 @@
 [
   {
+    "title": "Ask HN: Is anyone running AI agents in production reliably – what's your stack?",
+    "url": "https://news.ycombinator.com/item?id=48499826",
+    "source": "Hacker News AI",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=48499826 Points: 2 # Comments: 0",
+    "published_at": "2026-06-12 04:10",
+    "tags": [],
+    "fetch_date": "2026-06-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The Normalization of Deviance in AI",
+    "url": "https://embracethered.com/blog/posts/2025/the-normalization-of-deviance-in-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://embracethered.com/blog/posts/2025/the-normalization-of-deviance-in-ai/ Comments URL: https://news.ycombinator.com/item?id=48499790 Points: 1 # Comments: 0",
+    "published_at": "2026-06-12 04:04",
+    "tags": [],
+    "fetch_date": "2026-06-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Engineers aren't afraid of AI – they're afraid of becoming junior again",
+    "url": "https://www.andykelk.net/leadership/your-engineers-arent-afraid-of-ai-theyre-afraid-of-being-junior-again/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.andykelk.net/leadership/your-engineers-arent-afraid-of-ai-theyre-afraid-of-being-junior-again/ Comments URL: https://news.ycombinator.com/item?id=48499585 Points: 3 # Comments: 0",
+    "published_at": "2026-06-12 03:28",
+    "tags": [],
+    "fetch_date": "2026-06-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: MandoCode – local-first AI coding agent (.NET and Ollama)",
+    "url": "https://github.com/DevMando/MandoCode",
+    "source": "Hacker News AI",
+    "summary": "I built MandoCode, an open source CLI coding agent in .NET that runs against local Ollama models. No API keys, nothing leaves your machine (Ollama cloud models work too if you want them). It reads, edits, searches, plans, and browses the web across your codebase, and it supports MCP and Skills.Install with dotnet tool install -g MandoCode.I found semantic Kernel great to give me the ability to just go and build on .NET C#. Lots of more work to do! Comments URL: https://news.ycombinator.com/item?",
+    "published_at": "2026-06-12 03:22",
+    "tags": [],
+    "fetch_date": "2026-06-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Fylun.ai – All-in-one AI workspace (chat, notes, apps, automation, search)",
+    "url": "https://fylun.ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://fylun.ai Comments URL: https://news.ycombinator.com/item?id=48499360 Points: 2 # Comments: 0",
+    "published_at": "2026-06-12 02:59",
+    "tags": [],
+    "fetch_date": "2026-06-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "LLM podcast addressing AI genocide of humanity",
+    "url": "https://MachineDeposition.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://MachineDeposition.com Comments URL: https://news.ycombinator.com/item?id=48499288 Points: 1 # Comments: 1",
+    "published_at": "2026-06-12 02:50",
+    "tags": [],
+    "fetch_date": "2026-06-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Chaining LLM and web bugs to Admin",
+    "url": "https://blog.quarkslab.com/from-prompt-to-pwned-chaining-llm-and-web-bugs-to-admin.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.quarkslab.com/from-prompt-to-pwned-chaining-llm-and-web-bugs-to-admin.html Comments URL: https://news.ycombinator.com/item?id=48498943 Points: 1 # Comments: 0",
+    "published_at": "2026-06-12 01:59",
+    "tags": [],
+    "fetch_date": "2026-06-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Built SwiPR – swipe-to-review GitHub PRs with AI context",
+    "url": "https://github.com/nochinxx/SwiPR",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/nochinxx/SwiPR Comments URL: https://news.ycombinator.com/item?id=48498866 Points: 1 # Comments: 0",
+    "published_at": "2026-06-12 01:49",
+    "tags": [],
+    "fetch_date": "2026-06-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+    "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+    "source": "TechCrunch AI",
+    "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
+    "published_at": "2026-06-12 01:48",
+    "tags": [
+      "AI",
+      "Robotics",
+      "Startups",
+      "Automation",
+      "theker"
+    ],
+    "fetch_date": "2026-06-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "79% on LongMemEval: How We Beat Full-Context GPT-4 with a Local SQLite Database",
+    "url": "https://medium.com/@vektormemory/79-on-longmemeval-how-we-beat-full-context-gpt-4-with-a-local-sqlite-database-4ca10ade91ae",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://medium.com/@vektormemory/79-on-longmemeval-how-we-beat-full-context-gpt-4-with-a-local-sqlite-database-4ca10ade91ae Comments URL: https://news.ycombinator.com/item?id=48498787 Points: 3 # Comments: 0",
+    "published_at": "2026-06-12 01:38",
+    "tags": [],
+    "fetch_date": "2026-06-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Cannot Desire",
+    "url": "https://www.troywolters.com/blog/ai-cannot-desire.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.troywolters.com/blog/ai-cannot-desire.html Comments URL: https://news.ycombinator.com/item?id=48498646 Points: 1 # Comments: 0",
+    "published_at": "2026-06-12 01:19",
+    "tags": [],
+    "fetch_date": "2026-06-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+    "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+    "source": "TechCrunch AI",
+    "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
+    "published_at": "2026-06-12 01:04",
+    "tags": [
+      "AI",
+      "Biotech & Health",
+      "Hardware",
+      "jeff bezos",
+      "physical ai",
+      "Prometheus"
+    ],
+    "fetch_date": "2026-06-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Don't let the LLM speak, just probe it",
+    "url": "https://blog.j11y.io/2026-06-10_hidden-state-probes/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.j11y.io/2026-06-10_hidden-state-probes/ Comments URL: https://news.ycombinator.com/item?id=48498283 Points: 12 # Comments: 0",
+    "published_at": "2026-06-12 00:24",
+    "tags": [],
+    "fetch_date": "2026-06-12",
+    "fetch_label": "早报"
+  },
+  {
     "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
     "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
     "source": "TechCrunch AI",
@@ -26,6 +169,21 @@
       "OpenDoor"
     ],
     "fetch_date": "2026-06-11",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Anthropic’s Dario Amodei has just one direct report",
+    "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+    "source": "TechCrunch AI",
+    "summary": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now.",
+    "published_at": "2026-06-11 03:53",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "dario amodei",
+      "In Brief"
+    ],
+    "fetch_date": "2026-06-12",
     "fetch_label": "早报"
   },
   {
