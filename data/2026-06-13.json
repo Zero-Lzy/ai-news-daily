@@ -148,6 +148,141 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-06-13 22:01:26",
+      "count": 9,
+      "articles": [
+        {
+          "title": "My yard is dying, so I made an app for that",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+          "source": "The Verge AI",
+          "summary": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the bug. Pretty weird [&#8230;]",
+          "published_at": "2026-06-13 09:00",
+          "tags": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+          "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
+          "published_at": "2026-06-13 02:26",
+          "tags": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+          "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+          "source": "TechCrunch AI",
+          "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
+          "published_at": "2026-06-12 23:00",
+          "tags": [
+            "AI",
+            "Social",
+            "Meta"
+          ]
+        },
+        {
+          "title": "Mistral is rumored to be raising €3B at €20B valuation",
+          "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+          "source": "TechCrunch AI",
+          "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
+          "published_at": "2026-06-12 17:38",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "In Brief",
+            "Mistral AI"
+          ]
+        },
+        {
+          "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+          "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+          "source": "TechCrunch AI",
+          "summary": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half&#160;of that&#160;bunch is heading to public markets in the same window,&#160;and&#160;it&#8217;s&#160;a stress test for investors, for valuations, and for [&#8230;]",
+          "published_at": "2026-06-12 16:23",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "ai infrastructure",
+            "Anthropic",
+            "Apple WWDC",
+            "ChatGPT",
+            "FAANG",
+            "Google",
+            "IPO",
+            "MANGOS",
+            "OpenAI",
+            "Sam Bankman-Fried",
+            "SBF",
+            "SpaceX",
+            "Waymo"
+          ]
+        },
+        {
+          "title": "Elon Musk is the world&#8217;s first trillionaire",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
+          "source": "The Verge AI",
+          "summary": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in SpaceX, along with his wealth from his other companies, like Tesla. Shares of SPCX opened at $150 and have remained well above [&#8230;]",
+          "published_at": "2026-06-12 12:24",
+          "tags": [
+            "AI",
+            "Business",
+            "News",
+            "Science",
+            "Space",
+            "SpaceX",
+            "xAI"
+          ]
+        },
+        {
+          "title": "SpaceX’s massive IPO: all the latest news",
+          "url": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
+          "source": "The Verge AI",
+          "summary": "SpaceX&#8217;s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and raised enough money to make Elon Musk the first trillionaire. He has more wealth, on paper at least, than the economies of nations like Ireland, Sweden, or his home country of [&#8230;]",
+          "published_at": "2026-06-12 10:35",
+          "tags": [
+            "AI",
+            "Business",
+            "Elon Musk",
+            "Science",
+            "Space",
+            "SpaceX",
+            "Tech",
+            "Twitter - X",
+            "xAI"
+          ]
+        },
+        {
+          "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
+          "source": "The Verge AI",
+          "summary": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, aims to develop AI-powered engineering tools to aid in the design of physical products. The NYT first reported on Prometheus last November, but now [&#8230;]",
+          "published_at": "2026-06-12 10:03",
+          "tags": [
+            "AI",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Siri won’t be your AI girlfriend",
+          "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+          "source": "The Verge AI",
+          "summary": "Our early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human spotted by MacRumors, Craig Federighi said Apple's new Siri won't act all sycophantic like chatbots made by OpenAI, Google, and others. \"As you may know, if you use many [&#8230;]",
+          "published_at": "2026-06-12 03:00",
+          "tags": [
+            "AI",
+            "Apple",
+            "News",
+            "Tech"
+          ]
+        }
+      ]
     }
   ]
 }
