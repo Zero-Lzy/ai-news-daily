@@ -1,0 +1,183 @@
+{
+  "date": "2026-06-14",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-06-14 12:24:32",
+      "count": 18,
+      "articles": [
+        {
+          "title": "Track tokens usage and AI Subscriptions across major AI platforms",
+          "url": "https://www.tokens4breakfast.app",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.tokens4breakfast.app Comments URL: https://news.ycombinator.com/item?id=48524094 Points: 1 # Comments: 1",
+          "published_at": "2026-06-14 04:09",
+          "tags": []
+        },
+        {
+          "title": "UK announces $1.5B AI infrastructure plan",
+          "url": "https://www.reuters.com/world/uk/uk-sets-out-15-billion-ai-hardware-plan-with-supercomputer-chip-funding-2026-06-08/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.reuters.com/world/uk/uk-sets-out-15-billion-ai-hardware-plan-with-supercomputer-chip-funding-2026-06-08/ Comments URL: https://news.ycombinator.com/item?id=48523891 Points: 3 # Comments: 2",
+          "published_at": "2026-06-14 03:24",
+          "tags": []
+        },
+        {
+          "title": "ClawMoat, runtime containment for AI agents after Fable 5",
+          "url": "https://clawmoat.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://clawmoat.com/ Comments URL: https://news.ycombinator.com/item?id=48523469 Points: 1 # Comments: 0",
+          "published_at": "2026-06-14 02:03",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: Which cheap Chinese LLM are you using?",
+          "url": "https://news.ycombinator.com/item?id=48523455",
+          "source": "Hacker News AI",
+          "summary": "In the last one or two months, starting from DeepSeek V4 Pro, there are quite many low-price Chinese models coming out. Their performance looks more or less similar to me: Mimo V2.5 Pro, MiniMax M3, and the just released GLM 5.2, etc.Which model are you using now? Why? What are the good and bad parts? Comments URL: https://news.ycombinator.com/item?id=48523455 Points: 7 # Comments: 1",
+          "published_at": "2026-06-14 02:00",
+          "tags": []
+        },
+        {
+          "title": "Lime 2.0 – Zero Human Auth for AI Agents",
+          "url": "https://lime.pics",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://lime.pics Comments URL: https://news.ycombinator.com/item?id=48523394 Points: 2 # Comments: 1",
+          "published_at": "2026-06-14 01:47",
+          "tags": []
+        },
+        {
+          "title": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
+          "url": "https://www.bbc.com/news/articles/cwy24v72n19o",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bbc.com/news/articles/cwy24v72n19o Comments URL: https://news.ycombinator.com/item?id=48523247 Points: 3 # Comments: 0",
+          "published_at": "2026-06-14 01:19",
+          "tags": []
+        },
+        {
+          "title": "The AI supply chain is a software supply chain with new failure modes",
+          "url": "https://blog.r-lopes.com/newsletter/2026-06-03",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blog.r-lopes.com/newsletter/2026-06-03 Comments URL: https://news.ycombinator.com/item?id=48523176 Points: 3 # Comments: 0",
+          "published_at": "2026-06-14 01:06",
+          "tags": []
+        },
+        {
+          "title": "Policy on the AI Exponential",
+          "url": "https://www.anthropic.com/policy-on-the-ai-exponential/epf",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.anthropic.com/policy-on-the-ai-exponential/epf Comments URL: https://news.ycombinator.com/item?id=48523122 Points: 5 # Comments: 0",
+          "published_at": "2026-06-14 00:58",
+          "tags": []
+        },
+        {
+          "title": "We're combatting AI scams with security, legislation and more",
+          "url": "https://blog.google/innovation-and-ai/technology/safety-security/combatting-ai-scams/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blog.google/innovation-and-ai/technology/safety-security/combatting-ai-scams/ Comments URL: https://news.ycombinator.com/item?id=48523053 Points: 4 # Comments: 1",
+          "published_at": "2026-06-14 00:44",
+          "tags": []
+        },
+        {
+          "title": "Google fires sueball at alleged Chinese phishers over AI-powered fraud ops",
+          "url": "https://www.theregister.com/security/2026/06/12/google-fires-sueball-at-alleged-chinese-phishers-over-ai-powered-fraud-ops/5254841",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theregister.com/security/2026/06/12/google-fires-sueball-at-alleged-chinese-phishers-over-ai-powered-fraud-ops/5254841 Comments URL: https://news.ycombinator.com/item?id=48523034 Points: 3 # Comments: 0",
+          "published_at": "2026-06-14 00:41",
+          "tags": []
+        },
+        {
+          "title": "QodFlow – a Kanban board AI agents can drive via MCP",
+          "url": "https://www.qodflow.com",
+          "source": "Hacker News AI",
+          "summary": "Hi HN. We built QodFlow because we wanted a kanban board our AI agents could work directly — not a chatbot bolted onto the sidebar.It exposes an MCP server. An agent connects with a scoped, revocable token and can: claim_job, report_progress, attach_evidence, request_human_decision, resolve_decision. Every call writes to the same job timeline humans see, tagged human vs agent, so there's one audit trail of who (or what) did what. When an agent hits something irreversible it opens a request_human",
+          "published_at": "2026-06-14 00:14",
+          "tags": []
+        },
+        {
+          "title": "Anthropic's Zero Trust for AI Agents Sets the Right Test. The Bearer Token Fails",
+          "url": "https://blog.hello.coop/2026/06/anthropics-zero-trust-for-ai-agents-sets-the-right-test-the-bearer-token-fails-it/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blog.hello.coop/2026/06/anthropics-zero-trust-for-ai-agents-sets-the-right-test-the-bearer-token-fails-it/ Comments URL: https://news.ycombinator.com/item?id=48522754 Points: 4 # Comments: 0",
+          "published_at": "2026-06-14 00:03",
+          "tags": []
+        },
+        {
+          "title": "Llama.cpp – Run LLM Inference in C/C++",
+          "url": "https://llama-cpp.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://llama-cpp.com/ Comments URL: https://news.ycombinator.com/item?id=48522662 Points: 2 # Comments: 0",
+          "published_at": "2026-06-13 23:50",
+          "tags": []
+        },
+        {
+          "title": "Some Ethical Problems with AI",
+          "url": "https://arkvis.com/blog/2026-06-10_some-ethical-problems-with-ai.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arkvis.com/blog/2026-06-10_some-ethical-problems-with-ai.html Comments URL: https://news.ycombinator.com/item?id=48522538 Points: 2 # Comments: 0",
+          "published_at": "2026-06-13 23:32",
+          "tags": []
+        },
+        {
+          "title": "OpenAI faces investigation from state attorneys general",
+          "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+          "source": "TechCrunch AI",
+          "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+          "published_at": "2026-06-13 16:47",
+          "tags": [
+            "AI",
+            "Government & Policy",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "My yard is dying, so I made an app for that",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+          "source": "The Verge AI",
+          "summary": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the bug. Pretty weird [&#8230;]",
+          "published_at": "2026-06-13 09:00",
+          "tags": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Mistral is rumored to be raising €3B at €20B valuation",
+          "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+          "source": "TechCrunch AI",
+          "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
+          "published_at": "2026-06-12 17:38",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "In Brief",
+            "Mistral AI"
+          ]
+        },
+        {
+          "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+          "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+          "source": "TechCrunch AI",
+          "summary": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half&#160;of that&#160;bunch is heading to public markets in the same window,&#160;and&#160;it&#8217;s&#160;a stress test for investors, for valuations, and for [&#8230;]",
+          "published_at": "2026-06-12 16:23",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "ai infrastructure",
+            "Anthropic",
+            "Apple WWDC",
+            "ChatGPT",
+            "FAANG",
+            "Google",
+            "IPO",
+            "MANGOS",
+            "OpenAI",
+            "Sam Bankman-Fried",
+            "SBF",
+            "SpaceX",
+            "Waymo"
+          ]
+        }
+      ]
+    }
+  ]
+}
