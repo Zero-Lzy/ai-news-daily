@@ -1,5 +1,135 @@
 [
   {
+    "title": "Fugee, an agentic AI assistant for displaced people and asylum seekers [video]",
+    "url": "https://www.youtube.com/watch?v=PYGzJZj7LfM",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=PYGzJZj7LfM Comments URL: https://news.ycombinator.com/item?id=48536689 Points: 2 # Comments: 0",
+    "published_at": "2026-06-15 04:42",
+    "tags": [],
+    "fetch_date": "2026-06-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask HN: What does your local LLM setup looks like?",
+    "url": "https://news.ycombinator.com/item?id=48536531",
+    "source": "Hacker News AI",
+    "summary": "What models and hardware you are using? For what purpose? What were the challenges? Any tricks that helped you in doing this?This might help new users like me setup theirs. Comments URL: https://news.ycombinator.com/item?id=48536531 Points: 2 # Comments: 0",
+    "published_at": "2026-06-15 04:17",
+    "tags": [],
+    "fetch_date": "2026-06-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Is using AI in school cheating?",
+    "url": "https://www.totalnoise.ai/blog/educationandai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.totalnoise.ai/blog/educationandai/ Comments URL: https://news.ycombinator.com/item?id=48536463 Points: 1 # Comments: 0",
+    "published_at": "2026-06-15 04:03",
+    "tags": [],
+    "fetch_date": "2026-06-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Google sues alleged operators of an AI-powered phishing kit",
+    "url": "https://www.reuters.com/legal/government/google-targets-ai-powered-phishing-new-york-lawsuit-2026-06-12/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.reuters.com/legal/government/google-targets-ai-powered-phishing-new-york-lawsuit-2026-06-12/ Comments URL: https://news.ycombinator.com/item?id=48536446 Points: 1 # Comments: 0",
+    "published_at": "2026-06-15 04:01",
+    "tags": [],
+    "fetch_date": "2026-06-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Domain-Specific AI for Pharma, Biotech and Medical Professionals",
+    "url": "https://www.noah.bio/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.noah.bio/ Comments URL: https://news.ycombinator.com/item?id=48536425 Points: 1 # Comments: 0",
+    "published_at": "2026-06-15 03:57",
+    "tags": [],
+    "fetch_date": "2026-06-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "You Can Game AI Peer Review with Presentation-Only Revisions",
+    "url": "https://arxiv.org/abs/2606.13044",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2606.13044 Comments URL: https://news.ycombinator.com/item?id=48536341 Points: 1 # Comments: 0",
+    "published_at": "2026-06-15 03:40",
+    "tags": [],
+    "fetch_date": "2026-06-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Teaching Machine Learning to Software Engineers",
+    "url": "https://arxiv.org/abs/2606.14618",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2606.14618 Comments URL: https://news.ycombinator.com/item?id=48536253 Points: 1 # Comments: 0",
+    "published_at": "2026-06-15 03:29",
+    "tags": [],
+    "fetch_date": "2026-06-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Nvidia Is the Federal Reserve of AI",
+    "url": "https://ramansharma.substack.com/p/nvidia-is-the-federal-reserve-of",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://ramansharma.substack.com/p/nvidia-is-the-federal-reserve-of Comments URL: https://news.ycombinator.com/item?id=48536189 Points: 2 # Comments: 0",
+    "published_at": "2026-06-15 03:19",
+    "tags": [],
+    "fetch_date": "2026-06-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Enterprise AI Agents Are Leaving the Server",
+    "url": "https://focused.io/lab/enterprise-ai-agents-are-leaving-the-server",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://focused.io/lab/enterprise-ai-agents-are-leaving-the-server Comments URL: https://news.ycombinator.com/item?id=48536050 Points: 1 # Comments: 0",
+    "published_at": "2026-06-15 02:56",
+    "tags": [],
+    "fetch_date": "2026-06-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Has Amnesia. Here's Every System Built to Fix It",
+    "url": "https://medium.com/@alanayalag/your-ai-has-amnesia-heres-every-system-built-to-fix-it-ad7dee117a75",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://medium.com/@alanayalag/your-ai-has-amnesia-heres-every-system-built-to-fix-it-ad7dee117a75 Comments URL: https://news.ycombinator.com/item?id=48535797 Points: 8 # Comments: 2",
+    "published_at": "2026-06-15 02:16",
+    "tags": [],
+    "fetch_date": "2026-06-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Polis – the #1 tool for AI agent coordination",
+    "url": "https://polis-protocol.vercel.app/#",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://polis-protocol.vercel.app/# Comments URL: https://news.ycombinator.com/item?id=48535529 Points: 2 # Comments: 0",
+    "published_at": "2026-06-15 01:43",
+    "tags": [],
+    "fetch_date": "2026-06-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "BEAVER: Enterprise benchmark for LLM Text-to-SQL from private data warehouses",
+    "url": "https://beaverbench.github.io/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://beaverbench.github.io/ Comments URL: https://news.ycombinator.com/item?id=48535312 Points: 2 # Comments: 0",
+    "published_at": "2026-06-15 01:20",
+    "tags": [],
+    "fetch_date": "2026-06-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The More Confident in AI Security, the More Likely Breached, Study Finds",
+    "url": "https://www.itsecurityguru.org/2026/06/11/the-more-confident-organizations-are-in-their-ai-security-the-more-likely-theyve-been-breached-new-research-finds/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.itsecurityguru.org/2026/06/11/the-more-confident-organizations-are-in-their-ai-security-the-more-likely-theyve-been-breached-new-research-finds/ Comments URL: https://news.ycombinator.com/item?id=48535248 Points: 4 # Comments: 0",
+    "published_at": "2026-06-15 01:12",
+    "tags": [],
+    "fetch_date": "2026-06-15",
+    "fetch_label": "早报"
+  },
+  {
     "title": "KPMG pulls report on AI usage due to apparent hallucinations",
     "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
     "source": "Hacker News AI",
@@ -237,6 +367,25 @@
     "published_at": "2026-06-13 23:32",
     "tags": [],
     "fetch_date": "2026-06-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+    "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+    "source": "TechCrunch AI",
+    "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+    "published_at": "2026-06-13 19:11",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "Security",
+      "Amazon",
+      "Andy Jassy",
+      "Anthropic",
+      "david sacks",
+      "Scott Bessent"
+    ],
+    "fetch_date": "2026-06-15",
     "fetch_label": "早报"
   },
   {
