@@ -1,0 +1,150 @@
+{
+  "date": "2026-06-16",
+  "runs": [
+    {
+      "label": "晚报",
+      "time": "2026-06-16 01:15:41",
+      "count": 15,
+      "articles": [
+        {
+          "title": "How AI is revealing the secret lives of animals from hummingbirds to pumas",
+          "url": "https://www.nature.com/articles/d41586-026-01887-w",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.nature.com/articles/d41586-026-01887-w Comments URL: https://news.ycombinator.com/item?id=48544286 Points: 1 # Comments: 0",
+          "published_at": "2026-06-15 17:15",
+          "tags": []
+        },
+        {
+          "title": "The Golden Age of AI Applications",
+          "url": "https://tomtunguz.com/golden-age-of-applications/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://tomtunguz.com/golden-age-of-applications/ Comments URL: https://news.ycombinator.com/item?id=48544217 Points: 1 # Comments: 0",
+          "published_at": "2026-06-15 17:10",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: Specialization to stay relevant in the age of AI",
+          "url": "https://news.ycombinator.com/item?id=48544117",
+          "source": "Hacker News AI",
+          "summary": "I've had a lot of discussions with peers about the possibility of us being replaced via ai agents and how to stay relevant, given a future where AI intelligence keeps improving to the point of being capable of replacing potentially any job.My personal strategy is specialization, because I've noticed that I cannot work with AI in hard domains that I haven't got a background in. For example, I've tried to use claude opus to understand a phd thesis in quantum physics from a friend. My background is",
+          "published_at": "2026-06-15 17:02",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Micro Coach – an AI workout planner built by a former personal trainer",
+          "url": "https://microcoachapp.com/",
+          "source": "Hacker News AI",
+          "summary": "I spent the past year building Micro Coach with two partners.It creates personalized 4-week training blocks based on your goals, schedule, experience level, equipment, and preferences. Users can also generate individual workouts, track progress, and view training analytics.I built it using my background in both software engineering and personal training.I’d appreciate feedback on the onboarding, workout generation, and overall product experience:https://microcoachapp.com Comments URL: https://ne",
+          "published_at": "2026-06-15 16:57",
+          "tags": []
+        },
+        {
+          "title": "Stack Overflow Is Being Reborn as a Back-End Service for AI Agents",
+          "url": "https://devops.com/stack-overflow-is-being-reborn-as-a-back-end-service-for-ai-agents/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://devops.com/stack-overflow-is-being-reborn-as-a-back-end-service-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48543999 Points: 3 # Comments: 0",
+          "published_at": "2026-06-15 16:54",
+          "tags": []
+        },
+        {
+          "title": "AI Cures Organizational Dementia",
+          "url": "https://leadprompt.sh/a/735-AI-Cures-Organizational-Dementia-2026w15",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://leadprompt.sh/a/735-AI-Cures-Organizational-Dementia-2026w15 Comments URL: https://news.ycombinator.com/item?id=48543954 Points: 1 # Comments: 0",
+          "published_at": "2026-06-15 16:50",
+          "tags": []
+        },
+        {
+          "title": "Show HN: 100Hires MCP, 130 tools to run an ATS through LLM. Is 130 too many?",
+          "url": "https://100hires.com/mcp",
+          "source": "Hacker News AI",
+          "summary": "Hi HN. I'm one of the co-founders of 100Hires ATS. We built an MCP server on top of our REST API.I would love HN to weigh in on whether 130 tools are too many. Big competitors have 30-40Some details:Three layers, from the bottom up: - REST API v2: 87 endpoints, OpenAPI 3.0 spec, Bearer auth, public docs at 100hires.com/api - MCP server: 130 tools mapping roughly 1:1 to REST endpoints, hosted at mcp.100hires.com/mcp, ~400 LOC of wrapper code - ChatGPT plugin: thin wrapper on the MCP, OAuth handle",
+          "published_at": "2026-06-15 16:48",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Offline AI assistant for Android (PDFs, Wikipedia, more)",
+          "url": "https://github.com/geograms/eva",
+          "source": "Hacker News AI",
+          "summary": "Hello,This an app for offgriders to use in situations without internet. Permits to download wikipedia and to make questions over the folders with books that you have on the storage of the phone.Other features are the offline maps, where it permits to ask the bot about points of interest in a specific region and these maps stay in the storage to be used later when needed.In addition contains other actions such as music player, akin to alexa sans internet so you can play musics using your voice (a",
+          "published_at": "2026-06-15 16:37",
+          "tags": []
+        },
+        {
+          "title": "First Steps Toward Automated AI Research",
+          "url": "https://www.recursive.com/articles/first-steps-toward-automated-ai-research",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.recursive.com/articles/first-steps-toward-automated-ai-research Comments URL: https://news.ycombinator.com/item?id=48543764 Points: 1 # Comments: 0",
+          "published_at": "2026-06-15 16:36",
+          "tags": []
+        },
+        {
+          "title": "Show HN: AI traders you author, argue with and coach",
+          "url": "https://degen.strayforge.com",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://degen.strayforge.com Comments URL: https://news.ycombinator.com/item?id=48543740 Points: 1 # Comments: 0",
+          "published_at": "2026-06-15 16:34",
+          "tags": []
+        },
+        {
+          "title": "Sovereign AI is not just about building a national AI model",
+          "url": "https://www.bullbear.ninja/board/12",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bullbear.ninja/board/12 Comments URL: https://news.ycombinator.com/item?id=48543437 Points: 2 # Comments: 0",
+          "published_at": "2026-06-15 16:13",
+          "tags": []
+        },
+        {
+          "title": "AI Slop Has Taken over LinkedIn",
+          "url": "https://keegan.codes/blog/a-slop-has-taken-over-linkedin",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://keegan.codes/blog/a-slop-has-taken-over-linkedin Comments URL: https://news.ycombinator.com/item?id=48543246 Points: 3 # Comments: 2",
+          "published_at": "2026-06-15 16:01",
+          "tags": []
+        },
+        {
+          "title": "GPT-5 Nano Vulnerability test results you should know before deploying",
+          "url": "https://lateos.ai/llm-research/gpt5-nano/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://lateos.ai/llm-research/gpt5-nano/ Comments URL: https://news.ycombinator.com/item?id=48543243 Points: 2 # Comments: 0",
+          "published_at": "2026-06-15 16:01",
+          "tags": []
+        },
+        {
+          "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+          "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+          "source": "TechCrunch AI",
+          "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
+          "published_at": "2026-06-15 14:34",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "Agentforce",
+            "AI agents",
+            "Fin",
+            "In Brief",
+            "Mergers and Acquisitions",
+            "Salesforce"
+          ]
+        },
+        {
+          "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+          "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+          "source": "TechCrunch AI",
+          "summary": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
+          "published_at": "2026-06-15 13:46",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Startups",
+            "Bessemer Venture Partners",
+            "HCLTech",
+            "Khosla Ventures",
+            "lightspeed",
+            "Sarvam"
+          ]
+        }
+      ]
+    }
+  ]
+}
