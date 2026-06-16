@@ -1,0 +1,303 @@
+{
+  "date": "2026-06-17",
+  "runs": [
+    {
+      "label": "晚报",
+      "time": "2026-06-17 00:54:15",
+      "count": 27,
+      "articles": [
+        {
+          "title": "Sixty percent of U.S. consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
+          "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+          "source": "TechCrunch AI",
+          "summary": "WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.",
+          "published_at": "2026-06-16 16:49",
+          "tags": [
+            "AI",
+            "Media & Entertainment",
+            "AI search",
+            "WordPress"
+          ]
+        },
+        {
+          "title": "Building an LLM safe design system",
+          "url": "https://polar.sh/blog/orbit-llm-safe-design-system",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://polar.sh/blog/orbit-llm-safe-design-system Comments URL: https://news.ycombinator.com/item?id=48558134 Points: 1 # Comments: 0",
+          "published_at": "2026-06-16 16:48",
+          "tags": []
+        },
+        {
+          "title": "Supply Chain Capitalism, Platform Mercantilism, AI Coup",
+          "url": "https://www.ctrl-verlust.net/supplychain-kapitalismus-plattform-merkantilismus-ki-coup-und-die-grundrisse-einer-politischen-oekonomie-der-abhaengigkeiten/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.ctrl-verlust.net/supplychain-kapitalismus-plattform-merkantilismus-ki-coup-und-die-grundrisse-einer-politischen-oekonomie-der-abhaengigkeiten/ Comments URL: https://news.ycombinator.com/item?id=48558086 Points: 1 # Comments: 0",
+          "published_at": "2026-06-16 16:45",
+          "tags": []
+        },
+        {
+          "title": "I packaged 20 years of enterprise AI sales experience as a Claude Skill",
+          "url": "https://github.com/vonarmen-wq/forward-deployed-selling",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/vonarmen-wq/forward-deployed-selling Comments URL: https://news.ycombinator.com/item?id=48558062 Points: 1 # Comments: 0",
+          "published_at": "2026-06-16 16:43",
+          "tags": []
+        },
+        {
+          "title": "The Pokémon Trading Card Game AI Battle Challenge",
+          "url": "https://ptcg-abc.pokemon.co.jp/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://ptcg-abc.pokemon.co.jp/ Comments URL: https://news.ycombinator.com/item?id=48557964 Points: 2 # Comments: 0",
+          "published_at": "2026-06-16 16:37",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Dino – An AI coding agent that keeps you in the loop",
+          "url": "https://smartdino.dev",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://smartdino.dev Comments URL: https://news.ycombinator.com/item?id=48557935 Points: 1 # Comments: 0",
+          "published_at": "2026-06-16 16:35",
+          "tags": []
+        },
+        {
+          "title": "Can LLM Agents Infer World Models? Evidence from Agentic Automata Learning",
+          "url": "https://arxiv.org/abs/2606.16576",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2606.16576 Comments URL: https://news.ycombinator.com/item?id=48557815 Points: 1 # Comments: 0",
+          "published_at": "2026-06-16 16:28",
+          "tags": []
+        },
+        {
+          "title": "Uncritical use of AI causes countrywide scandal at Starbucks Korea",
+          "url": "https://www.theguardian.com/world/2026/jun/16/starbucks-korea-shut-all-stores-tank-day-promotionBuriedlede:AIcausedthis%3EMarketerschosethe“thwack”sloganafterconsultinganAItoolforsuggestions,ShinsegaeGroupsaid.Itturnedoutsomemanagerswhoapprovedthecampaignneveropenedtheemailattachmentsshowingthemarketingmaterial.%3EThecompanypulledthecampaignwithinhours,butthefalloutwasswiftandthechiefexecutivewassackedthesameday.",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theguardian.com/world/2026/jun/16/starbucks-korea-shut-all-stores-tank-day-promotionBuriedlede:AIcausedthis%3EMarketerschosethe“thwack”sloganafterconsultinganAItoolforsuggestions,ShinsegaeGroupsaid.Itturnedoutsomemanagerswhoapprovedthecampaignneveropenedtheemailattachmentsshowingthemarketingmaterial.%3EThecompanypulledthecampaignwithinhours,butthefalloutwasswiftandthechiefexecutivewassackedthesameday. Comments URL: https://news.ycombinator.com/item?id=48557740 Points: 2 ",
+          "published_at": "2026-06-16 16:23",
+          "tags": []
+        },
+        {
+          "title": "How we evaluate our LLM judge",
+          "url": "https://build.forus.com/how-we-evaluate-our-llm-judge-a-perturbation-based-approach",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://build.forus.com/how-we-evaluate-our-llm-judge-a-perturbation-based-approach Comments URL: https://news.ycombinator.com/item?id=48557707 Points: 3 # Comments: 0",
+          "published_at": "2026-06-16 16:21",
+          "tags": []
+        },
+        {
+          "title": "The AI Hype – Too Costly – Alternative Rock, Original Lyrics [Video]",
+          "url": "https://www.youtube.com/watch?v=jwfuNk2cRDc",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=jwfuNk2cRDc Comments URL: https://news.ycombinator.com/item?id=48557654 Points: 2 # Comments: 0",
+          "published_at": "2026-06-16 16:19",
+          "tags": []
+        },
+        {
+          "title": "SearchGate – An AI Content Blocker",
+          "url": "https://chromewebstore.google.com/detail/searchgate/cholhbhkhcnekbbobehnepiifckhbmkd",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://chromewebstore.google.com/detail/searchgate/cholhbhkhcnekbbobehnepiifckhbmkd Comments URL: https://news.ycombinator.com/item?id=48557343 Points: 2 # Comments: 0",
+          "published_at": "2026-06-16 16:00",
+          "tags": []
+        },
+        {
+          "title": "FT Alphaville's AI Prediction World Cup",
+          "url": "https://www.ft.com/content/ce992051-05f4-40cd-a515-1ccd615f9e40",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.ft.com/content/ce992051-05f4-40cd-a515-1ccd615f9e40 Comments URL: https://news.ycombinator.com/item?id=48557339 Points: 2 # Comments: 1",
+          "published_at": "2026-06-16 16:00",
+          "tags": []
+        },
+        {
+          "title": "The Era of AI Malaise",
+          "url": "https://www.technologyreview.com/2026/04/21/1135921/ai-malaise-artificial-intelligence-public-sentiment/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.technologyreview.com/2026/04/21/1135921/ai-malaise-artificial-intelligence-public-sentiment/ Comments URL: https://news.ycombinator.com/item?id=48557306 Points: 2 # Comments: 1",
+          "published_at": "2026-06-16 15:58",
+          "tags": []
+        },
+        {
+          "title": "Why AI Will Accelerate Health Care Inflation",
+          "url": "https://www.healthaffairs.org/content/forefront/why-ai-accelerate-health-care-inflation",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.healthaffairs.org/content/forefront/why-ai-accelerate-health-care-inflation Comments URL: https://news.ycombinator.com/item?id=48557264 Points: 4 # Comments: 0",
+          "published_at": "2026-06-16 15:55",
+          "tags": []
+        },
+        {
+          "title": "A look into Ubuntu Core 26: Building a local AI inference appliance",
+          "url": "https://ubuntu.com/blog/ubuntu-core-26-ai-box",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://ubuntu.com/blog/ubuntu-core-26-ai-box Comments URL: https://news.ycombinator.com/item?id=48557018 Points: 3 # Comments: 0",
+          "published_at": "2026-06-16 15:41",
+          "tags": []
+        },
+        {
+          "title": "Show HN: BlitzGraph – Supabase for graphs, built for LLM agents",
+          "url": "https://blitzgraph.com",
+          "source": "Hacker News AI",
+          "summary": "Hello HN After becoming allergic to SQL, I opened 120+ issues in Dgraph, Typedb and surrealdb looking for the perfect graphDB. None of them was built for agents nor were they the perfect fit for what we wanted to achieve: fully ditching the SQL legacy to properly model reality. So we decided to build BlitzGraphIn BlitzGraph, records (units) can belong to multiple types (kinds) and evolve through time. Also polymorphic relations are first class and multiple kinds can play the same role. This desi",
+          "published_at": "2026-06-16 15:41",
+          "tags": []
+        },
+        {
+          "title": "Show HN: An AI resume tool that never invents experience you didn't have",
+          "url": "https://hiredcopilot.com",
+          "source": "Hacker News AI",
+          "summary": "I have seen way too many people waste time tailoring their resumes to a specific Job description, practicing interview questions etc. and most of them don't trust AI tailoring and rightfully so, cuz it invents experience you never had. All it takes is the interviewer asking you one question that you do not know the answer to and the house of cards falls. So hear me out:I made HiredCopilot an AI tool that helps you tailor your resume for a specific job description and I made it different. Apart f",
+          "published_at": "2026-06-16 15:22",
+          "tags": []
+        },
+        {
+          "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
+          "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+          "source": "TechCrunch AI",
+          "summary": "Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers.",
+          "published_at": "2026-06-16 15:00",
+          "tags": [
+            "AI",
+            "Gadgets",
+            "AI note-taking",
+            "hardware",
+            "meetings",
+            "plaud"
+          ]
+        },
+        {
+          "title": "Probably raises $9M to build a more reliable kind of AI",
+          "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.",
+          "published_at": "2026-06-16 13:15",
+          "tags": [
+            "Startups",
+            "AI",
+            "Andreessen Horowitz",
+            "hallucinations",
+            "Probably"
+          ]
+        },
+        {
+          "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+          "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+          "source": "TechCrunch AI",
+          "summary": "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
+          "published_at": "2026-06-16 06:59",
+          "tags": [
+            "Startups",
+            "AI",
+            "malaysia",
+            "Asia",
+            "respond"
+          ]
+        },
+        {
+          "title": "Inside the fight over Claude Mythos 5",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+          "source": "The Verge AI",
+          "summary": "As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release. At 5:21 PM on Friday, the company received a US export control directive to suspend access to its Mythos 5 and Fable 5 [&#8230;]",
+          "published_at": "2026-06-15 23:00",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "Policy",
+            "Report"
+          ]
+        },
+        {
+          "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+          "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+          "source": "TechCrunch AI",
+          "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference.",
+          "published_at": "2026-06-15 21:50",
+          "tags": [
+            "AI",
+            "Government & Policy",
+            "Security",
+            "Anthropic",
+            "cybersecurity",
+            "fable",
+            "Mythos",
+            "Trump Administration",
+            "us government"
+          ]
+        },
+        {
+          "title": "All the news about Anthropic&#8217;s new AI fight with the White House",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+          "source": "The Verge AI",
+          "summary": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and Mythos 5. When they launched on June 9th, Anthropic said &#8220;Fable 5’s capabilities exceed those of any [&#8230;]",
+          "published_at": "2026-06-15 15:04",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "News",
+            "Policy",
+            "Politics",
+            "Security",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
+          "source": "The Verge AI",
+          "summary": "At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend. The American company said it had little choice after the White House demanded it block access for all foreign nationals, including its own employees. Abroad, the incident offered a sobering reminder that the US not only dominates frontier [&#8230;]",
+          "published_at": "2026-06-15 14:10",
+          "tags": [
+            "AI",
+            "Analysis",
+            "Anthropic",
+            "Policy",
+            "Report"
+          ]
+        },
+        {
+          "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+          "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+          "source": "TechCrunch AI",
+          "summary": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
+          "published_at": "2026-06-15 13:46",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Startups",
+            "Bessemer Venture Partners",
+            "HCLTech",
+            "Khosla Ventures",
+            "lightspeed",
+            "Sarvam"
+          ]
+        },
+        {
+          "title": "Big Tech’s desperate last push at AI regulation",
+          "url": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
+          "source": "The Verge AI",
+          "summary": "For months, Big Tech's Washington lobbyists have chased after the holy grail of pro-AI legislation: preemption. This would be a comprehensive federal law, passed in Congress and signed by the president, applying one set of AI rules across the entire country and overriding the legally messy state-by-state approach to regulation. For months, lobbyists have run [&#8230;]",
+          "published_at": "2026-06-15 13:44",
+          "tags": [
+            "AI",
+            "Policy",
+            "Politics",
+            "Social Media",
+            "Tech"
+          ]
+        },
+        {
+          "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+          "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+          "source": "TechCrunch AI",
+          "summary": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
+          "published_at": "2026-06-15 13:00",
+          "tags": [
+            "AI",
+            "Security",
+            "Startups",
+            "AI agents",
+            "cyberstarts",
+            "NewCore"
+          ]
+        }
+      ]
+    }
+  ]
+}
