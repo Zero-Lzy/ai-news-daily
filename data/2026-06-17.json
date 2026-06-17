@@ -558,6 +558,169 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-06-17 23:33:44",
+      "count": 11,
+      "articles": [
+        {
+          "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
+          "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+          "source": "TechCrunch AI",
+          "summary": "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.",
+          "published_at": "2026-06-17 15:00",
+          "tags": [
+            "AI",
+            "Startups",
+            "a16z",
+            "robots",
+            "Thrive Capital"
+          ]
+        },
+        {
+          "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+          "url": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation — where errors can be costly and reliability is at a premium.",
+          "published_at": "2026-06-17 14:15",
+          "tags": [
+            "AI",
+            "formal verification",
+            "reliability"
+          ]
+        },
+        {
+          "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
+          "url": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+          "source": "TechCrunch AI",
+          "summary": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India.",
+          "published_at": "2026-06-17 12:38",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "Canada Pension Plan Investment Board",
+            "CPP Investments",
+            "CtrlS"
+          ]
+        },
+        {
+          "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
+          "url": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
+          "source": "TechCrunch AI",
+          "summary": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface.",
+          "published_at": "2026-06-17 11:00",
+          "tags": [
+            "AI",
+            "Apps",
+            "Commerce",
+            "TC",
+            "AI chatbot",
+            "Pinterest",
+            "shopping"
+          ]
+        },
+        {
+          "title": "The next humanoid robot might not look human at all",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
+          "source": "The Verge AI",
+          "summary": "The next humanoid robot might not have a head. It might not have legs. It might even sit on a wheeled base and fold down like a deck chair. But, as Genesis AI puts it, \"humanoid robots don't need to look human.\" That explains the look of Eno, the new robot from the French startup [&#8230;]",
+          "published_at": "2026-06-17 05:46",
+          "tags": [
+            "AI",
+            "News",
+            "Robot",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
+          "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+          "source": "TechCrunch AI",
+          "summary": "Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers.",
+          "published_at": "2026-06-16 15:00",
+          "tags": [
+            "AI",
+            "Gadgets",
+            "AI note-taking",
+            "hardware",
+            "meetings",
+            "plaud"
+          ]
+        },
+        {
+          "title": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
+          "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
+          "source": "TechCrunch AI",
+          "summary": "Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note about layoffs.",
+          "published_at": "2026-06-16 14:50",
+          "tags": [
+            "AI",
+            "Fintech",
+            "Layoffs",
+            "Robinhood"
+          ]
+        },
+        {
+          "title": "Probably raises $9M to build a more reliable kind of AI",
+          "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.",
+          "published_at": "2026-06-16 13:15",
+          "tags": [
+            "Startups",
+            "AI",
+            "Andreessen Horowitz",
+            "hallucinations",
+            "Probably"
+          ]
+        },
+        {
+          "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
+          "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+          "source": "TechCrunch AI",
+          "summary": "The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI.",
+          "published_at": "2026-06-16 11:21",
+          "tags": [
+            "AI",
+            "Space",
+            "artificial intelligence",
+            "cursor",
+            "Mergers and Acquisitions",
+            "SpaceX"
+          ]
+        },
+        {
+          "title": "ChatGPT’s market share slips below 50% for first time",
+          "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+          "source": "TechCrunch AI",
+          "summary": "The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude with 245 million.",
+          "published_at": "2026-06-16 10:30",
+          "tags": [
+            "AI",
+            "Apps",
+            "ChatGPT",
+            "gemini",
+            "OpenAI",
+            "sensor tower"
+          ]
+        },
+        {
+          "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+          "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+          "source": "TechCrunch AI",
+          "summary": "Respond.io, one of Malaysia's startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
+          "published_at": "2026-06-16 06:59",
+          "tags": [
+            "AI",
+            "Startups",
+            "AI agents",
+            "Asia",
+            "malaysia",
+            "respond"
+          ]
+        }
+      ]
     }
   ]
 }
