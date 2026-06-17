@@ -1,5 +1,21 @@
 [
   {
+    "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+    "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+    "source": "TechCrunch AI",
+    "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices.",
+    "published_at": "2026-06-16 18:00",
+    "tags": [
+      "AI",
+      "Apps",
+      "android 17",
+      "Google",
+      "Pixel Drop"
+    ],
+    "fetch_date": "2026-06-17",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Sixty percent of U.S. consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
     "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
     "source": "TechCrunch AI",
@@ -192,6 +208,21 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
+    "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
+    "source": "TechCrunch AI",
+    "summary": "Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note about layoffs.",
+    "published_at": "2026-06-16 14:50",
+    "tags": [
+      "AI",
+      "Fintech",
+      "Layoffs",
+      "Robinhood"
+    ],
+    "fetch_date": "2026-06-17",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Probably raises $9M to build a more reliable kind of AI",
     "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
     "source": "TechCrunch AI",
@@ -206,6 +237,75 @@
     ],
     "fetch_date": "2026-06-17",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
+    "url": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
+    "source": "The Verge AI",
+    "summary": "Now that we're clear of WWDC and all of the new AI-powered features coming to Apple's platforms, Bloomberg reporter Mark Gurman has more details about rumored new hardware, like the camera-equipped AirPods he'd previously written about. He says they are currently on schedule for a late 2027 launch, and that while we're checking out beta [&#8230;]",
+    "published_at": "2026-06-16 13:04",
+    "tags": [
+      "AI",
+      "Apple",
+      "Apple Rumors",
+      "Audio",
+      "Foldable Phones",
+      "Gadgets",
+      "iPhone",
+      "Mobile",
+      "Tech",
+      "Wearable"
+    ],
+    "fetch_date": "2026-06-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
+    "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+    "source": "TechCrunch AI",
+    "summary": "The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI.",
+    "published_at": "2026-06-16 11:21",
+    "tags": [
+      "AI",
+      "Space",
+      "artificial intelligence",
+      "cursor",
+      "Mergers and Acquisitions",
+      "SpaceX"
+    ],
+    "fetch_date": "2026-06-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "ChatGPT’s market share slips below 50% for first time",
+    "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+    "source": "TechCrunch AI",
+    "summary": "The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude with 245 million.",
+    "published_at": "2026-06-16 10:30",
+    "tags": [
+      "AI",
+      "Apps",
+      "ChatGPT",
+      "gemini",
+      "OpenAI",
+      "sensor tower"
+    ],
+    "fetch_date": "2026-06-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "SpaceX is officially buying Cursor for $60 billion",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion",
+    "source": "The Verge AI",
+    "summary": "Days after its massive IPO, SpaceX says it is spending $60 billion to buy Cursor - a bet designed to help Elon Musk's sprawling rocket / AI / social media behemoth win over lucrative enterprise customers and close the gap with AI rivals like Anthropic and OpenAI. The takeover was not entirely unexpected: SpaceX announced [&#8230;]",
+    "published_at": "2026-06-16 07:41",
+    "tags": [
+      "AI",
+      "News",
+      "xAI"
+    ],
+    "fetch_date": "2026-06-17",
+    "fetch_label": "早报"
   },
   {
     "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
@@ -273,6 +373,24 @@
     ],
     "fetch_date": "2026-06-17",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+    "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+    "source": "TechCrunch AI",
+    "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
+    "published_at": "2026-06-15 18:30",
+    "tags": [
+      "AI",
+      "Apps",
+      "Social",
+      "Facebook",
+      "Generative AI",
+      "Meta",
+      "Search"
+    ],
+    "fetch_date": "2026-06-17",
+    "fetch_label": "早报"
   },
   {
     "title": "How AI is revealing the secret lives of animals from hummingbirds to pumas",
