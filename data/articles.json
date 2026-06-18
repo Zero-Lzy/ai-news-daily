@@ -1,5 +1,166 @@
 [
   {
+    "title": "Interesting Google AI Results",
+    "url": "https://www.google.com/search?q=nvm",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.google.com/search?q=nvm Comments URL: https://news.ycombinator.com/item?id=48580726 Points: 1 # Comments: 1",
+    "published_at": "2026-06-18 04:12",
+    "tags": [],
+    "fetch_date": "2026-06-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Agents for Contractors",
+    "url": "https://dolfyn.ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://dolfyn.ai/ Comments URL: https://news.ycombinator.com/item?id=48580402 Points: 1 # Comments: 1",
+    "published_at": "2026-06-18 03:27",
+    "tags": [],
+    "fetch_date": "2026-06-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The year designers stopped being just designers – AI in Design Report 2026",
+    "url": "https://www.artificialstudio.ai/blog/ai-design-report-2026",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.artificialstudio.ai/blog/ai-design-report-2026 Comments URL: https://news.ycombinator.com/item?id=48580378 Points: 1 # Comments: 2",
+    "published_at": "2026-06-18 03:24",
+    "tags": [],
+    "fetch_date": "2026-06-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Companies question cost of AI as tokenmaxxing spending adds up",
+    "url": "https://www.cbc.ca/news/business/ai-spending-ending-tokenmaxxing-tokenomics-9.7237680",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.cbc.ca/news/business/ai-spending-ending-tokenmaxxing-tokenomics-9.7237680 Comments URL: https://news.ycombinator.com/item?id=48580282 Points: 2 # Comments: 1",
+    "published_at": "2026-06-18 03:11",
+    "tags": [],
+    "fetch_date": "2026-06-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Inside Rainbow's AI clash with its fashion models",
+    "url": "https://www.businessinsider.com/rainbow-shops-fashion-models-ai-use-jobs-impact-2026-6",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.businessinsider.com/rainbow-shops-fashion-models-ai-use-jobs-impact-2026-6 Comments URL: https://news.ycombinator.com/item?id=48580182 Points: 1 # Comments: 0",
+    "published_at": "2026-06-18 02:59",
+    "tags": [],
+    "fetch_date": "2026-06-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Personal AI Video Agent",
+    "url": "https://elvalabs.ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://elvalabs.ai Comments URL: https://news.ycombinator.com/item?id=48580110 Points: 1 # Comments: 2",
+    "published_at": "2026-06-18 02:50",
+    "tags": [],
+    "fetch_date": "2026-06-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Meta head of product for 'AI for work' transformation is leaving company",
+    "url": "https://www.reuters.com/world/meta-head-product-ai-work-transformation-is-leaving-company-2026-06-17/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.reuters.com/world/meta-head-product-ai-work-transformation-is-leaving-company-2026-06-17/ Comments URL: https://news.ycombinator.com/item?id=48580103 Points: 12 # Comments: 1",
+    "published_at": "2026-06-18 02:49",
+    "tags": [],
+    "fetch_date": "2026-06-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "GenDB – LLM-Powered Generative Query Engine",
+    "url": "https://solidlao.github.io/GenDB/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://solidlao.github.io/GenDB/ Comments URL: https://news.ycombinator.com/item?id=48579954 Points: 1 # Comments: 0",
+    "published_at": "2026-06-18 02:35",
+    "tags": [],
+    "fetch_date": "2026-06-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "[x86] AI Compute Extensions (ACE) Specification",
+    "url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/ Comments URL: https://news.ycombinator.com/item?id=48579913 Points: 15 # Comments: 5",
+    "published_at": "2026-06-18 02:32",
+    "tags": [],
+    "fetch_date": "2026-06-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Six Numbers from Running 1,500 AI Agents Simultaneously",
+    "url": "https://amitlimaye1.substack.com/p/six-numbers-from-running-1500-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://amitlimaye1.substack.com/p/six-numbers-from-running-1500-ai Comments URL: https://news.ycombinator.com/item?id=48579822 Points: 2 # Comments: 0",
+    "published_at": "2026-06-18 02:22",
+    "tags": [],
+    "fetch_date": "2026-06-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Local personal data redaction for any AI tools",
+    "url": "https://github.com/sophia486/pii-gui",
+    "source": "Hacker News AI",
+    "summary": "I built the desktop app that detects and redacts personal data (or PII) locally without sending any text to server. It supports rule-based filtering and AI model-based redaction (eg openai privacy filter). It's open source and free. Please check out the repo and https://pii-gui.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48579589 Points: 3 # Comments: 0",
+    "published_at": "2026-06-18 01:52",
+    "tags": [],
+    "fetch_date": "2026-06-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Context intelligence for your data and AI agents at scale",
+    "url": "https://aws.amazon.com/blogs/machine-learning/context-intelligence-for-your-data-and-ai-agents-at-scale/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://aws.amazon.com/blogs/machine-learning/context-intelligence-for-your-data-and-ai-agents-at-scale/ Comments URL: https://news.ycombinator.com/item?id=48579171 Points: 2 # Comments: 0",
+    "published_at": "2026-06-18 00:56",
+    "tags": [],
+    "fetch_date": "2026-06-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Telling an LLM who made it changes which vendor it recommends",
+    "url": "https://research.mikepink.com/posts/llm-creator-preference/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://research.mikepink.com/posts/llm-creator-preference/ Comments URL: https://news.ycombinator.com/item?id=48579040 Points: 3 # Comments: 1",
+    "published_at": "2026-06-18 00:40",
+    "tags": [],
+    "fetch_date": "2026-06-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”",
+    "url": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
+    "source": "ArsTechnica AI",
+    "summary": "Tesco claimed Broadcom hiked its VMware prices by about 175 percent in UK court filings.",
+    "published_at": "2026-06-17 19:43",
+    "tags": [
+      "Biz & IT",
+      "Broadcom",
+      "lawsuit",
+      "vmware"
+    ],
+    "fetch_date": "2026-06-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+    "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+    "source": "TechCrunch AI",
+    "summary": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
+    "published_at": "2026-06-17 18:30",
+    "tags": [
+      "AI",
+      "Climate",
+      "Anthropic",
+      "carbon removal",
+      "frontier"
+    ],
+    "fetch_date": "2026-06-18",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
     "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
     "source": "TechCrunch AI",
