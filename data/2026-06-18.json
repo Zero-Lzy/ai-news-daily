@@ -194,6 +194,171 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-06-18 23:26:40",
+      "count": 16,
+      "articles": [
+        {
+          "title": "Show HN: 10x better performance from the Coding Harnesses with LLM-wiki",
+          "url": "https://llm-wiki.net/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://llm-wiki.net/ Comments URL: https://news.ycombinator.com/item?id=48586811 Points: 1 # Comments: 0",
+          "published_at": "2026-06-18 15:23",
+          "tags": []
+        },
+        {
+          "title": "Markup – A private cross-service home for AI-generated HTML",
+          "url": "https://sproutmarkup.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://sproutmarkup.com/ Comments URL: https://news.ycombinator.com/item?id=48586779 Points: 1 # Comments: 0",
+          "published_at": "2026-06-18 15:21",
+          "tags": []
+        },
+        {
+          "title": "Athena, a local command room for AI coding agents",
+          "url": "https://github.com/luckeyfaraday/Athena",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/luckeyfaraday/Athena Comments URL: https://news.ycombinator.com/item?id=48586771 Points: 1 # Comments: 0",
+          "published_at": "2026-06-18 15:20",
+          "tags": []
+        },
+        {
+          "title": "Pixel Screenshots no longer exclusively uses on-device AI",
+          "url": "https://9to5google.com/2026/06/17/pixel-screenshots-cloud-ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://9to5google.com/2026/06/17/pixel-screenshots-cloud-ai/ Comments URL: https://news.ycombinator.com/item?id=48586630 Points: 1 # Comments: 0",
+          "published_at": "2026-06-18 15:12",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Modelparams.dev: AI Model Parameters Database (UI, API, NPM)",
+          "url": "https://modelparams.dev/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://modelparams.dev/ Comments URL: https://news.ycombinator.com/item?id=48586555 Points: 2 # Comments: 0",
+          "published_at": "2026-06-18 15:07",
+          "tags": []
+        },
+        {
+          "title": "Botpool – 20k+ AI Freelancers Available for Hire",
+          "url": "https://www.botpool.ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.botpool.ai Comments URL: https://news.ycombinator.com/item?id=48586542 Points: 1 # Comments: 0",
+          "published_at": "2026-06-18 15:05",
+          "tags": []
+        },
+        {
+          "title": "Multilingual websites done right: what a CMS needs for AI visibility",
+          "url": "https://old.reddit.com/r/cms_tips/comments/1u94t8d/multilingual_websites_done_right_what_a_cms_needs/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://old.reddit.com/r/cms_tips/comments/1u94t8d/multilingual_websites_done_right_what_a_cms_needs/ Comments URL: https://news.ycombinator.com/item?id=48586418 Points: 1 # Comments: 0",
+          "published_at": "2026-06-18 14:57",
+          "tags": []
+        },
+        {
+          "title": "Who decides when AI is too dangerous?",
+          "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump Comments URL: https://news.ycombinator.com/item?id=48586359 Points: 2 # Comments: 0",
+          "published_at": "2026-06-18 14:53",
+          "tags": []
+        },
+        {
+          "title": "If AI is sentient, then so is \"Age of Empires II\"",
+          "url": "https://www.404media.co/if-ai-is-sentient-then-so-is-age-of-empires-ii/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.404media.co/if-ai-is-sentient-then-so-is-age-of-empires-ii/ Comments URL: https://news.ycombinator.com/item?id=48586304 Points: 2 # Comments: 1",
+          "published_at": "2026-06-18 14:50",
+          "tags": []
+        },
+        {
+          "title": "Layr – a modular UX and product constraint system for AI-built interfaces",
+          "url": "https://github.com/layr-hq/layr",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/layr-hq/layr Comments URL: https://news.ycombinator.com/item?id=48586133 Points: 8 # Comments: 0",
+          "published_at": "2026-06-18 14:39",
+          "tags": []
+        },
+        {
+          "title": "Manus original investors plan to buy back AI firm from Meta for $2B",
+          "url": "https://www.reuters.com/world/asia-pacific/manus-original-investors-plan-buy-back-ai-firm-meta-2-billion-information-2026-06-18/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.reuters.com/world/asia-pacific/manus-original-investors-plan-buy-back-ai-firm-meta-2-billion-information-2026-06-18/ Comments URL: https://news.ycombinator.com/item?id=48585116 Points: 3 # Comments: 1",
+          "published_at": "2026-06-18 13:39",
+          "tags": []
+        },
+        {
+          "title": "Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”",
+          "url": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
+          "source": "ArsTechnica AI",
+          "summary": "Tesco claimed Broadcom hiked its VMware prices by about 175 percent in UK court filings.",
+          "published_at": "2026-06-17 19:43",
+          "tags": [
+            "Biz & IT",
+            "Broadcom",
+            "lawsuit",
+            "vmware"
+          ]
+        },
+        {
+          "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+          "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
+          "published_at": "2026-06-17 18:30",
+          "tags": [
+            "AI",
+            "Climate",
+            "Anthropic",
+            "carbon removal",
+            "frontier"
+          ]
+        },
+        {
+          "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
+          "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+          "source": "TechCrunch AI",
+          "summary": "Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows.",
+          "published_at": "2026-06-17 17:00",
+          "tags": [
+            "AI",
+            "ChatGPT",
+            "gemini",
+            "Grok"
+          ]
+        },
+        {
+          "title": "Google bets on Gemini to reinvent the smart home speaker",
+          "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
+          "source": "TechCrunch AI",
+          "summary": "Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversational Gemini interactions.",
+          "published_at": "2026-06-17 16:30",
+          "tags": [
+            "AI",
+            "Gadgets",
+            "Media & Entertainment",
+            "audio device",
+            "Google",
+            "google home",
+            "smart speaker"
+          ]
+        },
+        {
+          "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
+          "url": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+          "source": "TechCrunch AI",
+          "summary": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India.",
+          "published_at": "2026-06-17 12:38",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "Canada Pension Plan Investment Board",
+            "CPP Investments",
+            "CtrlS"
+          ]
+        }
+      ]
     }
   ]
 }
