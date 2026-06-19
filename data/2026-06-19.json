@@ -192,6 +192,244 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-06-19 23:20:09",
+      "count": 21,
+      "articles": [
+        {
+          "title": "CEO-Bench: Can AI run a simulated startup for 500 days?",
+          "url": "https://ceobench.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://ceobench.com/ Comments URL: https://news.ycombinator.com/item?id=48599594 Points: 1 # Comments: 1",
+          "published_at": "2026-06-19 15:16",
+          "tags": []
+        },
+        {
+          "title": "How the FAA is using AI to prevent close calls on runways",
+          "url": "https://www.politico.com/news/2026/06/19/faa-ai-close-calls-00963264",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.politico.com/news/2026/06/19/faa-ai-close-calls-00963264 Comments URL: https://news.ycombinator.com/item?id=48599559 Points: 1 # Comments: 0",
+          "published_at": "2026-06-19 15:13",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Check how AI agents see your website (free, 8-point scan)",
+          "url": "https://www.platinum.ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.platinum.ai/ Comments URL: https://news.ycombinator.com/item?id=48599382 Points: 2 # Comments: 0",
+          "published_at": "2026-06-19 14:58",
+          "tags": []
+        },
+        {
+          "title": "Mvsep – AI-driven music and voice separation",
+          "url": "https://mvsep.com/en",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://mvsep.com/en Comments URL: https://news.ycombinator.com/item?id=48599320 Points: 2 # Comments: 0",
+          "published_at": "2026-06-19 14:53",
+          "tags": []
+        },
+        {
+          "title": "Sovereign AI is not a model, but a supply chain problem",
+          "url": "https://www.bullbear.ninja/board/12",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bullbear.ninja/board/12 Comments URL: https://news.ycombinator.com/item?id=48599258 Points: 3 # Comments: 0",
+          "published_at": "2026-06-19 14:48",
+          "tags": []
+        },
+        {
+          "title": "Temporary Cloudflare Accounts for AI Agents",
+          "url": "https://blog.cloudflare.com/temporary-accounts/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blog.cloudflare.com/temporary-accounts/ Comments URL: https://news.ycombinator.com/item?id=48598906 Points: 5 # Comments: 1",
+          "published_at": "2026-06-19 14:17",
+          "tags": []
+        },
+        {
+          "title": "Banning Open Source AI Would Be a Mistake",
+          "url": "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.interconnects.ai/p/banning-open-source-ai-would-be-a Comments URL: https://news.ycombinator.com/item?id=48598900 Points: 2 # Comments: 1",
+          "published_at": "2026-06-19 14:17",
+          "tags": []
+        },
+        {
+          "title": "Annihilation as a lens on what AI does to cognition",
+          "url": "https://readgrounded.com/episodes/005-area-x/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://readgrounded.com/episodes/005-area-x/ Comments URL: https://news.ycombinator.com/item?id=48598888 Points: 3 # Comments: 0",
+          "published_at": "2026-06-19 14:16",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Knoku – cited AI answers from docs, files, and team knowledge",
+          "url": "https://knoku.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://knoku.com/ Comments URL: https://news.ycombinator.com/item?id=48598777 Points: 2 # Comments: 0",
+          "published_at": "2026-06-19 14:06",
+          "tags": []
+        },
+        {
+          "title": "Scaling a content agency using AI – 2 ppl managing 20 accounts now",
+          "url": "https://www.postingmachine.ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.postingmachine.ai Comments URL: https://news.ycombinator.com/item?id=48598684 Points: 3 # Comments: 3",
+          "published_at": "2026-06-19 13:59",
+          "tags": []
+        },
+        {
+          "title": "Matrix Scroll – sign AI-generated code changes with Ed25519",
+          "url": "https://github.com/SSX360/matrixscroll",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/SSX360/matrixscroll Comments URL: https://news.ycombinator.com/item?id=48598284 Points: 2 # Comments: 1",
+          "published_at": "2026-06-19 13:23",
+          "tags": []
+        },
+        {
+          "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
+          "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+          "source": "TechCrunch AI",
+          "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+          "published_at": "2026-06-19 07:59",
+          "tags": [
+            "AI",
+            "ASML",
+            "Howard Lutnick"
+          ]
+        },
+        {
+          "title": "Barret Zoph is out at OpenAI again after just five months",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+          "source": "The Verge AI",
+          "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned [&#8230;]",
+          "published_at": "2026-06-19 00:49",
+          "tags": [
+            "AI",
+            "OpenAI",
+            "Report"
+          ]
+        },
+        {
+          "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+          "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+          "source": "TechCrunch AI",
+          "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
+          "published_at": "2026-06-18 20:30",
+          "tags": [
+            "AI",
+            "Dotmo",
+            "Snap",
+            "Snapchat"
+          ]
+        },
+        {
+          "title": "AI data centers just got a government-mandated fast lane to the grid",
+          "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+          "source": "TechCrunch AI",
+          "summary": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
+          "published_at": "2026-06-18 17:49",
+          "tags": [
+            "AI",
+            "Climate",
+            "data centers",
+            "electrical agrid",
+            "Trump Administration"
+          ]
+        },
+        {
+          "title": "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+          "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+          "source": "TechCrunch AI",
+          "summary": "After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, relationships, and personal growth — Brown wants to help others do the same.",
+          "published_at": "2026-06-18 16:55",
+          "tags": [
+            "AI",
+            "Apps",
+            "Startups",
+            "AI chatbot",
+            "digital clone",
+            "fitness app",
+            "nutrition apps",
+            "wellness apps"
+          ]
+        },
+        {
+          "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
+          "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
+          "source": "TechCrunch AI",
+          "summary": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.",
+          "published_at": "2026-06-18 15:13",
+          "tags": [
+            "AI",
+            "Government & Policy",
+            "AI legislation",
+            "leading the future",
+            "guardrails alliance",
+            "ai super pac"
+          ]
+        },
+        {
+          "title": "Pixi’s new iOS app turns text messages into interactive AR experiences",
+          "url": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
+          "source": "TechCrunch AI",
+          "summary": "Forget stickers, GIFs, and emoji reactions. Pixi is betting that the next evolution of messaging is interactive augmented reality (AR).",
+          "published_at": "2026-06-18 12:00",
+          "tags": [
+            "AI",
+            "Apps",
+            "Media & Entertainment",
+            "Social",
+            "Startups",
+            "augmented reality",
+            "Generative AI",
+            "iOS app"
+          ]
+        },
+        {
+          "title": "Amazon employees say they’re facing termination for backing data center limits",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
+          "source": "The Verge AI",
+          "summary": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political speech. Now, they're accusing their employer of breaking that law by retaliating against them. On June 10th - one week after the hearing, and [&#8230;]",
+          "published_at": "2026-06-18 12:00",
+          "tags": [
+            "AI",
+            "Amazon",
+            "Report",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Who decides when AI is too dangerous?",
+          "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+          "source": "The Verge AI",
+          "summary": "On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend, that something was a pretty intense mix of Anthropic, the Trump administration, and Anthropic’s new AI model, Fable 5.&#160; [&#8230;]",
+          "published_at": "2026-06-18 10:00",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "Decoder",
+            "Podcasts",
+            "Policy",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Photoshop and Premiere now have AI assistants",
+          "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+          "source": "The Verge AI",
+          "summary": "Adobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps. As part of a public beta launching today, Photoshop, Premiere, Illustrator, InDesign, and Frame.io now each have a bespoke AI Assistant that can be used [&#8230;]",
+          "published_at": "2026-06-18 09:00",
+          "tags": [
+            "Adobe",
+            "AI",
+            "Creators",
+            "Design",
+            "News",
+            "Tech"
+          ]
+        }
+      ]
     }
   ]
 }
