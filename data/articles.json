@@ -1,5 +1,160 @@
 [
   {
+    "title": "Why do politicians want AI to go faster?",
+    "url": "https://www.irishtimes.com/technology/big-tech/2026/04/02/why-do-politicians-want-ai-to-go-faster/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.irishtimes.com/technology/big-tech/2026/04/02/why-do-politicians-want-ai-to-go-faster/ Comments URL: https://news.ycombinator.com/item?id=48594829 Points: 1 # Comments: 0",
+    "published_at": "2026-06-19 04:42",
+    "tags": [],
+    "fetch_date": "2026-06-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: A/B testing LLM silence with one system-prompt toggle",
+    "url": "https://twitter.com/RayanPal_/status/2067816563995189631",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/RayanPal_/status/2067816563995189631 Comments URL: https://news.ycombinator.com/item?id=48594797 Points: 8 # Comments: 0",
+    "published_at": "2026-06-19 04:33",
+    "tags": [],
+    "fetch_date": "2026-06-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Sakha – An AI employee – onboarding tool for businesses",
+    "url": "https://www.sakha.one",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.sakha.one Comments URL: https://news.ycombinator.com/item?id=48594782 Points: 1 # Comments: 0",
+    "published_at": "2026-06-19 04:30",
+    "tags": [],
+    "fetch_date": "2026-06-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Agents for Product Managers",
+    "url": "https://ferrix.ai/blog/ai-agents-for-product-managers",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://ferrix.ai/blog/ai-agents-for-product-managers Comments URL: https://news.ycombinator.com/item?id=48594726 Points: 1 # Comments: 0",
+    "published_at": "2026-06-19 04:19",
+    "tags": [],
+    "fetch_date": "2026-06-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Flourish Labs: $500M to reinvent AI using neuroscience [pdf]",
+    "url": "https://flourishlabs.ai/flourish_wired_article.pdf",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://flourishlabs.ai/flourish_wired_article.pdf Comments URL: https://news.ycombinator.com/item?id=48594665 Points: 2 # Comments: 1",
+    "published_at": "2026-06-19 04:05",
+    "tags": [],
+    "fetch_date": "2026-06-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Applied AI Engineer/ Product Builder/ Data Science",
+    "url": "https://news.ycombinator.com/item?id=48594452",
+    "source": "Hacker News AI",
+    "summary": "Location: Santa Cruz, CA Remote: YesWilling to relocate: Remote Preferred. SF/Socal Hybrid okApplied AI / product builder (Full Stack). I’m strongest at turning messy ideas, workflows, datasets, and APIs into useful AI-assisted products and prototypes; especially where product judgment, user understanding, automation, and modern LLM/agent tooling matter.In a world where AI is become exponentially more intelligent in general, a recurring challenge has become harnessing that intelligence for speci",
+    "published_at": "2026-06-19 03:17",
+    "tags": [],
+    "fetch_date": "2026-06-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Tutorial: Python MCP Internal API > LLM",
+    "url": "https://www.devclubhouse.com/a/ship-an-mcp-server-in-python-that-exposes-your-internal-api-to-llms",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.devclubhouse.com/a/ship-an-mcp-server-in-python-that-exposes-your-internal-api-to-llms Comments URL: https://news.ycombinator.com/item?id=48594116 Points: 2 # Comments: 0",
+    "published_at": "2026-06-19 02:14",
+    "tags": [],
+    "fetch_date": "2026-06-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask HN: Multi-LLM orchestration frameworks that collaborate?",
+    "url": "https://news.ycombinator.com/item?id=48593979",
+    "source": "Hacker News AI",
+    "summary": "Here is my general take: I feel Gemini is excellent at high-level refactoring but riddled with bugs when writing actual code. On the other hand, GPT/Claude excel at coding, but when it comes to refactoring, they tend to stick to minor patches. They love throwing in unnecessary defensive programming just to maintain backward compatibility, or ending up with verbose spaghetti code.My idea is to complement their strengths: let Gemini provide the directional/architectural ideas, and then have GPT/Cl",
+    "published_at": "2026-06-19 01:52",
+    "tags": [],
+    "fetch_date": "2026-06-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI has granted America new power",
+    "url": "https://www.economist.com/leaders/2026/06/18/ai-has-granted-america-vast-new-power",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.economist.com/leaders/2026/06/18/ai-has-granted-america-vast-new-power Comments URL: https://news.ycombinator.com/item?id=48593869 Points: 3 # Comments: 2",
+    "published_at": "2026-06-19 01:30",
+    "tags": [],
+    "fetch_date": "2026-06-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "From Dream Job to 'The Gulag': Inside Staff Revolt Zuckerberg's Brutal AI Push",
+    "url": "https://www.inc.com/bruce-crumley/from-dream-job-to-the-gulag-inside-the-meta-staff-revolt-over-zuckerbergs-brutal-ai-push/91362653",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.inc.com/bruce-crumley/from-dream-job-to-the-gulag-inside-the-meta-staff-revolt-over-zuckerbergs-brutal-ai-push/91362653 Comments URL: https://news.ycombinator.com/item?id=48593822 Points: 3 # Comments: 1",
+    "published_at": "2026-06-19 01:23",
+    "tags": [],
+    "fetch_date": "2026-06-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Observation is the layer under taste. We built it for AI runtime",
+    "url": "https://twitter.com/damnventures/status/2067394719756251468",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/damnventures/status/2067394719756251468 Comments URL: https://news.ycombinator.com/item?id=48593703 Points: 14 # Comments: 0",
+    "published_at": "2026-06-19 01:02",
+    "tags": [],
+    "fetch_date": "2026-06-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Governance Cannot Be a Tool Call",
+    "url": "https://tenureai.dev/writing/ai-governance-cannot-be-a-tool-call/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://tenureai.dev/writing/ai-governance-cannot-be-a-tool-call/ Comments URL: https://news.ycombinator.com/item?id=48593651 Points: 5 # Comments: 0",
+    "published_at": "2026-06-19 00:53",
+    "tags": [],
+    "fetch_date": "2026-06-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+    "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+    "source": "TechCrunch AI",
+    "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+    "published_at": "2026-06-19 00:51",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Startups",
+      "CRV",
+      "Exclusive",
+      "Elastic",
+      "observability",
+      "DeductiveAI",
+      "AI SRE"
+    ],
+    "fetch_date": "2026-06-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Almost half of US singles feel negatively about AI in dating, Match says",
+    "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+    "source": "TechCrunch AI",
+    "summary": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters.",
+    "published_at": "2026-06-18 18:51",
+    "tags": [
+      "AI",
+      "Apps",
+      "dating",
+      "Match Group"
+    ],
+    "fetch_date": "2026-06-19",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Markup – A private cross-service home for AI-generated HTML",
     "url": "https://sproutmarkup.com/",
     "source": "Hacker News AI",
@@ -18,6 +173,40 @@
     "tags": [],
     "fetch_date": "2026-06-18",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "General Intuition in talks to raise $300M at around $2B valuation",
+    "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+    "source": "TechCrunch AI",
+    "summary": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users.",
+    "published_at": "2026-06-18 15:20",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "ai agent",
+      "Exclusive",
+      "general intuition",
+      "world models"
+    ],
+    "fetch_date": "2026-06-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
+    "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
+    "source": "TechCrunch AI",
+    "summary": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.",
+    "published_at": "2026-06-18 15:13",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "AI legislation",
+      "leading the future",
+      "guardrails alliance",
+      "ai super pac"
+    ],
+    "fetch_date": "2026-06-19",
+    "fetch_label": "早报"
   },
   {
     "title": "Pixel Screenshots no longer exclusively uses on-device AI",
@@ -227,6 +416,23 @@
     "published_at": "2026-06-18 00:40",
     "tags": [],
     "fetch_date": "2026-06-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
+    "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+    "source": "TechCrunch AI",
+    "summary": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.",
+    "published_at": "2026-06-17 20:24",
+    "tags": [
+      "AI",
+      "Hardware",
+      "In Brief",
+      "SMART Glasses",
+      "Snap",
+      "specs"
+    ],
+    "fetch_date": "2026-06-19",
     "fetch_label": "早报"
   },
   {
