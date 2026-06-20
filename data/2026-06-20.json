@@ -177,6 +177,160 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-06-20 22:06:11",
+      "count": 16,
+      "articles": [
+        {
+          "title": "Bun 1.4: The Controversial AI-Driven Rewrite from Zig to Rust",
+          "url": "https://grigio.org/bun-1-4-the-controversial-ai-driven-rewrite-from-zig-to-rust/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://grigio.org/bun-1-4-the-controversial-ai-driven-rewrite-from-zig-to-rust/ Comments URL: https://news.ycombinator.com/item?id=48609168 Points: 1 # Comments: 0",
+          "published_at": "2026-06-20 13:40",
+          "tags": []
+        },
+        {
+          "title": "Show HN: I made AI bets for all World Cup games – bet against or with them",
+          "url": "https://www.getaiso.com/tools/world-cup-ai-challenge",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.getaiso.com/tools/world-cup-ai-challenge Comments URL: https://news.ycombinator.com/item?id=48609132 Points: 1 # Comments: 0",
+          "published_at": "2026-06-20 13:34",
+          "tags": []
+        },
+        {
+          "title": "The Emerging AI Governance Space",
+          "url": "https://www.threedeep.tech/ai-governance-stack",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.threedeep.tech/ai-governance-stack Comments URL: https://news.ycombinator.com/item?id=48609057 Points: 1 # Comments: 0",
+          "published_at": "2026-06-20 13:18",
+          "tags": []
+        },
+        {
+          "title": "Gotique – AI that gives a first-read appraisal on antiques from photos",
+          "url": "https://gotique.ai/en/community",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://gotique.ai/en/community Comments URL: https://news.ycombinator.com/item?id=48609023 Points: 2 # Comments: 0",
+          "published_at": "2026-06-20 13:13",
+          "tags": []
+        },
+        {
+          "title": "The IPv4 Parser AI Couldn't Have Written",
+          "url": "https://extractingcycles.com/blog/the-ipv4-parser-ai-couldnt-have-written/article/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://extractingcycles.com/blog/the-ipv4-parser-ai-couldnt-have-written/article/ Comments URL: https://news.ycombinator.com/item?id=48608826 Points: 5 # Comments: 0",
+          "published_at": "2026-06-20 12:43",
+          "tags": []
+        },
+        {
+          "title": "Show HN: AlphaVibe – AI that reads your DeFi wallet live via DeBank",
+          "url": "https://quantarena.xyz/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://quantarena.xyz/ Comments URL: https://news.ycombinator.com/item?id=48608736 Points: 2 # Comments: 0",
+          "published_at": "2026-06-20 12:26",
+          "tags": []
+        },
+        {
+          "title": "\"China Outpacing Us on AI\": Why Musk Bought an Autonomous Coding Startup",
+          "url": "https://en.sedaily.com/technology/2026/06/20/china-outpacing-us-on-ai-why-musk-bought-an-autonomous",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://en.sedaily.com/technology/2026/06/20/china-outpacing-us-on-ai-why-musk-bought-an-autonomous Comments URL: https://news.ycombinator.com/item?id=48608733 Points: 2 # Comments: 0",
+          "published_at": "2026-06-20 12:26",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Zero-config session-taste packer for AI agents",
+          "url": "https://github.com/dvcoolarun/taste-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/dvcoolarun/taste-ai Comments URL: https://news.ycombinator.com/item?id=48608707 Points: 1 # Comments: 0",
+          "published_at": "2026-06-20 12:21",
+          "tags": []
+        },
+        {
+          "title": "SpaceX Loses $600B After Announcing Acquisition of Cursor AI Coding Agent",
+          "url": "https://www.forbes.com/sites/tylerroush/2026/06/18/spacex-stock-plunge-wipes-out-600-billion-after-cursor-deal-spooks-investors/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.forbes.com/sites/tylerroush/2026/06/18/spacex-stock-plunge-wipes-out-600-billion-after-cursor-deal-spooks-investors/ Comments URL: https://news.ycombinator.com/item?id=48608678 Points: 5 # Comments: 1",
+          "published_at": "2026-06-20 12:14",
+          "tags": []
+        },
+        {
+          "title": "Did Anthropic talk its way into an AI export ban?",
+          "url": "https://www.ft.com/content/16ace46c-aeac-40c9-8598-3c01fa4481cb",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.ft.com/content/16ace46c-aeac-40c9-8598-3c01fa4481cb Comments URL: https://news.ycombinator.com/item?id=48608676 Points: 3 # Comments: 0",
+          "published_at": "2026-06-20 12:13",
+          "tags": []
+        },
+        {
+          "title": "Overreach audit your AI agent's diff against the prompt you gave it",
+          "url": "https://github.com/Naveja00/OverReach",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/Naveja00/OverReach Comments URL: https://news.ycombinator.com/item?id=48608558 Points: 1 # Comments: 0",
+          "published_at": "2026-06-20 11:51",
+          "tags": []
+        },
+        {
+          "title": "Building a Dense Agentic AI CPU Rack Today",
+          "url": "https://www.servethehome.com/building-a-dense-agentic-ai-cpu-rack-amd-dell-today/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.servethehome.com/building-a-dense-agentic-ai-cpu-rack-amd-dell-today/ Comments URL: https://news.ycombinator.com/item?id=48608400 Points: 1 # Comments: 1",
+          "published_at": "2026-06-20 11:20",
+          "tags": []
+        },
+        {
+          "title": "AI that can find the location of images",
+          "url": "https://geoaxis.ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://geoaxis.ai Comments URL: https://news.ycombinator.com/item?id=48608389 Points: 2 # Comments: 0",
+          "published_at": "2026-06-20 11:18",
+          "tags": []
+        },
+        {
+          "title": "The US says ASML’s top chip tool may be in China, but how?",
+          "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+          "source": "TechCrunch AI",
+          "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+          "published_at": "2026-06-19 07:59",
+          "tags": [
+            "AI",
+            "ASML",
+            "Christophe Fouquet",
+            "Howard Lutnick"
+          ]
+        },
+        {
+          "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
+          "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+          "source": "TechCrunch AI",
+          "summary": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+          "published_at": "2026-06-19 00:51",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "Startups",
+            "AI SRE",
+            "CRV",
+            "DeductiveAI",
+            "Elastic",
+            "Exclusive",
+            "observability"
+          ]
+        },
+        {
+          "title": "Barret Zoph is out at OpenAI again after just five months",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+          "source": "The Verge AI",
+          "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned [&#8230;]",
+          "published_at": "2026-06-19 00:49",
+          "tags": [
+            "AI",
+            "OpenAI",
+            "Report"
+          ]
+        }
+      ]
     }
   ]
 }
