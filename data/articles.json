@@ -1,5 +1,145 @@
 [
   {
+    "title": "Daily_stock_analysis: LLM-powered multi-market stock analysis system",
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/ZhuLinsen/daily_stock_analysis Comments URL: https://news.ycombinator.com/item?id=48619147 Points: 3 # Comments: 0",
+    "published_at": "2026-06-21 14:10",
+    "tags": [],
+    "fetch_date": "2026-06-21",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Refloow Photo Studio – A local, offline photo editor with on-device AI",
+    "url": "https://github.com/Refloow/Refloow-Photo-Studio",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/Refloow/Refloow-Photo-Studio Comments URL: https://news.ycombinator.com/item?id=48619100 Points: 1 # Comments: 0",
+    "published_at": "2026-06-21 14:04",
+    "tags": [],
+    "fetch_date": "2026-06-21",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "I'm done with LLM-through-chat-experience",
+    "url": "https://www.thoughtfultechnologist.com/p/im-done-with-llm-through-chat-experience",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.thoughtfultechnologist.com/p/im-done-with-llm-through-chat-experience Comments URL: https://news.ycombinator.com/item?id=48619029 Points: 2 # Comments: 0",
+    "published_at": "2026-06-21 13:55",
+    "tags": [],
+    "fetch_date": "2026-06-21",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ask HN: Do you give AI coding agents their own GitHub account?",
+    "url": "https://news.ycombinator.com/item?id=48618981",
+    "source": "Hacker News AI",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=48618981 Points: 2 # Comments: 0",
+    "published_at": "2026-06-21 13:49",
+    "tags": [],
+    "fetch_date": "2026-06-21",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Block rolls out Builderbot, a new suite of AI-native tools",
+    "url": "https://block.xyz/inside/block-rolls-out-builderbot-a-new-suite-of-ai-native-tools-that-changes-the-way-we-ship",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://block.xyz/inside/block-rolls-out-builderbot-a-new-suite-of-ai-native-tools-that-changes-the-way-we-ship Comments URL: https://news.ycombinator.com/item?id=48618973 Points: 1 # Comments: 1",
+    "published_at": "2026-06-21 13:48",
+    "tags": [],
+    "fetch_date": "2026-06-21",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Cloak – let AI agents use your API keys without ever seeing them",
+    "url": "https://github.com/cloakward/cloak",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/cloakward/cloak Comments URL: https://news.ycombinator.com/item?id=48618904 Points: 2 # Comments: 0",
+    "published_at": "2026-06-21 13:41",
+    "tags": [],
+    "fetch_date": "2026-06-21",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Boom Hits Labor Market Reality Check",
+    "url": "https://fivetakes.news/workers-are-emerging-as-the-next-big-ai-logjam",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://fivetakes.news/workers-are-emerging-as-the-next-big-ai-logjam Comments URL: https://news.ycombinator.com/item?id=48618600 Points: 2 # Comments: 1",
+    "published_at": "2026-06-21 13:01",
+    "tags": [],
+    "fetch_date": "2026-06-21",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Made Me Braver",
+    "url": "https://neilkakkar.com/ai-made-me-braver.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://neilkakkar.com/ai-made-me-braver.html Comments URL: https://news.ycombinator.com/item?id=48618333 Points: 1 # Comments: 0",
+    "published_at": "2026-06-21 12:26",
+    "tags": [],
+    "fetch_date": "2026-06-21",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Tokoscope – Automatic LLM token compression and cost monitoring in 2 lines",
+    "url": "https://tokoscope.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://tokoscope.com Comments URL: https://news.ycombinator.com/item?id=48618323 Points: 1 # Comments: 0",
+    "published_at": "2026-06-21 12:25",
+    "tags": [],
+    "fetch_date": "2026-06-21",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: An AI video prompt cookbook for image-to-video workflows",
+    "url": "https://github.com/yasuomang/ai-video-prompt-cookbook",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/yasuomang/ai-video-prompt-cookbook Comments URL: https://news.ycombinator.com/item?id=48618111 Points: 1 # Comments: 0",
+    "published_at": "2026-06-21 11:53",
+    "tags": [],
+    "fetch_date": "2026-06-21",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Local LLM Hardware Calculator",
+    "url": "https://vettedconsumer.com/can-i-run-it/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://vettedconsumer.com/can-i-run-it/ Comments URL: https://news.ycombinator.com/item?id=48618065 Points: 1 # Comments: 0",
+    "published_at": "2026-06-21 11:47",
+    "tags": [],
+    "fetch_date": "2026-06-21",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Warfare Is at the Point of No Return",
+    "url": "https://www.wsj.com/world/ai-warfare-ukraine-russia-anthropic-29945df9",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wsj.com/world/ai-warfare-ukraine-russia-anthropic-29945df9 Comments URL: https://news.ycombinator.com/item?id=48617952 Points: 1 # Comments: 1",
+    "published_at": "2026-06-21 11:32",
+    "tags": [],
+    "fetch_date": "2026-06-21",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "I Created a Minimalist Universal Language for AI",
+    "url": "https://github.com/caihongfairys/QMP-Dynamic-Anchors",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/caihongfairys/QMP-Dynamic-Anchors Comments URL: https://news.ycombinator.com/item?id=48617894 Points: 2 # Comments: 0",
+    "published_at": "2026-06-21 11:22",
+    "tags": [],
+    "fetch_date": "2026-06-21",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "China tightens indium export checks as AI demand increases",
+    "url": "https://www.reuters.com/world/china/china-tightens-indium-export-checks-ai-demand-increases-2026-06-19/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.reuters.com/world/china/china-tightens-indium-export-checks-ai-demand-increases-2026-06-19/ Comments URL: https://news.ycombinator.com/item?id=48617740 Points: 1 # Comments: 0",
+    "published_at": "2026-06-21 11:01",
+    "tags": [],
+    "fetch_date": "2026-06-21",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
     "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
     "source": "TechCrunch AI",
