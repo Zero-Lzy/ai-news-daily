@@ -1,5 +1,35 @@
 [
   {
+    "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+    "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+    "source": "TechCrunch AI",
+    "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+    "published_at": "2026-06-20 20:32",
+    "tags": [
+      "AI",
+      "Security",
+      "Meredith Whittaker",
+      "signal"
+    ],
+    "fetch_date": "2026-06-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "In the Weights is your new AI-centric vanity search",
+    "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+    "source": "TechCrunch AI",
+    "summary": "So ... what's your In the Weights score?",
+    "published_at": "2026-06-20 19:41",
+    "tags": [
+      "AI",
+      "in th weights",
+      "Joey Flynn",
+      "thomas dimson"
+    ],
+    "fetch_date": "2026-06-21",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Bun 1.4: The Controversial AI-Driven Rewrite from Zig to Rust",
     "url": "https://grigio.org/bun-1-4-the-controversial-ai-driven-rewrite-from-zig-to-rust/",
     "source": "Hacker News AI",
