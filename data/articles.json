@@ -1,5 +1,131 @@
 [
   {
+    "title": "Magpie-search – a federated search engine for LLM's/agents",
+    "url": "https://github.com/xfloukiex-lab/magpie-search",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/xfloukiex-lab/magpie-search Comments URL: https://news.ycombinator.com/item?id=48625507 Points: 1 # Comments: 0",
+    "published_at": "2026-06-22 04:03",
+    "tags": [],
+    "fetch_date": "2026-06-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "When AI Agents Do the Work, What Do We Lose?",
+    "url": "https://milvus.io/blog/when-ai-agents-do-the-work-what-do-we-lose.md",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://milvus.io/blog/when-ai-agents-do-the-work-what-do-we-lose.md Comments URL: https://news.ycombinator.com/item?id=48625341 Points: 1 # Comments: 0",
+    "published_at": "2026-06-22 03:33",
+    "tags": [],
+    "fetch_date": "2026-06-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: I applied Lyapunov stability theory to detect when LLM agents spiral",
+    "url": "https://github.com/vishal-dehurdle/state-harness",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/vishal-dehurdle/state-harness Comments URL: https://news.ycombinator.com/item?id=48625317 Points: 1 # Comments: 0",
+    "published_at": "2026-06-22 03:27",
+    "tags": [],
+    "fetch_date": "2026-06-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Typevia live LaTeX editing with AI assistance",
+    "url": "https://www.typevia.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.typevia.com/ Comments URL: https://news.ycombinator.com/item?id=48625040 Points: 2 # Comments: 0",
+    "published_at": "2026-06-22 02:48",
+    "tags": [],
+    "fetch_date": "2026-06-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Watchdog",
+    "url": "https://www.theatlantic.com/category/ai-watchdog/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theatlantic.com/category/ai-watchdog/ Comments URL: https://news.ycombinator.com/item?id=48624870 Points: 1 # Comments: 0",
+    "published_at": "2026-06-22 02:21",
+    "tags": [],
+    "fetch_date": "2026-06-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask HN: What will AI coding look like when today's CS freshmen graduate?",
+    "url": "https://news.ycombinator.com/item?id=48624855",
+    "source": "Hacker News AI",
+    "summary": "ChatGPT 3.5 only came out about three and a half years ago. Claude Code was released in February 2025. In one academic year, LLMs went from barely handling high school math to disproving unit-distance conjecture.Every two months we seems to have a new SOTA now. What do you expect AI coding to look like four years from now?Will it be like Go after AlphaGo, where even Ke Jie could only say \"they no longer knew what they were fighting against\"? Or will it just be like today, just stronger, with hum",
+    "published_at": "2026-06-22 02:20",
+    "tags": [],
+    "fetch_date": "2026-06-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Tlbic: A Time-Limited Basic Income System Designed with AI, v7.0",
+    "url": "https://drive.google.com/file/d/1MtiNjQeQO9ilLuEFXwVeKgWOzec4F2Dn/view?usp=drive_link",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://drive.google.com/file/d/1MtiNjQeQO9ilLuEFXwVeKgWOzec4F2Dn/view?usp=drive_link Comments URL: https://news.ycombinator.com/item?id=48624746 Points: 4 # Comments: 5",
+    "published_at": "2026-06-22 02:02",
+    "tags": [],
+    "fetch_date": "2026-06-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Americans and AI 2026: Chatbots, Smart Devices and Views on Impact",
+    "url": "https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/ Comments URL: https://news.ycombinator.com/item?id=48624535 Points: 3 # Comments: 1",
+    "published_at": "2026-06-22 01:29",
+    "tags": [],
+    "fetch_date": "2026-06-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: AI Colours",
+    "url": "https://github.com/pilotpirxie/ai-colours",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/pilotpirxie/ai-colours Comments URL: https://news.ycombinator.com/item?id=48623764 Points: 3 # Comments: 0",
+    "published_at": "2026-06-21 23:40",
+    "tags": [],
+    "fetch_date": "2026-06-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: PeekAI – Local-first observability for Python AI agents",
+    "url": "https://github.com/oussamaKH63/peekai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/oussamaKH63/peekai Comments URL: https://news.ycombinator.com/item?id=48623745 Points: 3 # Comments: 0",
+    "published_at": "2026-06-21 23:38",
+    "tags": [],
+    "fetch_date": "2026-06-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Norway Bans AI for Kids 6-13 in Schools",
+    "url": "https://yipzap.com/norway-bans-ai-for-kids-6-13-in-schools-a-bold-move-against-tech-dependency/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://yipzap.com/norway-bans-ai-for-kids-6-13-in-schools-a-bold-move-against-tech-dependency/ Comments URL: https://news.ycombinator.com/item?id=48623568 Points: 5 # Comments: 1",
+    "published_at": "2026-06-21 23:12",
+    "tags": [],
+    "fetch_date": "2026-06-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+    "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+    "source": "TechCrunch AI",
+    "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+    "published_at": "2026-06-21 15:28",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "Anthropic",
+      "Donald Trump",
+      "Equity podcast"
+    ],
+    "fetch_date": "2026-06-22",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Daily_stock_analysis: LLM-powered multi-market stock analysis system",
     "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
     "source": "Hacker News AI",
@@ -167,6 +293,21 @@
       "thomas dimson"
     ],
     "fetch_date": "2026-06-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The Atlantic created a searchable database of the music used to train AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+    "source": "The Verge AI",
+    "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount of training data at over [&#8230;]",
+    "published_at": "2026-06-20 14:46",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Music",
+      "News"
+    ],
+    "fetch_date": "2026-06-22",
     "fetch_label": "早报"
   },
   {
