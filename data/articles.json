@@ -1,5 +1,150 @@
 [
   {
+    "title": "Show HN: Vivijure – Self-hosted AI film studio on your own GPU (AGPL)",
+    "url": "https://github.com/skyphusion-labs/vivijure",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/skyphusion-labs/vivijure Comments URL: https://news.ycombinator.com/item?id=48632672 Points: 1 # Comments: 0",
+    "published_at": "2026-06-22 16:51",
+    "tags": [],
+    "fetch_date": "2026-06-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "SpaceX inks compute deal with Reflection AI, an open-source AI lab",
+    "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+    "source": "TechCrunch AI",
+    "summary": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee.",
+    "published_at": "2026-06-22 16:51",
+    "tags": [
+      "AI",
+      "TC",
+      "reflection ai",
+      "SpaceX"
+    ],
+    "fetch_date": "2026-06-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Godot confirms it tolerates 'some AI assistance' but rejects 'vibe coded' tag",
+    "url": "https://www.gamedeveloper.com/business/godot-confirms-it-tolerates-some-ai-assistance-but-rejects-vibe-coded-accusations",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.gamedeveloper.com/business/godot-confirms-it-tolerates-some-ai-assistance-but-rejects-vibe-coded-accusations Comments URL: https://news.ycombinator.com/item?id=48632617 Points: 2 # Comments: 0",
+    "published_at": "2026-06-22 16:46",
+    "tags": [],
+    "fetch_date": "2026-06-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Tech Influence Watch – tracking crypto and AI industry 2026 U.S. election spend",
+    "url": "https://influence.citationneeded.news/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://influence.citationneeded.news/ Comments URL: https://news.ycombinator.com/item?id=48632474 Points: 2 # Comments: 1",
+    "published_at": "2026-06-22 16:36",
+    "tags": [],
+    "fetch_date": "2026-06-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Super AI Agentic Android App (BYOK)",
+    "url": "https://news.ycombinator.com/item?id=48632415",
+    "source": "Hacker News AI",
+    "summary": "i am building an Agentic Android App (twent.xyz) that has:SOTA agentic memory + Knowledge Base to see Agent's memory, UI Automation, explain-what's-on-screen, Linux Ubuntu Terminal with Agent CLIs Supported, Connects to 1k+ tools, Infinite MCP Servers & Agent SKILLS, Browser to browse MCP Servers & Agent SKILLS (fetched from public sources) , Fully Bring-your-own-key (as of now) (get API key for any provider from the APP itself), supports local models.I really DONT WANT TO GUESS what my users wa",
+    "published_at": "2026-06-22 16:31",
+    "tags": [],
+    "fetch_date": "2026-06-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ask HN: How many hours a day do you genuinely spend using AI?",
+    "url": "https://news.ycombinator.com/item?id=48632381",
+    "source": "Hacker News AI",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=48632381 Points: 1 # Comments: 1",
+    "published_at": "2026-06-22 16:29",
+    "tags": [],
+    "fetch_date": "2026-06-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Phlox: A full-featured AI platform you own",
+    "url": "https://robert-mcdermott.github.io/phlox/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://robert-mcdermott.github.io/phlox/ Comments URL: https://news.ycombinator.com/item?id=48632312 Points: 3 # Comments: 0",
+    "published_at": "2026-06-22 16:24",
+    "tags": [],
+    "fetch_date": "2026-06-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Co-Founder for Solo Builders",
+    "url": "https://taskachu.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://taskachu.com Comments URL: https://news.ycombinator.com/item?id=48632250 Points: 2 # Comments: 1",
+    "published_at": "2026-06-22 16:18",
+    "tags": [],
+    "fetch_date": "2026-06-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI law firm wins UK court case for first time",
+    "url": "https://www.ft.com/content/b4f8f589-6771-4df5-ac4d-cb15d94991fb",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.ft.com/content/b4f8f589-6771-4df5-ac4d-cb15d94991fb Comments URL: https://news.ycombinator.com/item?id=48632235 Points: 2 # Comments: 2",
+    "published_at": "2026-06-22 16:17",
+    "tags": [],
+    "fetch_date": "2026-06-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "I Tracked LLM Pricing for 8 Weeks. Here's What the Data Shows",
+    "url": "https://tokenprices.io/blog/llm-pricing-8-weeks",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://tokenprices.io/blog/llm-pricing-8-weeks Comments URL: https://news.ycombinator.com/item?id=48632126 Points: 2 # Comments: 0",
+    "published_at": "2026-06-22 16:09",
+    "tags": [],
+    "fetch_date": "2026-06-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Frontier AI for Motion Design",
+    "url": "https://motion.so",
+    "source": "Hacker News AI",
+    "summary": "Hey HN, meet Motion — a frontier agent for motion design.Here’s how it works:1. Give Motion a prompt — include any context like product links, X threads, YouTube videos, personal assets, and design MD. Motion will reference styles, incorporate research, and storyboard scenes.2. Motion creates the video — it can orchestrate entire explainers, launch videos, logo animations, convert articles to video, or even add motion design to your existing videos.3. Edit everything — after generation, edit eve",
+    "published_at": "2026-06-22 16:06",
+    "tags": [],
+    "fetch_date": "2026-06-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: PreFlight – A local AST scanner to catch AI architectural drift",
+    "url": "https://github.com/av29nassh-sketch/PreFlight",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/av29nassh-sketch/PreFlight Comments URL: https://news.ycombinator.com/item?id=48632054 Points: 3 # Comments: 0",
+    "published_at": "2026-06-22 16:03",
+    "tags": [],
+    "fetch_date": "2026-06-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Build and Host AI apps on your own servers",
+    "url": "https://agentry.run",
+    "source": "Hacker News AI",
+    "summary": "I wanted a way to build and host some vibecoded apps/dashboards etc , but figured there was no good way outside using things like lovable and replit , where the code and data and the hosting lives on their serversMany of the online app builders don't allow you to switch the model to an open model and charge premiums for tokens, Some of the app builders even want you to paste DB credentials in the chat which to me was a complete no noI have been working on an alternative to this model , where you",
+    "published_at": "2026-06-22 15:56",
+    "tags": [],
+    "fetch_date": "2026-06-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "I built a voice AI chess companion for elderly players, in 3 languages",
+    "url": "https://youai-chess.netlify.app/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://youai-chess.netlify.app/ Comments URL: https://news.ycombinator.com/item?id=48631879 Points: 1 # Comments: 0",
+    "published_at": "2026-06-22 15:48",
+    "tags": [],
+    "fetch_date": "2026-06-23",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Magpie-search – a federated search engine for LLM's/agents",
     "url": "https://github.com/xfloukiex-lab/magpie-search",
     "source": "Hacker News AI",
