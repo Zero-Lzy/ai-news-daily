@@ -1,5 +1,161 @@
 [
   {
+    "title": "AI was supposed to make smarter decisions. Iit may be making leaders dangerous",
+    "url": "https://www.youtube.com/watch?v=NTeF1NmmZWA",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=NTeF1NmmZWA Comments URL: https://news.ycombinator.com/item?id=48654854 Points: 2 # Comments: 0",
+    "published_at": "2026-06-24 03:48",
+    "tags": [],
+    "fetch_date": "2026-06-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "US AI stock sell-off shakes markets from Wall Street to Asia",
+    "url": "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets Comments URL: https://news.ycombinator.com/item?id=48654795 Points: 3 # Comments: 0",
+    "published_at": "2026-06-24 03:36",
+    "tags": [],
+    "fetch_date": "2026-06-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "US presses Meta to agree to AI reviews as security fears rise",
+    "url": "https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html Comments URL: https://news.ycombinator.com/item?id=48654757 Points: 1 # Comments: 0",
+    "published_at": "2026-06-24 03:31",
+    "tags": [],
+    "fetch_date": "2026-06-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "BenchPress: Predict any LLM's score on any benchmark",
+    "url": "https://microsoft.github.io/benchpress/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://microsoft.github.io/benchpress/ Comments URL: https://news.ycombinator.com/item?id=48654705 Points: 2 # Comments: 0",
+    "published_at": "2026-06-24 03:22",
+    "tags": [],
+    "fetch_date": "2026-06-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Dataland, an intense new AI art museum",
+    "url": "https://www.economist.com/culture/2026/06/23/are-you-having-fun-yet-dataland-an-intense-new-ai-art-museum",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.economist.com/culture/2026/06/23/are-you-having-fun-yet-dataland-an-intense-new-ai-art-museum Comments URL: https://news.ycombinator.com/item?id=48654342 Points: 3 # Comments: 0",
+    "published_at": "2026-06-24 02:20",
+    "tags": [],
+    "fetch_date": "2026-06-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "China Minerals Threatens EU; AI Warfare Dominates Japan, WeChat",
+    "url": "https://asiaai.fyi/wp-login.php?redirect_to=https%3A%2F%2Fasiaai.fyi%2Fwp-admin%2Fpost.php%3Fpost%3D197&reauth=1",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://asiaai.fyi/wp-login.php?redirect_to=https%3A%2F%2Fasiaai.fyi%2Fwp-admin%2Fpost.php%3Fpost%3D197&amp;reauth=1 Comments URL: https://news.ycombinator.com/item?id=48654155 Points: 3 # Comments: 0",
+    "published_at": "2026-06-24 01:48",
+    "tags": [],
+    "fetch_date": "2026-06-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Chinese universities are cutting language majors to make way for AI",
+    "url": "https://restofworld.org/2026/chinese-universities-drop-humanities-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://restofworld.org/2026/chinese-universities-drop-humanities-ai/ Comments URL: https://news.ycombinator.com/item?id=48653897 Points: 9 # Comments: 0",
+    "published_at": "2026-06-24 01:13",
+    "tags": [],
+    "fetch_date": "2026-06-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "UN chief urges AI companies to 'come clean' about the pollution they generate",
+    "url": "https://www.fastcompany.com/91563535/un-chief-urges-ai-companies-come-clean-about-pollution-create",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.fastcompany.com/91563535/un-chief-urges-ai-companies-come-clean-about-pollution-create Comments URL: https://news.ycombinator.com/item?id=48653894 Points: 3 # Comments: 0",
+    "published_at": "2026-06-24 01:13",
+    "tags": [],
+    "fetch_date": "2026-06-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "We built telecom infrastructure for AI agents in emerging markets",
+    "url": "https://krosai.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://krosai.com/ Comments URL: https://news.ycombinator.com/item?id=48653504 Points: 2 # Comments: 0",
+    "published_at": "2026-06-24 00:20",
+    "tags": [],
+    "fetch_date": "2026-06-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Why Software Requirements Get Easier in an AI Economy",
+    "url": "https://stng.substack.com/p/why-software-requirements-get-easier",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://stng.substack.com/p/why-software-requirements-get-easier Comments URL: https://news.ycombinator.com/item?id=48653478 Points: 3 # Comments: 0",
+    "published_at": "2026-06-24 00:15",
+    "tags": [],
+    "fetch_date": "2026-06-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Stop asking AI if your startup idea is good",
+    "url": "https://www.idea-launch.io/learn/ai-idea-validator-vs-real-demand-signals",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.idea-launch.io/learn/ai-idea-validator-vs-real-demand-signals Comments URL: https://news.ycombinator.com/item?id=48653414 Points: 3 # Comments: 2",
+    "published_at": "2026-06-24 00:06",
+    "tags": [],
+    "fetch_date": "2026-06-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Measuring Search Ranking Quality with LLM Judged NDCG",
+    "url": "https://corvi.careers/blog/search-eval-llm-judges-ndcg/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://corvi.careers/blog/search-eval-llm-judges-ndcg/ Comments URL: https://news.ycombinator.com/item?id=48653398 Points: 2 # Comments: 0",
+    "published_at": "2026-06-24 00:04",
+    "tags": [],
+    "fetch_date": "2026-06-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "FAA awards software and AI contract as part of air traffic control modernization",
+    "url": "https://www.nextgov.com/acquisition/2026/06/faa-awards-software-and-ai-contract-part-air-traffic-control-modernization/414354/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.nextgov.com/acquisition/2026/06/faa-awards-software-and-ai-contract-part-air-traffic-control-modernization/414354/ Comments URL: https://news.ycombinator.com/item?id=48653187 Points: 3 # Comments: 0",
+    "published_at": "2026-06-23 23:38",
+    "tags": [],
+    "fetch_date": "2026-06-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI systems out-persuade expert humans",
+    "url": "https://arxiv.org/abs/2606.16475",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2606.16475 Comments URL: https://news.ycombinator.com/item?id=48653162 Points: 2 # Comments: 2",
+    "published_at": "2026-06-23 23:36",
+    "tags": [],
+    "fetch_date": "2026-06-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+    "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+    "source": "TechCrunch AI",
+    "summary": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
+    "published_at": "2026-06-23 23:30",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Aampe",
+      "ai agent",
+      "MoEngage"
+    ],
+    "fetch_date": "2026-06-24",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Show HN: Agent-ready – a tool that'll show how an AI agent reads your website",
     "url": "https://agent-ready.co/",
     "source": "Hacker News AI",
@@ -140,6 +296,41 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "Something&#8217;s off with Midjourney’s pivot to body scanners",
+    "url": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
+    "source": "The Verge AI",
+    "summary": "Last week, Midjourney, an AI startup best known for its image generator, made an unusual pivot: medical imaging. The company announced a futuristic ultrasound scanner that would dunk users into a vat of water and, hopefully, produce \"something as powerful as MRI\" yet \"as casual as a trip to the spa.\" Midjourney says the goal [&#8230;]",
+    "published_at": "2026-06-23 11:56",
+    "tags": [
+      "AI",
+      "Health",
+      "Report",
+      "Science"
+    ],
+    "fetch_date": "2026-06-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The Fitbit Air takes a smarter approach to the AI health dumpster fire",
+    "url": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
+    "source": "The Verge AI",
+    "summary": "Google Health Coach seems to think I'm on the verge of physical collapse. My sleep is not where it needs to be, hence my unimpressive readiness score. My heart rate variability, a measure of how recovered I am, is below baseline. I'm spending too much time in a hot, humid environment, it says, reminding me [&#8230;]",
+    "published_at": "2026-06-23 11:00",
+    "tags": [
+      "AI",
+      "Fitness",
+      "Fitness Tracker Reviews",
+      "Gadgets",
+      "Health",
+      "Reviews",
+      "Science",
+      "Tech",
+      "Wearable"
+    ],
+    "fetch_date": "2026-06-24",
+    "fetch_label": "早报"
+  },
+  {
     "title": "The running list: major tech layoffs in 2026 where employers cited AI",
     "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
     "source": "TechCrunch AI",
@@ -196,6 +387,21 @@
       "groq"
     ],
     "fetch_date": "2026-06-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
+    "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+    "source": "The Verge AI",
+    "summary": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has \"eliminated massive amounts of power usage and pretty much all water usage.\" Still, it doesn't address all of the concerns around AI data [&#8230;]",
+    "published_at": "2026-06-22 19:24",
+    "tags": [
+      "AI",
+      "News",
+      "Nvidia",
+      "Tech"
+    ],
+    "fetch_date": "2026-06-24",
     "fetch_label": "早报"
   },
   {
