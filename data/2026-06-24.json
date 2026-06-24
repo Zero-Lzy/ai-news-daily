@@ -237,6 +237,165 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-06-24 22:32:30",
+      "count": 16,
+      "articles": [
+        {
+          "title": "Hw to make sure AI Agents neer forget the Work?",
+          "url": "https://github.com/budhasantosh010/ai-coding-project-templates",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/budhasantosh010/ai-coding-project-templates Comments URL: https://news.ycombinator.com/item?id=48660491 Points: 1 # Comments: 0",
+          "published_at": "2026-06-24 14:26",
+          "tags": []
+        },
+        {
+          "title": "A Statement on AI Talks at Hope",
+          "url": "https://www.hope.net/a-statement-on-ai-talks-at-hope/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.hope.net/a-statement-on-ai-talks-at-hope/ Comments URL: https://news.ycombinator.com/item?id=48660311 Points: 1 # Comments: 0",
+          "published_at": "2026-06-24 14:16",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Drip — pay-per-use finance newsletters for AI agents",
+          "url": "https://dripstack.xyz/stock-picks",
+          "source": "Hacker News AI",
+          "summary": "Hi HN, I’m building Drip. It’s an API that lets AI agents access premium finance newsletters on a pay-per-use basis.Agents will not subscribe to newsletters like humans do. A person subscribes for the ongoing relationship. An agent usually needs one narrower thing: the exact piece of research that helps answer a question right now.We just launched a stock-picks endpoint for what many people are calling vibe investing / agentic investing. Using Drip, an agent can generate a cited report on the la",
+          "published_at": "2026-06-24 14:13",
+          "tags": []
+        },
+        {
+          "title": "Flower Labs: AI Is Evolving from Isolated Silos to Collaborative Networks",
+          "url": "https://flower.ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://flower.ai/ Comments URL: https://news.ycombinator.com/item?id=48660082 Points: 1 # Comments: 0",
+          "published_at": "2026-06-24 14:05",
+          "tags": []
+        },
+        {
+          "title": "AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
+          "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://spectrum.ieee.org/ai-radio-chip-design Comments URL: https://news.ycombinator.com/item?id=48660021 Points: 1 # Comments: 0",
+          "published_at": "2026-06-24 14:02",
+          "tags": []
+        },
+        {
+          "title": "I don't care if web content is AI-generated",
+          "url": "https://kevinboone.me/ai.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://kevinboone.me/ai.html Comments URL: https://news.ycombinator.com/item?id=48659960 Points: 1 # Comments: 1",
+          "published_at": "2026-06-24 13:59",
+          "tags": []
+        },
+        {
+          "title": "The Age Of Bunker Capitalism: How AI Will Free Aristocrats From The Mob",
+          "url": "https://morbidcuriosity.substack.com/p/the-age-of-bunker-capitalism",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://morbidcuriosity.substack.com/p/the-age-of-bunker-capitalism Comments URL: https://news.ycombinator.com/item?id=48659941 Points: 1 # Comments: 0",
+          "published_at": "2026-06-24 13:58",
+          "tags": []
+        },
+        {
+          "title": "A Case for AI Taboos",
+          "url": "https://nathanschneider.info/2026/06/a-case-for-ai-taboos/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://nathanschneider.info/2026/06/a-case-for-ai-taboos/ Comments URL: https://news.ycombinator.com/item?id=48659685 Points: 3 # Comments: 0",
+          "published_at": "2026-06-24 13:41",
+          "tags": []
+        },
+        {
+          "title": "I built a local AI deck music assistant on a Mac mini",
+          "url": "https://github.com/wkswede/robot-deck-audio",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/wkswede/robot-deck-audio Comments URL: https://news.ycombinator.com/item?id=48659515 Points: 1 # Comments: 0",
+          "published_at": "2026-06-24 13:31",
+          "tags": []
+        },
+        {
+          "title": "AI is creating intelligence disparity",
+          "url": "https://nasengetu.com/article/the-ai-intelligence-disparity",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://nasengetu.com/article/the-ai-intelligence-disparity Comments URL: https://news.ycombinator.com/item?id=48659233 Points: 1 # Comments: 0",
+          "published_at": "2026-06-24 13:13",
+          "tags": []
+        },
+        {
+          "title": "Rolling Aggregations for Real-Time AI",
+          "url": "https://www.hopsworks.ai/post/rolling-aggregations-for-real-time-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.hopsworks.ai/post/rolling-aggregations-for-real-time-ai Comments URL: https://news.ycombinator.com/item?id=48659199 Points: 1 # Comments: 0",
+          "published_at": "2026-06-24 13:11",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Pinpoint – point your AI agent at the exact pixel you mean",
+          "url": "https://github.com/croustibat/Pinpoint",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/croustibat/Pinpoint Comments URL: https://news.ycombinator.com/item?id=48659188 Points: 2 # Comments: 0",
+          "published_at": "2026-06-24 13:10",
+          "tags": []
+        },
+        {
+          "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
+          "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+          "source": "ArsTechnica AI",
+          "summary": "Oracle is spending billions on data center infrastructure to support AI.",
+          "published_at": "2026-06-23 20:17",
+          "tags": [
+            "AI",
+            "Biz & IT",
+            "job losses",
+            "oracle"
+          ]
+        },
+        {
+          "title": "Why corporate AI super PACs spent $27 million on a local election",
+          "url": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
+          "source": "The Verge AI",
+          "summary": "Hello and welcome to Regulator, the newsletter for Verge subscribers chronicling the misadventures of their favorite tech overlords and Washington swamp creatures. (\"Favorite\" is, of course, subjective.) Not a subscriber yet? Sign up here, especially if you want the hot scoop on quality Amazon Prime Day deals recommended by the wonderful humans of The Verge's [&#8230;]",
+          "published_at": "2026-06-23 13:00",
+          "tags": [
+            "AI",
+            "Column",
+            "Policy",
+            "Politics",
+            "Regulator"
+          ]
+        },
+        {
+          "title": "Sony’s AI Camera Assistant is exactly as bad as it looks",
+          "url": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
+          "source": "The Verge AI",
+          "summary": "When Sony announced the Xperia 1 VIII last month, it promoted the phone by sharing some of the worst photos taken on a Sony camera in years. These weren't just any photos, though: they were taken with Sony's new AI Camera Assistant. After a week with the Xperia 1 VIII, I'm here to tell you [&#8230;]",
+          "published_at": "2026-06-23 09:25",
+          "tags": [
+            "AI",
+            "Cameras",
+            "Gadgets",
+            "Mobile",
+            "Phones",
+            "Report",
+            "Sony",
+            "Tech"
+          ]
+        },
+        {
+          "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+          "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+          "source": "TechCrunch AI",
+          "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+          "published_at": "2026-06-23 01:27",
+          "tags": [
+            "AI",
+            "TC",
+            "Layoffs"
+          ]
+        }
+      ]
     }
   ]
 }
