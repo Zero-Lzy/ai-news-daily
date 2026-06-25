@@ -1,5 +1,148 @@
 [
   {
+    "title": "AirPosture – AirPods as AI posture coach (Open source)",
+    "url": "https://airposture.github.io",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://airposture.github.io Comments URL: https://news.ycombinator.com/item?id=48673814 Points: 2 # Comments: 0",
+    "published_at": "2026-06-25 14:18",
+    "tags": [],
+    "fetch_date": "2026-06-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Using Microsoft Copilot Enterprise, 80% of time the AI falsified results or code",
+    "url": "https://info.microsoft.com/ww-landing-four-paths-to-business-value-with-ai.html?lcid=en-us",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://info.microsoft.com/ww-landing-four-paths-to-business-value-with-ai.html?lcid=en-us Comments URL: https://news.ycombinator.com/item?id=48673781 Points: 4 # Comments: 1",
+    "published_at": "2026-06-25 14:16",
+    "tags": [],
+    "fetch_date": "2026-06-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: FreeAIStack – 14 Free AI Tools",
+    "url": "https://aifreeaistack.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://aifreeaistack.com/ Comments URL: https://news.ycombinator.com/item?id=48673728 Points: 2 # Comments: 0",
+    "published_at": "2026-06-25 14:12",
+    "tags": [],
+    "fetch_date": "2026-06-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Build an AI Discord Moderation Bot: Ban, Kick, Timeout and More",
+    "url": "https://quickchat.ai/post/ai-discord-moderation-bot",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://quickchat.ai/post/ai-discord-moderation-bot Comments URL: https://news.ycombinator.com/item?id=48673726 Points: 2 # Comments: 0",
+    "published_at": "2026-06-25 14:12",
+    "tags": [],
+    "fetch_date": "2026-06-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "UN hypocrisy in AI Environmental demands",
+    "url": "https://www.thatprivacyguy.com/blog/un-tracking-without-consent/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.thatprivacyguy.com/blog/un-tracking-without-consent/ Comments URL: https://news.ycombinator.com/item?id=48673321 Points: 5 # Comments: 2",
+    "published_at": "2026-06-25 13:46",
+    "tags": [],
+    "fetch_date": "2026-06-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Good clarity on AI observability and in simple terms",
+    "url": "https://posthog.com/blog/what-is-ai-observability",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://posthog.com/blog/what-is-ai-observability Comments URL: https://news.ycombinator.com/item?id=48673299 Points: 4 # Comments: 1",
+    "published_at": "2026-06-25 13:45",
+    "tags": [],
+    "fetch_date": "2026-06-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Tokenmaxxing is dead, and the real AI cost reckoning hasn't started yet",
+    "url": "https://mimetiq.substack.com/p/the-tokenmaxxing-hangover",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://mimetiq.substack.com/p/the-tokenmaxxing-hangover Comments URL: https://news.ycombinator.com/item?id=48673294 Points: 3 # Comments: 0",
+    "published_at": "2026-06-25 13:44",
+    "tags": [],
+    "fetch_date": "2026-06-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Pith – A local-first desktop LLM wiki without vector DBs or embeddings",
+    "url": "https://github.com/l-zhi/pith-wiki",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/l-zhi/pith-wiki Comments URL: https://news.ycombinator.com/item?id=48673110 Points: 3 # Comments: 0",
+    "published_at": "2026-06-25 13:32",
+    "tags": [],
+    "fetch_date": "2026-06-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Machine learning rediscovers equations governing ocean biogeochemistry",
+    "url": "https://phys.org/news/2026-06-machine-rediscovers-equations-ocean-biogeochemistry.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://phys.org/news/2026-06-machine-rediscovers-equations-ocean-biogeochemistry.html Comments URL: https://news.ycombinator.com/item?id=48673047 Points: 2 # Comments: 0",
+    "published_at": "2026-06-25 13:28",
+    "tags": [],
+    "fetch_date": "2026-06-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "How do you feel about AI today?",
+    "url": "https://vote.how-you-feel-about-ai.workers.dev/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://vote.how-you-feel-about-ai.workers.dev/ Comments URL: https://news.ycombinator.com/item?id=48672983 Points: 2 # Comments: 0",
+    "published_at": "2026-06-25 13:23",
+    "tags": [],
+    "fetch_date": "2026-06-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Why Does Everyone Hate AI?",
+    "url": "https://paulkrugman.substack.com/p/why-does-everyone-hate-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://paulkrugman.substack.com/p/why-does-everyone-hate-ai Comments URL: https://news.ycombinator.com/item?id=48672694 Points: 57 # Comments: 80",
+    "published_at": "2026-06-25 12:59",
+    "tags": [],
+    "fetch_date": "2026-06-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+    "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+    "source": "TechCrunch AI",
+    "summary": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
+    "published_at": "2026-06-25 12:00",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Amazon",
+      "Andy Jassy",
+      "AWS",
+      "data centers"
+    ],
+    "fetch_date": "2026-06-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
+    "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+    "source": "The Verge AI",
+    "summary": "To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reliance on automated systems in production and design. It turns out that those automated systems were not as robust as previously assumed, [&#8230;]",
+    "published_at": "2026-06-25 08:00",
+    "tags": [
+      "AI",
+      "Cars",
+      "Ford",
+      "News",
+      "Transportation"
+    ],
+    "fetch_date": "2026-06-25",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Bernie Sanders Wants a U.S. Sovereign Wealth Fund for AI",
     "url": "https://www.forbes.com/sites/jamesbroughel/2026/06/22/bernie-sanders-wants-a-us-sovereign-wealth-fund-for-ai/",
     "source": "Hacker News AI",
@@ -120,6 +263,24 @@
     "fetch_label": "早报"
   },
   {
+    "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+    "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+    "source": "TechCrunch AI",
+    "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
+    "published_at": "2026-06-24 21:56",
+    "tags": [
+      "AI",
+      "Startups",
+      "engineering",
+      "hiring",
+      "Layoffs",
+      "signalfire",
+      "software development"
+    ],
+    "fetch_date": "2026-06-25",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "AI researchers continue to leave Google for its rivals",
     "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
     "source": "TechCrunch AI",
@@ -165,6 +326,21 @@
     ],
     "fetch_date": "2026-06-25",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Congresswoman denies staff used AI to write defense funding amendment",
+    "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
+    "source": "The Verge AI",
+    "summary": "Rep. Anna Paulina Luna (R-FL) says her staff used AI for \"spellcheck\" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says \"NO Legislation is ever drafted with AI.\" Luna issued the response after accounts on X began sharing screenshots of an amendment summary [&#8230;]",
+    "published_at": "2026-06-24 15:36",
+    "tags": [
+      "AI",
+      "News",
+      "Policy",
+      "Politics"
+    ],
+    "fetch_date": "2026-06-25",
+    "fetch_label": "晚报"
   },
   {
     "title": "Hw to make sure AI Agents neer forget the Work?",

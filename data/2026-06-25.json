@@ -211,6 +211,214 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-06-25 22:35:11",
+      "count": 20,
+      "articles": [
+        {
+          "title": "AirPosture – AirPods as AI posture coach (Open source)",
+          "url": "https://airposture.github.io",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://airposture.github.io Comments URL: https://news.ycombinator.com/item?id=48673814 Points: 2 # Comments: 0",
+          "published_at": "2026-06-25 14:18",
+          "tags": []
+        },
+        {
+          "title": "Using Microsoft Copilot Enterprise, 80% of time the AI falsified results or code",
+          "url": "https://info.microsoft.com/ww-landing-four-paths-to-business-value-with-ai.html?lcid=en-us",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://info.microsoft.com/ww-landing-four-paths-to-business-value-with-ai.html?lcid=en-us Comments URL: https://news.ycombinator.com/item?id=48673781 Points: 4 # Comments: 1",
+          "published_at": "2026-06-25 14:16",
+          "tags": []
+        },
+        {
+          "title": "Show HN: FreeAIStack – 14 Free AI Tools",
+          "url": "https://aifreeaistack.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://aifreeaistack.com/ Comments URL: https://news.ycombinator.com/item?id=48673728 Points: 2 # Comments: 0",
+          "published_at": "2026-06-25 14:12",
+          "tags": []
+        },
+        {
+          "title": "Build an AI Discord Moderation Bot: Ban, Kick, Timeout and More",
+          "url": "https://quickchat.ai/post/ai-discord-moderation-bot",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://quickchat.ai/post/ai-discord-moderation-bot Comments URL: https://news.ycombinator.com/item?id=48673726 Points: 2 # Comments: 0",
+          "published_at": "2026-06-25 14:12",
+          "tags": []
+        },
+        {
+          "title": "How We'll fight the platform war against Big AI",
+          "url": "https://www.anildash.com/2026/06/23/fight-ai-platform-war/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.anildash.com/2026/06/23/fight-ai-platform-war/ Comments URL: https://news.ycombinator.com/item?id=48673397 Points: 3 # Comments: 1",
+          "published_at": "2026-06-25 13:50",
+          "tags": []
+        },
+        {
+          "title": "UN hypocrisy in AI Environmental demands",
+          "url": "https://www.thatprivacyguy.com/blog/un-tracking-without-consent/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.thatprivacyguy.com/blog/un-tracking-without-consent/ Comments URL: https://news.ycombinator.com/item?id=48673321 Points: 5 # Comments: 2",
+          "published_at": "2026-06-25 13:46",
+          "tags": []
+        },
+        {
+          "title": "Good clarity on AI observability and in simple terms",
+          "url": "https://posthog.com/blog/what-is-ai-observability",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://posthog.com/blog/what-is-ai-observability Comments URL: https://news.ycombinator.com/item?id=48673299 Points: 4 # Comments: 1",
+          "published_at": "2026-06-25 13:45",
+          "tags": []
+        },
+        {
+          "title": "Tokenmaxxing is dead, and the real AI cost reckoning hasn't started yet",
+          "url": "https://mimetiq.substack.com/p/the-tokenmaxxing-hangover",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://mimetiq.substack.com/p/the-tokenmaxxing-hangover Comments URL: https://news.ycombinator.com/item?id=48673294 Points: 3 # Comments: 0",
+          "published_at": "2026-06-25 13:44",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Pith – A local-first desktop LLM wiki without vector DBs or embeddings",
+          "url": "https://github.com/l-zhi/pith-wiki",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/l-zhi/pith-wiki Comments URL: https://news.ycombinator.com/item?id=48673110 Points: 3 # Comments: 0",
+          "published_at": "2026-06-25 13:32",
+          "tags": []
+        },
+        {
+          "title": "Machine learning rediscovers equations governing ocean biogeochemistry",
+          "url": "https://phys.org/news/2026-06-machine-rediscovers-equations-ocean-biogeochemistry.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://phys.org/news/2026-06-machine-rediscovers-equations-ocean-biogeochemistry.html Comments URL: https://news.ycombinator.com/item?id=48673047 Points: 2 # Comments: 0",
+          "published_at": "2026-06-25 13:28",
+          "tags": []
+        },
+        {
+          "title": "Notes from inside China's AI labs",
+          "url": "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs Comments URL: https://news.ycombinator.com/item?id=48672994 Points: 3 # Comments: 0",
+          "published_at": "2026-06-25 13:24",
+          "tags": []
+        },
+        {
+          "title": "How do you feel about AI today?",
+          "url": "https://vote.how-you-feel-about-ai.workers.dev/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://vote.how-you-feel-about-ai.workers.dev/ Comments URL: https://news.ycombinator.com/item?id=48672983 Points: 2 # Comments: 0",
+          "published_at": "2026-06-25 13:23",
+          "tags": []
+        },
+        {
+          "title": "Why Does Everyone Hate AI?",
+          "url": "https://paulkrugman.substack.com/p/why-does-everyone-hate-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://paulkrugman.substack.com/p/why-does-everyone-hate-ai Comments URL: https://news.ycombinator.com/item?id=48672694 Points: 57 # Comments: 80",
+          "published_at": "2026-06-25 12:59",
+          "tags": []
+        },
+        {
+          "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+          "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
+          "published_at": "2026-06-25 12:00",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "Amazon",
+            "Andy Jassy",
+            "AWS",
+            "data centers"
+          ]
+        },
+        {
+          "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
+          "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+          "source": "The Verge AI",
+          "summary": "To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reliance on automated systems in production and design. It turns out that those automated systems were not as robust as previously assumed, [&#8230;]",
+          "published_at": "2026-06-25 08:00",
+          "tags": [
+            "AI",
+            "Cars",
+            "Ford",
+            "News",
+            "Transportation"
+          ]
+        },
+        {
+          "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+          "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+          "source": "TechCrunch AI",
+          "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
+          "published_at": "2026-06-24 21:56",
+          "tags": [
+            "AI",
+            "Startups",
+            "engineering",
+            "hiring",
+            "Layoffs",
+            "signalfire",
+            "software development"
+          ]
+        },
+        {
+          "title": "AI researchers continue to leave Google for its rivals",
+          "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+          "source": "TechCrunch AI",
+          "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
+          "published_at": "2026-06-24 21:42",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "Google",
+            "In Brief"
+          ]
+        },
+        {
+          "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
+          "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+          "source": "TechCrunch AI",
+          "summary": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
+          "published_at": "2026-06-24 16:48",
+          "tags": [
+            "AI",
+            "Robotics",
+            "agility robotics",
+            "In Brief",
+            "spac merger"
+          ]
+        },
+        {
+          "title": "Congresswoman denies staff used AI to write defense funding amendment",
+          "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
+          "source": "The Verge AI",
+          "summary": "Rep. Anna Paulina Luna (R-FL) says her staff used AI for \"spellcheck\" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says \"NO Legislation is ever drafted with AI.\" Luna issued the response after accounts on X began sharing screenshots of an amendment summary [&#8230;]",
+          "published_at": "2026-06-24 15:36",
+          "tags": [
+            "AI",
+            "News",
+            "Policy",
+            "Politics"
+          ]
+        },
+        {
+          "title": "OpenAI reveals its first AI processor: Jalapeño",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+          "source": "The Verge AI",
+          "summary": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalape&#241;o, is designed to power current and future large language models, according to an announcement on Wednesday. Jalape&#241;o is an ASIC (Application-Specific Integrated Circuit), meaning it's designed for a specific purpose: AI inference. With AI [&#8230;]",
+          "published_at": "2026-06-24 10:36",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI"
+          ]
+        }
+      ]
     }
   ]
 }
