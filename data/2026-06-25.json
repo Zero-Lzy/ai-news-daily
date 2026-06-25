@@ -1,0 +1,216 @@
+{
+  "date": "2026-06-25",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-06-25 11:55:01",
+      "count": 20,
+      "articles": [
+        {
+          "title": "Bernie Sanders Wants a U.S. Sovereign Wealth Fund for AI",
+          "url": "https://www.forbes.com/sites/jamesbroughel/2026/06/22/bernie-sanders-wants-a-us-sovereign-wealth-fund-for-ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.forbes.com/sites/jamesbroughel/2026/06/22/bernie-sanders-wants-a-us-sovereign-wealth-fund-for-ai/ Comments URL: https://news.ycombinator.com/item?id=48668581 Points: 1 # Comments: 0",
+          "published_at": "2026-06-25 03:41",
+          "tags": []
+        },
+        {
+          "title": "IatroBench: Pre-Registered Evidence of Iatrogenic Harm from AI Safety Measures",
+          "url": "https://arxiv.org/abs/2604.07709",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2604.07709 Comments URL: https://news.ycombinator.com/item?id=48668552 Points: 1 # Comments: 0",
+          "published_at": "2026-06-25 03:36",
+          "tags": []
+        },
+        {
+          "title": "Loop engineering, latest AI buzzword, still needs humans in the loop",
+          "url": "https://www.theregister.com/ai-and-ml/2026/06/24/loop-engineering-latest-ai-buzzword-still-needs-humans-in-the-loop/5261735",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/24/loop-engineering-latest-ai-buzzword-still-needs-humans-in-the-loop/5261735 Comments URL: https://news.ycombinator.com/item?id=48668521 Points: 2 # Comments: 0",
+          "published_at": "2026-06-25 03:32",
+          "tags": []
+        },
+        {
+          "title": "Companies are not looking before they're leaping into the AI playpen",
+          "url": "https://www.theregister.com/devops/2026/06/24/companies-are-not-looking-before-theyre-leaping-into-the-ai-playpen/5261819",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theregister.com/devops/2026/06/24/companies-are-not-looking-before-theyre-leaping-into-the-ai-playpen/5261819 Comments URL: https://news.ycombinator.com/item?id=48668512 Points: 2 # Comments: 0",
+          "published_at": "2026-06-25 03:32",
+          "tags": []
+        },
+        {
+          "title": "This One's Not AI",
+          "url": "https://blog.tacoda.dev/this-ones-not-ai-992c95537790",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blog.tacoda.dev/this-ones-not-ai-992c95537790 Comments URL: https://news.ycombinator.com/item?id=48668240 Points: 2 # Comments: 2",
+          "published_at": "2026-06-25 02:49",
+          "tags": []
+        },
+        {
+          "title": "TronBrowser is an open-source, privacy-first, AI-native web browser",
+          "url": "https://tronbrowser.dev/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://tronbrowser.dev/ Comments URL: https://news.ycombinator.com/item?id=48667923 Points: 1 # Comments: 1",
+          "published_at": "2026-06-25 02:01",
+          "tags": []
+        },
+        {
+          "title": "Calling everything AI-generated is lazy",
+          "url": "https://00f.net/2026/06/25/stop-calling-everything-ai-generated/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://00f.net/2026/06/25/stop-calling-everything-ai-generated/ Comments URL: https://news.ycombinator.com/item?id=48667655 Points: 4 # Comments: 2",
+          "published_at": "2026-06-25 01:22",
+          "tags": []
+        },
+        {
+          "title": "What I'm Finding About LLM Code Style and Token Costs",
+          "url": "https://www.jimmont.com/llm-style-token-costs",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.jimmont.com/llm-style-token-costs Comments URL: https://news.ycombinator.com/item?id=48667409 Points: 17 # Comments: 7",
+          "published_at": "2026-06-25 00:52",
+          "tags": []
+        },
+        {
+          "title": "We'll fight the platform war against Big AI",
+          "url": "https://www.anildash.com/2026/06/23/fight-ai-platform-war/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.anildash.com/2026/06/23/fight-ai-platform-war/ Comments URL: https://news.ycombinator.com/item?id=48667112 Points: 6 # Comments: 0",
+          "published_at": "2026-06-25 00:07",
+          "tags": []
+        },
+        {
+          "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+          "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/ Comments URL: https://news.ycombinator.com/item?id=48666781 Points: 8 # Comments: 3",
+          "published_at": "2026-06-24 23:26",
+          "tags": []
+        },
+        {
+          "title": "Japan's AI goldrush faces backlash as data centers sprout up in urban areas",
+          "url": "https://www.japantimes.co.jp/environment/2026/06/21/data-center-pushback/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.japantimes.co.jp/environment/2026/06/21/data-center-pushback/ Comments URL: https://news.ycombinator.com/item?id=48666763 Points: 3 # Comments: 0",
+          "published_at": "2026-06-24 23:23",
+          "tags": []
+        },
+        {
+          "title": "M5StackChan AI Desktop Robot",
+          "url": "https://shop.m5stack.com/products/stackchan-kawaii-co-created-open-source-ai-desktop-robot",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://shop.m5stack.com/products/stackchan-kawaii-co-created-open-source-ai-desktop-robot Comments URL: https://news.ycombinator.com/item?id=48666756 Points: 3 # Comments: 0",
+          "published_at": "2026-06-24 23:21",
+          "tags": []
+        },
+        {
+          "title": "AI researchers continue to leave Google for its rivals",
+          "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+          "source": "TechCrunch AI",
+          "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
+          "published_at": "2026-06-24 21:42",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "Google",
+            "In Brief"
+          ]
+        },
+        {
+          "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
+          "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+          "source": "TechCrunch AI",
+          "summary": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
+          "published_at": "2026-06-24 16:48",
+          "tags": [
+            "AI",
+            "Robotics",
+            "agility robotics",
+            "In Brief",
+            "spac merger"
+          ]
+        },
+        {
+          "title": "Figma adds code layers, support for animations, more AI features in new update",
+          "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
+          "source": "TechCrunch AI",
+          "summary": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
+          "published_at": "2026-06-24 16:15",
+          "tags": [
+            "AI",
+            "Apps",
+            "AI agents",
+            "design",
+            "Figma"
+          ]
+        },
+        {
+          "title": "OpenAI reveals its first AI processor: Jalapeño",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+          "source": "The Verge AI",
+          "summary": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalape&#241;o, is designed to power current and future large language models, according to an announcement on Wednesday. Jalape&#241;o is an ASIC (Application-Specific Integrated Circuit), meaning it's designed for a specific purpose: AI inference. With AI [&#8230;]",
+          "published_at": "2026-06-24 10:36",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
+          "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+          "source": "ArsTechnica AI",
+          "summary": "Oracle is spending billions on data center infrastructure to support AI.",
+          "published_at": "2026-06-23 20:17",
+          "tags": [
+            "AI",
+            "Biz & IT",
+            "job losses",
+            "oracle"
+          ]
+        },
+        {
+          "title": "Hollywood is bending the knee to OpenAI",
+          "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
+          "source": "The Verge AI",
+          "summary": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals. And while Neon and Mubi are still said to be interested in the film, this situation makes it seem [&#8230;]",
+          "published_at": "2026-06-23 18:03",
+          "tags": [
+            "AI",
+            "Amazon",
+            "Entertainment",
+            "Film",
+            "OpenAI",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Why corporate AI super PACs spent $27 million on a local election",
+          "url": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
+          "source": "The Verge AI",
+          "summary": "Hello and welcome to Regulator, the newsletter for Verge subscribers chronicling the misadventures of their favorite tech overlords and Washington swamp creatures. (\"Favorite\" is, of course, subjective.) Not a subscriber yet? Sign up here, especially if you want the hot scoop on quality Amazon Prime Day deals recommended by the wonderful humans of The Verge's [&#8230;]",
+          "published_at": "2026-06-23 13:00",
+          "tags": [
+            "AI",
+            "Column",
+            "Policy",
+            "Politics",
+            "Regulator"
+          ]
+        },
+        {
+          "title": "Something&#8217;s off with Midjourney’s pivot to body scanners",
+          "url": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
+          "source": "The Verge AI",
+          "summary": "Last week, Midjourney, an AI startup best known for its image generator, made an unusual pivot: medical imaging. The company announced a futuristic ultrasound scanner that would dunk users into a vat of water and, hopefully, produce \"something as powerful as MRI\" yet \"as casual as a trip to the spa.\" Midjourney says the goal [&#8230;]",
+          "published_at": "2026-06-23 11:56",
+          "tags": [
+            "AI",
+            "Health",
+            "Report",
+            "Science"
+          ]
+        }
+      ]
+    }
+  ]
+}
