@@ -1,5 +1,189 @@
 [
   {
+    "title": "Building domain-specific AI chatbots with Claude",
+    "url": "https://gregwilson.tech/building-domain-specific-ai-chatbots",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://gregwilson.tech/building-domain-specific-ai-chatbots Comments URL: https://news.ycombinator.com/item?id=48681989 Points: 2 # Comments: 1",
+    "published_at": "2026-06-26 03:19",
+    "tags": [],
+    "fetch_date": "2026-06-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask HN: How has the ML engineer job evolved outside of LLM labs?",
+    "url": "https://news.ycombinator.com/item?id=48681934",
+    "source": "Hacker News AI",
+    "summary": "It seems that a lot of the tasks that once required custom-trained models can now be achieved out of the box by frontier LLMs.If you're an ML engineer working outside a frontier lab, how has your job evolved? Are people still training custom models, or has your role shifted entirely? Comments URL: https://news.ycombinator.com/item?id=48681934 Points: 1 # Comments: 0",
+    "published_at": "2026-06-26 03:08",
+    "tags": [],
+    "fetch_date": "2026-06-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "What happened after 2k people tried to hack my AI assistant",
+    "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.fernandoi.cl/posts/hackmyclaw/ Comments URL: https://news.ycombinator.com/item?id=48681687 Points: 6 # Comments: 0",
+    "published_at": "2026-06-26 02:29",
+    "tags": [],
+    "fetch_date": "2026-06-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Guardrails for offensive AI agents and why instructions are never enough",
+    "url": "https://dest.host/b/guardrails-for-offensive-ai-agents/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://dest.host/b/guardrails-for-offensive-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48681546 Points: 3 # Comments: 0",
+    "published_at": "2026-06-26 02:07",
+    "tags": [],
+    "fetch_date": "2026-06-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Local-first AI coding assistant for IntelliJ-based IDEs (paid)",
+    "url": "https://plugins.jetbrains.com/plugin/31304-llamatik-code/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://plugins.jetbrains.com/plugin/31304-llamatik-code/ Comments URL: https://news.ycombinator.com/item?id=48681490 Points: 5 # Comments: 0",
+    "published_at": "2026-06-26 01:55",
+    "tags": [],
+    "fetch_date": "2026-06-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI children's books, body horror edition",
+    "url": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition Comments URL: https://news.ycombinator.com/item?id=48681250 Points: 156 # Comments: 51",
+    "published_at": "2026-06-26 01:15",
+    "tags": [],
+    "fetch_date": "2026-06-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Email Template Design",
+    "url": "https://madooai.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://madooai.com Comments URL: https://news.ycombinator.com/item?id=48681246 Points: 3 # Comments: 1",
+    "published_at": "2026-06-26 01:14",
+    "tags": [],
+    "fetch_date": "2026-06-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Anthropic Accuses Alibaba of Largest AI Distillation Attack: 28.8M Fraudulent",
+    "url": "https://yipzap.com/anthropic-accuses-alibaba-of-largest-ai-distillation-attack-28-8m-fraudulent-exchanges/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://yipzap.com/anthropic-accuses-alibaba-of-largest-ai-distillation-attack-28-8m-fraudulent-exchanges/ Comments URL: https://news.ycombinator.com/item?id=48681111 Points: 4 # Comments: 2",
+    "published_at": "2026-06-26 00:49",
+    "tags": [],
+    "fetch_date": "2026-06-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Claude AI's link handling and fix",
+    "url": "https://www.FoolQuest.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.FoolQuest.com/ Comments URL: https://news.ycombinator.com/item?id=48680607 Points: 2 # Comments: 0",
+    "published_at": "2026-06-25 23:38",
+    "tags": [],
+    "fetch_date": "2026-06-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Tropius: Detect AI Tropes in Prose",
+    "url": "https://tangled.org/desertthunder.dev/tropius",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://tangled.org/desertthunder.dev/tropius Comments URL: https://news.ycombinator.com/item?id=48680569 Points: 4 # Comments: 0",
+    "published_at": "2026-06-25 23:32",
+    "tags": [],
+    "fetch_date": "2026-06-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+    "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+    "source": "TechCrunch AI",
+    "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+    "published_at": "2026-06-25 20:19",
+    "tags": [
+      "AI",
+      "Venture",
+      "ai benchmarks",
+      "evaluation",
+      "Greenfield Partners",
+      "lightspeed",
+      "Notable Capital",
+      "Patronus AI"
+    ],
+    "fetch_date": "2026-06-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+    "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+    "source": "TechCrunch AI",
+    "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+    "published_at": "2026-06-25 17:38",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "ChatGPT",
+      "Claude",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-06-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+    "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+    "source": "TechCrunch AI",
+    "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+    "published_at": "2026-06-25 16:55",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "Robotics",
+      "Startups",
+      "AI training data",
+      "general intuition",
+      "Khosla Ventures",
+      "world models"
+    ],
+    "fetch_date": "2026-06-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+    "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+    "source": "TechCrunch AI",
+    "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
+    "published_at": "2026-06-25 16:48",
+    "tags": [
+      "AI",
+      "TC",
+      "diffusion model",
+      "image-generation"
+    ],
+    "fetch_date": "2026-06-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+    "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+    "source": "TechCrunch AI",
+    "summary": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
+    "published_at": "2026-06-25 14:55",
+    "tags": [
+      "AI",
+      "a16z",
+      "neocloud",
+      "Netris"
+    ],
+    "fetch_date": "2026-06-26",
+    "fetch_label": "早报"
+  },
+  {
     "title": "AirPosture – AirPods as AI posture coach (Open source)",
     "url": "https://airposture.github.io",
     "source": "Hacker News AI",
@@ -141,6 +325,21 @@
     ],
     "fetch_date": "2026-06-25",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Facebook’s Creator Studio has been revived as an AI companion app",
+    "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
+    "source": "The Verge AI",
+    "summary": "Meta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences and show them \"exactly how to grow on Facebook,\" according to Meta's announcement. Meta's AI Creator Assistant is a central focus of [&#8230;]",
+    "published_at": "2026-06-25 05:06",
+    "tags": [
+      "AI",
+      "Facebook",
+      "Meta",
+      "Tech"
+    ],
+    "fetch_date": "2026-06-26",
+    "fetch_label": "早报"
   },
   {
     "title": "Bernie Sanders Wants a U.S. Sovereign Wealth Fund for AI",
@@ -296,6 +495,23 @@
     "fetch_label": "早报"
   },
   {
+    "title": "Facebook rolls out an AI companion app for creators",
+    "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+    "source": "TechCrunch AI",
+    "summary": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
+    "published_at": "2026-06-24 17:16",
+    "tags": [
+      "AI",
+      "Apps",
+      "Social",
+      "Facebook",
+      "Meta",
+      "social media"
+    ],
+    "fetch_date": "2026-06-26",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
     "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
     "source": "TechCrunch AI",
@@ -431,6 +647,20 @@
     "tags": [],
     "fetch_date": "2026-06-24",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
+    "source": "The Verge AI",
+    "summary": "The expensive, $27 million political proxy war between Anthropic and OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose popularity surged after being targeted by a pro-AI super PAC, narrowly lost the Democratic primary to represent New York's 12th Congressional district. Prior to the race, Bores, a former [&#8230;]",
+    "published_at": "2026-06-24 13:25",
+    "tags": [
+      "AI",
+      "Policy",
+      "Politics"
+    ],
+    "fetch_date": "2026-06-26",
+    "fetch_label": "早报"
   },
   {
     "title": "AI is creating intelligence disparity",
