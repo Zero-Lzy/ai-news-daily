@@ -258,6 +258,217 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-06-26 22:26:17",
+      "count": 21,
+      "articles": [
+        {
+          "title": "The Shift to Agentic AI: Evidence from Codex [pdf]",
+          "url": "https://cdn.openai.com/pdf/5d1e1489-21c0-43e4-9d42-f87efdbf0082/the-shift-to-agentic-ai-evidence-from-codex.pdf",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://cdn.openai.com/pdf/5d1e1489-21c0-43e4-9d42-f87efdbf0082/the-shift-to-agentic-ai-evidence-from-codex.pdf Comments URL: https://news.ycombinator.com/item?id=48686845 Points: 3 # Comments: 0",
+          "published_at": "2026-06-26 14:11",
+          "tags": []
+        },
+        {
+          "title": "What One Year in AI Security and Governance Changed About How I See AI",
+          "url": "https://codebynight.dev/posts/one-year-ai-security-governance-see-ai-differently/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://codebynight.dev/posts/one-year-ai-security-governance-see-ai-differently/ Comments URL: https://news.ycombinator.com/item?id=48686812 Points: 2 # Comments: 0",
+          "published_at": "2026-06-26 14:08",
+          "tags": []
+        },
+        {
+          "title": "History Lens – AI-powered historical artifact and monument identifier",
+          "url": "https://apps.apple.com/us/app/history-lens-ai-identifier/id6757669028",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://apps.apple.com/us/app/history-lens-ai-identifier/id6757669028 Comments URL: https://news.ycombinator.com/item?id=48686796 Points: 2 # Comments: 0",
+          "published_at": "2026-06-26 14:06",
+          "tags": []
+        },
+        {
+          "title": "Show Casing Kohinoor AI, Kohinoorai.in",
+          "url": "https://news.ycombinator.com/item?id=48686764",
+          "source": "Hacker News AI",
+          "summary": "this is an ai I made, it is to try and lessen tuition fees by using the ai study. Comments URL: https://news.ycombinator.com/item?id=48686764 Points: 1 # Comments: 0",
+          "published_at": "2026-06-26 14:03",
+          "tags": []
+        },
+        {
+          "title": "Local AI detectors rated a 2013 Paul Graham essay as more AI than actual slop",
+          "url": "https://ninjasandrobots.com/paul-graham-flagged-for-ai-use",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://ninjasandrobots.com/paul-graham-flagged-for-ai-use Comments URL: https://news.ycombinator.com/item?id=48686737 Points: 4 # Comments: 0",
+          "published_at": "2026-06-26 13:59",
+          "tags": []
+        },
+        {
+          "title": "Show HN: NexisSearch – Fast AI Search",
+          "url": "https://nexisearch.com",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://nexisearch.com Comments URL: https://news.ycombinator.com/item?id=48686676 Points: 1 # Comments: 1",
+          "published_at": "2026-06-26 13:53",
+          "tags": []
+        },
+        {
+          "title": "Food for Agile Thought 550: Make AI Boring, Everyone's a Product Manager Soon",
+          "url": "https://age-of-product.com/food-agile-thought-550-make-ai-boring/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://age-of-product.com/food-agile-thought-550-make-ai-boring/ Comments URL: https://news.ycombinator.com/item?id=48686564 Points: 1 # Comments: 0",
+          "published_at": "2026-06-26 13:41",
+          "tags": []
+        },
+        {
+          "title": "Multi-harness session monitoring app for heavy AI users",
+          "url": "https://cctop.app/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://cctop.app/ Comments URL: https://news.ycombinator.com/item?id=48686466 Points: 2 # Comments: 1",
+          "published_at": "2026-06-26 13:33",
+          "tags": []
+        },
+        {
+          "title": "AI and Liability",
+          "url": "https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html Comments URL: https://news.ycombinator.com/item?id=48686446 Points: 1 # Comments: 0",
+          "published_at": "2026-06-26 13:31",
+          "tags": []
+        },
+        {
+          "title": "I Wish I Knew This Before Building an AI Second Brain",
+          "url": "https://pub.towardsai.net/i-wish-i-knew-this-before-building-an-ai-second-brain-6179aa439aef",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://pub.towardsai.net/i-wish-i-knew-this-before-building-an-ai-second-brain-6179aa439aef Comments URL: https://news.ycombinator.com/item?id=48686390 Points: 1 # Comments: 0",
+          "published_at": "2026-06-26 13:27",
+          "tags": []
+        },
+        {
+          "title": "Trump administration asks OpenAI to stagger release of GPT 5.6",
+          "url": "https://old.reddit.com/r/OpenAI/comments/1ufnwkh/breaking_trump_administration_asks_openai_to/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://old.reddit.com/r/OpenAI/comments/1ufnwkh/breaking_trump_administration_asks_openai_to/ Comments URL: https://news.ycombinator.com/item?id=48686335 Points: 1 # Comments: 0",
+          "published_at": "2026-06-26 13:22",
+          "tags": []
+        },
+        {
+          "title": "Adobe is buying Topaz Labs, the AI video enhancer",
+          "url": "https://thenextweb.com/news/adobe-acquires-topaz-labs-ai-enhancement",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://thenextweb.com/news/adobe-acquires-topaz-labs-ai-enhancement Comments URL: https://news.ycombinator.com/item?id=48686246 Points: 2 # Comments: 0",
+          "published_at": "2026-06-26 13:14",
+          "tags": []
+        },
+        {
+          "title": "The AI backlash is only getting started",
+          "url": "https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started Comments URL: https://news.ycombinator.com/item?id=48686219 Points: 5 # Comments: 2",
+          "published_at": "2026-06-26 13:12",
+          "tags": []
+        },
+        {
+          "title": "Guardrails for Offensive AI Agents",
+          "url": "https://dest.host/b/guardrails-for-offensive-ai-agents/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://dest.host/b/guardrails-for-offensive-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48686060 Points: 2 # Comments: 0",
+          "published_at": "2026-06-26 12:52",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Jargo – a Golang port of Pipecat for conversational-AI apps",
+          "url": "https://github.com/gojargo/jargo",
+          "source": "Hacker News AI",
+          "summary": "A WebRTC-native, audio-first conversational-AI framework for Go.Pipecat is great, and jargo is a port of it — the architecture and many design decisions are Pipecat's.But, I prefer Golang. Comments URL: https://news.ycombinator.com/item?id=48686042 Points: 3 # Comments: 0",
+          "published_at": "2026-06-26 12:50",
+          "tags": []
+        },
+        {
+          "title": "The closed-source LLM premium has collapsed",
+          "url": "https://runware.ai/blog/the-closed-source-llm-premium-has-collapsed",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://runware.ai/blog/the-closed-source-llm-premium-has-collapsed Comments URL: https://news.ycombinator.com/item?id=48685911 Points: 3 # Comments: 0",
+          "published_at": "2026-06-26 12:34",
+          "tags": []
+        },
+        {
+          "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+          "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+          "source": "TechCrunch AI",
+          "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+          "published_at": "2026-06-25 20:19",
+          "tags": [
+            "AI",
+            "Venture",
+            "ai benchmarks",
+            "evaluation",
+            "Greenfield Partners",
+            "lightspeed",
+            "Notable Capital",
+            "Patronus AI"
+          ]
+        },
+        {
+          "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+          "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+          "source": "TechCrunch AI",
+          "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+          "published_at": "2026-06-25 16:55",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Robotics",
+            "Startups",
+            "AI training data",
+            "general intuition",
+            "Khosla Ventures",
+            "world models"
+          ]
+        },
+        {
+          "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+          "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+          "source": "TechCrunch AI",
+          "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
+          "published_at": "2026-06-25 16:48",
+          "tags": [
+            "AI",
+            "TC",
+            "diffusion model",
+            "image-generation"
+          ]
+        },
+        {
+          "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+          "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
+          "published_at": "2026-06-25 12:00",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "Amazon",
+            "Andy Jassy",
+            "AWS",
+            "data centers"
+          ]
+        },
+        {
+          "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
+          "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+          "source": "The Verge AI",
+          "summary": "To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reliance on automated systems in production and design. It turns out that those automated systems were not as robust as previously assumed, [&#8230;]",
+          "published_at": "2026-06-25 08:00",
+          "tags": [
+            "AI",
+            "Cars",
+            "Ford",
+            "News",
+            "Transportation"
+          ]
+        }
+      ]
     }
   ]
 }
