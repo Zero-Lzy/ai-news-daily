@@ -1,5 +1,147 @@
 [
   {
+    "title": "Find the right AI agents to build",
+    "url": "https://www.agentideahub.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.agentideahub.com Comments URL: https://news.ycombinator.com/item?id=48694897 Points: 1 # Comments: 0",
+    "published_at": "2026-06-27 03:38",
+    "tags": [],
+    "fetch_date": "2026-06-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "TUI email client in native Golang with LLM based drafting functions",
+    "url": "https://mail.intellios.ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://mail.intellios.ai Comments URL: https://news.ycombinator.com/item?id=48694888 Points: 1 # Comments: 0",
+    "published_at": "2026-06-27 03:36",
+    "tags": [],
+    "fetch_date": "2026-06-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "US allows Anthropic to release Mythos AI to 'trusted' US organizations",
+    "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/ Comments URL: https://news.ycombinator.com/item?id=48694885 Points: 1 # Comments: 0",
+    "published_at": "2026-06-27 03:35",
+    "tags": [],
+    "fetch_date": "2026-06-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Erodes a Legacy of Reading",
+    "url": "https://molochinations.substack.com/p/ai-erodes-a-legacy-of-reading",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://molochinations.substack.com/p/ai-erodes-a-legacy-of-reading Comments URL: https://news.ycombinator.com/item?id=48694322 Points: 8 # Comments: 4",
+    "published_at": "2026-06-27 01:39",
+    "tags": [],
+    "fetch_date": "2026-06-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Boot a tiny app-making OS inside an AI chat",
+    "url": "https://hollingsworthd.github.io/RAu/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://hollingsworthd.github.io/RAu/ Comments URL: https://news.ycombinator.com/item?id=48694257 Points: 1 # Comments: 1",
+    "published_at": "2026-06-27 01:28",
+    "tags": [],
+    "fetch_date": "2026-06-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The State of the AI Economy",
+    "url": "https://intelligence.exponentialview.co/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://intelligence.exponentialview.co/ Comments URL: https://news.ycombinator.com/item?id=48693962 Points: 2 # Comments: 0",
+    "published_at": "2026-06-27 00:49",
+    "tags": [],
+    "fetch_date": "2026-06-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "PrismLib – semantic LLM cache and cluster mesh that cuts token spend",
+    "url": "https://github.com/insightitsGit/prismlib",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/insightitsGit/prismlib Comments URL: https://news.ycombinator.com/item?id=48693843 Points: 2 # Comments: 0",
+    "published_at": "2026-06-27 00:34",
+    "tags": [],
+    "fetch_date": "2026-06-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Add MCP Apps to Your AI SDK Application",
+    "url": "https://vercel.com/kb/guide/ai-sdk-mcp-apps",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://vercel.com/kb/guide/ai-sdk-mcp-apps Comments URL: https://news.ycombinator.com/item?id=48693667 Points: 1 # Comments: 0",
+    "published_at": "2026-06-27 00:10",
+    "tags": [],
+    "fetch_date": "2026-06-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Powered Photo Gallery Without the Cloud",
+    "url": "https://github.com/Arkalogy/best-photo-picker",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/Arkalogy/best-photo-picker Comments URL: https://news.ycombinator.com/item?id=48693638 Points: 1 # Comments: 0",
+    "published_at": "2026-06-27 00:07",
+    "tags": [],
+    "fetch_date": "2026-06-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "I removed the vector database from my AI agent stack",
+    "url": "https://github.com/usemoss/moss",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/usemoss/moss Comments URL: https://news.ycombinator.com/item?id=48693631 Points: 2 # Comments: 0",
+    "published_at": "2026-06-27 00:05",
+    "tags": [],
+    "fetch_date": "2026-06-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "With AI, researchers discover new way to detect sudden cardiac death risk",
+    "url": "https://news.berkeley.edu/2026/06/24/with-ai-researchers-discover-new-way-to-detect-sudden-cardiac-death-risk/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://news.berkeley.edu/2026/06/24/with-ai-researchers-discover-new-way-to-detect-sudden-cardiac-death-risk/ Comments URL: https://news.ycombinator.com/item?id=48693458 Points: 1 # Comments: 0",
+    "published_at": "2026-06-26 23:40",
+    "tags": [],
+    "fetch_date": "2026-06-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+    "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+    "source": "TechCrunch AI",
+    "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
+    "published_at": "2026-06-26 18:32",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "gpt-5.6",
+      "gpt-5.6 sol",
+      "OpenAI",
+      "Trump"
+    ],
+    "fetch_date": "2026-06-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "It’s not about Anthropic vs. OpenAI anymore",
+    "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+    "source": "TechCrunch AI",
+    "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
+    "published_at": "2026-06-26 16:24",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "Anthropic",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-06-27",
+    "fetch_label": "早报"
+  },
+  {
     "title": "The Shift to Agentic AI: Evidence from Codex [pdf]",
     "url": "https://cdn.openai.com/pdf/5d1e1489-21c0-43e4-9d42-f87efdbf0082/the-shift-to-agentic-ai-evidence-from-codex.pdf",
     "source": "Hacker News AI",
@@ -38,6 +180,31 @@
     "tags": [],
     "fetch_date": "2026-06-26",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
+    "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+    "source": "TechCrunch AI",
+    "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal&#160;is&#160;less&#160;of&#160;a [&#8230;]",
+    "published_at": "2026-06-26 14:00",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "a24",
+      "agility",
+      "AI chips",
+      "AI loops",
+      "Anthropic",
+      "custom silicon",
+      "Equity podcast",
+      "groq",
+      "humanoid robots",
+      "nvidia",
+      "OpenAI",
+      "SPAC"
+    ],
+    "fetch_date": "2026-06-27",
+    "fetch_label": "早报"
   },
   {
     "title": "Local AI detectors rated a 2013 Paul Graham essay as more AI than actual slop",
@@ -128,6 +295,21 @@
     "tags": [],
     "fetch_date": "2026-06-26",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+    "source": "The Verge AI",
+    "summary": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship; Terra, a medium-tier model for \"high-volume work\"; and Luna, a [&#8230;]",
+    "published_at": "2026-06-26 13:00",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI",
+      "Policy"
+    ],
+    "fetch_date": "2026-06-27",
+    "fetch_label": "早报"
   },
   {
     "title": "Show HN: Jargo – a Golang port of Pipecat for conversational-AI apps",
@@ -266,6 +448,25 @@
       "Patronus AI"
     ],
     "fetch_date": "2026-06-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+    "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+    "source": "ArsTechnica AI",
+    "summary": "Notion is \"going all in on using agents to run your inbox.\"",
+    "published_at": "2026-06-25 19:04",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "Tech",
+      "apps",
+      "email",
+      "email client",
+      "Skiff",
+      "software"
+    ],
+    "fetch_date": "2026-06-27",
     "fetch_label": "早报"
   },
   {
