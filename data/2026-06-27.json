@@ -207,6 +207,182 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-06-27 21:44:59",
+      "count": 17,
+      "articles": [
+        {
+          "title": "Show HN: Hyoomn – We'll constructively roast your AI coded B2B SaaS",
+          "url": "https://hyoomn.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://hyoomn.com/ Comments URL: https://news.ycombinator.com/item?id=48698115 Points: 1 # Comments: 0",
+          "published_at": "2026-06-27 13:27",
+          "tags": []
+        },
+        {
+          "title": "GPT-5.6 Sol: ~20 US govt-approved orgs only. What about non-US businesses?",
+          "url": "https://nexusfoundation.substack.com/p/digital-segregation-how-bigtech-and",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://nexusfoundation.substack.com/p/digital-segregation-how-bigtech-and Comments URL: https://news.ycombinator.com/item?id=48698110 Points: 2 # Comments: 0",
+          "published_at": "2026-06-27 13:27",
+          "tags": []
+        },
+        {
+          "title": "It's 11:00 pm. Do you know where your AI agent is?",
+          "url": "https://www.aiweirdness.com/its-11-00-pm-do-you-know-where-your-ai-agent-is/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.aiweirdness.com/its-11-00-pm-do-you-know-where-your-ai-agent-is/ Comments URL: https://news.ycombinator.com/item?id=48697978 Points: 1 # Comments: 0",
+          "published_at": "2026-06-27 13:12",
+          "tags": []
+        },
+        {
+          "title": "Asian AI startups launch Mythos-like models",
+          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/ Comments URL: https://news.ycombinator.com/item?id=48697958 Points: 2 # Comments: 0",
+          "published_at": "2026-06-27 13:10",
+          "tags": []
+        },
+        {
+          "title": "BlueBookOS: An LLM microkernel and language for specifying apps",
+          "url": "https://bluebookos.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://bluebookos.com/ Comments URL: https://news.ycombinator.com/item?id=48697658 Points: 1 # Comments: 0",
+          "published_at": "2026-06-27 12:28",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Nirnam – a browser-native message bus and AI agent framework for MFEs",
+          "url": "https://github.com/shaurcasm/nirnam",
+          "source": "Hacker News AI",
+          "summary": "Communication hub to make communication easier for MFEs, Browser Worker threads, Browser-native Agents. And an Agent framework to make it easier to build browser native multi-agent system. Comments URL: https://news.ycombinator.com/item?id=48697653 Points: 1 # Comments: 0",
+          "published_at": "2026-06-27 12:27",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: Is there a quiet market for 'no enforced AI' dev jobs?",
+          "url": "https://news.ycombinator.com/item?id=48697527",
+          "source": "Hacker News AI",
+          "summary": "It seems to me that the dissenting voices from software engineers burned out after having the AI hype shoved down their throats have been growing louder lately. Just this week I read several posts both here (e.g. [1], [2]) and on Reddit (e.g. [3], [4]) with hundreds of comments from devs who have long moved past skepticism and ambivalence into one or more of the five stages of grief.That's not to say they're the majority by any means: the \"I am 100x more productive with AI,\" \"I haven't hand-code",
+          "published_at": "2026-06-27 12:05",
+          "tags": []
+        },
+        {
+          "title": "Gnome AI Assistant Adds Image Generation Support",
+          "url": "https://www.phoronix.com/news/GNOME-Newelle-Image-Gen",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.phoronix.com/news/GNOME-Newelle-Image-Gen Comments URL: https://news.ycombinator.com/item?id=48697487 Points: 1 # Comments: 0",
+          "published_at": "2026-06-27 11:59",
+          "tags": []
+        },
+        {
+          "title": "Everyone Will Have an AI Coding Agent",
+          "url": "https://github.com/HoratiuCode/Clawie",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/HoratiuCode/Clawie Comments URL: https://news.ycombinator.com/item?id=48697174 Points: 1 # Comments: 0",
+          "published_at": "2026-06-27 11:04",
+          "tags": []
+        },
+        {
+          "title": "How a New York race became the first front in the AI industry's midterm war",
+          "url": "https://www.washingtonpost.com/politics/2026/06/25/how-new-york-race-became-first-front-ai-industrys-midterm-war/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.washingtonpost.com/politics/2026/06/25/how-new-york-race-became-first-front-ai-industrys-midterm-war/ Comments URL: https://news.ycombinator.com/item?id=48697173 Points: 1 # Comments: 0",
+          "published_at": "2026-06-27 11:04",
+          "tags": []
+        },
+        {
+          "title": "Properties of AI",
+          "url": "https://claude.com/resources/tutorials/the-4-properties-of-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://claude.com/resources/tutorials/the-4-properties-of-ai Comments URL: https://news.ycombinator.com/item?id=48696977 Points: 2 # Comments: 0",
+          "published_at": "2026-06-27 10:28",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: How do we measure software in LLM era?",
+          "url": "https://news.ycombinator.com/item?id=48696916",
+          "source": "Hacker News AI",
+          "summary": "A bit of a rant. Sorry!With the probablistic pluggable 'brain' existing in parts of the solution how are you measuring anything is better or worse?I am at a loss to quantify whether anything is improving or worsening anything. It probably is also because of the various metrics that keeps popping up* Accuracy* Cost of running* Context* Size* Time* Turnsall these vary in a large band even with the same 'brain' on the same 'provider'. It is not so different than a database running strained under lo",
+          "published_at": "2026-06-27 10:18",
+          "tags": []
+        },
+        {
+          "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
+          "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+          "source": "The Verge AI",
+          "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the feet of the [&#8230;]",
+          "published_at": "2026-06-27 09:30",
+          "tags": [
+            "AI",
+            "Apple",
+            "Business",
+            "Report",
+            "Tech"
+          ]
+        },
+        {
+          "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf Comments URL: https://news.ycombinator.com/item?id=48696585 Points: 495 # Comments: 173",
+          "published_at": "2026-06-27 09:18",
+          "tags": []
+        },
+        {
+          "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+          "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+          "source": "TechCrunch AI",
+          "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
+          "published_at": "2026-06-26 18:32",
+          "tags": [
+            "AI",
+            "Government & Policy",
+            "gpt-5.6",
+            "gpt-5.6 sol",
+            "OpenAI",
+            "Trump"
+          ]
+        },
+        {
+          "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
+          "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal&#160;is&#160;less&#160;of&#160;a [&#8230;]",
+          "published_at": "2026-06-26 14:00",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "a24",
+            "agility",
+            "AI chips",
+            "AI loops",
+            "Anthropic",
+            "custom silicon",
+            "Equity podcast",
+            "groq",
+            "humanoid robots",
+            "nvidia",
+            "OpenAI",
+            "SPAC"
+          ]
+        },
+        {
+          "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+          "source": "The Verge AI",
+          "summary": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship; Terra, a medium-tier model for \"high-volume work\"; and Luna, a [&#8230;]",
+          "published_at": "2026-06-26 13:00",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI",
+            "Policy"
+          ]
+        }
+      ]
     }
   ]
 }

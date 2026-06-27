@@ -1,5 +1,151 @@
 [
   {
+    "title": "Show HN: Hyoomn – We'll constructively roast your AI coded B2B SaaS",
+    "url": "https://hyoomn.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://hyoomn.com/ Comments URL: https://news.ycombinator.com/item?id=48698115 Points: 1 # Comments: 0",
+    "published_at": "2026-06-27 13:27",
+    "tags": [],
+    "fetch_date": "2026-06-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "GPT-5.6 Sol: ~20 US govt-approved orgs only. What about non-US businesses?",
+    "url": "https://nexusfoundation.substack.com/p/digital-segregation-how-bigtech-and",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://nexusfoundation.substack.com/p/digital-segregation-how-bigtech-and Comments URL: https://news.ycombinator.com/item?id=48698110 Points: 2 # Comments: 0",
+    "published_at": "2026-06-27 13:27",
+    "tags": [],
+    "fetch_date": "2026-06-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "It's 11:00 pm. Do you know where your AI agent is?",
+    "url": "https://www.aiweirdness.com/its-11-00-pm-do-you-know-where-your-ai-agent-is/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.aiweirdness.com/its-11-00-pm-do-you-know-where-your-ai-agent-is/ Comments URL: https://news.ycombinator.com/item?id=48697978 Points: 1 # Comments: 0",
+    "published_at": "2026-06-27 13:12",
+    "tags": [],
+    "fetch_date": "2026-06-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Asian AI startups launch Mythos-like models",
+    "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/ Comments URL: https://news.ycombinator.com/item?id=48697958 Points: 2 # Comments: 0",
+    "published_at": "2026-06-27 13:10",
+    "tags": [],
+    "fetch_date": "2026-06-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "BlueBookOS: An LLM microkernel and language for specifying apps",
+    "url": "https://bluebookos.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://bluebookos.com/ Comments URL: https://news.ycombinator.com/item?id=48697658 Points: 1 # Comments: 0",
+    "published_at": "2026-06-27 12:28",
+    "tags": [],
+    "fetch_date": "2026-06-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Nirnam – a browser-native message bus and AI agent framework for MFEs",
+    "url": "https://github.com/shaurcasm/nirnam",
+    "source": "Hacker News AI",
+    "summary": "Communication hub to make communication easier for MFEs, Browser Worker threads, Browser-native Agents. And an Agent framework to make it easier to build browser native multi-agent system. Comments URL: https://news.ycombinator.com/item?id=48697653 Points: 1 # Comments: 0",
+    "published_at": "2026-06-27 12:27",
+    "tags": [],
+    "fetch_date": "2026-06-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ask HN: Is there a quiet market for 'no enforced AI' dev jobs?",
+    "url": "https://news.ycombinator.com/item?id=48697527",
+    "source": "Hacker News AI",
+    "summary": "It seems to me that the dissenting voices from software engineers burned out after having the AI hype shoved down their throats have been growing louder lately. Just this week I read several posts both here (e.g. [1], [2]) and on Reddit (e.g. [3], [4]) with hundreds of comments from devs who have long moved past skepticism and ambivalence into one or more of the five stages of grief.That's not to say they're the majority by any means: the \"I am 100x more productive with AI,\" \"I haven't hand-code",
+    "published_at": "2026-06-27 12:05",
+    "tags": [],
+    "fetch_date": "2026-06-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Gnome AI Assistant Adds Image Generation Support",
+    "url": "https://www.phoronix.com/news/GNOME-Newelle-Image-Gen",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.phoronix.com/news/GNOME-Newelle-Image-Gen Comments URL: https://news.ycombinator.com/item?id=48697487 Points: 1 # Comments: 0",
+    "published_at": "2026-06-27 11:59",
+    "tags": [],
+    "fetch_date": "2026-06-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Everyone Will Have an AI Coding Agent",
+    "url": "https://github.com/HoratiuCode/Clawie",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/HoratiuCode/Clawie Comments URL: https://news.ycombinator.com/item?id=48697174 Points: 1 # Comments: 0",
+    "published_at": "2026-06-27 11:04",
+    "tags": [],
+    "fetch_date": "2026-06-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "How a New York race became the first front in the AI industry's midterm war",
+    "url": "https://www.washingtonpost.com/politics/2026/06/25/how-new-york-race-became-first-front-ai-industrys-midterm-war/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.washingtonpost.com/politics/2026/06/25/how-new-york-race-became-first-front-ai-industrys-midterm-war/ Comments URL: https://news.ycombinator.com/item?id=48697173 Points: 1 # Comments: 0",
+    "published_at": "2026-06-27 11:04",
+    "tags": [],
+    "fetch_date": "2026-06-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Properties of AI",
+    "url": "https://claude.com/resources/tutorials/the-4-properties-of-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://claude.com/resources/tutorials/the-4-properties-of-ai Comments URL: https://news.ycombinator.com/item?id=48696977 Points: 2 # Comments: 0",
+    "published_at": "2026-06-27 10:28",
+    "tags": [],
+    "fetch_date": "2026-06-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ask HN: How do we measure software in LLM era?",
+    "url": "https://news.ycombinator.com/item?id=48696916",
+    "source": "Hacker News AI",
+    "summary": "A bit of a rant. Sorry!With the probablistic pluggable 'brain' existing in parts of the solution how are you measuring anything is better or worse?I am at a loss to quantify whether anything is improving or worsening anything. It probably is also because of the various metrics that keeps popping up* Accuracy* Cost of running* Context* Size* Time* Turnsall these vary in a large band even with the same 'brain' on the same 'provider'. It is not so different than a database running strained under lo",
+    "published_at": "2026-06-27 10:18",
+    "tags": [],
+    "fetch_date": "2026-06-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
+    "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+    "source": "The Verge AI",
+    "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the feet of the [&#8230;]",
+    "published_at": "2026-06-27 09:30",
+    "tags": [
+      "AI",
+      "Apple",
+      "Business",
+      "Report",
+      "Tech"
+    ],
+    "fetch_date": "2026-06-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+    "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf Comments URL: https://news.ycombinator.com/item?id=48696585 Points: 495 # Comments: 173",
+    "published_at": "2026-06-27 09:18",
+    "tags": [],
+    "fetch_date": "2026-06-27",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Find the right AI agents to build",
     "url": "https://www.agentideahub.com",
     "source": "Hacker News AI",
