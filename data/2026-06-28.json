@@ -162,6 +162,172 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-06-28 21:48:03",
+      "count": 18,
+      "articles": [
+        {
+          "title": "Google limits Meta's use of its Gemini AI models",
+          "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html Comments URL: https://news.ycombinator.com/item?id=48707103 Points: 2 # Comments: 0",
+          "published_at": "2026-06-28 13:30",
+          "tags": []
+        },
+        {
+          "title": "China companies Z.Ai,China 360 claim having cybersec AI models to match Mythos",
+          "url": "https://www.reuters.com/legal/litigation/chinas-360-says-it-has-developed-tools-match-anthropics-mythos-2026-06-24/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.reuters.com/legal/litigation/chinas-360-says-it-has-developed-tools-match-anthropics-mythos-2026-06-24/ Comments URL: https://news.ycombinator.com/item?id=48707090 Points: 4 # Comments: 0",
+          "published_at": "2026-06-28 13:28",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: Impact on LLM development after the USA policy of preliminary vetting",
+          "url": "https://news.ycombinator.com/item?id=48707008",
+          "source": "Hacker News AI",
+          "summary": "Sorry, I just realized, and I ask for your opinion:if now the policy of the administration at the USA is to mandate a staggered, conditional, restricted (\"to trusted parties\") release of the forthcoming SotA LLMs,could that mean that abating their market (users from a pool \"of 8 thousand or 8 million instead of 8 billion\") may cause an RnD slowdown, in fear that the fees to the customers will not be able to cover the expenses?This completely clashes with the \"race to AGI\", to the \"race to geopol",
+          "published_at": "2026-06-28 13:15",
+          "tags": []
+        },
+        {
+          "title": "After the AI Hype – What's Real, and What's Next – Richard Campbell – 2026",
+          "url": "https://www.youtube.com/watch?v=uWnUnMphmPM",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=uWnUnMphmPM Comments URL: https://news.ycombinator.com/item?id=48706777 Points: 1 # Comments: 0",
+          "published_at": "2026-06-28 12:38",
+          "tags": []
+        },
+        {
+          "title": "Guy in his basement creates a drug to treat Alzheimer's disease using AI",
+          "url": "https://twitter.com/DouglasYaoDY/status/2070904914050797582",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://twitter.com/DouglasYaoDY/status/2070904914050797582 Comments URL: https://news.ycombinator.com/item?id=48706690 Points: 18 # Comments: 21",
+          "published_at": "2026-06-28 12:23",
+          "tags": []
+        },
+        {
+          "title": "NASA tests AI medic for astronauts too far from Earth to call a doctor",
+          "url": "https://www.theregister.com/ai-and-ml/2026/06/27/nasa-tests-ai-medic-for-astronauts-too-far-from-earth-to-call-a-doctor/5262828",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/27/nasa-tests-ai-medic-for-astronauts-too-far-from-earth-to-call-a-doctor/5262828 Comments URL: https://news.ycombinator.com/item?id=48706688 Points: 3 # Comments: 0",
+          "published_at": "2026-06-28 12:23",
+          "tags": []
+        },
+        {
+          "title": "Nearly Three-Quarters of Dutch Responses to EU Tobacco Rules Were AI-Generated",
+          "url": "https://pointer.kro-ncrv.nl/meerderheid-nederlandse-inspraak-op-strengere-eu-tabakswet-afkomstig-van-ai-tool-philip-morris",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://pointer.kro-ncrv.nl/meerderheid-nederlandse-inspraak-op-strengere-eu-tabakswet-afkomstig-van-ai-tool-philip-morris Comments URL: https://news.ycombinator.com/item?id=48706616 Points: 4 # Comments: 0",
+          "published_at": "2026-06-28 12:04",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Genius AI Detector",
+          "url": "https://geniusaidetector.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://geniusaidetector.com/ Comments URL: https://news.ycombinator.com/item?id=48706490 Points: 2 # Comments: 0",
+          "published_at": "2026-06-28 11:43",
+          "tags": []
+        },
+        {
+          "title": "Pelican playing a violin. How to create SVGs with AI",
+          "url": "https://furstenheim.substack.com/p/creating-svgs-with-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://furstenheim.substack.com/p/creating-svgs-with-ai Comments URL: https://news.ycombinator.com/item?id=48706394 Points: 2 # Comments: 0",
+          "published_at": "2026-06-28 11:24",
+          "tags": []
+        },
+        {
+          "title": "Cate Blanchett is taking on AI",
+          "url": "https://www.euronews.com/culture/2026/06/24/cate-blanchett-launches-free-tool-to-help-people-protect-identity-from-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.euronews.com/culture/2026/06/24/cate-blanchett-launches-free-tool-to-help-people-protect-identity-from-ai Comments URL: https://news.ycombinator.com/item?id=48706321 Points: 1 # Comments: 0",
+          "published_at": "2026-06-28 11:09",
+          "tags": []
+        },
+        {
+          "title": "GPT-5.6 family added to codex",
+          "url": "https://github.com/openai/codex/compare/rust-v0.142.2...rust-v0.142.3",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/openai/codex/compare/rust-v0.142.2...rust-v0.142.3 Comments URL: https://news.ycombinator.com/item?id=48706240 Points: 2 # Comments: 2",
+          "published_at": "2026-06-28 10:55",
+          "tags": []
+        },
+        {
+          "title": "YC AI Investment Trends 2026: Where the US AI Market Is Heading",
+          "url": "https://medium.com/@aishwaryaadyanthaya1994/yc-ai-investment-trends-2026-where-the-us-ai-market-is-heading-07ea828cecf8",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://medium.com/@aishwaryaadyanthaya1994/yc-ai-investment-trends-2026-where-the-us-ai-market-is-heading-07ea828cecf8 Comments URL: https://news.ycombinator.com/item?id=48706228 Points: 2 # Comments: 0",
+          "published_at": "2026-06-28 10:54",
+          "tags": []
+        },
+        {
+          "title": "Cambium AI",
+          "url": "https://github.com/pkjaslam/Cambium_AI",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/pkjaslam/Cambium_AI Comments URL: https://news.ycombinator.com/item?id=48706088 Points: 1 # Comments: 0",
+          "published_at": "2026-06-28 10:24",
+          "tags": []
+        },
+        {
+          "title": "Software Taste vs. Slop in the Age of AI – TWSoftwareDev26",
+          "url": "https://blog.herlein.com/post/wisdom-in-specs/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blog.herlein.com/post/wisdom-in-specs/ Comments URL: https://news.ycombinator.com/item?id=48705898 Points: 2 # Comments: 1",
+          "published_at": "2026-06-28 09:51",
+          "tags": []
+        },
+        {
+          "title": "Tiny LLM Benchmark: Jetson Orin Nano Super 8GB",
+          "url": "https://www.smolhub.com/posts/jetson-nano-super-benchmark-non-reasoning/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.smolhub.com/posts/jetson-nano-super-benchmark-non-reasoning/ Comments URL: https://news.ycombinator.com/item?id=48705815 Points: 1 # Comments: 0",
+          "published_at": "2026-06-28 09:34",
+          "tags": []
+        },
+        {
+          "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+          "source": "The Verge AI",
+          "summary": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atwood said she'd used an AI [&#8230;]",
+          "published_at": "2026-06-27 14:39",
+          "tags": [
+            "AI",
+            "Books",
+            "Entertainment",
+            "News"
+          ]
+        },
+        {
+          "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+          "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+          "source": "TechCrunch AI",
+          "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+          "published_at": "2026-06-27 14:00",
+          "tags": [
+            "AI",
+            "TC",
+            "Keragon"
+          ]
+        },
+        {
+          "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
+          "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+          "source": "The Verge AI",
+          "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the feet of the [&#8230;]",
+          "published_at": "2026-06-27 09:30",
+          "tags": [
+            "AI",
+            "Apple",
+            "Business",
+            "Report",
+            "Tech"
+          ]
+        }
+      ]
     }
   ]
 }
