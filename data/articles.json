@@ -1,5 +1,160 @@
 [
   {
+    "title": "Virtual AI police chief introduced in Osaka amid rising imposter scams",
+    "url": "https://mainichi.jp/english/articles/20260627/p2g/00m/0na/029000c",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://mainichi.jp/english/articles/20260627/p2g/00m/0na/029000c Comments URL: https://news.ycombinator.com/item?id=48704142 Points: 1 # Comments: 0",
+    "published_at": "2026-06-28 03:47",
+    "tags": [],
+    "fetch_date": "2026-06-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Realtime Commentator for the World Cup",
+    "url": "https://twitter.com/zicohacks/status/2070401037018788301",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/zicohacks/status/2070401037018788301 Comments URL: https://news.ycombinator.com/item?id=48704059 Points: 4 # Comments: 0",
+    "published_at": "2026-06-28 03:31",
+    "tags": [],
+    "fetch_date": "2026-06-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "We can't retrain our way out of AI's economic disruption",
+    "url": "https://mollykinder2.substack.com/p/we-cant-retrain-our-way-out-of-ais",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://mollykinder2.substack.com/p/we-cant-retrain-our-way-out-of-ais Comments URL: https://news.ycombinator.com/item?id=48703971 Points: 2 # Comments: 0",
+    "published_at": "2026-06-28 03:10",
+    "tags": [],
+    "fetch_date": "2026-06-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ford hired AI and sacked humans. It backfired badly",
+    "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html Comments URL: https://news.ycombinator.com/item?id=48703968 Points: 27 # Comments: 4",
+    "published_at": "2026-06-28 03:09",
+    "tags": [],
+    "fetch_date": "2026-06-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race",
+    "url": "https://www.wsj.com/tech/ai/chinese-ai-anthropic-mythos-cybersecurity-574b02c2",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/chinese-ai-anthropic-mythos-cybersecurity-574b02c2 Comments URL: https://news.ycombinator.com/item?id=48703592 Points: 8 # Comments: 3",
+    "published_at": "2026-06-28 01:52",
+    "tags": [],
+    "fetch_date": "2026-06-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The AI \"Super Bubble\" Warning Is a Filter, Not a Funeral",
+    "url": "https://www.pentesty.co/blog/ai-super-bubble-cybersecurity-filter-2026",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.pentesty.co/blog/ai-super-bubble-cybersecurity-filter-2026 Comments URL: https://news.ycombinator.com/item?id=48703543 Points: 4 # Comments: 0",
+    "published_at": "2026-06-28 01:43",
+    "tags": [],
+    "fetch_date": "2026-06-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Toolkit for Your AI Scientists – Rigorous, Auditable and Verifiable",
+    "url": "https://github.com/ARA-Labs/Agent-Native-Research-Artifact",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/ARA-Labs/Agent-Native-Research-Artifact Comments URL: https://news.ycombinator.com/item?id=48703174 Points: 3 # Comments: 0",
+    "published_at": "2026-06-28 00:33",
+    "tags": [],
+    "fetch_date": "2026-06-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "A fiction archive for comparing frontier AI model behavior over time",
+    "url": "https://frontierfictionarchive.org/en/news/a-fiction-archive-for-comparing-frontier-ai-model-behavior-over-time/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://frontierfictionarchive.org/en/news/a-fiction-archive-for-comparing-frontier-ai-model-behavior-over-time/ Comments URL: https://news.ycombinator.com/item?id=48703072 Points: 2 # Comments: 0",
+    "published_at": "2026-06-28 00:13",
+    "tags": [],
+    "fetch_date": "2026-06-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI as a Factor of Production",
+    "url": "https://leadprompt.sh/a/736-AI-as-a-Factor-of-Production-2026w16",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://leadprompt.sh/a/736-AI-as-a-Factor-of-Production-2026w16 Comments URL: https://news.ycombinator.com/item?id=48702976 Points: 3 # Comments: 0",
+    "published_at": "2026-06-27 23:57",
+    "tags": [],
+    "fetch_date": "2026-06-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+    "url": "https://github.com/kamaludu/bash4llm/",
+    "source": "Hacker News AI",
+    "summary": "Hi HN!I built Bash4LLM+ because I wanted a minimal, transparent, and completely customizable way to interact with LLM APIs directly from my terminal, without having to spin up heavy Python virtual environments or pull in NPM packages on small VPS instances.It is written in pure Bash (4+) and its only strict dependencies are standard utilities like curl and jq.Some of the implementation details: - It supports standard and streaming API outputs. - It manages session history using an NDJSON flat-fi",
+    "published_at": "2026-06-27 23:31",
+    "tags": [],
+    "fetch_date": "2026-06-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The psychology behind AI fueled delusions",
+    "url": "https://www.wsj.com/tech/personal-tech/ai-chatbots-psychology-delusion-662a3663",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wsj.com/tech/personal-tech/ai-chatbots-psychology-delusion-662a3663 Comments URL: https://news.ycombinator.com/item?id=48702537 Points: 6 # Comments: 1",
+    "published_at": "2026-06-27 22:50",
+    "tags": [],
+    "fetch_date": "2026-06-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+    "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+    "source": "TechCrunch AI",
+    "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+    "published_at": "2026-06-27 16:45",
+    "tags": [
+      "AI",
+      "Hardware",
+      "Apple",
+      "OpenAI",
+      "paul meade"
+    ],
+    "fetch_date": "2026-06-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+    "source": "The Verge AI",
+    "summary": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atwood said she'd used an AI [&#8230;]",
+    "published_at": "2026-06-27 14:39",
+    "tags": [
+      "AI",
+      "Books",
+      "Entertainment",
+      "News"
+    ],
+    "fetch_date": "2026-06-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+    "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+    "source": "TechCrunch AI",
+    "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+    "published_at": "2026-06-27 14:00",
+    "tags": [
+      "AI",
+      "TC",
+      "Keragon"
+    ],
+    "fetch_date": "2026-06-28",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Show HN: Hyoomn – We'll constructively roast your AI coded B2B SaaS",
     "url": "https://hyoomn.com/",
     "source": "Hacker News AI",
