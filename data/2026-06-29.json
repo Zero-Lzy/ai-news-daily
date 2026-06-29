@@ -146,6 +146,167 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-06-29 23:49:05",
+      "count": 17,
+      "articles": [
+        {
+          "title": "Hotels cheat with AI-optimised images",
+          "url": "https://hospitalityinside.com/en/Hotels-cheat-with-AI-optimised-images",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://hospitalityinside.com/en/Hotels-cheat-with-AI-optimised-images Comments URL: https://news.ycombinator.com/item?id=48720577 Points: 1 # Comments: 2",
+          "published_at": "2026-06-29 15:29",
+          "tags": []
+        },
+        {
+          "title": "Will AI keep us stuck in 2020 architectures?",
+          "url": "https://sagenschneider.blogspot.com/2026/06/will-ai-keep-us-stuck-in-2020.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://sagenschneider.blogspot.com/2026/06/will-ai-keep-us-stuck-in-2020.html Comments URL: https://news.ycombinator.com/item?id=48720450 Points: 2 # Comments: 2",
+          "published_at": "2026-06-29 15:21",
+          "tags": []
+        },
+        {
+          "title": "I let an AI agent run my SEO site. It broke things. I published the bugs",
+          "url": "https://tokenmaxxing.com/how-this-site-runs-itself",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://tokenmaxxing.com/how-this-site-runs-itself Comments URL: https://news.ycombinator.com/item?id=48720386 Points: 2 # Comments: 0",
+          "published_at": "2026-06-29 15:15",
+          "tags": []
+        },
+        {
+          "title": "Low-cost Chinese AI models like DeepSeek gain traction in the U.S.",
+          "url": "https://restofworld.org/2026/when-americans-choose-chinese-ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://restofworld.org/2026/when-americans-choose-chinese-ai/ Comments URL: https://news.ycombinator.com/item?id=48720373 Points: 1 # Comments: 0",
+          "published_at": "2026-06-29 15:15",
+          "tags": []
+        },
+        {
+          "title": "AI models' values are different from most people's",
+          "url": "https://www.economist.com/briefing/2026/06/25/ai-models-values-are-very-different-from-most-peoples",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.economist.com/briefing/2026/06/25/ai-models-values-are-very-different-from-most-peoples Comments URL: https://news.ycombinator.com/item?id=48720241 Points: 2 # Comments: 0",
+          "published_at": "2026-06-29 15:05",
+          "tags": []
+        },
+        {
+          "title": "AI Accountability in Justice and Medicine – Ethics and EU AI Act",
+          "url": "https://neuralcoretech.com/ai-accountability-justice-medicine/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://neuralcoretech.com/ai-accountability-justice-medicine/ Comments URL: https://news.ycombinator.com/item?id=48720239 Points: 1 # Comments: 0",
+          "published_at": "2026-06-29 15:05",
+          "tags": []
+        },
+        {
+          "title": "Deezer's new tool can identify AI music from Spotify, Apple Music, and others",
+          "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/ Comments URL: https://news.ycombinator.com/item?id=48720092 Points: 2 # Comments: 0",
+          "published_at": "2026-06-29 14:55",
+          "tags": []
+        },
+        {
+          "title": "Working with AI",
+          "url": "https://htmx.org/essays/working-with-ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://htmx.org/essays/working-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48720064 Points: 7 # Comments: 4",
+          "published_at": "2026-06-29 14:53",
+          "tags": []
+        },
+        {
+          "title": "AI Is Dogshit at Design",
+          "url": "https://tomcreighton.com/AI-is-dogshit-at-design/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://tomcreighton.com/AI-is-dogshit-at-design/ Comments URL: https://news.ycombinator.com/item?id=48719941 Points: 2 # Comments: 7",
+          "published_at": "2026-06-29 14:43",
+          "tags": []
+        },
+        {
+          "title": "Gen Z's AI problem isn't about AI",
+          "url": "https://www.computerworld.com/article/4189645/why-spacex-is-the-mcdonalds-of-ai.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.computerworld.com/article/4189645/why-spacex-is-the-mcdonalds-of-ai.html Comments URL: https://news.ycombinator.com/item?id=48719784 Points: 3 # Comments: 1",
+          "published_at": "2026-06-29 14:33",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: How to use AI to learn faster but effectively?",
+          "url": "https://news.ycombinator.com/item?id=48719671",
+          "source": "Hacker News AI",
+          "summary": "Reading some threads here on HN recently, people suggest LLMs give out untrustworthy data. That makes me think they are not a good source to understand/learn new and/or hard concepts. Comments URL: https://news.ycombinator.com/item?id=48719671 Points: 1 # Comments: 1",
+          "published_at": "2026-06-29 14:23",
+          "tags": []
+        },
+        {
+          "title": "Why did one day of AI cost more than a month of servers?",
+          "url": "https://junueno.dev/en/retry-storm-rebilled-llm-cost/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://junueno.dev/en/retry-storm-rebilled-llm-cost/ Comments URL: https://news.ycombinator.com/item?id=48719578 Points: 14 # Comments: 14",
+          "published_at": "2026-06-29 14:16",
+          "tags": []
+        },
+        {
+          "title": "Once, cyber-attacks required great skill. AI is changing that",
+          "url": "https://www.theguardian.com/commentisfree/2026/jun/29/cyber-attacks-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theguardian.com/commentisfree/2026/jun/29/cyber-attacks-ai Comments URL: https://news.ycombinator.com/item?id=48719498 Points: 2 # Comments: 0",
+          "published_at": "2026-06-29 14:10",
+          "tags": []
+        },
+        {
+          "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+          "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+          "source": "TechCrunch AI",
+          "summary": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
+          "published_at": "2026-06-29 14:00",
+          "tags": [
+            "AI",
+            "Robotics",
+            "Exclusive",
+            "proception",
+            "robotics"
+          ]
+        },
+        {
+          "title": "CoreWeave ARIA: AI Research and Iteration Agent",
+          "url": "https://wandb.ai/wandb/aria/reports/Introducing-CoreWeave-ARIA-AI-Research-and-Iteration-Agent--VmlldzoxNzM1MzA4Mg",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://wandb.ai/wandb/aria/reports/Introducing-CoreWeave-ARIA-AI-Research-and-Iteration-Agent--VmlldzoxNzM1MzA4Mg Comments URL: https://news.ycombinator.com/item?id=48719329 Points: 1 # Comments: 0",
+          "published_at": "2026-06-29 13:54",
+          "tags": []
+        },
+        {
+          "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+          "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+          "source": "TechCrunch AI",
+          "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
+          "published_at": "2026-06-28 19:05",
+          "tags": [
+            "AI",
+            "Transportation",
+            "Ford",
+            "hiring",
+            "In Brief"
+          ]
+        },
+        {
+          "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+          "source": "The Verge AI",
+          "summary": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his ChatGPT logs. Prosecutors said that [&#8230;]",
+          "published_at": "2026-06-28 10:12",
+          "tags": [
+            "AI",
+            "Law",
+            "News",
+            "OpenAI",
+            "Policy"
+          ]
+        }
+      ]
     }
   ]
 }
