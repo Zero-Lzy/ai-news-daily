@@ -1,5 +1,135 @@
 [
   {
+    "title": "Show HN: Self hosting a modern LLM stack",
+    "url": "https://github.com/raiyanyahya/llmaker",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/raiyanyahya/llmaker Comments URL: https://news.ycombinator.com/item?id=48714397 Points: 3 # Comments: 1",
+    "published_at": "2026-06-29 03:18",
+    "tags": [],
+    "fetch_date": "2026-06-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Efficiency in LLMs – Part 1 – Columbia Machine Learning Summer School 2026 [video]",
+    "url": "https://www.youtube.com/watch?v=zcWJCKsODZk",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=zcWJCKsODZk Comments URL: https://news.ycombinator.com/item?id=48714356 Points: 3 # Comments: 0",
+    "published_at": "2026-06-29 03:10",
+    "tags": [],
+    "fetch_date": "2026-06-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI-assisted binary patching to fix an abandoned router's DHCP bug",
+    "url": "https://gurulabs.com/blogs/edgeos-dhcrelay-binary-patch/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://gurulabs.com/blogs/edgeos-dhcrelay-binary-patch/ Comments URL: https://news.ycombinator.com/item?id=48713705 Points: 2 # Comments: 0",
+    "published_at": "2026-06-29 01:25",
+    "tags": [],
+    "fetch_date": "2026-06-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Sophon PFG-1: a monolithic-3D AI ASIC with 330 GB of on-die DRAM and no HBM",
+    "url": "https://www.phantafield.com/whitepaper",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.phantafield.com/whitepaper Comments URL: https://news.ycombinator.com/item?id=48713686 Points: 26 # Comments: 28",
+    "published_at": "2026-06-29 01:23",
+    "tags": [],
+    "fetch_date": "2026-06-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Guy beats one of the best published quantum circuits for breaking ECDSA with AI",
+    "url": "https://twitter.com/bbuddha_xyz/status/2061606383435620527",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/bbuddha_xyz/status/2061606383435620527 Comments URL: https://news.ycombinator.com/item?id=48713682 Points: 1 # Comments: 1",
+    "published_at": "2026-06-29 01:23",
+    "tags": [],
+    "fetch_date": "2026-06-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Slavoj ŽIžek: Should We Grasp AI Not Only as Substance but Also as Subject?",
+    "url": "https://www.youtube.com/watch?v=PNU3YILDyYc",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=PNU3YILDyYc Comments URL: https://news.ycombinator.com/item?id=48713671 Points: 2 # Comments: 0",
+    "published_at": "2026-06-29 01:22",
+    "tags": [],
+    "fetch_date": "2026-06-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "LLM Optimization",
+    "url": "https://www.youtube.com/watch?v=9tvJ_GYJA-o",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=9tvJ_GYJA-o Comments URL: https://news.ycombinator.com/item?id=48713470 Points: 1 # Comments: 0",
+    "published_at": "2026-06-29 00:51",
+    "tags": [],
+    "fetch_date": "2026-06-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI 'exuberance' risks ending in lengthy investment bust",
+    "url": "https://www.ft.com/content/e81ce414-e4bd-4e8c-bac7-94f7bf17def4",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.ft.com/content/e81ce414-e4bd-4e8c-bac7-94f7bf17def4 Comments URL: https://news.ycombinator.com/item?id=48713221 Points: 6 # Comments: 1",
+    "published_at": "2026-06-29 00:17",
+    "tags": [],
+    "fetch_date": "2026-06-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Better Images of AI",
+    "url": "https://betterimagesofai.org/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://betterimagesofai.org/ Comments URL: https://news.ycombinator.com/item?id=48713051 Points: 38 # Comments: 20",
+    "published_at": "2026-06-28 23:50",
+    "tags": [],
+    "fetch_date": "2026-06-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "We need tech news sources which exclude AI",
+    "url": "https://news.ycombinator.com/item?id=48713041",
+    "source": "Hacker News AI",
+    "summary": "Its now clear that we need to preserve tech press for non AI related things. Techmeme for example is now completely overrun with AI stories.HN is getting closer to that every day.If AI kickback deals, phony new model ratings, high RAM prices and your surprise at how you think you coded something with AI and it was AMAZING! even though it doesnt work is all there is count me out.We need a filter on existing tech news sites or an alternative press. Comments URL: https://news.ycombinator.com/item?i",
+    "published_at": "2026-06-28 23:49",
+    "tags": [],
+    "fetch_date": "2026-06-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Agent Triggers Nuclear Strike After Getting Outmaneuvered in Civilization VI",
+    "url": "https://decrypt.co/371877/ai-agent-nuclear-strike-civilization-vi-benchmark",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://decrypt.co/371877/ai-agent-nuclear-strike-civilization-vi-benchmark Comments URL: https://news.ycombinator.com/item?id=48712791 Points: 10 # Comments: 1",
+    "published_at": "2026-06-28 23:16",
+    "tags": [],
+    "fetch_date": "2026-06-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The Usefulness of AI Agents",
+    "url": "https://erikjohannes.no/posts/20260408-on-the-usefulness-of-ai-agents/index.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://erikjohannes.no/posts/20260408-on-the-usefulness-of-ai-agents/index.html Comments URL: https://news.ycombinator.com/item?id=48712672 Points: 2 # Comments: 0",
+    "published_at": "2026-06-28 23:01",
+    "tags": [],
+    "fetch_date": "2026-06-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI glasses are aiding cheating in exams. Test-obsessed Asia is ground zero",
+    "url": "https://www.cnn.com/2026/06/26/asia/ai-glasses-cheating-exams-intl-hnk",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.cnn.com/2026/06/26/asia/ai-glasses-cheating-exams-intl-hnk Comments URL: https://news.ycombinator.com/item?id=48712649 Points: 7 # Comments: 1",
+    "published_at": "2026-06-28 22:59",
+    "tags": [],
+    "fetch_date": "2026-06-29",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Google limits Meta's use of its Gemini AI models",
     "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
     "source": "Hacker News AI",
@@ -128,6 +258,22 @@
     "tags": [],
     "fetch_date": "2026-06-28",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+    "source": "The Verge AI",
+    "summary": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his ChatGPT logs. Prosecutors said that [&#8230;]",
+    "published_at": "2026-06-28 10:12",
+    "tags": [
+      "AI",
+      "Law",
+      "News",
+      "OpenAI",
+      "Policy"
+    ],
+    "fetch_date": "2026-06-29",
+    "fetch_label": "早报"
   },
   {
     "title": "Software Taste vs. Slop in the Age of AI – TWSoftwareDev26",
