@@ -1,0 +1,174 @@
+{
+  "date": "2026-06-30",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-06-30 11:57:09",
+      "count": 17,
+      "articles": [
+        {
+          "title": "Fastllm: A LLM inference library that runs DeepSeek-V4 with 10GB VRAM",
+          "url": "https://github.com/ztxz16/fastllm",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/ztxz16/fastllm Comments URL: https://news.ycombinator.com/item?id=48728290 Points: 1 # Comments: 0",
+          "published_at": "2026-06-30 03:47",
+          "tags": []
+        },
+        {
+          "title": "Memory in the Age of AI Agents (Survey Paper)",
+          "url": "https://arxiv.org/abs/2512.13564",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2512.13564 Comments URL: https://news.ycombinator.com/item?id=48728214 Points: 1 # Comments: 0",
+          "published_at": "2026-06-30 03:32",
+          "tags": []
+        },
+        {
+          "title": "Snap to AI – One-Keystroke Screenshots to Claude, ChatGPT, etc. (macOS)",
+          "url": "https://snaptoai.app",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://snaptoai.app Comments URL: https://news.ycombinator.com/item?id=48728161 Points: 1 # Comments: 0",
+          "published_at": "2026-06-30 03:23",
+          "tags": []
+        },
+        {
+          "title": "AI Story Generator for Game Masters – Free D&D and RPG Tools",
+          "url": "https://aistorygenerator.work",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://aistorygenerator.work Comments URL: https://news.ycombinator.com/item?id=48728140 Points: 2 # Comments: 0",
+          "published_at": "2026-06-30 03:20",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Drifty – AI Focus agent shuts down distractions tabs while you work",
+          "url": "https://drifty.so/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://drifty.so/ Comments URL: https://news.ycombinator.com/item?id=48728127 Points: 1 # Comments: 0",
+          "published_at": "2026-06-30 03:18",
+          "tags": []
+        },
+        {
+          "title": "Why AI is like a (Clever Hans) Horse [video]",
+          "url": "https://www.youtube.com/watch?v=0GQ2RP-25gM",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=0GQ2RP-25gM Comments URL: https://news.ycombinator.com/item?id=48727856 Points: 2 # Comments: 0",
+          "published_at": "2026-06-30 02:21",
+          "tags": []
+        },
+        {
+          "title": "AI Does Not Have to Kill Humans to End the Human Future",
+          "url": "https://kunyuan.substack.com/p/ai-does-not-have-to-kill-humans-to",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://kunyuan.substack.com/p/ai-does-not-have-to-kill-humans-to Comments URL: https://news.ycombinator.com/item?id=48727764 Points: 2 # Comments: 0",
+          "published_at": "2026-06-30 02:08",
+          "tags": []
+        },
+        {
+          "title": "AI money is going to swamp the midterms this year",
+          "url": "https://www.ft.com/content/8f872761-76d9-43c7-bbcd-d313c4732e81",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.ft.com/content/8f872761-76d9-43c7-bbcd-d313c4732e81 Comments URL: https://news.ycombinator.com/item?id=48727708 Points: 7 # Comments: 0",
+          "published_at": "2026-06-30 01:59",
+          "tags": []
+        },
+        {
+          "title": "The Factorio Effect: the agent is the item on the belt, not the machine",
+          "url": "https://dangrafham.com/the-factorio-effect",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://dangrafham.com/the-factorio-effect Comments URL: https://news.ycombinator.com/item?id=48727527 Points: 1 # Comments: 1",
+          "published_at": "2026-06-30 01:29",
+          "tags": []
+        },
+        {
+          "title": "Cewsco is a premium all-in-one AI",
+          "url": "https://cewsco.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://cewsco.com/ Comments URL: https://news.ycombinator.com/item?id=48727480 Points: 3 # Comments: 1",
+          "published_at": "2026-06-30 01:19",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Let an AI manage your homelab over MCP without giving it SSH",
+          "url": "https://homebutler.dev/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://homebutler.dev/ Comments URL: https://news.ycombinator.com/item?id=48727396 Points: 1 # Comments: 0",
+          "published_at": "2026-06-30 01:06",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Foray – AI that turns your idea into a stress-tested business blueprint",
+          "url": "https://www.getforay.ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.getforay.ai/ Comments URL: https://news.ycombinator.com/item?id=48727207 Points: 2 # Comments: 0",
+          "published_at": "2026-06-30 00:43",
+          "tags": []
+        },
+        {
+          "title": "Show HN: AMA2, messenger built for AI agent",
+          "url": "https://ama2.me/",
+          "source": "Hacker News AI",
+          "summary": "I'm a solo founder building AMA2, a messaging runtime made for AI agents. This is my first Show HN, so I'd really appreciate your feedback.What brought me this idea: At first, I was building an AI agent for solo creators that knows everything about you and can do business chore on your behalf. When I tried to plug it into normal chat tools like Telegram, Discord, Slack... , they all felt wrong for agents: 1. They don't care about an agent's context. To follow a thread, the agent has to pull the ",
+          "published_at": "2026-06-30 00:32",
+          "tags": []
+        },
+        {
+          "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+          "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+          "source": "TechCrunch AI",
+          "summary": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
+          "published_at": "2026-06-29 18:07",
+          "tags": [
+            "AI",
+            "Hardware",
+            "TC",
+            "memory tech",
+            "RAMaggedon",
+            "Samsung",
+            "SK Hynix",
+            "South Korea tech ecosystem"
+          ]
+        },
+        {
+          "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+          "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+          "source": "TechCrunch AI",
+          "summary": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
+          "published_at": "2026-06-29 14:00",
+          "tags": [
+            "AI",
+            "Robotics",
+            "Exclusive",
+            "proception",
+            "robotics"
+          ]
+        },
+        {
+          "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+          "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+          "source": "TechCrunch AI",
+          "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
+          "published_at": "2026-06-28 19:05",
+          "tags": [
+            "AI",
+            "Transportation",
+            "Ford",
+            "hiring",
+            "In Brief"
+          ]
+        },
+        {
+          "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+          "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+          "source": "TechCrunch AI",
+          "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
+          "published_at": "2026-06-28 15:00",
+          "tags": [
+            "AI",
+            "Hardware",
+            "Micron",
+            "nvidia"
+          ]
+        }
+      ]
+    }
+  ]
+}
