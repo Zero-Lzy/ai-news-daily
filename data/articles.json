@@ -1,5 +1,152 @@
 [
   {
+    "title": "Stop asking writers about \"AI\"",
+    "url": "https://benjaminhollon.com/musings/stop-asking-writers-about-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://benjaminhollon.com/musings/stop-asking-writers-about-ai/ Comments URL: https://news.ycombinator.com/item?id=48732998 Points: 4 # Comments: 0",
+    "published_at": "2026-06-30 14:11",
+    "tags": [],
+    "fetch_date": "2026-06-30",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "EdgeSync-LLM – KV cache fragment engine for on-device LLM inference (Go/Android)",
+    "url": "https://github.com/bossandboss/EdgeSync-LLM",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/bossandboss/EdgeSync-LLM Comments URL: https://news.ycombinator.com/item?id=48732973 Points: 2 # Comments: 0",
+    "published_at": "2026-06-30 14:10",
+    "tags": [],
+    "fetch_date": "2026-06-30",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The Web Is Being Made Accessible for AI, Not People",
+    "url": "https://www.techpolicy.press/the-web-is-being-made-accessible-for-ai-not-people/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.techpolicy.press/the-web-is-being-made-accessible-for-ai-not-people/ Comments URL: https://news.ycombinator.com/item?id=48732954 Points: 3 # Comments: 0",
+    "published_at": "2026-06-30 14:07",
+    "tags": [],
+    "fetch_date": "2026-06-30",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "I can prove you wrong about AI in about 30 seconds",
+    "url": "https://muddyum.net/ai-still-cant-do-the-one-thing-that-matters-4cad5a08308e?sk=909ac14c3071092a3f567a3a8d1fa326",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://muddyum.net/ai-still-cant-do-the-one-thing-that-matters-4cad5a08308e?sk=909ac14c3071092a3f567a3a8d1fa326 Comments URL: https://news.ycombinator.com/item?id=48732882 Points: 2 # Comments: 0",
+    "published_at": "2026-06-30 14:02",
+    "tags": [],
+    "fetch_date": "2026-06-30",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The next big breakthrough will be AIs learning on the job",
+    "url": "https://www.dwarkesh.com/p/the-next-paradigm",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.dwarkesh.com/p/the-next-paradigm Comments URL: https://news.ycombinator.com/item?id=48732750 Points: 3 # Comments: 2",
+    "published_at": "2026-06-30 13:49",
+    "tags": [],
+    "fetch_date": "2026-06-30",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Do AI Agents Make ML Compilers Obsolete?",
+    "url": "https://maderix.substack.com/p/the-compiler-strikes-back",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://maderix.substack.com/p/the-compiler-strikes-back Comments URL: https://news.ycombinator.com/item?id=48732724 Points: 2 # Comments: 0",
+    "published_at": "2026-06-30 13:47",
+    "tags": [],
+    "fetch_date": "2026-06-30",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The AI jobs debate just got messier",
+    "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/ Comments URL: https://news.ycombinator.com/item?id=48732708 Points: 2 # Comments: 0",
+    "published_at": "2026-06-30 13:46",
+    "tags": [],
+    "fetch_date": "2026-06-30",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: TinySearch – token-efficient web research for local AI agents",
+    "url": "https://github.com/MarcellM01/TinySearch",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/MarcellM01/TinySearch Comments URL: https://news.ycombinator.com/item?id=48732588 Points: 1 # Comments: 0",
+    "published_at": "2026-06-30 13:36",
+    "tags": [],
+    "fetch_date": "2026-06-30",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: SUNWÆE – your life's AI OS",
+    "url": "https://news.ycombinator.com/item?id=48732413",
+    "source": "Hacker News AI",
+    "summary": "app url: https://app.sunwaee.comhey, so I never really stuck with chatgpt or claude web apps because to me they always felt like a slightly-more-personalized google search but far from actually knowing who I am, plus I also want access to the best models but with the release frequency of new models these days it often means multiple expensive subscriptions... kinda lazy too so I figured having some kind of autorouting that picks the model I want for given topics would be cool. On top of that I'v",
+    "published_at": "2026-06-30 13:21",
+    "tags": [],
+    "fetch_date": "2026-06-30",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: TraceAIO – open-source LLM visibility tracker",
+    "url": "https://traceaio.org",
+    "source": "Hacker News AI",
+    "summary": "I built TraceAIO, an open-source tool that prompts LLMs on your behalf and tells you whether ChatGPT, Perplexity, and Gemini mention your brand — and which competitors and sources show up instead.Yeah, this category smells a bit like a grift, same as early SEO. And I think over time it will become just SEO again, and become about good content. The tool just helps you monitor over time.It queries the browser products through real browser sessions, not APIs, runs on Docker, with an MCP server so y",
+    "published_at": "2026-06-30 13:18",
+    "tags": [],
+    "fetch_date": "2026-06-30",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The AI Productivity Trap",
+    "url": "https://i0exception.substack.com/p/doing-more-shipping-less",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://i0exception.substack.com/p/doing-more-shipping-less Comments URL: https://news.ycombinator.com/item?id=48732361 Points: 2 # Comments: 0",
+    "published_at": "2026-06-30 13:17",
+    "tags": [],
+    "fetch_date": "2026-06-30",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "EDDI – sovereign AI orchestrator, now OpenSSF Gold and a UN (UNIDO) partner",
+    "url": "https://eddi.labs.ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://eddi.labs.ai/ Comments URL: https://news.ycombinator.com/item?id=48732078 Points: 1 # Comments: 0",
+    "published_at": "2026-06-30 12:55",
+    "tags": [],
+    "fetch_date": "2026-06-30",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI agents finish a third of the job, and the math says why",
+    "url": "https://okaneland.com/study/do-ai-agents-work-yet/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://okaneland.com/study/do-ai-agents-work-yet/ Comments URL: https://news.ycombinator.com/item?id=48732019 Points: 2 # Comments: 1",
+    "published_at": "2026-06-30 12:50",
+    "tags": [],
+    "fetch_date": "2026-06-30",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+    "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+    "source": "TechCrunch AI",
+    "summary": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
+    "published_at": "2026-06-30 09:00",
+    "tags": [
+      "AI",
+      "Crypto",
+      "Exclusive",
+      "OKX",
+      "OKX AI",
+      "agent marketplace"
+    ],
+    "fetch_date": "2026-06-30",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Fastllm: A LLM inference library that runs DeepSeek-V4 with 10GB VRAM",
     "url": "https://github.com/ztxz16/fastllm",
     "source": "Hacker News AI",
@@ -120,6 +267,24 @@
     "fetch_label": "早报"
   },
   {
+    "title": "Gemini’s personalized AI image generation is now free for US users",
+    "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+    "source": "TechCrunch AI",
+    "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+    "published_at": "2026-06-29 20:12",
+    "tags": [
+      "AI",
+      "Apps",
+      "gemini",
+      "Gemini Nano",
+      "Generative AI",
+      "Google",
+      "image generation"
+    ],
+    "fetch_date": "2026-06-30",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
     "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
     "source": "TechCrunch AI",
@@ -137,6 +302,24 @@
     ],
     "fetch_date": "2026-06-30",
     "fetch_label": "早报"
+  },
+  {
+    "title": "TIDAL cracks down on AI music by cutting off monetization",
+    "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+    "source": "TechCrunch AI",
+    "summary": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said.",
+    "published_at": "2026-06-29 16:29",
+    "tags": [
+      "AI",
+      "Apps",
+      "Media & Entertainment",
+      "ai music",
+      "Music",
+      "streaming music",
+      "tidal"
+    ],
+    "fetch_date": "2026-06-30",
+    "fetch_label": "晚报"
   },
   {
     "title": "Hotels cheat with AI-optimised images",
