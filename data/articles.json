@@ -1,5 +1,132 @@
 [
   {
+    "title": "Fable Is Back: This Safeguard Has Some AI in It",
+    "url": "https://www.thealgorithmicbridge.com/p/fable-is-back-this-safeguard-has",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.thealgorithmicbridge.com/p/fable-is-back-this-safeguard-has Comments URL: https://news.ycombinator.com/item?id=48755986 Points: 1 # Comments: 0",
+    "published_at": "2026-07-02 03:03",
+    "tags": [],
+    "fetch_date": "2026-07-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Fedora Council Seeks to Shutdown Current Discussions over AI Developer Desktop",
+    "url": "https://www.phoronix.com/news/Fedora-Council-AI-Desktop",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.phoronix.com/news/Fedora-Council-AI-Desktop Comments URL: https://news.ycombinator.com/item?id=48755811 Points: 2 # Comments: 0",
+    "published_at": "2026-07-02 02:42",
+    "tags": [],
+    "fetch_date": "2026-07-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Reached 440+ stars: Auditable sandbox to record what AI agents did",
+    "url": "https://old.reddit.com/r/SideProject/comments/1ul5fe9/reached_440_stars_built_an_auditable_sandbox_that/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://old.reddit.com/r/SideProject/comments/1ul5fe9/reached_440_stars_built_an_auditable_sandbox_that/ Comments URL: https://news.ycombinator.com/item?id=48755675 Points: 2 # Comments: 0",
+    "published_at": "2026-07-02 02:23",
+    "tags": [],
+    "fetch_date": "2026-07-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "PanelSpec – design UI on real devices, export layout prompts for AI codegen",
+    "url": "https://www.ismartbase.com/designer/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.ismartbase.com/designer/ Comments URL: https://news.ycombinator.com/item?id=48755509 Points: 1 # Comments: 4",
+    "published_at": "2026-07-02 01:56",
+    "tags": [],
+    "fetch_date": "2026-07-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "I'm Begging You to Leave Your AI Note-Taker at Home",
+    "url": "https://www.joanwestenberg.com/p/im-begging-you-to-leave-your-ai-note",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.joanwestenberg.com/p/im-begging-you-to-leave-your-ai-note Comments URL: https://news.ycombinator.com/item?id=48755439 Points: 10 # Comments: 12",
+    "published_at": "2026-07-02 01:46",
+    "tags": [],
+    "fetch_date": "2026-07-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "WebDeck – AI-powered PPT to interactive HTML converter",
+    "url": "https://github.com/lzytttttt/WebDeck",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/lzytttttt/WebDeck Comments URL: https://news.ycombinator.com/item?id=48755374 Points: 2 # Comments: 0",
+    "published_at": "2026-07-02 01:38",
+    "tags": [],
+    "fetch_date": "2026-07-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "That Sounds Like AI: The Last Refuge of the Intellectually Insolvent",
+    "url": "https://medium.com/@ryanlocklear2025/that-sounds-like-ai-the-last-refuge-of-the-intellectually-insolvent-80ffe8cc89d6",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://medium.com/@ryanlocklear2025/that-sounds-like-ai-the-last-refuge-of-the-intellectually-insolvent-80ffe8cc89d6 Comments URL: https://news.ycombinator.com/item?id=48755283 Points: 3 # Comments: 1",
+    "published_at": "2026-07-02 01:25",
+    "tags": [],
+    "fetch_date": "2026-07-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "More AI – Open-source model-agnostic AI desktop",
+    "url": "https://github.com/DougTrier/MoreAI",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/DougTrier/MoreAI Comments URL: https://news.ycombinator.com/item?id=48755267 Points: 1 # Comments: 1",
+    "published_at": "2026-07-02 01:23",
+    "tags": [],
+    "fetch_date": "2026-07-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Float Runs an AI Energy Company on a 3-Person Team with Tiger Data",
+    "url": "https://www.tigerdata.com/blog/how-float-runs-ai-energy-company-3-person-team-tiger-data",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.tigerdata.com/blog/how-float-runs-ai-energy-company-3-person-team-tiger-data Comments URL: https://news.ycombinator.com/item?id=48755265 Points: 1 # Comments: 0",
+    "published_at": "2026-07-02 01:23",
+    "tags": [],
+    "fetch_date": "2026-07-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI and Operators",
+    "url": "https://vektorgeist.com/market",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://vektorgeist.com/market Comments URL: https://news.ycombinator.com/item?id=48755190 Points: 1 # Comments: 0",
+    "published_at": "2026-07-02 01:15",
+    "tags": [],
+    "fetch_date": "2026-07-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Kling AI nears US$3B round at US$18B valuation: sources",
+    "url": "https://www.scmp.com/tech/big-tech/article/3359059/chinas-kling-ai-nears-us3-billion-round-us18-billion-valuation-sources",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3359059/chinas-kling-ai-nears-us3-billion-round-us18-billion-valuation-sources Comments URL: https://news.ycombinator.com/item?id=48755077 Points: 3 # Comments: 0",
+    "published_at": "2026-07-02 01:00",
+    "tags": [],
+    "fetch_date": "2026-07-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+    "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+    "source": "TechCrunch AI",
+    "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+    "published_at": "2026-07-01 18:54",
+    "tags": [
+      "AI",
+      "Gadgets",
+      "AI device",
+      "Elon Musk",
+      "SpaceX",
+      "xAI"
+    ],
+    "fetch_date": "2026-07-02",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Persistent memory for AI agents is three problems, not one",
     "url": "https://promptowl.ai/resources/persistent-memory-ai-agents/",
     "source": "Hacker News AI",
@@ -147,6 +274,24 @@
     "tags": [],
     "fetch_date": "2026-07-01",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
+    "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+    "source": "The Verge AI",
+    "summary": "Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter. AI promised to change that. Amazon debuted its new hardware powered by a revamped Alexa last fall, and now it's finally Google's turn. [&#8230;]",
+    "published_at": "2026-07-01 08:00",
+    "tags": [
+      "AI",
+      "Google",
+      "Matter",
+      "Reviews",
+      "Smart Home",
+      "Smart Home Reviews",
+      "Tech"
+    ],
+    "fetch_date": "2026-07-02",
+    "fetch_label": "早报"
   },
   {
     "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
