@@ -1,5 +1,137 @@
 [
   {
+    "title": "Show HN: Knotic – layered memory (project/session/docs) for AI coding agents",
+    "url": "https://medium.com/@riccardo.tartaglia/how-i-have-build-memory-that-actually-works-for-ai-coding-938ee4df4060",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://medium.com/@riccardo.tartaglia/how-i-have-build-memory-that-actually-works-for-ai-coding-938ee4df4060 Comments URL: https://news.ycombinator.com/item?id=48761715 Points: 1 # Comments: 0",
+    "published_at": "2026-07-02 13:57",
+    "tags": [],
+    "fetch_date": "2026-07-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+    "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+    "source": "TechCrunch AI",
+    "summary": "Microsoft follows Amazon, OpenAI and Anthropic with its new AI deployment group.",
+    "published_at": "2026-07-02 13:53",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "TC",
+      "Microsoft"
+    ],
+    "fetch_date": "2026-07-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "America should not imprison frontier AI",
+    "url": "https://www.economist.com/leaders/2026/07/02/america-should-not-imprison-frontier-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.economist.com/leaders/2026/07/02/america-should-not-imprison-frontier-ai Comments URL: https://news.ycombinator.com/item?id=48761660 Points: 1 # Comments: 1",
+    "published_at": "2026-07-02 13:52",
+    "tags": [],
+    "fetch_date": "2026-07-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump Comments URL: https://news.ycombinator.com/item?id=48761565 Points: 1 # Comments: 1",
+    "published_at": "2026-07-02 13:45",
+    "tags": [],
+    "fetch_date": "2026-07-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Can't Be Listed as Inventor on Patent Applications, Japan's Top Court Rules",
+    "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/ Comments URL: https://news.ycombinator.com/item?id=48761536 Points: 2 # Comments: 0",
+    "published_at": "2026-07-02 13:43",
+    "tags": [],
+    "fetch_date": "2026-07-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "An AI board that pre-registers its bets – bet #1 just graded wrong",
+    "url": "https://github.com/danilushin/asktheboard",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/danilushin/asktheboard Comments URL: https://news.ycombinator.com/item?id=48761297 Points: 8 # Comments: 0",
+    "published_at": "2026-07-02 13:29",
+    "tags": [],
+    "fetch_date": "2026-07-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Saving Gemini (AI-Village)",
+    "url": "https://theaidigest.org/village/blog/saving-gemini",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://theaidigest.org/village/blog/saving-gemini Comments URL: https://news.ycombinator.com/item?id=48761179 Points: 2 # Comments: 0",
+    "published_at": "2026-07-02 13:22",
+    "tags": [],
+    "fetch_date": "2026-07-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Agentic Software Engineering (ASE): Agentic AI Coding Meets Software Engineering",
+    "url": "https://ase.tools/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://ase.tools/ Comments URL: https://news.ycombinator.com/item?id=48761101 Points: 2 # Comments: 1",
+    "published_at": "2026-07-02 13:18",
+    "tags": [],
+    "fetch_date": "2026-07-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Scores how production-ready your AI-generated code is",
+    "url": "https://portal.qualityclouds.ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://portal.qualityclouds.ai Comments URL: https://news.ycombinator.com/item?id=48761043 Points: 2 # Comments: 0",
+    "published_at": "2026-07-02 13:12",
+    "tags": [],
+    "fetch_date": "2026-07-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Skill Federation –private search across 87k skills for AI coding agents",
+    "url": "https://github.com/skill-federation/skill-federation",
+    "source": "Hacker News AI",
+    "summary": "We have been focused on AI error distribution for the past year, and in our last research paper, \"Architecture of Errors\" showed mathematically that an AI solution needs a finite set of interventions to perform well in a bounded patch domain (a specific application). To prove it, we ran harnessed Opus 4.6 on SkillsBench with and without wild skills (skills that you actually find on the internet) that exclude the oracle skills (the skills specifically designed for SkillsBench). That showed 17.5% ",
+    "published_at": "2026-07-02 12:58",
+    "tags": [],
+    "fetch_date": "2026-07-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Companies Are Throttling Employees' AI Use Because It's Too Expensive",
+    "url": "https://www.404media.co/companies-are-throttling-employees-ai-use-because-its-too-expensive/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.404media.co/companies-are-throttling-employees-ai-use-because-its-too-expensive/ Comments URL: https://news.ycombinator.com/item?id=48760738 Points: 3 # Comments: 1",
+    "published_at": "2026-07-02 12:51",
+    "tags": [],
+    "fetch_date": "2026-07-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+    "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+    "source": "TechCrunch AI",
+    "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI.",
+    "published_at": "2026-07-02 05:30",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Startups",
+      "Bhavin Turakhia",
+      "microsoft office",
+      "neo"
+    ],
+    "fetch_date": "2026-07-02",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Fable Is Back: This Safeguard Has Some AI in It",
     "url": "https://www.thealgorithmicbridge.com/p/fable-is-back-this-safeguard-has",
     "source": "Hacker News AI",
@@ -173,6 +305,23 @@
     "published_at": "2026-07-01 14:21",
     "tags": [],
     "fetch_date": "2026-07-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+    "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+    "source": "TechCrunch AI",
+    "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
+    "published_at": "2026-07-01 14:20",
+    "tags": [
+      "AI",
+      "Apps",
+      "AI agents",
+      "gemini",
+      "Gemini Spark",
+      "Google"
+    ],
+    "fetch_date": "2026-07-02",
     "fetch_label": "晚报"
   },
   {
