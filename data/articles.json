@@ -1,5 +1,177 @@
 [
   {
+    "title": "Reducing AI costs with smart pricing",
+    "url": "https://news.ycombinator.com/item?id=48770323",
+    "source": "Hacker News AI",
+    "summary": "Working with a customer to implement RevTurbine (revturbine.com). We are implementing a reverse trial which is triggered by the key onboarding action (connecting the user's trading account), i.e. used as an incentive to complete it.The trial is on a separate non-public tier (subset of lowest paid plan features) which provides great flexibility: play with limits to control AI costs, segment however you like (higher limits for stronger prospects), etc - which is all in line with the customer promi",
+    "published_at": "2026-07-03 03:19",
+    "tags": [],
+    "fetch_date": "2026-07-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI coding is a nightmare. Am I the only one experiencing this?",
+    "url": "https://news.ycombinator.com/item?id=48770319",
+    "source": "Hacker News AI",
+    "summary": "Here are my biggest gripes with AI coding assistants right now: Obsessed with reinventing the wheel. You'll often find it writing three duplicate functions for the exact same feature in a single file. Why? Because it's terrified of blowing up the context window, so it only reads a fraction of a large file and completely misses the existing functionality. Why are files so bloated in the first place? Because AI prefers adding new code over modifying existing code, and it rarely deletes anything. A",
+    "published_at": "2026-07-03 03:18",
+    "tags": [],
+    "fetch_date": "2026-07-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Moneyball for Physical AI",
+    "url": "https://praxiscurrents.substack.com/p/moneyball-for-physical-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://praxiscurrents.substack.com/p/moneyball-for-physical-ai Comments URL: https://news.ycombinator.com/item?id=48770157 Points: 3 # Comments: 0",
+    "published_at": "2026-07-03 02:52",
+    "tags": [],
+    "fetch_date": "2026-07-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Lotus: Optimized Agentic and LLM Bulk Processing",
+    "url": "https://github.com/lotus-data/lotus",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/lotus-data/lotus Comments URL: https://news.ycombinator.com/item?id=48770058 Points: 2 # Comments: 0",
+    "published_at": "2026-07-03 02:35",
+    "tags": [],
+    "fetch_date": "2026-07-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "GPT-5.5-Cyber built a zlib fuzzing lab in a day",
+    "url": "https://blog.trailofbits.com/2026/07/02/field-reports-from-patch-the-planet/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.trailofbits.com/2026/07/02/field-reports-from-patch-the-planet/ Comments URL: https://news.ycombinator.com/item?id=48769992 Points: 2 # Comments: 0",
+    "published_at": "2026-07-03 02:24",
+    "tags": [],
+    "fetch_date": "2026-07-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Why AI Is Collapsing: How China Is Winning. [video]",
+    "url": "https://www.youtube.com/watch?v=JXJf7vL8k94",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=JXJf7vL8k94 Comments URL: https://news.ycombinator.com/item?id=48769755 Points: 2 # Comments: 1",
+    "published_at": "2026-07-03 01:51",
+    "tags": [],
+    "fetch_date": "2026-07-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI is 'not smart' so what's next in artificial intelligence?",
+    "url": "https://www.bbc.com/news/articles/cj6gr0xkyr3o",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cj6gr0xkyr3o Comments URL: https://news.ycombinator.com/item?id=48769696 Points: 5 # Comments: 1",
+    "published_at": "2026-07-03 01:42",
+    "tags": [],
+    "fetch_date": "2026-07-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Some Basic LLM Etiquette",
+    "url": "https://steenbok.space/blog/ai-etiquette/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://steenbok.space/blog/ai-etiquette/ Comments URL: https://news.ycombinator.com/item?id=48769662 Points: 2 # Comments: 0",
+    "published_at": "2026-07-03 01:39",
+    "tags": [],
+    "fetch_date": "2026-07-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "How AI Became More Expensive Than the Workers It Replaced [video]",
+    "url": "https://www.youtube.com/watch?v=cfaZZPjA3g0",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=cfaZZPjA3g0 Comments URL: https://news.ycombinator.com/item?id=48769645 Points: 3 # Comments: 0",
+    "published_at": "2026-07-03 01:38",
+    "tags": [],
+    "fetch_date": "2026-07-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask HN: Best Local LLM Setup for a 128GB M4 Max Mac Studio?",
+    "url": "https://news.ycombinator.com/item?id=48769635",
+    "source": "Hacker News AI",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=48769635 Points: 3 # Comments: 0",
+    "published_at": "2026-07-03 01:36",
+    "tags": [],
+    "fetch_date": "2026-07-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "LawZero: Safety from Honesty in a Disinterested AI Predictor",
+    "url": "https://arxiv.org/abs/2606.29657",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2606.29657 Comments URL: https://news.ycombinator.com/item?id=48769266 Points: 3 # Comments: 0",
+    "published_at": "2026-07-03 00:42",
+    "tags": [],
+    "fetch_date": "2026-07-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Sebastian Mallaby: The AI Race Nobody Can Win, Foreign Affairs Interview [video]",
+    "url": "https://www.youtube.com/watch?v=QQC6V8T8ry4",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=QQC6V8T8ry4 Comments URL: https://news.ycombinator.com/item?id=48769238 Points: 1 # Comments: 0",
+    "published_at": "2026-07-03 00:38",
+    "tags": [],
+    "fetch_date": "2026-07-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Startup sues Palo Alto Networks' Koi Security due to AI-hallucinated report",
+    "url": "https://www.theregister.com/legal/2026/07/02/startup-sues-palo-alto-networks-koi-security-saying-an-ai-hallucinated-report-falsely-linked-it-to-chinese-espionage/5266201",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theregister.com/legal/2026/07/02/startup-sues-palo-alto-networks-koi-security-saying-an-ai-hallucinated-report-falsely-linked-it-to-chinese-espionage/5266201 Comments URL: https://news.ycombinator.com/item?id=48769007 Points: 5 # Comments: 2",
+    "published_at": "2026-07-03 00:02",
+    "tags": [],
+    "fetch_date": "2026-07-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Using AI Agents with Databases",
+    "url": "https://github.com/vaishcodescape/data-spear",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/vaishcodescape/data-spear Comments URL: https://news.ycombinator.com/item?id=48768927 Points: 2 # Comments: 0",
+    "published_at": "2026-07-02 23:51",
+    "tags": [],
+    "fetch_date": "2026-07-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+    "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+    "source": "TechCrunch AI",
+    "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
+    "published_at": "2026-07-02 23:38",
+    "tags": [
+      "AI",
+      "ai agent",
+      "In Brief",
+      "Mark Zuckerberg",
+      "Meta"
+    ],
+    "fetch_date": "2026-07-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+    "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+    "source": "TechCrunch AI",
+    "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
+    "published_at": "2026-07-02 15:20",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "government",
+      "OpenAI",
+      "sam altman"
+    ],
+    "fetch_date": "2026-07-03",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Show HN: Knotic – layered memory (project/session/docs) for AI coding agents",
     "url": "https://medium.com/@riccardo.tartaglia/how-i-have-build-memory-that-actually-works-for-ai-coding-938ee4df4060",
     "source": "Hacker News AI",
