@@ -190,6 +190,162 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-07-03 22:06:23",
+      "count": 16,
+      "articles": [
+        {
+          "title": "Microsoft commits $2.5B and 6k employees to new AI implementation unit",
+          "url": "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html Comments URL: https://news.ycombinator.com/item?id=48775036 Points: 1 # Comments: 1",
+          "published_at": "2026-07-03 13:49",
+          "tags": []
+        },
+        {
+          "title": "Trispe: Building an AI Prediction Exchange Without Human Traders",
+          "url": "https://trispe.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://trispe.com/ Comments URL: https://news.ycombinator.com/item?id=48775016 Points: 1 # Comments: 0",
+          "published_at": "2026-07-03 13:48",
+          "tags": []
+        },
+        {
+          "title": "Learning Multi-Agent Coordination via Sheaf-ADMM",
+          "url": "https://pub.sakana.ai/sheaf-admm/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://pub.sakana.ai/sheaf-admm/ Comments URL: https://news.ycombinator.com/item?id=48774943 Points: 1 # Comments: 0",
+          "published_at": "2026-07-03 13:43",
+          "tags": []
+        },
+        {
+          "title": "CorvinOS – a self-hosted agentic OS which enforce EU AI Act 2026 by design",
+          "url": "https://github.com/CorvinLabs/CorvinOS",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/CorvinLabs/CorvinOS Comments URL: https://news.ycombinator.com/item?id=48774845 Points: 1 # Comments: 0",
+          "published_at": "2026-07-03 13:34",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Handpicked AI jobs from 170 AI companies, sourced from career pages",
+          "url": "https://job.careers/",
+          "source": "Hacker News AI",
+          "summary": "no aggregator spam, direct employer links Comments URL: https://news.ycombinator.com/item?id=48774826 Points: 1 # Comments: 0",
+          "published_at": "2026-07-03 13:32",
+          "tags": []
+        },
+        {
+          "title": "Semantic Manifest – An open specification for AI crawler ingestion",
+          "url": "https://github.com/CKL75/semantic-manifest-specification",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/CKL75/semantic-manifest-specification Comments URL: https://news.ycombinator.com/item?id=48774528 Points: 1 # Comments: 0",
+          "published_at": "2026-07-03 13:02",
+          "tags": []
+        },
+        {
+          "title": "When AI Comes to the Workplace: Ethics, Employee Empowerment and Privacy",
+          "url": "https://read.misalignedmag.com/when-ai-comes-to-the-workplace-ethics-employee-empowerment-and-privacy-7e9bb45cd7e4",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://read.misalignedmag.com/when-ai-comes-to-the-workplace-ethics-employee-empowerment-and-privacy-7e9bb45cd7e4 Comments URL: https://news.ycombinator.com/item?id=48774523 Points: 2 # Comments: 0",
+          "published_at": "2026-07-03 13:02",
+          "tags": []
+        },
+        {
+          "title": "Embodied.cpp: A Portable Inference Runtime of Embodied AI Models",
+          "url": "https://arxiv.org/abs/2607.02501",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2607.02501 Comments URL: https://news.ycombinator.com/item?id=48774455 Points: 1 # Comments: 0",
+          "published_at": "2026-07-03 12:55",
+          "tags": []
+        },
+        {
+          "title": "My Students Hate AI. But They Can't Stop Using It",
+          "url": "https://www.chronicle.com/article/my-students-hate-ai-but-they-cant-stop-using-it",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.chronicle.com/article/my-students-hate-ai-but-they-cant-stop-using-it Comments URL: https://news.ycombinator.com/item?id=48774433 Points: 4 # Comments: 1",
+          "published_at": "2026-07-03 12:53",
+          "tags": []
+        },
+        {
+          "title": "Please stop the AI confidence theater",
+          "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater Comments URL: https://news.ycombinator.com/item?id=48774414 Points: 74 # Comments: 36",
+          "published_at": "2026-07-03 12:51",
+          "tags": []
+        },
+        {
+          "title": "KathaGPT – private AI desktop app",
+          "url": "https://santoshpremi.github.io/KathaGPT/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://santoshpremi.github.io/KathaGPT/ Comments URL: https://news.ycombinator.com/item?id=48774390 Points: 1 # Comments: 1",
+          "published_at": "2026-07-03 12:49",
+          "tags": []
+        },
+        {
+          "title": "Why AI Tokens are so Expensive [video]",
+          "url": "https://www.youtube.com/watch?v=-0HRzXk8vlk",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=-0HRzXk8vlk Comments URL: https://news.ycombinator.com/item?id=48774208 Points: 2 # Comments: 0",
+          "published_at": "2026-07-03 12:28",
+          "tags": []
+        },
+        {
+          "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+          "source": "TechCrunch AI",
+          "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
+          "published_at": "2026-07-02 23:38",
+          "tags": [
+            "AI",
+            "ai agent",
+            "In Brief",
+            "Mark Zuckerberg",
+            "Meta"
+          ]
+        },
+        {
+          "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+          "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+          "source": "TechCrunch AI",
+          "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
+          "published_at": "2026-07-02 20:11",
+          "tags": [
+            "AI",
+            "TC",
+            "IPOs",
+            "sandwiches"
+          ]
+        },
+        {
+          "title": "Yep, we’re using OpenClaw to date now",
+          "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+          "source": "TechCrunch AI",
+          "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
+          "published_at": "2026-07-02 12:00",
+          "tags": [
+            "AI",
+            "openclaw"
+          ]
+        },
+        {
+          "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+          "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+          "source": "TechCrunch AI",
+          "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI.",
+          "published_at": "2026-07-02 05:30",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "Startups",
+            "Bhavin Turakhia",
+            "microsoft office",
+            "neo"
+          ]
+        }
+      ]
     }
   ]
 }
