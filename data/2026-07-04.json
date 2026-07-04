@@ -1,0 +1,157 @@
+{
+  "date": "2026-07-04",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-07-04 11:27:43",
+      "count": 15,
+      "articles": [
+        {
+          "title": "Argentina's plan for AI-run companies can't avoid humans",
+          "url": "https://www.reuters.com/world/americas/argentinas-plan-ai-run-companies-cant-avoid-humans-2026-07-03/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.reuters.com/world/americas/argentinas-plan-ai-run-companies-cant-avoid-humans-2026-07-03/ Comments URL: https://news.ycombinator.com/item?id=48782138 Points: 1 # Comments: 0",
+          "published_at": "2026-07-04 02:25",
+          "tags": []
+        },
+        {
+          "title": "How AI Made IKEA Workers 10x More Valuable (5 min video)",
+          "url": "https://www.youtube.com/watch?v=2ODq6IsmkhM",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=2ODq6IsmkhM Comments URL: https://news.ycombinator.com/item?id=48782054 Points: 3 # Comments: 2",
+          "published_at": "2026-07-04 02:08",
+          "tags": []
+        },
+        {
+          "title": "You take AI, I'll take my iPod (if I can find it)",
+          "url": "https://news.harvard.edu/gazette/story/2026/06/ai-has-lots-of-people-digging-out-their-ipods/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://news.harvard.edu/gazette/story/2026/06/ai-has-lots-of-people-digging-out-their-ipods/ Comments URL: https://news.ycombinator.com/item?id=48781858 Points: 3 # Comments: 0",
+          "published_at": "2026-07-04 01:29",
+          "tags": []
+        },
+        {
+          "title": "Did you know your code is overpaying for AI?",
+          "url": "https://tokendiet.dev/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://tokendiet.dev/ Comments URL: https://news.ycombinator.com/item?id=48781678 Points: 3 # Comments: 1",
+          "published_at": "2026-07-04 00:56",
+          "tags": []
+        },
+        {
+          "title": "Context graphs: how AI agents remember why decisions were made",
+          "url": "https://nanonets.com/blog/what-is-a-context-graph/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://nanonets.com/blog/what-is-a-context-graph/ Comments URL: https://news.ycombinator.com/item?id=48781571 Points: 3 # Comments: 0",
+          "published_at": "2026-07-04 00:30",
+          "tags": []
+        },
+        {
+          "title": "China's ByteDance discovers new scaling law that could sustain AI boom",
+          "url": "https://www.scmp.com/tech/big-tech/article/3359373/chinas-bytedance-discovers-new-scaling-law-could-sustain-ai-boom",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3359373/chinas-bytedance-discovers-new-scaling-law-could-sustain-ai-boom Comments URL: https://news.ycombinator.com/item?id=48781487 Points: 4 # Comments: 0",
+          "published_at": "2026-07-04 00:12",
+          "tags": []
+        },
+        {
+          "title": "Give your AI agent its own email inbox – MailKite",
+          "url": "https://mailkite.dev/blog/give-your-agent-an-inbox/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://mailkite.dev/blog/give-your-agent-an-inbox/ Comments URL: https://news.ycombinator.com/item?id=48781354 Points: 2 # Comments: 0",
+          "published_at": "2026-07-03 23:47",
+          "tags": []
+        },
+        {
+          "title": "Coding without AI: a revolutionary new way to work",
+          "url": "https://isaaclyman.com/blog/posts/code-review/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://isaaclyman.com/blog/posts/code-review/ Comments URL: https://news.ycombinator.com/item?id=48781256 Points: 2 # Comments: 0",
+          "published_at": "2026-07-03 23:34",
+          "tags": []
+        },
+        {
+          "title": "Show HN: StayThere.ai - Book directly at over 96k short term rentals",
+          "url": "https://staythere.ai/",
+          "source": "Hacker News AI",
+          "summary": "Hi HN,I manage short term rentals and always send guests my direct booking. I see others constantly post on reddit asking for tips for direct booking and how to do it.So I have been aggregating the free direct booking sites PMS's give their hosts into one large booking site with a shared map.Airbnb, VRBO, Booking and other OTAs have gone too far with their commissions and its costing guests and hosts a lot of money.You just select dates and click book on the preview and it loads the listing with",
+          "published_at": "2026-07-03 23:07",
+          "tags": []
+        },
+        {
+          "title": "AI Trade Is Losing One of Its Key Signals",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock Comments URL: https://news.ycombinator.com/item?id=48780540 Points: 5 # Comments: 0",
+          "published_at": "2026-07-03 22:03",
+          "tags": []
+        },
+        {
+          "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+          "source": "TechCrunch AI",
+          "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
+          "published_at": "2026-07-02 23:38",
+          "tags": [
+            "AI",
+            "ai agent",
+            "In Brief",
+            "Mark Zuckerberg",
+            "Meta"
+          ]
+        },
+        {
+          "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+          "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+          "source": "TechCrunch AI",
+          "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
+          "published_at": "2026-07-02 20:11",
+          "tags": [
+            "AI",
+            "TC",
+            "IPOs",
+            "sandwiches"
+          ]
+        },
+        {
+          "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+          "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
+          "published_at": "2026-07-02 15:20",
+          "tags": [
+            "AI",
+            "Government & Policy",
+            "government",
+            "OpenAI",
+            "sam altman"
+          ]
+        },
+        {
+          "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+          "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+          "source": "TechCrunch AI",
+          "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
+          "published_at": "2026-07-02 13:53",
+          "tags": [
+            "Enterprise",
+            "TC",
+            "AI",
+            "Microsoft"
+          ]
+        },
+        {
+          "title": "Yep, we’re using OpenClaw to date now",
+          "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+          "source": "TechCrunch AI",
+          "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
+          "published_at": "2026-07-02 12:00",
+          "tags": [
+            "AI",
+            "openclaw"
+          ]
+        }
+      ]
+    }
+  ]
+}

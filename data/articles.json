@@ -1,5 +1,105 @@
 [
   {
+    "title": "Argentina's plan for AI-run companies can't avoid humans",
+    "url": "https://www.reuters.com/world/americas/argentinas-plan-ai-run-companies-cant-avoid-humans-2026-07-03/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.reuters.com/world/americas/argentinas-plan-ai-run-companies-cant-avoid-humans-2026-07-03/ Comments URL: https://news.ycombinator.com/item?id=48782138 Points: 1 # Comments: 0",
+    "published_at": "2026-07-04 02:25",
+    "tags": [],
+    "fetch_date": "2026-07-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "How AI Made IKEA Workers 10x More Valuable (5 min video)",
+    "url": "https://www.youtube.com/watch?v=2ODq6IsmkhM",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=2ODq6IsmkhM Comments URL: https://news.ycombinator.com/item?id=48782054 Points: 3 # Comments: 2",
+    "published_at": "2026-07-04 02:08",
+    "tags": [],
+    "fetch_date": "2026-07-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "You take AI, I'll take my iPod (if I can find it)",
+    "url": "https://news.harvard.edu/gazette/story/2026/06/ai-has-lots-of-people-digging-out-their-ipods/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://news.harvard.edu/gazette/story/2026/06/ai-has-lots-of-people-digging-out-their-ipods/ Comments URL: https://news.ycombinator.com/item?id=48781858 Points: 3 # Comments: 0",
+    "published_at": "2026-07-04 01:29",
+    "tags": [],
+    "fetch_date": "2026-07-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Did you know your code is overpaying for AI?",
+    "url": "https://tokendiet.dev/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://tokendiet.dev/ Comments URL: https://news.ycombinator.com/item?id=48781678 Points: 3 # Comments: 1",
+    "published_at": "2026-07-04 00:56",
+    "tags": [],
+    "fetch_date": "2026-07-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Context graphs: how AI agents remember why decisions were made",
+    "url": "https://nanonets.com/blog/what-is-a-context-graph/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://nanonets.com/blog/what-is-a-context-graph/ Comments URL: https://news.ycombinator.com/item?id=48781571 Points: 3 # Comments: 0",
+    "published_at": "2026-07-04 00:30",
+    "tags": [],
+    "fetch_date": "2026-07-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "China's ByteDance discovers new scaling law that could sustain AI boom",
+    "url": "https://www.scmp.com/tech/big-tech/article/3359373/chinas-bytedance-discovers-new-scaling-law-could-sustain-ai-boom",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3359373/chinas-bytedance-discovers-new-scaling-law-could-sustain-ai-boom Comments URL: https://news.ycombinator.com/item?id=48781487 Points: 4 # Comments: 0",
+    "published_at": "2026-07-04 00:12",
+    "tags": [],
+    "fetch_date": "2026-07-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Give your AI agent its own email inbox – MailKite",
+    "url": "https://mailkite.dev/blog/give-your-agent-an-inbox/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://mailkite.dev/blog/give-your-agent-an-inbox/ Comments URL: https://news.ycombinator.com/item?id=48781354 Points: 2 # Comments: 0",
+    "published_at": "2026-07-03 23:47",
+    "tags": [],
+    "fetch_date": "2026-07-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Coding without AI: a revolutionary new way to work",
+    "url": "https://isaaclyman.com/blog/posts/code-review/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://isaaclyman.com/blog/posts/code-review/ Comments URL: https://news.ycombinator.com/item?id=48781256 Points: 2 # Comments: 0",
+    "published_at": "2026-07-03 23:34",
+    "tags": [],
+    "fetch_date": "2026-07-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: StayThere.ai - Book directly at over 96k short term rentals",
+    "url": "https://staythere.ai/",
+    "source": "Hacker News AI",
+    "summary": "Hi HN,I manage short term rentals and always send guests my direct booking. I see others constantly post on reddit asking for tips for direct booking and how to do it.So I have been aggregating the free direct booking sites PMS's give their hosts into one large booking site with a shared map.Airbnb, VRBO, Booking and other OTAs have gone too far with their commissions and its costing guests and hosts a lot of money.You just select dates and click book on the preview and it loads the listing with",
+    "published_at": "2026-07-03 23:07",
+    "tags": [],
+    "fetch_date": "2026-07-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Trade Is Losing One of Its Key Signals",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock Comments URL: https://news.ycombinator.com/item?id=48780540 Points: 5 # Comments: 0",
+    "published_at": "2026-07-03 22:03",
+    "tags": [],
+    "fetch_date": "2026-07-04",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Microsoft commits $2.5B and 6k employees to new AI implementation unit",
     "url": "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html",
     "source": "Hacker News AI",
