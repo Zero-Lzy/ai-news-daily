@@ -1,0 +1,124 @@
+{
+  "date": "2026-07-05",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-07-05 11:44:34",
+      "count": 14,
+      "articles": [
+        {
+          "title": "In AI-exposed jobs, the youngest workers are losing ground",
+          "url": "https://www.randalolson.com/2026/06/22/ai-jobs-hit-youngest-workers/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.randalolson.com/2026/06/22/ai-jobs-hit-youngest-workers/ Comments URL: https://news.ycombinator.com/item?id=48790966 Points: 1 # Comments: 0",
+          "published_at": "2026-07-05 03:14",
+          "tags": []
+        },
+        {
+          "title": "The tool layer for developers and AI agents",
+          "url": "https://www.utilix.tech/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.utilix.tech/ Comments URL: https://news.ycombinator.com/item?id=48790934 Points: 1 # Comments: 1",
+          "published_at": "2026-07-05 03:02",
+          "tags": []
+        },
+        {
+          "title": "Deterministic AI Auditing",
+          "url": "https://claude.ai/new",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://claude.ai/new Comments URL: https://news.ycombinator.com/item?id=48790577 Points: 2 # Comments: 0",
+          "published_at": "2026-07-05 01:38",
+          "tags": []
+        },
+        {
+          "title": "AI CLI that fixes broken dev tool installs",
+          "url": "https://murderszn.github.io/sprout/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://murderszn.github.io/sprout/ Comments URL: https://news.ycombinator.com/item?id=48790523 Points: 2 # Comments: 0",
+          "published_at": "2026-07-05 01:26",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Two-tier-memory – queryable long-term memory for AI coding agents",
+          "url": "https://github.com/tadelstein9/two-tier-memory",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/tadelstein9/two-tier-memory Comments URL: https://news.ycombinator.com/item?id=48790505 Points: 2 # Comments: 0",
+          "published_at": "2026-07-05 01:22",
+          "tags": []
+        },
+        {
+          "title": "Obsidian AI Setup – Bootstrap a Personalized Obsidian Vault with AI",
+          "url": "https://github.com/anliberant/obsidian-ai-setup",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/anliberant/obsidian-ai-setup Comments URL: https://news.ycombinator.com/item?id=48790230 Points: 3 # Comments: 0",
+          "published_at": "2026-07-05 00:20",
+          "tags": []
+        },
+        {
+          "title": "The goal isn't to build \"another AI IDE.\"",
+          "url": "https://github.com/BotCoder254/limboo",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/BotCoder254/limboo Comments URL: https://news.ycombinator.com/item?id=48790218 Points: 2 # Comments: 0",
+          "published_at": "2026-07-05 00:16",
+          "tags": []
+        },
+        {
+          "title": "Nvidia Has Become the Bank Behind the AI Boom",
+          "url": "https://startupfortune.com/nvidia-has-quietly-become-the-bank-behind-the-ai-boom/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://startupfortune.com/nvidia-has-quietly-become-the-bank-behind-the-ai-boom/ Comments URL: https://news.ycombinator.com/item?id=48790151 Points: 7 # Comments: 4",
+          "published_at": "2026-07-04 23:59",
+          "tags": []
+        },
+        {
+          "title": "Mapping with In-Memory Layers to Reduce LLM Overload",
+          "url": "https://ridgetext.com/blog/mapbox-llm-composition",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://ridgetext.com/blog/mapbox-llm-composition Comments URL: https://news.ycombinator.com/item?id=48789986 Points: 12 # Comments: 0",
+          "published_at": "2026-07-04 23:25",
+          "tags": []
+        },
+        {
+          "title": "AI Authentication and Authorization",
+          "url": "https://fusionauth.io/articles/ai/ai-authentication-authorization",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://fusionauth.io/articles/ai/ai-authentication-authorization Comments URL: https://news.ycombinator.com/item?id=48789910 Points: 3 # Comments: 0",
+          "published_at": "2026-07-04 23:10",
+          "tags": []
+        },
+        {
+          "title": "Microsoft Copilot OS revealed in LEAKED video: built on Copilot and agentic AI",
+          "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-copilot-os-revealed-in-leaked-video-lightweight-windows-os-exploration-features-new-desktop-ui-built-entirely-around-copilot-and-agentic-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.windowscentral.com/microsoft/windows-11/microsoft-copilot-os-revealed-in-leaked-video-lightweight-windows-os-exploration-features-new-desktop-ui-built-entirely-around-copilot-and-agentic-ai Comments URL: https://news.ycombinator.com/item?id=48789807 Points: 2 # Comments: 0",
+          "published_at": "2026-07-04 22:50",
+          "tags": []
+        },
+        {
+          "title": "Out-of-core LLM inference engine written from scratch in Rust",
+          "url": "https://github.com/Vage91/Kortex",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/Vage91/Kortex Comments URL: https://news.ycombinator.com/item?id=48789790 Points: 3 # Comments: 0",
+          "published_at": "2026-07-04 22:47",
+          "tags": []
+        },
+        {
+          "title": "I just tired of killing AI slop",
+          "url": "https://www.surgeos.app/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.surgeos.app/ Comments URL: https://news.ycombinator.com/item?id=48789760 Points: 2 # Comments: 1",
+          "published_at": "2026-07-04 22:43",
+          "tags": []
+        },
+        {
+          "title": "Can you train AI to invert AES?",
+          "url": "https://www.juanslozano.com/blog/ai-aes",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.juanslozano.com/blog/ai-aes Comments URL: https://news.ycombinator.com/item?id=48789544 Points: 2 # Comments: 0",
+          "published_at": "2026-07-04 22:11",
+          "tags": []
+        }
+      ]
+    }
+  ]
+}
