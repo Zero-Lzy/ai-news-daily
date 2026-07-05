@@ -119,6 +119,109 @@
           "tags": []
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-07-05 21:40:55",
+      "count": 12,
+      "articles": [
+        {
+          "title": "Show HN: UATC-Closed-loop VRAM control and dynamic data pruning for LLM training",
+          "url": "https://github.com/sajjaddoda72-design/UATC",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/sajjaddoda72-design/UATC Comments URL: https://news.ycombinator.com/item?id=48794152 Points: 1 # Comments: 0",
+          "published_at": "2026-07-05 13:24",
+          "tags": []
+        },
+        {
+          "title": "No-AI Label",
+          "url": "https://en.wikipedia.org/wiki/No-AI_label",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://en.wikipedia.org/wiki/No-AI_label Comments URL: https://news.ycombinator.com/item?id=48793959 Points: 3 # Comments: 0",
+          "published_at": "2026-07-05 12:57",
+          "tags": []
+        },
+        {
+          "title": "JadePuffer ransomware used AI agent to automate entire attack",
+          "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/ Comments URL: https://news.ycombinator.com/item?id=48793941 Points: 2 # Comments: 0",
+          "published_at": "2026-07-05 12:55",
+          "tags": []
+        },
+        {
+          "title": "ComplianceAgent: Open-source EU AI Act compliance scanner",
+          "url": "https://github.com/latreon/compliance-agent",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/latreon/compliance-agent Comments URL: https://news.ycombinator.com/item?id=48793704 Points: 1 # Comments: 0",
+          "published_at": "2026-07-05 12:26",
+          "tags": []
+        },
+        {
+          "title": "The fundamentals of AI transformation (that most orgs are getting wrong)",
+          "url": "https://www.northshore.studio/blog/the-fundamentals-of-ai-transformation-that-most-organisations-get-wrong",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.northshore.studio/blog/the-fundamentals-of-ai-transformation-that-most-organisations-get-wrong Comments URL: https://news.ycombinator.com/item?id=48793689 Points: 1 # Comments: 0",
+          "published_at": "2026-07-05 12:24",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Gubbi – Minimalist LLM Chatbot",
+          "url": "https://github.com/prahladyeri/gubbi",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/prahladyeri/gubbi Comments URL: https://news.ycombinator.com/item?id=48793557 Points: 2 # Comments: 0",
+          "published_at": "2026-07-05 12:08",
+          "tags": []
+        },
+        {
+          "title": "Sycophantic AI decreases prosocial intentions and promotes dependence",
+          "url": "https://www.science.org/doi/full/10.1126/science.aec8352",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.science.org/doi/full/10.1126/science.aec8352 Comments URL: https://news.ycombinator.com/item?id=48793455 Points: 3 # Comments: 0",
+          "published_at": "2026-07-05 11:54",
+          "tags": []
+        },
+        {
+          "title": "What We Can't Measure About AI Yet",
+          "url": "https://aeon.co/essays/what-we-cant-measure-about-ai-yet",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://aeon.co/essays/what-we-cant-measure-about-ai-yet Comments URL: https://news.ycombinator.com/item?id=48793285 Points: 2 # Comments: 1",
+          "published_at": "2026-07-05 11:28",
+          "tags": []
+        },
+        {
+          "title": "Show HN: PES Benchmark v0.2 – Detecting AI-generated motion (Cohen's d=10.4)",
+          "url": "https://github.com/myshapeprotocol/myshape-protocol",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/myshapeprotocol/myshape-protocol Comments URL: https://news.ycombinator.com/item?id=48793142 Points: 3 # Comments: 0",
+          "published_at": "2026-07-05 11:03",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Open-source phone calling infra for AI agents",
+          "url": "https://github.com/AgentLineHQ/AgentLine",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/AgentLineHQ/AgentLine Comments URL: https://news.ycombinator.com/item?id=48793076 Points: 3 # Comments: 2",
+          "published_at": "2026-07-05 10:51",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Design Patterns for AI",
+          "url": "https://verificationdesign.com/",
+          "source": "Hacker News AI",
+          "summary": "Design Patterns by Gang of Four is one of my favorite books. It was well structured and easy to read and reference. I remember when copied each pattern manually to learn them and reference into a pattern repo in Java.A couple weekends ago I felt inspired and I've build a research ingestion pipeline that uses AI to filter Arxiv for better quality research and filtered the best ideas that repeat into a sort of executive summary or ethos document. This document now guides all software projects I be",
+          "published_at": "2026-07-05 10:36",
+          "tags": []
+        },
+        {
+          "title": "Harvey AI started with a Reddit thread. Now it's worth $11B",
+          "url": "https://freemalta.com/hub/library/they-named-a-11-billion-company-after-harvey-specter-then-they-hired-the-actor-who-played-him",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://freemalta.com/hub/library/they-named-a-11-billion-company-after-harvey-specter-then-they-hired-the-actor-who-played-him Comments URL: https://news.ycombinator.com/item?id=48792799 Points: 5 # Comments: 1",
+          "published_at": "2026-07-05 09:58",
+          "tags": []
+        }
+      ]
     }
   ]
 }
