@@ -1,5 +1,142 @@
 [
   {
+    "title": "Context-clipper – a priority min-heap for LLM context windows, zero deps",
+    "url": "https://pypi.org/project/context-clipper/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://pypi.org/project/context-clipper/ Comments URL: https://news.ycombinator.com/item?id=48806135 Points: 1 # Comments: 0",
+    "published_at": "2026-07-06 15:34",
+    "tags": [],
+    "fetch_date": "2026-07-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Causari – Content-addressable ledger for AI agent code edits",
+    "url": "https://causari.dev/#quickstart",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://causari.dev/#quickstart Comments URL: https://news.ycombinator.com/item?id=48806031 Points: 2 # Comments: 0",
+    "published_at": "2026-07-06 15:27",
+    "tags": [],
+    "fetch_date": "2026-07-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "How the AI bubble could pop and take down the global economy, according to BIS",
+    "url": "https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793 Comments URL: https://news.ycombinator.com/item?id=48805940 Points: 2 # Comments: 0",
+    "published_at": "2026-07-06 15:22",
+    "tags": [],
+    "fetch_date": "2026-07-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Keyhole – Share secrets with your AI agents",
+    "url": "https://keyhole.maferland.com",
+    "source": "Hacker News AI",
+    "summary": "I had the idea for Keyhole while bootstrapping a bunch of small services and apps. I'm trying to prototype fast, and sometimes these need a variety of secrets. I use Doppler to remove myself from the loop, but once in a while I still need to provide a secret. AI agents will suggest you rotate a secret once it's been shared in a chat. I thought it would be a cool experience to let your agent ask for secrets without having them dumped in the context. The agent runs a command, a form pops up in my ",
+    "published_at": "2026-07-06 15:11",
+    "tags": [],
+    "fetch_date": "2026-07-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "You Don't Own Your .io or .ai. You Rent a Country's Politics",
+    "url": "https://webhosting.today/2026/07/02/you-dont-own-your-io-or-ai-you-rent-a-countrys-politics/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://webhosting.today/2026/07/02/you-dont-own-your-io-or-ai-you-rent-a-countrys-politics/ Comments URL: https://news.ycombinator.com/item?id=48805715 Points: 3 # Comments: 0",
+    "published_at": "2026-07-06 15:07",
+    "tags": [],
+    "fetch_date": "2026-07-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Learning to Replicate Expert Judgment in Financial Tasks",
+    "url": "https://thinkingmachines.ai/news/learning-to-replicate-expert-judgment-in-financial-tasks/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://thinkingmachines.ai/news/learning-to-replicate-expert-judgment-in-financial-tasks/ Comments URL: https://news.ycombinator.com/item?id=48805691 Points: 1 # Comments: 0",
+    "published_at": "2026-07-06 15:06",
+    "tags": [],
+    "fetch_date": "2026-07-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+    "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo Comments URL: https://news.ycombinator.com/item?id=48805624 Points: 18 # Comments: 21",
+    "published_at": "2026-07-06 15:01",
+    "tags": [],
+    "fetch_date": "2026-07-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "A Meditation on AI Identity",
+    "url": "https://soul.md",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://soul.md Comments URL: https://news.ycombinator.com/item?id=48805470 Points: 2 # Comments: 1",
+    "published_at": "2026-07-06 14:49",
+    "tags": [],
+    "fetch_date": "2026-07-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ten Takeaways from the AI Engineering Report 2026: The Acceleration Whiplash",
+    "url": "https://www.faros.ai/blog/ai-acceleration-whiplash-takeaways",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.faros.ai/blog/ai-acceleration-whiplash-takeaways Comments URL: https://news.ycombinator.com/item?id=48805424 Points: 2 # Comments: 0",
+    "published_at": "2026-07-06 14:46",
+    "tags": [],
+    "fetch_date": "2026-07-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Self-Service Ransomware as Security Against Local AI Tools",
+    "url": "https://blog.brendankeaton.com/self-service-ransomware-as-security-against-local-ai-tools",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.brendankeaton.com/self-service-ransomware-as-security-against-local-ai-tools Comments URL: https://news.ycombinator.com/item?id=48805363 Points: 2 # Comments: 0",
+    "published_at": "2026-07-06 14:42",
+    "tags": [],
+    "fetch_date": "2026-07-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Agent Infra: curated resources for production AI agent infrastructure",
+    "url": "https://github.com/shenli/awesome-agent-infra",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/shenli/awesome-agent-infra Comments URL: https://news.ycombinator.com/item?id=48805260 Points: 3 # Comments: 0",
+    "published_at": "2026-07-06 14:35",
+    "tags": [],
+    "fetch_date": "2026-07-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "'It's just his AI and my AI going back and forth'",
+    "url": "https://fortune.com/article/ai-communication-undermining-human-relationships-middle-management/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://fortune.com/article/ai-communication-undermining-human-relationships-middle-management/ Comments URL: https://news.ycombinator.com/item?id=48805032 Points: 1 # Comments: 1",
+    "published_at": "2026-07-06 14:20",
+    "tags": [],
+    "fetch_date": "2026-07-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+    "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+    "source": "TechCrunch AI",
+    "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups.",
+    "published_at": "2026-07-06 13:00",
+    "tags": [
+      "AI",
+      "Startups",
+      "f/ai",
+      "Roxanne Varza",
+      "Station F",
+      "Xavier Niel"
+    ],
+    "fetch_date": "2026-07-06",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Learn Faster with Your Personal AI Teacher",
     "url": "https://aischoolbuilder.com/school/school-1786",
     "source": "Hacker News AI",
