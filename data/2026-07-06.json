@@ -1,0 +1,157 @@
+{
+  "date": "2026-07-06",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-07-06 11:53:11",
+      "count": 17,
+      "articles": [
+        {
+          "title": "Learn Faster with Your Personal AI Teacher",
+          "url": "https://aischoolbuilder.com/school/school-1786",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://aischoolbuilder.com/school/school-1786 Comments URL: https://news.ycombinator.com/item?id=48800410 Points: 1 # Comments: 0",
+          "published_at": "2026-07-06 03:41",
+          "tags": []
+        },
+        {
+          "title": "How AI Poisons Creativity [video]",
+          "url": "https://www.youtube.com/watch?v=WeCSzEtZcUw",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=WeCSzEtZcUw Comments URL: https://news.ycombinator.com/item?id=48800326 Points: 3 # Comments: 0",
+          "published_at": "2026-07-06 03:25",
+          "tags": []
+        },
+        {
+          "title": "Cewsco – a multimodal AI assistant powered by Dravik",
+          "url": "https://cewsco.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://cewsco.com/ Comments URL: https://news.ycombinator.com/item?id=48800302 Points: 1 # Comments: 0",
+          "published_at": "2026-07-06 03:20",
+          "tags": []
+        },
+        {
+          "title": "Technical Report on the Pangram AI-Generated Text Classifier (2024)",
+          "url": "https://arxiv.org/abs/2402.14873",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2402.14873 Comments URL: https://news.ycombinator.com/item?id=48800043 Points: 1 # Comments: 0",
+          "published_at": "2026-07-06 02:27",
+          "tags": []
+        },
+        {
+          "title": "People Who Will Thrive in the AI Age",
+          "url": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/ Comments URL: https://news.ycombinator.com/item?id=48799974 Points: 5 # Comments: 0",
+          "published_at": "2026-07-06 02:14",
+          "tags": []
+        },
+        {
+          "title": "AI Costs More Than the People It Replaced",
+          "url": "https://www.forbes.com/sites/jemmagreen/2026/07/02/ai-costs-more-than-the-people-it-replaced/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.forbes.com/sites/jemmagreen/2026/07/02/ai-costs-more-than-the-people-it-replaced/ Comments URL: https://news.ycombinator.com/item?id=48799841 Points: 3 # Comments: 0",
+          "published_at": "2026-07-06 01:50",
+          "tags": []
+        },
+        {
+          "title": "Show HN: An unmetered LLM API–$6/month, no token tracking, no limits",
+          "url": "https://yolo-auto.com/",
+          "source": "Hacker News AI",
+          "summary": "Hi HN,I was once given the advice: Don't waste expensive frontier model credits (GPT/Claude/etc.) on bulk work. Send the boring, repetitive, high-volume jobs to a smaller model, and save the expensive prompts for when you actually need frontier-level reasoning. I complained and told my manager that I shouldnt have to think about using certain models for certain coding tasks, and that one model should handle everything. Well, here we are anyway.If anyone needs a place to absolutely abuse an LLM w",
+          "published_at": "2026-07-06 01:22",
+          "tags": []
+        },
+        {
+          "title": "Midjourney: From AI slop to medical research [video]",
+          "url": "https://www.youtube.com/watch?v=4nzzpUKhj1M",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=4nzzpUKhj1M Comments URL: https://news.ycombinator.com/item?id=48799667 Points: 1 # Comments: 0",
+          "published_at": "2026-07-06 01:13",
+          "tags": []
+        },
+        {
+          "title": "GPT-5.6 Sol Ultra will be in Codex",
+          "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://twitter.com/thsottiaux/status/2073933490513752151 Comments URL: https://news.ycombinator.com/item?id=48799614 Points: 124 # Comments: 63",
+          "published_at": "2026-07-06 01:04",
+          "tags": []
+        },
+        {
+          "title": "Show HN: AI Notebook for Data Science – Kind of Like Cursor but for Jupyter",
+          "url": "https://www.clusy.io",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.clusy.io Comments URL: https://news.ycombinator.com/item?id=48799415 Points: 1 # Comments: 0",
+          "published_at": "2026-07-06 00:30",
+          "tags": []
+        },
+        {
+          "title": "Show HN: AI-related Jax module (I hate if)",
+          "url": "https://github.com/PJHkorea/egregore-core-jax",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/PJHkorea/egregore-core-jax Comments URL: https://news.ycombinator.com/item?id=48799235 Points: 3 # Comments: 5",
+          "published_at": "2026-07-06 00:01",
+          "tags": []
+        },
+        {
+          "title": "Is it true about the Terms of Service of AI's?",
+          "url": "https://news.ycombinator.com/item?id=48798971",
+          "source": "Hacker News AI",
+          "summary": "A respected engineer has informed me that the terms of service of most if not all AI outfits mandate that anything you submit becomes their property, and he said that already he knows of 2 instances of startup ideas being stolen away by the AI outfits. He did not name names. Comments URL: https://news.ycombinator.com/item?id=48798971 Points: 3 # Comments: 3",
+          "published_at": "2026-07-05 23:23",
+          "tags": []
+        },
+        {
+          "title": "AI 2027",
+          "url": "https://ai-2027.com/?agi=true",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://ai-2027.com/?agi=true Comments URL: https://news.ycombinator.com/item?id=48798738 Points: 2 # Comments: 2",
+          "published_at": "2026-07-05 22:52",
+          "tags": []
+        },
+        {
+          "title": "The AI Compass Quiz",
+          "url": "https://bambamramfan.github.io/ai-compass/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://bambamramfan.github.io/ai-compass/ Comments URL: https://news.ycombinator.com/item?id=48798605 Points: 25 # Comments: 10",
+          "published_at": "2026-07-05 22:36",
+          "tags": []
+        },
+        {
+          "title": "Context graphs: how AI agents can store and use past decisions",
+          "url": "https://nanonets.com/blog/what-is-a-context-graph/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://nanonets.com/blog/what-is-a-context-graph/ Comments URL: https://news.ycombinator.com/item?id=48798442 Points: 9 # Comments: 0",
+          "published_at": "2026-07-05 22:16",
+          "tags": []
+        },
+        {
+          "title": "Some of the nation’s rich are letting AI teach their kids",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+          "source": "The Verge AI",
+          "summary": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools. Companies like Forge Prep and Alpha [&#8230;]",
+          "published_at": "2026-07-05 18:30",
+          "tags": [
+            "AI",
+            "News",
+            "Policy"
+          ]
+        },
+        {
+          "title": "Alibaba reportedly bans employees from using Claude Code",
+          "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+          "source": "TechCrunch AI",
+          "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+          "published_at": "2026-07-04 16:32",
+          "tags": [
+            "AI",
+            "Security",
+            "alibaba",
+            "claude code"
+          ]
+        }
+      ]
+    }
+  ]
+}
