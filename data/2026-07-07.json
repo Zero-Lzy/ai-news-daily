@@ -1,0 +1,192 @@
+{
+  "date": "2026-07-07",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-07-07 11:42:24",
+      "count": 19,
+      "articles": [
+        {
+          "title": "AI's Volatile Power Use Tests Grid Limits",
+          "url": "https://spectrum.ieee.org/data-centers-grid-instability",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://spectrum.ieee.org/data-centers-grid-instability Comments URL: https://news.ycombinator.com/item?id=48813429 Points: 1 # Comments: 0",
+          "published_at": "2026-07-07 03:39",
+          "tags": []
+        },
+        {
+          "title": "Unis are relying on AI-detection software to catch cheating. Does it work",
+          "url": "https://www.nature.com/articles/d41586-026-01358-2",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.nature.com/articles/d41586-026-01358-2 Comments URL: https://news.ycombinator.com/item?id=48813312 Points: 1 # Comments: 1",
+          "published_at": "2026-07-07 03:15",
+          "tags": []
+        },
+        {
+          "title": "Panoptes – AI audit and alignment layer",
+          "url": "https://github.com/miggy-code/Panoptes",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/miggy-code/Panoptes Comments URL: https://news.ycombinator.com/item?id=48813183 Points: 1 # Comments: 1",
+          "published_at": "2026-07-07 02:56",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Emem.dev – signed earth memory for physical AI",
+          "url": "https://news.ycombinator.com/item?id=48813148",
+          "source": "Hacker News AI",
+          "summary": "Hi everyone, We added 3D to emem.dev , now you can get the signed answers as well as constructed Gaussian splats all directly from https://emem.dev for free. Give us a star at - https://github.com/Vortx-AI/emem Comments URL: https://news.ycombinator.com/item?id=48813148 Points: 1 # Comments: 0",
+          "published_at": "2026-07-07 02:52",
+          "tags": []
+        },
+        {
+          "title": "OSS Local AI Workspace",
+          "url": "https://www.usestitch.ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.usestitch.ai/ Comments URL: https://news.ycombinator.com/item?id=48813043 Points: 2 # Comments: 0",
+          "published_at": "2026-07-07 02:33",
+          "tags": []
+        },
+        {
+          "title": "Machine Is a Server. Do Not Power Down",
+          "url": "https://adlternative.github.io/posts/ai/from-local-agent-to-cloud-agent/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://adlternative.github.io/posts/ai/from-local-agent-to-cloud-agent/ Comments URL: https://news.ycombinator.com/item?id=48812986 Points: 1 # Comments: 0",
+          "published_at": "2026-07-07 02:23",
+          "tags": []
+        },
+        {
+          "title": "Stet – a Markdown editor where every AI edit needs your sign-off",
+          "url": "https://www.getstet.app/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.getstet.app/ Comments URL: https://news.ycombinator.com/item?id=48812782 Points: 1 # Comments: 0",
+          "published_at": "2026-07-07 01:48",
+          "tags": []
+        },
+        {
+          "title": "How Much Is AI Manipulating Us?",
+          "url": "https://americanrefugees.substack.com/p/how-much-is-ai-manipulating-us",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://americanrefugees.substack.com/p/how-much-is-ai-manipulating-us Comments URL: https://news.ycombinator.com/item?id=48812760 Points: 4 # Comments: 6",
+          "published_at": "2026-07-07 01:43",
+          "tags": []
+        },
+        {
+          "title": "New Realtime models (GPT-realtime-2.1 and GPT-realtime-2.1-mini) on the API",
+          "url": "https://community.openai.com/t/new-realtime-models-on-the-api-gpt-realtime-2-1-and-gpt-realtime-2-1-mini/1385896",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://community.openai.com/t/new-realtime-models-on-the-api-gpt-realtime-2-1-and-gpt-realtime-2-1-mini/1385896 Comments URL: https://news.ycombinator.com/item?id=48812695 Points: 2 # Comments: 0",
+          "published_at": "2026-07-07 01:35",
+          "tags": []
+        },
+        {
+          "title": "Meta Tests Pocket, an Experimental App for AI-Generated Mini-Games",
+          "url": "https://www.ghacks.net/2026/07/05/meta-tests-pocket-an-experimental-app-for-ai-generated-mini-games-called-gizmos/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.ghacks.net/2026/07/05/meta-tests-pocket-an-experimental-app-for-ai-generated-mini-games-called-gizmos/ Comments URL: https://news.ycombinator.com/item?id=48812522 Points: 1 # Comments: 0",
+          "published_at": "2026-07-07 01:11",
+          "tags": []
+        },
+        {
+          "title": "The AI-Native Founder",
+          "url": "https://www.wensenwu.com/thoughts/ai-native-founder",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wensenwu.com/thoughts/ai-native-founder Comments URL: https://news.ycombinator.com/item?id=48812374 Points: 3 # Comments: 0",
+          "published_at": "2026-07-07 00:47",
+          "tags": []
+        },
+        {
+          "title": "Cewsco – the AI that keeps up with you",
+          "url": "https://cewsco.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://cewsco.com/ Comments URL: https://news.ycombinator.com/item?id=48812209 Points: 2 # Comments: 2",
+          "published_at": "2026-07-07 00:21",
+          "tags": []
+        },
+        {
+          "title": "Jackrong LLM Fine-Tuning Guide",
+          "url": "https://github.com/R6410418/Jackrong-llm-finetuning-guide",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/R6410418/Jackrong-llm-finetuning-guide Comments URL: https://news.ycombinator.com/item?id=48812171 Points: 2 # Comments: 0",
+          "published_at": "2026-07-07 00:16",
+          "tags": []
+        },
+        {
+          "title": "Claude Sonnet 5: Anthropic's Most Agentic AI Model Arrives at a Reduced Price (2026)",
+          "url": "https://lucasaguiar.xyz/en/posts/claude-sonnet-5-2026/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://lucasaguiar.xyz/en/posts/claude-sonnet-5-2026/ Comments URL: https://news.ycombinator.com/item?id=48812163 Points: 4 # Comments: 0",
+          "published_at": "2026-07-07 00:15",
+          "tags": []
+        },
+        {
+          "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+          "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+          "source": "TechCrunch AI",
+          "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
+          "published_at": "2026-07-06 23:21",
+          "tags": [
+            "AI",
+            "Hardware",
+            "memory",
+            "RAM",
+            "SK Hynix"
+          ]
+        },
+        {
+          "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+          "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+          "source": "TechCrunch AI",
+          "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
+          "published_at": "2026-07-06 19:01",
+          "tags": [
+            "AI",
+            "Apps",
+            "iOS 27",
+            "siri",
+            "siri ai"
+          ]
+        },
+        {
+          "title": "Every major tech layoff in 2026 that has name-checked AI",
+          "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+          "source": "TechCrunch AI",
+          "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+          "published_at": "2026-07-06 18:35",
+          "tags": [
+            "AI",
+            "TC",
+            "Layoffs"
+          ]
+        },
+        {
+          "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
+          "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+          "source": "TechCrunch AI",
+          "summary": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” to improve its AI models.",
+          "published_at": "2026-07-06 17:04",
+          "tags": [
+            "AI",
+            "Google",
+            "Google Search",
+            "psa"
+          ]
+        },
+        {
+          "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+          "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+          "source": "TechCrunch AI",
+          "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups.",
+          "published_at": "2026-07-06 13:00",
+          "tags": [
+            "AI",
+            "Startups",
+            "f/ai",
+            "Roxanne Varza",
+            "Station F",
+            "Xavier Niel"
+          ]
+        }
+      ]
+    }
+  ]
+}
