@@ -187,6 +187,148 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-07-07 22:35:53",
+      "count": 14,
+      "articles": [
+        {
+          "title": "The power of APIs: The unsung hero of AI interface",
+          "url": "https://www.collabora.com/news-and-blog/blog/2026/07/07/the-power-of-apis-the-unsung-hero-of-ai-interface/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.collabora.com/news-and-blog/blog/2026/07/07/the-power-of-apis-the-unsung-hero-of-ai-interface/ Comments URL: https://news.ycombinator.com/item?id=48818447 Points: 1 # Comments: 0",
+          "published_at": "2026-07-07 14:33",
+          "tags": []
+        },
+        {
+          "title": "Mozilla's Otari: The Open Source LLM Control Plane",
+          "url": "https://www.mozilla.ai/product/otari",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.mozilla.ai/product/otari Comments URL: https://news.ycombinator.com/item?id=48818398 Points: 1 # Comments: 0",
+          "published_at": "2026-07-07 14:30",
+          "tags": []
+        },
+        {
+          "title": "Treasury Has an Internal Report Warning About the Dangers of an AI Bubble",
+          "url": "https://www.notus.org/economy/treasury-internal-report-warning-dangers-ai-bubble",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.notus.org/economy/treasury-internal-report-warning-dangers-ai-bubble Comments URL: https://news.ycombinator.com/item?id=48818351 Points: 3 # Comments: 0",
+          "published_at": "2026-07-07 14:26",
+          "tags": []
+        },
+        {
+          "title": "AI Data Centers' Hidden Water Use Alarms Korea",
+          "url": "https://www.chosun.com/english/industry-en/2026/07/07/RQAGC7X4BNEYHD4IJFXKHG5Z5Q/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.chosun.com/english/industry-en/2026/07/07/RQAGC7X4BNEYHD4IJFXKHG5Z5Q/ Comments URL: https://news.ycombinator.com/item?id=48818191 Points: 2 # Comments: 0",
+          "published_at": "2026-07-07 14:14",
+          "tags": []
+        },
+        {
+          "title": "AI Content and the Social Contract",
+          "url": "https://www.jeromehollon.com/projects/ai-writing-social-contract/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.jeromehollon.com/projects/ai-writing-social-contract/ Comments URL: https://news.ycombinator.com/item?id=48818153 Points: 1 # Comments: 0",
+          "published_at": "2026-07-07 14:10",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Savva – Health Superapp powered by on-device AI",
+          "url": "https://www.savva.ai",
+          "source": "Hacker News AI",
+          "summary": "Savva is a health superapp where you track medical records (OCR and patient portal), fitness, GLP-1, weight, blood pressure, and more with AI to give you feedback and insights. We offer 2B and 4B models, depending on device capability, that run on-device along with frontier models through us - no account needed. We just launched on App Store and Play Store with 48 languages. The app is free with a AI add-on for $9.99/year. Comments URL: https://news.ycombinator.com/item?id=48817727 Points: 1 # C",
+          "published_at": "2026-07-07 13:41",
+          "tags": []
+        },
+        {
+          "title": "Observability Design for the AI Era – App, Infra, CI, LLM (Part 1)",
+          "url": "https://ryantsuji.dev/posts/ai-observability-design",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://ryantsuji.dev/posts/ai-observability-design Comments URL: https://news.ycombinator.com/item?id=48817455 Points: 1 # Comments: 0",
+          "published_at": "2026-07-07 13:24",
+          "tags": []
+        },
+        {
+          "title": "Most AI Work Can Wait",
+          "url": "https://tomtunguz.com/ai-execution-routing/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://tomtunguz.com/ai-execution-routing/ Comments URL: https://news.ycombinator.com/item?id=48817209 Points: 2 # Comments: 0",
+          "published_at": "2026-07-07 13:04",
+          "tags": []
+        },
+        {
+          "title": "A visual calculator to estimate and compare LLM API pricing",
+          "url": "https://neutraloverdrive.com/tools/token-calculator/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://neutraloverdrive.com/tools/token-calculator/ Comments URL: https://news.ycombinator.com/item?id=48817123 Points: 1 # Comments: 0",
+          "published_at": "2026-07-07 12:58",
+          "tags": []
+        },
+        {
+          "title": "Amazon Returns to US Bond Market to Fund AI Infrastructure Build",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-07/amazon-returns-to-us-bond-market-to-fund-ai-infrastructure-build",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-07/amazon-returns-to-us-bond-market-to-fund-ai-infrastructure-build Comments URL: https://news.ycombinator.com/item?id=48817052 Points: 3 # Comments: 0",
+          "published_at": "2026-07-07 12:53",
+          "tags": []
+        },
+        {
+          "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+          "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+          "source": "TechCrunch AI",
+          "summary": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.",
+          "published_at": "2026-07-07 09:00",
+          "tags": [
+            "AI",
+            "Robotics",
+            "autonomous vehicles",
+            "defense tech",
+            "Exclusive",
+            "Forterra"
+          ]
+        },
+        {
+          "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+          "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+          "source": "TechCrunch AI",
+          "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
+          "published_at": "2026-07-06 23:21",
+          "tags": [
+            "AI",
+            "Hardware",
+            "memory",
+            "RAM",
+            "SK Hynix"
+          ]
+        },
+        {
+          "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+          "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+          "source": "TechCrunch AI",
+          "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
+          "published_at": "2026-07-06 19:01",
+          "tags": [
+            "AI",
+            "Apps",
+            "iOS 27",
+            "siri",
+            "siri ai"
+          ]
+        },
+        {
+          "title": "Every major tech layoff in 2026 that has name-checked AI",
+          "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+          "source": "TechCrunch AI",
+          "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+          "published_at": "2026-07-06 18:35",
+          "tags": [
+            "AI",
+            "TC",
+            "Layoffs"
+          ]
+        }
+      ]
     }
   ]
 }
