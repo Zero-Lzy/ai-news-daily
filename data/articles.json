@@ -1,5 +1,50 @@
 [
   {
+    "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+    "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+    "source": "TechCrunch AI",
+    "summary": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
+    "published_at": "2026-07-07 22:18",
+    "tags": [
+      "AI",
+      "Meta",
+      "Meta Superintelligence",
+      "Muse Image"
+    ],
+    "fetch_date": "2026-07-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+    "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+    "source": "TechCrunch AI",
+    "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+    "published_at": "2026-07-07 20:04",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Anthropic",
+      "Decagon"
+    ],
+    "fetch_date": "2026-07-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Claude Cowork expands to mobile and web",
+    "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+    "source": "TechCrunch AI",
+    "summary": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
+    "published_at": "2026-07-07 16:27",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "claude cowork",
+      "coding agent"
+    ],
+    "fetch_date": "2026-07-08",
+    "fetch_label": "早报"
+  },
+  {
     "title": "The power of APIs: The unsung hero of AI interface",
     "url": "https://www.collabora.com/news-and-blog/blog/2026/07/07/the-power-of-apis-the-unsung-hero-of-ai-interface/",
     "source": "Hacker News AI",
@@ -100,6 +145,24 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+    "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+    "source": "TechCrunch AI",
+    "summary": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
+    "published_at": "2026-07-07 12:00",
+    "tags": [
+      "Startups",
+      "Security",
+      "AI",
+      "acrew capital",
+      "AI scams",
+      "fraud detection",
+      "Savi"
+    ],
+    "fetch_date": "2026-07-08",
+    "fetch_label": "早报"
+  },
+  {
     "title": "The first American autonomous ground vehicles are fighting in Ukraine",
     "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
     "source": "TechCrunch AI",
@@ -115,6 +178,22 @@
     ],
     "fetch_date": "2026-07-07",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Solos debuts an even lighter version of its camera-less smart glasses",
+    "url": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
+    "source": "The Verge AI",
+    "summary": "Solos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. Last year's AirGo A5 weighed 36 to 40 grams depending on the frame style, but the new AirGo A6 weigh around 19 grams. Part of the weight savings [&#8230;]",
+    "published_at": "2026-07-07 09:00",
+    "tags": [
+      "AI",
+      "Gadgets",
+      "News",
+      "Tech",
+      "Wearable"
+    ],
+    "fetch_date": "2026-07-08",
+    "fetch_label": "早报"
   },
   {
     "title": "AI's Volatile Power Use Tests Grid Limits",
@@ -247,6 +326,21 @@
     "fetch_label": "早报"
   },
   {
+    "title": "The ‘first’ AI-run ransomware attack still needed a human",
+    "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+    "source": "TechCrunch AI",
+    "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's headlines suggested.",
+    "published_at": "2026-07-06 23:56",
+    "tags": [
+      "AI",
+      "Security",
+      "ransomware",
+      "sysdig"
+    ],
+    "fetch_date": "2026-07-08",
+    "fetch_label": "早报"
+  },
+  {
     "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
     "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
     "source": "TechCrunch AI",
@@ -318,6 +412,22 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+    "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+    "source": "TechCrunch AI",
+    "summary": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest.",
+    "published_at": "2026-07-06 15:32",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Microsoft",
+      "tech layoffs",
+      "xbox"
+    ],
+    "fetch_date": "2026-07-08",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Show HN: Causari – Content-addressable ledger for AI agent code edits",
     "url": "https://causari.dev/#quickstart",
     "source": "Hacker News AI",
@@ -336,6 +446,21 @@
     "tags": [],
     "fetch_date": "2026-07-06",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+    "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+    "source": "TechCrunch AI",
+    "summary": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
+    "published_at": "2026-07-06 15:22",
+    "tags": [
+      "AI",
+      "Social",
+      "In Brief",
+      "Reddit"
+    ],
+    "fetch_date": "2026-07-08",
+    "fetch_label": "早报"
   },
   {
     "title": "Show HN: Keyhole – Share secrets with your AI agents",
