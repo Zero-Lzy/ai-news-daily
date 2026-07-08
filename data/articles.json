@@ -1,5 +1,74 @@
 [
   {
+    "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+    "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+    "source": "TechCrunch AI",
+    "summary": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
+    "published_at": "2026-07-08 12:00",
+    "tags": [
+      "AI",
+      "Space",
+      "Startups",
+      "Kevin Weil",
+      "stoke space"
+    ],
+    "fetch_date": "2026-07-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+    "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+    "source": "TechCrunch AI",
+    "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
+    "published_at": "2026-07-08 08:00",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "Startups",
+      "AI inference",
+      "Exclusive",
+      "ZML"
+    ],
+    "fetch_date": "2026-07-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+    "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+    "source": "TechCrunch AI",
+    "summary": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
+    "published_at": "2026-07-08 07:16",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "Intel",
+      "Funding",
+      "startup",
+      "SambaNova",
+      "SambaNova Systems",
+      "AI chip"
+    ],
+    "fetch_date": "2026-07-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+    "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+    "source": "ArsTechnica AI",
+    "summary": "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\"",
+    "published_at": "2026-07-08 07:00",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "Security",
+      "hallucinations",
+      "LLMs",
+      "typosquatting"
+    ],
+    "fetch_date": "2026-07-08",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
     "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
     "source": "TechCrunch AI",
@@ -28,6 +97,24 @@
     ],
     "fetch_date": "2026-07-08",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
+    "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+    "source": "The Verge AI",
+    "summary": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsApp, and it's coming soon to Facebook and Messenger, according to an announcement on Tuesday. It's part of the growing Muse family of AI [&#8230;]",
+    "published_at": "2026-07-07 16:31",
+    "tags": [
+      "AI",
+      "Apps",
+      "Instagram",
+      "Meta",
+      "News",
+      "Social Media",
+      "Tech"
+    ],
+    "fetch_date": "2026-07-08",
+    "fetch_label": "晚报"
   },
   {
     "title": "Claude Cowork expands to mobile and web",
