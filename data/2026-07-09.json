@@ -1,0 +1,239 @@
+{
+  "date": "2026-07-09",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-07-09 11:36:07",
+      "count": 22,
+      "articles": [
+        {
+          "title": "Show HN: Figment – An AI that I made my friends talk to for 2 weeks",
+          "url": "https://figment.computer/",
+          "source": "Hacker News AI",
+          "summary": "For the past 3 weeks, I've been hacking on a personal AI that you can text.It's curious about you & proactively figures out ways to help you, while still feeling like a friend.Its personality & proactivity is probably what I've spent the most time working on for this project, testing out a bunch of different models and prompts etc. It has more work to be done for sure, but I kinda like how it's come to be so far!It has its own 24/7 computer and browser (still working on improving its use of them",
+          "published_at": "2026-07-09 03:31",
+          "tags": []
+        },
+        {
+          "title": "Llama 2 LLM on DOS (2025)",
+          "url": "https://yeokhengmeng.com/2025/04/llama2-llm-on-dos/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://yeokhengmeng.com/2025/04/llama2-llm-on-dos/ Comments URL: https://news.ycombinator.com/item?id=48840660 Points: 1 # Comments: 0",
+          "published_at": "2026-07-09 03:31",
+          "tags": []
+        },
+        {
+          "title": "What's slowing down the AI buildout",
+          "url": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid Comments URL: https://news.ycombinator.com/item?id=48840620 Points: 1 # Comments: 0",
+          "published_at": "2026-07-09 03:26",
+          "tags": []
+        },
+        {
+          "title": "AI could keep poor countries poor",
+          "url": "https://newsletter.deenamousa.com/p/ai-could-keep-poor-countries-poor",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://newsletter.deenamousa.com/p/ai-could-keep-poor-countries-poor Comments URL: https://news.ycombinator.com/item?id=48840572 Points: 1 # Comments: 0",
+          "published_at": "2026-07-09 03:20",
+          "tags": []
+        },
+        {
+          "title": "Character AI Alternative for Roleplay",
+          "url": "https://chatbrat.ai/bratlog/best-character-ai-alternatives-2026",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://chatbrat.ai/bratlog/best-character-ai-alternatives-2026 Comments URL: https://news.ycombinator.com/item?id=48840543 Points: 1 # Comments: 0",
+          "published_at": "2026-07-09 03:16",
+          "tags": []
+        },
+        {
+          "title": "Meta Patents AI Device That Tracks Your Emotions, Watches You Take Your Meds",
+          "url": "https://www.404media.co/meta-patents-ai-device-that-tracks-your-emotions-watches-you-take-your-meds/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.404media.co/meta-patents-ai-device-that-tracks-your-emotions-watches-you-take-your-meds/ Comments URL: https://news.ycombinator.com/item?id=48840514 Points: 3 # Comments: 0",
+          "published_at": "2026-07-09 03:12",
+          "tags": []
+        },
+        {
+          "title": "AI models' values are different from most people's",
+          "url": "https://www.economist.com/briefing/2026/06/25/ai-models-values-are-very-different-from-most-peoples",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.economist.com/briefing/2026/06/25/ai-models-values-are-very-different-from-most-peoples Comments URL: https://news.ycombinator.com/item?id=48840388 Points: 1 # Comments: 0",
+          "published_at": "2026-07-09 02:49",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: Would you pay to discuss a book with an official AI clone of its author?",
+          "url": "https://news.ycombinator.com/item?id=48840370",
+          "source": "Hacker News AI",
+          "summary": "When you're deep in a dense book, do you ever wish you could just ask the author something?If each author had an official AI version of themselves, one they licensed and approved, trained on their books, talks, and interviews, with revenue going back to them and you could pay $15 per book to talk it through in a voice or video call while you read, would you try it?I'm considering building this and want your opinion. Just asking if this interests people, like would you pay for that or at least tr",
+          "published_at": "2026-07-09 02:46",
+          "tags": []
+        },
+        {
+          "title": "Show HN: SlopWatch - A browser extension to rate webpages with AI content",
+          "url": "https://chromewebstore.google.com/detail/slopwatch-the-online-watc/nihlmmcfkabobchdpjimenhcfmaoglkj",
+          "source": "Hacker News AI",
+          "summary": "Hey guys!With an increase in AI-generated content (a.k.a \"Slop\"), I made a Chrome extension to help people identify it online.It's sort of a like a rating system on how \"slop\"-y a page is, and you get to see other people's ratings to determine if the content is AI or not.Go ahead and check it out on the Chrome Web Store, and let me know what you think! Comments URL: https://news.ycombinator.com/item?id=48840353 Points: 2 # Comments: 0",
+          "published_at": "2026-07-09 02:41",
+          "tags": []
+        },
+        {
+          "title": "AI Stack Gap Map",
+          "url": "https://www.currentai.org/blogs/introducing-the-gap-map-v0-1",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.currentai.org/blogs/introducing-the-gap-map-v0-1 Comments URL: https://news.ycombinator.com/item?id=48840224 Points: 2 # Comments: 0",
+          "published_at": "2026-07-09 02:25",
+          "tags": []
+        },
+        {
+          "title": "Auto compiles recorded LLM-agent behavior into verified WASM binaries",
+          "url": "https://github.com/RightNow-AI/auto",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/RightNow-AI/auto Comments URL: https://news.ycombinator.com/item?id=48840103 Points: 1 # Comments: 0",
+          "published_at": "2026-07-09 02:12",
+          "tags": []
+        },
+        {
+          "title": "The AI Hype Reckoning Is Upon Us",
+          "url": "https://karlbode.com/the-ai-hype-reckoning-is-upon-us/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://karlbode.com/the-ai-hype-reckoning-is-upon-us/ Comments URL: https://news.ycombinator.com/item?id=48840092 Points: 3 # Comments: 1",
+          "published_at": "2026-07-09 02:09",
+          "tags": []
+        },
+        {
+          "title": "I Think I Have LLM Burnout",
+          "url": "https://www.alecscollon.com/blog/llm-burnout/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.alecscollon.com/blog/llm-burnout/ Comments URL: https://news.ycombinator.com/item?id=48839984 Points: 134 # Comments: 88",
+          "published_at": "2026-07-09 01:56",
+          "tags": []
+        },
+        {
+          "title": "StoryScope: Investigating Idiosyncrasies in AI Fiction",
+          "url": "https://arxiv.org/abs/2604.03136",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2604.03136 Comments URL: https://news.ycombinator.com/item?id=48839656 Points: 2 # Comments: 0",
+          "published_at": "2026-07-09 01:10",
+          "tags": []
+        },
+        {
+          "title": "Show HN:Ghost – real-time AI that tells you what to say during job interviews",
+          "url": "https://ghostinterview.dev",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://ghostinterview.dev Comments URL: https://news.ycombinator.com/item?id=48839534 Points: 1 # Comments: 0",
+          "published_at": "2026-07-09 00:51",
+          "tags": []
+        },
+        {
+          "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+          "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+          "source": "TechCrunch AI",
+          "summary": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
+          "published_at": "2026-07-08 19:30",
+          "tags": [
+            "AI",
+            "ChatGPT",
+            "Elon Musk",
+            "Grok",
+            "OpenAI",
+            "spacexai"
+          ]
+        },
+        {
+          "title": "This startup thinks robotics is about to have its ChatGPT moment",
+          "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+          "source": "TechCrunch AI",
+          "summary": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
+          "published_at": "2026-07-08 19:19",
+          "tags": [
+            "AI",
+            "Robotics",
+            "Equity",
+            "general intuition",
+            "pim de witte"
+          ]
+        },
+        {
+          "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
+          "url": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
+          "source": "ArsTechnica AI",
+          "summary": "Both vulnerabilities allow untrusted users to gain root privileges.",
+          "published_at": "2026-07-08 19:01",
+          "tags": [
+            "Biz & IT",
+            "Security",
+            "exploits",
+            "Linux",
+            "local privilege escalation",
+            "vulnerabilities"
+          ]
+        },
+        {
+          "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+          "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+          "source": "TechCrunch AI",
+          "summary": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
+          "published_at": "2026-07-08 18:30",
+          "tags": [
+            "AI",
+            "Apps",
+            "Google",
+            "Google Photos"
+          ]
+        },
+        {
+          "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+          "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+          "source": "TechCrunch AI",
+          "summary": "Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs.",
+          "published_at": "2026-07-08 16:22",
+          "tags": [
+            "AI",
+            "Startups",
+            "ai sovereignty",
+            "Prime Intellect",
+            "radical ventures",
+            "reinforcement learning"
+          ]
+        },
+        {
+          "title": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
+          "url": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
+          "source": "TechCrunch AI",
+          "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8217;re&#160;less skilled at understanding how things&#160;actually move&#160;through space and time&#160;—&#160;an essential skill for producing intelligence that generalizes. That gap, it turns out, might be filled&#160;by&#160;gaming data.&#160;That&#8217;s&#160;the bet behind General Intuition, a",
+          "published_at": "2026-07-08 13:00",
+          "tags": [
+            "AI",
+            "Startups",
+            "AI Funding",
+            "Equity podcast",
+            "general intuition",
+            "jeff bezos",
+            "physical ai",
+            "Pim DeWit",
+            "robotics",
+            "Video Game Data",
+            "world models"
+          ]
+        },
+        {
+          "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+          "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+          "source": "TechCrunch AI",
+          "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
+          "published_at": "2026-07-08 08:00",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Startups",
+            "AI inference",
+            "Exclusive",
+            "ZML"
+          ]
+        }
+      ]
+    }
+  ]
+}
