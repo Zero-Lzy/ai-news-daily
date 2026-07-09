@@ -234,6 +234,285 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-07-09 23:11:03",
+      "count": 26,
+      "articles": [
+        {
+          "title": "LeadDev AI Impact Survey",
+          "url": "https://www.research.net/r/ai_impact_26",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.research.net/r/ai_impact_26 Comments URL: https://news.ycombinator.com/item?id=48847213 Points: 1 # Comments: 0",
+          "published_at": "2026-07-09 15:08",
+          "tags": []
+        },
+        {
+          "title": "June: Open-source, local-first private AI assistant for macOS with memory",
+          "url": "https://www.opensoftware.co/june",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.opensoftware.co/june Comments URL: https://news.ycombinator.com/item?id=48847170 Points: 1 # Comments: 0",
+          "published_at": "2026-07-09 15:06",
+          "tags": []
+        },
+        {
+          "title": "Elon Musk has capped Tesla employees' spending on AI at $200 (£150) a week",
+          "url": "https://finance.yahoo.com/technology/ai/articles/elon-musk-caps-tesla-staff-170324661.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/elon-musk-caps-tesla-staff-170324661.html Comments URL: https://news.ycombinator.com/item?id=48847162 Points: 1 # Comments: 1",
+          "published_at": "2026-07-09 15:05",
+          "tags": []
+        },
+        {
+          "title": "UN digital tech agency launches initiative to improve trust in AI agents",
+          "url": "https://www.reuters.com/legal/litigation/un-digital-tech-agency-launches-initiative-improve-trust-ai-agents-2026-07-09/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.reuters.com/legal/litigation/un-digital-tech-agency-launches-initiative-improve-trust-ai-agents-2026-07-09/ Comments URL: https://news.ycombinator.com/item?id=48847159 Points: 1 # Comments: 0",
+          "published_at": "2026-07-09 15:05",
+          "tags": []
+        },
+        {
+          "title": "LinkedIn and X Are Flooded with AI Spam, Browsing Data Suggests",
+          "url": "https://www.404media.co/linkedin-and-x-are-flooded-with-ai-spam-browsing-data-suggests/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.404media.co/linkedin-and-x-are-flooded-with-ai-spam-browsing-data-suggests/ Comments URL: https://news.ycombinator.com/item?id=48846885 Points: 2 # Comments: 0",
+          "published_at": "2026-07-09 14:52",
+          "tags": []
+        },
+        {
+          "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+          "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+          "source": "TechCrunch AI",
+          "summary": "Three big AI IPOs are set to generate more value than all the U.S. VC backed exits since 2000.",
+          "published_at": "2026-07-09 14:51",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "OpenAI",
+            "SpaceX"
+          ]
+        },
+        {
+          "title": "'Siri AI' Lawsuit Update: Apple to Pay Owners of These iPhone Models",
+          "url": "https://www.macrumors.com/2026/07/09/siri-ai-lawsuit-settlement-claims-timing/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.macrumors.com/2026/07/09/siri-ai-lawsuit-settlement-claims-timing/ Comments URL: https://news.ycombinator.com/item?id=48846848 Points: 1 # Comments: 0",
+          "published_at": "2026-07-09 14:50",
+          "tags": []
+        },
+        {
+          "title": "Why the Next Era of AI Is About Infrastructure, Not Just Models",
+          "url": "https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/ Comments URL: https://news.ycombinator.com/item?id=48846842 Points: 1 # Comments: 0",
+          "published_at": "2026-07-09 14:50",
+          "tags": []
+        },
+        {
+          "title": "How to feel safe delegating to AI agents?",
+          "url": "https://news.ycombinator.com/item?id=48846739",
+          "source": "Hacker News AI",
+          "summary": "I feel more and more that I am loosing control of what's happening under the hood. Agents move fast and chaotically. Are there frameworks, tools or governance solutions to give us back more control? Comments URL: https://news.ycombinator.com/item?id=48846739 Points: 1 # Comments: 0",
+          "published_at": "2026-07-09 14:43",
+          "tags": []
+        },
+        {
+          "title": "DeepSeek aims to make its own AI chip",
+          "url": "https://www.proactiveinvestors.com/companies/news/1095178/deepseek-makes-pivot-that-should-put-silicon-valley-on-high-alert-1095178.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.proactiveinvestors.com/companies/news/1095178/deepseek-makes-pivot-that-should-put-silicon-valley-on-high-alert-1095178.html Comments URL: https://news.ycombinator.com/item?id=48846708 Points: 1 # Comments: 0",
+          "published_at": "2026-07-09 14:42",
+          "tags": []
+        },
+        {
+          "title": "Zuckerberg Pledges 'Aggressive' Pricing with Meta's First Pay-to-Use AI",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-09/meta-starts-charging-for-ai-with-muse-spark-1-1-agentic-model",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-09/meta-starts-charging-for-ai-with-muse-spark-1-1-agentic-model Comments URL: https://news.ycombinator.com/item?id=48846578 Points: 1 # Comments: 0",
+          "published_at": "2026-07-09 14:35",
+          "tags": []
+        },
+        {
+          "title": "Stacking Chips Sideways Gives AI More Memory",
+          "url": "https://spectrum.ieee.org/stacking-chips-sideways",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://spectrum.ieee.org/stacking-chips-sideways Comments URL: https://news.ycombinator.com/item?id=48846515 Points: 2 # Comments: 0",
+          "published_at": "2026-07-09 14:31",
+          "tags": []
+        },
+        {
+          "title": "Altman: GPT-5.6 is 54% more token efficient on agentic coding",
+          "url": "https://www.cnbc.com/2026/07/09/open-ai-sam-altman-chatgpt-5-6-sol.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.cnbc.com/2026/07/09/open-ai-sam-altman-chatgpt-5-6-sol.html Comments URL: https://news.ycombinator.com/item?id=48846407 Points: 10 # Comments: 1",
+          "published_at": "2026-07-09 14:25",
+          "tags": []
+        },
+        {
+          "title": "AI Agent Skill Traceability in UX Design",
+          "url": "https://rapidkt.com/pages/blog/ai_agent_skill_traceability_in_ux_design",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://rapidkt.com/pages/blog/ai_agent_skill_traceability_in_ux_design Comments URL: https://news.ycombinator.com/item?id=48846376 Points: 2 # Comments: 0",
+          "published_at": "2026-07-09 14:22",
+          "tags": []
+        },
+        {
+          "title": "Show HN: ContextNest versioned, governed context for AI agents (open-source CLI)",
+          "url": "https://promptowl.ai/resources/building-a-viewable-second-brain-with-context/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://promptowl.ai/resources/building-a-viewable-second-brain-with-context/ Comments URL: https://news.ycombinator.com/item?id=48846201 Points: 3 # Comments: 0",
+          "published_at": "2026-07-09 14:11",
+          "tags": []
+        },
+        {
+          "title": "A Startup That Builds AI Agents Used One to Raise $100M",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-09/a-startup-that-builds-ai-agents-used-one-to-raise-100-million",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-09/a-startup-that-builds-ai-agents-used-one-to-raise-100-million Comments URL: https://news.ycombinator.com/item?id=48846166 Points: 2 # Comments: 0",
+          "published_at": "2026-07-09 14:09",
+          "tags": []
+        },
+        {
+          "title": "Why AI Agents need a runtime, not just a framework",
+          "url": "https://phrony.com/blog/why-production-agents-need-a-runtime",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://phrony.com/blog/why-production-agents-need-a-runtime Comments URL: https://news.ycombinator.com/item?id=48846057 Points: 2 # Comments: 0",
+          "published_at": "2026-07-09 14:03",
+          "tags": []
+        },
+        {
+          "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+          "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+          "source": "TechCrunch AI",
+          "summary": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.",
+          "published_at": "2026-07-09 13:00",
+          "tags": [
+            "AI",
+            "Startups",
+            "TC",
+            "Benchmark Partners",
+            "Exclusive",
+            "ollama",
+            "theory ventures"
+          ]
+        },
+        {
+          "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
+          "url": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
+          "source": "TechCrunch AI",
+          "summary": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.",
+          "published_at": "2026-07-09 13:00",
+          "tags": [
+            "AI",
+            "Apps",
+            "ai entertainment",
+            "character.ai",
+            "microdramas"
+          ]
+        },
+        {
+          "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
+          "url": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
+          "source": "TechCrunch AI",
+          "summary": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.",
+          "published_at": "2026-07-09 12:00",
+          "tags": [
+            "AI",
+            "Startups",
+            "Venture",
+            "Fundamentum",
+            "Fundamentum Partnership",
+            "Nandan Nilekani"
+          ]
+        },
+        {
+          "title": "Say hello to Claude Wrapped",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
+          "source": "The Verge AI",
+          "summary": "The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a \"reflect\" feature for its Claude chatbot, allowing users to see an analysis of their usage data over the past month, [&#8230;]",
+          "published_at": "2026-07-09 09:30",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "News"
+          ]
+        },
+        {
+          "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
+          "url": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
+          "source": "ArsTechnica AI",
+          "summary": "Both vulnerabilities allow untrusted users to gain root privileges.",
+          "published_at": "2026-07-08 19:01",
+          "tags": [
+            "Biz & IT",
+            "Security",
+            "exploits",
+            "Linux",
+            "local privilege escalation",
+            "vulnerabilities"
+          ]
+        },
+        {
+          "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+          "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+          "source": "TechCrunch AI",
+          "summary": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
+          "published_at": "2026-07-08 18:30",
+          "tags": [
+            "AI",
+            "Apps",
+            "Google",
+            "Google Photos"
+          ]
+        },
+        {
+          "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+          "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+          "source": "TechCrunch AI",
+          "summary": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.",
+          "published_at": "2026-07-08 17:11",
+          "tags": [
+            "AI",
+            "Apps",
+            "Gadgets",
+            "Media & Entertainment",
+            "Social",
+            "TC",
+            "Meta",
+            "meta ai",
+            "privacy"
+          ]
+        },
+        {
+          "title": "OpenAI releases new voice models for more natural live conversations",
+          "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
+          "published_at": "2026-07-08 17:00",
+          "tags": [
+            "AI",
+            "Apps",
+            "ChatGPT",
+            "voice model"
+          ]
+        },
+        {
+          "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+          "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+          "source": "TechCrunch AI",
+          "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
+          "published_at": "2026-07-08 08:00",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Startups",
+            "AI inference",
+            "Exclusive",
+            "ZML"
+          ]
+        }
+      ]
     }
   ]
 }
