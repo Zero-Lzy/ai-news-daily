@@ -295,6 +295,290 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-07-10 22:27:56",
+      "count": 20,
+      "articles": [
+        {
+          "title": "Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
+          "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+          "source": "The Verge AI",
+          "summary": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out AI content,\" Mosseri said during an interview on Lenny Rachitsky's podcast. \"I think we should let you know [&#8230;]",
+          "published_at": "2026-07-10 09:45",
+          "tags": [
+            "AI",
+            "Instagram",
+            "Meta",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+          "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+          "published_at": "2026-07-10 00:16",
+          "tags": [
+            "AI",
+            "Copilot",
+            "gpt-5.6",
+            "In Brief",
+            "Microsoft",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
+          "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
+          "published_at": "2026-07-09 23:38",
+          "tags": [
+            "AI",
+            "Fidji Simo",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "OpenAI launches its new family of models with GPT-5.6",
+          "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
+          "published_at": "2026-07-09 22:24",
+          "tags": [
+            "AI",
+            "ChatGPT",
+            "gpt-5.6",
+            "OpenAI",
+            "sam altman"
+          ]
+        },
+        {
+          "title": "An AI agent startup just let its agent run its $100M fundraise",
+          "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+          "source": "TechCrunch AI",
+          "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
+          "published_at": "2026-07-09 22:08",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Startups",
+            "ai agent",
+            "In Brief"
+          ]
+        },
+        {
+          "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+          "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
+          "published_at": "2026-07-09 22:03",
+          "tags": [
+            "AI",
+            "AI browser",
+            "atlas",
+            "chatgpt atlas",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+          "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+          "source": "TechCrunch AI",
+          "summary": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
+          "published_at": "2026-07-09 21:57",
+          "tags": [
+            "AI",
+            "Hardware",
+            "Anthropic",
+            "Elon Musk",
+            "SpaceX",
+            "xAI"
+          ]
+        },
+        {
+          "title": "Can AI answer the $3 trillion question?",
+          "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+          "source": "TechCrunch AI",
+          "summary": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
+          "published_at": "2026-07-09 21:47",
+          "tags": [
+            "AI",
+            "apollo",
+            "CAPEX",
+            "Sequioa"
+          ]
+        },
+        {
+          "title": "Microsoft’s carbon emissions went up 25 percent last year",
+          "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
+          "source": "The Verge AI",
+          "summary": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions increased 25 percent in 2025, totalling 34 million metric tons \"without select interventions.\" Microsoft says this was \"driven primarily by the expansion of our [&#8230;]",
+          "published_at": "2026-07-09 20:04",
+          "tags": [
+            "AI",
+            "Environment",
+            "Microsoft",
+            "News",
+            "Science",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+          "source": "The Verge AI",
+          "summary": "OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a \"part-time advisor,\" she said on X. The news follows Simo's original announcement in April that she would take a few weeks of medical leave due to a neuroimmune condition, shortly after she had taken on the [&#8230;]",
+          "published_at": "2026-07-09 19:24",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+          "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+          "source": "TechCrunch AI",
+          "summary": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
+          "published_at": "2026-07-09 19:05",
+          "tags": [
+            "AI",
+            "Government & Policy",
+            "ChatGPT",
+            "copyright",
+            "copyright infringement",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Google will now disclose which ads are made with AI",
+          "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+          "source": "TechCrunch AI",
+          "summary": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
+          "published_at": "2026-07-09 18:40",
+          "tags": [
+            "AI",
+            "Commerce",
+            "Adtech",
+            "advertising",
+            "Generative AI",
+            "Google"
+          ]
+        },
+        {
+          "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+          "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+          "source": "TechCrunch AI",
+          "summary": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
+          "published_at": "2026-07-09 18:34",
+          "tags": [
+            "AI",
+            "Venture",
+            "nvidia",
+            "Kyutai",
+            "In Brief",
+            "Gradium"
+          ]
+        },
+        {
+          "title": "Nvidia is a victim of the compute marketplace it created",
+          "url": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
+          "source": "TechCrunch AI",
+          "summary": "Having proven how valuable compute can be, the company finds itself at the center of a market everyone wants to be in — while simpler technologies and less interesting companies get rich on the sidelines.",
+          "published_at": "2026-07-09 17:06",
+          "tags": [
+            "AI",
+            "compute",
+            "dram",
+            "nvidia"
+          ]
+        },
+        {
+          "title": "The ChatGPT browser is already dead",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+          "source": "The Verge AI",
+          "summary": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of news about ChatGPT Work today, the company confirmed that it will be \"sunsetting\" Atlas and is targeting an [&#8230;]",
+          "published_at": "2026-07-09 16:34",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Google will now tell you if an ad was made with AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
+          "source": "The Verge AI",
+          "summary": "You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's \"My Ad Center,\" as reported earlier by TechCrunch. The update, announced on Thursday, adds a \"created or edited with AI\" label under the \"how this ad was made\" tab. Users can [&#8230;]",
+          "published_at": "2026-07-09 16:11",
+          "tags": [
+            "AI",
+            "Google",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Anthropic’s new Claude feature is quietly selling you on AI",
+          "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.",
+          "published_at": "2026-07-09 14:53",
+          "tags": [
+            "AI",
+            "Apps",
+            "TC",
+            "Anthropic",
+            "Claude"
+          ]
+        },
+        {
+          "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+          "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+          "source": "TechCrunch AI",
+          "summary": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.",
+          "published_at": "2026-07-09 14:51",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "IPO",
+            "OpenAI",
+            "SpaceX"
+          ]
+        },
+        {
+          "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+          "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+          "source": "TechCrunch AI",
+          "summary": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.",
+          "published_at": "2026-07-09 13:00",
+          "tags": [
+            "AI",
+            "Startups",
+            "TC",
+            "Benchmark Partners",
+            "Exclusive",
+            "ollama",
+            "theory ventures"
+          ]
+        },
+        {
+          "title": "Say hello to Claude Wrapped",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
+          "source": "The Verge AI",
+          "summary": "The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a \"reflect\" feature for its Claude chatbot, allowing users to see an analysis of their usage data over the past month, [&#8230;]",
+          "published_at": "2026-07-09 09:30",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "News"
+          ]
+        }
+      ]
     }
   ]
 }
