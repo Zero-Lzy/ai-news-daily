@@ -1,0 +1,300 @@
+{
+  "date": "2026-07-10",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-07-10 11:37:46",
+      "count": 26,
+      "articles": [
+        {
+          "title": "Verla: Free AI Humanizer&assignment helper",
+          "url": "https://verla.io",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://verla.io Comments URL: https://news.ycombinator.com/item?id=48855425 Points: 1 # Comments: 0",
+          "published_at": "2026-07-10 03:28",
+          "tags": []
+        },
+        {
+          "title": "Responsibly Building the AI Future",
+          "url": "https://blogs.microsoft.com/on-the-issues/2026/07/09/responsibly-building-the-ai-future/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blogs.microsoft.com/on-the-issues/2026/07/09/responsibly-building-the-ai-future/ Comments URL: https://news.ycombinator.com/item?id=48855168 Points: 2 # Comments: 0",
+          "published_at": "2026-07-10 02:45",
+          "tags": []
+        },
+        {
+          "title": "Muse AI auto opt-in all public Instagram accounts",
+          "url": "https://twitter.com/MKBHD/status/2075375524684218655",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://twitter.com/MKBHD/status/2075375524684218655 Comments URL: https://news.ycombinator.com/item?id=48855151 Points: 2 # Comments: 1",
+          "published_at": "2026-07-10 02:43",
+          "tags": []
+        },
+        {
+          "title": "Show HN: TensorSharp: Open-Source Local LLM Inference Engine",
+          "url": "https://tensorsharp.ai/",
+          "source": "Hacker News AI",
+          "summary": "A native .NET LLM inference engine for GGUF models — with a command-line tool, a browser chat server, and Ollama- & OpenAI-compatible APIs for programmatic access. Comments URL: https://news.ycombinator.com/item?id=48855138 Points: 2 # Comments: 0",
+          "published_at": "2026-07-10 02:42",
+          "tags": []
+        },
+        {
+          "title": "Interesting LLM visualization I stumbled upon",
+          "url": "https://www.paradigm.xyz/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.paradigm.xyz/ Comments URL: https://news.ycombinator.com/item?id=48854886 Points: 2 # Comments: 1",
+          "published_at": "2026-07-10 02:04",
+          "tags": []
+        },
+        {
+          "title": "GPT 5.6 Sol Post-Trained Luna Autonomously",
+          "url": "https://twitter.com/larrylv/status/2075279982847541278",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://twitter.com/larrylv/status/2075279982847541278 Comments URL: https://news.ycombinator.com/item?id=48854817 Points: 1 # Comments: 1",
+          "published_at": "2026-07-10 01:49",
+          "tags": []
+        },
+        {
+          "title": "Microsoft's early AI lead has become a test of faith",
+          "url": "https://www.ft.com/content/753bd818-524a-46f3-9026-e2fae74c2167",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.ft.com/content/753bd818-524a-46f3-9026-e2fae74c2167 Comments URL: https://news.ycombinator.com/item?id=48854723 Points: 2 # Comments: 0",
+          "published_at": "2026-07-10 01:36",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Selvedge – long-term memory for AI-coded codebases",
+          "url": "https://selvedge.sh/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://selvedge.sh/ Comments URL: https://news.ycombinator.com/item?id=48854574 Points: 3 # Comments: 0",
+          "published_at": "2026-07-10 01:10",
+          "tags": []
+        },
+        {
+          "title": "AI #176 Part 1: Doing It Live",
+          "url": "https://thezvi.substack.com/p/ai-176-part-1-doing-it-live",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://thezvi.substack.com/p/ai-176-part-1-doing-it-live Comments URL: https://news.ycombinator.com/item?id=48854492 Points: 2 # Comments: 0",
+          "published_at": "2026-07-10 01:00",
+          "tags": []
+        },
+        {
+          "title": "Building an AI legal companion for domestic and sexual violence survivors",
+          "url": "https://apps.apple.com/us/app/lea-by-legali-ai/id6759547127?see-all=reviews&platform=iphone",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://apps.apple.com/us/app/lea-by-legali-ai/id6759547127?see-all=reviews&amp;platform=iphone Comments URL: https://news.ycombinator.com/item?id=48854316 Points: 1 # Comments: 1",
+          "published_at": "2026-07-10 00:32",
+          "tags": []
+        },
+        {
+          "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+          "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+          "published_at": "2026-07-10 00:16",
+          "tags": [
+            "AI",
+            "Copilot",
+            "gpt-5.6",
+            "Microsoft",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Ukraine: How a kamikaze drone partially AI operated is attacking Russian convoys",
+          "url": "https://www.france24.com/en/europe/20260601-ukraine-kamikaze-drone-partially-operated-ai-attacking-russian-convoys",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.france24.com/en/europe/20260601-ukraine-kamikaze-drone-partially-operated-ai-attacking-russian-convoys Comments URL: https://news.ycombinator.com/item?id=48854108 Points: 5 # Comments: 0",
+          "published_at": "2026-07-09 23:58",
+          "tags": []
+        },
+        {
+          "title": "The OpenClaw Foundation: Reining in a Viral AI Agent",
+          "url": "https://techstrong.ai/articles/the-openclaw-foundation-reining-in-a-viral-ai-agent/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://techstrong.ai/articles/the-openclaw-foundation-reining-in-a-viral-ai-agent/ Comments URL: https://news.ycombinator.com/item?id=48854021 Points: 2 # Comments: 0",
+          "published_at": "2026-07-09 23:49",
+          "tags": []
+        },
+        {
+          "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+          "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
+          "published_at": "2026-07-09 22:03",
+          "tags": [
+            "AI",
+            "AI browser",
+            "atlas",
+            "chatgpt atlas",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+          "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+          "source": "TechCrunch AI",
+          "summary": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
+          "published_at": "2026-07-09 21:57",
+          "tags": [
+            "AI",
+            "Hardware",
+            "Anthropic",
+            "Elon Musk",
+            "SpaceX",
+            "xAI"
+          ]
+        },
+        {
+          "title": "Can AI answer the $3 trillion question?",
+          "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+          "source": "TechCrunch AI",
+          "summary": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
+          "published_at": "2026-07-09 21:47",
+          "tags": [
+            "AI",
+            "apollo",
+            "CAPEX",
+            "Sequioa"
+          ]
+        },
+        {
+          "title": "Microsoft’s carbon emissions went up 25 percent last year",
+          "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
+          "source": "The Verge AI",
+          "summary": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions increased 25 percent in 2025, totalling 34 million metric tons \"without select interventions.\" Microsoft says this was \"driven primarily by the expansion of our [&#8230;]",
+          "published_at": "2026-07-09 20:04",
+          "tags": [
+            "AI",
+            "Environment",
+            "Microsoft",
+            "News",
+            "Science",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+          "source": "The Verge AI",
+          "summary": "OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a \"part-time advisor,\" she said on X. The news follows Simo's original announcement in April that she would take a few weeks of medical leave due to a neuroimmune condition, shortly after she had taken on the [&#8230;]",
+          "published_at": "2026-07-09 19:24",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+          "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+          "source": "TechCrunch AI",
+          "summary": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
+          "published_at": "2026-07-09 18:34",
+          "tags": [
+            "AI",
+            "Venture",
+            "nvidia",
+            "Kyutai",
+            "In Brief",
+            "Gradium"
+          ]
+        },
+        {
+          "title": "Google will now tell you if an ad was made with AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
+          "source": "The Verge AI",
+          "summary": "You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's \"My Ad Center,\" as reported earlier by TechCrunch. The update, announced on Thursday, adds a \"created or edited with AI\" label under the \"how this ad was made\" tab. Users can [&#8230;]",
+          "published_at": "2026-07-09 16:11",
+          "tags": [
+            "AI",
+            "Google",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Anthropic’s new Claude feature is quietly selling you on AI",
+          "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.",
+          "published_at": "2026-07-09 14:53",
+          "tags": [
+            "AI",
+            "Apps",
+            "TC",
+            "Anthropic",
+            "Claude"
+          ]
+        },
+        {
+          "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+          "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+          "source": "TechCrunch AI",
+          "summary": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.",
+          "published_at": "2026-07-09 14:51",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "IPO",
+            "OpenAI",
+            "SpaceX"
+          ]
+        },
+        {
+          "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
+          "source": "The Verge AI",
+          "summary": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" period - the company has received the Trump administration's greenlight for a public rollout of the model. OpenAI CEO Sam Altman called it \"the best model we have ever produced.\" To celebrate, [&#8230;]",
+          "published_at": "2026-07-09 13:00",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI",
+            "Policy"
+          ]
+        },
+        {
+          "title": "Meta says its new AI model is ready to compete on coding",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+          "source": "The Verge AI",
+          "summary": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta Model API. Meta says that Muse Spark 1.1 is a \"step-change\" from the first generation, with improvements [&#8230;]",
+          "published_at": "2026-07-09 10:00",
+          "tags": [
+            "AI",
+            "Meta",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Say hello to Claude Wrapped",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
+          "source": "The Verge AI",
+          "summary": "The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a \"reflect\" feature for its Claude chatbot, allowing users to see an analysis of their usage data over the past month, [&#8230;]",
+          "published_at": "2026-07-09 09:30",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "News"
+          ]
+        },
+        {
+          "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
+          "url": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
+          "source": "ArsTechnica AI",
+          "summary": "Both vulnerabilities allow untrusted users to gain root privileges.",
+          "published_at": "2026-07-08 19:01",
+          "tags": [
+            "Biz & IT",
+            "Security",
+            "exploits",
+            "Linux",
+            "local privilege escalation",
+            "vulnerabilities"
+          ]
+        }
+      ]
+    }
+  ]
+}
