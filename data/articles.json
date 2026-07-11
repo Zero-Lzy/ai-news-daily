@@ -1,5 +1,155 @@
 [
   {
+    "title": "Fable 5 made a Fireship Video for GPT 5.6 Sol",
+    "url": "https://www.youtube.com/watch?v=cSsVNtGPOIg",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=cSsVNtGPOIg Comments URL: https://news.ycombinator.com/item?id=48871803 Points: 1 # Comments: 1",
+    "published_at": "2026-07-11 13:14",
+    "tags": [],
+    "fetch_date": "2026-07-11",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI takes two-thirds of venture money, and your odds are still one in six",
+    "url": "https://okaneland.com/study/ai-startup-raise-math/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://okaneland.com/study/ai-startup-raise-math/ Comments URL: https://news.ycombinator.com/item?id=48871449 Points: 2 # Comments: 0",
+    "published_at": "2026-07-11 12:26",
+    "tags": [],
+    "fetch_date": "2026-07-11",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: AI assistant for Google Chat to translate any file preserving layout",
+    "url": "https://workspace.google.com/marketplace/app/anyfile_translator/960750725467",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://workspace.google.com/marketplace/app/anyfile_translator/960750725467 Comments URL: https://news.ycombinator.com/item?id=48871277 Points: 1 # Comments: 1",
+    "published_at": "2026-07-11 12:00",
+    "tags": [],
+    "fetch_date": "2026-07-11",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Surveillance and Social Progress",
+    "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html Comments URL: https://news.ycombinator.com/item?id=48871090 Points: 3 # Comments: 0",
+    "published_at": "2026-07-11 11:33",
+    "tags": [],
+    "fetch_date": "2026-07-11",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Karpathy LLM Wiki (Obsidian Plugin)",
+    "url": "https://llmwiki.greenerai.top/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://llmwiki.greenerai.top/ Comments URL: https://news.ycombinator.com/item?id=48871007 Points: 1 # Comments: 0",
+    "published_at": "2026-07-11 11:19",
+    "tags": [],
+    "fetch_date": "2026-07-11",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Soofi: European sovereign LLM trained in 2 months",
+    "url": "https://huggingface.co/spaces/Soofi-Project/Pretraining-Tech-Report",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://huggingface.co/spaces/Soofi-Project/Pretraining-Tech-Report Comments URL: https://news.ycombinator.com/item?id=48870978 Points: 7 # Comments: 4",
+    "published_at": "2026-07-11 11:15",
+    "tags": [],
+    "fetch_date": "2026-07-11",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "As better chatbots get harder to build, AI turns to simulated worlds",
+    "url": "https://www.science.org/content/article/better-chatbots-get-harder-build-ai-turns-simulated-worlds",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.science.org/content/article/better-chatbots-get-harder-build-ai-turns-simulated-worlds Comments URL: https://news.ycombinator.com/item?id=48870908 Points: 3 # Comments: 0",
+    "published_at": "2026-07-11 11:04",
+    "tags": [],
+    "fetch_date": "2026-07-11",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Colyap – AI friend you can call and text",
+    "url": "https://www.colyap.com/",
+    "source": "Hacker News AI",
+    "summary": "call it, text it. connect your apps. go crazy. it's got long running tasks. it remembers everything about you. journal your life. it tries to understand what you want. no registration needed. BYOK. it gets better with time. go yap!handled 20,000+ minutes of conversations and 10,000+ texts a day. built to scale with you. Comments URL: https://news.ycombinator.com/item?id=48870794 Points: 3 # Comments: 1",
+    "published_at": "2026-07-11 10:49",
+    "tags": [],
+    "fetch_date": "2026-07-11",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: AI Agent Audit for Free",
+    "url": "https://github.com/sinewaveai/agent-security-scanner-mcp",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/sinewaveai/agent-security-scanner-mcp Comments URL: https://news.ycombinator.com/item?id=48870646 Points: 1 # Comments: 0",
+    "published_at": "2026-07-11 10:26",
+    "tags": [],
+    "fetch_date": "2026-07-11",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Nobel laureate Omar Yaghi joins Tsinghua to lead AI materials lab",
+    "url": "https://www.nationpress.com/sciencetech/nobel-chemist-yaghi-moves-to-tsinghua",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.nationpress.com/sciencetech/nobel-chemist-yaghi-moves-to-tsinghua Comments URL: https://news.ycombinator.com/item?id=48870589 Points: 2 # Comments: 0",
+    "published_at": "2026-07-11 10:14",
+    "tags": [],
+    "fetch_date": "2026-07-11",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AgentKindergarten – daycare for your AI coding agents",
+    "url": "https://github.com/rokrak1/agentkindergarten",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/rokrak1/agentkindergarten Comments URL: https://news.ycombinator.com/item?id=48870547 Points: 2 # Comments: 0",
+    "published_at": "2026-07-11 10:08",
+    "tags": [],
+    "fetch_date": "2026-07-11",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "A font that humans can read but AI cannot",
+    "url": "https://www.mixfont.com/ghost-font",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.mixfont.com/ghost-font Comments URL: https://news.ycombinator.com/item?id=48870381 Points: 70 # Comments: 64",
+    "published_at": "2026-07-11 09:36",
+    "tags": [],
+    "fetch_date": "2026-07-11",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Microsoft latest report shows 25% emissions raised due to AI data centers",
+    "url": "https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump Comments URL: https://news.ycombinator.com/item?id=48870229 Points: 16 # Comments: 2",
+    "published_at": "2026-07-11 09:10",
+    "tags": [],
+    "fetch_date": "2026-07-11",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Eliezer Yudkowsky: Will superintelligent AI end the world? [video]",
+    "url": "https://www.ted.com/talks/eliezer_yudkowsky_will_superintelligent_ai_end_the_world",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.ted.com/talks/eliezer_yudkowsky_will_superintelligent_ai_end_the_world Comments URL: https://news.ycombinator.com/item?id=48870062 Points: 1 # Comments: 0",
+    "published_at": "2026-07-11 08:34",
+    "tags": [],
+    "fetch_date": "2026-07-11",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Inside HackerRank's LLM-based Hiring Agent",
+    "url": "https://blog.grandimam.com/posts/how-hacker-rank-scores-engineers/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.grandimam.com/posts/how-hacker-rank-scores-engineers/ Comments URL: https://news.ycombinator.com/item?id=48869737 Points: 1 # Comments: 0",
+    "published_at": "2026-07-11 07:43",
+    "tags": [],
+    "fetch_date": "2026-07-11",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Meta removes controversial AI feature on Instagram after backlash",
     "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
     "source": "TechCrunch AI",
