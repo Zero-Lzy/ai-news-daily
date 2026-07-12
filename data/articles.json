@@ -1,5 +1,145 @@
 [
   {
+    "title": "TalkFitly – Practice high-EQ conversations with AI",
+    "url": "https://apps.apple.com/us/app/talkfitly/id6776912365",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://apps.apple.com/us/app/talkfitly/id6776912365 Comments URL: https://news.ycombinator.com/item?id=48877911 Points: 1 # Comments: 0",
+    "published_at": "2026-07-12 03:06",
+    "tags": [],
+    "fetch_date": "2026-07-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Reducing HBM Bottlenecks in JAX-Based LLM Training with Host Offloading",
+    "url": "https://developer.nvidia.com/blog/reducing-high-bandwidth-memory-bottlenecks-in-jax-based-llm-training-with-host-offloading/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://developer.nvidia.com/blog/reducing-high-bandwidth-memory-bottlenecks-in-jax-based-llm-training-with-host-offloading/ Comments URL: https://news.ycombinator.com/item?id=48877899 Points: 1 # Comments: 0",
+    "published_at": "2026-07-12 03:02",
+    "tags": [],
+    "fetch_date": "2026-07-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI notetakers promise easy meeting recaps, but some question their use",
+    "url": "https://apnews.com/article/ai-notetaker-work-meetings-privacy-data-c700299371ca7cfec77dafdfb948067f",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://apnews.com/article/ai-notetaker-work-meetings-privacy-data-c700299371ca7cfec77dafdfb948067f Comments URL: https://news.ycombinator.com/item?id=48877528 Points: 5 # Comments: 2",
+    "published_at": "2026-07-12 01:41",
+    "tags": [],
+    "fetch_date": "2026-07-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "I find AI roleplay therapeutic",
+    "url": "https://chatbrat.ai/bratlog/ultimate-ai-roleplay-setup-guide-memory-lorebooks",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://chatbrat.ai/bratlog/ultimate-ai-roleplay-setup-guide-memory-lorebooks Comments URL: https://news.ycombinator.com/item?id=48877439 Points: 2 # Comments: 0",
+    "published_at": "2026-07-12 01:23",
+    "tags": [],
+    "fetch_date": "2026-07-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Dismissive Dan's Review of the Overplane AI Coding Harness",
+    "url": "https://www.overplane.dev/overview/dan/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.overplane.dev/overview/dan/ Comments URL: https://news.ycombinator.com/item?id=48877337 Points: 4 # Comments: 0",
+    "published_at": "2026-07-12 01:02",
+    "tags": [],
+    "fetch_date": "2026-07-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The Human Cell Is Wildly Complex. Can AI Decode It? – Silvana Konermann – Ted [video]",
+    "url": "https://www.youtube.com/watch?v=Xr9VqRawjAU",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=Xr9VqRawjAU Comments URL: https://news.ycombinator.com/item?id=48876731 Points: 2 # Comments: 0",
+    "published_at": "2026-07-11 23:12",
+    "tags": [],
+    "fetch_date": "2026-07-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: AgentTransfer – open-source file transfer for AI agents (one Go binary)",
+    "url": "https://github.com/shehryarsaroya/agenttransfer",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/shehryarsaroya/agenttransfer Comments URL: https://news.ycombinator.com/item?id=48876610 Points: 3 # Comments: 1",
+    "published_at": "2026-07-11 22:52",
+    "tags": [],
+    "fetch_date": "2026-07-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Mesh LLM: distributed AI computing on iroh",
+    "url": "https://www.iroh.computer/blog/mesh-llm",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.iroh.computer/blog/mesh-llm Comments URL: https://news.ycombinator.com/item?id=48876505 Points: 126 # Comments: 31",
+    "published_at": "2026-07-11 22:38",
+    "tags": [],
+    "fetch_date": "2026-07-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI and Job Postings: From Destruction to Creation?",
+    "url": "https://www.hiringlab.org/2026/07/08/ai-and-job-postings-from-destruction-to-creation/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.hiringlab.org/2026/07/08/ai-and-job-postings-from-destruction-to-creation/ Comments URL: https://news.ycombinator.com/item?id=48876489 Points: 4 # Comments: 0",
+    "published_at": "2026-07-11 22:37",
+    "tags": [],
+    "fetch_date": "2026-07-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Stop Telling Me to Ask an LLM",
+    "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/ Comments URL: https://news.ycombinator.com/item?id=48876441 Points: 168 # Comments: 95",
+    "published_at": "2026-07-11 22:28",
+    "tags": [],
+    "fetch_date": "2026-07-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Token Time – Screen Time, but for your AI agent tokens",
+    "url": "https://tokentime.bar",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://tokentime.bar Comments URL: https://news.ycombinator.com/item?id=48876348 Points: 2 # Comments: 0",
+    "published_at": "2026-07-11 22:13",
+    "tags": [],
+    "fetch_date": "2026-07-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "GPT 5.6 chart analysis tool",
+    "url": "http://derac.org/gpt56charts/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: http://derac.org/gpt56charts/ Comments URL: https://news.ycombinator.com/item?id=48875895 Points: 2 # Comments: 1",
+    "published_at": "2026-07-11 21:07",
+    "tags": [],
+    "fetch_date": "2026-07-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "I built TradingSpy: local, privacy-first AI trading assistant(First Open Source)",
+    "url": "https://github.com/mrhustlex/TradingSpy-TradingAgentService",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/mrhustlex/TradingSpy-TradingAgentService Comments URL: https://news.ycombinator.com/item?id=48875678 Points: 5 # Comments: 0",
+    "published_at": "2026-07-11 20:45",
+    "tags": [],
+    "fetch_date": "2026-07-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "GPT-5.6-Sol just accidentally deleted almost ALL of my Mac's files",
+    "url": "https://xcancel.com/mattshumer_/status/2075657271401390161",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://xcancel.com/mattshumer_/status/2075657271401390161 Comments URL: https://news.ycombinator.com/item?id=48875670 Points: 5 # Comments: 1",
+    "published_at": "2026-07-11 20:44",
+    "tags": [],
+    "fetch_date": "2026-07-12",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Fable 5 made a Fireship Video for GPT 5.6 Sol",
     "url": "https://www.youtube.com/watch?v=cSsVNtGPOIg",
     "source": "Hacker News AI",
