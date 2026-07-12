@@ -1,5 +1,125 @@
 [
   {
+    "title": "The Amazon SES Alternative for AI Agents – MailKite",
+    "url": "https://mailkite.dev/blog/amazon-ses-for-ai-agents/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://mailkite.dev/blog/amazon-ses-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48880960 Points: 2 # Comments: 0",
+    "published_at": "2026-07-12 13:14",
+    "tags": [],
+    "fetch_date": "2026-07-12",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Meta's New AI Photo Tool Feature Removed",
+    "url": "https://gizmodo.com/the-public-got-so-mad-at-metas-new-ai-photo-tool-that-its-scrapped-already-2000784400",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://gizmodo.com/the-public-got-so-mad-at-metas-new-ai-photo-tool-that-its-scrapped-already-2000784400 Comments URL: https://news.ycombinator.com/item?id=48880908 Points: 2 # Comments: 1",
+    "published_at": "2026-07-12 13:09",
+    "tags": [],
+    "fetch_date": "2026-07-12",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "India's TCS plans up to 8,900 AI deployment engineers, seeks AI acquisitions",
+    "url": "https://www.channelnewsasia.com/business/indias-tata-consultancy-services-plans-up-8900-ai-deployment-engineers-seeks-ai-acquisitions-6249086",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.channelnewsasia.com/business/indias-tata-consultancy-services-plans-up-8900-ai-deployment-engineers-seeks-ai-acquisitions-6249086 Comments URL: https://news.ycombinator.com/item?id=48880764 Points: 2 # Comments: 1",
+    "published_at": "2026-07-12 12:48",
+    "tags": [],
+    "fetch_date": "2026-07-12",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "SlimeBallBench · AI models play slime soccer",
+    "url": "https://slimeballbench.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://slimeballbench.com/ Comments URL: https://news.ycombinator.com/item?id=48880686 Points: 1 # Comments: 0",
+    "published_at": "2026-07-12 12:36",
+    "tags": [],
+    "fetch_date": "2026-07-12",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Avoid codebase sloppification and AI-generated spaghetti code",
+    "url": "https://github.com/lambda-alpha-labs/Graphenium",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/lambda-alpha-labs/Graphenium Comments URL: https://news.ycombinator.com/item?id=48880444 Points: 2 # Comments: 0",
+    "published_at": "2026-07-12 11:59",
+    "tags": [],
+    "fetch_date": "2026-07-12",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Dr. Wong – an AI space for journaling and self-reflection",
+    "url": "https://www.drwongai.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.drwongai.com Comments URL: https://news.ycombinator.com/item?id=48880152 Points: 2 # Comments: 0",
+    "published_at": "2026-07-12 11:07",
+    "tags": [],
+    "fetch_date": "2026-07-12",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Scientists' Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+    "url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/ Comments URL: https://news.ycombinator.com/item?id=48880117 Points: 2 # Comments: 0",
+    "published_at": "2026-07-12 11:00",
+    "tags": [],
+    "fetch_date": "2026-07-12",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "25% long-form social media posts appear AI-generated",
+    "url": "https://www.theregister.com/ai-and-ml/2026/07/09/ai-slop-writing-has-taken-over-the-internet-particularly-linkedin-and-x/5269525",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/07/09/ai-slop-writing-has-taken-over-the-internet-particularly-linkedin-and-x/5269525 Comments URL: https://news.ycombinator.com/item?id=48880101 Points: 3 # Comments: 1",
+    "published_at": "2026-07-12 10:58",
+    "tags": [],
+    "fetch_date": "2026-07-12",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Databricks News: CLI v1.0.0, AI-tools, Docker, DABs UI sync, mutators",
+    "url": "https://medium.com/databrickscommunity/databricks-news-cli-v-1-0-0-ai-tools-last-updated-25th-may-767ef39abe8a",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://medium.com/databrickscommunity/databricks-news-cli-v-1-0-0-ai-tools-last-updated-25th-may-767ef39abe8a Comments URL: https://news.ycombinator.com/item?id=48880076 Points: 1 # Comments: 0",
+    "published_at": "2026-07-12 10:52",
+    "tags": [],
+    "fetch_date": "2026-07-12",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "An AI gateway that signs a receipt for every LLM response",
+    "url": "https://github.com/AxioRank/gateway/tree/main",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/AxioRank/gateway/tree/main Comments URL: https://news.ycombinator.com/item?id=48880034 Points: 1 # Comments: 0",
+    "published_at": "2026-07-12 10:44",
+    "tags": [],
+    "fetch_date": "2026-07-12",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Sanbox, batteries included sandboxes for AI agents",
+    "url": "https://sanbox.cloud",
+    "source": "Hacker News AI",
+    "summary": "Hi HN,We are building Sanbox, a platform for running AI agents in isolated and resumable sandboxes.We use the OpenCode SDK as the harness, support reusable templates, and have a CLI that works with Codex, Claude Code, Cursor, CI, or your terminal. Each sandbox has MicroVM isolation, a persistent filesystem, and live trail of run events. Can also self-host if required for security/compliance.It's on the roadmap to add network ACL, secrets managements, LLM cost tracking & observability.We are also",
+    "published_at": "2026-07-12 10:16",
+    "tags": [],
+    "fetch_date": "2026-07-12",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "I built an AI strength coach because I wanted my training backed by real studies",
+    "url": "https://github.com/clementrx/Performance-agent/tree/main",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/clementrx/Performance-agent/tree/main Comments URL: https://news.ycombinator.com/item?id=48879889 Points: 2 # Comments: 1",
+    "published_at": "2026-07-12 10:11",
+    "tags": [],
+    "fetch_date": "2026-07-12",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "TalkFitly – Practice high-EQ conversations with AI",
     "url": "https://apps.apple.com/us/app/talkfitly/id6776912365",
     "source": "Hacker News AI",
@@ -138,6 +258,21 @@
     "tags": [],
     "fetch_date": "2026-07-12",
     "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+    "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+    "source": "TechCrunch AI",
+    "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+    "published_at": "2026-07-11 14:13",
+    "tags": [
+      "AI",
+      "Exclusive",
+      "OpenAI",
+      "ChatGPT"
+    ],
+    "fetch_date": "2026-07-12",
+    "fetch_label": "晚报"
   },
   {
     "title": "Fable 5 made a Fireship Video for GPT 5.6 Sol",
