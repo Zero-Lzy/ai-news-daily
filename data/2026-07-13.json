@@ -133,6 +133,169 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-07-13 22:35:25",
+      "count": 16,
+      "articles": [
+        {
+          "title": "AI agents 136.5 times less efficient than conventional AI",
+          "url": "https://www.theengineer.co.uk/content/news/ai-agents-1365-times-less-efficient-than-conventional-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theengineer.co.uk/content/news/ai-agents-1365-times-less-efficient-than-conventional-ai Comments URL: https://news.ycombinator.com/item?id=48893348 Points: 1 # Comments: 0",
+          "published_at": "2026-07-13 14:32",
+          "tags": []
+        },
+        {
+          "title": "10 Languages in 3 days: field notes from localizing an AI translation product",
+          "url": "https://transept.ai/journal/localization-lessons-ten-languages",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://transept.ai/journal/localization-lessons-ten-languages Comments URL: https://news.ycombinator.com/item?id=48893314 Points: 1 # Comments: 0",
+          "published_at": "2026-07-13 14:30",
+          "tags": []
+        },
+        {
+          "title": "New method aims to keep kids safe from illegal AI-generated content",
+          "url": "https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713 Comments URL: https://news.ycombinator.com/item?id=48893301 Points: 1 # Comments: 0",
+          "published_at": "2026-07-13 14:29",
+          "tags": []
+        },
+        {
+          "title": "How are people securing their AI access to APIs?",
+          "url": "https://requestrocket.com/blog/ai-agent-access-control-landscape",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://requestrocket.com/blog/ai-agent-access-control-landscape Comments URL: https://news.ycombinator.com/item?id=48893264 Points: 1 # Comments: 0",
+          "published_at": "2026-07-13 14:27",
+          "tags": []
+        },
+        {
+          "title": "Richard Sutton Breaks Away from Keen AI to Start Oak Lab",
+          "url": "https://twitter.com/RichardSSutton/status/2076663628301058329",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://twitter.com/RichardSSutton/status/2076663628301058329 Comments URL: https://news.ycombinator.com/item?id=48893232 Points: 1 # Comments: 0",
+          "published_at": "2026-07-13 14:24",
+          "tags": []
+        },
+        {
+          "title": "LingBot-Video: An open-source MoE video foundation model for embodied AI",
+          "url": "https://github.com/robbyant/lingbot-video",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/robbyant/lingbot-video Comments URL: https://news.ycombinator.com/item?id=48893161 Points: 1 # Comments: 0",
+          "published_at": "2026-07-13 14:20",
+          "tags": []
+        },
+        {
+          "title": "Waze adds new AI-powered features and customization updates",
+          "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+          "source": "TechCrunch AI",
+          "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
+          "published_at": "2026-07-13 14:18",
+          "tags": [
+            "AI",
+            "Apps",
+            "Google",
+            "Maps",
+            "navigation",
+            "waze"
+          ]
+        },
+        {
+          "title": "The State of the AI Economy [pdf]",
+          "url": "https://intelligence.exponentialview.co/assets/ev-state-of-ai-economy-2026.pdf",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://intelligence.exponentialview.co/assets/ev-state-of-ai-economy-2026.pdf Comments URL: https://news.ycombinator.com/item?id=48893119 Points: 1 # Comments: 0",
+          "published_at": "2026-07-13 14:17",
+          "tags": []
+        },
+        {
+          "title": "Pixoate an AI Photo Editor",
+          "url": "https://pixoate.com",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://pixoate.com Comments URL: https://news.ycombinator.com/item?id=48893116 Points: 1 # Comments: 1",
+          "published_at": "2026-07-13 14:17",
+          "tags": []
+        },
+        {
+          "title": "Apple Stock Hits Record Territory as Traders Sour on AI Spending",
+          "url": "https://www.macrumors.com/2026/07/13/apple-stock-record-territory/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.macrumors.com/2026/07/13/apple-stock-record-territory/ Comments URL: https://news.ycombinator.com/item?id=48893078 Points: 1 # Comments: 1",
+          "published_at": "2026-07-13 14:14",
+          "tags": []
+        },
+        {
+          "title": "Evaluating the GPT-5.6 Family",
+          "url": "https://www.braintrust.dev/blog/gpt56-decision-map",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.braintrust.dev/blog/gpt56-decision-map Comments URL: https://news.ycombinator.com/item?id=48892988 Points: 1 # Comments: 0",
+          "published_at": "2026-07-13 14:09",
+          "tags": []
+        },
+        {
+          "title": "A litmus test for the utility of AI features",
+          "url": "https://beyondprobable.com/posts/litmus-test-ai-features.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://beyondprobable.com/posts/litmus-test-ai-features.html Comments URL: https://news.ycombinator.com/item?id=48892880 Points: 1 # Comments: 0",
+          "published_at": "2026-07-13 14:03",
+          "tags": []
+        },
+        {
+          "title": "Node0 – A P2P protocol and SDK for autonomous AI agents",
+          "url": "https://github.com/node0network/node0",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/node0network/node0 Comments URL: https://news.ycombinator.com/item?id=48892782 Points: 1 # Comments: 0",
+          "published_at": "2026-07-13 13:58",
+          "tags": []
+        },
+        {
+          "title": "Waze is getting a bunch of new AI-powered features",
+          "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+          "source": "The Verge AI",
+          "summary": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. Of the four new updates, only two are being described as involving Gemini. Waze says its updating its conversation reporting feature, first introduced in 2024, [&#8230;]",
+          "published_at": "2026-07-13 05:00",
+          "tags": [
+            "AI",
+            "Cars",
+            "Google",
+            "Tech",
+            "Transportation"
+          ]
+        },
+        {
+          "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+          "source": "The Verge AI",
+          "summary": "Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI smartglasses. [&#8230;]",
+          "published_at": "2026-07-12 16:10",
+          "tags": [
+            "AI",
+            "Entertainment",
+            "Gadgets",
+            "Meta",
+            "Music",
+            "News",
+            "Tech",
+            "Wearable"
+          ]
+        },
+        {
+          "title": "The fight against AI data centers is just beginning",
+          "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+          "source": "The Verge AI",
+          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Years before the AI boom threatened local power [&#8230;]",
+          "published_at": "2026-07-12 08:00",
+          "tags": [
+            "AI",
+            "Column",
+            "Policy",
+            "Tech",
+            "The Stepback"
+          ]
+        }
+      ]
     }
   ]
 }
