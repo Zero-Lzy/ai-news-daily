@@ -1,5 +1,190 @@
 [
   {
+    "title": "The value of AI is through the programmers",
+    "url": "https://blazordata.net/ViewBlogPost/10",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blazordata.net/ViewBlogPost/10 Comments URL: https://news.ycombinator.com/item?id=48901604 Points: 1 # Comments: 0",
+    "published_at": "2026-07-14 02:33",
+    "tags": [],
+    "fetch_date": "2026-07-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "GPT-5.6 Sol, Terra, and Luna: A Real-World Benchmark for Developers",
+    "url": "https://qainsights.com/gpt-5-6-sol-terra-and-luna-a-real-world-benchmark-for-developers/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://qainsights.com/gpt-5-6-sol-terra-and-luna-a-real-world-benchmark-for-developers/ Comments URL: https://news.ycombinator.com/item?id=48901594 Points: 1 # Comments: 0",
+    "published_at": "2026-07-14 02:31",
+    "tags": [],
+    "fetch_date": "2026-07-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Zenveil-Security scanning for AI-generated code",
+    "url": "https://zenveil.dev",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://zenveil.dev Comments URL: https://news.ycombinator.com/item?id=48901422 Points: 2 # Comments: 0",
+    "published_at": "2026-07-14 02:06",
+    "tags": [],
+    "fetch_date": "2026-07-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Georgia family says they're forced to sell home to power AI data centers",
+    "url": "https://www.cbsnews.com/news/georgia-power-ai-data-centers-eminent-domain/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.cbsnews.com/news/georgia-power-ai-data-centers-eminent-domain/ Comments URL: https://news.ycombinator.com/item?id=48901420 Points: 5 # Comments: 0",
+    "published_at": "2026-07-14 02:05",
+    "tags": [],
+    "fetch_date": "2026-07-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "#793 – GPT 5.6 Sol solves it's third Erdos Problem – Two primitives gone",
+    "url": "https://twitter.com/i/status/2076778478326653431",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/i/status/2076778478326653431 Comments URL: https://news.ycombinator.com/item?id=48901327 Points: 4 # Comments: 1",
+    "published_at": "2026-07-14 01:50",
+    "tags": [],
+    "fetch_date": "2026-07-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Melodusk – AI Music Generator and music tools in the browser",
+    "url": "https://melodusk.ai",
+    "source": "Hacker News AI",
+    "summary": "Hi HN, I built Melodusk, an AI Music Generator and collection of AI music tools that runs directly in the browser.It supports multilingual UI, generation tracking, and a simple workflow for turning prompts into usable music ideas.Would love feedback on the product, UX, and where this could be most useful. Comments URL: https://news.ycombinator.com/item?id=48901280 Points: 2 # Comments: 0",
+    "published_at": "2026-07-14 01:42",
+    "tags": [],
+    "fetch_date": "2026-07-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Building Food Metadata with LLM Juries",
+    "url": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/ Comments URL: https://news.ycombinator.com/item?id=48901275 Points: 8 # Comments: 0",
+    "published_at": "2026-07-14 01:41",
+    "tags": [],
+    "fetch_date": "2026-07-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Boom? If AI Sales in the US Go South, Let's Not Bail Out Big Money Bettors",
+    "url": "https://www.nationalmemo.com/ai-bubble-2677214150",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.nationalmemo.com/ai-bubble-2677214150 Comments URL: https://news.ycombinator.com/item?id=48901267 Points: 6 # Comments: 0",
+    "published_at": "2026-07-14 01:41",
+    "tags": [],
+    "fetch_date": "2026-07-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "SFU prof launches legal-AI collaboration with Caseway to improve justice",
+    "url": "https://www.sfu.ca/fas/computing/news-events/news/2026/january/sfu-launches-legal-ai-collaboration-with-caseway-to-improve-acce.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.sfu.ca/fas/computing/news-events/news/2026/january/sfu-launches-legal-ai-collaboration-with-caseway-to-improve-acce.html Comments URL: https://news.ycombinator.com/item?id=48900818 Points: 2 # Comments: 1",
+    "published_at": "2026-07-14 00:30",
+    "tags": [],
+    "fetch_date": "2026-07-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Made a Free LLM Router",
+    "url": "https://www.flexinference.com",
+    "source": "Hacker News AI",
+    "summary": "Hey everyone! Been working on a router that works with OpenAI, Anthropic, and Google (Gemini not Vertex), and just launched it for free.Let me know what you think. Comments URL: https://news.ycombinator.com/item?id=48900735 Points: 2 # Comments: 0",
+    "published_at": "2026-07-14 00:18",
+    "tags": [],
+    "fetch_date": "2026-07-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Customer auth for AI voice agents",
+    "url": "https://www.ringd.dev/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.ringd.dev/ Comments URL: https://news.ycombinator.com/item?id=48900608 Points: 2 # Comments: 1",
+    "published_at": "2026-07-14 00:01",
+    "tags": [],
+    "fetch_date": "2026-07-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+    "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+    "source": "TechCrunch AI",
+    "summary": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
+    "published_at": "2026-07-14 00:00",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "alibaba",
+      "pixverse",
+      "video generation"
+    ],
+    "fetch_date": "2026-07-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Tachyon: An AI Screen-Aware Tutor",
+    "url": "https://heybraza.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://heybraza.com Comments URL: https://news.ycombinator.com/item?id=48900478 Points: 2 # Comments: 0",
+    "published_at": "2026-07-13 23:44",
+    "tags": [],
+    "fetch_date": "2026-07-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+    "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+    "source": "TechCrunch AI",
+    "summary": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
+    "published_at": "2026-07-13 18:22",
+    "tags": [
+      "AI",
+      "Apple",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-07-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Sam Altman’s space data center trash talk is what most experts already believe",
+    "url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+    "source": "TechCrunch AI",
+    "summary": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\"",
+    "published_at": "2026-07-13 17:28",
+    "tags": [
+      "AI",
+      "Space",
+      "Elon Musk",
+      "sam altman",
+      "space data centers",
+      "SpaceX"
+    ],
+    "fetch_date": "2026-07-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Now, defenders are embracing the prompt injection, too",
+    "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+    "source": "ArsTechnica AI",
+    "summary": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
+    "published_at": "2026-07-13 15:06",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "Security",
+      "context bombing\\",
+      "guardrails",
+      "LLMs",
+      "prompt injections"
+    ],
+    "fetch_date": "2026-07-14",
+    "fetch_label": "早报"
+  },
+  {
     "title": "AI agents 136.5 times less efficient than conventional AI",
     "url": "https://www.theengineer.co.uk/content/news/ai-agents-1365-times-less-efficient-than-conventional-ai",
     "source": "Hacker News AI",
@@ -135,6 +320,22 @@
     "tags": [],
     "fetch_date": "2026-07-13",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
+    "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+    "source": "The Verge AI",
+    "summary": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples. That's according to a blockbuster lawsuit filed by Apple, which accuses OpenAI of stealing confidential documents, spying on hardware prototypes, and tricking one of [&#8230;]",
+    "published_at": "2026-07-13 13:00",
+    "tags": [
+      "AI",
+      "Apple",
+      "OpenAI",
+      "Report",
+      "Tech"
+    ],
+    "fetch_date": "2026-07-14",
+    "fetch_label": "早报"
   },
   {
     "title": "Waze is getting a bunch of new AI-powered features",
