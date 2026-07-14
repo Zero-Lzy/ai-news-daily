@@ -220,6 +220,154 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-07-14 21:44:57",
+      "count": 15,
+      "articles": [
+        {
+          "title": "Show HN: CrowdMind, Free app for building AI personas and testing stimuli",
+          "url": "https://github.com/Brokenwatch24/crowdmind",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/Brokenwatch24/crowdmind Comments URL: https://news.ycombinator.com/item?id=48906747 Points: 1 # Comments: 0",
+          "published_at": "2026-07-14 13:43",
+          "tags": []
+        },
+        {
+          "title": "Demis Hassabis has a plan to harness AI safely",
+          "url": "https://www.economist.com/business/2026/07/14/demis-hassabis-has-a-plan-to-harness-ai-safely",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.economist.com/business/2026/07/14/demis-hassabis-has-a-plan-to-harness-ai-safely Comments URL: https://news.ycombinator.com/item?id=48906741 Points: 1 # Comments: 0",
+          "published_at": "2026-07-14 13:43",
+          "tags": []
+        },
+        {
+          "title": "Show HN: VisualEther – Wireshark PCAPs to sequence diagrams; MCP for AI analysis",
+          "url": "https://www.eventhelix.com/visualether/case-studies/5g-nr-r16-mdt-mac-pdcp-decryption-scheduling-harq-ipsec-esp-analysis.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.eventhelix.com/visualether/case-studies/5g-nr-r16-mdt-mac-pdcp-decryption-scheduling-harq-ipsec-esp-analysis.html Comments URL: https://news.ycombinator.com/item?id=48906513 Points: 1 # Comments: 0",
+          "published_at": "2026-07-14 13:26",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: Prompting AI for black magic incantations?",
+          "url": "https://news.ycombinator.com/item?id=48906399",
+          "source": "Hacker News AI",
+          "summary": "friend told me he does't believe in it but some weird things started happening since he started doing this for fun. Anybody else with similar experiences? Comments URL: https://news.ycombinator.com/item?id=48906399 Points: 1 # Comments: 0",
+          "published_at": "2026-07-14 13:18",
+          "tags": []
+        },
+        {
+          "title": "Anthropic commits $10M to Canadian AI research",
+          "url": "https://www.anthropic.com/news/canadian-ai-research",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.anthropic.com/news/canadian-ai-research Comments URL: https://news.ycombinator.com/item?id=48906378 Points: 3 # Comments: 0",
+          "published_at": "2026-07-14 13:16",
+          "tags": []
+        },
+        {
+          "title": "Identify Skin: AI Dermatology SaaS",
+          "url": "https://identify.skin/en",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://identify.skin/en Comments URL: https://news.ycombinator.com/item?id=48906329 Points: 2 # Comments: 0",
+          "published_at": "2026-07-14 13:12",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: Any objective research on which languages are best for AI agents?",
+          "url": "https://news.ycombinator.com/item?id=48906299",
+          "source": "Hacker News AI",
+          "summary": "I keep reading articles that suggest that Rust or Go or some other language is optimal for AI development because of feature X or lack of issue Y.Has there been any actual head to head comparison of this using frontier models? Any benchmarks that purport to measure this? Comments URL: https://news.ycombinator.com/item?id=48906299 Points: 2 # Comments: 2",
+          "published_at": "2026-07-14 13:10",
+          "tags": []
+        },
+        {
+          "title": "Guardian Angels: LLM Personalization for Productivity and Security",
+          "url": "https://gwern.net/guardian-angel",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://gwern.net/guardian-angel Comments URL: https://news.ycombinator.com/item?id=48906041 Points: 3 # Comments: 0",
+          "published_at": "2026-07-14 12:50",
+          "tags": []
+        },
+        {
+          "title": "Mnemo AI – Local agentic assistant for any LLM that learns from its failures",
+          "url": "https://github.com/brunopistone/mnemoai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/brunopistone/mnemoai Comments URL: https://news.ycombinator.com/item?id=48906032 Points: 2 # Comments: 0",
+          "published_at": "2026-07-14 12:49",
+          "tags": []
+        },
+        {
+          "title": "The US-China AI arms race has taken an unexpected turn",
+          "url": "https://www.newscientist.com/article/2532952-who-is-winning-the-ai-arms-race-between-the-us-and-china/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.newscientist.com/article/2532952-who-is-winning-the-ai-arms-race-between-the-us-and-china/ Comments URL: https://news.ycombinator.com/item?id=48905845 Points: 4 # Comments: 0",
+          "published_at": "2026-07-14 12:35",
+          "tags": []
+        },
+        {
+          "title": "Lessons learned by a non-developer learning to deploy apps in production",
+          "url": "https://maximerumpler.substack.com/p/how-i-manage-ai-as-a-non-developer",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://maximerumpler.substack.com/p/how-i-manage-ai-as-a-non-developer Comments URL: https://news.ycombinator.com/item?id=48905819 Points: 2 # Comments: 0",
+          "published_at": "2026-07-14 12:32",
+          "tags": []
+        },
+        {
+          "title": "New York becomes the first state to enact a data center moratorium",
+          "url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+          "source": "The Verge AI",
+          "summary": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legislature that could restrict even more developments still awaits her signature. The order blocks new environmental permits for data [&#8230;]",
+          "published_at": "2026-07-14 05:00",
+          "tags": [
+            "AI",
+            "News",
+            "Policy"
+          ]
+        },
+        {
+          "title": "Should AI help you get away with killing your spouse?",
+          "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+          "source": "TechCrunch AI",
+          "summary": "What does a world of total user-aligned AI actually look like?",
+          "published_at": "2026-07-13 16:31",
+          "tags": [
+            "AI",
+            "alignment",
+            "George Hotz"
+          ]
+        },
+        {
+          "title": "Waze adds new AI-powered features and customization updates",
+          "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+          "source": "TechCrunch AI",
+          "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
+          "published_at": "2026-07-13 14:18",
+          "tags": [
+            "AI",
+            "Apps",
+            "Google",
+            "Maps",
+            "navigation",
+            "waze"
+          ]
+        },
+        {
+          "title": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
+          "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+          "source": "The Verge AI",
+          "summary": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples. That's according to a blockbuster lawsuit filed by Apple, which accuses OpenAI of stealing confidential documents, spying on hardware prototypes, and tricking one of [&#8230;]",
+          "published_at": "2026-07-13 13:00",
+          "tags": [
+            "AI",
+            "Apple",
+            "OpenAI",
+            "Report",
+            "Tech"
+          ]
+        }
+      ]
     }
   ]
 }
