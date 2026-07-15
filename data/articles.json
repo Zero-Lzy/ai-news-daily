@@ -1,5 +1,75 @@
 [
   {
+    "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+    "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+    "source": "TechCrunch AI",
+    "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
+    "published_at": "2026-07-15 13:10",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Startups",
+      "ai services",
+      "Anthropic",
+      "Blackstone",
+      "Exclusive",
+      "ode with anthropic"
+    ],
+    "fetch_date": "2026-07-15",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
+    "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
+    "source": "TechCrunch AI",
+    "summary": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.",
+    "published_at": "2026-07-15 13:00",
+    "tags": [
+      "AI",
+      "Apps",
+      "Social",
+      "Startups",
+      "social media",
+      "social apps",
+      "reelful"
+    ],
+    "fetch_date": "2026-07-15",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+    "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+    "source": "TechCrunch AI",
+    "summary": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
+    "published_at": "2026-07-15 12:00",
+    "tags": [
+      "AI",
+      "Startups",
+      "Claypond",
+      "Creaegis",
+      "emergent",
+      "Sentinel Global",
+      "vibe coding"
+    ],
+    "fetch_date": "2026-07-15",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+    "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+    "source": "TechCrunch AI",
+    "summary": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild.",
+    "published_at": "2026-07-15 12:00",
+    "tags": [
+      "AI",
+      "Exclusive",
+      "Vint Cerf",
+      "ai agent"
+    ],
+    "fetch_date": "2026-07-15",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Ptolemaic and LLM Architecture Compared (In 3D)",
     "url": "https://celestial-llm-mirror.vercel.app/",
     "source": "Hacker News AI",
@@ -90,6 +160,23 @@
     "fetch_label": "早报"
   },
   {
+    "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+    "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+    "source": "TechCrunch AI",
+    "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
+    "published_at": "2026-07-15 00:27",
+    "tags": [
+      "AI",
+      "Biotech & Health",
+      "Venture",
+      "drug discovery",
+      "lightspeed",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-07-15",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Ongoing changes to Android security patches due to AI vulnerability discovery",
     "url": "https://discuss.grapheneos.org/d/40286-ongoing-changes-to-android-security-patches-due-to-ai-vulnerability-discovery",
     "source": "Hacker News AI",
@@ -146,6 +233,21 @@
     "fetch_label": "早报"
   },
   {
+    "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+    "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+    "source": "TechCrunch AI",
+    "summary": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and become a physical manifestation of OpenAI’s ChatGPT.\"",
+    "published_at": "2026-07-14 22:22",
+    "tags": [
+      "AI",
+      "Apple",
+      "ChatGPT",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-07-15",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "OpenAI pushes back on Apple trade secret lawsuit",
     "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
     "source": "TechCrunch AI",
@@ -158,6 +260,84 @@
     ],
     "fetch_date": "2026-07-15",
     "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+    "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+    "source": "TechCrunch AI",
+    "summary": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
+    "published_at": "2026-07-14 21:50",
+    "tags": [
+      "AI",
+      "gpt-5.6 sol",
+      "OpenAI",
+      "openai safety"
+    ],
+    "fetch_date": "2026-07-15",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+    "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+    "source": "TechCrunch AI",
+    "summary": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software’s official launch this fall.",
+    "published_at": "2026-07-14 19:42",
+    "tags": [
+      "AI",
+      "Apps",
+      "Apple",
+      "iOS 27",
+      "siri",
+      "siri ai"
+    ],
+    "fetch_date": "2026-07-15",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Anthropic’s newest ad is creeping people out",
+    "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+    "source": "TechCrunch AI",
+    "summary": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Anthropic seem aware of the responsibility it carries — would appear to be more of the same.",
+    "published_at": "2026-07-14 19:41",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "OpenAI",
+      "sam altman"
+    ],
+    "fetch_date": "2026-07-15",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+    "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+    "source": "TechCrunch AI",
+    "summary": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release.",
+    "published_at": "2026-07-14 17:45",
+    "tags": [
+      "AI",
+      "AI regulation",
+      "DeepMind",
+      "Demis Hassabis"
+    ],
+    "fetch_date": "2026-07-15",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "OpenAI may announce a ChatGPT smart speaker this year",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+    "source": "The Verge AI",
+    "summary": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additional sensors to \"understand\" your environment. The report comes just days after Apple filed a lawsuit against OpenAI that accused [&#8230;]",
+    "published_at": "2026-07-14 17:26",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI",
+      "Speakers",
+      "Tech"
+    ],
+    "fetch_date": "2026-07-15",
+    "fetch_label": "晚报"
   },
   {
     "title": "SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage",
@@ -174,6 +354,38 @@
     ],
     "fetch_date": "2026-07-15",
     "fetch_label": "早报"
+  },
+  {
+    "title": "New York State halts construction of all new data centers",
+    "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
+    "source": "TechCrunch AI",
+    "summary": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control.",
+    "published_at": "2026-07-14 15:17",
+    "tags": [
+      "AI",
+      "Climate",
+      "data centers",
+      "new york state"
+    ],
+    "fetch_date": "2026-07-15",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The real AI race may no longer be at the frontier",
+    "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+    "source": "TechCrunch AI",
+    "summary": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?",
+    "published_at": "2026-07-14 14:24",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Clem Delangue",
+      "Hugging Face",
+      "open models",
+      "open source"
+    ],
+    "fetch_date": "2026-07-15",
+    "fetch_label": "晚报"
   },
   {
     "title": "Show HN: CrowdMind, Free app for building AI personas and testing stimuli",
@@ -300,6 +512,22 @@
     ],
     "fetch_date": "2026-07-15",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Sam Altman didn’t need another lawsuit",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
+    "source": "The Verge AI",
+    "summary": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal actions yet - from Apple. OpenAI's expensive hardware bet is what's on the line. Apple's lawsuit against OpenAI, filed in Northern [&#8230;]",
+    "published_at": "2026-07-14 10:01",
+    "tags": [
+      "AI",
+      "Apple",
+      "OpenAI",
+      "Report",
+      "Tech"
+    ],
+    "fetch_date": "2026-07-15",
+    "fetch_label": "晚报"
   },
   {
     "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
