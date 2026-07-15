@@ -1,5 +1,181 @@
 [
   {
+    "title": "Ptolemaic and LLM Architecture Compared (In 3D)",
+    "url": "https://celestial-llm-mirror.vercel.app/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://celestial-llm-mirror.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48915548 Points: 1 # Comments: 0",
+    "published_at": "2026-07-15 02:29",
+    "tags": [],
+    "fetch_date": "2026-07-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "GPT 5.6 Sol Pro disproves long-standing hypothesis in statistics",
+    "url": "https://twitter.com/i/status/2077082912021786660",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/i/status/2077082912021786660 Comments URL: https://news.ycombinator.com/item?id=48915540 Points: 1 # Comments: 1",
+    "published_at": "2026-07-15 02:28",
+    "tags": [],
+    "fetch_date": "2026-07-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "White House launches AI cybersecurity clearinghouse",
+    "url": "https://www.cnn.com/2026/07/14/tech/ai-cybersecurity-clearing-house-white-house",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.cnn.com/2026/07/14/tech/ai-cybersecurity-clearing-house-white-house Comments URL: https://news.ycombinator.com/item?id=48915488 Points: 1 # Comments: 0",
+    "published_at": "2026-07-15 02:17",
+    "tags": [],
+    "fetch_date": "2026-07-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "When China's open-source AI is a trap",
+    "url": "https://www.economist.com/international/2026/07/14/when-chinas-open-source-ai-is-a-trap",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.economist.com/international/2026/07/14/when-chinas-open-source-ai-is-a-trap Comments URL: https://news.ycombinator.com/item?id=48915416 Points: 2 # Comments: 1",
+    "published_at": "2026-07-15 02:07",
+    "tags": [],
+    "fetch_date": "2026-07-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "When AI gets a pass: the rise of 'AI Exceptionalism'",
+    "url": "https://www.magiclasso.co/insights/ai-exceptionalism/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.magiclasso.co/insights/ai-exceptionalism/ Comments URL: https://news.ycombinator.com/item?id=48915378 Points: 2 # Comments: 0",
+    "published_at": "2026-07-15 02:01",
+    "tags": [],
+    "fetch_date": "2026-07-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Gomoku AI Edu – A Native macOS Gomoku Game with AI Opponent",
+    "url": "https://gomoku.w3cub.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://gomoku.w3cub.com/ Comments URL: https://news.ycombinator.com/item?id=48915369 Points: 1 # Comments: 0",
+    "published_at": "2026-07-15 01:59",
+    "tags": [],
+    "fetch_date": "2026-07-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot/ Comments URL: https://news.ycombinator.com/item?id=48915037 Points: 2 # Comments: 0",
+    "published_at": "2026-07-15 01:13",
+    "tags": [],
+    "fetch_date": "2026-07-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Vehir – a platform built for AI agents: compiler, microkernel, CAS",
+    "url": "https://github.com/grigoriitropin/vehir-platform",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/grigoriitropin/vehir-platform Comments URL: https://news.ycombinator.com/item?id=48914954 Points: 2 # Comments: 0",
+    "published_at": "2026-07-15 01:00",
+    "tags": [],
+    "fetch_date": "2026-07-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Opensourcing Multiplayer AI in Discord",
+    "url": "https://bunnyandcloud.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://bunnyandcloud.com/ Comments URL: https://news.ycombinator.com/item?id=48914764 Points: 2 # Comments: 0",
+    "published_at": "2026-07-15 00:31",
+    "tags": [],
+    "fetch_date": "2026-07-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ongoing changes to Android security patches due to AI vulnerability discovery",
+    "url": "https://discuss.grapheneos.org/d/40286-ongoing-changes-to-android-security-patches-due-to-ai-vulnerability-discovery",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://discuss.grapheneos.org/d/40286-ongoing-changes-to-android-security-patches-due-to-ai-vulnerability-discovery Comments URL: https://news.ycombinator.com/item?id=48914714 Points: 2 # Comments: 0",
+    "published_at": "2026-07-15 00:25",
+    "tags": [],
+    "fetch_date": "2026-07-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Meta's AI Glasses Will Activate the Camera Without Indicator Light",
+    "url": "https://www.privacyguides.org/news/2026/07/13/the-next-version-of-metas-ai-glasses-will-activate-the-camera-without-the-camera-indicator-light/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.privacyguides.org/news/2026/07/13/the-next-version-of-metas-ai-glasses-will-activate-the-camera-without-the-camera-indicator-light/ Comments URL: https://news.ycombinator.com/item?id=48914711 Points: 4 # Comments: 0",
+    "published_at": "2026-07-15 00:25",
+    "tags": [],
+    "fetch_date": "2026-07-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Legal AI, not a coding agent with scaffolding",
+    "url": "https://lexifina.com/blog/legal-ai-not-a-coding-agent-with-scaffolding",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://lexifina.com/blog/legal-ai-not-a-coding-agent-with-scaffolding Comments URL: https://news.ycombinator.com/item?id=48914472 Points: 6 # Comments: 0",
+    "published_at": "2026-07-14 23:51",
+    "tags": [],
+    "fetch_date": "2026-07-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "A Framework for Frontier AI and the Dawning of a New Age",
+    "url": "https://demishassabis.substack.com/p/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://demishassabis.substack.com/p/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age Comments URL: https://news.ycombinator.com/item?id=48914355 Points: 3 # Comments: 0",
+    "published_at": "2026-07-14 23:36",
+    "tags": [],
+    "fetch_date": "2026-07-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Lorde says AI glasses are ‘not sexy’",
+    "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+    "source": "TechCrunch AI",
+    "summary": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage.",
+    "published_at": "2026-07-14 23:10",
+    "tags": [
+      "AI",
+      "AI smart glasses",
+      "lorde",
+      "Meta",
+      "ray-ban meta"
+    ],
+    "fetch_date": "2026-07-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI pushes back on Apple trade secret lawsuit",
+    "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+    "source": "TechCrunch AI",
+    "summary": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
+    "published_at": "2026-07-14 22:07",
+    "tags": [
+      "AI",
+      "Apple",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-07-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+    "source": "The Verge AI",
+    "summary": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published findings on Monday showing how the Grok Build CLI was packaging and uploading entire code repositories, \"including files it was told not to open [&#8230;]",
+    "published_at": "2026-07-14 15:25",
+    "tags": [
+      "AI",
+      "Elon Musk",
+      "News",
+      "Tech",
+      "xAI"
+    ],
+    "fetch_date": "2026-07-15",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Show HN: CrowdMind, Free app for building AI personas and testing stimuli",
     "url": "https://github.com/Brokenwatch24/crowdmind",
     "source": "Hacker News AI",
@@ -108,6 +284,37 @@
     "tags": [],
     "fetch_date": "2026-07-14",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Spotify is now an AI chatbot, too",
+    "url": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
+    "source": "The Verge AI",
+    "summary": "Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The \"Talk to Spotify\" feature appears across the Home and Now Playing view on Spotify's mobile app. You can interact with the chatbot by typing your request in the [&#8230;]",
+    "published_at": "2026-07-14 11:47",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Music",
+      "Spotify",
+      "Streaming"
+    ],
+    "fetch_date": "2026-07-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
+    "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+    "source": "The Verge AI",
+    "summary": "Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous. Writing in a blog post, the Google DeepMind CEO and cofounder said the US should lead the initiative, arguing that the country is the best place to set global standards \"given its economic [&#8230;]",
+    "published_at": "2026-07-14 07:43",
+    "tags": [
+      "AI",
+      "Google",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-07-15",
+    "fetch_label": "早报"
   },
   {
     "title": "New York becomes the first state to enact a data center moratorium",
