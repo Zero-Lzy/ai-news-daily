@@ -1,5 +1,196 @@
 [
   {
+    "title": "Local-first agent governance: keeping an AI agent contained",
+    "url": "https://vektorgeist.com/blog/local-first-agent-governance",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://vektorgeist.com/blog/local-first-agent-governance Comments URL: https://news.ycombinator.com/item?id=48929776 Points: 1 # Comments: 0",
+    "published_at": "2026-07-16 02:39",
+    "tags": [],
+    "fetch_date": "2026-07-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Is a \"Phi-Zero\" AI architecture viable for safe robotics?",
+    "url": "https://github.com/GorrihmAI/fbai-nonconscious-ai/tree/main",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/GorrihmAI/fbai-nonconscious-ai/tree/main Comments URL: https://news.ycombinator.com/item?id=48929761 Points: 2 # Comments: 1",
+    "published_at": "2026-07-16 02:36",
+    "tags": [],
+    "fetch_date": "2026-07-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Forall – An AI coding agent that generates machine-checkable proofs",
+    "url": "https://github.com/astrio-labs/forall",
+    "source": "Hacker News AI",
+    "summary": "We've been working on an open-source coding agent that generates code alongside machine-checkable proofs. We'd love feedback from the HN community, especially from people interested in formal verification, Lean, Dafny, or AI coding agents. Currently, only 3 langauges can be verified. Comments URL: https://news.ycombinator.com/item?id=48929654 Points: 2 # Comments: 0",
+    "published_at": "2026-07-16 02:16",
+    "tags": [],
+    "fetch_date": "2026-07-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "I Reimplemented the Workflows of 40 Multi-Agent LLM Papers – Here Are Lessons",
+    "url": "https://old.reddit.com/r/vibecoding/comments/1uxpox5/i_reimplemented_the_core_workflows_of_40/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://old.reddit.com/r/vibecoding/comments/1uxpox5/i_reimplemented_the_core_workflows_of_40/ Comments URL: https://news.ycombinator.com/item?id=48929623 Points: 2 # Comments: 0",
+    "published_at": "2026-07-16 02:12",
+    "tags": [],
+    "fetch_date": "2026-07-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI-generated women are spreading disinformation about Singapore on TikTok",
+    "url": "https://www.channelnewsasia.com/singapore/tiktok-ai-women-disinformation-deepfake-presenters-6250271",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.channelnewsasia.com/singapore/tiktok-ai-women-disinformation-deepfake-presenters-6250271 Comments URL: https://news.ycombinator.com/item?id=48929445 Points: 5 # Comments: 0",
+    "published_at": "2026-07-16 01:40",
+    "tags": [],
+    "fetch_date": "2026-07-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Generative AI is an Engineering Disaster",
+    "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/ Comments URL: https://news.ycombinator.com/item?id=48929167 Points: 7 # Comments: 2",
+    "published_at": "2026-07-16 00:49",
+    "tags": [],
+    "fetch_date": "2026-07-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: MasterVault: Stop your LLM's context file from growing stale",
+    "url": "https://github.com/JustMichael-80/MasterVault",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/JustMichael-80/MasterVault Comments URL: https://news.ycombinator.com/item?id=48928934 Points: 1 # Comments: 0",
+    "published_at": "2026-07-16 00:14",
+    "tags": [],
+    "fetch_date": "2026-07-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AIcss: UI Components for AI Agents",
+    "url": "https://www.aicss.dev",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.aicss.dev Comments URL: https://news.ycombinator.com/item?id=48928924 Points: 1 # Comments: 0",
+    "published_at": "2026-07-16 00:13",
+    "tags": [],
+    "fetch_date": "2026-07-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Launching cdbx.ai with 50% off Pro Plans",
+    "url": "https://cdbx.ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://cdbx.ai/ Comments URL: https://news.ycombinator.com/item?id=48928905 Points: 1 # Comments: 1",
+    "published_at": "2026-07-16 00:11",
+    "tags": [],
+    "fetch_date": "2026-07-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Linus Torvalds \"Linux is not one of those anti-AI projects\"",
+    "url": "https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/ Comments URL: https://news.ycombinator.com/item?id=48928697 Points: 12 # Comments: 2",
+    "published_at": "2026-07-15 23:44",
+    "tags": [],
+    "fetch_date": "2026-07-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Lhv.ai – Estonian bank AI integration via MCP",
+    "url": "https://lhv.ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://lhv.ai/ Comments URL: https://news.ycombinator.com/item?id=48928679 Points: 1 # Comments: 0",
+    "published_at": "2026-07-15 23:41",
+    "tags": [],
+    "fetch_date": "2026-07-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Too Old for Silicon Valley? Think Again. AI Is Changing the Math",
+    "url": "https://www.kqed.org/news/12090173/too-old-for-silicon-valley-think-again-ai-is-changing-the-math",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.kqed.org/news/12090173/too-old-for-silicon-valley-think-again-ai-is-changing-the-math Comments URL: https://news.ycombinator.com/item?id=48928462 Points: 4 # Comments: 0",
+    "published_at": "2026-07-15 23:16",
+    "tags": [],
+    "fetch_date": "2026-07-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Can AI Do RCA?",
+    "url": "https://coroot.com/blog/hard-part-of-ai-root-cause-analysis-is-no-longer-the-model/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://coroot.com/blog/hard-part-of-ai-root-cause-analysis-is-no-longer-the-model/ Comments URL: https://news.ycombinator.com/item?id=48928324 Points: 5 # Comments: 1",
+    "published_at": "2026-07-15 23:01",
+    "tags": [],
+    "fetch_date": "2026-07-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Will AI Fix Prior Authorization – Or Make It Worse?",
+    "url": "https://undark.org/2026/07/15/medicare-prior-authorization-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://undark.org/2026/07/15/medicare-prior-authorization-ai/ Comments URL: https://news.ycombinator.com/item?id=48928319 Points: 3 # Comments: 0",
+    "published_at": "2026-07-15 23:00",
+    "tags": [],
+    "fetch_date": "2026-07-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+    "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+    "source": "TechCrunch AI",
+    "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
+    "published_at": "2026-07-15 19:41",
+    "tags": [
+      "AI",
+      "Hardware",
+      "TC",
+      "codex",
+      "OpenAI",
+      "openai codex"
+    ],
+    "fetch_date": "2026-07-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+    "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+    "source": "TechCrunch AI",
+    "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
+    "published_at": "2026-07-15 15:29",
+    "tags": [
+      "AI",
+      "alibaba",
+      "Apple",
+      "Apple Intelligence",
+      "qwen"
+    ],
+    "fetch_date": "2026-07-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
+    "source": "The Verge AI",
+    "summary": "Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports. Given that Suno has avoided revealing what's in its training datasets and how they were acquired, this a rare [&#8230;]",
+    "published_at": "2026-07-15 13:48",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Law",
+      "Music",
+      "News",
+      "Policy",
+      "Tech"
+    ],
+    "fetch_date": "2026-07-16",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
     "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
     "source": "TechCrunch AI",
@@ -68,6 +259,21 @@
     ],
     "fetch_date": "2026-07-15",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "OpenAI finally launches hardware… for Codex",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+    "source": "The Verge AI",
+    "summary": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform, Codex. The device, a square-shaped block of buttons called Codex Micro, [&#8230;]",
+    "published_at": "2026-07-15 12:00",
+    "tags": [
+      "AI",
+      "Gadgets",
+      "News",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-07-16",
+    "fetch_label": "早报"
   },
   {
     "title": "Ptolemaic and LLM Architecture Compared (In 3D)",
