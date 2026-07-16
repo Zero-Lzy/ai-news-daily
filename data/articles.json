@@ -1,5 +1,37 @@
 [
   {
+    "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+    "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+    "source": "TechCrunch AI",
+    "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
+    "published_at": "2026-07-16 13:17",
+    "tags": [
+      "AI",
+      "alibaba",
+      "Apple",
+      "Apple Intelligence",
+      "In Brief",
+      "qwen"
+    ],
+    "fetch_date": "2026-07-16",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Claude can now use your 1Password credentials for you",
+    "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+    "source": "The Verge AI",
+    "summary": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking travel and managing online accounts on their behalf without having to manually input their login [&#8230;]",
+    "published_at": "2026-07-16 09:00",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-07-16",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Local-first agent governance: keeping an AI agent contained",
     "url": "https://vektorgeist.com/blog/local-first-agent-governance",
     "source": "Hacker News AI",
@@ -90,6 +122,21 @@
     "fetch_label": "早报"
   },
   {
+    "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+    "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+    "source": "TechCrunch AI",
+    "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
+    "published_at": "2026-07-15 23:59",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Microsoft",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-07-16",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Linus Torvalds \"Linux is not one of those anti-AI projects\"",
     "url": "https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/",
     "source": "Hacker News AI",
@@ -140,6 +187,20 @@
     "fetch_label": "早报"
   },
   {
+    "title": "Sheetz is quitting VMware, migrating 11,000 virtual machines",
+    "url": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
+    "source": "ArsTechnica AI",
+    "summary": "The convenience store chain will use StorMagic instead.",
+    "published_at": "2026-07-15 21:41",
+    "tags": [
+      "Biz & IT",
+      "Broadcom",
+      "vmware"
+    ],
+    "fetch_date": "2026-07-16",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
     "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
     "source": "TechCrunch AI",
@@ -155,6 +216,43 @@
     ],
     "fetch_date": "2026-07-16",
     "fetch_label": "早报"
+  },
+  {
+    "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+    "source": "The Verge AI",
+    "summary": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI claims Terry Wayne Harwood \"knowingly and intentionally used Grok to circumvent safeguards, alter nonconsensual images, and generate and distribute CSAM,\" breaching the [&#8230;]",
+    "published_at": "2026-07-15 17:33",
+    "tags": [
+      "AI",
+      "News",
+      "Policy",
+      "Tech",
+      "Twitter - X",
+      "xAI"
+    ],
+    "fetch_date": "2026-07-16",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+    "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+    "source": "TechCrunch AI",
+    "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
+    "published_at": "2026-07-15 17:00",
+    "tags": [
+      "AI",
+      "Apps",
+      "Commerce",
+      "Startups",
+      "e-commerce",
+      "Exclusive",
+      "livestream shopping",
+      "Shaped",
+      "Whatnot"
+    ],
+    "fetch_date": "2026-07-16",
+    "fetch_label": "晚报"
   },
   {
     "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
