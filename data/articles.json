@@ -1,5 +1,129 @@
 [
   {
+    "title": "Google Vids now lets you star in your own AI videos",
+    "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+    "source": "TechCrunch AI",
+    "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
+    "published_at": "2026-07-16 18:32",
+    "tags": [
+      "AI",
+      "Apps",
+      "Google",
+      "Google Vids",
+      "Video"
+    ],
+    "fetch_date": "2026-07-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+    "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+    "source": "TechCrunch AI",
+    "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
+    "published_at": "2026-07-16 18:22",
+    "tags": [
+      "AI",
+      "Apps",
+      "Gaming",
+      "Roblox"
+    ],
+    "fetch_date": "2026-07-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Google’s AI Mode now lets you link and interact with select apps",
+    "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+    "source": "TechCrunch AI",
+    "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
+    "published_at": "2026-07-16 16:00",
+    "tags": [
+      "AI",
+      "Apps",
+      "ai mode",
+      "Google"
+    ],
+    "fetch_date": "2026-07-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
+    "url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
+    "source": "ArsTechnica AI",
+    "summary": "Companies coming to market are raising money at fastest pace this century.",
+    "published_at": "2026-07-16 15:48",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "ai data centers",
+      "AI energy",
+      "energy investment",
+      "syndication"
+    ],
+    "fetch_date": "2026-07-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Yes, you can now order DoorDash from the command line",
+    "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+    "source": "TechCrunch AI",
+    "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
+    "published_at": "2026-07-16 15:38",
+    "tags": [
+      "AI",
+      "Commerce",
+      "DoorDash",
+      "eCommerce"
+    ],
+    "fetch_date": "2026-07-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Why is OpenAI selling a ChatGPT basketball?",
+    "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+    "source": "TechCrunch AI",
+    "summary": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
+    "published_at": "2026-07-16 15:31",
+    "tags": [
+      "AI",
+      "ChatGPT",
+      "Exclusive",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-07-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
+    "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+    "source": "TechCrunch AI",
+    "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
+    "published_at": "2026-07-16 14:26",
+    "tags": [
+      "AI",
+      "China",
+      "moonshot",
+      "Anthropic",
+      "In Brief"
+    ],
+    "fetch_date": "2026-07-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+    "source": "The Verge AI",
+    "summary": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lots podcast, Hochul said that her team is using \"AI to analyze every single rule, regulation, [and] policy\" to check for outdated [&#8230;]",
+    "published_at": "2026-07-16 13:58",
+    "tags": [
+      "AI",
+      "News",
+      "Policy",
+      "Politics"
+    ],
+    "fetch_date": "2026-07-17",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
     "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
     "source": "TechCrunch AI",
@@ -17,6 +141,22 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "Google is renaming NotebookLM to Gemini Notebook",
+    "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+    "source": "The Verge AI",
+    "summary": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search. Google first revealed Gemini Notebook - then called Project Tailwind - in May 2023 before widely releasing [&#8230;]",
+    "published_at": "2026-07-16 12:00",
+    "tags": [
+      "AI",
+      "Apps",
+      "Google",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-07-17",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Claude can now use your 1Password credentials for you",
     "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
     "source": "The Verge AI",
@@ -30,6 +170,22 @@
     ],
     "fetch_date": "2026-07-16",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Google ordered to open Android and Search to rivals in Europe",
+    "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+    "source": "The Verge AI",
+    "summary": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. The two decisions, handed down Thursday, could weaken Google's control over two of the tech industry's most important platforms and have [&#8230;]",
+    "published_at": "2026-07-16 08:06",
+    "tags": [
+      "AI",
+      "Google",
+      "News",
+      "Policy",
+      "Tech"
+    ],
+    "fetch_date": "2026-07-17",
+    "fetch_label": "早报"
   },
   {
     "title": "Local-first agent governance: keeping an AI agent contained",
