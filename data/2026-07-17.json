@@ -215,6 +215,203 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-07-17 21:38:44",
+      "count": 19,
+      "articles": [
+        {
+          "title": "Show HN: Hearth, an open-source local AI that runs your PC (files, apps, voice)",
+          "url": "https://github.com/0pen-Sourcer/Hearth",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/0pen-Sourcer/Hearth Comments URL: https://news.ycombinator.com/item?id=48947218 Points: 1 # Comments: 0",
+          "published_at": "2026-07-17 13:34",
+          "tags": []
+        },
+        {
+          "title": "Some Thoughts on AI and Art",
+          "url": "https://insertchaos.bearblog.dev/thoughts-on-ai-and-art/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://insertchaos.bearblog.dev/thoughts-on-ai-and-art/ Comments URL: https://news.ycombinator.com/item?id=48947170 Points: 1 # Comments: 0",
+          "published_at": "2026-07-17 13:29",
+          "tags": []
+        },
+        {
+          "title": "A multipurpose, private personal AI on a dedicated AWS instance",
+          "url": "https://purposemapped.com",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://purposemapped.com Comments URL: https://news.ycombinator.com/item?id=48947166 Points: 1 # Comments: 0",
+          "published_at": "2026-07-17 13:29",
+          "tags": []
+        },
+        {
+          "title": "The Discoverable Evidence of AI-Assisted Software Porting",
+          "url": "https://williamcotton.com/articles/the-discoverable-evidence-of-ai-assisted-software-porting",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://williamcotton.com/articles/the-discoverable-evidence-of-ai-assisted-software-porting Comments URL: https://news.ycombinator.com/item?id=48946977 Points: 1 # Comments: 0",
+          "published_at": "2026-07-17 13:08",
+          "tags": []
+        },
+        {
+          "title": "SpaceX Post-Listing Collapse Threatens IPO Market's AI Euphoria",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-16/spacex-post-listing-collapse-threatens-ipo-market-s-ai-euphoria",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-16/spacex-post-listing-collapse-threatens-ipo-market-s-ai-euphoria Comments URL: https://news.ycombinator.com/item?id=48946856 Points: 2 # Comments: 0",
+          "published_at": "2026-07-17 12:58",
+          "tags": []
+        },
+        {
+          "title": "VulnHunter: Capital One's agentic AI code security tool",
+          "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.capitalone.com/tech/open-source/announcing-vulnhunter/ Comments URL: https://news.ycombinator.com/item?id=48946692 Points: 3 # Comments: 1",
+          "published_at": "2026-07-17 12:42",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: Is the ngrok AI gateway for real?",
+          "url": "https://news.ycombinator.com/item?id=48946631",
+          "source": "Hacker News AI",
+          "summary": "What are your thoughts on the ngrok AI gateway?I just found out about it and the first impression I got was this is basically a LiteLLM wrapper, a gateway/translation layer for OpenAI requests and a dashboard.Is this an oversimplification of what that product is or not really?To me, it feels like they just needed an \"AI\" product to say that ngrok also does AI stuff too! Comments URL: https://news.ycombinator.com/item?id=48946631 Points: 1 # Comments: 0",
+          "published_at": "2026-07-17 12:36",
+          "tags": []
+        },
+        {
+          "title": "The AI may have a spot in it's Jacobian representing YOU",
+          "url": "https://author2vec.com/jlens",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://author2vec.com/jlens Comments URL: https://news.ycombinator.com/item?id=48946554 Points: 1 # Comments: 0",
+          "published_at": "2026-07-17 12:28",
+          "tags": []
+        },
+        {
+          "title": "Browser automation CLI built for AI agents",
+          "url": "https://github.com/browser-act/skills",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/browser-act/skills Comments URL: https://news.ycombinator.com/item?id=48946421 Points: 1 # Comments: 0",
+          "published_at": "2026-07-17 12:14",
+          "tags": []
+        },
+        {
+          "title": "AI isn't destroying entry-level jobs",
+          "url": "https://www.ft.com/content/6cb9570b-dccd-46f5-b42a-4d0b7b5de35a",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.ft.com/content/6cb9570b-dccd-46f5-b42a-4d0b7b5de35a Comments URL: https://news.ycombinator.com/item?id=48946409 Points: 1 # Comments: 0",
+          "published_at": "2026-07-17 12:12",
+          "tags": []
+        },
+        {
+          "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+          "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+          "source": "TechCrunch AI",
+          "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
+          "published_at": "2026-07-17 12:00",
+          "tags": [
+            "AI",
+            "Exclusive",
+            "General COmpute"
+          ]
+        },
+        {
+          "title": "50 vs. 60 Hz and Alzheimer's Disease, an AI Exploration",
+          "url": "https://github.com/mankins/50Hz-vs-60Hz-Alzheimers",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/mankins/50Hz-vs-60Hz-Alzheimers Comments URL: https://news.ycombinator.com/item?id=48946091 Points: 1 # Comments: 0",
+          "published_at": "2026-07-17 11:40",
+          "tags": []
+        },
+        {
+          "title": "Should AI usage be explicitly disclosed in movies and TV shows?",
+          "url": "https://www.unite.ai/should-ai-usage-be-explicitly-disclosed-in-movies-and-tv-shows/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.unite.ai/should-ai-usage-be-explicitly-disclosed-in-movies-and-tv-shows/ Comments URL: https://news.ycombinator.com/item?id=48946083 Points: 2 # Comments: 1",
+          "published_at": "2026-07-17 11:39",
+          "tags": []
+        },
+        {
+          "title": "Google Vids now lets you star in your own AI videos",
+          "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+          "source": "TechCrunch AI",
+          "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
+          "published_at": "2026-07-16 18:32",
+          "tags": [
+            "AI",
+            "Apps",
+            "Google",
+            "Google Vids",
+            "Video"
+          ]
+        },
+        {
+          "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
+          "url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
+          "source": "ArsTechnica AI",
+          "summary": "Companies coming to market are raising money at fastest pace this century.",
+          "published_at": "2026-07-16 15:48",
+          "tags": [
+            "AI",
+            "Biz & IT",
+            "ai data centers",
+            "AI energy",
+            "energy investment",
+            "syndication"
+          ]
+        },
+        {
+          "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
+          "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+          "source": "TechCrunch AI",
+          "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
+          "published_at": "2026-07-16 14:26",
+          "tags": [
+            "AI",
+            "China",
+            "moonshot",
+            "Anthropic",
+            "In Brief"
+          ]
+        },
+        {
+          "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+          "source": "The Verge AI",
+          "summary": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lots podcast, Hochul said that her team is using \"AI to analyze every single rule, regulation, [and] policy\" to check for outdated [&#8230;]",
+          "published_at": "2026-07-16 13:58",
+          "tags": [
+            "AI",
+            "News",
+            "Policy",
+            "Politics"
+          ]
+        },
+        {
+          "title": "Google is renaming NotebookLM to Gemini Notebook",
+          "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+          "source": "The Verge AI",
+          "summary": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search. Google first revealed Gemini Notebook - then called Project Tailwind - in May 2023 before widely releasing [&#8230;]",
+          "published_at": "2026-07-16 12:00",
+          "tags": [
+            "AI",
+            "Apps",
+            "Google",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Sheetz is quitting VMware, migrating 11,000 virtual machines",
+          "url": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
+          "source": "ArsTechnica AI",
+          "summary": "The convenience store chain will use StorMagic instead.",
+          "published_at": "2026-07-15 21:41",
+          "tags": [
+            "Biz & IT",
+            "Broadcom",
+            "vmware"
+          ]
+        }
+      ]
     }
   ]
 }

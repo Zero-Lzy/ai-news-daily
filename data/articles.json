@@ -1,5 +1,139 @@
 [
   {
+    "title": "Show HN: Hearth, an open-source local AI that runs your PC (files, apps, voice)",
+    "url": "https://github.com/0pen-Sourcer/Hearth",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/0pen-Sourcer/Hearth Comments URL: https://news.ycombinator.com/item?id=48947218 Points: 1 # Comments: 0",
+    "published_at": "2026-07-17 13:34",
+    "tags": [],
+    "fetch_date": "2026-07-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Some Thoughts on AI and Art",
+    "url": "https://insertchaos.bearblog.dev/thoughts-on-ai-and-art/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://insertchaos.bearblog.dev/thoughts-on-ai-and-art/ Comments URL: https://news.ycombinator.com/item?id=48947170 Points: 1 # Comments: 0",
+    "published_at": "2026-07-17 13:29",
+    "tags": [],
+    "fetch_date": "2026-07-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "A multipurpose, private personal AI on a dedicated AWS instance",
+    "url": "https://purposemapped.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://purposemapped.com Comments URL: https://news.ycombinator.com/item?id=48947166 Points: 1 # Comments: 0",
+    "published_at": "2026-07-17 13:29",
+    "tags": [],
+    "fetch_date": "2026-07-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The Discoverable Evidence of AI-Assisted Software Porting",
+    "url": "https://williamcotton.com/articles/the-discoverable-evidence-of-ai-assisted-software-porting",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://williamcotton.com/articles/the-discoverable-evidence-of-ai-assisted-software-porting Comments URL: https://news.ycombinator.com/item?id=48946977 Points: 1 # Comments: 0",
+    "published_at": "2026-07-17 13:08",
+    "tags": [],
+    "fetch_date": "2026-07-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "SpaceX Post-Listing Collapse Threatens IPO Market's AI Euphoria",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-16/spacex-post-listing-collapse-threatens-ipo-market-s-ai-euphoria",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-16/spacex-post-listing-collapse-threatens-ipo-market-s-ai-euphoria Comments URL: https://news.ycombinator.com/item?id=48946856 Points: 2 # Comments: 0",
+    "published_at": "2026-07-17 12:58",
+    "tags": [],
+    "fetch_date": "2026-07-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "VulnHunter: Capital One's agentic AI code security tool",
+    "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.capitalone.com/tech/open-source/announcing-vulnhunter/ Comments URL: https://news.ycombinator.com/item?id=48946692 Points: 3 # Comments: 1",
+    "published_at": "2026-07-17 12:42",
+    "tags": [],
+    "fetch_date": "2026-07-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ask HN: Is the ngrok AI gateway for real?",
+    "url": "https://news.ycombinator.com/item?id=48946631",
+    "source": "Hacker News AI",
+    "summary": "What are your thoughts on the ngrok AI gateway?I just found out about it and the first impression I got was this is basically a LiteLLM wrapper, a gateway/translation layer for OpenAI requests and a dashboard.Is this an oversimplification of what that product is or not really?To me, it feels like they just needed an \"AI\" product to say that ngrok also does AI stuff too! Comments URL: https://news.ycombinator.com/item?id=48946631 Points: 1 # Comments: 0",
+    "published_at": "2026-07-17 12:36",
+    "tags": [],
+    "fetch_date": "2026-07-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The AI may have a spot in it's Jacobian representing YOU",
+    "url": "https://author2vec.com/jlens",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://author2vec.com/jlens Comments URL: https://news.ycombinator.com/item?id=48946554 Points: 1 # Comments: 0",
+    "published_at": "2026-07-17 12:28",
+    "tags": [],
+    "fetch_date": "2026-07-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Browser automation CLI built for AI agents",
+    "url": "https://github.com/browser-act/skills",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/browser-act/skills Comments URL: https://news.ycombinator.com/item?id=48946421 Points: 1 # Comments: 0",
+    "published_at": "2026-07-17 12:14",
+    "tags": [],
+    "fetch_date": "2026-07-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI isn't destroying entry-level jobs",
+    "url": "https://www.ft.com/content/6cb9570b-dccd-46f5-b42a-4d0b7b5de35a",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.ft.com/content/6cb9570b-dccd-46f5-b42a-4d0b7b5de35a Comments URL: https://news.ycombinator.com/item?id=48946409 Points: 1 # Comments: 0",
+    "published_at": "2026-07-17 12:12",
+    "tags": [],
+    "fetch_date": "2026-07-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+    "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+    "source": "TechCrunch AI",
+    "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
+    "published_at": "2026-07-17 12:00",
+    "tags": [
+      "AI",
+      "Exclusive",
+      "General COmpute"
+    ],
+    "fetch_date": "2026-07-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "50 vs. 60 Hz and Alzheimer's Disease, an AI Exploration",
+    "url": "https://github.com/mankins/50Hz-vs-60Hz-Alzheimers",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/mankins/50Hz-vs-60Hz-Alzheimers Comments URL: https://news.ycombinator.com/item?id=48946091 Points: 1 # Comments: 0",
+    "published_at": "2026-07-17 11:40",
+    "tags": [],
+    "fetch_date": "2026-07-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Should AI usage be explicitly disclosed in movies and TV shows?",
+    "url": "https://www.unite.ai/should-ai-usage-be-explicitly-disclosed-in-movies-and-tv-shows/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.unite.ai/should-ai-usage-be-explicitly-disclosed-in-movies-and-tv-shows/ Comments URL: https://news.ycombinator.com/item?id=48946083 Points: 2 # Comments: 1",
+    "published_at": "2026-07-17 11:39",
+    "tags": [],
+    "fetch_date": "2026-07-17",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Google Vids now lets you star in your own AI videos",
     "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
     "source": "TechCrunch AI",
