@@ -1,5 +1,18 @@
 [
   {
+    "title": "Neil Rimer thinks the AI money is coming back out",
+    "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+    "source": "TechCrunch AI",
+    "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
+    "published_at": "2026-07-18 04:47",
+    "tags": [
+      "AI",
+      "Venture"
+    ],
+    "fetch_date": "2026-07-18",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "StartupForge AI – Turn Any Business Idea into a Startup Blueprint",
     "url": "https://b07ada739af0b4a7c99daf84e96b066a.ctonew.app/",
     "source": "Hacker News AI",
@@ -138,6 +151,23 @@
     "fetch_label": "早报"
   },
   {
+    "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+    "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+    "source": "TechCrunch AI",
+    "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+    "published_at": "2026-07-17 22:12",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Fundraising",
+      "Startups",
+      "TC",
+      "Databricks"
+    ],
+    "fetch_date": "2026-07-18",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Claude Fable 5 vs. Kimi K3 vs. GPT 5.6 Sol [video]",
     "url": "https://www.youtube.com/watch?v=iGNNgzUumoY",
     "source": "Hacker News AI",
@@ -146,6 +176,54 @@
     "tags": [],
     "fetch_date": "2026-07-18",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Agility Robotics plants its flag in Tesla’s backyard",
+    "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+    "source": "TechCrunch AI",
+    "summary": "Agility is opening a new training center for its Digit robots in Fremont, California.",
+    "published_at": "2026-07-17 20:19",
+    "tags": [
+      "AI",
+      "Robotics",
+      "agility robotics",
+      "Optimus",
+      "Tesla"
+    ],
+    "fetch_date": "2026-07-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI-driven memory crunch jolts India’s smartphone market",
+    "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+    "source": "TechCrunch AI",
+    "summary": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
+    "published_at": "2026-07-17 20:09",
+    "tags": [
+      "AI",
+      "Hardware",
+      "Apple",
+      "OnePlus",
+      "Samsung",
+      "smartphones"
+    ],
+    "fetch_date": "2026-07-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+    "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+    "source": "TechCrunch AI",
+    "summary": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more than 400 former Apple employees now work at the company.&#160;OpenAI&#8217;s response so far&#160;has been carefully hedged, and the timing&#160;couldn&#8217;t&#160;be worse with the company&#160;reportedly eyeing&#160;an IPO [&#8230;]",
+    "published_at": "2026-07-17 17:45",
+    "tags": [
+      "AI",
+      "Apple",
+      "openai lawsuit",
+      "Satya Nadella"
+    ],
+    "fetch_date": "2026-07-18",
+    "fetch_label": "晚报"
   },
   {
     "title": "TikTok is testing an AI likeness detection tool",
@@ -162,6 +240,20 @@
     ],
     "fetch_date": "2026-07-18",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+    "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+    "source": "TechCrunch AI",
+    "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.",
+    "published_at": "2026-07-17 15:21",
+    "tags": [
+      "AI",
+      "cloudflare",
+      "Patreon"
+    ],
+    "fetch_date": "2026-07-18",
+    "fetch_label": "晚报"
   },
   {
     "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
