@@ -1,0 +1,228 @@
+{
+  "date": "2026-07-18",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-07-18 10:44:32",
+      "count": 21,
+      "articles": [
+        {
+          "title": "StartupForge AI – Turn Any Business Idea into a Startup Blueprint",
+          "url": "https://b07ada739af0b4a7c99daf84e96b066a.ctonew.app/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://b07ada739af0b4a7c99daf84e96b066a.ctonew.app/ Comments URL: https://news.ycombinator.com/item?id=48954624 Points: 1 # Comments: 0",
+          "published_at": "2026-07-18 02:30",
+          "tags": []
+        },
+        {
+          "title": "Why Teens Deserve Access to Safe AI",
+          "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://openai.com/index/why-teens-deserve-access-safe-ai Comments URL: https://news.ycombinator.com/item?id=48954344 Points: 1 # Comments: 0",
+          "published_at": "2026-07-18 01:52",
+          "tags": []
+        },
+        {
+          "title": "AI hasn't shifted the bottleneck from coding to code review",
+          "url": "https://thenewstack.io/ai-code-bottleneck-myth/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://thenewstack.io/ai-code-bottleneck-myth/ Comments URL: https://news.ycombinator.com/item?id=48954189 Points: 3 # Comments: 1",
+          "published_at": "2026-07-18 01:20",
+          "tags": []
+        },
+        {
+          "title": "Face Value: How AI is reshaping trust, identity, and scams",
+          "url": "https://www.malwarebytes.com/ai-scams",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.malwarebytes.com/ai-scams Comments URL: https://news.ycombinator.com/item?id=48954169 Points: 2 # Comments: 0",
+          "published_at": "2026-07-18 01:17",
+          "tags": []
+        },
+        {
+          "title": "Overtraining as the path to human-like AI",
+          "url": "https://www.seangoedecke.com/overtraining-as-the-path-to-human-like-ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.seangoedecke.com/overtraining-as-the-path-to-human-like-ai/ Comments URL: https://news.ycombinator.com/item?id=48954091 Points: 2 # Comments: 0",
+          "published_at": "2026-07-18 01:03",
+          "tags": []
+        },
+        {
+          "title": "A Proposal for The Dartmouth Summer Research Project on AI (1955) [pdf]",
+          "url": "http://jmc.stanford.edu/articles/dartmouth/dartmouth.pdf",
+          "source": "Hacker News AI",
+          "summary": "Article URL: http://jmc.stanford.edu/articles/dartmouth/dartmouth.pdf Comments URL: https://news.ycombinator.com/item?id=48954022 Points: 2 # Comments: 0",
+          "published_at": "2026-07-18 00:53",
+          "tags": []
+        },
+        {
+          "title": "Aside – Reddit-like circles with AI-ranked feeds",
+          "url": "https://aside.cool/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://aside.cool/ Comments URL: https://news.ycombinator.com/item?id=48953698 Points: 2 # Comments: 0",
+          "published_at": "2026-07-18 00:01",
+          "tags": []
+        },
+        {
+          "title": "Sourced ranking of the AI infrastructure build-out",
+          "url": "https://www.capexindex.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.capexindex.com/ Comments URL: https://news.ycombinator.com/item?id=48953646 Points: 3 # Comments: 0",
+          "published_at": "2026-07-17 23:54",
+          "tags": []
+        },
+        {
+          "title": "The AI Codebase",
+          "url": "https://swapnilchauhan.com/blog/the-ai-codebase/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://swapnilchauhan.com/blog/the-ai-codebase/ Comments URL: https://news.ycombinator.com/item?id=48953461 Points: 1 # Comments: 1",
+          "published_at": "2026-07-17 23:32",
+          "tags": []
+        },
+        {
+          "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+          "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+          "source": "TechCrunch AI",
+          "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
+          "published_at": "2026-07-17 22:55",
+          "tags": [
+            "AI",
+            "Hardware",
+            "ai agent",
+            "Hermes Agent",
+            "Vertu",
+            "Vertu Alphafold",
+            "zte"
+          ]
+        },
+        {
+          "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/ Comments URL: https://news.ycombinator.com/item?id=48952880 Points: 311 # Comments: 196",
+          "published_at": "2026-07-17 22:26",
+          "tags": []
+        },
+        {
+          "title": "Netflix Paid $587M for Ben Affleck's AI Company",
+          "url": "https://www.hollywoodreporter.com/business/business-news/netflix-price-ben-affleck-ai-company-revealed-1236651217/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.hollywoodreporter.com/business/business-news/netflix-price-ben-affleck-ai-company-revealed-1236651217/ Comments URL: https://news.ycombinator.com/item?id=48952849 Points: 4 # Comments: 1",
+          "published_at": "2026-07-17 22:22",
+          "tags": []
+        },
+        {
+          "title": "Torvalds: 'AI Is a Tool, Just Like Other Tools. It's Clearly a Useful One'",
+          "url": "https://daringfireball.net/linked/2026/07/17/torvalds-on-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://daringfireball.net/linked/2026/07/17/torvalds-on-ai Comments URL: https://news.ycombinator.com/item?id=48952831 Points: 4 # Comments: 1",
+          "published_at": "2026-07-17 22:19",
+          "tags": []
+        },
+        {
+          "title": "Claude Fable 5 vs. Kimi K3 vs. GPT 5.6 Sol [video]",
+          "url": "https://www.youtube.com/watch?v=iGNNgzUumoY",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=iGNNgzUumoY Comments URL: https://news.ycombinator.com/item?id=48952729 Points: 1 # Comments: 2",
+          "published_at": "2026-07-17 22:05",
+          "tags": []
+        },
+        {
+          "title": "TikTok is testing an AI likeness detection tool",
+          "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+          "source": "The Verge AI",
+          "summary": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tested with \"some\" US creators, TikTok US spokesperson Zachary Kizer tells The Verge. YouTube has been working on a similar tool [&#8230;]",
+          "published_at": "2026-07-17 15:34",
+          "tags": [
+            "AI",
+            "Creators",
+            "News",
+            "Tech",
+            "TikTok"
+          ]
+        },
+        {
+          "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
+          "url": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+          "source": "TechCrunch AI",
+          "summary": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more than 400 former Apple employees now work at the company.&#160;OpenAI&#8217;s response so far&#160;has been carefully hedged, and the timing&#160;couldn&#8217;t&#160;be worse with the company&#160;reportedly eyeing&#160;an IPO [&#8230;]",
+          "published_at": "2026-07-17 14:00",
+          "tags": [
+            "AI",
+            "Apple",
+            "Equity podcast",
+            "openai lawsuit"
+          ]
+        },
+        {
+          "title": "Apple’s plot to crush OpenAI",
+          "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+          "source": "The Verge AI",
+          "summary": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it picking such a public fight with OpenAI? On this episode of The [&#8230;]",
+          "published_at": "2026-07-17 13:41",
+          "tags": [
+            "AI",
+            "Apple",
+            "OpenAI",
+            "Podcasts",
+            "Tech",
+            "Vergecast"
+          ]
+        },
+        {
+          "title": "Google Vids now lets you star in your own AI videos",
+          "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+          "source": "TechCrunch AI",
+          "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
+          "published_at": "2026-07-16 18:32",
+          "tags": [
+            "AI",
+            "Apps",
+            "Google",
+            "Google Vids",
+            "Video"
+          ]
+        },
+        {
+          "title": "Why is OpenAI selling a ChatGPT basketball?",
+          "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+          "source": "TechCrunch AI",
+          "summary": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
+          "published_at": "2026-07-16 15:31",
+          "tags": [
+            "AI",
+            "ChatGPT",
+            "Exclusive",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+          "source": "The Verge AI",
+          "summary": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lots podcast, Hochul said that her team is using \"AI to analyze every single rule, regulation, [and] policy\" to check for outdated [&#8230;]",
+          "published_at": "2026-07-16 13:58",
+          "tags": [
+            "AI",
+            "News",
+            "Policy",
+            "Politics"
+          ]
+        },
+        {
+          "title": "Google is renaming NotebookLM to Gemini Notebook",
+          "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+          "source": "The Verge AI",
+          "summary": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search. Google first revealed Gemini Notebook - then called Project Tailwind - in May 2023 before widely releasing [&#8230;]",
+          "published_at": "2026-07-16 12:00",
+          "tags": [
+            "AI",
+            "Apps",
+            "Google",
+            "News",
+            "Tech"
+          ]
+        }
+      ]
+    }
+  ]
+}
