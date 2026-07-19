@@ -1,5 +1,123 @@
 [
   {
+    "title": "Disney Has Started Feeding Your Kids AI Slop",
+    "url": "https://kotaku.com/disney-has-started-feeding-your-kids-ai-slop-2000717222",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://kotaku.com/disney-has-started-feeding-your-kids-ai-slop-2000717222 Comments URL: https://news.ycombinator.com/item?id=48964602 Points: 1 # Comments: 0",
+    "published_at": "2026-07-19 03:02",
+    "tags": [],
+    "fetch_date": "2026-07-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "LLM-Integrated Multivariable Calculus Course",
+    "url": "https://calculus.academa.ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://calculus.academa.ai/ Comments URL: https://news.ycombinator.com/item?id=48964585 Points: 3 # Comments: 1",
+    "published_at": "2026-07-19 02:55",
+    "tags": [],
+    "fetch_date": "2026-07-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "China cracks down on AI companions, forcing millions to break up",
+    "url": "https://www.abc.net.au/news/2026-07-19/china-cracks-down-on-artificial-intelligence-companions/106925352",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.abc.net.au/news/2026-07-19/china-cracks-down-on-artificial-intelligence-companions/106925352 Comments URL: https://news.ycombinator.com/item?id=48964310 Points: 2 # Comments: 1",
+    "published_at": "2026-07-19 01:53",
+    "tags": [],
+    "fetch_date": "2026-07-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI as Normal Technology",
+    "url": "https://knightcolumbia.org/content/ai-as-normal-technology",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://knightcolumbia.org/content/ai-as-normal-technology Comments URL: https://news.ycombinator.com/item?id=48964162 Points: 2 # Comments: 0",
+    "published_at": "2026-07-19 01:23",
+    "tags": [],
+    "fetch_date": "2026-07-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Flightwake – a flight recorder for AI coding agents, not a navigator",
+    "url": "https://github.com/kaiwutech-TW/flightwake",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/kaiwutech-TW/flightwake Comments URL: https://news.ycombinator.com/item?id=48964105 Points: 2 # Comments: 0",
+    "published_at": "2026-07-19 01:14",
+    "tags": [],
+    "fetch_date": "2026-07-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Ilya Sutskever's AI reading list into a learning RPG – using kimi k3",
+    "url": "https://ilya-papers-quest.naigap.com/#/",
+    "source": "Hacker News AI",
+    "summary": "I wanted to take kimi k3 for a spin. It turned my simple one sentence prompt to this. Repo here. https://github.com/praveer13/ilya-papers-questWell, I'm mindblown. Very humbling for me as a software engineer. Took couple hours for it to build this completely autonomously. And it was all from its mobile app.It couldn't render this though from within the app - it does have a feature to preview any website and publish it on kimi's domain - but it didn't work for this. I had to put it on github page",
+    "published_at": "2026-07-18 22:54",
+    "tags": [],
+    "fetch_date": "2026-07-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "A free PTE Core practice platform with instant AI scoring",
+    "url": "https://ptecorepractice.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://ptecorepractice.com Comments URL: https://news.ycombinator.com/item?id=48963284 Points: 1 # Comments: 1",
+    "published_at": "2026-07-18 22:54",
+    "tags": [],
+    "fetch_date": "2026-07-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Prompted to Start: How Generative AI Is Transforming Entrepreneurship [pdf]",
+    "url": "https://conference.nber.org/conf_papers/f238865.pdf",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://conference.nber.org/conf_papers/f238865.pdf Comments URL: https://news.ycombinator.com/item?id=48963066 Points: 2 # Comments: 0",
+    "published_at": "2026-07-18 22:25",
+    "tags": [],
+    "fetch_date": "2026-07-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "SafeAI – Open-Source Static AI Risk Analyzer for AI Agents",
+    "url": "https://github.com/ikaruscareer/SafeAI",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/ikaruscareer/SafeAI Comments URL: https://news.ycombinator.com/item?id=48963061 Points: 2 # Comments: 0",
+    "published_at": "2026-07-18 22:24",
+    "tags": [],
+    "fetch_date": "2026-07-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI for Bug Bounty with VulneraMCP",
+    "url": "https://www.zaproxy.org/blog/2025-11-28-enhancing-zap-with-ai-for-bug-bounty-hunting/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.zaproxy.org/blog/2025-11-28-enhancing-zap-with-ai-for-bug-bounty-hunting/ Comments URL: https://news.ycombinator.com/item?id=48962545 Points: 3 # Comments: 0",
+    "published_at": "2026-07-18 21:20",
+    "tags": [],
+    "fetch_date": "2026-07-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Kimi: Threat or menace?",
+    "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+    "source": "TechCrunch AI",
+    "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+    "published_at": "2026-07-18 18:51",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "david sacks",
+      "dean ball",
+      "kimi",
+      "moonshot ai",
+      "Travis Kalanick"
+    ],
+    "fetch_date": "2026-07-19",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Neil Rimer thinks the AI money is coming back out",
     "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
     "source": "TechCrunch AI",

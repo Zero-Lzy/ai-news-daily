@@ -1,0 +1,189 @@
+{
+  "date": "2026-07-19",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-07-19 11:13:55",
+      "count": 17,
+      "articles": [
+        {
+          "title": "Disney Has Started Feeding Your Kids AI Slop",
+          "url": "https://kotaku.com/disney-has-started-feeding-your-kids-ai-slop-2000717222",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://kotaku.com/disney-has-started-feeding-your-kids-ai-slop-2000717222 Comments URL: https://news.ycombinator.com/item?id=48964602 Points: 1 # Comments: 0",
+          "published_at": "2026-07-19 03:02",
+          "tags": []
+        },
+        {
+          "title": "LLM-Integrated Multivariable Calculus Course",
+          "url": "https://calculus.academa.ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://calculus.academa.ai/ Comments URL: https://news.ycombinator.com/item?id=48964585 Points: 3 # Comments: 1",
+          "published_at": "2026-07-19 02:55",
+          "tags": []
+        },
+        {
+          "title": "China cracks down on AI companions, forcing millions to break up",
+          "url": "https://www.abc.net.au/news/2026-07-19/china-cracks-down-on-artificial-intelligence-companions/106925352",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.abc.net.au/news/2026-07-19/china-cracks-down-on-artificial-intelligence-companions/106925352 Comments URL: https://news.ycombinator.com/item?id=48964310 Points: 2 # Comments: 1",
+          "published_at": "2026-07-19 01:53",
+          "tags": []
+        },
+        {
+          "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
+          "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/ Comments URL: https://news.ycombinator.com/item?id=48964176 Points: 1 # Comments: 1",
+          "published_at": "2026-07-19 01:26",
+          "tags": []
+        },
+        {
+          "title": "AI as Normal Technology",
+          "url": "https://knightcolumbia.org/content/ai-as-normal-technology",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://knightcolumbia.org/content/ai-as-normal-technology Comments URL: https://news.ycombinator.com/item?id=48964162 Points: 2 # Comments: 0",
+          "published_at": "2026-07-19 01:23",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Flightwake – a flight recorder for AI coding agents, not a navigator",
+          "url": "https://github.com/kaiwutech-TW/flightwake",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/kaiwutech-TW/flightwake Comments URL: https://news.ycombinator.com/item?id=48964105 Points: 2 # Comments: 0",
+          "published_at": "2026-07-19 01:14",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Ilya Sutskever's AI reading list into a learning RPG – using kimi k3",
+          "url": "https://ilya-papers-quest.naigap.com/#/",
+          "source": "Hacker News AI",
+          "summary": "I wanted to take kimi k3 for a spin. It turned my simple one sentence prompt to this. Repo here. https://github.com/praveer13/ilya-papers-questWell, I'm mindblown. Very humbling for me as a software engineer. Took couple hours for it to build this completely autonomously. And it was all from its mobile app.It couldn't render this though from within the app - it does have a feature to preview any website and publish it on kimi's domain - but it didn't work for this. I had to put it on github page",
+          "published_at": "2026-07-18 22:54",
+          "tags": []
+        },
+        {
+          "title": "A free PTE Core practice platform with instant AI scoring",
+          "url": "https://ptecorepractice.com",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://ptecorepractice.com Comments URL: https://news.ycombinator.com/item?id=48963284 Points: 1 # Comments: 1",
+          "published_at": "2026-07-18 22:54",
+          "tags": []
+        },
+        {
+          "title": "Prompted to Start: How Generative AI Is Transforming Entrepreneurship [pdf]",
+          "url": "https://conference.nber.org/conf_papers/f238865.pdf",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://conference.nber.org/conf_papers/f238865.pdf Comments URL: https://news.ycombinator.com/item?id=48963066 Points: 2 # Comments: 0",
+          "published_at": "2026-07-18 22:25",
+          "tags": []
+        },
+        {
+          "title": "SafeAI – Open-Source Static AI Risk Analyzer for AI Agents",
+          "url": "https://github.com/ikaruscareer/SafeAI",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/ikaruscareer/SafeAI Comments URL: https://news.ycombinator.com/item?id=48963061 Points: 2 # Comments: 0",
+          "published_at": "2026-07-18 22:24",
+          "tags": []
+        },
+        {
+          "title": "AI for Bug Bounty with VulneraMCP",
+          "url": "https://www.zaproxy.org/blog/2025-11-28-enhancing-zap-with-ai-for-bug-bounty-hunting/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.zaproxy.org/blog/2025-11-28-enhancing-zap-with-ai-for-bug-bounty-hunting/ Comments URL: https://news.ycombinator.com/item?id=48962545 Points: 3 # Comments: 0",
+          "published_at": "2026-07-18 21:20",
+          "tags": []
+        },
+        {
+          "title": "Kimi: Threat or menace?",
+          "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+          "source": "TechCrunch AI",
+          "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+          "published_at": "2026-07-18 18:51",
+          "tags": [
+            "AI",
+            "Government & Policy",
+            "david sacks",
+            "dean ball",
+            "kimi",
+            "moonshot ai",
+            "Travis Kalanick"
+          ]
+        },
+        {
+          "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+          "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+          "source": "TechCrunch AI",
+          "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
+          "published_at": "2026-07-17 22:55",
+          "tags": [
+            "AI",
+            "Hardware",
+            "ai agent",
+            "Hermes Agent",
+            "Vertu",
+            "Vertu Alphafold",
+            "zte"
+          ]
+        },
+        {
+          "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+          "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+          "source": "TechCrunch AI",
+          "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+          "published_at": "2026-07-17 22:12",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "Fundraising",
+            "Startups",
+            "TC",
+            "Databricks"
+          ]
+        },
+        {
+          "title": "Agility Robotics plants its flag in Tesla’s backyard",
+          "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+          "source": "TechCrunch AI",
+          "summary": "Agility is opening a new training center for its Digit robots in Fremont, California.",
+          "published_at": "2026-07-17 20:19",
+          "tags": [
+            "AI",
+            "Robotics",
+            "agility robotics",
+            "Optimus",
+            "Tesla"
+          ]
+        },
+        {
+          "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
+          "url": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+          "source": "TechCrunch AI",
+          "summary": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more than 400 former Apple employees now work at the company.&#160;OpenAI&#8217;s response so far&#160;has been carefully hedged, and the timing&#160;couldn&#8217;t&#160;be worse with the company&#160;reportedly eyeing&#160;an IPO [&#8230;]",
+          "published_at": "2026-07-17 14:00",
+          "tags": [
+            "AI",
+            "Apple",
+            "Equity podcast",
+            "openai lawsuit"
+          ]
+        },
+        {
+          "title": "Apple’s plot to crush OpenAI",
+          "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+          "source": "The Verge AI",
+          "summary": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it picking such a public fight with OpenAI? On this episode of The [&#8230;]",
+          "published_at": "2026-07-17 13:41",
+          "tags": [
+            "AI",
+            "Apple",
+            "OpenAI",
+            "Podcasts",
+            "Tech",
+            "Vergecast"
+          ]
+        }
+      ]
+    }
+  ]
+}
