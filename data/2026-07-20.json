@@ -146,6 +146,136 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-07-20 22:06:49",
+      "count": 14,
+      "articles": [
+        {
+          "title": "China bans AI \"boyfriends\" and \"girlfriends\" over addiction, birth rate concerns",
+          "url": "https://www.dexerto.com/entertainment/china-bans-ai-boyfriends-and-girlfriends-over-addiction-and-birth-rate-concerns-3388737/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.dexerto.com/entertainment/china-bans-ai-boyfriends-and-girlfriends-over-addiction-and-birth-rate-concerns-3388737/ Comments URL: https://news.ycombinator.com/item?id=48979051 Points: 1 # Comments: 0",
+          "published_at": "2026-07-20 14:04",
+          "tags": []
+        },
+        {
+          "title": "Show HN: CodeTrain – an AI tutor that refuses to write code for you",
+          "url": "https://codetrain.ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://codetrain.ai Comments URL: https://news.ycombinator.com/item?id=48979014 Points: 1 # Comments: 0",
+          "published_at": "2026-07-20 14:01",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Making 10-minute AI movies with Claude Code and Higgsfield ($200 each)",
+          "url": "https://github.com/dawndrain/movie-gen",
+          "source": "Hacker News AI",
+          "summary": "I've been working on this Claude Code pipeline for making 10-minute movies, gluing together Seedance (videogen), Nano Banana (image gen), and ElevenLabs (voice gen), and using Claude as the director. My repo contributes a markdown playbook and a worked example which should make it easier for other people to make their own short movies. A first-pass movie takes around 2.5 hours of wall clock time and costs around $200, and iterating is easy thanks to intermediate artifacts like storyboards and vo",
+          "published_at": "2026-07-20 13:57",
+          "tags": []
+        },
+        {
+          "title": "Deterministic LLM router with a cryptographic audit trail – TEIA",
+          "url": "https://github.com/felippebarcelos/teia-omega-awakening",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/felippebarcelos/teia-omega-awakening Comments URL: https://news.ycombinator.com/item?id=48978938 Points: 1 # Comments: 0",
+          "published_at": "2026-07-20 13:55",
+          "tags": []
+        },
+        {
+          "title": "Using LLM-Based Verification to Eliminate Bugs in Linux's Network Stack",
+          "url": "https://www.basis.ai/blog/verified-nftables/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.basis.ai/blog/verified-nftables/ Comments URL: https://news.ycombinator.com/item?id=48978901 Points: 1 # Comments: 0",
+          "published_at": "2026-07-20 13:52",
+          "tags": []
+        },
+        {
+          "title": "Self-Service Ransomware as Security Against Local AI Tools",
+          "url": "https://blog.brendankeaton.com/self-service-ransomware-as-security-against-local-ai-tools",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blog.brendankeaton.com/self-service-ransomware-as-security-against-local-ai-tools Comments URL: https://news.ycombinator.com/item?id=48978503 Points: 2 # Comments: 2",
+          "published_at": "2026-07-20 13:20",
+          "tags": []
+        },
+        {
+          "title": "The asymmetry problem: AI safeguards are mainly annoying to the good guys",
+          "url": "https://cephalosec.com/blog/the-asymmetry-problem-ai-safeguards-are-mostly-hindering-the-good-guys/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://cephalosec.com/blog/the-asymmetry-problem-ai-safeguards-are-mostly-hindering-the-good-guys/ Comments URL: https://news.ycombinator.com/item?id=48978353 Points: 2 # Comments: 0",
+          "published_at": "2026-07-20 13:07",
+          "tags": []
+        },
+        {
+          "title": "AgentAbstain: Do LLM Agents Know When Not to Act?",
+          "url": "https://arxiv.org/abs/2607.10059",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2607.10059 Comments URL: https://news.ycombinator.com/item?id=48978098 Points: 2 # Comments: 0",
+          "published_at": "2026-07-20 12:45",
+          "tags": []
+        },
+        {
+          "title": "Major AI models are likely to refuse criticizing restrictive leaders or govts",
+          "url": "https://apnews.com/article/artificial-intelligence-chatbots-censorship-bias-free-speech-fed8fdbf90751c10fe77b77832e0ffba",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://apnews.com/article/artificial-intelligence-chatbots-censorship-bias-free-speech-fed8fdbf90751c10fe77b77832e0ffba Comments URL: https://news.ycombinator.com/item?id=48977278 Points: 3 # Comments: 1",
+          "published_at": "2026-07-20 11:26",
+          "tags": []
+        },
+        {
+          "title": "Coercion and Deception in AI-to-AI Management: An Agentic Benchmark",
+          "url": "https://arxiv.org/abs/2607.15434",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2607.15434 Comments URL: https://news.ycombinator.com/item?id=48977134 Points: 1 # Comments: 0",
+          "published_at": "2026-07-20 11:07",
+          "tags": []
+        },
+        {
+          "title": "AI is more likely than humans to form biases when hiring",
+          "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/ Comments URL: https://news.ycombinator.com/item?id=48977081 Points: 3 # Comments: 0",
+          "published_at": "2026-07-20 11:01",
+          "tags": []
+        },
+        {
+          "title": "About AgentRQ – Human-in-loop realtime conversational task manager for AI Agents",
+          "url": "https://github.com/agentrq/agentrq",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/agentrq/agentrq Comments URL: https://news.ycombinator.com/item?id=48976998 Points: 2 # Comments: 0",
+          "published_at": "2026-07-20 10:50",
+          "tags": []
+        },
+        {
+          "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+          "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+          "source": "TechCrunch AI",
+          "summary": "\"Everybody knows the Greeks are inside.\"",
+          "published_at": "2026-07-19 14:52",
+          "tags": [
+            "AI",
+            "Media & Entertainment",
+            "christopher nolan",
+            "The Odyssey"
+          ]
+        },
+        {
+          "title": "I hate that I don’t hate this song made with Suno",
+          "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+          "source": "The Verge AI",
+          "summary": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that [&#8230;]",
+          "published_at": "2026-07-19 13:35",
+          "tags": [
+            "AI",
+            "Entertainment",
+            "Music",
+            "Report",
+            "Tech"
+          ]
+        }
+      ]
     }
   ]
 }
