@@ -1,5 +1,156 @@
 [
   {
+    "title": "Autonomous AI Intrusions Are Here: Lessons from the Hugging Face Compromise",
+    "url": "https://embracethered.com/blog/posts/2026/ai-intrusion-are-now-real/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://embracethered.com/blog/posts/2026/ai-intrusion-are-now-real/ Comments URL: https://news.ycombinator.com/item?id=48974024 Points: 1 # Comments: 0",
+    "published_at": "2026-07-20 03:24",
+    "tags": [],
+    "fetch_date": "2026-07-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The Cost and Network Limits of Space-Based AI Compute",
+    "url": "https://arxiv.org/abs/2607.14172",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2607.14172 Comments URL: https://news.ycombinator.com/item?id=48973994 Points: 1 # Comments: 0",
+    "published_at": "2026-07-20 03:17",
+    "tags": [],
+    "fetch_date": "2026-07-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Smart People in AI Published a Plan a They Expect to Be Ignored",
+    "url": "https://writing.sidharthkakkar.com/p/very-smart-people-in-ai-published",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://writing.sidharthkakkar.com/p/very-smart-people-in-ai-published Comments URL: https://news.ycombinator.com/item?id=48973877 Points: 1 # Comments: 1",
+    "published_at": "2026-07-20 02:53",
+    "tags": [],
+    "fetch_date": "2026-07-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask HN: What paid AI tools are worth it for creative tech projects?",
+    "url": "https://news.ycombinator.com/item?id=48973671",
+    "source": "Hacker News AI",
+    "summary": "Long story short, I'm a third year college student who just switched my major from biophysics(premed) to Human Technology Interaction.You can spare the advice about spending all my time learning to code, I know it's important. But for creative technologist internships, including the one I have this summer, portfolio projects matter just as much, if not more, than raw coding ability and the major change is putting me far behind on the latter.My question is: which AI subscriptions are actually wor",
+    "published_at": "2026-07-20 02:11",
+    "tags": [],
+    "fetch_date": "2026-07-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "NoWreck-A deterministic verifier for AI coding assistants",
+    "url": "https://github.com/AstralXVoid/NoWreck/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/AstralXVoid/NoWreck/ Comments URL: https://news.ycombinator.com/item?id=48973669 Points: 1 # Comments: 0",
+    "published_at": "2026-07-20 02:10",
+    "tags": [],
+    "fetch_date": "2026-07-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Website Screen Capture: Recordings Your AI Can Read",
+    "url": "https://cbrowser.ai/blog/screen-capture-recordings-your-ai-can-read/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://cbrowser.ai/blog/screen-capture-recordings-your-ai-can-read/ Comments URL: https://news.ycombinator.com/item?id=48973287 Points: 1 # Comments: 0",
+    "published_at": "2026-07-20 01:03",
+    "tags": [],
+    "fetch_date": "2026-07-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The crash that wasn't: debugging CI with AI",
+    "url": "https://abbyssoul.github.io/engineering/2026/07/19/the-crash-that-wasnt-debugging-kinjo-ci-with-ai.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://abbyssoul.github.io/engineering/2026/07/19/the-crash-that-wasnt-debugging-kinjo-ci-with-ai.html Comments URL: https://news.ycombinator.com/item?id=48973271 Points: 2 # Comments: 0",
+    "published_at": "2026-07-20 01:01",
+    "tags": [],
+    "fetch_date": "2026-07-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "DistillFeed: RSS reader with AI-ranked items and summaries",
+    "url": "https://github.com/ibaaj/distillfeed",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/ibaaj/distillfeed Comments URL: https://news.ycombinator.com/item?id=48972947 Points: 1 # Comments: 0",
+    "published_at": "2026-07-20 00:12",
+    "tags": [],
+    "fetch_date": "2026-07-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask HN: What are your favorite blogs not about AI?",
+    "url": "https://news.ycombinator.com/item?id=48972858",
+    "source": "Hacker News AI",
+    "summary": "Many of my favorite bloggers have stopped writing (or have drastically shifted topics). What are your favorite blogs?I miss the 2009 era of blogging about personal projects or super niche factoids. Comments URL: https://news.ycombinator.com/item?id=48972858 Points: 63 # Comments: 28",
+    "published_at": "2026-07-19 23:58",
+    "tags": [],
+    "fetch_date": "2026-07-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "A Scorecard for the AI Age",
+    "url": "https://openai.com/index/a-scorecard-for-the-ai-age/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://openai.com/index/a-scorecard-for-the-ai-age/ Comments URL: https://news.ycombinator.com/item?id=48972754 Points: 2 # Comments: 0",
+    "published_at": "2026-07-19 23:44",
+    "tags": [],
+    "fetch_date": "2026-07-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Compiled List of over $1000 in AI/GPU/LLM Credits (100% Free)",
+    "url": "https://sairc.vercel.app/resources",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://sairc.vercel.app/resources Comments URL: https://news.ycombinator.com/item?id=48972624 Points: 3 # Comments: 0",
+    "published_at": "2026-07-19 23:21",
+    "tags": [],
+    "fetch_date": "2026-07-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Deploy AI agent in 5 lines of code",
+    "url": "https://www.custodianlabs.io",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.custodianlabs.io Comments URL: https://news.ycombinator.com/item?id=48972442 Points: 2 # Comments: 1",
+    "published_at": "2026-07-19 22:57",
+    "tags": [],
+    "fetch_date": "2026-07-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+    "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+    "source": "TechCrunch AI",
+    "summary": "\"Everybody knows the Greeks are inside.\"",
+    "published_at": "2026-07-19 14:52",
+    "tags": [
+      "AI",
+      "Media & Entertainment",
+      "christopher nolan",
+      "The Odyssey"
+    ],
+    "fetch_date": "2026-07-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "I hate that I don’t hate this song made with Suno",
+    "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+    "source": "The Verge AI",
+    "summary": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that [&#8230;]",
+    "published_at": "2026-07-19 13:35",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Music",
+      "Report",
+      "Tech"
+    ],
+    "fetch_date": "2026-07-20",
+    "fetch_label": "早报"
+  },
+  {
     "title": "YouTube's S-CTS: The AI Slop Purge has arrived",
     "url": "https://insidethecreator.beehiiv.com/p/the-slop-purge-has-arrived",
     "source": "Hacker News AI",
@@ -35112,30 +35263,6 @@
       "OpenAI",
       "SoftBank Group International",
       "In Brief"
-    ],
-    "fetch_date": "2026-03-29",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?",
-    "url": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
-    "source": "TechCrunch AI",
-    "summary": "When an 82-year-old Kentucky woman was&#160;offered $26 million&#160;from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone&#160;2,000 acres&#160;nearby anyway, but as AI infrastructure stretches further into the real world,&#160;the real world is starting to push back.&#160; That tension is everywhere [&#8230;]",
-    "published_at": "2026-03-27 15:40",
-    "tags": [
-      "AI",
-      "Fundraising",
-      "Startups",
-      "brinc",
-      "drones",
-      "Equity podcast",
-      "Kleiner Perkins",
-      "Lucid Bots",
-      "Meta",
-      "meta lawsuit",
-      "OpenAI",
-      "sora",
-      "zipline"
     ],
     "fetch_date": "2026-03-29",
     "fetch_label": "晚报"
