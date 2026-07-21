@@ -185,6 +185,198 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-07-21 21:51:35",
+      "count": 19,
+      "articles": [
+        {
+          "title": "Show HN: Maith – open math research with AI",
+          "url": "https://github.com/clidey/maith",
+          "source": "Hacker News AI",
+          "summary": "If AI got lucky or not, AI is surely going to assist in solving serious math problems. If you want to spend your resources/weekends contributing, this repository is full of math problems where you can add your thoughts (or proofs - for you Good Will Hunting type people) for others to build on it and we all together can try to change the world of math.I have already extended the research with manual proof of Jacobian Conjecture that was posted on Twitter (with attribution). Comments URL: https://",
+          "published_at": "2026-07-21 13:35",
+          "tags": []
+        },
+        {
+          "title": "Show HN: TZRO – A Free Local AI Task Offloader",
+          "url": "https://github.com/The18thWarrior/tzro",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/The18thWarrior/tzro Comments URL: https://news.ycombinator.com/item?id=48992154 Points: 2 # Comments: 0",
+          "published_at": "2026-07-21 13:34",
+          "tags": []
+        },
+        {
+          "title": "Show HN: WiFi-LLM",
+          "url": "https://github.com/bertaye/wifi-llm",
+          "source": "Hacker News AI",
+          "summary": "Hello, while I was learning LLM Inference basics I realized with few tricks I could use my ESP32 for inference if I stream the weights only when they are needed from a host over WiFi.Speed? Really bad. Lol. But this is just a technical demo of how it can be done. I really enjoyed while coding it. It has a sliding window which allows infinite generation ( of course meaningless :) )Hope you will enjoy! Comments URL: https://news.ycombinator.com/item?id=48992123 Points: 2 # Comments: 0",
+          "published_at": "2026-07-21 13:32",
+          "tags": []
+        },
+        {
+          "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+          "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+          "source": "TechCrunch AI",
+          "summary": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June",
+          "published_at": "2026-07-21 13:27",
+          "tags": [
+            "AI",
+            "Media & Entertainment",
+            "TC",
+            "Deezer",
+            "streaming"
+          ]
+        },
+        {
+          "title": "AI physics on vacation turned into real research in quantum mechanics",
+          "url": "https://nutfieldsecurity.com/posts/ai-vacation-physics/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://nutfieldsecurity.com/posts/ai-vacation-physics/ Comments URL: https://news.ycombinator.com/item?id=48992051 Points: 1 # Comments: 0",
+          "published_at": "2026-07-21 13:26",
+          "tags": []
+        },
+        {
+          "title": "Contra George Hotz on \"AI 2040 and the Cult of Intelligence\"",
+          "url": "https://antiextinction.substack.com/p/contra-ai-2040-and-the-cult-of-intelligence",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://antiextinction.substack.com/p/contra-ai-2040-and-the-cult-of-intelligence Comments URL: https://news.ycombinator.com/item?id=48992050 Points: 1 # Comments: 0",
+          "published_at": "2026-07-21 13:26",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: To lead with, or bury, AI in product marketing",
+          "url": "https://news.ycombinator.com/item?id=48992019",
+          "source": "Hacker News AI",
+          "summary": "Howdy dear folks.Here on hackernews there seems to be very little other than AI related stories. Maybe not all too strange given the crowd who frequents this site. From what I gather the mostly positive sentiment isn't as widely shared among the general population (0: 50% of americans are more concerned than excited about the increase use of AI).How do you think about whether or not to mention, or advertise, the AI capabilities of your own products when marketing to the general population? Do yo",
+          "published_at": "2026-07-21 13:24",
+          "tags": []
+        },
+        {
+          "title": "Formal verification might solve AI's review bottleneck",
+          "url": "https://georgwiese.github.io/posts/formal-verification-ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://georgwiese.github.io/posts/formal-verification-ai/ Comments URL: https://news.ycombinator.com/item?id=48991981 Points: 4 # Comments: 0",
+          "published_at": "2026-07-21 13:21",
+          "tags": []
+        },
+        {
+          "title": "Skyfall plans to buy a small business for an AI CEO test",
+          "url": "https://runtimewire.com/article/skyfall-ai-buy-business-test-ai-ceo",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://runtimewire.com/article/skyfall-ai-buy-business-test-ai-ceo Comments URL: https://news.ycombinator.com/item?id=48991778 Points: 1 # Comments: 0",
+          "published_at": "2026-07-21 13:00",
+          "tags": []
+        },
+        {
+          "title": "The cost of AI: human and environmental harm",
+          "url": "https://psyll.com/articles/technology/ai-machine-learning/the-real-cost-of-ai-human-and-environmental-harm",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://psyll.com/articles/technology/ai-machine-learning/the-real-cost-of-ai-human-and-environmental-harm Comments URL: https://news.ycombinator.com/item?id=48991692 Points: 1 # Comments: 0",
+          "published_at": "2026-07-21 12:52",
+          "tags": []
+        },
+        {
+          "title": "Show HN: CLI tool that packages data-heavy projects into LLM context windows",
+          "url": "https://github.com/arianmokhtariha/data2prompt",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/arianmokhtariha/data2prompt Comments URL: https://news.ycombinator.com/item?id=48991652 Points: 2 # Comments: 2",
+          "published_at": "2026-07-21 12:48",
+          "tags": []
+        },
+        {
+          "title": "AI Projects with Raspberry Pi",
+          "url": "https://www.raspberrypi.com/news/ai-projects-with-raspberry-pi-out-now/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.raspberrypi.com/news/ai-projects-with-raspberry-pi-out-now/ Comments URL: https://news.ycombinator.com/item?id=48991623 Points: 1 # Comments: 0",
+          "published_at": "2026-07-21 12:46",
+          "tags": []
+        },
+        {
+          "title": "Show HN: DevFortress – open-core credential isolation for APIs and AI agents",
+          "url": "https://github.com/duncan982/devfortress-core",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/duncan982/devfortress-core Comments URL: https://news.ycombinator.com/item?id=48991619 Points: 2 # Comments: 2",
+          "published_at": "2026-07-21 12:45",
+          "tags": []
+        },
+        {
+          "title": "Alphabet shares fall on report its AI model Gemini 3.5 Pro is delayed",
+          "url": "https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html Comments URL: https://news.ycombinator.com/item?id=48991586 Points: 2 # Comments: 1",
+          "published_at": "2026-07-21 12:42",
+          "tags": []
+        },
+        {
+          "title": "US banks insulated from AI data centre downturn",
+          "url": "https://www.thebanker.com/content/db39aacf-703b-4fc2-8501-eebb5a831f0a",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.thebanker.com/content/db39aacf-703b-4fc2-8501-eebb5a831f0a Comments URL: https://news.ycombinator.com/item?id=48991310 Points: 1 # Comments: 0",
+          "published_at": "2026-07-21 12:19",
+          "tags": []
+        },
+        {
+          "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+          "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+          "source": "TechCrunch AI",
+          "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
+          "published_at": "2026-07-21 00:12",
+          "tags": [
+            "AI",
+            "Anthropic"
+          ]
+        },
+        {
+          "title": "AI’s most important protocol is getting a little bit easier to use",
+          "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+          "source": "TechCrunch AI",
+          "summary": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work.",
+          "published_at": "2026-07-20 20:50",
+          "tags": [
+            "AI",
+            "mcp"
+          ]
+        },
+        {
+          "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
+          "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+          "source": "The Verge AI",
+          "summary": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyonc&#233;'s Say My Name, and Harry Styles' As It Was. The lawsuit, filed in a New York court on Monday, claims that this [&#8230;]",
+          "published_at": "2026-07-20 18:19",
+          "tags": [
+            "AI",
+            "Copyright",
+            "Entertainment",
+            "Law",
+            "Music",
+            "News",
+            "Policy",
+            "Sony",
+            "Tech"
+          ]
+        },
+        {
+          "title": "SpaceX in your index fund, explained",
+          "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+          "source": "The Verge AI",
+          "summary": "Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like SpaceX - a giant gamble, and, in my opinion, terribly overpriced - is fast-tracked into the Nasdaq-100? Does [&#8230;]",
+          "published_at": "2026-07-20 17:00",
+          "tags": [
+            "AI",
+            "Business",
+            "Elon Musk",
+            "Report",
+            "Science",
+            "Space",
+            "SpaceX",
+            "Tech",
+            "Twitter - X",
+            "xAI"
+          ]
+        }
+      ]
     }
   ]
 }

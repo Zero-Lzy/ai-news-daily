@@ -1,5 +1,161 @@
 [
   {
+    "title": "Show HN: Maith – open math research with AI",
+    "url": "https://github.com/clidey/maith",
+    "source": "Hacker News AI",
+    "summary": "If AI got lucky or not, AI is surely going to assist in solving serious math problems. If you want to spend your resources/weekends contributing, this repository is full of math problems where you can add your thoughts (or proofs - for you Good Will Hunting type people) for others to build on it and we all together can try to change the world of math.I have already extended the research with manual proof of Jacobian Conjecture that was posted on Twitter (with attribution). Comments URL: https://",
+    "published_at": "2026-07-21 13:35",
+    "tags": [],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: TZRO – A Free Local AI Task Offloader",
+    "url": "https://github.com/The18thWarrior/tzro",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/The18thWarrior/tzro Comments URL: https://news.ycombinator.com/item?id=48992154 Points: 2 # Comments: 0",
+    "published_at": "2026-07-21 13:34",
+    "tags": [],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: WiFi-LLM",
+    "url": "https://github.com/bertaye/wifi-llm",
+    "source": "Hacker News AI",
+    "summary": "Hello, while I was learning LLM Inference basics I realized with few tricks I could use my ESP32 for inference if I stream the weights only when they are needed from a host over WiFi.Speed? Really bad. Lol. But this is just a technical demo of how it can be done. I really enjoyed while coding it. It has a sliding window which allows infinite generation ( of course meaningless :) )Hope you will enjoy! Comments URL: https://news.ycombinator.com/item?id=48992123 Points: 2 # Comments: 0",
+    "published_at": "2026-07-21 13:32",
+    "tags": [],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+    "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+    "source": "TechCrunch AI",
+    "summary": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June",
+    "published_at": "2026-07-21 13:27",
+    "tags": [
+      "AI",
+      "Media & Entertainment",
+      "TC",
+      "Deezer",
+      "streaming"
+    ],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI physics on vacation turned into real research in quantum mechanics",
+    "url": "https://nutfieldsecurity.com/posts/ai-vacation-physics/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://nutfieldsecurity.com/posts/ai-vacation-physics/ Comments URL: https://news.ycombinator.com/item?id=48992051 Points: 1 # Comments: 0",
+    "published_at": "2026-07-21 13:26",
+    "tags": [],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Contra George Hotz on \"AI 2040 and the Cult of Intelligence\"",
+    "url": "https://antiextinction.substack.com/p/contra-ai-2040-and-the-cult-of-intelligence",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://antiextinction.substack.com/p/contra-ai-2040-and-the-cult-of-intelligence Comments URL: https://news.ycombinator.com/item?id=48992050 Points: 1 # Comments: 0",
+    "published_at": "2026-07-21 13:26",
+    "tags": [],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ask HN: To lead with, or bury, AI in product marketing",
+    "url": "https://news.ycombinator.com/item?id=48992019",
+    "source": "Hacker News AI",
+    "summary": "Howdy dear folks.Here on hackernews there seems to be very little other than AI related stories. Maybe not all too strange given the crowd who frequents this site. From what I gather the mostly positive sentiment isn't as widely shared among the general population (0: 50% of americans are more concerned than excited about the increase use of AI).How do you think about whether or not to mention, or advertise, the AI capabilities of your own products when marketing to the general population? Do yo",
+    "published_at": "2026-07-21 13:24",
+    "tags": [],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Formal verification might solve AI's review bottleneck",
+    "url": "https://georgwiese.github.io/posts/formal-verification-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://georgwiese.github.io/posts/formal-verification-ai/ Comments URL: https://news.ycombinator.com/item?id=48991981 Points: 4 # Comments: 0",
+    "published_at": "2026-07-21 13:21",
+    "tags": [],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Skyfall plans to buy a small business for an AI CEO test",
+    "url": "https://runtimewire.com/article/skyfall-ai-buy-business-test-ai-ceo",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://runtimewire.com/article/skyfall-ai-buy-business-test-ai-ceo Comments URL: https://news.ycombinator.com/item?id=48991778 Points: 1 # Comments: 0",
+    "published_at": "2026-07-21 13:00",
+    "tags": [],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The cost of AI: human and environmental harm",
+    "url": "https://psyll.com/articles/technology/ai-machine-learning/the-real-cost-of-ai-human-and-environmental-harm",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://psyll.com/articles/technology/ai-machine-learning/the-real-cost-of-ai-human-and-environmental-harm Comments URL: https://news.ycombinator.com/item?id=48991692 Points: 1 # Comments: 0",
+    "published_at": "2026-07-21 12:52",
+    "tags": [],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: CLI tool that packages data-heavy projects into LLM context windows",
+    "url": "https://github.com/arianmokhtariha/data2prompt",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/arianmokhtariha/data2prompt Comments URL: https://news.ycombinator.com/item?id=48991652 Points: 2 # Comments: 2",
+    "published_at": "2026-07-21 12:48",
+    "tags": [],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Projects with Raspberry Pi",
+    "url": "https://www.raspberrypi.com/news/ai-projects-with-raspberry-pi-out-now/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.raspberrypi.com/news/ai-projects-with-raspberry-pi-out-now/ Comments URL: https://news.ycombinator.com/item?id=48991623 Points: 1 # Comments: 0",
+    "published_at": "2026-07-21 12:46",
+    "tags": [],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: DevFortress – open-core credential isolation for APIs and AI agents",
+    "url": "https://github.com/duncan982/devfortress-core",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/duncan982/devfortress-core Comments URL: https://news.ycombinator.com/item?id=48991619 Points: 2 # Comments: 2",
+    "published_at": "2026-07-21 12:45",
+    "tags": [],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Alphabet shares fall on report its AI model Gemini 3.5 Pro is delayed",
+    "url": "https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html Comments URL: https://news.ycombinator.com/item?id=48991586 Points: 2 # Comments: 1",
+    "published_at": "2026-07-21 12:42",
+    "tags": [],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "US banks insulated from AI data centre downturn",
+    "url": "https://www.thebanker.com/content/db39aacf-703b-4fc2-8501-eebb5a831f0a",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.thebanker.com/content/db39aacf-703b-4fc2-8501-eebb5a831f0a Comments URL: https://news.ycombinator.com/item?id=48991310 Points: 1 # Comments: 0",
+    "published_at": "2026-07-21 12:19",
+    "tags": [],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Cosmonapse – an event-driven protocol for AI agent systems",
     "url": "https://github.com/Cosmonapse/cosmonapse-core",
     "source": "Hacker News AI",
@@ -68,6 +224,19 @@
     "tags": [],
     "fetch_date": "2026-07-21",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+    "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+    "source": "TechCrunch AI",
+    "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
+    "published_at": "2026-07-21 00:12",
+    "tags": [
+      "AI",
+      "Anthropic"
+    ],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "晚报"
   },
   {
     "title": "How to manage AI investments in the agentic era",
@@ -143,6 +312,39 @@
     ],
     "fetch_date": "2026-07-21",
     "fetch_label": "早报"
+  },
+  {
+    "title": "AI’s most important protocol is getting a little bit easier to use",
+    "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+    "source": "TechCrunch AI",
+    "summary": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work.",
+    "published_at": "2026-07-20 20:50",
+    "tags": [
+      "AI",
+      "mcp"
+    ],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
+    "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+    "source": "The Verge AI",
+    "summary": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyonc&#233;'s Say My Name, and Harry Styles' As It Was. The lawsuit, filed in a New York court on Monday, claims that this [&#8230;]",
+    "published_at": "2026-07-20 18:19",
+    "tags": [
+      "AI",
+      "Copyright",
+      "Entertainment",
+      "Law",
+      "Music",
+      "News",
+      "Policy",
+      "Sony",
+      "Tech"
+    ],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "晚报"
   },
   {
     "title": "SpaceX in your index fund, explained",
@@ -35024,225 +35226,5 @@
     ],
     "fetch_date": "2026-03-30",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "Generative AI – Intellectual Property Cases and Policy Tracker",
-    "url": "https://www.mishcon.com/generative-ai-intellectual-property-cases-and-policy-tracker",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.mishcon.com/generative-ai-intellectual-property-cases-and-policy-tracker Comments URL: https://news.ycombinator.com/item?id=47573688 Points: 1 # Comments: 0",
-    "published_at": "2026-03-30 12:56",
-    "tags": [],
-    "fetch_date": "2026-03-30",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
-    "url": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
-    "source": "TechCrunch AI",
-    "summary": "Mistral aims to start operating the data center by the second quarter of 2026.",
-    "published_at": "2026-03-30 12:49",
-    "tags": [
-      "AI",
-      "data centers",
-      "Mistral AI",
-      "nvidia"
-    ],
-    "fetch_date": "2026-03-30",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Do AI-enabled companies need fewer people?",
-    "url": "https://seldo.com/posts/do-ai-enabled-companies-need-fewer-people/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://seldo.com/posts/do-ai-enabled-companies-need-fewer-people/ Comments URL: https://news.ycombinator.com/item?id=47573573 Points: 2 # Comments: 1",
-    "published_at": "2026-03-30 12:44",
-    "tags": [],
-    "fetch_date": "2026-03-30",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Don't Let AI Write for You",
-    "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://alexhwoods.com/dont-let-ai-write-for-you/ Comments URL: https://news.ycombinator.com/item?id=47573519 Points: 1 # Comments: 0",
-    "published_at": "2026-03-30 12:39",
-    "tags": [],
-    "fetch_date": "2026-03-30",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Qodo raises $70M for code verification as AI coding scales",
-    "url": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
-    "source": "TechCrunch AI",
-    "summary": "As AI floods software development with code, Qodo is betting the real challenge is making sure it actually works.",
-    "published_at": "2026-03-30 12:30",
-    "tags": [
-      "AI",
-      "Startups",
-      "visualead",
-      "qodo",
-      "code verification"
-    ],
-    "fetch_date": "2026-03-31",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "A survey of tools for remote AI development",
-    "url": "https://www.dgt.is/blog/2026-03-30-ai-ide/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.dgt.is/blog/2026-03-30-ai-ide/ Comments URL: https://news.ycombinator.com/item?id=47573309 Points: 1 # Comments: 0",
-    "published_at": "2026-03-30 12:17",
-    "tags": [],
-    "fetch_date": "2026-03-30",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "customermates.com – AI-first, Open-source, self-hostable CRM",
-    "url": "https://github.com/customermates/customermates",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/customermates/customermates Comments URL: https://news.ycombinator.com/item?id=47573305 Points: 1 # Comments: 1",
-    "published_at": "2026-03-30 12:16",
-    "tags": [],
-    "fetch_date": "2026-03-30",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "China's DeepSeek AI chatbot suffers longest outage",
-    "url": "https://www.reuters.com/technology/chinas-deepseek-ai-chatbot-suffers-longest-outage-since-viral-rise-early-2025-2026-03-30/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.reuters.com/technology/chinas-deepseek-ai-chatbot-suffers-longest-outage-since-viral-rise-early-2025-2026-03-30/ Comments URL: https://news.ycombinator.com/item?id=47573193 Points: 2 # Comments: 2",
-    "published_at": "2026-03-30 12:05",
-    "tags": [],
-    "fetch_date": "2026-03-30",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI systems fail when they don't control what they're allowed to know",
-    "url": "https://heavythoughtcloud.com/knowledge/retrieval-boundaries-in-ai-systems",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://heavythoughtcloud.com/knowledge/retrieval-boundaries-in-ai-systems Comments URL: https://news.ycombinator.com/item?id=47573136 Points: 1 # Comments: 0",
-    "published_at": "2026-03-30 11:59",
-    "tags": [],
-    "fetch_date": "2026-03-30",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Agents Still Need Passwords: Three Approaches to Credential Security",
-    "url": "https://techstackups.com/guides/unsolved-problem-ai-agent-security-passwords/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://techstackups.com/guides/unsolved-problem-ai-agent-security-passwords/ Comments URL: https://news.ycombinator.com/item?id=47573123 Points: 1 # Comments: 0",
-    "published_at": "2026-03-30 11:57",
-    "tags": [],
-    "fetch_date": "2026-03-30",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Kingdom Come: Deliverance 2 studio fired translator to replace them with AI",
-    "url": "https://www.eurogamer.net/new-report-claims-kingdom-come-deliverance-2-studio-fired-translator-to-replace-them-with-ai-and-save-finances",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.eurogamer.net/new-report-claims-kingdom-come-deliverance-2-studio-fired-translator-to-replace-them-with-ai-and-save-finances Comments URL: https://news.ycombinator.com/item?id=47573084 Points: 3 # Comments: 0",
-    "published_at": "2026-03-30 11:52",
-    "tags": [],
-    "fetch_date": "2026-03-30",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Okta&#8217;s CEO is betting big on AI agent identity",
-    "url": "https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity",
-    "source": "The Verge AI",
-    "summary": "Today, I’m talking with Todd McKinnon, who is co-founder and CEO of Okta, a platform that lets big companies manage security and identity across all the apps and services their employees use. Think of it like login management — actually, that’s a great way to think about it because the way most people encounter Okta [&#8230;]",
-    "published_at": "2026-03-30 11:15",
-    "tags": [
-      "AI",
-      "Decoder",
-      "Podcasts",
-      "Security",
-      "Tech"
-    ],
-    "fetch_date": "2026-03-31",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Starcloud raises $170 million Series A to build data centers in space",
-    "url": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
-    "source": "TechCrunch AI",
-    "summary": "Starcloud becomes the fastest Y Combinator startup to reach unicorn status, just 17 months after demo day.",
-    "published_at": "2026-03-30 11:00",
-    "tags": [
-      "AI",
-      "Space"
-    ],
-    "fetch_date": "2026-03-30",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Why OpenAI really shut down Sora",
-    "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
-    "source": "TechCrunch AI",
-    "summary": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public, raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?",
-    "published_at": "2026-03-30 03:09",
-    "tags": [
-      "AI",
-      "TC",
-      "In Brief",
-      "OpenAI",
-      "sora"
-    ],
-    "fetch_date": "2026-03-31",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "All the latest in AI &#8216;music&#8217;",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit",
-    "source": "The Verge AI",
-    "summary": "AI has touched every part of the music industry, from sample sourcing and demo recording, to serving up digital liner notes and building playlists. There are technical and legal challenges, fierce ethical debates, and fears that the slop will simply crush working musicians through sheer volume. Is it art or just an output? What exactly [&#8230;]",
-    "published_at": "2026-03-29 21:32",
-    "tags": [
-      "AI",
-      "Entertainment",
-      "Music"
-    ],
-    "fetch_date": "2026-03-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Bluesky’s new app is an AI for customizing your feed",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
-    "source": "The Verge AI",
-    "summary": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unveiled Attie, which is powered by Anthropic's Claude and built on top of Bluesky's underlying AT Protocol (atproto). Attie allows users to [&#8230;]",
-    "published_at": "2026-03-29 17:44",
-    "tags": [
-      "AI",
-      "News",
-      "Social Media",
-      "Tech"
-    ],
-    "fetch_date": "2026-03-30",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Sora’s shutdown could be a reality check moment for AI video",
-    "url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
-    "source": "TechCrunch AI",
-    "summary": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
-    "published_at": "2026-03-29 16:30",
-    "tags": [
-      "AI",
-      "Media & Entertainment",
-      "Equity podcast",
-      "OpenAI"
-    ],
-    "fetch_date": "2026-03-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Will the AI data centre boom become a $9T bust?",
-    "url": "https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723 Comments URL: https://news.ycombinator.com/item?id=47559948 Points: 3 # Comments: 0",
-    "published_at": "2026-03-29 02:35",
-    "tags": [],
-    "fetch_date": "2026-03-29",
-    "fetch_label": "早报"
   }
 ]
