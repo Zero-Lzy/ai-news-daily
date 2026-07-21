@@ -1,5 +1,171 @@
 [
   {
+    "title": "Cosmonapse – an event-driven protocol for AI agent systems",
+    "url": "https://github.com/Cosmonapse/cosmonapse-core",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/Cosmonapse/cosmonapse-core Comments URL: https://news.ycombinator.com/item?id=48987399 Points: 1 # Comments: 0",
+    "published_at": "2026-07-21 02:35",
+    "tags": [],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Concentrate: LLM Gateway",
+    "url": "https://concentrate.ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://concentrate.ai Comments URL: https://news.ycombinator.com/item?id=48987271 Points: 1 # Comments: 0",
+    "published_at": "2026-07-21 02:12",
+    "tags": [],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: AI meeting notes – no bot, insights and answers from your files (BYOK)",
+    "url": "https://getaiassist.app/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://getaiassist.app/ Comments URL: https://news.ycombinator.com/item?id=48987241 Points: 1 # Comments: 0",
+    "published_at": "2026-07-21 02:08",
+    "tags": [],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Cairn|personal finance your own AI can read over MCP, read-only by construction",
+    "url": "https://cairn.nnnsightnnn.com/dashboard",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://cairn.nnnsightnnn.com/dashboard Comments URL: https://news.ycombinator.com/item?id=48986978 Points: 2 # Comments: 0",
+    "published_at": "2026-07-21 01:15",
+    "tags": [],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Agent Search Engine – an independent index of 247 AI agents",
+    "url": "https://agentsearchengine.app",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://agentsearchengine.app Comments URL: https://news.ycombinator.com/item?id=48986800 Points: 1 # Comments: 0",
+    "published_at": "2026-07-21 00:46",
+    "tags": [],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Flathub's AI slop ban looks like it was the right call",
+    "url": "https://www.omgubuntu.co.uk/2026/07/flathub-ai-slop-ban-data",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.omgubuntu.co.uk/2026/07/flathub-ai-slop-ban-data Comments URL: https://news.ycombinator.com/item?id=48986787 Points: 6 # Comments: 0",
+    "published_at": "2026-07-21 00:44",
+    "tags": [],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "A Meta-Epistemological Reason for Rejecting AI-Written Philosophy",
+    "url": "https://dailynous.com/2026/07/16/a-meta-epistemological-reason-for-rejecting-ai-written-philosophy/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://dailynous.com/2026/07/16/a-meta-epistemological-reason-for-rejecting-ai-written-philosophy/ Comments URL: https://news.ycombinator.com/item?id=48986758 Points: 1 # Comments: 0",
+    "published_at": "2026-07-21 00:38",
+    "tags": [],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "How to manage AI investments in the agentic era",
+    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://openai.com/index/managing-ai-investments-in-agentic-era/ Comments URL: https://news.ycombinator.com/item?id=48986550 Points: 1 # Comments: 0",
+    "published_at": "2026-07-21 00:09",
+    "tags": [],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "How Does an LLM Request and Response Cycle Work? A Full Walkthrough",
+    "url": "https://qainsights.com/how-does-an-llm-request-and-response-cycle-work-a-full-walkthrough/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://qainsights.com/how-does-an-llm-request-and-response-cycle-work-a-full-walkthrough/ Comments URL: https://news.ycombinator.com/item?id=48986298 Points: 2 # Comments: 1",
+    "published_at": "2026-07-20 23:38",
+    "tags": [],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Sealed secret execution for AI agents",
+    "url": "https://ironrun.dev/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://ironrun.dev/ Comments URL: https://news.ycombinator.com/item?id=48986254 Points: 1 # Comments: 0",
+    "published_at": "2026-07-20 23:33",
+    "tags": [],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Is Open Weight AI Decelerationist?",
+    "url": "https://fragileequilibrium.substack.com/p/is-open-weight-ai-decelerationist",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://fragileequilibrium.substack.com/p/is-open-weight-ai-decelerationist Comments URL: https://news.ycombinator.com/item?id=48986084 Points: 4 # Comments: 1",
+    "published_at": "2026-07-20 23:14",
+    "tags": [],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI consciousness is a red herring in the safety debate",
+    "url": "https://www.theguardian.com/technology/2026/jan/06/ai-consciousness-is-a-red-herring-in-the-safety-debate",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/jan/06/ai-consciousness-is-a-red-herring-in-the-safety-debate Comments URL: https://news.ycombinator.com/item?id=48986026 Points: 8 # Comments: 0",
+    "published_at": "2026-07-20 23:08",
+    "tags": [],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Colibrì proof-of-concept gains frontier-level 1.5-TB AI model",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/colibri-proof-of-concept-gains-frontier-level-1-5-tb-ai-model-novel-approach-runs-on-only-25gb-of-ram-and-shows-promise-for-local-ai-setups",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/colibri-proof-of-concept-gains-frontier-level-1-5-tb-ai-model-novel-approach-runs-on-only-25gb-of-ram-and-shows-promise-for-local-ai-setups Comments URL: https://news.ycombinator.com/item?id=48985942 Points: 1 # Comments: 0",
+    "published_at": "2026-07-20 22:58",
+    "tags": [],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Trump’s latest AI czar has already resigned",
+    "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+    "source": "TechCrunch AI",
+    "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
+    "published_at": "2026-07-20 22:21",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "TC",
+      "ai czar"
+    ],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "SpaceX in your index fund, explained",
+    "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+    "source": "The Verge AI",
+    "summary": "Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like SpaceX - a giant gamble, and, in my opinion, terribly overpriced - is fast-tracked into the Nasdaq-100? Does [&#8230;]",
+    "published_at": "2026-07-20 17:00",
+    "tags": [
+      "AI",
+      "Business",
+      "Elon Musk",
+      "Report",
+      "Science",
+      "Space",
+      "SpaceX",
+      "Tech",
+      "Twitter - X",
+      "xAI"
+    ],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "早报"
+  },
+  {
     "title": "China bans AI \"boyfriends\" and \"girlfriends\" over addiction, birth rate concerns",
     "url": "https://www.dexerto.com/entertainment/china-bans-ai-boyfriends-and-girlfriends-over-addiction-and-birth-rate-concerns-3388737/",
     "source": "Hacker News AI",
@@ -68,6 +234,23 @@
     "tags": [],
     "fetch_date": "2026-07-20",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
+    "url": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+    "source": "The Verge AI",
+    "summary": "Adobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a \"more natural (SLR-like) look\" for iPhone photography, the Indigo camera app is now being updated with a suite of generative AI tools. And the change doesn't rely upon Adobe's own Firefly AI models. Adobe describes the [&#8230;]",
+    "published_at": "2026-07-20 12:00",
+    "tags": [
+      "Adobe",
+      "AI",
+      "Cameras",
+      "Creators",
+      "Gadgets",
+      "Tech"
+    ],
+    "fetch_date": "2026-07-21",
+    "fetch_label": "早报"
   },
   {
     "title": "Major AI models are likely to refuse criticizing restrictive leaders or govts",
@@ -35061,173 +35244,5 @@
     "tags": [],
     "fetch_date": "2026-03-29",
     "fetch_label": "早报"
-  },
-  {
-    "title": "Can AI Exit Vim?",
-    "url": "https://theadamcolton.github.io/can-ai-exit-vim",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://theadamcolton.github.io/can-ai-exit-vim Comments URL: https://news.ycombinator.com/item?id=47559788 Points: 2 # Comments: 2",
-    "published_at": "2026-03-29 01:52",
-    "tags": [],
-    "fetch_date": "2026-03-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Social media is populist and polarising; AI may be the opposite",
-    "url": "https://www.ft.com/content/3880176e-d3ac-4311-9052-fdfeaed56a0e",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.ft.com/content/3880176e-d3ac-4311-9052-fdfeaed56a0e Comments URL: https://news.ycombinator.com/item?id=47559506 Points: 1 # Comments: 1",
-    "published_at": "2026-03-29 00:58",
-    "tags": [],
-    "fetch_date": "2026-03-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Anamnesis – Open-source 4D strategic memory engine for AI agents",
-    "url": "https://github.com/gayawellness/anamnesis",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/gayawellness/anamnesis Comments URL: https://news.ycombinator.com/item?id=47559504 Points: 2 # Comments: 0",
-    "published_at": "2026-03-29 00:58",
-    "tags": [],
-    "fetch_date": "2026-03-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Generative AI Can Harm Learning (2024)",
-    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486 Comments URL: https://news.ycombinator.com/item?id=47559035 Points: 6 # Comments: 0",
-    "published_at": "2026-03-28 23:34",
-    "tags": [],
-    "fetch_date": "2026-03-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Attie.ai",
-    "url": "https://attie.ai/login",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://attie.ai/login Comments URL: https://news.ycombinator.com/item?id=47559026 Points: 6 # Comments: 0",
-    "published_at": "2026-03-28 23:33",
-    "tags": [],
-    "fetch_date": "2026-03-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
-    "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
-    "source": "TechCrunch AI",
-    "summary": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
-    "published_at": "2026-03-28 23:00",
-    "tags": [
-      "TC",
-      "AI",
-      "Apps",
-      "Social",
-      "social media",
-      "Bluesky",
-      "ai apps"
-    ],
-    "fetch_date": "2026-03-29",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The Decadelong Feud Shaping the Future of AI",
-    "url": "https://www.wsj.com/tech/ai/the-decadelong-feud-shaping-the-future-of-ai-7075acde",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/the-decadelong-feud-shaping-the-future-of-ai-7075acde Comments URL: https://news.ycombinator.com/item?id=47558799 Points: 2 # Comments: 0",
-    "published_at": "2026-03-28 22:55",
-    "tags": [],
-    "fetch_date": "2026-03-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "RimWorld: A sci-fi colony SIM driven by an intelligent AI storyteller",
-    "url": "https://store.steampowered.com/app/294100/RimWorld/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://store.steampowered.com/app/294100/RimWorld/ Comments URL: https://news.ycombinator.com/item?id=47558798 Points: 6 # Comments: 0",
-    "published_at": "2026-03-28 22:55",
-    "tags": [],
-    "fetch_date": "2026-03-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Why AI Companies Want to Take Control of Your Computer",
-    "url": "https://nymag.com/intelligencer/article/why-ai-agents-anthropic-claude-want-to-take-control-of-your-computer.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://nymag.com/intelligencer/article/why-ai-agents-anthropic-claude-want-to-take-control-of-your-computer.html Comments URL: https://news.ycombinator.com/item?id=47558786 Points: 3 # Comments: 0",
-    "published_at": "2026-03-28 22:51",
-    "tags": [],
-    "fetch_date": "2026-03-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Why exposing young children to AI content could have irreversible consequences",
-    "url": "https://theconversation.com/why-exposing-young-children-to-ai-content-could-have-irreversible-consequences-277719",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://theconversation.com/why-exposing-young-children-to-ai-content-could-have-irreversible-consequences-277719 Comments URL: https://news.ycombinator.com/item?id=47558774 Points: 3 # Comments: 1",
-    "published_at": "2026-03-28 22:49",
-    "tags": [],
-    "fetch_date": "2026-03-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
-    "url": "https://news.future-shock.ai/the-weight-of-remembering/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://news.future-shock.ai/the-weight-of-remembering/ Comments URL: https://news.ycombinator.com/item?id=47558733 Points: 2 # Comments: 0",
-    "published_at": "2026-03-28 22:42",
-    "tags": [],
-    "fetch_date": "2026-03-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Perfected Chess. Humans Made It Unpredictable Again",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-27/ai-changed-chess-grandmasters-now-win-with-unpredictable-moves",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-03-27/ai-changed-chess-grandmasters-now-win-with-unpredictable-moves Comments URL: https://news.ycombinator.com/item?id=47558531 Points: 1 # Comments: 0",
-    "published_at": "2026-03-28 22:06",
-    "tags": [],
-    "fetch_date": "2026-03-29",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Intel Core Ultra Series 3 VPro: 18A AI PCs Debut with Dtect Security Updates",
-    "url": "https://hothardware.com/news/intel-unveils-core-ultra-series-3-vpro",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://hothardware.com/news/intel-unveils-core-ultra-series-3-vpro Comments URL: https://news.ycombinator.com/item?id=47558498 Points: 1 # Comments: 0",
-    "published_at": "2026-03-28 22:00",
-    "tags": [],
-    "fetch_date": "2026-03-29",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Verify_before – pre-deployment verifiability analysis for neuro-symbolic AI",
-    "url": "https://elliotfairbanksjunior.substack.com/p/i-predicted-a-number",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://elliotfairbanksjunior.substack.com/p/i-predicted-a-number Comments URL: https://news.ycombinator.com/item?id=47558292 Points: 1 # Comments: 0",
-    "published_at": "2026-03-28 21:33",
-    "tags": [],
-    "fetch_date": "2026-03-29",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Entroly Context engine- AI coding tools 100% codebase visibility",
-    "url": "https://github.com/juyterman1000/entroly",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/juyterman1000/entroly Comments URL: https://news.ycombinator.com/item?id=47558208 Points: 1 # Comments: 2",
-    "published_at": "2026-03-28 21:20",
-    "tags": [],
-    "fetch_date": "2026-03-29",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI creating more jobs than cutting them, study says",
-    "url": "https://www.hcamag.com/us/specialization/hr-technology/ai-creating-more-jobs-than-cutting-them-study-says/568600",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.hcamag.com/us/specialization/hr-technology/ai-creating-more-jobs-than-cutting-them-study-says/568600 Comments URL: https://news.ycombinator.com/item?id=47558131 Points: 2 # Comments: 0",
-    "published_at": "2026-03-28 21:08",
-    "tags": [],
-    "fetch_date": "2026-03-29",
-    "fetch_label": "晚报"
   }
 ]
