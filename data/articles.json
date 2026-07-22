@@ -1,5 +1,176 @@
 [
   {
+    "title": "Hand the agent a map: ontology and graph traversal for AI agents",
+    "url": "https://altertable.ai/blog/2026-07-22-hand-the-agent-a-map",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://altertable.ai/blog/2026-07-22-hand-the-agent-a-map Comments URL: https://news.ycombinator.com/item?id=49006713 Points: 1 # Comments: 0",
+    "published_at": "2026-07-22 13:44",
+    "tags": [],
+    "fetch_date": "2026-07-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "OpenAI Confirms Its AI Broke Out of a Sandbox and Breached Hugging Face",
+    "url": "https://thenextweb.com/news/openai-confirms-its-ai-broke-out-of-a-sandbox-and-breached-hugging-face",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://thenextweb.com/news/openai-confirms-its-ai-broke-out-of-a-sandbox-and-breached-hugging-face Comments URL: https://news.ycombinator.com/item?id=49006690 Points: 1 # Comments: 1",
+    "published_at": "2026-07-22 13:42",
+    "tags": [],
+    "fetch_date": "2026-07-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Substack adding AI detection feature",
+    "url": "https://www.engadget.com/2220064/substack-is-adding-an-ai-detection-feature/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.engadget.com/2220064/substack-is-adding-an-ai-detection-feature/ Comments URL: https://news.ycombinator.com/item?id=49006356 Points: 1 # Comments: 1",
+    "published_at": "2026-07-22 13:21",
+    "tags": [],
+    "fetch_date": "2026-07-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Turn narrated screen recordings into data for AI agents (local, MIT)",
+    "url": "https://github.com/korovin-aa97/talkthrough-mcp",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/korovin-aa97/talkthrough-mcp Comments URL: https://news.ycombinator.com/item?id=49006129 Points: 1 # Comments: 0",
+    "published_at": "2026-07-22 13:02",
+    "tags": [],
+    "fetch_date": "2026-07-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ask HN: Alternative Careers in the Age of AI",
+    "url": "https://news.ycombinator.com/item?id=49006088",
+    "source": "Hacker News AI",
+    "summary": "I'm about to lose my job to AI and offshoring - a job that started well, but which I ended up less than ecstatic about. I'm wondering - what else can a software developer do that isn't also vulnerable to AI? Whenever you Google this, you get things like \"Manager\", \"Product Manager\" etc., but it strikes me that if software engineering is decimated by AI then many of these roles may be next in line - as is most \"pure\" knowledge work.So I'm asking, what is the escape hatch? Do we all become plumber",
+    "published_at": "2026-07-22 13:00",
+    "tags": [],
+    "fetch_date": "2026-07-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
+    "url": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
+    "source": "TechCrunch AI",
+    "summary": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.",
+    "published_at": "2026-07-22 13:00",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "creator economy",
+      "Insight Venture Partners"
+    ],
+    "fetch_date": "2026-07-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Jailbox: Network-Restricted, Hardened Linux VMs for AI Agents and Untrusted Code",
+    "url": "https://karamatli.com/posts/network-isolated-kvm-sandbox-ai-agents/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://karamatli.com/posts/network-isolated-kvm-sandbox-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49006016 Points: 1 # Comments: 0",
+    "published_at": "2026-07-22 12:53",
+    "tags": [],
+    "fetch_date": "2026-07-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Open-weights AI models have become good enough",
+    "url": "https://blog.senko.net/open-weights-ai-models-have-become-good-enough",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.senko.net/open-weights-ai-models-have-become-good-enough Comments URL: https://news.ycombinator.com/item?id=49006013 Points: 3 # Comments: 0",
+    "published_at": "2026-07-22 12:53",
+    "tags": [],
+    "fetch_date": "2026-07-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Businesses with ugly AI menu redesigns",
+    "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/ Comments URL: https://news.ycombinator.com/item?id=49005973 Points: 44 # Comments: 17",
+    "published_at": "2026-07-22 12:49",
+    "tags": [],
+    "fetch_date": "2026-07-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Making LLM extraction trustworthy enough to act on",
+    "url": "https://www.zakihsn.com/writing/ai/can-i-trust-the-numbers",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.zakihsn.com/writing/ai/can-i-trust-the-numbers Comments URL: https://news.ycombinator.com/item?id=49005971 Points: 1 # Comments: 0",
+    "published_at": "2026-07-22 12:49",
+    "tags": [],
+    "fetch_date": "2026-07-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: SynthCut – An open-source, local-first AI video editor",
+    "url": "https://github.com/Relo-video/SynthCut",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/Relo-video/SynthCut Comments URL: https://news.ycombinator.com/item?id=49005915 Points: 1 # Comments: 0",
+    "published_at": "2026-07-22 12:45",
+    "tags": [],
+    "fetch_date": "2026-07-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Stt+LLM+TTS voice chat server on RTX 3050 Ti 4GB: 11.9s voice-to-voice",
+    "url": "https://lilting.ch/en/articles/voice-chat-server-stt-llm-tts-4gb",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://lilting.ch/en/articles/voice-chat-server-stt-llm-tts-4gb Comments URL: https://news.ycombinator.com/item?id=49005707 Points: 1 # Comments: 0",
+    "published_at": "2026-07-22 12:29",
+    "tags": [],
+    "fetch_date": "2026-07-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Emem – External memory of the physical world for AI agents",
+    "url": "https://github.com/Vortx-AI/emem",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/Vortx-AI/emem Comments URL: https://news.ycombinator.com/item?id=49005615 Points: 2 # Comments: 0",
+    "published_at": "2026-07-22 12:22",
+    "tags": [],
+    "fetch_date": "2026-07-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+    "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+    "source": "TechCrunch AI",
+    "summary": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
+    "published_at": "2026-07-22 10:00",
+    "tags": [
+      "AI",
+      "Security",
+      "Startups",
+      "cyberstarts",
+      "Glow",
+      "Greenoaks Capital",
+      "Meta",
+      "redpoint ventures",
+      "Sequoia Capital"
+    ],
+    "fetch_date": "2026-07-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Meta made its own AI detection system. It should have just used Google’s",
+    "url": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+    "source": "The Verge AI",
+    "summary": "IIn March, Meta's Oversight Board called on the company to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI content across platforms. Meta responded in July by introducing Content Seal - an invisible watermarking technology that flags images generated by the company's new AI model. But [&#8230;]",
+    "published_at": "2026-07-22 07:00",
+    "tags": [
+      "AI",
+      "Analysis",
+      "Meta",
+      "Report",
+      "Tech"
+    ],
+    "fetch_date": "2026-07-22",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "The AI Bubble Is No Ordinary Bubble",
     "url": "https://www.theatlantic.com/ideas/2026/07/ai-economy-stock-market/688004/",
     "source": "Hacker News AI",
@@ -158,6 +329,21 @@
     ],
     "fetch_date": "2026-07-22",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Google releases three new Gemini models — but no 3.5 Pro",
+    "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+    "source": "TechCrunch AI",
+    "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
+    "published_at": "2026-07-21 17:11",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Google",
+      "google gemini"
+    ],
+    "fetch_date": "2026-07-22",
+    "fetch_label": "晚报"
   },
   {
     "title": "Show HN: Maith – open math research with AI",
@@ -35029,196 +35215,6 @@
       "Tech"
     ],
     "fetch_date": "2026-04-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The Galaxy S26’s photo app can sloppify your memories",
-    "url": "https://www.theverge.com/tech/904176/samsung-galaxy-s26-ai-photo-assist-slop",
-    "source": "The Verge AI",
-    "summary": "The Google Pixel 9 walked so that the Samsung Galaxy S26 could run. Google introduced AI editing tools to Photos slowly. It started with changes to the background - make the sky more blue, or remove crowds of tourists. Things got weird once the company added natural language requests and let you ask for basically [&#8230;]",
-    "published_at": "2026-03-31 14:15",
-    "tags": [
-      "AI",
-      "Hands-on",
-      "Mobile",
-      "Reviews",
-      "Samsung",
-      "Tech"
-    ],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
-    "url": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
-    "source": "TechCrunch AI",
-    "summary": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
-    "published_at": "2026-03-31 14:00",
-    "tags": [
-      "Startups",
-      "Venture",
-      "AI",
-      "Exclusive",
-      "runway",
-      "Generative AI",
-      "world models",
-      "AI video generation"
-    ],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AgentVeil – EigenTrust reputation and sybil detection for AI agents",
-    "url": "https://agentveil.dev",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://agentveil.dev Comments URL: https://news.ycombinator.com/item?id=47586968 Points: 1 # Comments: 1",
-    "published_at": "2026-03-31 13:19",
-    "tags": [],
-    "fetch_date": "2026-03-31",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI sheds light on an ancient gaming mystery",
-    "url": "https://news.flinders.edu.au/blog/2026/03/21/ai-sheds-light-on-an-ancient-gaming-mystery/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://news.flinders.edu.au/blog/2026/03/21/ai-sheds-light-on-an-ancient-gaming-mystery/ Comments URL: https://news.ycombinator.com/item?id=47586898 Points: 2 # Comments: 0",
-    "published_at": "2026-03-31 13:14",
-    "tags": [],
-    "fetch_date": "2026-03-31",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Won't Lower Your Engineering Bar. Poor Adoption Will",
-    "url": "https://businessasusual.io/p/ai-wont-lower-your-engineering-bar",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://businessasusual.io/p/ai-wont-lower-your-engineering-bar Comments URL: https://news.ycombinator.com/item?id=47586880 Points: 2 # Comments: 0",
-    "published_at": "2026-03-31 13:12",
-    "tags": [],
-    "fetch_date": "2026-03-31",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "OMLX – LLM inference, optimized for your Mac",
-    "url": "https://omlx.ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://omlx.ai/ Comments URL: https://news.ycombinator.com/item?id=47586773 Points: 1 # Comments: 0",
-    "published_at": "2026-03-31 13:04",
-    "tags": [],
-    "fetch_date": "2026-03-31",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Ask HN: Do you yell at your AI agents?",
-    "url": "https://news.ycombinator.com/item?id=47586753",
-    "source": "Hacker News AI",
-    "summary": "Whenever my coding agent makes a mistake, I get very angry, for some reason way more angry than if a Human Intelligence did that. I don't yell at my coworkers or subordinates, I have no anger management issues in general. But talking to AI can somehow drive me mad.I attribute this to three facts: 1. AI have ~no memory, so it can keep making the same stupid mistake over and over again 2. It will just say \"Sorry, I should not have done that\" after deleting your prod DB and shrug it off. It will no",
-    "published_at": "2026-03-31 13:01",
-    "tags": [],
-    "fetch_date": "2026-03-31",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "With its new app store, Ring bets on AI to go beyond home security",
-    "url": "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/",
-    "source": "TechCrunch AI",
-    "summary": "Ring's app store will allow the company to target broader use cases beyond security, like elder care or business needs.",
-    "published_at": "2026-03-31 13:00",
-    "tags": [
-      "AI",
-      "Apps",
-      "Hardware",
-      "Amazon",
-      "app store",
-      "Exclusive",
-      "Ring",
-      "ring camera"
-    ],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "How companies are learning to stop worrying and benefit from pay transparency",
-    "url": "https://www.theglobeandmail.com/business/article-how-companies-are-learning-to-stop-worrying-and-benefit-from-pay/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.theglobeandmail.com/business/article-how-companies-are-learning-to-stop-worrying-and-benefit-from-pay/ Comments URL: https://news.ycombinator.com/item?id=47586571 Points: 1 # Comments: 0",
-    "published_at": "2026-03-31 12:46",
-    "tags": [],
-    "fetch_date": "2026-03-31",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI agents that talk to each other to analyze your raw DNA file",
-    "url": "https://github.com/HelixGenomics/Genomic-Agent-Discovery",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/HelixGenomics/Genomic-Agent-Discovery Comments URL: https://news.ycombinator.com/item?id=47586491 Points: 1 # Comments: 1",
-    "published_at": "2026-03-31 12:40",
-    "tags": [],
-    "fetch_date": "2026-03-31",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "An Alternative Trajectory for Generative AI",
-    "url": "https://arxiv.org/abs/2603.14147",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://arxiv.org/abs/2603.14147 Comments URL: https://news.ycombinator.com/item?id=47586424 Points: 1 # Comments: 0",
-    "published_at": "2026-03-31 12:34",
-    "tags": [],
-    "fetch_date": "2026-03-31",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Americans' AI Use Increases While Views on It Sour, Poll on AI Finds",
-    "url": "https://poll.qu.edu/poll-release?releaseid=3955",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://poll.qu.edu/poll-release?releaseid=3955 Comments URL: https://news.ycombinator.com/item?id=47586401 Points: 1 # Comments: 0",
-    "published_at": "2026-03-31 12:32",
-    "tags": [],
-    "fetch_date": "2026-03-31",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "I Tested My SDK with 30 AI Agents. They All Broke It the Same Ways",
-    "url": "https://ryan.endacott.me/2026/03/30/developer-experience-ai-agents.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://ryan.endacott.me/2026/03/30/developer-experience-ai-agents.html Comments URL: https://news.ycombinator.com/item?id=47586324 Points: 1 # Comments: 0",
-    "published_at": "2026-03-31 12:26",
-    "tags": [],
-    "fetch_date": "2026-03-31",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Prefix caching for LLM inference optimization",
-    "url": "https://bentoml.com/llm/inference-optimization/prefix-caching",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://bentoml.com/llm/inference-optimization/prefix-caching Comments URL: https://news.ycombinator.com/item?id=47586004 Points: 1 # Comments: 0",
-    "published_at": "2026-03-31 11:51",
-    "tags": [],
-    "fetch_date": "2026-03-31",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Art schools are being torn apart by AI",
-    "url": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs",
-    "source": "The Verge AI",
-    "summary": "When my baby brother, a 3D modelling and animation student, talks to me about his projects and studies, the pride I usually feel is becoming increasingly tainted by a growing sense of dread. As a creative professional and former design student myself, I understand all too well how fierce the competition for postgraduate jobs will [&#8230;]",
-    "published_at": "2026-03-31 11:00",
-    "tags": [
-      "AI",
-      "Creators",
-      "Report",
-      "Tech"
-    ],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "You still have to refactor, even with AI",
-    "url": "https://www.adamhjk.com/blog/you-still-have-to-refactor-even-with-ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.adamhjk.com/blog/you-still-have-to-refactor-even-with-ai/ Comments URL: https://news.ycombinator.com/item?id=47582142 Points: 1 # Comments: 0",
-    "published_at": "2026-03-31 02:40",
-    "tags": [],
-    "fetch_date": "2026-03-31",
     "fetch_label": "早报"
   }
 ]
