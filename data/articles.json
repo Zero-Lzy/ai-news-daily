@@ -1,5 +1,165 @@
 [
   {
+    "title": "The AI Bubble Is No Ordinary Bubble",
+    "url": "https://www.theatlantic.com/ideas/2026/07/ai-economy-stock-market/688004/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theatlantic.com/ideas/2026/07/ai-economy-stock-market/688004/ Comments URL: https://news.ycombinator.com/item?id=49001210 Points: 1 # Comments: 0",
+    "published_at": "2026-07-22 02:46",
+    "tags": [],
+    "fetch_date": "2026-07-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "America's AI labs are under threat from cheap Chinese rivals",
+    "url": "https://economist.com/business/2026/07/21/americas-ai-labs-are-under-threat-from-cheap-chinese-rivals",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://economist.com/business/2026/07/21/americas-ai-labs-are-under-threat-from-cheap-chinese-rivals Comments URL: https://news.ycombinator.com/item?id=49001113 Points: 1 # Comments: 0",
+    "published_at": "2026-07-22 02:29",
+    "tags": [],
+    "fetch_date": "2026-07-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "A live graph of AI memory anyone can add to",
+    "url": "https://demo.mentedb.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://demo.mentedb.com Comments URL: https://news.ycombinator.com/item?id=49000980 Points: 3 # Comments: 0",
+    "published_at": "2026-07-22 02:08",
+    "tags": [],
+    "fetch_date": "2026-07-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "An off switch for dual use knowledge in AI models",
+    "url": "https://www.anthropic.com/research/off-switch-dual-use",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.anthropic.com/research/off-switch-dual-use Comments URL: https://news.ycombinator.com/item?id=49000928 Points: 1 # Comments: 0",
+    "published_at": "2026-07-22 02:01",
+    "tags": [],
+    "fetch_date": "2026-07-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Hardware Mechanisms to Dynamically Throttle AI Performance",
+    "url": "https://arxiv.org/abs/2607.18069",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2607.18069 Comments URL: https://news.ycombinator.com/item?id=49000502 Points: 2 # Comments: 0",
+    "published_at": "2026-07-22 01:01",
+    "tags": [],
+    "fetch_date": "2026-07-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "How an AI Anime Is Created",
+    "url": "https://www.aventos.dev/our-process?view=blog",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.aventos.dev/our-process?view=blog Comments URL: https://news.ycombinator.com/item?id=49000429 Points: 14 # Comments: 14",
+    "published_at": "2026-07-22 00:53",
+    "tags": [],
+    "fetch_date": "2026-07-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Making AI Movies",
+    "url": "https://dawndrain.notion.site/Making-AI-Movies-39cbb81dad798077b43adcd96e3ebe75",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://dawndrain.notion.site/Making-AI-Movies-39cbb81dad798077b43adcd96e3ebe75 Comments URL: https://news.ycombinator.com/item?id=49000228 Points: 3 # Comments: 1",
+    "published_at": "2026-07-22 00:24",
+    "tags": [],
+    "fetch_date": "2026-07-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "I made ThoughtDAG – LLM as an editable graph, wires are the context",
+    "url": "https://github.com/chenxiachan/thoughtdag",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/chenxiachan/thoughtdag Comments URL: https://news.ycombinator.com/item?id=49000216 Points: 4 # Comments: 0",
+    "published_at": "2026-07-22 00:23",
+    "tags": [],
+    "fetch_date": "2026-07-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "\"No AI\" Statements Are More Than Mere Statements",
+    "url": "https://journal.james-zhan.com/no-ai-statements/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://journal.james-zhan.com/no-ai-statements/ Comments URL: https://news.ycombinator.com/item?id=49000210 Points: 6 # Comments: 0",
+    "published_at": "2026-07-22 00:21",
+    "tags": [],
+    "fetch_date": "2026-07-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "We gave a team of AI agents a company to run – how they decide what to do next",
+    "url": "https://fieldnotesstudio.codeberg.page/blog/how-ai-agents-decide-what-to-do-next/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://fieldnotesstudio.codeberg.page/blog/how-ai-agents-decide-what-to-do-next/ Comments URL: https://news.ycombinator.com/item?id=49000096 Points: 2 # Comments: 0",
+    "published_at": "2026-07-22 00:06",
+    "tags": [],
+    "fetch_date": "2026-07-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI tutor that turns any document into interactive voice lessons",
+    "url": "https://www.tutorlify.com/en",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.tutorlify.com/en Comments URL: https://news.ycombinator.com/item?id=49000045 Points: 2 # Comments: 0",
+    "published_at": "2026-07-21 23:59",
+    "tags": [],
+    "fetch_date": "2026-07-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Memsprout – share your AI context with teammates",
+    "url": "https://memsprout.com",
+    "source": "Hacker News AI",
+    "summary": "I’m an architect at my company and everyone on my team is now using Claude/Codex agents for their work. Managing context in claude.md/agents.md files is fine but so much of the knowledge required doesn’t fit cleanly in one repo or the other. Plus, much of the team (product, design, support) does not work in repos but still needs a place to share context.I searched for existing solutions to this but only found products meant for managing deployed AI agent memory for use in AI applications. I want",
+    "published_at": "2026-07-21 23:54",
+    "tags": [],
+    "fetch_date": "2026-07-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "EC: 'Guidance to Google for AI Interoperability on Android'",
+    "url": "https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing Comments URL: https://news.ycombinator.com/item?id=48999776 Points: 5 # Comments: 0",
+    "published_at": "2026-07-21 23:27",
+    "tags": [],
+    "fetch_date": "2026-07-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+    "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+    "source": "TechCrunch AI",
+    "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
+    "published_at": "2026-07-21 19:43",
+    "tags": [
+      "AI",
+      "jack dorsey",
+      "Slack"
+    ],
+    "fetch_date": "2026-07-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
+    "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+    "source": "The Verge AI",
+    "summary": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blomkamp's new AI startup / production company, Barley Studios, and features characters whose voices and faces are modeled after human actors. But [&#8230;]",
+    "published_at": "2026-07-21 18:06",
+    "tags": [
+      "AI",
+      "Analysis",
+      "Entertainment",
+      "Film",
+      "Report"
+    ],
+    "fetch_date": "2026-07-22",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Show HN: Maith – open math research with AI",
     "url": "https://github.com/clidey/maith",
     "source": "Hacker News AI",
@@ -154,6 +314,18 @@
     "tags": [],
     "fetch_date": "2026-07-21",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "America needs to stop getting shocked by Chinese AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
+    "source": "The Verge AI",
+    "summary": "Last week, two Chinese AI companies unveiled models they say can credibly compete with the best systems from OpenAI and Anthropic. The response was swift and predictable. Markets wobbled, commentators declared Silicon Valley shooketh, and policymakers reached for the familiar language of arms races and wake-up calls. In one headline, The Associated Press said a [&#8230;]",
+    "published_at": "2026-07-21 07:08",
+    "tags": [
+      "AI"
+    ],
+    "fetch_date": "2026-07-22",
+    "fetch_label": "早报"
   },
   {
     "title": "Cosmonapse – an event-driven protocol for AI agent systems",
@@ -35048,183 +35220,5 @@
     "tags": [],
     "fetch_date": "2026-03-31",
     "fetch_label": "早报"
-  },
-  {
-    "title": "TokenSurf – Drop-in proxy that cuts LLM costs 40-94%",
-    "url": "https://tokensurf.io",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://tokensurf.io Comments URL: https://news.ycombinator.com/item?id=47582136 Points: 1 # Comments: 0",
-    "published_at": "2026-03-31 02:39",
-    "tags": [],
-    "fetch_date": "2026-03-31",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "100x Less Power: The Breakthrough That Could Solve AI's Energy Crisis",
-    "url": "https://scitechdaily.com/100x-less-power-the-breakthrough-that-could-solve-ais-massive-energy-crisis/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://scitechdaily.com/100x-less-power-the-breakthrough-that-could-solve-ais-massive-energy-crisis/ Comments URL: https://news.ycombinator.com/item?id=47582098 Points: 1 # Comments: 2",
-    "published_at": "2026-03-31 02:32",
-    "tags": [],
-    "fetch_date": "2026-03-31",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Askable – give any UI element LLM awareness with one attribute",
-    "url": "https://askable-ui.github.io/askable/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://askable-ui.github.io/askable/ Comments URL: https://news.ycombinator.com/item?id=47582078 Points: 2 # Comments: 0",
-    "published_at": "2026-03-31 02:29",
-    "tags": [],
-    "fetch_date": "2026-03-31",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Federal judges report broad adoption of AI tools",
-    "url": "https://news.northwestern.edu/stories/2026/03/northwestern-study-finds-a-significant-number-of-federal-judges-are-already-using-ai-tools",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://news.northwestern.edu/stories/2026/03/northwestern-study-finds-a-significant-number-of-federal-judges-are-already-using-ai-tools Comments URL: https://news.ycombinator.com/item?id=47582062 Points: 2 # Comments: 0",
-    "published_at": "2026-03-31 02:27",
-    "tags": [],
-    "fetch_date": "2026-03-31",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "We hate AI-assisted articles",
-    "url": "https://idiallo.com/blog/why-we-hate-llm-articles",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://idiallo.com/blog/why-we-hate-llm-articles Comments URL: https://news.ycombinator.com/item?id=47582060 Points: 2 # Comments: 1",
-    "published_at": "2026-03-31 02:26",
-    "tags": [],
-    "fetch_date": "2026-03-31",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Agent Red Team – Adversarial testing for AI agents before production",
-    "url": "https://agentredteam.ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://agentredteam.ai Comments URL: https://news.ycombinator.com/item?id=47581993 Points: 1 # Comments: 0",
-    "published_at": "2026-03-31 02:14",
-    "tags": [],
-    "fetch_date": "2026-03-31",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Adobe Illustrator can now use AI to rotate 2D vectors in 3D space",
-    "url": "https://9to5mac.com/2026/03/30/adobe-illustrator-now-lets-you-rotate-2d-vectors-in-3d-space/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://9to5mac.com/2026/03/30/adobe-illustrator-now-lets-you-rotate-2d-vectors-in-3d-space/ Comments URL: https://news.ycombinator.com/item?id=47581708 Points: 1 # Comments: 0",
-    "published_at": "2026-03-31 01:25",
-    "tags": [],
-    "fetch_date": "2026-03-31",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "GTabs – AI tab organizer for Chrome that works with any LLM",
-    "url": "https://github.com/vaddisrinivas/gtabs",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/vaddisrinivas/gtabs Comments URL: https://news.ycombinator.com/item?id=47581584 Points: 1 # Comments: 0",
-    "published_at": "2026-03-31 01:04",
-    "tags": [],
-    "fetch_date": "2026-03-31",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "What Happens When AI Stops Being Artificially Cheap",
-    "url": "https://danielmiessler.com/blog/ai-stops-being-artificially-cheap",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://danielmiessler.com/blog/ai-stops-being-artificially-cheap Comments URL: https://news.ycombinator.com/item?id=47581442 Points: 5 # Comments: 1",
-    "published_at": "2026-03-31 00:39",
-    "tags": [],
-    "fetch_date": "2026-03-31",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Using AI to inflate your ego",
-    "url": "https://blog.avas.space/ai-ego/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://blog.avas.space/ai-ego/ Comments URL: https://news.ycombinator.com/item?id=47581441 Points: 1 # Comments: 0",
-    "published_at": "2026-03-31 00:38",
-    "tags": [],
-    "fetch_date": "2026-03-31",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Live map of SF fires and 911 calls – P25 radio decoded with AI",
-    "url": "https://sf.monitorsthesituation.com",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://sf.monitorsthesituation.com Comments URL: https://news.ycombinator.com/item?id=47581211 Points: 1 # Comments: 0",
-    "published_at": "2026-03-31 00:06",
-    "tags": [],
-    "fetch_date": "2026-03-31",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "15% of Americans say they’d be willing to work for an AI boss, according to new poll",
-    "url": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
-    "source": "TechCrunch AI",
-    "summary": "According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assigned tasks and set schedules.",
-    "published_at": "2026-03-30 23:41",
-    "tags": [
-      "AI",
-      "future of work",
-      "Jobs",
-      "polls"
-    ],
-    "fetch_date": "2026-03-31",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
-    "url": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
-    "source": "TechCrunch AI",
-    "summary": "ScaleOps just raised $130M to tackle GPU shortages and soaring AI cloud costs by automating infrastructure in real time.",
-    "published_at": "2026-03-30 13:52",
-    "tags": [
-      "AI",
-      "Startups",
-      "GPU",
-      "GPU optimization",
-      "Insight Partners",
-      "Kubernetes",
-      "ScaleOps"
-    ],
-    "fetch_date": "2026-03-31",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Why tech CEOs suddenly love blaming AI for mass layoffs",
-    "url": "https://www.bbc.com/news/articles/cde5y2x51y8o",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.bbc.com/news/articles/cde5y2x51y8o Comments URL: https://news.ycombinator.com/item?id=47573937 Points: 1 # Comments: 0",
-    "published_at": "2026-03-30 13:19",
-    "tags": [],
-    "fetch_date": "2026-03-30",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Add 500M tokens of context space to any LLM with <300ms latency",
-    "url": "https://github.com/t8/memoryport",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/t8/memoryport Comments URL: https://news.ycombinator.com/item?id=47573824 Points: 1 # Comments: 1",
-    "published_at": "2026-03-30 13:08",
-    "tags": [],
-    "fetch_date": "2026-03-30",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
-    "url": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
-    "source": "TechCrunch AI",
-    "summary": "The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance.",
-    "published_at": "2026-03-30 13:00",
-    "tags": [
-      "Hardware",
-      "AI",
-      "chips",
-      "Rebellions"
-    ],
-    "fetch_date": "2026-03-30",
-    "fetch_label": "晚报"
   }
 ]
