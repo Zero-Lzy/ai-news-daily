@@ -1,5 +1,160 @@
 [
   {
+    "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+    "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16 Comments URL: https://news.ycombinator.com/item?id=49021597 Points: 1 # Comments: 0",
+    "published_at": "2026-07-23 13:51",
+    "tags": [],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI in Linux",
+    "url": "https://drewdevault.com/blog/AI-in-Linux/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://drewdevault.com/blog/AI-in-Linux/ Comments URL: https://news.ycombinator.com/item?id=49021509 Points: 2 # Comments: 0",
+    "published_at": "2026-07-23 13:45",
+    "tags": [],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Tesla falls 10%, Alphabet sinks 5% as AI spending concerns spook investors",
+    "url": "https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html Comments URL: https://news.ycombinator.com/item?id=49021494 Points: 3 # Comments: 0",
+    "published_at": "2026-07-23 13:44",
+    "tags": [],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI-Native FDE for the RNC",
+    "url": "https://rnc.dev/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://rnc.dev/ Comments URL: https://news.ycombinator.com/item?id=49021482 Points: 1 # Comments: 1",
+    "published_at": "2026-07-23 13:43",
+    "tags": [],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: USB AI Agent – portable uncensored AI with 13 tools, runs from USB",
+    "url": "https://github.com/pusucip25/USB-AI-Agent",
+    "source": "Hacker News AI",
+    "summary": "Turned the archived USB-Uncensored-LLM into a full autonomous agent. 13 tools, 5 GGUF models, zero install. Works on Windows, Linux, Tails. Everything offline after setup. Comments URL: https://news.ycombinator.com/item?id=49021477 Points: 1 # Comments: 1",
+    "published_at": "2026-07-23 13:43",
+    "tags": [],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth",
+    "url": "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html Comments URL: https://news.ycombinator.com/item?id=49021470 Points: 2 # Comments: 0",
+    "published_at": "2026-07-23 13:42",
+    "tags": [],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The future of AI – Eric Schmidt (2024)",
+    "url": "https://www.youtube.com/watch?v=DgpYiysQjeI",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=DgpYiysQjeI Comments URL: https://news.ycombinator.com/item?id=49021191 Points: 1 # Comments: 0",
+    "published_at": "2026-07-23 13:23",
+    "tags": [],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI × Judgment × Taste = Mega Software",
+    "url": "https://www.dlhck.com/essays/ai-judgment-taste-mega-software",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.dlhck.com/essays/ai-judgment-taste-mega-software Comments URL: https://news.ycombinator.com/item?id=49021180 Points: 1 # Comments: 0",
+    "published_at": "2026-07-23 13:22",
+    "tags": [],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Anthropic is subsidizing our AI coding at 13x. How long will it last?",
+    "url": "https://modelplane.ai/blog/ai-coding-subsidy-multiple",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://modelplane.ai/blog/ai-coding-subsidy-multiple Comments URL: https://news.ycombinator.com/item?id=49021054 Points: 9 # Comments: 0",
+    "published_at": "2026-07-23 13:13",
+    "tags": [],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Free API keys for open models (Llama, Qwen, GPT-OSS, Gemma)",
+    "url": "https://app.tensormux.com/pages/login.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://app.tensormux.com/pages/login.html Comments URL: https://news.ycombinator.com/item?id=49021044 Points: 3 # Comments: 0",
+    "published_at": "2026-07-23 13:13",
+    "tags": [],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+    "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet Comments URL: https://news.ycombinator.com/item?id=49020999 Points: 15 # Comments: 2",
+    "published_at": "2026-07-23 13:09",
+    "tags": [],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The AI Con",
+    "url": "https://www.penguin.co.uk/books/468070/the-ai-con-by-hanna-emily-m-bender-and-alex/9781529949902",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.penguin.co.uk/books/468070/the-ai-con-by-hanna-emily-m-bender-and-alex/9781529949902 Comments URL: https://news.ycombinator.com/item?id=49020967 Points: 2 # Comments: 0",
+    "published_at": "2026-07-23 13:07",
+    "tags": [],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Full Disclosure: A project is publishing full analyses of AI-discovered 0-days",
+    "url": "https://seclists.org/fulldisclosure/2026/Jul/29",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://seclists.org/fulldisclosure/2026/Jul/29 Comments URL: https://news.ycombinator.com/item?id=49020659 Points: 1 # Comments: 0",
+    "published_at": "2026-07-23 12:41",
+    "tags": [],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI and Productivity – Stripe Economics",
+    "url": "https://www.stripeeconomics.com/p/ai-and-productivity",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.stripeeconomics.com/p/ai-and-productivity Comments URL: https://news.ycombinator.com/item?id=49020379 Points: 1 # Comments: 0",
+    "published_at": "2026-07-23 12:15",
+    "tags": [],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+    "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+    "source": "TechCrunch AI",
+    "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
+    "published_at": "2026-07-23 06:09",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Startups",
+      "ServiceNow"
+    ],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Why the OpenAI escape is the most worrying AI mishap yet",
     "url": "https://www.economist.com/science-and-technology/2026/07/22/why-the-openai-escape-is-the-most-worrying-ai-mishap-yet",
     "source": "Hacker News AI",
@@ -196,6 +351,20 @@
     "fetch_label": "早报"
   },
   {
+    "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
+    "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+    "source": "TechCrunch AI",
+    "summary": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
+    "published_at": "2026-07-22 16:23",
+    "tags": [
+      "AI",
+      "Media & Entertainment",
+      "Substack"
+    ],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "OpenAI’s AI spending spree has ballooned to $750B",
     "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
     "source": "TechCrunch AI",
@@ -209,6 +378,23 @@
     ],
     "fetch_date": "2026-07-23",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
+    "url": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
+    "source": "TechCrunch AI",
+    "summary": "Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It’s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#160;Matt Murphy&#160;says&#160;he&#8217;s&#160;never seen in 25 years of investing, not in the internet wave, not in mobile, not in the first cloud boom. Menlo led Anthropic&#8217;s $500M Series D, and Murphy has had a front-row seat as the company went from a pre-revenue, [&#8230;]",
+    "published_at": "2026-07-22 14:00",
+    "tags": [
+      "AI",
+      "Venture",
+      "Anthropic",
+      "Equity podcast",
+      "Matt Murphy",
+      "menlo ventures"
+    ],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "晚报"
   },
   {
     "title": "Hand the agent a map: ontology and graph traversal for AI agents",
@@ -395,6 +581,22 @@
       "Tech"
     ],
     "fetch_date": "2026-07-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+    "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+    "source": "TechCrunch AI",
+    "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+    "published_at": "2026-07-22 03:20",
+    "tags": [
+      "AI",
+      "TC",
+      "Anthropic",
+      "OpenAI",
+      "Physical Intelligence"
+    ],
+    "fetch_date": "2026-07-23",
     "fetch_label": "晚报"
   },
   {
@@ -35025,200 +35227,5 @@
     "tags": [],
     "fetch_date": "2026-04-02",
     "fetch_label": "早报"
-  },
-  {
-    "title": "Obfuscation is not security – AI can deobfuscate any minified JavaScript code",
-    "url": "https://www.afterpack.dev/blog/claude-code-source-leak",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.afterpack.dev/blog/claude-code-source-leak Comments URL: https://news.ycombinator.com/item?id=47607947 Points: 33 # Comments: 31",
-    "published_at": "2026-04-01 23:25",
-    "tags": [],
-    "fetch_date": "2026-04-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Googe AI Pro plan upgraded to 5TB storage, up from 2TB",
-    "url": "https://twitter.com/shimritby/status/2039461584771440782",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://twitter.com/shimritby/status/2039461584771440782 Comments URL: https://news.ycombinator.com/item?id=47607864 Points: 5 # Comments: 4",
-    "published_at": "2026-04-01 23:18",
-    "tags": [],
-    "fetch_date": "2026-04-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Machine translations of Georges Perec's La Disparition (no \"e\" constraint)",
-    "url": "https://quinndupont.github.io/void/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://quinndupont.github.io/void/ Comments URL: https://news.ycombinator.com/item?id=47607782 Points: 1 # Comments: 0",
-    "published_at": "2026-04-01 23:10",
-    "tags": [],
-    "fetch_date": "2026-04-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
-    "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
-    "source": "TechCrunch AI",
-    "summary": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
-    "published_at": "2026-04-01 16:00",
-    "tags": [
-      "AI",
-      "Hardware",
-      "Venture",
-      "Exclusive"
-    ],
-    "fetch_date": "2026-04-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "I Tried to Get an AI Agent to Post a Blog Without Leaking My Password",
-    "url": "https://techstackups.com/guides/automate-wordpress-securely-with-ai-agent/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://techstackups.com/guides/automate-wordpress-securely-with-ai-agent/ Comments URL: https://news.ycombinator.com/item?id=47600544 Points: 1 # Comments: 0",
-    "published_at": "2026-04-01 13:24",
-    "tags": [],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Why AI systems improve while drifting away from reality [pdf]",
-    "url": "https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/07_Operational_Briefs/01_Diagnostics_and_Workflows/reality-constrained-systems-ai-alignment-framework..pdf",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/07_Operational_Briefs/01_Diagnostics_and_Workflows/reality-constrained-systems-ai-alignment-framework..pdf Comments URL: https://news.ycombinator.com/item?id=47600407 Points: 1 # Comments: 1",
-    "published_at": "2026-04-01 13:13",
-    "tags": [],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Review: Measuring AI Ability to Complete Long Software Tasks",
-    "url": "https://emptysqua.re/blog/review-measuring-ai-ability-to-complete-long-software-tasks/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://emptysqua.re/blog/review-measuring-ai-ability-to-complete-long-software-tasks/ Comments URL: https://news.ycombinator.com/item?id=47600392 Points: 1 # Comments: 0",
-    "published_at": "2026-04-01 13:12",
-    "tags": [],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Policy",
-    "url": "https://dbushell.com/ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://dbushell.com/ai/ Comments URL: https://news.ycombinator.com/item?id=47600279 Points: 1 # Comments: 0",
-    "published_at": "2026-04-01 13:02",
-    "tags": [],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "CEO of largest public hospital says he's ready to replace radiologists with AI",
-    "url": "https://radiologybusiness.com/topics/artificial-intelligence/ceo-americas-largest-public-hospital-system-says-hes-ready-replace-radiologists-ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://radiologybusiness.com/topics/artificial-intelligence/ceo-americas-largest-public-hospital-system-says-hes-ready-replace-radiologists-ai Comments URL: https://news.ycombinator.com/item?id=47600244 Points: 9 # Comments: 7",
-    "published_at": "2026-04-01 12:59",
-    "tags": [],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "I Built an AI Organisation",
-    "url": "https://www.dave-bailey.com/blog/ai-org",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.dave-bailey.com/blog/ai-org Comments URL: https://news.ycombinator.com/item?id=47600208 Points: 2 # Comments: 1",
-    "published_at": "2026-04-01 12:56",
-    "tags": [],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The Open Source AI Engineering Platform for Agents, LLMs and Models",
-    "url": "https://github.com/mlflow/mlflow",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/mlflow/mlflow Comments URL: https://news.ycombinator.com/item?id=47600111 Points: 2 # Comments: 0",
-    "published_at": "2026-04-01 12:46",
-    "tags": [],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "VibePad – New AI Padding Model",
-    "url": "https://www.npmjs.com/package/vibepad",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.npmjs.com/package/vibepad Comments URL: https://news.ycombinator.com/item?id=47600023 Points: 1 # Comments: 0",
-    "published_at": "2026-04-01 12:37",
-    "tags": [],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Ebash – AI-Powered Shell",
-    "url": "https://github.com/alexandershov/ebash",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/alexandershov/ebash Comments URL: https://news.ycombinator.com/item?id=47599915 Points: 3 # Comments: 0",
-    "published_at": "2026-04-01 12:25",
-    "tags": [],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Adding a Custom CosmosDB Memory to Azure AI Agent",
-    "url": "https://furotmark.github.io/2026/03/31/Adding-A-Custom-CosmosDB-Memory-To-Azure-AI-Agent.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://furotmark.github.io/2026/03/31/Adding-A-Custom-CosmosDB-Memory-To-Azure-AI-Agent.html Comments URL: https://news.ycombinator.com/item?id=47599837 Points: 2 # Comments: 0",
-    "published_at": "2026-04-01 12:17",
-    "tags": [],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Baton – A desktop app for developing with AI agents",
-    "url": "https://getbaton.dev/",
-    "source": "Hacker News AI",
-    "summary": "Hi,I built this because running multiple Claude Code agents across multiple IDE and terminal windows was getting messy. Like many, I went from working at one thing at the time, to multiple, and it was all changing quite fast.I needed one place to see all my agents and worktrees, seamlessly switch between them, monitor their status and once their done, review their changes. I also wanted to quickly spin up new agents in isolated worktrees whenever an idea came to mind.I've been building Baton fro",
-    "published_at": "2026-04-01 12:11",
-    "tags": [],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The Subprime AI Crisis",
-    "url": "https://www.wheresyoured.at/subprimeai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.wheresyoured.at/subprimeai/ Comments URL: https://news.ycombinator.com/item?id=47599657 Points: 2 # Comments: 2",
-    "published_at": "2026-04-01 11:58",
-    "tags": [],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI can push your Stream Deck buttons for you",
-    "url": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
-    "source": "The Verge AI",
-    "summary": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The Stream Deck 7.4 software update released today introduces Model Context Protocol (MCP) support, allowing AI assistants like Claude, ChatGPT, and Nvidia G-Assist to find and activate Stream [&#8230;]",
-    "published_at": "2026-04-01 08:38",
-    "tags": [
-      "AI",
-      "Gadgets",
-      "News",
-      "Tech"
-    ],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Baidu’s robotaxis froze in traffic, creating chaos",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
-    "source": "The Verge AI",
-    "summary": "Numerous robotaxis operated by Chinese tech giant Baidu froze in a major city on Tuesday, reportedly trapping passengers inside, stranding them on highways, and causing at least one accident in snarled traffic. Police in Wuhan confirmed receiving multiple reports of Baidu's Apollo Go robotaxis stopping in the middle of streets and being unable to move. [&#8230;]",
-    "published_at": "2026-04-01 06:39",
-    "tags": [
-      "AI",
-      "Autonomous Cars",
-      "News",
-      "Transportation"
-    ],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "晚报"
   }
 ]

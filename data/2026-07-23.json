@@ -222,6 +222,250 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-07-23 22:01:14",
+      "count": 23,
+      "articles": [
+        {
+          "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16 Comments URL: https://news.ycombinator.com/item?id=49021597 Points: 1 # Comments: 0",
+          "published_at": "2026-07-23 13:51",
+          "tags": []
+        },
+        {
+          "title": "AI in Linux",
+          "url": "https://drewdevault.com/blog/AI-in-Linux/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://drewdevault.com/blog/AI-in-Linux/ Comments URL: https://news.ycombinator.com/item?id=49021509 Points: 2 # Comments: 0",
+          "published_at": "2026-07-23 13:45",
+          "tags": []
+        },
+        {
+          "title": "Tesla falls 10%, Alphabet sinks 5% as AI spending concerns spook investors",
+          "url": "https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html Comments URL: https://news.ycombinator.com/item?id=49021494 Points: 3 # Comments: 0",
+          "published_at": "2026-07-23 13:44",
+          "tags": []
+        },
+        {
+          "title": "AI-Native FDE for the RNC",
+          "url": "https://rnc.dev/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://rnc.dev/ Comments URL: https://news.ycombinator.com/item?id=49021482 Points: 1 # Comments: 1",
+          "published_at": "2026-07-23 13:43",
+          "tags": []
+        },
+        {
+          "title": "Show HN: USB AI Agent – portable uncensored AI with 13 tools, runs from USB",
+          "url": "https://github.com/pusucip25/USB-AI-Agent",
+          "source": "Hacker News AI",
+          "summary": "Turned the archived USB-Uncensored-LLM into a full autonomous agent. 13 tools, 5 GGUF models, zero install. Works on Windows, Linux, Tails. Everything offline after setup. Comments URL: https://news.ycombinator.com/item?id=49021477 Points: 1 # Comments: 1",
+          "published_at": "2026-07-23 13:43",
+          "tags": []
+        },
+        {
+          "title": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth",
+          "url": "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html Comments URL: https://news.ycombinator.com/item?id=49021470 Points: 2 # Comments: 0",
+          "published_at": "2026-07-23 13:42",
+          "tags": []
+        },
+        {
+          "title": "The future of AI – Eric Schmidt (2024)",
+          "url": "https://www.youtube.com/watch?v=DgpYiysQjeI",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=DgpYiysQjeI Comments URL: https://news.ycombinator.com/item?id=49021191 Points: 1 # Comments: 0",
+          "published_at": "2026-07-23 13:23",
+          "tags": []
+        },
+        {
+          "title": "AI × Judgment × Taste = Mega Software",
+          "url": "https://www.dlhck.com/essays/ai-judgment-taste-mega-software",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.dlhck.com/essays/ai-judgment-taste-mega-software Comments URL: https://news.ycombinator.com/item?id=49021180 Points: 1 # Comments: 0",
+          "published_at": "2026-07-23 13:22",
+          "tags": []
+        },
+        {
+          "title": "Anthropic is subsidizing our AI coding at 13x. How long will it last?",
+          "url": "https://modelplane.ai/blog/ai-coding-subsidy-multiple",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://modelplane.ai/blog/ai-coding-subsidy-multiple Comments URL: https://news.ycombinator.com/item?id=49021054 Points: 9 # Comments: 0",
+          "published_at": "2026-07-23 13:13",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Free API keys for open models (Llama, Qwen, GPT-OSS, Gemma)",
+          "url": "https://app.tensormux.com/pages/login.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://app.tensormux.com/pages/login.html Comments URL: https://news.ycombinator.com/item?id=49021044 Points: 3 # Comments: 0",
+          "published_at": "2026-07-23 13:13",
+          "tags": []
+        },
+        {
+          "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+          "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet Comments URL: https://news.ycombinator.com/item?id=49020999 Points: 15 # Comments: 2",
+          "published_at": "2026-07-23 13:09",
+          "tags": []
+        },
+        {
+          "title": "The AI Con",
+          "url": "https://www.penguin.co.uk/books/468070/the-ai-con-by-hanna-emily-m-bender-and-alex/9781529949902",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.penguin.co.uk/books/468070/the-ai-con-by-hanna-emily-m-bender-and-alex/9781529949902 Comments URL: https://news.ycombinator.com/item?id=49020967 Points: 2 # Comments: 0",
+          "published_at": "2026-07-23 13:07",
+          "tags": []
+        },
+        {
+          "title": "Full Disclosure: A project is publishing full analyses of AI-discovered 0-days",
+          "url": "https://seclists.org/fulldisclosure/2026/Jul/29",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://seclists.org/fulldisclosure/2026/Jul/29 Comments URL: https://news.ycombinator.com/item?id=49020659 Points: 1 # Comments: 0",
+          "published_at": "2026-07-23 12:41",
+          "tags": []
+        },
+        {
+          "title": "AI and Productivity – Stripe Economics",
+          "url": "https://www.stripeeconomics.com/p/ai-and-productivity",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.stripeeconomics.com/p/ai-and-productivity Comments URL: https://news.ycombinator.com/item?id=49020379 Points: 1 # Comments: 0",
+          "published_at": "2026-07-23 12:15",
+          "tags": []
+        },
+        {
+          "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+          "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+          "source": "TechCrunch AI",
+          "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
+          "published_at": "2026-07-23 06:09",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "Startups",
+            "ServiceNow"
+          ]
+        },
+        {
+          "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+          "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+          "source": "TechCrunch AI",
+          "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+          "published_at": "2026-07-22 23:47",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "Hardware",
+            "IBM"
+          ]
+        },
+        {
+          "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+          "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+          "source": "TechCrunch AI",
+          "summary": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
+          "published_at": "2026-07-22 18:50",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Venture",
+            "a16z",
+            "Andreessen Horowitz",
+            "robotics",
+            "Travis Kalanick"
+          ]
+        },
+        {
+          "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+          "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+          "source": "TechCrunch AI",
+          "summary": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo sharing, and AI features designed to strengthen real-world relationships.",
+          "published_at": "2026-07-22 18:13",
+          "tags": [
+            "AI",
+            "Apps",
+            "Fundraising",
+            "Social",
+            "Exclusive",
+            "social media"
+          ]
+        },
+        {
+          "title": "Monday.com lays off hundreds to focus on AI",
+          "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+          "source": "TechCrunch AI",
+          "summary": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform.",
+          "published_at": "2026-07-22 17:54",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "In Brief",
+            "monday.com",
+            "tech layoffs"
+          ]
+        },
+        {
+          "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
+          "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
+          "published_at": "2026-07-22 16:23",
+          "tags": [
+            "AI",
+            "Media & Entertainment",
+            "Substack"
+          ]
+        },
+        {
+          "title": "OpenAI’s AI spending spree has ballooned to $750B",
+          "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
+          "published_at": "2026-07-22 16:13",
+          "tags": [
+            "AI",
+            "Climate",
+            "data centers",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
+          "url": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It’s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#160;Matt Murphy&#160;says&#160;he&#8217;s&#160;never seen in 25 years of investing, not in the internet wave, not in mobile, not in the first cloud boom. Menlo led Anthropic&#8217;s $500M Series D, and Murphy has had a front-row seat as the company went from a pre-revenue, [&#8230;]",
+          "published_at": "2026-07-22 14:00",
+          "tags": [
+            "AI",
+            "Venture",
+            "Anthropic",
+            "Equity podcast",
+            "Matt Murphy",
+            "menlo ventures"
+          ]
+        },
+        {
+          "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+          "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+          "published_at": "2026-07-22 03:20",
+          "tags": [
+            "AI",
+            "TC",
+            "Anthropic",
+            "OpenAI",
+            "Physical Intelligence"
+          ]
+        }
+      ]
     }
   ]
 }
