@@ -1,5 +1,216 @@
 [
   {
+    "title": "Why the OpenAI escape is the most worrying AI mishap yet",
+    "url": "https://www.economist.com/science-and-technology/2026/07/22/why-the-openai-escape-is-the-most-worrying-ai-mishap-yet",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.economist.com/science-and-technology/2026/07/22/why-the-openai-escape-is-the-most-worrying-ai-mishap-yet Comments URL: https://news.ycombinator.com/item?id=49016378 Points: 3 # Comments: 1",
+    "published_at": "2026-07-23 03:07",
+    "tags": [],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Some AI Systems Differentially Downplay Their Creators' Controversies",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7059338",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7059338 Comments URL: https://news.ycombinator.com/item?id=49016292 Points: 2 # Comments: 0",
+    "published_at": "2026-07-23 02:53",
+    "tags": [],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Doomsday AI?",
+    "url": "https://blog.gjmveloso.dev/posts/2026/07/22/doomsday-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.gjmveloso.dev/posts/2026/07/22/doomsday-ai/ Comments URL: https://news.ycombinator.com/item?id=49016255 Points: 1 # Comments: 0",
+    "published_at": "2026-07-23 02:47",
+    "tags": [],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Chinese AI's role in stopping rogue OpenAI agent shows cost of US guardrails",
+    "url": "https://www.reuters.com/legal/litigation/chinese-ais-role-stopping-rogue-openai-agent-shows-cost-us-guardrails-2026-07-22/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.reuters.com/legal/litigation/chinese-ais-role-stopping-rogue-openai-agent-shows-cost-us-guardrails-2026-07-22/ Comments URL: https://news.ycombinator.com/item?id=49015927 Points: 4 # Comments: 0",
+    "published_at": "2026-07-23 02:07",
+    "tags": [],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask HN: What new technologies are you excited about besides AI?",
+    "url": "https://news.ycombinator.com/item?id=49015912",
+    "source": "Hacker News AI",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49015912 Points: 2 # Comments: 2",
+    "published_at": "2026-07-23 02:04",
+    "tags": [],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Goodbye Data, Hello AI: My Biggest Takeaway from Snowflake Summit 2026",
+    "url": "https://apacheseatunnel.medium.com/goodbye-data-hello-ai-my-biggest-takeaway-from-snowflake-summit-2026-8c3dd82b208e",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://apacheseatunnel.medium.com/goodbye-data-hello-ai-my-biggest-takeaway-from-snowflake-summit-2026-8c3dd82b208e Comments URL: https://news.ycombinator.com/item?id=49015872 Points: 4 # Comments: 0",
+    "published_at": "2026-07-23 01:57",
+    "tags": [],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: AgentNest, self-hosted sandboxes for AI agents",
+    "url": "https://github.com/mihirahuja1/agentnestOSS",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/mihirahuja1/agentnestOSS Comments URL: https://news.ycombinator.com/item?id=49015852 Points: 5 # Comments: 2",
+    "published_at": "2026-07-23 01:54",
+    "tags": [],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask HN: How to make AI better at writing prose?",
+    "url": "https://news.ycombinator.com/item?id=49015703",
+    "source": "Hacker News AI",
+    "summary": "Current models are still notoriously bad at writing prose. It's not just the easily recognizable tics like \"load-bearing\" and \"genuinely\". The text is just sloppy, pompous, and full of air.I've tried different approaches like feeding it examples of my own writing, giving it a style guide, and iterating a few editing sessions, but it appears the way these models write/talk is rather deeply ingrained, and it usually end up easier for me just to write myself. Has anyone found a good approach to mak",
+    "published_at": "2026-07-23 01:27",
+    "tags": [],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: LitigationBench. A Litigation Task-Based AI Benchmark",
+    "url": "https://litco.ai/litigationbench",
+    "source": "Hacker News AI",
+    "summary": "Adding to the sea of AI benchmarks, but with a focus on legal and litigation-based tasks and tests. E.g., hallucinating cases, misreading precedent, drafting, AI writing tics, etc.Developed as part of a litigation platform I've started, but not sharing this benchmark to promote that. Just thought the findings were interesting--namely, Anthropic's models (except for Haiku) producing zero hallucinated cases.Also, if anyone would like to see additional tests / benchmarks or models tested, let me kn",
+    "published_at": "2026-07-23 01:11",
+    "tags": [],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Localmaxxing – Local LLM Inference Benchmarks",
+    "url": "https://www.localmaxxing.com/en",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.localmaxxing.com/en Comments URL: https://news.ycombinator.com/item?id=49015424 Points: 1 # Comments: 1",
+    "published_at": "2026-07-23 00:41",
+    "tags": [],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "US Department of Energy: AI funding opportunities for small businesses",
+    "url": "https://www.energy.gov/technologycommercialization/articles/doe-announces-10m-sbirsttr-funding-opportunity-supporting",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.energy.gov/technologycommercialization/articles/doe-announces-10m-sbirsttr-funding-opportunity-supporting Comments URL: https://news.ycombinator.com/item?id=49015080 Points: 2 # Comments: 2",
+    "published_at": "2026-07-22 23:52",
+    "tags": [],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+    "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+    "source": "TechCrunch AI",
+    "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+    "published_at": "2026-07-22 23:47",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Hardware",
+      "IBM"
+    ],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Local agent first AI search optimization tooling",
+    "url": "https://github.com/Canonry/canonry",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/Canonry/canonry Comments URL: https://news.ycombinator.com/item?id=49014880 Points: 4 # Comments: 1",
+    "published_at": "2026-07-22 23:26",
+    "tags": [],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The Army Is Burning Through Its AI Tokens",
+    "url": "https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/ Comments URL: https://news.ycombinator.com/item?id=49014740 Points: 5 # Comments: 0",
+    "published_at": "2026-07-22 23:12",
+    "tags": [],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+    "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+    "source": "TechCrunch AI",
+    "summary": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
+    "published_at": "2026-07-22 18:50",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "Venture",
+      "a16z",
+      "Andreessen Horowitz",
+      "robotics",
+      "Travis Kalanick"
+    ],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+    "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+    "source": "TechCrunch AI",
+    "summary": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo sharing, and AI features designed to strengthen real-world relationships.",
+    "published_at": "2026-07-22 18:13",
+    "tags": [
+      "AI",
+      "Apps",
+      "Fundraising",
+      "Social",
+      "Exclusive",
+      "social media"
+    ],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Monday.com lays off hundreds to focus on AI",
+    "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+    "source": "TechCrunch AI",
+    "summary": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform.",
+    "published_at": "2026-07-22 17:54",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "In Brief",
+      "monday.com",
+      "tech layoffs"
+    ],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI’s AI spending spree has ballooned to $750B",
+    "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+    "source": "TechCrunch AI",
+    "summary": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
+    "published_at": "2026-07-22 16:13",
+    "tags": [
+      "AI",
+      "Climate",
+      "data centers",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Hand the agent a map: ontology and graph traversal for AI agents",
     "url": "https://altertable.ai/blog/2026-07-22-hand-the-agent-a-map",
     "source": "Hacker News AI",
@@ -133,6 +344,22 @@
     "tags": [],
     "fetch_date": "2026-07-22",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "AMD commits up to $5 billion to  Anthropic",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
+    "source": "The Verge AI",
+    "summary": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios rack-scale system, as reported [&#8230;]",
+    "published_at": "2026-07-22 10:44",
+    "tags": [
+      "AI",
+      "AMD",
+      "Anthropic",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-07-23",
+    "fetch_label": "早报"
   },
   {
     "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
@@ -34993,228 +35220,5 @@
     ],
     "fetch_date": "2026-04-01",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Agent Traps",
-    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6372438",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6372438 Comments URL: https://news.ycombinator.com/item?id=47596111 Points: 1 # Comments: 0",
-    "published_at": "2026-04-01 02:37",
-    "tags": [],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Native Tool for Product Managers – Zeaota.ai",
-    "url": "https://zeaota.ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://zeaota.ai Comments URL: https://news.ycombinator.com/item?id=47595742 Points: 1 # Comments: 1",
-    "published_at": "2026-04-01 01:41",
-    "tags": [],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Early Observations from Interviews with Engineering Teams Adopting AI",
-    "url": "https://jonathannen.com/observations-from-interviews/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://jonathannen.com/observations-from-interviews/ Comments URL: https://news.ycombinator.com/item?id=47595563 Points: 3 # Comments: 1",
-    "published_at": "2026-04-01 01:10",
-    "tags": [],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: WMB-100K – Open benchmark for AI memory systems at 100K turns",
-    "url": "https://github.com/Irina1920/WMB-100K",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/Irina1920/WMB-100K Comments URL: https://news.ycombinator.com/item?id=47595494 Points: 1 # Comments: 0",
-    "published_at": "2026-04-01 00:59",
-    "tags": [],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "I built an AI talent platform that matches people by capability, not CVS",
-    "url": "https://talentblender.com",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://talentblender.com Comments URL: https://news.ycombinator.com/item?id=47595482 Points: 1 # Comments: 0",
-    "published_at": "2026-04-01 00:58",
-    "tags": [],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Nvidia AI Ecosystem Expands as Marvell Joins Forces Through NVLink Fusion",
-    "url": "https://nvidianews.nvidia.com/news/nvidia-ai-ecosystem-expands-as-marvell-joins-forces-through-nvlink-fusion",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-ai-ecosystem-expands-as-marvell-joins-forces-through-nvlink-fusion Comments URL: https://news.ycombinator.com/item?id=47595467 Points: 2 # Comments: 0",
-    "published_at": "2026-04-01 00:56",
-    "tags": [],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The price of intelligence: what legal AI agents cost",
-    "url": "https://techlex.net/the-price-of-intelligence-what-legal-ai-agents-actually-cost/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://techlex.net/the-price-of-intelligence-what-legal-ai-agents-actually-cost/ Comments URL: https://news.ycombinator.com/item?id=47595384 Points: 1 # Comments: 0",
-    "published_at": "2026-04-01 00:44",
-    "tags": [],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Humans, Trust, and AI Job Replacement",
-    "url": "https://hooda.xyz/blog/humans-trust-and-ai-job-replacement/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://hooda.xyz/blog/humans-trust-and-ai-job-replacement/ Comments URL: https://news.ycombinator.com/item?id=47595108 Points: 3 # Comments: 0",
-    "published_at": "2026-04-01 00:04",
-    "tags": [],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Precision Proactivity: Measuring Cognitive Load in Real-World AI-Assisted Work",
-    "url": "https://arxiv.org/abs/2505.10742",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://arxiv.org/abs/2505.10742 Comments URL: https://news.ycombinator.com/item?id=47595100 Points: 2 # Comments: 0",
-    "published_at": "2026-04-01 00:03",
-    "tags": [],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Mission Control for AI Agents – Cyberpunk dashboard, zero deps, one HTML file",
-    "url": "https://github.com/Audazia/solar-system-agentsIbuiltSolarSystemAgentsbecauseIwanted:1.AdashboardthatlookssogoodIactuallywanttokeepitopen2.WorkswithANYagentframework3.Zerosetupfriction—noDocker,nonpm,nodatabase",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/Audazia/solar-system-agentsIbuiltSolarSystemAgentsbecauseIwanted:1.AdashboardthatlookssogoodIactuallywanttokeepitopen2.WorkswithANYagentframework3.Zerosetupfriction—noDocker,nonpm,nodatabase Comments URL: https://news.ycombinator.com/item?id=47595045 Points: 1 # Comments: 1",
-    "published_at": "2026-03-31 23:55",
-    "tags": [],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "(Quasi)auto-canonization is the greatest short-term challenge for AI",
-    "url": "https://xcancel.com/AlexKontorovich/status/2038810855110742310#m",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://xcancel.com/AlexKontorovich/status/2038810855110742310#m Comments URL: https://news.ycombinator.com/item?id=47595039 Points: 1 # Comments: 0",
-    "published_at": "2026-03-31 23:54",
-    "tags": [],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Veo 3.1 Lite – Veo 3.1 Lite – Turn Any Idea into AI Videos Instantly",
-    "url": "https://veo31lite.com",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://veo31lite.com Comments URL: https://news.ycombinator.com/item?id=47594946 Points: 2 # Comments: 0",
-    "published_at": "2026-03-31 23:43",
-    "tags": [],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: AI-Native NAACP",
-    "url": "https://naacp.ai",
-    "source": "Hacker News AI",
-    "summary": "Testing my first platform thought this would be a good use case. Should be fairly self explanatory; if not, thats also explanatory. Comments URL: https://news.ycombinator.com/item?id=47594828 Points: 1 # Comments: 0",
-    "published_at": "2026-03-31 23:28",
-    "tags": [],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Strudel.ai – Figma for org design [video]",
-    "url": "https://www.youtube.com/watch?v=HOG4s1wOh_8",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.youtube.com/watch?v=HOG4s1wOh_8 Comments URL: https://news.ycombinator.com/item?id=47594737 Points: 1 # Comments: 0",
-    "published_at": "2026-03-31 23:16",
-    "tags": [],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
-    "url": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
-    "source": "TechCrunch AI",
-    "summary": "Slack just got a whole lot more useful.",
-    "published_at": "2026-03-31 22:46",
-    "tags": [
-      "AI",
-      "Enterprise",
-      "TC",
-      "Salesforce",
-      "Marc Benioff",
-      "Slack",
-      "artificial intelligence",
-      "Slackbot"
-    ],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
-    "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
-    "source": "TechCrunch AI",
-    "summary": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
-    "published_at": "2026-03-31 21:25",
-    "tags": [
-      "AI",
-      "Fundraising",
-      "Andreessen Horowitz",
-      "Softbank",
-      "OpenAI",
-      "openai fundraise"
-    ],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
-    "url": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
-    "source": "TechCrunch AI",
-    "summary": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
-    "published_at": "2026-03-31 20:01",
-    "tags": [
-      "AI",
-      "Startups",
-      "a16z crypto",
-      "Chris Dixon"
-    ],
-    "fetch_date": "2026-04-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
-    "source": "The Verge AI",
-    "summary": "After Anthropic released Claude Code's 2.1.88 update, users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one person on X calling attention to the leak and posting a file containing the code. The leaked data reportedly contains more than 512,000 lines of code and provides a [&#8230;]",
-    "published_at": "2026-03-31 18:24",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "News",
-      "Security",
-      "Tech"
-    ],
-    "fetch_date": "2026-04-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "You can now use ChatGPT with Apple’s CarPlay",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
-    "source": "The Verge AI",
-    "summary": "ChatGPT is now accessible from your CarPlay dashboard if you have iOS 26.4 or newer and the latest version of the ChatGPT app, 9to5Mac reports. Apple's recently launched iOS 26.4 update added support for \"voice-based conversational apps\" in CarPlay, opening the door to let you use AI chatbots with voice features through Apple's in-car platform. [&#8230;]",
-    "published_at": "2026-03-31 17:03",
-    "tags": [
-      "AI",
-      "Apple",
-      "News",
-      "OpenAI",
-      "Tech"
-    ],
-    "fetch_date": "2026-04-02",
-    "fetch_label": "早报"
   }
 ]
