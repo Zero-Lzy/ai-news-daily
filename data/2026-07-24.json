@@ -1,0 +1,235 @@
+{
+  "date": "2026-07-24",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-07-24 10:53:35",
+      "count": 21,
+      "articles": [
+        {
+          "title": "The cost of GPUs goes far beyond AI data centers",
+          "url": "https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact Comments URL: https://news.ycombinator.com/item?id=49030636 Points: 3 # Comments: 0",
+          "published_at": "2026-07-24 02:35",
+          "tags": []
+        },
+        {
+          "title": "Open Source Tax Engine outperforming GPT sol and Fable 5",
+          "url": "https://opentax.invaro.ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://opentax.invaro.ai/ Comments URL: https://news.ycombinator.com/item?id=49030618 Points: 2 # Comments: 0",
+          "published_at": "2026-07-24 02:32",
+          "tags": []
+        },
+        {
+          "title": "Why AI works worse in your language",
+          "url": "https://artifipedia.com/blog/multilingual-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://artifipedia.com/blog/multilingual-ai Comments URL: https://news.ycombinator.com/item?id=49030402 Points: 2 # Comments: 0",
+          "published_at": "2026-07-24 01:51",
+          "tags": []
+        },
+        {
+          "title": "Brockovich Data Center Reporting – U.S. AI Data Center Awareness and Issue Map",
+          "url": "https://brockovichdatacenter.com/index.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://brockovichdatacenter.com/index.html Comments URL: https://news.ycombinator.com/item?id=49030230 Points: 2 # Comments: 0",
+          "published_at": "2026-07-24 01:21",
+          "tags": []
+        },
+        {
+          "title": "Advancing Mathematics Research with AI-Driven Formal Proof Search",
+          "url": "https://arxiv.org/abs/2605.22763",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2605.22763 Comments URL: https://news.ycombinator.com/item?id=49030164 Points: 1 # Comments: 0",
+          "published_at": "2026-07-24 01:10",
+          "tags": []
+        },
+        {
+          "title": "OpenAI's Hugging Face Hack Triggers 'AI Kill Switch' Bill in Congress",
+          "url": "https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html Comments URL: https://news.ycombinator.com/item?id=49029948 Points: 2 # Comments: 1",
+          "published_at": "2026-07-24 00:35",
+          "tags": []
+        },
+        {
+          "title": "A Startling Glimpse at AI's Ruthless Efficiency",
+          "url": "https://www.theatlantic.com/technology/2026/07/openai-hugging-face-hack/688025/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theatlantic.com/technology/2026/07/openai-hugging-face-hack/688025/ Comments URL: https://news.ycombinator.com/item?id=49029904 Points: 1 # Comments: 0",
+          "published_at": "2026-07-24 00:30",
+          "tags": []
+        },
+        {
+          "title": "Intel stock jumps as it rides AI boom to fastest revenue growth in almost 15 yrs",
+          "url": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html Comments URL: https://news.ycombinator.com/item?id=49029818 Points: 2 # Comments: 0",
+          "published_at": "2026-07-24 00:18",
+          "tags": []
+        },
+        {
+          "title": "AI bet goes awry: Oracle fires 21,000 employees",
+          "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442 Comments URL: https://news.ycombinator.com/item?id=49029453 Points: 13 # Comments: 2",
+          "published_at": "2026-07-23 23:26",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Run GLM-4.5-Air(110B)on a 16GBRAM consumer machine",
+          "url": "https://github.com/FedericoTs/quantprobe",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/FedericoTs/quantprobe Comments URL: https://news.ycombinator.com/item?id=49028865 Points: 3 # Comments: 0",
+          "published_at": "2026-07-23 22:24",
+          "tags": []
+        },
+        {
+          "title": "AI Kill Switch Act: Official Bill Text by Reps. Lieu and Moran (2026)",
+          "url": "https://lieu.house.gov/media-center/press-releases/reps-lieu-and-moran-introduce-bill-require-kill-switch-ai-systems-can",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://lieu.house.gov/media-center/press-releases/reps-lieu-and-moran-introduce-bill-require-kill-switch-ai-systems-can Comments URL: https://news.ycombinator.com/item?id=49028757 Points: 7 # Comments: 5",
+          "published_at": "2026-07-23 22:12",
+          "tags": []
+        },
+        {
+          "title": "Which AI models understand insurance work?",
+          "url": "https://www.coveragecat.com/ai/leaderboard",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.coveragecat.com/ai/leaderboard Comments URL: https://news.ycombinator.com/item?id=49028661 Points: 1 # Comments: 0",
+          "published_at": "2026-07-23 22:03",
+          "tags": []
+        },
+        {
+          "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+          "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+          "source": "TechCrunch AI",
+          "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
+          "published_at": "2026-07-23 18:38",
+          "tags": [
+            "AI",
+            "Security",
+            "Startups",
+            "AegisAI",
+            "battery ventures"
+          ]
+        },
+        {
+          "title": "Runway launches AI model router as generative media gets crowded",
+          "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+          "source": "TechCrunch AI",
+          "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
+          "published_at": "2026-07-23 17:07",
+          "tags": [
+            "AI",
+            "Media & Entertainment",
+            "Startups",
+            "AI audio",
+            "AI image",
+            "ai video",
+            "Exclusive",
+            "Router",
+            "runway"
+          ]
+        },
+        {
+          "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+          "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+          "source": "TechCrunch AI",
+          "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
+          "published_at": "2026-07-23 16:28",
+          "tags": [
+            "AI",
+            "Meta"
+          ]
+        },
+        {
+          "title": "Nvidia is sending GPUs to the moon",
+          "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
+          "source": "TechCrunch AI",
+          "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
+          "published_at": "2026-07-23 15:00",
+          "tags": [
+            "AI",
+            "Space",
+            "Exclusive",
+            "lunar outpost",
+            "nvidia"
+          ]
+        },
+        {
+          "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+          "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+          "source": "TechCrunch AI",
+          "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+          "published_at": "2026-07-23 15:00",
+          "tags": [
+            "AI",
+            "Hardware",
+            "Startups",
+            "TC",
+            "AI chips",
+            "etched"
+          ]
+        },
+        {
+          "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
+          "source": "The Verge AI",
+          "summary": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the legislation on Thursday. The news of [&#8230;]",
+          "published_at": "2026-07-23 10:13",
+          "tags": [
+            "AI",
+            "News",
+            "Policy",
+            "Politics"
+          ]
+        },
+        {
+          "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+          "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+          "source": "TechCrunch AI",
+          "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+          "published_at": "2026-07-22 23:47",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "Hardware",
+            "IBM"
+          ]
+        },
+        {
+          "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+          "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+          "source": "TechCrunch AI",
+          "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+          "published_at": "2026-07-22 20:49",
+          "tags": [
+            "AI",
+            "Government & Policy",
+            "Anthropic",
+            "moonshot"
+          ]
+        },
+        {
+          "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+          "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+          "source": "TechCrunch AI",
+          "summary": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
+          "published_at": "2026-07-22 18:50",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Venture",
+            "a16z",
+            "Andreessen Horowitz",
+            "robotics",
+            "Travis Kalanick"
+          ]
+        }
+      ]
+    }
+  ]
+}

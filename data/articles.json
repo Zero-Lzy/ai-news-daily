@@ -1,5 +1,207 @@
 [
   {
+    "title": "The cost of GPUs goes far beyond AI data centers",
+    "url": "https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact Comments URL: https://news.ycombinator.com/item?id=49030636 Points: 3 # Comments: 0",
+    "published_at": "2026-07-24 02:35",
+    "tags": [],
+    "fetch_date": "2026-07-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Open Source Tax Engine outperforming GPT sol and Fable 5",
+    "url": "https://opentax.invaro.ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://opentax.invaro.ai/ Comments URL: https://news.ycombinator.com/item?id=49030618 Points: 2 # Comments: 0",
+    "published_at": "2026-07-24 02:32",
+    "tags": [],
+    "fetch_date": "2026-07-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Why AI works worse in your language",
+    "url": "https://artifipedia.com/blog/multilingual-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://artifipedia.com/blog/multilingual-ai Comments URL: https://news.ycombinator.com/item?id=49030402 Points: 2 # Comments: 0",
+    "published_at": "2026-07-24 01:51",
+    "tags": [],
+    "fetch_date": "2026-07-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Brockovich Data Center Reporting – U.S. AI Data Center Awareness and Issue Map",
+    "url": "https://brockovichdatacenter.com/index.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://brockovichdatacenter.com/index.html Comments URL: https://news.ycombinator.com/item?id=49030230 Points: 2 # Comments: 0",
+    "published_at": "2026-07-24 01:21",
+    "tags": [],
+    "fetch_date": "2026-07-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Advancing Mathematics Research with AI-Driven Formal Proof Search",
+    "url": "https://arxiv.org/abs/2605.22763",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2605.22763 Comments URL: https://news.ycombinator.com/item?id=49030164 Points: 1 # Comments: 0",
+    "published_at": "2026-07-24 01:10",
+    "tags": [],
+    "fetch_date": "2026-07-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI's Hugging Face Hack Triggers 'AI Kill Switch' Bill in Congress",
+    "url": "https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html Comments URL: https://news.ycombinator.com/item?id=49029948 Points: 2 # Comments: 1",
+    "published_at": "2026-07-24 00:35",
+    "tags": [],
+    "fetch_date": "2026-07-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "A Startling Glimpse at AI's Ruthless Efficiency",
+    "url": "https://www.theatlantic.com/technology/2026/07/openai-hugging-face-hack/688025/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theatlantic.com/technology/2026/07/openai-hugging-face-hack/688025/ Comments URL: https://news.ycombinator.com/item?id=49029904 Points: 1 # Comments: 0",
+    "published_at": "2026-07-24 00:30",
+    "tags": [],
+    "fetch_date": "2026-07-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Intel stock jumps as it rides AI boom to fastest revenue growth in almost 15 yrs",
+    "url": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html Comments URL: https://news.ycombinator.com/item?id=49029818 Points: 2 # Comments: 0",
+    "published_at": "2026-07-24 00:18",
+    "tags": [],
+    "fetch_date": "2026-07-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI bet goes awry: Oracle fires 21,000 employees",
+    "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442 Comments URL: https://news.ycombinator.com/item?id=49029453 Points: 13 # Comments: 2",
+    "published_at": "2026-07-23 23:26",
+    "tags": [],
+    "fetch_date": "2026-07-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Run GLM-4.5-Air(110B)on a 16GBRAM consumer machine",
+    "url": "https://github.com/FedericoTs/quantprobe",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/FedericoTs/quantprobe Comments URL: https://news.ycombinator.com/item?id=49028865 Points: 3 # Comments: 0",
+    "published_at": "2026-07-23 22:24",
+    "tags": [],
+    "fetch_date": "2026-07-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Kill Switch Act: Official Bill Text by Reps. Lieu and Moran (2026)",
+    "url": "https://lieu.house.gov/media-center/press-releases/reps-lieu-and-moran-introduce-bill-require-kill-switch-ai-systems-can",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://lieu.house.gov/media-center/press-releases/reps-lieu-and-moran-introduce-bill-require-kill-switch-ai-systems-can Comments URL: https://news.ycombinator.com/item?id=49028757 Points: 7 # Comments: 5",
+    "published_at": "2026-07-23 22:12",
+    "tags": [],
+    "fetch_date": "2026-07-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Which AI models understand insurance work?",
+    "url": "https://www.coveragecat.com/ai/leaderboard",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.coveragecat.com/ai/leaderboard Comments URL: https://news.ycombinator.com/item?id=49028661 Points: 1 # Comments: 0",
+    "published_at": "2026-07-23 22:03",
+    "tags": [],
+    "fetch_date": "2026-07-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+    "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+    "source": "TechCrunch AI",
+    "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
+    "published_at": "2026-07-23 18:38",
+    "tags": [
+      "AI",
+      "Security",
+      "Startups",
+      "AegisAI",
+      "battery ventures"
+    ],
+    "fetch_date": "2026-07-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Runway launches AI model router as generative media gets crowded",
+    "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+    "source": "TechCrunch AI",
+    "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
+    "published_at": "2026-07-23 17:07",
+    "tags": [
+      "AI",
+      "Media & Entertainment",
+      "Startups",
+      "AI audio",
+      "AI image",
+      "ai video",
+      "Exclusive",
+      "Router",
+      "runway"
+    ],
+    "fetch_date": "2026-07-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+    "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+    "source": "TechCrunch AI",
+    "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
+    "published_at": "2026-07-23 16:28",
+    "tags": [
+      "AI",
+      "Meta"
+    ],
+    "fetch_date": "2026-07-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Nvidia is sending GPUs to the moon",
+    "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
+    "source": "TechCrunch AI",
+    "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
+    "published_at": "2026-07-23 15:00",
+    "tags": [
+      "AI",
+      "Space",
+      "Exclusive",
+      "lunar outpost",
+      "nvidia"
+    ],
+    "fetch_date": "2026-07-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+    "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+    "source": "TechCrunch AI",
+    "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+    "published_at": "2026-07-23 15:00",
+    "tags": [
+      "AI",
+      "Hardware",
+      "Startups",
+      "TC",
+      "AI chips",
+      "etched"
+    ],
+    "fetch_date": "2026-07-24",
+    "fetch_label": "早报"
+  },
+  {
     "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
     "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
     "source": "Hacker News AI",
@@ -138,6 +340,21 @@
     "tags": [],
     "fetch_date": "2026-07-23",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
+    "source": "The Verge AI",
+    "summary": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the legislation on Thursday. The news of [&#8230;]",
+    "published_at": "2026-07-23 10:13",
+    "tags": [
+      "AI",
+      "News",
+      "Policy",
+      "Politics"
+    ],
+    "fetch_date": "2026-07-24",
+    "fetch_label": "早报"
   },
   {
     "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
@@ -297,6 +514,21 @@
     "published_at": "2026-07-22 23:12",
     "tags": [],
     "fetch_date": "2026-07-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+    "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+    "source": "TechCrunch AI",
+    "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+    "published_at": "2026-07-22 20:49",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "Anthropic",
+      "moonshot"
+    ],
+    "fetch_date": "2026-07-24",
     "fetch_label": "早报"
   },
   {
@@ -35027,205 +35259,5 @@
     "tags": [],
     "fetch_date": "2026-04-02",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "Maki the efficient AI coder – Rust TUI (saves 40% tokens and low RAM)",
-    "url": "https://maki.sh",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://maki.sh Comments URL: https://news.ycombinator.com/item?id=47613768 Points: 1 # Comments: 1",
-    "published_at": "2026-04-02 12:50",
-    "tags": [],
-    "fetch_date": "2026-04-02",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Visa is bringing AI to credit card charge disputes",
-    "url": "https://qz.com/visa-ai-tools-credit-card-dispute-management",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://qz.com/visa-ai-tools-credit-card-dispute-management Comments URL: https://news.ycombinator.com/item?id=47613688 Points: 2 # Comments: 1",
-    "published_at": "2026-04-02 12:41",
-    "tags": [],
-    "fetch_date": "2026-04-02",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Google banned our mobile AI agent app for doing what Gemini should do,but doesnt",
-    "url": "https://news.ycombinator.com/item?id=47613614",
-    "source": "Hacker News AI",
-    "summary": "Hi HN,My brother and I built Sova AI (https://ayconic.io/sova), an Android agent that actually controls your installed apps.We were incredibly frustrated with the current state of mobile AI. Built-in assistants like Gemini are deeply integrated into the OS, yet if you ask them to \"Order an Uber to the airport\" or \"Send a Telegram message to friends group I'm late\", they mostly just give you web search results or a button to open the app yourself. They don't do the work. (The Perplexity \"assistan",
-    "published_at": "2026-04-02 12:35",
-    "tags": [],
-    "fetch_date": "2026-04-02",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Skales – I built a desktop AI agent a 6-year-old can use",
-    "url": "https://github.com/skalesapp/skales",
-    "source": "Hacker News AI",
-    "summary": "Solo dev from Vienna. Skales is a local-first AI desktop agent for Windows, macOS, and Linux.v9.0.0 just shipped with Agent Skills (SKILL.md import from Claude Code, Codex, Copilot), autonomous coding (Codework), multi-agent teams (Organization), Computer Use, and 15+ providers including Ollama offline.No Docker, no terminal. Download, install, done. My 6-year-old built a Snake game with it.BSL-1.1, free for personal use.DevKit: https://github.com/skalesapp/devkit Comments URL: https://news.ycom",
-    "published_at": "2026-04-02 12:26",
-    "tags": [],
-    "fetch_date": "2026-04-02",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Zabbix MCP Server – 225 tools to let AI agents manage Zabbix monitoring",
-    "url": "https://github.com/initMAX/zabbix-mcp-server",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/initMAX/zabbix-mcp-server Comments URL: https://news.ycombinator.com/item?id=47613290 Points: 2 # Comments: 0",
-    "published_at": "2026-04-02 12:03",
-    "tags": [],
-    "fetch_date": "2026-04-02",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Do Not Leave Valuables in Env (or your AI Assistant may borrow them)",
-    "url": "https://thomas.skowron.eu/blog/do-not-leave-valuables-in-env/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://thomas.skowron.eu/blog/do-not-leave-valuables-in-env/ Comments URL: https://news.ycombinator.com/item?id=47613236 Points: 1 # Comments: 0",
-    "published_at": "2026-04-02 11:58",
-    "tags": [],
-    "fetch_date": "2026-04-02",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI search is atomizing our information, warns government digital designer",
-    "url": "https://www.theregister.com/2026/04/02/ai_search_is_atomising_content/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.theregister.com/2026/04/02/ai_search_is_atomising_content/ Comments URL: https://news.ycombinator.com/item?id=47613211 Points: 1 # Comments: 0",
-    "published_at": "2026-04-02 11:56",
-    "tags": [],
-    "fetch_date": "2026-04-02",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "It’s not easy to get depression-detecting AI through the FDA",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down",
-    "source": "The Verge AI",
-    "summary": "For the past seven years, the California-based startup Kintsugi has been developing AI designed to detect signs of depression and anxiety from a person's speech. But after failing to secure FDA clearance in time, the company is shutting down and releasing most of its technology as open-source. Some elements may even find a second life [&#8230;]",
-    "published_at": "2026-04-02 11:33",
-    "tags": [
-      "AI",
-      "Health",
-      "Report",
-      "Science"
-    ],
-    "fetch_date": "2026-04-03",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Slop Detector",
-    "url": "https://github.com/QCK-Framework/QCK_SMART_Fractal-Data-Pruning",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/QCK-Framework/QCK_SMART_Fractal-Data-Pruning Comments URL: https://news.ycombinator.com/item?id=47612917 Points: 1 # Comments: 0",
-    "published_at": "2026-04-02 11:22",
-    "tags": [],
-    "fetch_date": "2026-04-02",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Microsoft’s new ‘superintelligence’ game plan is all about business",
-    "url": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model",
-    "source": "The Verge AI",
-    "summary": "Mustafa Suleyman has been preparing for his new job description for a long time. Suleyman is Microsoft's inaugural CEO of AI, but after the company underwent a large-scale restructuring in mid-March, he's handed off some duties and shifted focus to chasing superintelligence. Though the news was only made public last month, he tells The Verge, [&#8230;]",
-    "published_at": "2026-04-02 10:00",
-    "tags": [
-      "AI",
-      "Microsoft",
-      "Report",
-      "Tech"
-    ],
-    "fetch_date": "2026-04-03",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Refine: AI-Powered Peer Review",
-    "url": "https://www.refine.ink/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.refine.ink/ Comments URL: https://news.ycombinator.com/item?id=47609316 Points: 1 # Comments: 1",
-    "published_at": "2026-04-02 02:30",
-    "tags": [],
-    "fetch_date": "2026-04-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Hybro – unify local and remote AI agents in a single agent network",
-    "url": "https://hybro.ai",
-    "source": "Hacker News AI",
-    "summary": "Hi HN — I’m building an interoperability layer for AI agents that lets local and remote agents run inside the same network and coordinate with each other.Here is a short demo: https://youtu.be/KVRYeNSJnNc• OpenClaw runs locally on-device • it connects to remote agents through Hybro Hub • both participate in the same workflow executionThe goal is to make agent-to-agent coordination work across environments (local machines, cloud agents, MCP servers, etc).Right now most agent systems operate insid",
-    "published_at": "2026-04-02 02:25",
-    "tags": [],
-    "fetch_date": "2026-04-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Arcee-AI Trinity-Large-Thinking",
-    "url": "https://huggingface.co/arcee-ai/Trinity-Large-Thinking",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://huggingface.co/arcee-ai/Trinity-Large-Thinking Comments URL: https://news.ycombinator.com/item?id=47609285 Points: 1 # Comments: 0",
-    "published_at": "2026-04-02 02:25",
-    "tags": [],
-    "fetch_date": "2026-04-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The Startup That Used AI and OpenClaw to Automate Its Own Developers",
-    "url": "https://www.wsj.com/tech/ai/meet-the-startup-that-used-ai-and-openclaw-to-automate-its-own-developers-9e733351",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/meet-the-startup-that-used-ai-and-openclaw-to-automate-its-own-developers-9e733351 Comments URL: https://news.ycombinator.com/item?id=47609131 Points: 1 # Comments: 1",
-    "published_at": "2026-04-02 01:55",
-    "tags": [],
-    "fetch_date": "2026-04-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Organizations Using AI Are Confusing Temporary Friction with Permanent Safety",
-    "url": "https://www.sentinelone.com/blog/the-implementation-blind-spot-why-organizations-are-confusing-temporary-friction-with-permanent-safety/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.sentinelone.com/blog/the-implementation-blind-spot-why-organizations-are-confusing-temporary-friction-with-permanent-safety/ Comments URL: https://news.ycombinator.com/item?id=47609025 Points: 1 # Comments: 0",
-    "published_at": "2026-04-02 01:38",
-    "tags": [],
-    "fetch_date": "2026-04-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Mercor AI Breached via LiteLLM",
-    "url": "https://xcancel.com/AlvieriD/status/2038779690295378004#m",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://xcancel.com/AlvieriD/status/2038779690295378004#m Comments URL: https://news.ycombinator.com/item?id=47608958 Points: 1 # Comments: 0",
-    "published_at": "2026-04-02 01:28",
-    "tags": [],
-    "fetch_date": "2026-04-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Sixteen year trends in AI doom on HN",
-    "url": "https://hn.ai-doom.cc/",
-    "source": "Hacker News AI",
-    "summary": "As an April Fools' project, I've made this.I (ironically, depending your penchant) used an AI judge to score every top HN post and its top comments all the way back to 2010 (over 300,000 individual judgments!), and created a nice interface with the historic charts.The scoring is off of how much disgruntled AI pessimism the post and top comments show. You can use that score to either only show (in Doom Only mode) or hide (in calm mode) all the doom static.This is part joke and partly to answer my",
-    "published_at": "2026-04-02 00:38",
-    "tags": [],
-    "fetch_date": "2026-04-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover",
-    "url": "https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/ Comments URL: https://news.ycombinator.com/item?id=47608155 Points: 47 # Comments: 21",
-    "published_at": "2026-04-01 23:45",
-    "tags": [],
-    "fetch_date": "2026-04-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: 65k AI voters predict UK local elections with 75% accuracy",
-    "url": "https://kronaxis.co.uk/blog/predicting-may-7-elections",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://kronaxis.co.uk/blog/predicting-may-7-elections Comments URL: https://news.ycombinator.com/item?id=47608080 Points: 3 # Comments: 0",
-    "published_at": "2026-04-01 23:37",
-    "tags": [],
-    "fetch_date": "2026-04-02",
-    "fetch_label": "早报"
   }
 ]
