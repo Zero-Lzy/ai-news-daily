@@ -1,5 +1,21 @@
 [
   {
+    "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+    "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+    "source": "TechCrunch AI",
+    "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
+    "published_at": "2026-07-24 13:36",
+    "tags": [
+      "AI",
+      "ChatGPT",
+      "In Brief",
+      "OpenAI",
+      "voice mode"
+    ],
+    "fetch_date": "2026-07-24",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "The cost of GPUs goes far beyond AI data centers",
     "url": "https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact",
     "source": "Hacker News AI",
@@ -48,6 +64,21 @@
     "tags": [],
     "fetch_date": "2026-07-24",
     "fetch_label": "早报"
+  },
+  {
+    "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+    "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+    "source": "TechCrunch AI",
+    "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+    "published_at": "2026-07-24 01:00",
+    "tags": [
+      "AI",
+      "Security",
+      "cybersecurity",
+      "Zero-days"
+    ],
+    "fetch_date": "2026-07-24",
+    "fetch_label": "晚报"
   },
   {
     "title": "OpenAI's Hugging Face Hack Triggers 'AI Kill Switch' Bill in Congress",
@@ -118,6 +149,21 @@
     "tags": [],
     "fetch_date": "2026-07-24",
     "fetch_label": "早报"
+  },
+  {
+    "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+    "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+    "source": "TechCrunch AI",
+    "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+    "published_at": "2026-07-23 20:33",
+    "tags": [
+      "AI",
+      "amd",
+      "Anthropic",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-07-24",
+    "fetch_label": "晚报"
   },
   {
     "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
@@ -200,6 +246,37 @@
     ],
     "fetch_date": "2026-07-24",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Google’s Gemini nears billion-user milestone",
+    "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+    "source": "TechCrunch AI",
+    "summary": "Gemini had over 750 million monthly users in February.",
+    "published_at": "2026-07-23 14:52",
+    "tags": [
+      "AI",
+      "Apps",
+      "gemini",
+      "Google",
+      "Sundar Pichai"
+    ],
+    "fetch_date": "2026-07-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Patreon is laying off 20 percent of workers",
+    "url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+    "source": "The Verge AI",
+    "summary": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes \"because we believe AI replaces humans,\" but says AI has \"fundamentally transformed the tech industry, including how we work, [&#8230;]",
+    "published_at": "2026-07-23 14:20",
+    "tags": [
+      "AI",
+      "Labor",
+      "Tech",
+      "Web"
+    ],
+    "fetch_date": "2026-07-24",
+    "fetch_label": "晚报"
   },
   {
     "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
@@ -35205,59 +35282,5 @@
     ],
     "fetch_date": "2026-04-03",
     "fetch_label": "早报"
-  },
-  {
-    "title": "OpenAI just bought TBPN",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn",
-    "source": "The Verge AI",
-    "summary": "OpenAI has purchased TBPN, an online talk show that often interviews AI executives and other tech leaders. The show goes live every weekday at 2PM PT, often for a three-hour duration, counting OpenAI CEO Sam Altman, as well as executives from Meta, Microsoft, Palantir, and Andreessen Horowitz, among its past guests, and Bloomberg, CNBC, and [&#8230;]",
-    "published_at": "2026-04-02 13:40",
-    "tags": [
-      "AI",
-      "News",
-      "OpenAI"
-    ],
-    "fetch_date": "2026-04-03",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "BastionLLM: Continuous security checks for LLM endpoints",
-    "url": "https://news.ycombinator.com/item?id=47613881",
-    "source": "Hacker News AI",
-    "summary": "BastionLLM lets you register your LLM endpoint and continuously test it for prompt injection, jailbreaks, and system‑prompt leakage. It starts with a safe connectivity check, verifies you own the endpoint, then runs adversarial scans and shows reports.If you’ve built LLM APIs (e.g. RAG apps) and want to make sure they behave as they are supposed to, this might be useful. Feedback welcome (support at bastionllm dot com) Comments URL: https://news.ycombinator.com/item?id=47613881 Points: 1 # Comme",
-    "published_at": "2026-04-02 13:00",
-    "tags": [],
-    "fetch_date": "2026-04-02",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI knowledge starts with a person who owns it",
-    "url": "https://blog.obris.ai/posts/ai-answers-need-ownership",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://blog.obris.ai/posts/ai-answers-need-ownership Comments URL: https://news.ycombinator.com/item?id=47613822 Points: 1 # Comments: 0",
-    "published_at": "2026-04-02 12:55",
-    "tags": [],
-    "fetch_date": "2026-04-02",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Simp: HTTP-Style Protocol for AI Agent Communication",
-    "url": "https://github.com/therealcryptrillionaire456/simp",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/therealcryptrillionaire456/simp Comments URL: https://news.ycombinator.com/item?id=47613815 Points: 1 # Comments: 0",
-    "published_at": "2026-04-02 12:55",
-    "tags": [],
-    "fetch_date": "2026-04-02",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "MarCognity-AI v2.7.0 – factual grounding for LLM epistemic verification",
-    "url": "https://github.com/elly99-AI/MarCognity-AI",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/elly99-AI/MarCognity-AI Comments URL: https://news.ycombinator.com/item?id=47613781 Points: 1 # Comments: 0",
-    "published_at": "2026-04-02 12:51",
-    "tags": [],
-    "fetch_date": "2026-04-02",
-    "fetch_label": "晚报"
   }
 ]
