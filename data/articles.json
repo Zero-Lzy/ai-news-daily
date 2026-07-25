@@ -1,5 +1,162 @@
 [
   {
+    "title": "Show HN: WhipDesk – Control your full dev machine from your phone",
+    "url": "https://github.com/BinaryBananaLLC/WhipDesk",
+    "source": "Hacker News AI",
+    "summary": "Hi HN, I built WhipDesk, an open-source, mobile-friendly remote desktop tool for controlling your full development machine and managing AI coding agents from your phone’s browser.It gives you access to the entire desktop while also adding workflows for monitoring and managing tools such as Claude Code, Codex, GitHub Copilot, and othersThe two questions I hear most are: How is it secured, and how is it different from existing tools?Security Following the modern approach taken by open-source remot",
+    "published_at": "2026-07-25 02:49",
+    "tags": [],
+    "fetch_date": "2026-07-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Can AI Run a Food Truck Business?",
+    "url": "https://foodtruckbench.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://foodtruckbench.com Comments URL: https://news.ycombinator.com/item?id=49043853 Points: 1 # Comments: 0",
+    "published_at": "2026-07-25 02:10",
+    "tags": [],
+    "fetch_date": "2026-07-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Japanese Firm to Train Robot with AI to Reproduce Runners' Movements",
+    "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260403-320199/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260403-320199/ Comments URL: https://news.ycombinator.com/item?id=49043825 Points: 1 # Comments: 0",
+    "published_at": "2026-07-25 02:05",
+    "tags": [],
+    "fetch_date": "2026-07-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Open Weights and American AI Leadership",
+    "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/ Comments URL: https://news.ycombinator.com/item?id=49042884 Points: 9 # Comments: 3",
+    "published_at": "2026-07-24 23:29",
+    "tags": [],
+    "fetch_date": "2026-07-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Amazon cracks down on use of AI images by sellers after New York law",
+    "url": "https://www.cnbc.com/2026/07/23/amazon-makes-sellers-label-ai-generated-people-in-images-after-ny-law.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.cnbc.com/2026/07/23/amazon-makes-sellers-label-ai-generated-people-in-images-after-ny-law.html Comments URL: https://news.ycombinator.com/item?id=49042870 Points: 8 # Comments: 0",
+    "published_at": "2026-07-24 23:28",
+    "tags": [],
+    "fetch_date": "2026-07-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "GR: Ban LLM Contributions from Debian",
+    "url": "https://lists.debian.org/debian-vote/2026/07/msg00000.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://lists.debian.org/debian-vote/2026/07/msg00000.html Comments URL: https://news.ycombinator.com/item?id=49042516 Points: 6 # Comments: 0",
+    "published_at": "2026-07-24 22:43",
+    "tags": [],
+    "fetch_date": "2026-07-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Kalytera – Find out why your AI agent failed, step-by-step",
+    "url": "https://kalytera.dev",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://kalytera.dev Comments URL: https://news.ycombinator.com/item?id=49042370 Points: 1 # Comments: 0",
+    "published_at": "2026-07-24 22:26",
+    "tags": [],
+    "fetch_date": "2026-07-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Bubble: 'The risk is everywhere' – Ed Zitron [video]",
+    "url": "https://www.youtube.com/watch?v=bTwnn-5TpmQ",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=bTwnn-5TpmQ Comments URL: https://news.ycombinator.com/item?id=49042262 Points: 5 # Comments: 0",
+    "published_at": "2026-07-24 22:14",
+    "tags": [],
+    "fetch_date": "2026-07-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI companies stripping universities of their best computer scientists",
+    "url": "https://www.theatlantic.com/technology/2026/07/ai-companies-hiring-academics/688002/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theatlantic.com/technology/2026/07/ai-companies-hiring-academics/688002/ Comments URL: https://news.ycombinator.com/item?id=49042252 Points: 7 # Comments: 3",
+    "published_at": "2026-07-24 22:13",
+    "tags": [],
+    "fetch_date": "2026-07-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
+    "url": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/ Comments URL: https://news.ycombinator.com/item?id=49042205 Points: 2 # Comments: 0",
+    "published_at": "2026-07-24 22:07",
+    "tags": [],
+    "fetch_date": "2026-07-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Typepad: An AI Writing Copilot",
+    "url": "https://typepad.cc/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://typepad.cc/ Comments URL: https://news.ycombinator.com/item?id=49041999 Points: 1 # Comments: 0",
+    "published_at": "2026-07-24 21:46",
+    "tags": [],
+    "fetch_date": "2026-07-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+    "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+    "source": "TechCrunch AI",
+    "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+    "published_at": "2026-07-24 15:51",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "Microsoft",
+      "nvidia",
+      "OpenAI",
+      "Hugging Face",
+      "mistral"
+    ],
+    "fetch_date": "2026-07-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
+    "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+    "source": "TechCrunch AI",
+    "summary": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
+    "published_at": "2026-07-24 15:13",
+    "tags": [
+      "AI",
+      "Apps",
+      "Social",
+      "Bluesky"
+    ],
+    "fetch_date": "2026-07-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Midjourney acquired the astrology app Co-Star",
+    "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+    "source": "TechCrunch AI",
+    "summary": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
+    "published_at": "2026-07-24 15:09",
+    "tags": [
+      "AI",
+      "MidJourney",
+      "In Brief"
+    ],
+    "fetch_date": "2026-07-25",
+    "fetch_label": "早报"
+  },
+  {
     "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
     "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
     "source": "TechCrunch AI",
@@ -14,6 +171,39 @@
     ],
     "fetch_date": "2026-07-24",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "You can’t ignore Google Zero anymore",
+    "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+    "source": "The Verge AI",
+    "summary": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time. Now, however, the deal seems to be dead. And the [&#8230;]",
+    "published_at": "2026-07-24 13:29",
+    "tags": [
+      "AI",
+      "Gadgets",
+      "Google",
+      "Podcasts",
+      "Policy",
+      "Tech",
+      "Vergecast"
+    ],
+    "fetch_date": "2026-07-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Meta is making its AI chatbot more like an assistant",
+    "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+    "source": "The Verge AI",
+    "summary": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research that you can steer as it progresses. [&#8230;]",
+    "published_at": "2026-07-24 13:00",
+    "tags": [
+      "AI",
+      "Meta",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-07-25",
+    "fetch_label": "早报"
   },
   {
     "title": "The cost of GPUs goes far beyond AI data centers",
@@ -35103,184 +35293,5 @@
     "tags": [],
     "fetch_date": "2026-04-03",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "Chatbots are now prescribing psychiatric drugs",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs",
-    "source": "The Verge AI",
-    "summary": "Utah is allowing an AI system to prescribe psychiatric drugs without a doctor. It's only the second time the state - and the country - has delegated this kind of clinical authority to AI. State officials say it could bring costs down and ease care shortages, but physicians warn the system is opaque, risky, and [&#8230;]",
-    "published_at": "2026-04-03 07:43",
-    "tags": [
-      "AI",
-      "Health",
-      "Science",
-      "Tech"
-    ],
-    "fetch_date": "2026-04-04",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Jobs Being Created by AI",
-    "url": "https://www.wsj.com/tech/ai/wanted-head-of-human-ai-solutions-the-new-jobs-being-created-by-ai-870c6ed5",
-    "source": "Hacker News AI",
-    "summary": "https://archive.is/m2jRN Comments URL: https://news.ycombinator.com/item?id=47622591 Points: 2 # Comments: 0",
-    "published_at": "2026-04-03 02:25",
-    "tags": [],
-    "fetch_date": "2026-04-03",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Run a Local LLM, and discover why LLMs are unpredictable",
-    "url": "https://newsletter.bphogan.com/archive/issue-51-run-a-local-llm-and-discover-why-llms/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://newsletter.bphogan.com/archive/issue-51-run-a-local-llm-and-discover-why-llms/ Comments URL: https://news.ycombinator.com/item?id=47622496 Points: 1 # Comments: 0",
-    "published_at": "2026-04-03 02:06",
-    "tags": [],
-    "fetch_date": "2026-04-03",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Pinterest and Shopmy for AI-powered fashion shopping",
-    "url": "https://faishion.ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://faishion.ai Comments URL: https://news.ycombinator.com/item?id=47622383 Points: 1 # Comments: 1",
-    "published_at": "2026-04-03 01:42",
-    "tags": [],
-    "fetch_date": "2026-04-03",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "I simulated a 19th-century utopian commune with AI agents",
-    "url": "https://github.com/menggg22/utopia",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/menggg22/utopia Comments URL: https://news.ycombinator.com/item?id=47622273 Points: 3 # Comments: 2",
-    "published_at": "2026-04-03 01:20",
-    "tags": [],
-    "fetch_date": "2026-04-03",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: LM Gate – Auth and access-control gateway for self-hosted LLM back ends",
-    "url": "https://github.com/hkdb/lmgate",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/hkdb/lmgate Comments URL: https://news.ycombinator.com/item?id=47622246 Points: 1 # Comments: 0",
-    "published_at": "2026-04-03 01:12",
-    "tags": [],
-    "fetch_date": "2026-04-03",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Open-source runtime security toolkit for autonomous AI agents covering OWASP Top",
-    "url": "https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=47622136 Points: 1 # Comments: 0",
-    "published_at": "2026-04-03 00:54",
-    "tags": [],
-    "fetch_date": "2026-04-03",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI benchmarks are broken. Here's what we need instead",
-    "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/ Comments URL: https://news.ycombinator.com/item?id=47621673 Points: 3 # Comments: 1",
-    "published_at": "2026-04-02 23:45",
-    "tags": [],
-    "fetch_date": "2026-04-03",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Harness on Google Trends",
-    "url": "https://trends.google.com/trends/explore?date=today%205-y&q=Ai%20harness&hl=en-GB",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://trends.google.com/trends/explore?date=today%205-y&amp;q=Ai%20harness&amp;hl=en-GB Comments URL: https://news.ycombinator.com/item?id=47621649 Points: 1 # Comments: 0",
-    "published_at": "2026-04-02 23:42",
-    "tags": [],
-    "fetch_date": "2026-04-03",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Lisa Core – semantic compression for AI conversations (80:1 ratio, 100% local)",
-    "url": "https://chromewebstore.google.com/detail/lisa-core-ai-memory-libra/dmgnookddagimdcggdlbjmaobmoofhbj",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://chromewebstore.google.com/detail/lisa-core-ai-memory-libra/dmgnookddagimdcggdlbjmaobmoofhbj Comments URL: https://news.ycombinator.com/item?id=47621586 Points: 3 # Comments: 1",
-    "published_at": "2026-04-02 23:33",
-    "tags": [],
-    "fetch_date": "2026-04-03",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI for Software Engineering",
-    "url": "https://mattamonroe.substack.com/p/ai-for-software-engineering",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://mattamonroe.substack.com/p/ai-for-software-engineering Comments URL: https://news.ycombinator.com/item?id=47621513 Points: 1 # Comments: 0",
-    "published_at": "2026-04-02 23:25",
-    "tags": [],
-    "fetch_date": "2026-04-03",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Genesis Agent – A self-modifying AI agent that runs local (Electron, Ollama)",
-    "url": "https://github.com/Garrus800-stack/genesis-agent",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/Garrus800-stack/genesis-agent Comments URL: https://news.ycombinator.com/item?id=47621307 Points: 3 # Comments: 0",
-    "published_at": "2026-04-02 23:00",
-    "tags": [],
-    "fetch_date": "2026-04-03",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: OpenVole – VoleNet Distributed AI Agent Networking",
-    "url": "https://news.ycombinator.com/item?id=47620865",
-    "source": "Hacker News AI",
-    "summary": "Comments URL: https://news.ycombinator.com/item?id=47620865 Points: 1 # Comments: 1",
-    "published_at": "2026-04-02 22:13",
-    "tags": [],
-    "fetch_date": "2026-04-03",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "BlackSwanX,174 AI agents predict the future by fighting each other,run on Ollama",
-    "url": "https://github.com/Kalki-M/BlackSwanX",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/Kalki-M/BlackSwanX Comments URL: https://news.ycombinator.com/item?id=47620717 Points: 1 # Comments: 0",
-    "published_at": "2026-04-02 21:59",
-    "tags": [],
-    "fetch_date": "2026-04-03",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
-    "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
-    "source": "TechCrunch AI",
-    "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
-    "published_at": "2026-04-02 19:21",
-    "tags": [
-      "AI",
-      "Media & Entertainment",
-      "Chris Lehane",
-      "OpenAI",
-      "sam altman",
-      "tbpn"
-    ],
-    "fetch_date": "2026-04-03",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Microsoft takes on AI rivals with three new foundational models",
-    "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
-    "source": "TechCrunch AI",
-    "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
-    "published_at": "2026-04-02 16:48",
-    "tags": [
-      "AI",
-      "Enterprise",
-      "artificial intelligence",
-      "Microsoft",
-      "Mustafa Suleyman",
-      "OpenAI"
-    ],
-    "fetch_date": "2026-04-03",
-    "fetch_label": "早报"
   }
 ]

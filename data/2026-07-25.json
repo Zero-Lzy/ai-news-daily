@@ -1,0 +1,237 @@
+{
+  "date": "2026-07-25",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-07-25 10:52:38",
+      "count": 21,
+      "articles": [
+        {
+          "title": "Show HN: WhipDesk – Control your full dev machine from your phone",
+          "url": "https://github.com/BinaryBananaLLC/WhipDesk",
+          "source": "Hacker News AI",
+          "summary": "Hi HN, I built WhipDesk, an open-source, mobile-friendly remote desktop tool for controlling your full development machine and managing AI coding agents from your phone’s browser.It gives you access to the entire desktop while also adding workflows for monitoring and managing tools such as Claude Code, Codex, GitHub Copilot, and othersThe two questions I hear most are: How is it secured, and how is it different from existing tools?Security Following the modern approach taken by open-source remot",
+          "published_at": "2026-07-25 02:49",
+          "tags": []
+        },
+        {
+          "title": "Can AI Run a Food Truck Business?",
+          "url": "https://foodtruckbench.com",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://foodtruckbench.com Comments URL: https://news.ycombinator.com/item?id=49043853 Points: 1 # Comments: 0",
+          "published_at": "2026-07-25 02:10",
+          "tags": []
+        },
+        {
+          "title": "Japanese Firm to Train Robot with AI to Reproduce Runners' Movements",
+          "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260403-320199/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260403-320199/ Comments URL: https://news.ycombinator.com/item?id=49043825 Points: 1 # Comments: 0",
+          "published_at": "2026-07-25 02:05",
+          "tags": []
+        },
+        {
+          "title": "Open Weights and American AI Leadership",
+          "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/ Comments URL: https://news.ycombinator.com/item?id=49042884 Points: 9 # Comments: 3",
+          "published_at": "2026-07-24 23:29",
+          "tags": []
+        },
+        {
+          "title": "Amazon cracks down on use of AI images by sellers after New York law",
+          "url": "https://www.cnbc.com/2026/07/23/amazon-makes-sellers-label-ai-generated-people-in-images-after-ny-law.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.cnbc.com/2026/07/23/amazon-makes-sellers-label-ai-generated-people-in-images-after-ny-law.html Comments URL: https://news.ycombinator.com/item?id=49042870 Points: 8 # Comments: 0",
+          "published_at": "2026-07-24 23:28",
+          "tags": []
+        },
+        {
+          "title": "GR: Ban LLM Contributions from Debian",
+          "url": "https://lists.debian.org/debian-vote/2026/07/msg00000.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://lists.debian.org/debian-vote/2026/07/msg00000.html Comments URL: https://news.ycombinator.com/item?id=49042516 Points: 6 # Comments: 0",
+          "published_at": "2026-07-24 22:43",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Kalytera – Find out why your AI agent failed, step-by-step",
+          "url": "https://kalytera.dev",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://kalytera.dev Comments URL: https://news.ycombinator.com/item?id=49042370 Points: 1 # Comments: 0",
+          "published_at": "2026-07-24 22:26",
+          "tags": []
+        },
+        {
+          "title": "AI Bubble: 'The risk is everywhere' – Ed Zitron [video]",
+          "url": "https://www.youtube.com/watch?v=bTwnn-5TpmQ",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=bTwnn-5TpmQ Comments URL: https://news.ycombinator.com/item?id=49042262 Points: 5 # Comments: 0",
+          "published_at": "2026-07-24 22:14",
+          "tags": []
+        },
+        {
+          "title": "AI companies stripping universities of their best computer scientists",
+          "url": "https://www.theatlantic.com/technology/2026/07/ai-companies-hiring-academics/688002/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theatlantic.com/technology/2026/07/ai-companies-hiring-academics/688002/ Comments URL: https://news.ycombinator.com/item?id=49042252 Points: 7 # Comments: 3",
+          "published_at": "2026-07-24 22:13",
+          "tags": []
+        },
+        {
+          "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
+          "url": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/ Comments URL: https://news.ycombinator.com/item?id=49042205 Points: 2 # Comments: 0",
+          "published_at": "2026-07-24 22:07",
+          "tags": []
+        },
+        {
+          "title": "Typepad: An AI Writing Copilot",
+          "url": "https://typepad.cc/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://typepad.cc/ Comments URL: https://news.ycombinator.com/item?id=49041999 Points: 1 # Comments: 0",
+          "published_at": "2026-07-24 21:46",
+          "tags": []
+        },
+        {
+          "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+          "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+          "source": "TechCrunch AI",
+          "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+          "published_at": "2026-07-24 15:51",
+          "tags": [
+            "AI",
+            "Government & Policy",
+            "Microsoft",
+            "nvidia",
+            "OpenAI",
+            "Hugging Face",
+            "mistral"
+          ]
+        },
+        {
+          "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
+          "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+          "source": "TechCrunch AI",
+          "summary": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
+          "published_at": "2026-07-24 15:13",
+          "tags": [
+            "AI",
+            "Apps",
+            "Social",
+            "Bluesky"
+          ]
+        },
+        {
+          "title": "Midjourney acquired the astrology app Co-Star",
+          "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+          "source": "TechCrunch AI",
+          "summary": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
+          "published_at": "2026-07-24 15:09",
+          "tags": [
+            "AI",
+            "MidJourney",
+            "In Brief"
+          ]
+        },
+        {
+          "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+          "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+          "source": "TechCrunch AI",
+          "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
+          "published_at": "2026-07-24 13:36",
+          "tags": [
+            "AI",
+            "ChatGPT",
+            "voice mode",
+            "In Brief",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "You can’t ignore Google Zero anymore",
+          "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+          "source": "The Verge AI",
+          "summary": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time. Now, however, the deal seems to be dead. And the [&#8230;]",
+          "published_at": "2026-07-24 13:29",
+          "tags": [
+            "AI",
+            "Gadgets",
+            "Google",
+            "Podcasts",
+            "Policy",
+            "Tech",
+            "Vergecast"
+          ]
+        },
+        {
+          "title": "Meta is making its AI chatbot more like an assistant",
+          "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+          "source": "The Verge AI",
+          "summary": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research that you can steer as it progresses. [&#8230;]",
+          "published_at": "2026-07-24 13:00",
+          "tags": [
+            "AI",
+            "Meta",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+          "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+          "source": "TechCrunch AI",
+          "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
+          "published_at": "2026-07-23 16:28",
+          "tags": [
+            "AI",
+            "Meta"
+          ]
+        },
+        {
+          "title": "Nvidia is sending GPUs to the moon",
+          "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
+          "source": "TechCrunch AI",
+          "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
+          "published_at": "2026-07-23 15:00",
+          "tags": [
+            "AI",
+            "Space",
+            "Exclusive",
+            "lunar outpost",
+            "nvidia"
+          ]
+        },
+        {
+          "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+          "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+          "source": "TechCrunch AI",
+          "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+          "published_at": "2026-07-23 15:00",
+          "tags": [
+            "AI",
+            "Hardware",
+            "Startups",
+            "TC",
+            "etched",
+            "AI chips"
+          ]
+        },
+        {
+          "title": "Patreon is laying off 20 percent of workers",
+          "url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+          "source": "The Verge AI",
+          "summary": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes \"because we believe AI replaces humans,\" but says AI has \"fundamentally transformed the tech industry, including how we work, [&#8230;]",
+          "published_at": "2026-07-23 14:20",
+          "tags": [
+            "AI",
+            "Labor",
+            "Tech",
+            "Web"
+          ]
+        }
+      ]
+    }
+  ]
+}
