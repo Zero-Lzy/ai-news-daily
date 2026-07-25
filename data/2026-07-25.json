@@ -232,6 +232,210 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-07-25 21:27:55",
+      "count": 20,
+      "articles": [
+        {
+          "title": "Using government procurement for greener AI",
+          "url": "https://datasociety.net/research-library/greening-ai-in-the-public-sector-an-introductory-handbook-for-procurement/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://datasociety.net/research-library/greening-ai-in-the-public-sector-an-introductory-handbook-for-procurement/ Comments URL: https://news.ycombinator.com/item?id=49047349 Points: 1 # Comments: 0",
+          "published_at": "2026-07-25 13:15",
+          "tags": []
+        },
+        {
+          "title": "Quil – a reboot-proof terminal multiplexer that resumes AI sessions",
+          "url": "https://github.com/artyomsv/quil",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/artyomsv/quil Comments URL: https://news.ycombinator.com/item?id=49047032 Points: 1 # Comments: 0",
+          "published_at": "2026-07-25 12:27",
+          "tags": []
+        },
+        {
+          "title": "The University After AI",
+          "url": "https://www.chronicle.com/article/the-university-after-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.chronicle.com/article/the-university-after-ai Comments URL: https://news.ycombinator.com/item?id=49046790 Points: 3 # Comments: 0",
+          "published_at": "2026-07-25 11:47",
+          "tags": []
+        },
+        {
+          "title": "Saga: Source Attribution of Generative AI Videos (identifies the model used)",
+          "url": "https://arxiv.org/abs/2511.12834",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2511.12834 Comments URL: https://news.ycombinator.com/item?id=49046753 Points: 3 # Comments: 0",
+          "published_at": "2026-07-25 11:41",
+          "tags": []
+        },
+        {
+          "title": "Epistemic Engine – verify AI-generated code and forecast what will break",
+          "url": "https://github.com/aswinsasi/epistemic_engine",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/aswinsasi/epistemic_engine Comments URL: https://news.ycombinator.com/item?id=49046728 Points: 4 # Comments: 0",
+          "published_at": "2026-07-25 11:36",
+          "tags": []
+        },
+        {
+          "title": "Agentreg – DNS for AI agents (self-hosted, single Go binary)",
+          "url": "https://github.com/mkk2026/agentreg",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/mkk2026/agentreg Comments URL: https://news.ycombinator.com/item?id=49046554 Points: 3 # Comments: 0",
+          "published_at": "2026-07-25 11:08",
+          "tags": []
+        },
+        {
+          "title": "Sandbox-bwrap-Nix: A lightweight sandbox for AI agents and experiments",
+          "url": "https://grigio.org/sandbox-bwrap-nix-a-lightweight-sandbox-for-ai-agents-and-experiments/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://grigio.org/sandbox-bwrap-nix-a-lightweight-sandbox-for-ai-agents-and-experiments/ Comments URL: https://news.ycombinator.com/item?id=49046290 Points: 1 # Comments: 0",
+          "published_at": "2026-07-25 10:17",
+          "tags": []
+        },
+        {
+          "title": "Show HN: AgentState – Open-source resilience and caching proxy for AI agents",
+          "url": "https://github.com/aleenz1102/AgentState",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/aleenz1102/AgentState Comments URL: https://news.ycombinator.com/item?id=49046038 Points: 1 # Comments: 0",
+          "published_at": "2026-07-25 09:30",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: Is neuromorphic computing going to replace traditional AI?",
+          "url": "https://news.ycombinator.com/item?id=49045970",
+          "source": "Hacker News AI",
+          "summary": "I’ve recently learned about neuromorphic computing while thinking about the core inefficiencies of current deep learning.Today AI relies heavily on super-dense layers, continuous computation of all layers and neurons at all times, and global backpropagation to find optimal weight updates. But when you look at the human brain, none of that happens.The brain operates on principles that stand in contrast to modern LLMs:- Local Evolution: Neurons are largely independent, evolving based on their loca",
+          "published_at": "2026-07-25 09:20",
+          "tags": []
+        },
+        {
+          "title": "Case Study: AI Trainer Platform and Job Board [Months 1-6]",
+          "url": "https://www.indiehackers.com/post/case-study-ai-trainer-platform-and-job-board-months-1-6-fcb5f25d54",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.indiehackers.com/post/case-study-ai-trainer-platform-and-job-board-months-1-6-fcb5f25d54 Comments URL: https://news.ycombinator.com/item?id=49045840 Points: 2 # Comments: 0",
+          "published_at": "2026-07-25 08:58",
+          "tags": []
+        },
+        {
+          "title": "Show HN: AI Toolbox supports Claude Opus 5",
+          "url": "https://www.ai-toolbox.co",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.ai-toolbox.co Comments URL: https://news.ycombinator.com/item?id=49045835 Points: 1 # Comments: 0",
+          "published_at": "2026-07-25 08:57",
+          "tags": []
+        },
+        {
+          "title": "Code mode can help smaller LLM models",
+          "url": "https://instavm.io/blog/how-code-mode-can-help-smaller-llm-models",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://instavm.io/blog/how-code-mode-can-help-smaller-llm-models Comments URL: https://news.ycombinator.com/item?id=49045767 Points: 1 # Comments: 0",
+          "published_at": "2026-07-25 08:46",
+          "tags": []
+        },
+        {
+          "title": "General Resolution: LLM Usage in Debian",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.debian.org/vote/2026/vote_002 Comments URL: https://news.ycombinator.com/item?id=49045540 Points: 4 # Comments: 0",
+          "published_at": "2026-07-25 08:06",
+          "tags": []
+        },
+        {
+          "title": "Secretary Wright Announces First AI \"Genesis Mission\" Projects",
+          "url": "https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate Comments URL: https://news.ycombinator.com/item?id=49045445 Points: 3 # Comments: 0",
+          "published_at": "2026-07-25 07:50",
+          "tags": []
+        },
+        {
+          "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+          "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+          "source": "TechCrunch AI",
+          "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+          "published_at": "2026-07-24 22:25",
+          "tags": [
+            "AI",
+            "Startups",
+            "Exclusive",
+            "mark pincus",
+            "Reid Hoffman"
+          ]
+        },
+        {
+          "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+          "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+          "source": "TechCrunch AI",
+          "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+          "published_at": "2026-07-24 15:51",
+          "tags": [
+            "AI",
+            "Government & Policy",
+            "Microsoft",
+            "nvidia",
+            "OpenAI",
+            "Hugging Face",
+            "mistral"
+          ]
+        },
+        {
+          "title": "Midjourney acquired the astrology app Co-Star",
+          "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+          "source": "TechCrunch AI",
+          "summary": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
+          "published_at": "2026-07-24 15:09",
+          "tags": [
+            "AI",
+            "MidJourney",
+            "In Brief"
+          ]
+        },
+        {
+          "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+          "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+          "source": "TechCrunch AI",
+          "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
+          "published_at": "2026-07-24 13:36",
+          "tags": [
+            "AI",
+            "ChatGPT",
+            "voice mode",
+            "In Brief",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "You can’t ignore Google Zero anymore",
+          "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+          "source": "The Verge AI",
+          "summary": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time. Now, however, the deal seems to be dead. And the [&#8230;]",
+          "published_at": "2026-07-24 13:29",
+          "tags": [
+            "AI",
+            "Gadgets",
+            "Google",
+            "Podcasts",
+            "Policy",
+            "Tech",
+            "Vergecast"
+          ]
+        },
+        {
+          "title": "Meta is making its AI chatbot more like an assistant",
+          "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+          "source": "The Verge AI",
+          "summary": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research that you can steer as it progresses. [&#8230;]",
+          "published_at": "2026-07-24 13:00",
+          "tags": [
+            "AI",
+            "Meta",
+            "News",
+            "Tech"
+          ]
+        }
+      ]
     }
   ]
 }

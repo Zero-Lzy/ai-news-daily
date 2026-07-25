@@ -1,5 +1,145 @@
 [
   {
+    "title": "Using government procurement for greener AI",
+    "url": "https://datasociety.net/research-library/greening-ai-in-the-public-sector-an-introductory-handbook-for-procurement/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://datasociety.net/research-library/greening-ai-in-the-public-sector-an-introductory-handbook-for-procurement/ Comments URL: https://news.ycombinator.com/item?id=49047349 Points: 1 # Comments: 0",
+    "published_at": "2026-07-25 13:15",
+    "tags": [],
+    "fetch_date": "2026-07-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Quil – a reboot-proof terminal multiplexer that resumes AI sessions",
+    "url": "https://github.com/artyomsv/quil",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/artyomsv/quil Comments URL: https://news.ycombinator.com/item?id=49047032 Points: 1 # Comments: 0",
+    "published_at": "2026-07-25 12:27",
+    "tags": [],
+    "fetch_date": "2026-07-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The University After AI",
+    "url": "https://www.chronicle.com/article/the-university-after-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.chronicle.com/article/the-university-after-ai Comments URL: https://news.ycombinator.com/item?id=49046790 Points: 3 # Comments: 0",
+    "published_at": "2026-07-25 11:47",
+    "tags": [],
+    "fetch_date": "2026-07-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Saga: Source Attribution of Generative AI Videos (identifies the model used)",
+    "url": "https://arxiv.org/abs/2511.12834",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2511.12834 Comments URL: https://news.ycombinator.com/item?id=49046753 Points: 3 # Comments: 0",
+    "published_at": "2026-07-25 11:41",
+    "tags": [],
+    "fetch_date": "2026-07-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Epistemic Engine – verify AI-generated code and forecast what will break",
+    "url": "https://github.com/aswinsasi/epistemic_engine",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/aswinsasi/epistemic_engine Comments URL: https://news.ycombinator.com/item?id=49046728 Points: 4 # Comments: 0",
+    "published_at": "2026-07-25 11:36",
+    "tags": [],
+    "fetch_date": "2026-07-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Agentreg – DNS for AI agents (self-hosted, single Go binary)",
+    "url": "https://github.com/mkk2026/agentreg",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/mkk2026/agentreg Comments URL: https://news.ycombinator.com/item?id=49046554 Points: 3 # Comments: 0",
+    "published_at": "2026-07-25 11:08",
+    "tags": [],
+    "fetch_date": "2026-07-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Sandbox-bwrap-Nix: A lightweight sandbox for AI agents and experiments",
+    "url": "https://grigio.org/sandbox-bwrap-nix-a-lightweight-sandbox-for-ai-agents-and-experiments/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://grigio.org/sandbox-bwrap-nix-a-lightweight-sandbox-for-ai-agents-and-experiments/ Comments URL: https://news.ycombinator.com/item?id=49046290 Points: 1 # Comments: 0",
+    "published_at": "2026-07-25 10:17",
+    "tags": [],
+    "fetch_date": "2026-07-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: AgentState – Open-source resilience and caching proxy for AI agents",
+    "url": "https://github.com/aleenz1102/AgentState",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/aleenz1102/AgentState Comments URL: https://news.ycombinator.com/item?id=49046038 Points: 1 # Comments: 0",
+    "published_at": "2026-07-25 09:30",
+    "tags": [],
+    "fetch_date": "2026-07-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ask HN: Is neuromorphic computing going to replace traditional AI?",
+    "url": "https://news.ycombinator.com/item?id=49045970",
+    "source": "Hacker News AI",
+    "summary": "I’ve recently learned about neuromorphic computing while thinking about the core inefficiencies of current deep learning.Today AI relies heavily on super-dense layers, continuous computation of all layers and neurons at all times, and global backpropagation to find optimal weight updates. But when you look at the human brain, none of that happens.The brain operates on principles that stand in contrast to modern LLMs:- Local Evolution: Neurons are largely independent, evolving based on their loca",
+    "published_at": "2026-07-25 09:20",
+    "tags": [],
+    "fetch_date": "2026-07-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Case Study: AI Trainer Platform and Job Board [Months 1-6]",
+    "url": "https://www.indiehackers.com/post/case-study-ai-trainer-platform-and-job-board-months-1-6-fcb5f25d54",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.indiehackers.com/post/case-study-ai-trainer-platform-and-job-board-months-1-6-fcb5f25d54 Comments URL: https://news.ycombinator.com/item?id=49045840 Points: 2 # Comments: 0",
+    "published_at": "2026-07-25 08:58",
+    "tags": [],
+    "fetch_date": "2026-07-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: AI Toolbox supports Claude Opus 5",
+    "url": "https://www.ai-toolbox.co",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.ai-toolbox.co Comments URL: https://news.ycombinator.com/item?id=49045835 Points: 1 # Comments: 0",
+    "published_at": "2026-07-25 08:57",
+    "tags": [],
+    "fetch_date": "2026-07-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Code mode can help smaller LLM models",
+    "url": "https://instavm.io/blog/how-code-mode-can-help-smaller-llm-models",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://instavm.io/blog/how-code-mode-can-help-smaller-llm-models Comments URL: https://news.ycombinator.com/item?id=49045767 Points: 1 # Comments: 0",
+    "published_at": "2026-07-25 08:46",
+    "tags": [],
+    "fetch_date": "2026-07-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "General Resolution: LLM Usage in Debian",
+    "url": "https://www.debian.org/vote/2026/vote_002",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.debian.org/vote/2026/vote_002 Comments URL: https://news.ycombinator.com/item?id=49045540 Points: 4 # Comments: 0",
+    "published_at": "2026-07-25 08:06",
+    "tags": [],
+    "fetch_date": "2026-07-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Secretary Wright Announces First AI \"Genesis Mission\" Projects",
+    "url": "https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate Comments URL: https://news.ycombinator.com/item?id=49045445 Points: 3 # Comments: 0",
+    "published_at": "2026-07-25 07:50",
+    "tags": [],
+    "fetch_date": "2026-07-25",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Show HN: WhipDesk – Control your full dev machine from your phone",
     "url": "https://github.com/BinaryBananaLLC/WhipDesk",
     "source": "Hacker News AI",
@@ -68,6 +208,22 @@
     "tags": [],
     "fetch_date": "2026-07-25",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+    "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+    "source": "TechCrunch AI",
+    "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+    "published_at": "2026-07-24 22:25",
+    "tags": [
+      "AI",
+      "Startups",
+      "Exclusive",
+      "mark pincus",
+      "Reid Hoffman"
+    ],
+    "fetch_date": "2026-07-25",
+    "fetch_label": "晚报"
   },
   {
     "title": "AI Bubble: 'The risk is everywhere' – Ed Zitron [video]",
@@ -35133,165 +35289,5 @@
     ],
     "fetch_date": "2026-04-04",
     "fetch_label": "早报"
-  },
-  {
-    "title": "The Facebook insider building content moderation for the AI era",
-    "url": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
-    "source": "TechCrunch AI",
-    "summary": "Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior.",
-    "published_at": "2026-04-03 14:00",
-    "tags": [
-      "Startups",
-      "AI",
-      "Fundraising",
-      "ai safety",
-      "Amplify Partners",
-      "content moderation",
-      "Exclusive",
-      "moonbounce",
-      "StepStone Group"
-    ],
-    "fetch_date": "2026-04-05",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The AI that learned when to fire itself",
-    "url": "https://zenodo.org/records/19401816",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://zenodo.org/records/19401816 Comments URL: https://news.ycombinator.com/item?id=47626186 Points: 1 # Comments: 0",
-    "published_at": "2026-04-03 13:01",
-    "tags": [],
-    "fetch_date": "2026-04-03",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: How do you manage multiple AI agents? We built a tmux-based in Rust",
-    "url": "https://lukan.ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://lukan.ai Comments URL: https://news.ycombinator.com/item?id=47625862 Points: 2 # Comments: 0",
-    "published_at": "2026-04-03 12:22",
-    "tags": [],
-    "fetch_date": "2026-04-03",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "An AI website that tells you what to wear at 0 cost somehow",
-    "url": "https://what2wear-two.vercel.app",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://what2wear-two.vercel.app Comments URL: https://news.ycombinator.com/item?id=47625808 Points: 2 # Comments: 1",
-    "published_at": "2026-04-03 12:15",
-    "tags": [],
-    "fetch_date": "2026-04-03",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Image Upscaler – Enhance Blurry Images Online",
-    "url": "https://imgupscaleai.com/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://imgupscaleai.com/ Comments URL: https://news.ycombinator.com/item?id=47625715 Points: 2 # Comments: 0",
-    "published_at": "2026-04-03 12:03",
-    "tags": [],
-    "fetch_date": "2026-04-03",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "LLM Drift in Long Sessions: Claude 60% vs. 85% Integrity After 25 Turns",
-    "url": "https://calmkeep.ai/codetestreport",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://calmkeep.ai/codetestreport Comments URL: https://news.ycombinator.com/item?id=47625647 Points: 1 # Comments: 0",
-    "published_at": "2026-04-03 11:54",
-    "tags": [],
-    "fetch_date": "2026-04-03",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Killing Slack was the only way to make AI accurate",
-    "url": "https://promptql.io/blog/killing-slack-was-the-only-way-to-make-ai-accurate",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://promptql.io/blog/killing-slack-was-the-only-way-to-make-ai-accurate Comments URL: https://news.ycombinator.com/item?id=47625613 Points: 2 # Comments: 0",
-    "published_at": "2026-04-03 11:49",
-    "tags": [],
-    "fetch_date": "2026-04-03",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Cannot Replace Glue Work",
-    "url": "https://testpappy.wordpress.com/2026/04/03/ai-cannot-replace-glue-work/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://testpappy.wordpress.com/2026/04/03/ai-cannot-replace-glue-work/ Comments URL: https://news.ycombinator.com/item?id=47625568 Points: 3 # Comments: 0",
-    "published_at": "2026-04-03 11:44",
-    "tags": [],
-    "fetch_date": "2026-04-03",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "What If Everyone Is Wrong About AI Adoption in the Workplace",
-    "url": "https://www.forbes.com/sites/ryananderson/2026/04/01/what-if-everyone-is-wrong-about-ai-adoption-in-the-workplace/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.forbes.com/sites/ryananderson/2026/04/01/what-if-everyone-is-wrong-about-ai-adoption-in-the-workplace/ Comments URL: https://news.ycombinator.com/item?id=47625531 Points: 2 # Comments: 0",
-    "published_at": "2026-04-03 11:40",
-    "tags": [],
-    "fetch_date": "2026-04-03",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "CIRK: An execution model for AI-native development (replacing story points) ``",
-    "url": "https://cirk.dev/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://cirk.dev/ Comments URL: https://news.ycombinator.com/item?id=47625431 Points: 1 # Comments: 0",
-    "published_at": "2026-04-03 11:26",
-    "tags": [],
-    "fetch_date": "2026-04-03",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "How to teach programming in the age of AI",
-    "url": "https://www.thetransmitter.org/how-to-teach-this-paper/how-to-teach-programming-in-the-age-of-ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.thetransmitter.org/how-to-teach-this-paper/how-to-teach-programming-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=47625357 Points: 1 # Comments: 1",
-    "published_at": "2026-04-03 11:16",
-    "tags": [],
-    "fetch_date": "2026-04-03",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "China's AI Education Experiment",
-    "url": "https://www.chinatalk.media/p/chinas-ai-education-experiment",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.chinatalk.media/p/chinas-ai-education-experiment Comments URL: https://news.ycombinator.com/item?id=47625213 Points: 1 # Comments: 0",
-    "published_at": "2026-04-03 10:54",
-    "tags": [],
-    "fetch_date": "2026-04-03",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Europe's AI sovereignty just became a security emergency",
-    "url": "https://www.euractiv.com/opinion/europes-ai-sovereignty-just-became-a-security-emergency/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.euractiv.com/opinion/europes-ai-sovereignty-just-became-a-security-emergency/ Comments URL: https://news.ycombinator.com/item?id=47625126 Points: 2 # Comments: 0",
-    "published_at": "2026-04-03 10:42",
-    "tags": [],
-    "fetch_date": "2026-04-03",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Mercor, a $10B AI startup confirms major data breach",
-    "url": "https://fortune.com/2026/04/02/mercor-ai-startup-security-incident-10-billion/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://fortune.com/2026/04/02/mercor-ai-startup-security-incident-10-billion/ Comments URL: https://news.ycombinator.com/item?id=47624961 Points: 5 # Comments: 1",
-    "published_at": "2026-04-03 10:17",
-    "tags": [],
-    "fetch_date": "2026-04-03",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "OpenUMA – bring Apple-style unified memory to x86 AI inference (Rust, Linux)",
-    "url": "https://github.com/hamtun24/openuma",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/hamtun24/openuma Comments URL: https://news.ycombinator.com/item?id=47624865 Points: 2 # Comments: 0",
-    "published_at": "2026-04-03 09:59",
-    "tags": [],
-    "fetch_date": "2026-04-03",
-    "fetch_label": "晚报"
   }
 ]
