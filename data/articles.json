@@ -1,5 +1,32 @@
 [
   {
+    "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+    "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "source": "TechCrunch AI",
+    "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+    "published_at": "2026-07-26 01:30",
+    "tags": [
+      "AI",
+      "TC",
+      "Layoffs"
+    ],
+    "fetch_date": "2026-07-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+    "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+    "source": "TechCrunch AI",
+    "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
+    "published_at": "2026-07-25 16:00",
+    "tags": [
+      "AI",
+      "TC"
+    ],
+    "fetch_date": "2026-07-26",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Using government procurement for greener AI",
     "url": "https://datasociety.net/research-library/greening-ai-in-the-public-sector-an-introductory-handbook-for-procurement/",
     "source": "Hacker News AI",
@@ -8,6 +35,21 @@
     "tags": [],
     "fetch_date": "2026-07-25",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+    "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+    "source": "TechCrunch AI",
+    "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+    "published_at": "2026-07-25 13:05",
+    "tags": [
+      "Climate",
+      "AI",
+      "data centers",
+      "electrical grid"
+    ],
+    "fetch_date": "2026-07-26",
+    "fetch_label": "早报"
   },
   {
     "title": "Quil – a reboot-proof terminal multiplexer that resumes AI sessions",
@@ -313,6 +355,22 @@
     "fetch_label": "早报"
   },
   {
+    "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
+    "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
+    "source": "TechCrunch AI",
+    "summary": "Chinese AI lab Moonshot&#8217;s&#160;open model Kimi went viral this week&#160;for reasons that had less to do with the model itself and more to do with&#160;how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to a real&#160;security breach at Hugging Face&#160;— a reminder [&#8230;]",
+    "published_at": "2026-07-24 14:00",
+    "tags": [
+      "AI",
+      "Transportation",
+      "Startups",
+      "Equity podcast",
+      "Travis Kalanick"
+    ],
+    "fetch_date": "2026-07-26",
+    "fetch_label": "早报"
+  },
+  {
     "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
     "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
     "source": "TechCrunch AI",
@@ -359,6 +417,19 @@
       "Tech"
     ],
     "fetch_date": "2026-07-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+    "source": "The Verge AI",
+    "summary": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"comes close to the capabilities of Claude Fable 5 in many domains\" and is much [&#8230;]",
+    "published_at": "2026-07-24 13:00",
+    "tags": [
+      "AI",
+      "Anthropic"
+    ],
+    "fetch_date": "2026-07-26",
     "fetch_label": "早报"
   },
   {
@@ -35217,76 +35288,6 @@
     "summary": "Article URL: https://www.gilesthomas.com/2026/04/llm-from-scratch-32h-interventions-full-fat-float32 Comments URL: https://news.ycombinator.com/item?id=47633514 Points: 4 # Comments: 0",
     "published_at": "2026-04-03 23:08",
     "tags": [],
-    "fetch_date": "2026-04-04",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Y Combinator's CEO says he ships 37,000 lines of AI code per day",
-    "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media Comments URL: https://news.ycombinator.com/item?id=47633506 Points: 10 # Comments: 17",
-    "published_at": "2026-04-03 23:06",
-    "tags": [],
-    "fetch_date": "2026-04-04",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI startup envisions '100M new people' making videogames",
-    "url": "https://www.pcgamer.com/software/ai/this-ai-startup-envisions-100-million-new-people-making-videogames/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.pcgamer.com/software/ai/this-ai-startup-envisions-100-million-new-people-making-videogames/ Comments URL: https://news.ycombinator.com/item?id=47633288 Points: 3 # Comments: 4",
-    "published_at": "2026-04-03 22:40",
-    "tags": [],
-    "fetch_date": "2026-04-04",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
-    "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
-    "source": "TechCrunch AI",
-    "summary": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
-    "published_at": "2026-04-03 20:28",
-    "tags": [
-      "AI",
-      "Biotech & Health",
-      "Privacy",
-      "Startups",
-      "Venture",
-      "In Brief",
-      "Claude",
-      "Mergers and Acquisitions"
-    ],
-    "fetch_date": "2026-04-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Anthropic ramps up its political activities with a new PAC",
-    "url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
-    "source": "TechCrunch AI",
-    "summary": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
-    "published_at": "2026-04-03 20:22",
-    "tags": [
-      "AI",
-      "government",
-      "Anthropic",
-      "In Brief",
-      "artificial intelligence",
-      "AnthroPAC"
-    ],
-    "fetch_date": "2026-04-04",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "OpenAI’s AGI boss is taking a leave of absence",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
-    "source": "The Verge AI",
-    "summary": "OpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by The Verge. Fidji Simo, OpenAI's CEO of AGI deployment - who was until recently the company's CEO of applications - says in the memo that she will be stepping away on medical leave \"for the next several weeks\" due to [&#8230;]",
-    "published_at": "2026-04-03 16:22",
-    "tags": [
-      "AI",
-      "News",
-      "OpenAI"
-    ],
     "fetch_date": "2026-04-04",
     "fetch_label": "早报"
   }
