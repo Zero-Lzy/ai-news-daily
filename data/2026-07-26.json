@@ -152,6 +152,113 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-07-26 21:23:30",
+      "count": 12,
+      "articles": [
+        {
+          "title": "Coinbase Switches to Chinese AI Models GLM and Kimi, Cuts AI Spending by 50%",
+          "url": "https://mlq.ai/news/coinbase-switches-to-chinese-ai-models-glm-and-kimi-cuts-ai-spending-by-50/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://mlq.ai/news/coinbase-switches-to-chinese-ai-models-glm-and-kimi-cuts-ai-spending-by-50/ Comments URL: https://news.ycombinator.com/item?id=49057963 Points: 1 # Comments: 0",
+          "published_at": "2026-07-26 13:21",
+          "tags": []
+        },
+        {
+          "title": "The New AI Superpowers: Focus and Followthrough",
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and Comments URL: https://news.ycombinator.com/item?id=49057877 Points: 1 # Comments: 0",
+          "published_at": "2026-07-26 13:13",
+          "tags": []
+        },
+        {
+          "title": "The Money AMD Is Chasing with Its Rackscale AI System Roadmaps",
+          "url": "https://www.nextplatform.com/compute/2026/07/24/the-money-amd-is-chasing-with-its-rackscale-ai-system-roadmaps/5278510",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.nextplatform.com/compute/2026/07/24/the-money-amd-is-chasing-with-its-rackscale-ai-system-roadmaps/5278510 Comments URL: https://news.ycombinator.com/item?id=49057722 Points: 1 # Comments: 0",
+          "published_at": "2026-07-26 12:57",
+          "tags": []
+        },
+        {
+          "title": "US tech groups cut 140k jobs despite AI spending boom",
+          "url": "https://www.ft.com/content/96a33881-27fd-42cf-8cff-4cbc87fc835f",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.ft.com/content/96a33881-27fd-42cf-8cff-4cbc87fc835f Comments URL: https://news.ycombinator.com/item?id=49057704 Points: 2 # Comments: 0",
+          "published_at": "2026-07-26 12:54",
+          "tags": []
+        },
+        {
+          "title": "Google's AI Spending Spree Has Investors Nervous",
+          "url": "https://www.wsj.com/tech/ai/alphabet-googl-q2-earnings-report-2026-stock-f6bdd223",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wsj.com/tech/ai/alphabet-googl-q2-earnings-report-2026-stock-f6bdd223 Comments URL: https://news.ycombinator.com/item?id=49057589 Points: 1 # Comments: 0",
+          "published_at": "2026-07-26 12:44",
+          "tags": []
+        },
+        {
+          "title": "Making 3 AI's Count to 100 Together [video]",
+          "url": "https://www.youtube.com/watch?v=MXEInc6Zy7Q",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=MXEInc6Zy7Q Comments URL: https://news.ycombinator.com/item?id=49057519 Points: 1 # Comments: 0",
+          "published_at": "2026-07-26 12:36",
+          "tags": []
+        },
+        {
+          "title": "ARIA – Voice-native 3D spatial AI SoC with governed autonomy (BSL 1.1)",
+          "url": "https://github.com/sidevworks/aria-sec",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/sidevworks/aria-sec Comments URL: https://news.ycombinator.com/item?id=49057507 Points: 1 # Comments: 0",
+          "published_at": "2026-07-26 12:35",
+          "tags": []
+        },
+        {
+          "title": "X-OS – Building an Operating System for the AI Era",
+          "url": "https://github.com/valivalivali/x-os",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/valivalivali/x-os Comments URL: https://news.ycombinator.com/item?id=49057264 Points: 1 # Comments: 3",
+          "published_at": "2026-07-26 12:03",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Wmux – A workspace multiplexer for AI agents",
+          "url": "https://github.com/openwong2kim/wmux",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/openwong2kim/wmux Comments URL: https://news.ycombinator.com/item?id=49056854 Points: 2 # Comments: 0",
+          "published_at": "2026-07-26 11:06",
+          "tags": []
+        },
+        {
+          "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
+          "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf Comments URL: https://news.ycombinator.com/item?id=49056620 Points: 4 # Comments: 0",
+          "published_at": "2026-07-26 10:32",
+          "tags": []
+        },
+        {
+          "title": "AI drove Shopify back to clean code",
+          "url": "https://www.theregister.com/devops/2026/07/25/how-ai-drove-shopify-back-to-clean-code/5277901",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theregister.com/devops/2026/07/25/how-ai-drove-shopify-back-to-clean-code/5277901 Comments URL: https://news.ycombinator.com/item?id=49056472 Points: 1 # Comments: 0",
+          "published_at": "2026-07-26 10:07",
+          "tags": []
+        },
+        {
+          "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+          "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+          "source": "TechCrunch AI",
+          "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+          "published_at": "2026-07-26 01:30",
+          "tags": [
+            "AI",
+            "TC",
+            "Layoffs"
+          ]
+        }
+      ]
     }
   ]
 }
