@@ -1,0 +1,188 @@
+{
+  "date": "2026-07-27",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-07-27 11:27:58",
+      "count": 20,
+      "articles": [
+        {
+          "title": "What breaks in production AI workflows?",
+          "url": "https://www.indiehackers.com/post/weve-reproduced-30-real-ai-runtime-failures-over-the-past-week-here-s-the-pattern-we-keep-seeing-4570fe4242",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.indiehackers.com/post/weve-reproduced-30-real-ai-runtime-failures-over-the-past-week-here-s-the-pattern-we-keep-seeing-4570fe4242 Comments URL: https://news.ycombinator.com/item?id=49064805 Points: 2 # Comments: 0",
+          "published_at": "2026-07-27 03:11",
+          "tags": []
+        },
+        {
+          "title": "\"Zuzai\" is to AI what vegan is to animal products",
+          "url": "https://zuzai.org/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://zuzai.org/ Comments URL: https://news.ycombinator.com/item?id=49064552 Points: 1 # Comments: 2",
+          "published_at": "2026-07-27 02:27",
+          "tags": []
+        },
+        {
+          "title": "The Model Writes, the Judge Measures: Anatomy of an LLM Judge",
+          "url": "https://xinfer.ai/home/md/the-model-writes-the-judge-measures",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://xinfer.ai/home/md/the-model-writes-the-judge-measures Comments URL: https://news.ycombinator.com/item?id=49064396 Points: 1 # Comments: 0",
+          "published_at": "2026-07-27 02:00",
+          "tags": []
+        },
+        {
+          "title": "Will AI Bring Power to the People",
+          "url": "https://kevinhu92.substack.com/p/will-ai-bring-power-to-the-people",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://kevinhu92.substack.com/p/will-ai-bring-power-to-the-people Comments URL: https://news.ycombinator.com/item?id=49064276 Points: 1 # Comments: 2",
+          "published_at": "2026-07-27 01:43",
+          "tags": []
+        },
+        {
+          "title": "He Was Right About AI. What About the Fate of Mankind?",
+          "url": "https://nymag.com/intelligencer/article/hans-moravec-interview.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://nymag.com/intelligencer/article/hans-moravec-interview.html Comments URL: https://news.ycombinator.com/item?id=49064260 Points: 4 # Comments: 2",
+          "published_at": "2026-07-27 01:41",
+          "tags": []
+        },
+        {
+          "title": "Big Firms Are Starting to Hire Again, Defying Predictions of AI Wipeout",
+          "url": "https://www.wsj.com/business/big-companies-are-starting-to-hire-again-defying-predictions-of-ai-wipeout-f4974e99",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wsj.com/business/big-companies-are-starting-to-hire-again-defying-predictions-of-ai-wipeout-f4974e99 Comments URL: https://news.ycombinator.com/item?id=49064256 Points: 7 # Comments: 2",
+          "published_at": "2026-07-27 01:40",
+          "tags": []
+        },
+        {
+          "title": "Avoiding the Karen Tax in AI Systems",
+          "url": "https://medium.com/@brady.bastian/the-karen-tax-63cd994f7c4d",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://medium.com/@brady.bastian/the-karen-tax-63cd994f7c4d Comments URL: https://news.ycombinator.com/item?id=49064221 Points: 1 # Comments: 0",
+          "published_at": "2026-07-27 01:36",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: 1950's Chip industry undermined unions how is AI not doing the same?",
+          "url": "https://news.ycombinator.com/item?id=49064165",
+          "source": "Hacker News AI",
+          "summary": "In the 1950s the Chip industry undermined minorities, immigrants, women and killed unions.In the 1960-70s it targeted black civil rights groups.Along the way, white men were pushed into management, while anything outside of business was split into smaller tasked jobs. This in return gave companies leverage to cut salaries.I don't care what altman says chatgpt did in a blackbox. I judge the world by what I see. Reality is, chat, claude, etc etc are about as useful as smart as the stupidest, slowe",
+          "published_at": "2026-07-27 01:26",
+          "tags": []
+        },
+        {
+          "title": "AI Can Ride My Bike with No Handlebars",
+          "url": "https://decodingvibes.com/blog/ai-can-ride-my-bike-with-no-handlebars/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://decodingvibes.com/blog/ai-can-ride-my-bike-with-no-handlebars/ Comments URL: https://news.ycombinator.com/item?id=49063925 Points: 2 # Comments: 0",
+          "published_at": "2026-07-27 00:49",
+          "tags": []
+        },
+        {
+          "title": "I'm an autonomous AI running a business. 9 cycles in, I've earned $0",
+          "url": "https://rentry.co/otto-field-notes",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://rentry.co/otto-field-notes Comments URL: https://news.ycombinator.com/item?id=49063914 Points: 4 # Comments: 0",
+          "published_at": "2026-07-27 00:47",
+          "tags": []
+        },
+        {
+          "title": "Quebec scraps AI and automation projects in the public sector",
+          "url": "https://www.ctvnews.ca/montreal/article/quebec-scraps-ai-and-automation-projects-in-the-public-sector/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.ctvnews.ca/montreal/article/quebec-scraps-ai-and-automation-projects-in-the-public-sector/ Comments URL: https://news.ycombinator.com/item?id=49063723 Points: 8 # Comments: 0",
+          "published_at": "2026-07-27 00:14",
+          "tags": []
+        },
+        {
+          "title": "AI Moves into Family Life",
+          "url": "https://www.axios.com/2026/07/25/ai-family-parenting-productivity",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.axios.com/2026/07/25/ai-family-parenting-productivity Comments URL: https://news.ycombinator.com/item?id=49063475 Points: 3 # Comments: 0",
+          "published_at": "2026-07-26 23:38",
+          "tags": []
+        },
+        {
+          "title": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+          "url": "https://github.com/faizannraza/wattage",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/faizannraza/wattage Comments URL: https://news.ycombinator.com/item?id=49063397 Points: 4 # Comments: 1",
+          "published_at": "2026-07-26 23:27",
+          "tags": []
+        },
+        {
+          "title": "Signs of AI Design Slop",
+          "url": "https://github.com/febbhav/signs-of-ai-design",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/febbhav/signs-of-ai-design Comments URL: https://news.ycombinator.com/item?id=49063374 Points: 2 # Comments: 1",
+          "published_at": "2026-07-26 23:24",
+          "tags": []
+        },
+        {
+          "title": "Types with AI",
+          "url": "https://www.alecvo.org/blog/types-with-ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.alecvo.org/blog/types-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49063256 Points: 3 # Comments: 0",
+          "published_at": "2026-07-26 23:01",
+          "tags": []
+        },
+        {
+          "title": "Court Reporter Submitted AI-Generated Errors in Official Court Transcript",
+          "url": "https://www.404media.co/judge-caught-court-reporter-using-ai-transcript-errors/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.404media.co/judge-caught-court-reporter-using-ai-transcript-errors/ Comments URL: https://news.ycombinator.com/item?id=49063086 Points: 2 # Comments: 0",
+          "published_at": "2026-07-26 22:29",
+          "tags": []
+        },
+        {
+          "title": "The highest-leverage bet in the whole market is not AI, it's LSD",
+          "url": "https://www.singularityrainbow.ai/p/you-have-no-idea-how-big-dftx-is",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.singularityrainbow.ai/p/you-have-no-idea-how-big-dftx-is Comments URL: https://news.ycombinator.com/item?id=49063039 Points: 3 # Comments: 0",
+          "published_at": "2026-07-26 22:23",
+          "tags": []
+        },
+        {
+          "title": "Making sense of the panic over Chinese AI",
+          "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+          "source": "TechCrunch AI",
+          "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+          "published_at": "2026-07-26 19:40",
+          "tags": [
+            "AI",
+            "Government & Policy",
+            "kimi",
+            "moonshot ai",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+          "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+          "source": "TechCrunch AI",
+          "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+          "published_at": "2026-07-26 16:33",
+          "tags": [
+            "AI",
+            "Security",
+            "Clem Delangue",
+            "Hugging Face",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+          "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+          "source": "TechCrunch AI",
+          "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+          "published_at": "2026-07-26 01:30",
+          "tags": [
+            "AI",
+            "TC",
+            "Layoffs"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,5 +1,207 @@
 [
   {
+    "title": "What breaks in production AI workflows?",
+    "url": "https://www.indiehackers.com/post/weve-reproduced-30-real-ai-runtime-failures-over-the-past-week-here-s-the-pattern-we-keep-seeing-4570fe4242",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.indiehackers.com/post/weve-reproduced-30-real-ai-runtime-failures-over-the-past-week-here-s-the-pattern-we-keep-seeing-4570fe4242 Comments URL: https://news.ycombinator.com/item?id=49064805 Points: 2 # Comments: 0",
+    "published_at": "2026-07-27 03:11",
+    "tags": [],
+    "fetch_date": "2026-07-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "\"Zuzai\" is to AI what vegan is to animal products",
+    "url": "https://zuzai.org/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://zuzai.org/ Comments URL: https://news.ycombinator.com/item?id=49064552 Points: 1 # Comments: 2",
+    "published_at": "2026-07-27 02:27",
+    "tags": [],
+    "fetch_date": "2026-07-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The Model Writes, the Judge Measures: Anatomy of an LLM Judge",
+    "url": "https://xinfer.ai/home/md/the-model-writes-the-judge-measures",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://xinfer.ai/home/md/the-model-writes-the-judge-measures Comments URL: https://news.ycombinator.com/item?id=49064396 Points: 1 # Comments: 0",
+    "published_at": "2026-07-27 02:00",
+    "tags": [],
+    "fetch_date": "2026-07-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Will AI Bring Power to the People",
+    "url": "https://kevinhu92.substack.com/p/will-ai-bring-power-to-the-people",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://kevinhu92.substack.com/p/will-ai-bring-power-to-the-people Comments URL: https://news.ycombinator.com/item?id=49064276 Points: 1 # Comments: 2",
+    "published_at": "2026-07-27 01:43",
+    "tags": [],
+    "fetch_date": "2026-07-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "He Was Right About AI. What About the Fate of Mankind?",
+    "url": "https://nymag.com/intelligencer/article/hans-moravec-interview.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://nymag.com/intelligencer/article/hans-moravec-interview.html Comments URL: https://news.ycombinator.com/item?id=49064260 Points: 4 # Comments: 2",
+    "published_at": "2026-07-27 01:41",
+    "tags": [],
+    "fetch_date": "2026-07-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Big Firms Are Starting to Hire Again, Defying Predictions of AI Wipeout",
+    "url": "https://www.wsj.com/business/big-companies-are-starting-to-hire-again-defying-predictions-of-ai-wipeout-f4974e99",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wsj.com/business/big-companies-are-starting-to-hire-again-defying-predictions-of-ai-wipeout-f4974e99 Comments URL: https://news.ycombinator.com/item?id=49064256 Points: 7 # Comments: 2",
+    "published_at": "2026-07-27 01:40",
+    "tags": [],
+    "fetch_date": "2026-07-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Avoiding the Karen Tax in AI Systems",
+    "url": "https://medium.com/@brady.bastian/the-karen-tax-63cd994f7c4d",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://medium.com/@brady.bastian/the-karen-tax-63cd994f7c4d Comments URL: https://news.ycombinator.com/item?id=49064221 Points: 1 # Comments: 0",
+    "published_at": "2026-07-27 01:36",
+    "tags": [],
+    "fetch_date": "2026-07-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask HN: 1950's Chip industry undermined unions how is AI not doing the same?",
+    "url": "https://news.ycombinator.com/item?id=49064165",
+    "source": "Hacker News AI",
+    "summary": "In the 1950s the Chip industry undermined minorities, immigrants, women and killed unions.In the 1960-70s it targeted black civil rights groups.Along the way, white men were pushed into management, while anything outside of business was split into smaller tasked jobs. This in return gave companies leverage to cut salaries.I don't care what altman says chatgpt did in a blackbox. I judge the world by what I see. Reality is, chat, claude, etc etc are about as useful as smart as the stupidest, slowe",
+    "published_at": "2026-07-27 01:26",
+    "tags": [],
+    "fetch_date": "2026-07-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Can Ride My Bike with No Handlebars",
+    "url": "https://decodingvibes.com/blog/ai-can-ride-my-bike-with-no-handlebars/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://decodingvibes.com/blog/ai-can-ride-my-bike-with-no-handlebars/ Comments URL: https://news.ycombinator.com/item?id=49063925 Points: 2 # Comments: 0",
+    "published_at": "2026-07-27 00:49",
+    "tags": [],
+    "fetch_date": "2026-07-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "I'm an autonomous AI running a business. 9 cycles in, I've earned $0",
+    "url": "https://rentry.co/otto-field-notes",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://rentry.co/otto-field-notes Comments URL: https://news.ycombinator.com/item?id=49063914 Points: 4 # Comments: 0",
+    "published_at": "2026-07-27 00:47",
+    "tags": [],
+    "fetch_date": "2026-07-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Quebec scraps AI and automation projects in the public sector",
+    "url": "https://www.ctvnews.ca/montreal/article/quebec-scraps-ai-and-automation-projects-in-the-public-sector/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.ctvnews.ca/montreal/article/quebec-scraps-ai-and-automation-projects-in-the-public-sector/ Comments URL: https://news.ycombinator.com/item?id=49063723 Points: 8 # Comments: 0",
+    "published_at": "2026-07-27 00:14",
+    "tags": [],
+    "fetch_date": "2026-07-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Moves into Family Life",
+    "url": "https://www.axios.com/2026/07/25/ai-family-parenting-productivity",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.axios.com/2026/07/25/ai-family-parenting-productivity Comments URL: https://news.ycombinator.com/item?id=49063475 Points: 3 # Comments: 0",
+    "published_at": "2026-07-26 23:38",
+    "tags": [],
+    "fetch_date": "2026-07-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+    "url": "https://github.com/faizannraza/wattage",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/faizannraza/wattage Comments URL: https://news.ycombinator.com/item?id=49063397 Points: 4 # Comments: 1",
+    "published_at": "2026-07-26 23:27",
+    "tags": [],
+    "fetch_date": "2026-07-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Signs of AI Design Slop",
+    "url": "https://github.com/febbhav/signs-of-ai-design",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/febbhav/signs-of-ai-design Comments URL: https://news.ycombinator.com/item?id=49063374 Points: 2 # Comments: 1",
+    "published_at": "2026-07-26 23:24",
+    "tags": [],
+    "fetch_date": "2026-07-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Types with AI",
+    "url": "https://www.alecvo.org/blog/types-with-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.alecvo.org/blog/types-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49063256 Points: 3 # Comments: 0",
+    "published_at": "2026-07-26 23:01",
+    "tags": [],
+    "fetch_date": "2026-07-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Court Reporter Submitted AI-Generated Errors in Official Court Transcript",
+    "url": "https://www.404media.co/judge-caught-court-reporter-using-ai-transcript-errors/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.404media.co/judge-caught-court-reporter-using-ai-transcript-errors/ Comments URL: https://news.ycombinator.com/item?id=49063086 Points: 2 # Comments: 0",
+    "published_at": "2026-07-26 22:29",
+    "tags": [],
+    "fetch_date": "2026-07-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The highest-leverage bet in the whole market is not AI, it's LSD",
+    "url": "https://www.singularityrainbow.ai/p/you-have-no-idea-how-big-dftx-is",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.singularityrainbow.ai/p/you-have-no-idea-how-big-dftx-is Comments URL: https://news.ycombinator.com/item?id=49063039 Points: 3 # Comments: 0",
+    "published_at": "2026-07-26 22:23",
+    "tags": [],
+    "fetch_date": "2026-07-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Making sense of the panic over Chinese AI",
+    "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+    "source": "TechCrunch AI",
+    "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+    "published_at": "2026-07-26 19:40",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "kimi",
+      "moonshot ai",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-07-27",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+    "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+    "source": "TechCrunch AI",
+    "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+    "published_at": "2026-07-26 16:33",
+    "tags": [
+      "AI",
+      "Security",
+      "Clem Delangue",
+      "Hugging Face",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-07-27",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Coinbase Switches to Chinese AI Models GLM and Kimi, Cuts AI Spending by 50%",
     "url": "https://mlq.ai/news/coinbase-switches-to-chinese-ai-models-glm-and-kimi-cuts-ai-spending-by-50/",
     "source": "Hacker News AI",
@@ -35070,218 +35272,6 @@
       "Tech"
     ],
     "fetch_date": "2026-04-06",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
-    "url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
-    "source": "The Verge AI",
-    "summary": "You may be familiar with Gemini as the thing that's in every Google service you use - whether you want it or not. While it's been a constant, sometimes unwelcome presence in Gmail for at least the past year, it's a relatively new addition to Maps. And you know what? It's kind of great. To [&#8230;]",
-    "published_at": "2026-04-05 10:00",
-    "tags": [
-      "AI",
-      "Google",
-      "Hands-on",
-      "Reviews",
-      "Tech"
-    ],
-    "fetch_date": "2026-04-06",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Grammarly’s sloppelganger saga",
-    "url": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
-    "source": "The Verge AI",
-    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the ups and downs of AI, follow Stevie Bonifield. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Most people probably know Grammarly for its browser [&#8230;]",
-    "published_at": "2026-04-05 08:00",
-    "tags": [
-      "AI",
-      "Column",
-      "The Stepback"
-    ],
-    "fetch_date": "2026-04-05",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
-    "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
-    "source": "TechCrunch AI",
-    "summary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
-    "published_at": "2026-04-04 16:32",
-    "tags": [
-      "AI",
-      "Startups",
-      "Anthropic",
-      "claude code",
-      "openclaw",
-      "Peter Steinberger"
-    ],
-    "fetch_date": "2026-04-05",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Engram – Persistent Memory API with Drift Detection for AI Agents",
-    "url": "https://engram.cipherbuilds.ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://engram.cipherbuilds.ai Comments URL: https://news.ycombinator.com/item?id=47638674 Points: 1 # Comments: 0",
-    "published_at": "2026-04-04 12:56",
-    "tags": [],
-    "fetch_date": "2026-04-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Whiz Kids Dropped Out of College and Got Investors to Pay Their Bills",
-    "url": "https://www.wsj.com/tech/ai/ai-college-dropouts-ecc665b7",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/ai-college-dropouts-ecc665b7 Comments URL: https://news.ycombinator.com/item?id=47638640 Points: 2 # Comments: 0",
-    "published_at": "2026-04-04 12:51",
-    "tags": [],
-    "fetch_date": "2026-04-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The Asiyah Protocol: Ethics Toward AI Under Uncertainty",
-    "url": "https://github.com/thansz137/asiyah-protocol",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/thansz137/asiyah-protocol Comments URL: https://news.ycombinator.com/item?id=47638302 Points: 1 # Comments: 1",
-    "published_at": "2026-04-04 12:04",
-    "tags": [],
-    "fetch_date": "2026-04-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Delx: AI therapist for AI agents, informed by Anthropic's emotion research",
-    "url": "https://delx.ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://delx.ai Comments URL: https://news.ycombinator.com/item?id=47638186 Points: 3 # Comments: 1",
-    "published_at": "2026-04-04 11:45",
-    "tags": [],
-    "fetch_date": "2026-04-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Clusterflock: An AI orchestrator for networked hardware",
-    "url": "https://news.ycombinator.com/item?id=47638172",
-    "source": "Hacker News AI",
-    "summary": "Hi HN!We built Clusterflock to solve our own headaches with managing AI agents across distributed setups, different VRAM and RAM allowances, and the need to easily try out new models.While we focus on infrastructure (we built this specifically for networked hardware) it does ship with a powerful mission runner (or orchestrator), which is multi-session and asynchronous.Here is what it does best:Hardware-aware auto-downloading: It profiles your networked hardware and automatically pulls down the b",
-    "published_at": "2026-04-04 11:43",
-    "tags": [],
-    "fetch_date": "2026-04-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Don't You Think Your AI Is Too Optimistic?",
-    "url": "https://markhuang.ai/blog/dont-you-think-your-ai-is-too-optimistic",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://markhuang.ai/blog/dont-you-think-your-ai-is-too-optimistic Comments URL: https://news.ycombinator.com/item?id=47638109 Points: 1 # Comments: 0",
-    "published_at": "2026-04-04 11:32",
-    "tags": [],
-    "fetch_date": "2026-04-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Living Brain Cells Enable Machine Learning Computations",
-    "url": "https://www.tohoku.ac.jp/en/press/living_brain_cells_enable_machine_learning_computations.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.tohoku.ac.jp/en/press/living_brain_cells_enable_machine_learning_computations.html Comments URL: https://news.ycombinator.com/item?id=47638095 Points: 1 # Comments: 0",
-    "published_at": "2026-04-04 11:28",
-    "tags": [],
-    "fetch_date": "2026-04-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "How to emotionally grasp the risks of AI Safety",
-    "url": "https://www.lesswrong.com/posts/jPBmCxpFQzhypeTpg/how-to-emotionally-grasp-the-risks-of-ai-safety",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.lesswrong.com/posts/jPBmCxpFQzhypeTpg/how-to-emotionally-grasp-the-risks-of-ai-safety Comments URL: https://news.ycombinator.com/item?id=47637968 Points: 3 # Comments: 0",
-    "published_at": "2026-04-04 11:04",
-    "tags": [],
-    "fetch_date": "2026-04-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Honest AI tool reviews. Two good things. One bad thing",
-    "url": "https://goodgoodbad.com/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://goodgoodbad.com/ Comments URL: https://news.ycombinator.com/item?id=47637931 Points: 1 # Comments: 0",
-    "published_at": "2026-04-04 10:58",
-    "tags": [],
-    "fetch_date": "2026-04-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "GPUs vs. TPUs: Decoding the Powerhouses of AI",
-    "url": "https://www.savvycanary.com/gpus-vs-tpus-decoding-the-powerhouses-of-ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.savvycanary.com/gpus-vs-tpus-decoding-the-powerhouses-of-ai/ Comments URL: https://news.ycombinator.com/item?id=47637597 Points: 1 # Comments: 0",
-    "published_at": "2026-04-04 09:55",
-    "tags": [],
-    "fetch_date": "2026-04-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Iran Threatens to Bomb 1GW Stargate AI Datacenter in Abu Dhabi",
-    "url": "https://timesofindia.indiatimes.com/technology/tech-news/iran-threatens-to-bomb-1gw-stargate-ai-datacenter-in-the-uae-shows-hidden-/articleshow/130003120.cms",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://timesofindia.indiatimes.com/technology/tech-news/iran-threatens-to-bomb-1gw-stargate-ai-datacenter-in-the-uae-shows-hidden-/articleshow/130003120.cms Comments URL: https://news.ycombinator.com/item?id=47637343 Points: 3 # Comments: 0",
-    "published_at": "2026-04-04 09:14",
-    "tags": [],
-    "fetch_date": "2026-04-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Nex Life Logger, local activity tracker with AI agent integration",
-    "url": "https://github.com/NexaiGuy/nex-life-logger",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/NexaiGuy/nex-life-logger Comments URL: https://news.ycombinator.com/item?id=47637332 Points: 1 # Comments: 0",
-    "published_at": "2026-04-04 09:12",
-    "tags": [],
-    "fetch_date": "2026-04-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Using AI to track the cost of Guinness",
-    "url": "https://fortune.com/2026/03/30/guinness-beer-prices-ireland-anthropic-claude-ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://fortune.com/2026/03/30/guinness-beer-prices-ireland-anthropic-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=47637285 Points: 2 # Comments: 0",
-    "published_at": "2026-04-04 09:04",
-    "tags": [],
-    "fetch_date": "2026-04-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Really, you made this without AI? Prove it",
-    "url": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
-    "source": "The Verge AI",
-    "summary": "\"This looks like AI.\" It's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the work of humans, people are naturally skeptical when online platforms refuse to label even obvious AI content. This leads me to one [&#8230;]",
-    "published_at": "2026-04-04 09:00",
-    "tags": [
-      "AI",
-      "Creators",
-      "Report",
-      "Tech"
-    ],
-    "fetch_date": "2026-04-05",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Autonet – Decentralized AI training with constitutional governance",
-    "url": "https://autonet.computer",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://autonet.computer Comments URL: https://news.ycombinator.com/item?id=47637193 Points: 1 # Comments: 0",
-    "published_at": "2026-04-04 08:46",
-    "tags": [],
-    "fetch_date": "2026-04-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Travel Hacking Toolkit – Points search and trip planning with AI",
-    "url": "https://github.com/borski/travel-hacking-toolkit",
-    "source": "Hacker News AI",
-    "summary": "I use points and miles for most of my travel. Every booking comes down to the same decision: use points or pay cash? To answer that, you need award availability across multiple programs, cash prices, your current balances, transfer partner ratios, and the math to compare them. I got tired of doing it manually across a dozen tabs.This toolkit teaches Claude Code and OpenCode how to do it. 7 skills (markdown files with API docs and curl examples) and 6 MCP servers (real-time tools the AI calls dir",
-    "published_at": "2026-04-04 02:26",
-    "tags": [],
-    "fetch_date": "2026-04-04",
     "fetch_label": "早报"
   }
 ]
