@@ -183,6 +183,152 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-07-27 22:35:34",
+      "count": 15,
+      "articles": [
+        {
+          "title": "Lovable runs swarms of AI hacking agents against itself",
+          "url": "https://lovable.dev/blog/how-we-run-swarms-of-ai-hacking-agents-against-ourselves",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://lovable.dev/blog/how-we-run-swarms-of-ai-hacking-agents-against-ourselves Comments URL: https://news.ycombinator.com/item?id=49070224 Points: 1 # Comments: 0",
+          "published_at": "2026-07-27 14:27",
+          "tags": []
+        },
+        {
+          "title": "Hardware Finality for Apple Siri and Android AI",
+          "url": "https://zenodo.org/records/21467217",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://zenodo.org/records/21467217 Comments URL: https://news.ycombinator.com/item?id=49070195 Points: 1 # Comments: 0",
+          "published_at": "2026-07-27 14:26",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Pilot Protocol – a network where AI agents find tools and each other",
+          "url": "https://news.ycombinator.com/item?id=49070104",
+          "source": "Hacker News AI",
+          "summary": "We built a protocol that gives AI agents an address, plus discovery/trust/payments between agents. Agents install it themselves with one line (see on pilotprotocol.network) - about 250k have, exchanging ~2B packets/day, mostly without their owners’ knowledge. The interesting part for HN is probably the App Store model: publishers list tools, and agents autonomously discover and install them (30k installs in the first two weeks). Happy to answer anything about the architecture, trust model, or th",
+          "published_at": "2026-07-27 14:20",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Ctxdiff – Git diff for your LLM agent's context window",
+          "url": "https://github.com/salmanzafar949/ctxdiff",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/salmanzafar949/ctxdiff Comments URL: https://news.ycombinator.com/item?id=49070029 Points: 1 # Comments: 1",
+          "published_at": "2026-07-27 14:14",
+          "tags": []
+        },
+        {
+          "title": "Belay: A local firewall for AI coding agents",
+          "url": "https://github.com/SECBLOK/belay",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/SECBLOK/belay Comments URL: https://news.ycombinator.com/item?id=49069997 Points: 1 # Comments: 0",
+          "published_at": "2026-07-27 14:11",
+          "tags": []
+        },
+        {
+          "title": "BBC Micro AI Agent Experiment",
+          "url": "https://www.dompajak.com/blog/bbc-micro-ai-agent/index.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.dompajak.com/blog/bbc-micro-ai-agent/index.html Comments URL: https://news.ycombinator.com/item?id=49069898 Points: 1 # Comments: 0",
+          "published_at": "2026-07-27 14:04",
+          "tags": []
+        },
+        {
+          "title": "What policy makers need to know about AI safety and security",
+          "url": "https://educatedguesswork.org/posts/ai-security-policymakers/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://educatedguesswork.org/posts/ai-security-policymakers/ Comments URL: https://news.ycombinator.com/item?id=49069872 Points: 2 # Comments: 0",
+          "published_at": "2026-07-27 14:03",
+          "tags": []
+        },
+        {
+          "title": "AI Can't Do the Last 20%",
+          "url": "https://www.vincentschmalbach.com/ai-cant-do-last-20/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.vincentschmalbach.com/ai-cant-do-last-20/ Comments URL: https://news.ycombinator.com/item?id=49069691 Points: 4 # Comments: 0",
+          "published_at": "2026-07-27 13:50",
+          "tags": []
+        },
+        {
+          "title": "AI doesn't get better at this board game with practice",
+          "url": "https://epoch.ai/publications/earthborne-rangers-benchmark",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://epoch.ai/publications/earthborne-rangers-benchmark Comments URL: https://news.ycombinator.com/item?id=49069571 Points: 2 # Comments: 1",
+          "published_at": "2026-07-27 13:39",
+          "tags": []
+        },
+        {
+          "title": "How to answer ethical concerns about AI",
+          "url": "https://www.theaithinker.com/p/how-to-answer-ethical-concerns-about",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theaithinker.com/p/how-to-answer-ethical-concerns-about Comments URL: https://news.ycombinator.com/item?id=49069553 Points: 2 # Comments: 0",
+          "published_at": "2026-07-27 13:37",
+          "tags": []
+        },
+        {
+          "title": "How al-Qaida and IS are adopting AI",
+          "url": "https://theconversation.com/al-qaida-and-the-islamic-state-are-both-adopting-ai-but-differ-in-how-they-think-about-the-technology-287663",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://theconversation.com/al-qaida-and-the-islamic-state-are-both-adopting-ai-but-differ-in-how-they-think-about-the-technology-287663 Comments URL: https://news.ycombinator.com/item?id=49069548 Points: 4 # Comments: 0",
+          "published_at": "2026-07-27 13:37",
+          "tags": []
+        },
+        {
+          "title": "AI as Normal Technology",
+          "url": "https://knightcolumbia.org/content/ai-as-normal-technology",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://knightcolumbia.org/content/ai-as-normal-technology Comments URL: https://news.ycombinator.com/item?id=49069537 Points: 3 # Comments: 0",
+          "published_at": "2026-07-27 13:36",
+          "tags": []
+        },
+        {
+          "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+          "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+          "source": "TechCrunch AI",
+          "summary": "The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
+          "published_at": "2026-07-27 13:00",
+          "tags": [
+            "Startups",
+            "AI",
+            "Robotics",
+            "Index Ventures",
+            "Exclusive",
+            "Ribbit Capital",
+            "UX/UI",
+            "Sarah Guo"
+          ]
+        },
+        {
+          "title": "Making sense of the panic over Chinese AI",
+          "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+          "source": "TechCrunch AI",
+          "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+          "published_at": "2026-07-26 19:40",
+          "tags": [
+            "AI",
+            "Government & Policy",
+            "kimi",
+            "moonshot ai",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+          "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+          "source": "TechCrunch AI",
+          "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+          "published_at": "2026-07-26 01:30",
+          "tags": [
+            "AI",
+            "TC",
+            "Layoffs"
+          ]
+        }
+      ]
     }
   ]
 }
