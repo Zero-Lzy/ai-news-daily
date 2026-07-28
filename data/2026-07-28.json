@@ -131,6 +131,214 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-07-28 22:08:06",
+      "count": 21,
+      "articles": [
+        {
+          "title": "AI Engineers' Favourite AI Engineer",
+          "url": "https://www.mutagent.io/blog/were-your-ai-engineers-favorite-ai-engineer/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.mutagent.io/blog/were-your-ai-engineers-favorite-ai-engineer/ Comments URL: https://news.ycombinator.com/item?id=49083702 Points: 2 # Comments: 0",
+          "published_at": "2026-07-28 13:38",
+          "tags": []
+        },
+        {
+          "title": "Toward a test of medical AI superintelligence",
+          "url": "https://www.nature.com/articles/s41591-026-04539-8?linkId=62962697#Sec3",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.nature.com/articles/s41591-026-04539-8?linkId=62962697#Sec3 Comments URL: https://news.ycombinator.com/item?id=49083693 Points: 1 # Comments: 0",
+          "published_at": "2026-07-28 13:37",
+          "tags": []
+        },
+        {
+          "title": "How AI is powering business email compromise at scale",
+          "url": "https://research.eye.security/phishing-as-a-service-inside-two-ai-powered-phishing-kits-that-automate-bec/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://research.eye.security/phishing-as-a-service-inside-two-ai-powered-phishing-kits-that-automate-bec/ Comments URL: https://news.ycombinator.com/item?id=49083443 Points: 1 # Comments: 0",
+          "published_at": "2026-07-28 13:21",
+          "tags": []
+        },
+        {
+          "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
+          "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+          "source": "TechCrunch AI",
+          "summary": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.",
+          "published_at": "2026-07-28 13:19",
+          "tags": [
+            "AI",
+            "AWS",
+            "RSI"
+          ]
+        },
+        {
+          "title": "My local LLM scored 6/6. It was wrong every time",
+          "url": "https://markbhall.dev/writing/my-local-llm-scored-6-of-6/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://markbhall.dev/writing/my-local-llm-scored-6-of-6/ Comments URL: https://news.ycombinator.com/item?id=49083385 Points: 2 # Comments: 0",
+          "published_at": "2026-07-28 13:16",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Dinjure – Bulls and Cows in one HTML file, with a fallible AI",
+          "url": "https://dinjure.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://dinjure.com/ Comments URL: https://news.ycombinator.com/item?id=49083293 Points: 2 # Comments: 0",
+          "published_at": "2026-07-28 13:10",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+          "url": "https://github.com/schildep/verified-3d-mesh-intersection",
+          "source": "Hacker News AI",
+          "summary": "To my knowledge, this is the first formally verified implementation of a 3D constructive solid geometry (CSG) operation: mesh intersection, implemented in Lean 4 and verified against a concise specification that pins down the surface of the resulting mesh exactly and guarantees practical well-formedness conditions on the triangulation.This project is also an experiment in avoiding having to trust AI-generated code. A human reviewer only needs to read 93 lines of formal specification and run the ",
+          "published_at": "2026-07-28 13:07",
+          "tags": []
+        },
+        {
+          "title": "Securing the Future of AI Agents",
+          "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://deepmind.google/blog/securing-the-future-of-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49083222 Points: 2 # Comments: 0",
+          "published_at": "2026-07-28 13:06",
+          "tags": []
+        },
+        {
+          "title": "Tenir: A Counter-Pressure Architecture for Safe Agentic AI Under Irreversibly",
+          "url": "https://zenodo.org/records/21277138",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://zenodo.org/records/21277138 Comments URL: https://news.ycombinator.com/item?id=49083198 Points: 2 # Comments: 0",
+          "published_at": "2026-07-28 13:03",
+          "tags": []
+        },
+        {
+          "title": "OptMem – Permanent memory for AI agents",
+          "url": "https://github.com/VictorTaelin/OptMem",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/VictorTaelin/OptMem Comments URL: https://news.ycombinator.com/item?id=49083167 Points: 2 # Comments: 0",
+          "published_at": "2026-07-28 13:02",
+          "tags": []
+        },
+        {
+          "title": "Using AI for Automated Tasks",
+          "url": "https://visualgui.com/2026/07/28/using-ai-for-automated-tasks/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://visualgui.com/2026/07/28/using-ai-for-automated-tasks/ Comments URL: https://news.ycombinator.com/item?id=49083134 Points: 2 # Comments: 0",
+          "published_at": "2026-07-28 13:00",
+          "tags": []
+        },
+        {
+          "title": "XMPP Agent Gateway: A protocol for discovering and invoking AI agents",
+          "url": "https://romanbsd.github.io/xmpp-agent-gateway/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://romanbsd.github.io/xmpp-agent-gateway/ Comments URL: https://news.ycombinator.com/item?id=49083076 Points: 2 # Comments: 0",
+          "published_at": "2026-07-28 12:55",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Preloop: Open-source control plane for AI agents. See, govern, cut cost",
+          "url": "https://github.com/preloop/preloop",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/preloop/preloop Comments URL: https://news.ycombinator.com/item?id=49083015 Points: 1 # Comments: 1",
+          "published_at": "2026-07-28 12:50",
+          "tags": []
+        },
+        {
+          "title": "Puck AI – Visual AI builder embedded in your app",
+          "url": "https://puckeditor.com/blog/puck-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://puckeditor.com/blog/puck-ai Comments URL: https://news.ycombinator.com/item?id=49082979 Points: 1 # Comments: 1",
+          "published_at": "2026-07-28 12:45",
+          "tags": []
+        },
+        {
+          "title": "AI Latency Is a Feature, Not a Bug",
+          "url": "https://taceoincidunt909269.substack.com/p/ai-latency-is-a-feature-not-a-bug",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://taceoincidunt909269.substack.com/p/ai-latency-is-a-feature-not-a-bug Comments URL: https://news.ycombinator.com/item?id=49082875 Points: 2 # Comments: 0",
+          "published_at": "2026-07-28 12:35",
+          "tags": []
+        },
+        {
+          "title": "AI revenues are growing fast, but not fast enough",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough Comments URL: https://news.ycombinator.com/item?id=49082706 Points: 38 # Comments: 61",
+          "published_at": "2026-07-28 12:19",
+          "tags": []
+        },
+        {
+          "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+          "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+          "source": "ArsTechnica AI",
+          "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
+          "published_at": "2026-07-27 21:56",
+          "tags": [
+            "AI",
+            "Biz & IT",
+            "Security",
+            "microsoft",
+            "security"
+          ]
+        },
+        {
+          "title": "Threads users can now chat with Meta AI in their DMs",
+          "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+          "source": "TechCrunch AI",
+          "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
+          "published_at": "2026-07-27 16:45",
+          "tags": [
+            "AI",
+            "Apps",
+            "In Brief",
+            "meta ai",
+            "Threads"
+          ]
+        },
+        {
+          "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+          "source": "TechCrunch AI",
+          "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
+          "published_at": "2026-07-27 15:30",
+          "tags": [
+            "AI",
+            "Startups",
+            "TechCrunch Disrupt"
+          ]
+        },
+        {
+          "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
+          "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+          "source": "TechCrunch AI",
+          "summary": "The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
+          "published_at": "2026-07-27 13:00",
+          "tags": [
+            "AI",
+            "Robotics",
+            "Startups",
+            "enigma",
+            "Exclusive",
+            "Index Ventures",
+            "Ribbit Capital",
+            "Sarah Guo",
+            "UX/UI"
+          ]
+        },
+        {
+          "title": "Why China is giving away its best AI models",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+          "source": "The Verge AI",
+          "summary": "Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost. Its performance alone would have been enough to intensify the rivalry between [&#8230;]",
+          "published_at": "2026-07-27 12:51",
+          "tags": [
+            "AI",
+            "Report"
+          ]
+        }
+      ]
     }
   ]
 }

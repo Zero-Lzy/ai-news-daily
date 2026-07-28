@@ -1,5 +1,169 @@
 [
   {
+    "title": "AI Engineers' Favourite AI Engineer",
+    "url": "https://www.mutagent.io/blog/were-your-ai-engineers-favorite-ai-engineer/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.mutagent.io/blog/were-your-ai-engineers-favorite-ai-engineer/ Comments URL: https://news.ycombinator.com/item?id=49083702 Points: 2 # Comments: 0",
+    "published_at": "2026-07-28 13:38",
+    "tags": [],
+    "fetch_date": "2026-07-28",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Toward a test of medical AI superintelligence",
+    "url": "https://www.nature.com/articles/s41591-026-04539-8?linkId=62962697#Sec3",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.nature.com/articles/s41591-026-04539-8?linkId=62962697#Sec3 Comments URL: https://news.ycombinator.com/item?id=49083693 Points: 1 # Comments: 0",
+    "published_at": "2026-07-28 13:37",
+    "tags": [],
+    "fetch_date": "2026-07-28",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "How AI is powering business email compromise at scale",
+    "url": "https://research.eye.security/phishing-as-a-service-inside-two-ai-powered-phishing-kits-that-automate-bec/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://research.eye.security/phishing-as-a-service-inside-two-ai-powered-phishing-kits-that-automate-bec/ Comments URL: https://news.ycombinator.com/item?id=49083443 Points: 1 # Comments: 0",
+    "published_at": "2026-07-28 13:21",
+    "tags": [],
+    "fetch_date": "2026-07-28",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
+    "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+    "source": "TechCrunch AI",
+    "summary": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.",
+    "published_at": "2026-07-28 13:19",
+    "tags": [
+      "AI",
+      "AWS",
+      "RSI"
+    ],
+    "fetch_date": "2026-07-28",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "My local LLM scored 6/6. It was wrong every time",
+    "url": "https://markbhall.dev/writing/my-local-llm-scored-6-of-6/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://markbhall.dev/writing/my-local-llm-scored-6-of-6/ Comments URL: https://news.ycombinator.com/item?id=49083385 Points: 2 # Comments: 0",
+    "published_at": "2026-07-28 13:16",
+    "tags": [],
+    "fetch_date": "2026-07-28",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Dinjure – Bulls and Cows in one HTML file, with a fallible AI",
+    "url": "https://dinjure.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://dinjure.com/ Comments URL: https://news.ycombinator.com/item?id=49083293 Points: 2 # Comments: 0",
+    "published_at": "2026-07-28 13:10",
+    "tags": [],
+    "fetch_date": "2026-07-28",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+    "url": "https://github.com/schildep/verified-3d-mesh-intersection",
+    "source": "Hacker News AI",
+    "summary": "To my knowledge, this is the first formally verified implementation of a 3D constructive solid geometry (CSG) operation: mesh intersection, implemented in Lean 4 and verified against a concise specification that pins down the surface of the resulting mesh exactly and guarantees practical well-formedness conditions on the triangulation.This project is also an experiment in avoiding having to trust AI-generated code. A human reviewer only needs to read 93 lines of formal specification and run the ",
+    "published_at": "2026-07-28 13:07",
+    "tags": [],
+    "fetch_date": "2026-07-28",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Securing the Future of AI Agents",
+    "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://deepmind.google/blog/securing-the-future-of-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49083222 Points: 2 # Comments: 0",
+    "published_at": "2026-07-28 13:06",
+    "tags": [],
+    "fetch_date": "2026-07-28",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Tenir: A Counter-Pressure Architecture for Safe Agentic AI Under Irreversibly",
+    "url": "https://zenodo.org/records/21277138",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://zenodo.org/records/21277138 Comments URL: https://news.ycombinator.com/item?id=49083198 Points: 2 # Comments: 0",
+    "published_at": "2026-07-28 13:03",
+    "tags": [],
+    "fetch_date": "2026-07-28",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "OptMem – Permanent memory for AI agents",
+    "url": "https://github.com/VictorTaelin/OptMem",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/VictorTaelin/OptMem Comments URL: https://news.ycombinator.com/item?id=49083167 Points: 2 # Comments: 0",
+    "published_at": "2026-07-28 13:02",
+    "tags": [],
+    "fetch_date": "2026-07-28",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Using AI for Automated Tasks",
+    "url": "https://visualgui.com/2026/07/28/using-ai-for-automated-tasks/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://visualgui.com/2026/07/28/using-ai-for-automated-tasks/ Comments URL: https://news.ycombinator.com/item?id=49083134 Points: 2 # Comments: 0",
+    "published_at": "2026-07-28 13:00",
+    "tags": [],
+    "fetch_date": "2026-07-28",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "XMPP Agent Gateway: A protocol for discovering and invoking AI agents",
+    "url": "https://romanbsd.github.io/xmpp-agent-gateway/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://romanbsd.github.io/xmpp-agent-gateway/ Comments URL: https://news.ycombinator.com/item?id=49083076 Points: 2 # Comments: 0",
+    "published_at": "2026-07-28 12:55",
+    "tags": [],
+    "fetch_date": "2026-07-28",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Preloop: Open-source control plane for AI agents. See, govern, cut cost",
+    "url": "https://github.com/preloop/preloop",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/preloop/preloop Comments URL: https://news.ycombinator.com/item?id=49083015 Points: 1 # Comments: 1",
+    "published_at": "2026-07-28 12:50",
+    "tags": [],
+    "fetch_date": "2026-07-28",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Puck AI – Visual AI builder embedded in your app",
+    "url": "https://puckeditor.com/blog/puck-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://puckeditor.com/blog/puck-ai Comments URL: https://news.ycombinator.com/item?id=49082979 Points: 1 # Comments: 1",
+    "published_at": "2026-07-28 12:45",
+    "tags": [],
+    "fetch_date": "2026-07-28",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Latency Is a Feature, Not a Bug",
+    "url": "https://taceoincidunt909269.substack.com/p/ai-latency-is-a-feature-not-a-bug",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://taceoincidunt909269.substack.com/p/ai-latency-is-a-feature-not-a-bug Comments URL: https://news.ycombinator.com/item?id=49082875 Points: 2 # Comments: 0",
+    "published_at": "2026-07-28 12:35",
+    "tags": [],
+    "fetch_date": "2026-07-28",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI revenues are growing fast, but not fast enough",
+    "url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough Comments URL: https://news.ycombinator.com/item?id=49082706 Points: 38 # Comments: 61",
+    "published_at": "2026-07-28 12:19",
+    "tags": [],
+    "fetch_date": "2026-07-28",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Show HN: SeaTicket – AI agent that resolve GitHub and Discord issues",
     "url": "https://news.ycombinator.com/item?id=49078625",
     "source": "Hacker News AI",
@@ -128,6 +292,38 @@
     "tags": [],
     "fetch_date": "2026-07-28",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+    "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+    "source": "ArsTechnica AI",
+    "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
+    "published_at": "2026-07-27 21:56",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "Security",
+      "microsoft",
+      "security"
+    ],
+    "fetch_date": "2026-07-28",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Threads users can now chat with Meta AI in their DMs",
+    "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+    "source": "TechCrunch AI",
+    "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
+    "published_at": "2026-07-27 16:45",
+    "tags": [
+      "AI",
+      "Apps",
+      "In Brief",
+      "meta ai",
+      "Threads"
+    ],
+    "fetch_date": "2026-07-28",
+    "fetch_label": "晚报"
   },
   {
     "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
@@ -270,6 +466,19 @@
       "Sarah Guo"
     ],
     "fetch_date": "2026-07-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Why China is giving away its best AI models",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+    "source": "The Verge AI",
+    "summary": "Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost. Its performance alone would have been enough to intensify the rivalry between [&#8230;]",
+    "published_at": "2026-07-27 12:51",
+    "tags": [
+      "AI",
+      "Report"
+    ],
+    "fetch_date": "2026-07-28",
     "fetch_label": "晚报"
   },
   {
@@ -35057,222 +35266,5 @@
     "tags": [],
     "fetch_date": "2026-04-07",
     "fetch_label": "早报"
-  },
-  {
-    "title": "Turnpike – typed cost attribution for LLM calls",
-    "url": "https://github.com/lucianareynaud/turnpike",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/lucianareynaud/turnpike Comments URL: https://news.ycombinator.com/item?id=47669840 Points: 1 # Comments: 0",
-    "published_at": "2026-04-07 01:56",
-    "tags": [],
-    "fetch_date": "2026-04-07",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Stop using AI wrappers and just use Claude",
-    "url": "https://brickstack.substack.com/p/i-tried-every-gamma-alternative-just",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://brickstack.substack.com/p/i-tried-every-gamma-alternative-just Comments URL: https://news.ycombinator.com/item?id=47669738 Points: 2 # Comments: 1",
-    "published_at": "2026-04-07 01:41",
-    "tags": [],
-    "fetch_date": "2026-04-07",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The highest-scoring AI memory system ever benchmarked",
-    "url": "https://github.com/milla-jovovich/mempalace",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/milla-jovovich/mempalace Comments URL: https://news.ycombinator.com/item?id=47669671 Points: 3 # Comments: 1",
-    "published_at": "2026-04-07 01:29",
-    "tags": [],
-    "fetch_date": "2026-04-07",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Kafka-ML: Connecting the data stream with ML/AI frameworks",
-    "url": "https://github.com/ertis-research/kafka-ml",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/ertis-research/kafka-ml Comments URL: https://news.ycombinator.com/item?id=47669653 Points: 1 # Comments: 0",
-    "published_at": "2026-04-07 01:27",
-    "tags": [],
-    "fetch_date": "2026-04-07",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Physical Engineering AI – tools for mech engineers",
-    "url": "https://github.com/010zx00x1/Awesome-Physical-Engineering-AI",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/010zx00x1/Awesome-Physical-Engineering-AI Comments URL: https://news.ycombinator.com/item?id=47669539 Points: 2 # Comments: 0",
-    "published_at": "2026-04-07 01:13",
-    "tags": [],
-    "fetch_date": "2026-04-07",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI workout plan generator for Indian personal trainers (coachiq.in)",
-    "url": "https://news.ycombinator.com/item?id=47669470",
-    "source": "Hacker News AI",
-    "summary": "I built CoachIQ after watching personal trainers at my gym in Bengaluru spend hours creating client workout plans in Excel and sending them via WhatsApp voice notes.Trainer enters client profile, selects training days, AI generates a full weekly plan in under 60 seconds. Plan is shared via a WhatsApp link — no app download for the client.Free for first 3 plans. ₹499 per month after that (about $6).The exercise library is also free at exercises.coachiq.in — 800 plus exercises with AI generated be",
-    "published_at": "2026-04-07 01:05",
-    "tags": [],
-    "fetch_date": "2026-04-07",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Memory poisoning in AI coding agents",
-    "url": "https://github.com/asamassekou10/ship-safe",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/asamassekou10/ship-safe Comments URL: https://news.ycombinator.com/item?id=47669335 Points: 1 # Comments: 0",
-    "published_at": "2026-04-07 00:47",
-    "tags": [],
-    "fetch_date": "2026-04-07",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Knowledge Bases for AI/Human Sharing",
-    "url": "https://akuna.software/introduction",
-    "source": "Hacker News AI",
-    "summary": "Hey HN!I've been working on knowledge / memory / retrieval tooling for AI + human interaction for a few months now.Then, just a few days ago Andrej Karpathy posted the subject on X and I felt like this would be a good time to get it out there https://x.com/karpathy/status/2039805659525644595The short pitch in my view is \"Second Brain, for agents, or humans, or a mix of both\".I've been using it personally for a while now, as the tooling has evolved, especially for access to my obsidian notes just",
-    "published_at": "2026-04-07 00:02",
-    "tags": [],
-    "fetch_date": "2026-04-07",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "High AI judgment consistency does not mean high reasoning quality (preprint)",
-    "url": "https://zenodo.org/records/19446064",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://zenodo.org/records/19446064 Comments URL: https://news.ycombinator.com/item?id=47668997 Points: 1 # Comments: 0",
-    "published_at": "2026-04-06 23:59",
-    "tags": [],
-    "fetch_date": "2026-04-07",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "OpenAI's vision for the AI economy: public wealth funds, robot taxes, and more",
-    "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/ Comments URL: https://news.ycombinator.com/item?id=47668974 Points: 2 # Comments: 0",
-    "published_at": "2026-04-06 23:55",
-    "tags": [],
-    "fetch_date": "2026-04-07",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Open-source sandboxes to run AI code, browser agents and computer-use",
-    "url": "https://github.com/CelestoAI/smolVM",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/CelestoAI/smolVM Comments URL: https://news.ycombinator.com/item?id=47668778 Points: 2 # Comments: 0",
-    "published_at": "2026-04-06 23:29",
-    "tags": [],
-    "fetch_date": "2026-04-07",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Neuro-symbolic AI breakthrough cuts energy use by 100x while boosting accuracy",
-    "url": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.sciencedaily.com/releases/2026/04/260405003952.htm Comments URL: https://news.ycombinator.com/item?id=47668710 Points: 2 # Comments: 0",
-    "published_at": "2026-04-06 23:21",
-    "tags": [],
-    "fetch_date": "2026-04-07",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The AI University",
-    "url": "https://maestro.org/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://maestro.org/ Comments URL: https://news.ycombinator.com/item?id=47668541 Points: 1 # Comments: 0",
-    "published_at": "2026-04-06 23:04",
-    "tags": [],
-    "fetch_date": "2026-04-07",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Zopaf – A negotiation math engine as an MCP server (zero LLM tokens)",
-    "url": "https://zopaf-mcp-production.up.railway.app/mcp",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://zopaf-mcp-production.up.railway.app/mcp Comments URL: https://news.ycombinator.com/item?id=47668321 Points: 1 # Comments: 0",
-    "published_at": "2026-04-06 22:42",
-    "tags": [],
-    "fetch_date": "2026-04-07",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
-    "url": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
-    "source": "TechCrunch AI",
-    "summary": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks.",
-    "published_at": "2026-04-06 21:54",
-    "tags": [
-      "AI",
-      "TC",
-      "Venture",
-      "Exclusive",
-      "OpenAI",
-      "venture capital",
-      "zero shot"
-    ],
-    "fetch_date": "2026-04-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Google quietly launched an AI dictation app that works offline",
-    "url": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
-    "source": "TechCrunch AI",
-    "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
-    "published_at": "2026-04-06 18:54",
-    "tags": [
-      "AI",
-      "Apps",
-      "Wispr flow",
-      "voice AI",
-      "Dictation",
-      "Google"
-    ],
-    "fetch_date": "2026-04-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Iran threatens ‘Stargate’ AI data centers",
-    "url": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
-    "source": "TechCrunch AI",
-    "summary": "Iran said it will target U.S.-linked data centers with new missile strikes, as the war between the U.S. and Iran escalates.",
-    "published_at": "2026-04-06 18:06",
-    "tags": [
-      "AI",
-      "Enterprise",
-      "Government & Policy",
-      "TC",
-      "Cisco",
-      "datacenters",
-      "In Brief",
-      "Iran-US War",
-      "OpenAI",
-      "oracle",
-      "stargate"
-    ],
-    "fetch_date": "2026-04-07",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Token-Aware LLM Load Balancer route by inflight tokens,not connections",
-    "url": "https://github.com/SivagurunathanV/token-aware-balancer",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/SivagurunathanV/token-aware-balancer Comments URL: https://news.ycombinator.com/item?id=47660284 Points: 2 # Comments: 0",
-    "published_at": "2026-04-06 12:53",
-    "tags": [],
-    "fetch_date": "2026-04-06",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Real-time poker engine with emotion-driven AI bots",
-    "url": "https://oxyklon.net/portal",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://oxyklon.net/portal Comments URL: https://news.ycombinator.com/item?id=47660160 Points: 4 # Comments: 0",
-    "published_at": "2026-04-06 12:40",
-    "tags": [],
-    "fetch_date": "2026-04-06",
-    "fetch_label": "晚报"
   }
 ]
