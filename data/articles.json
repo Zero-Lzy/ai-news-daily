@@ -1,5 +1,149 @@
 [
   {
+    "title": "Show HN: SeaTicket – AI agent that resolve GitHub and Discord issues",
+    "url": "https://news.ycombinator.com/item?id=49078625",
+    "source": "Hacker News AI",
+    "summary": "https://seaticket.ai/ Comments URL: https://news.ycombinator.com/item?id=49078625 Points: 1 # Comments: 0",
+    "published_at": "2026-07-28 02:43",
+    "tags": [],
+    "fetch_date": "2026-07-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Is This What Comes After AI Slop?",
+    "url": "https://www.theatlantic.com/technology/2026/07/daggermouth-novel-bestseller-ai/688067/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theatlantic.com/technology/2026/07/daggermouth-novel-bestseller-ai/688067/ Comments URL: https://news.ycombinator.com/item?id=49078555 Points: 2 # Comments: 0",
+    "published_at": "2026-07-28 02:33",
+    "tags": [],
+    "fetch_date": "2026-07-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: _done – Expanding AI Capabilities",
+    "url": "https://underscoredone.com/",
+    "source": "Hacker News AI",
+    "summary": "Actions for AI. Real-world tasks your agent can't do alone.Pay per use with x402 - no accounts. no logins. no keys. Comments URL: https://news.ycombinator.com/item?id=49078096 Points: 2 # Comments: 0",
+    "published_at": "2026-07-28 01:24",
+    "tags": [],
+    "fetch_date": "2026-07-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "S.Korea's KOSPI tumbles nearly 5% as chipmakers slump on AI worries",
+    "url": "https://www.reuters.com/world/asia-pacific/skoreas-kospi-tumbles-nearly-5-chipmakers-slump-ai-worries-2026-07-07/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.reuters.com/world/asia-pacific/skoreas-kospi-tumbles-nearly-5-chipmakers-slump-ai-worries-2026-07-07/ Comments URL: https://news.ycombinator.com/item?id=49078092 Points: 7 # Comments: 1",
+    "published_at": "2026-07-28 01:23",
+    "tags": [],
+    "fetch_date": "2026-07-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Tag Universal Machine Pitch Deck [pdf]",
+    "url": "https://taguniversal.github.io/digital_blockchain_patents/TAG_Pitch_Deck.pdf",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://taguniversal.github.io/digital_blockchain_patents/TAG_Pitch_Deck.pdf Comments URL: https://news.ycombinator.com/item?id=49078060 Points: 2 # Comments: 0",
+    "published_at": "2026-07-28 01:19",
+    "tags": [],
+    "fetch_date": "2026-07-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Building a new game everyday with AI. Day #106 Zombie Survival Training",
+    "url": "https://gamevibe.us/106-zombie-survival-training",
+    "source": "Hacker News AI",
+    "summary": "I'm using AI (mostly Claude) to create/publish a new video game every dayThis is day 106, and my first stab at the zombie/survival genre. Most of the games I build with just a few prompts, but this one I used almost an entire 5-hour window on the $20/month pro subscription (in about an hour) with Opus 5 to get right with all the weapons and such. Then I go outside and touch grass for the next four hours.Happy to answer any questions, just a little hobby project of mine I'm having lots of fun wit",
+    "published_at": "2026-07-28 00:49",
+    "tags": [],
+    "fetch_date": "2026-07-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Run the AI Studio deletion test to show the chat isn't deleted",
+    "url": "https://discuss.ai.google.dev/t/please-help-do-the-ai-studio-delete-test-so-we-can-prove-that-google-does-not-delete-the-chat/174376",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://discuss.ai.google.dev/t/please-help-do-the-ai-studio-delete-test-so-we-can-prove-that-google-does-not-delete-the-chat/174376 Comments URL: https://news.ycombinator.com/item?id=49077737 Points: 3 # Comments: 0",
+    "published_at": "2026-07-28 00:37",
+    "tags": [],
+    "fetch_date": "2026-07-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The State of Simulation for Physical AI: An Overview",
+    "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai Comments URL: https://news.ycombinator.com/item?id=49077565 Points: 2 # Comments: 0",
+    "published_at": "2026-07-28 00:17",
+    "tags": [],
+    "fetch_date": "2026-07-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Did an AI Really Hack Hugging Face? [video]",
+    "url": "https://www.youtube.com/watch?v=q2KCrmQz9WE",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=q2KCrmQz9WE Comments URL: https://news.ycombinator.com/item?id=49077382 Points: 2 # Comments: 0",
+    "published_at": "2026-07-28 00:00",
+    "tags": [],
+    "fetch_date": "2026-07-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Measured LLM inference speeds on Apple Silicon, with raw data (CC BY 4.0)",
+    "url": "https://macyou.co/benchmarks",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://macyou.co/benchmarks Comments URL: https://news.ycombinator.com/item?id=49077193 Points: 3 # Comments: 0",
+    "published_at": "2026-07-27 23:45",
+    "tags": [],
+    "fetch_date": "2026-07-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Big Tech credit risks rise sharply as AI spending soars",
+    "url": "https://www.ft.com/content/ac136522-ecc7-4262-8702-e0d636ea3099",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.ft.com/content/ac136522-ecc7-4262-8702-e0d636ea3099 Comments URL: https://news.ycombinator.com/item?id=49077044 Points: 4 # Comments: 0",
+    "published_at": "2026-07-27 23:33",
+    "tags": [],
+    "fetch_date": "2026-07-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI labs don't know how to make you trust them",
+    "url": "https://www.semiodept.com/p/ai-labs-dont-know-how-to-make-you",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.semiodept.com/p/ai-labs-dont-know-how-to-make-you Comments URL: https://news.ycombinator.com/item?id=49076433 Points: 3 # Comments: 0",
+    "published_at": "2026-07-27 22:40",
+    "tags": [],
+    "fetch_date": "2026-07-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Aidress – Coordination layer for autonomous AI agents",
+    "url": "https://github.com/Aidress-ai/Aidress",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/Aidress-ai/Aidress Comments URL: https://news.ycombinator.com/item?id=49076360 Points: 4 # Comments: 0",
+    "published_at": "2026-07-27 22:35",
+    "tags": [],
+    "fetch_date": "2026-07-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
+    "published_at": "2026-07-27 15:30",
+    "tags": [
+      "AI",
+      "Startups",
+      "TechCrunch Disrupt"
+    ],
+    "fetch_date": "2026-07-28",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Lovable runs swarms of AI hacking agents against itself",
     "url": "https://lovable.dev/blog/how-we-run-swarms-of-ai-hacking-agents-against-ourselves",
     "source": "Hacker News AI",
@@ -35130,151 +35274,5 @@
     "tags": [],
     "fetch_date": "2026-04-06",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "Ask HN: How do systems (or people) detect when a text is written by an LLM",
-    "url": "https://news.ycombinator.com/item?id=47659807",
-    "source": "Hacker News AI",
-    "summary": "Hello guys, just curious about how can people or systems (computers) detect when a text was written by an LLM. My question is mainly focused to if there is some API or similar to detect if a text was written by an LLM. Thanks!!! Comments URL: https://news.ycombinator.com/item?id=47659807 Points: 14 # Comments: 12",
-    "published_at": "2026-04-06 12:03",
-    "tags": [],
-    "fetch_date": "2026-04-06",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Iran threatens OpenAI’s Stargate data center in Abu Dhabi",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
-    "source": "The Verge AI",
-    "summary": "Iran's Islamic Revolutionary Guard Corps (IRGC) has published a video threatening OpenAI's planned Abu Dhabi data center if the US follows through on threats to attack the country's power plants, as reported earlier by Tom's Hardware. The video, which was published to an Iranian state-backed news outlet's X account on April 3rd, says the IRGC [&#8230;]",
-    "published_at": "2026-04-06 11:54",
-    "tags": [
-      "AI",
-      "News",
-      "OpenAI",
-      "Policy",
-      "Politics"
-    ],
-    "fetch_date": "2026-04-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "What if AI just makes us work harder?",
-    "url": "https://timharford.com/2026/04/what-if-ai-just-makes-us-work-harder/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://timharford.com/2026/04/what-if-ai-just-makes-us-work-harder/ Comments URL: https://news.ycombinator.com/item?id=47659666 Points: 6 # Comments: 2",
-    "published_at": "2026-04-06 11:45",
-    "tags": [],
-    "fetch_date": "2026-04-06",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Why RAG doesn't work for WhatsApp AI agents and what's the alternative",
-    "url": "https://wpp.opero.so/blog/why-rag-fails-for-whatsapp-and-what-we-built-instead",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://wpp.opero.so/blog/why-rag-fails-for-whatsapp-and-what-we-built-instead Comments URL: https://news.ycombinator.com/item?id=47659635 Points: 2 # Comments: 1",
-    "published_at": "2026-04-06 11:41",
-    "tags": [],
-    "fetch_date": "2026-04-06",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Practical LLM developer project management: Obsidian Kanban plan MD files in Git",
-    "url": "https://savolai.net/notes/edu-tech-blog/llm-text-files-obsidian-kanban-practical-project-management-for-developers/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://savolai.net/notes/edu-tech-blog/llm-text-files-obsidian-kanban-practical-project-management-for-developers/ Comments URL: https://news.ycombinator.com/item?id=47659511 Points: 1 # Comments: 0",
-    "published_at": "2026-04-06 11:27",
-    "tags": [],
-    "fetch_date": "2026-04-06",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Dora – State of AI-assisted Software Development 2025 [pdf]",
-    "url": "https://services.google.com/fh/files/misc/2025_state_of_ai_assisted_software_development.pdf",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://services.google.com/fh/files/misc/2025_state_of_ai_assisted_software_development.pdf Comments URL: https://news.ycombinator.com/item?id=47659217 Points: 1 # Comments: 0",
-    "published_at": "2026-04-06 10:48",
-    "tags": [],
-    "fetch_date": "2026-04-06",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Rethinking Pair Programming in the Age of AI",
-    "url": "https://learnings.aleixmorgadas.dev/p/rethinking-pair-programming-in-the",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://learnings.aleixmorgadas.dev/p/rethinking-pair-programming-in-the Comments URL: https://news.ycombinator.com/item?id=47659212 Points: 3 # Comments: 0",
-    "published_at": "2026-04-06 10:47",
-    "tags": [],
-    "fetch_date": "2026-04-06",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Nexus – Stress-test any business decision with 1k AI agents",
-    "url": "https://nexus-sim.ink/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://nexus-sim.ink/ Comments URL: https://news.ycombinator.com/item?id=47659203 Points: 1 # Comments: 0",
-    "published_at": "2026-04-06 10:46",
-    "tags": [],
-    "fetch_date": "2026-04-06",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Rules for using unreviewed AI-generated code",
-    "url": "https://peterlavigne.com/writing/rules-for-unreviewed-ai-generated-code",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://peterlavigne.com/writing/rules-for-unreviewed-ai-generated-code Comments URL: https://news.ycombinator.com/item?id=47659181 Points: 1 # Comments: 0",
-    "published_at": "2026-04-06 10:44",
-    "tags": [],
-    "fetch_date": "2026-04-06",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Turn photos into Wordle puzzles with AI that runs 100% in your browser",
-    "url": "https://momentsgame.com/",
-    "source": "Hacker News AI",
-    "summary": "I built Moments to get this game idea out of my head, finally. My original goal was to run on-device models specifically in mobile browsers, but running local vision models directly in phone browsers is still very much too early, so I focused on desktop.How it works:- You upload a photo.- A local vision model running entirely in your browser captions it and picks a prominent object from the image.- You guess the word just like Wordle.It uses a very tiny model so it is not very smart https://hugg",
-    "published_at": "2026-04-06 10:09",
-    "tags": [],
-    "fetch_date": "2026-04-06",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: I built lightweight LLM tracing tool with CLI",
-    "url": "https://github.com/SKE-Labs/lightrace",
-    "source": "Hacker News AI",
-    "summary": "Hey Hackernews,I have been developing an agentic applications for a year now. And the biggest pain in the ass was debugging.Thus, I created to create my own tool which includes basic features such as tracing and CLI tool to get started easily.Also, the biggest concept is to re-call Tools. It is 100% opensource. let's build this together. I am thinking of caches, re-execution and branches. it is welcome to start contributing. Comments URL: https://news.ycombinator.com/item?id=47658682 Points: 3 #",
-    "published_at": "2026-04-06 09:30",
-    "tags": [],
-    "fetch_date": "2026-04-06",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Texas Republican Called Out for Sharing AI Rendering of Rescued Soldier",
-    "url": "https://www.mediaite.com/media/news/texas-republican-called-out-for-sharing-ai-rendering-of-rescued-soldier/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.mediaite.com/media/news/texas-republican-called-out-for-sharing-ai-rendering-of-rescued-soldier/ Comments URL: https://news.ycombinator.com/item?id=47658506 Points: 2 # Comments: 0",
-    "published_at": "2026-04-06 09:06",
-    "tags": [],
-    "fetch_date": "2026-04-06",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Damaged a Friendship",
-    "url": "https://www.bartmol.io/how-ai-damaged-a-friendship/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.bartmol.io/how-ai-damaged-a-friendship/ Comments URL: https://news.ycombinator.com/item?id=47658310 Points: 2 # Comments: 1",
-    "published_at": "2026-04-06 08:35",
-    "tags": [],
-    "fetch_date": "2026-04-06",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: LLM Wiki – Open-Source Implementation of Karpathy's LLM Wiki",
-    "url": "https://llmwiki.app",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://llmwiki.app Comments URL: https://news.ycombinator.com/item?id=47656181 Points: 2 # Comments: 1",
-    "published_at": "2026-04-06 02:08",
-    "tags": [],
-    "fetch_date": "2026-04-06",
-    "fetch_label": "早报"
   }
 ]

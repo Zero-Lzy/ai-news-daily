@@ -1,0 +1,136 @@
+{
+  "date": "2026-07-28",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-07-28 10:45:25",
+      "count": 15,
+      "articles": [
+        {
+          "title": "Show HN: SeaTicket – AI agent that resolve GitHub and Discord issues",
+          "url": "https://news.ycombinator.com/item?id=49078625",
+          "source": "Hacker News AI",
+          "summary": "https://seaticket.ai/ Comments URL: https://news.ycombinator.com/item?id=49078625 Points: 1 # Comments: 0",
+          "published_at": "2026-07-28 02:43",
+          "tags": []
+        },
+        {
+          "title": "Is This What Comes After AI Slop?",
+          "url": "https://www.theatlantic.com/technology/2026/07/daggermouth-novel-bestseller-ai/688067/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theatlantic.com/technology/2026/07/daggermouth-novel-bestseller-ai/688067/ Comments URL: https://news.ycombinator.com/item?id=49078555 Points: 2 # Comments: 0",
+          "published_at": "2026-07-28 02:33",
+          "tags": []
+        },
+        {
+          "title": "First Genesis Mission Projects Selected to Boost AI-Driven Scientific Discovery",
+          "url": "https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate Comments URL: https://news.ycombinator.com/item?id=49078238 Points: 2 # Comments: 0",
+          "published_at": "2026-07-28 01:47",
+          "tags": []
+        },
+        {
+          "title": "Show HN: _done – Expanding AI Capabilities",
+          "url": "https://underscoredone.com/",
+          "source": "Hacker News AI",
+          "summary": "Actions for AI. Real-world tasks your agent can't do alone.Pay per use with x402 - no accounts. no logins. no keys. Comments URL: https://news.ycombinator.com/item?id=49078096 Points: 2 # Comments: 0",
+          "published_at": "2026-07-28 01:24",
+          "tags": []
+        },
+        {
+          "title": "S.Korea's KOSPI tumbles nearly 5% as chipmakers slump on AI worries",
+          "url": "https://www.reuters.com/world/asia-pacific/skoreas-kospi-tumbles-nearly-5-chipmakers-slump-ai-worries-2026-07-07/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.reuters.com/world/asia-pacific/skoreas-kospi-tumbles-nearly-5-chipmakers-slump-ai-worries-2026-07-07/ Comments URL: https://news.ycombinator.com/item?id=49078092 Points: 7 # Comments: 1",
+          "published_at": "2026-07-28 01:23",
+          "tags": []
+        },
+        {
+          "title": "Tag Universal Machine Pitch Deck [pdf]",
+          "url": "https://taguniversal.github.io/digital_blockchain_patents/TAG_Pitch_Deck.pdf",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://taguniversal.github.io/digital_blockchain_patents/TAG_Pitch_Deck.pdf Comments URL: https://news.ycombinator.com/item?id=49078060 Points: 2 # Comments: 0",
+          "published_at": "2026-07-28 01:19",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Building a new game everyday with AI. Day #106 Zombie Survival Training",
+          "url": "https://gamevibe.us/106-zombie-survival-training",
+          "source": "Hacker News AI",
+          "summary": "I'm using AI (mostly Claude) to create/publish a new video game every dayThis is day 106, and my first stab at the zombie/survival genre. Most of the games I build with just a few prompts, but this one I used almost an entire 5-hour window on the $20/month pro subscription (in about an hour) with Opus 5 to get right with all the weapons and such. Then I go outside and touch grass for the next four hours.Happy to answer any questions, just a little hobby project of mine I'm having lots of fun wit",
+          "published_at": "2026-07-28 00:49",
+          "tags": []
+        },
+        {
+          "title": "Run the AI Studio deletion test to show the chat isn't deleted",
+          "url": "https://discuss.ai.google.dev/t/please-help-do-the-ai-studio-delete-test-so-we-can-prove-that-google-does-not-delete-the-chat/174376",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://discuss.ai.google.dev/t/please-help-do-the-ai-studio-delete-test-so-we-can-prove-that-google-does-not-delete-the-chat/174376 Comments URL: https://news.ycombinator.com/item?id=49077737 Points: 3 # Comments: 0",
+          "published_at": "2026-07-28 00:37",
+          "tags": []
+        },
+        {
+          "title": "The State of Simulation for Physical AI: An Overview",
+          "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai Comments URL: https://news.ycombinator.com/item?id=49077565 Points: 2 # Comments: 0",
+          "published_at": "2026-07-28 00:17",
+          "tags": []
+        },
+        {
+          "title": "Did an AI Really Hack Hugging Face? [video]",
+          "url": "https://www.youtube.com/watch?v=q2KCrmQz9WE",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=q2KCrmQz9WE Comments URL: https://news.ycombinator.com/item?id=49077382 Points: 2 # Comments: 0",
+          "published_at": "2026-07-28 00:00",
+          "tags": []
+        },
+        {
+          "title": "Measured LLM inference speeds on Apple Silicon, with raw data (CC BY 4.0)",
+          "url": "https://macyou.co/benchmarks",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://macyou.co/benchmarks Comments URL: https://news.ycombinator.com/item?id=49077193 Points: 3 # Comments: 0",
+          "published_at": "2026-07-27 23:45",
+          "tags": []
+        },
+        {
+          "title": "Big Tech credit risks rise sharply as AI spending soars",
+          "url": "https://www.ft.com/content/ac136522-ecc7-4262-8702-e0d636ea3099",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.ft.com/content/ac136522-ecc7-4262-8702-e0d636ea3099 Comments URL: https://news.ycombinator.com/item?id=49077044 Points: 4 # Comments: 0",
+          "published_at": "2026-07-27 23:33",
+          "tags": []
+        },
+        {
+          "title": "AI labs don't know how to make you trust them",
+          "url": "https://www.semiodept.com/p/ai-labs-dont-know-how-to-make-you",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.semiodept.com/p/ai-labs-dont-know-how-to-make-you Comments URL: https://news.ycombinator.com/item?id=49076433 Points: 3 # Comments: 0",
+          "published_at": "2026-07-27 22:40",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Aidress – Coordination layer for autonomous AI agents",
+          "url": "https://github.com/Aidress-ai/Aidress",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/Aidress-ai/Aidress Comments URL: https://news.ycombinator.com/item?id=49076360 Points: 4 # Comments: 0",
+          "published_at": "2026-07-27 22:35",
+          "tags": []
+        },
+        {
+          "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+          "source": "TechCrunch AI",
+          "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
+          "published_at": "2026-07-27 15:30",
+          "tags": [
+            "AI",
+            "Startups",
+            "TechCrunch Disrupt"
+          ]
+        }
+      ]
+    }
+  ]
+}
