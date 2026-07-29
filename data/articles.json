@@ -1,5 +1,168 @@
 [
   {
+    "title": "GCC AI Policy",
+    "url": "https://gcc.gnu.org/pipermail/gcc/2026-July/248628.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://gcc.gnu.org/pipermail/gcc/2026-July/248628.html Comments URL: https://news.ycombinator.com/item?id=49092816 Points: 2 # Comments: 0",
+    "published_at": "2026-07-29 02:37",
+    "tags": [],
+    "fetch_date": "2026-07-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
+    "url": "https://github.com/jagg-ix/zil-lean",
+    "source": "Hacker News AI",
+    "summary": "Google Zanzibar datalog lang lets you describe concepts and express how they are related. I generalize it to DSL you can use on Lean4 (and other languages) this lets you represent a knowledge base you can construct, store and evaluate, have it under git and improve without big engines or relaying on external infrastructure. Comments URL: https://news.ycombinator.com/item?id=49092730 Points: 1 # Comments: 0",
+    "published_at": "2026-07-29 02:22",
+    "tags": [],
+    "fetch_date": "2026-07-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask HN: What agentic AI ad optimization tool do you use?",
+    "url": "https://news.ycombinator.com/item?id=49092716",
+    "source": "Hacker News AI",
+    "summary": "Question is specifically for GTM engineers and performance marketers. Curious if any agentic AI ad optimization tools have actually worked for you?I tried PMax on Google Ads and our sign ups increased but pipeline didn't move (most sign ups weren't relevant audience). I am evaluating Factors and Pixis.Curious what else should I look at? Comments URL: https://news.ycombinator.com/item?id=49092716 Points: 1 # Comments: 0",
+    "published_at": "2026-07-29 02:20",
+    "tags": [],
+    "fetch_date": "2026-07-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Revealed: The Authors Whose Pirated Books Are Powering Generative AI (2023)",
+    "url": "https://www.theatlantic.com/technology/archive/2023/08/books3-ai-meta-llama-pirated-books/675063/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theatlantic.com/technology/archive/2023/08/books3-ai-meta-llama-pirated-books/675063/ Comments URL: https://news.ycombinator.com/item?id=49092595 Points: 2 # Comments: 0",
+    "published_at": "2026-07-29 02:01",
+    "tags": [],
+    "fetch_date": "2026-07-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+    "url": "https://www.bbc.com/news/articles/cly8zng43npo",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cly8zng43npo Comments URL: https://news.ycombinator.com/item?id=49092549 Points: 2 # Comments: 0",
+    "published_at": "2026-07-29 01:56",
+    "tags": [],
+    "fetch_date": "2026-07-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "New sw dev tool for safe local AI usage",
+    "url": "https://github.com/alexs60/safe-sde",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/alexs60/safe-sde Comments URL: https://news.ycombinator.com/item?id=49092535 Points: 1 # Comments: 0",
+    "published_at": "2026-07-29 01:53",
+    "tags": [],
+    "fetch_date": "2026-07-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Open AI announces two new models- GPT-transcribe and GPT-live-transcribe",
+    "url": "https://developers.openai.com/api/docs/models/gpt-transcribe",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://developers.openai.com/api/docs/models/gpt-transcribe Comments URL: https://news.ycombinator.com/item?id=49092525 Points: 1 # Comments: 0",
+    "published_at": "2026-07-29 01:52",
+    "tags": [],
+    "fetch_date": "2026-07-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "I Built a Free AI Pain Point Miner",
+    "url": "https://github.com/joatsaint/pain-point-miner",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/joatsaint/pain-point-miner Comments URL: https://news.ycombinator.com/item?id=49092461 Points: 1 # Comments: 0",
+    "published_at": "2026-07-29 01:45",
+    "tags": [],
+    "fetch_date": "2026-07-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "MVP for new AI interface for writing",
+    "url": "https://www.trymargin.org",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.trymargin.org Comments URL: https://news.ycombinator.com/item?id=49091983 Points: 4 # Comments: 1",
+    "published_at": "2026-07-29 00:42",
+    "tags": [],
+    "fetch_date": "2026-07-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Best AI APIs for Startups – WisGate",
+    "url": "https://wisgate.ai/blogs/best-ai-apis-for-startups",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://wisgate.ai/blogs/best-ai-apis-for-startups Comments URL: https://news.ycombinator.com/item?id=49091967 Points: 2 # Comments: 0",
+    "published_at": "2026-07-29 00:41",
+    "tags": [],
+    "fetch_date": "2026-07-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI helps Stanford scientists discover natural Ozempic without usual side effects",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260719230608.htm",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.sciencedaily.com/releases/2026/07/260719230608.htm Comments URL: https://news.ycombinator.com/item?id=49091840 Points: 2 # Comments: 0",
+    "published_at": "2026-07-29 00:25",
+    "tags": [],
+    "fetch_date": "2026-07-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Told to Train AI Models, Indian Workers Fought Back",
+    "url": "https://thewire.in/labour/told-to-train-ai-models-indian-workers-fought-back",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://thewire.in/labour/told-to-train-ai-models-indian-workers-fought-back Comments URL: https://news.ycombinator.com/item?id=49091598 Points: 2 # Comments: 1",
+    "published_at": "2026-07-28 23:55",
+    "tags": [],
+    "fetch_date": "2026-07-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Apple becomes second $5T company as investors flee AI stocks",
+    "url": "https://www.theguardian.com/technology/2026/jul/28/apple-second-ever-5tn-company-as-investors-flee-ai-stocks",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/jul/28/apple-second-ever-5tn-company-as-investors-flee-ai-stocks Comments URL: https://news.ycombinator.com/item?id=49091512 Points: 11 # Comments: 1",
+    "published_at": "2026-07-28 23:41",
+    "tags": [],
+    "fetch_date": "2026-07-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI leaders sign a statement asking the government to do something about automated AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+    "source": "The Verge AI",
+    "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coordinated governance efforts. \"Al could help create a dramatically better [&#8230;]",
+    "published_at": "2026-07-28 15:46",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Google",
+      "Meta",
+      "News",
+      "OpenAI",
+      "Tech"
+    ],
+    "fetch_date": "2026-07-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+    "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+    "source": "TechCrunch AI",
+    "summary": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+    "published_at": "2026-07-28 14:00",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "voice AI",
+      "text to speech"
+    ],
+    "fetch_date": "2026-07-29",
+    "fetch_label": "早报"
+  },
+  {
     "title": "AI Engineers' Favourite AI Engineer",
     "url": "https://www.mutagent.io/blog/were-your-ai-engineers-favorite-ai-engineer/",
     "source": "Hacker News AI",
@@ -162,6 +325,36 @@
     "tags": [],
     "fetch_date": "2026-07-28",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+    "source": "The Verge AI",
+    "summary": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer for Windows operates like a \"general-purpose digital worker\" that can access local files and apps to perform [&#8230;]",
+    "published_at": "2026-07-28 08:30",
+    "tags": [
+      "AI",
+      "Microsoft",
+      "News",
+      "Tech",
+      "Windows"
+    ],
+    "fetch_date": "2026-07-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Smart rings are looking like my kind of AI gadget",
+    "url": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+    "source": "The Verge AI",
+    "summary": "Over the last few months, I've spent a lot of time talking to my computer. One underrated feature of the LLM revolution has been a remarkable leap in all kinds of dictation technology - even the fastest, cheapest models are getting very good at understanding and processing speech. I've tested lots of these apps, from [&#8230;]",
+    "published_at": "2026-07-28 08:00",
+    "tags": [
+      "AI",
+      "Gadgets",
+      "Tech"
+    ],
+    "fetch_date": "2026-07-29",
+    "fetch_label": "早报"
   },
   {
     "title": "Show HN: SeaTicket – AI agent that resolve GitHub and Discord issues",
@@ -337,6 +530,23 @@
       "TechCrunch Disrupt"
     ],
     "fetch_date": "2026-07-28",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+    "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+    "source": "TechCrunch AI",
+    "summary": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
+    "published_at": "2026-07-27 15:01",
+    "tags": [
+      "AI",
+      "Startups",
+      "Ilya Sutskever",
+      "nvidia",
+      "OpenAI",
+      "safe superintelligence"
+    ],
+    "fetch_date": "2026-07-29",
     "fetch_label": "早报"
   },
   {
@@ -35041,230 +35251,6 @@
     "published_at": "2026-04-08 01:44",
     "tags": [],
     "fetch_date": "2026-04-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Impact of 100% Adoption of AI Coding Agents by Non-Technical Team",
-    "url": "https://www.kapwing.com/blog/how-we-achieved-100-adoption-of-ai-coding-agents/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.kapwing.com/blog/how-we-achieved-100-adoption-of-ai-coding-agents/ Comments URL: https://news.ycombinator.com/item?id=47683649 Points: 2 # Comments: 0",
-    "published_at": "2026-04-08 01:29",
-    "tags": [],
-    "fetch_date": "2026-04-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Law Students: AI Is Changing Things",
-    "url": "https://maxglobalnews.com/the-future-of-lawyers-in-the-age-of-ai-%f0%9f%92%bb/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://maxglobalnews.com/the-future-of-lawyers-in-the-age-of-ai-%f0%9f%92%bb/ Comments URL: https://news.ycombinator.com/item?id=47683583 Points: 2 # Comments: 0",
-    "published_at": "2026-04-08 01:22",
-    "tags": [],
-    "fetch_date": "2026-04-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Odd Lots: This Is How to Tell If Writing Was Made by AI",
-    "url": "https://www.bloomberg.com/news/audio/2026-04-02/odd-lots-how-to-tell-if-writing-was-made-by-ai-podcast",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.bloomberg.com/news/audio/2026-04-02/odd-lots-how-to-tell-if-writing-was-made-by-ai-podcast Comments URL: https://news.ycombinator.com/item?id=47683428 Points: 2 # Comments: 2",
-    "published_at": "2026-04-08 01:04",
-    "tags": [],
-    "fetch_date": "2026-04-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Ask HN: Is there any tool that can stop LLM calls at runtime (not just monitor)?",
-    "url": "https://news.ycombinator.com/item?id=47683113",
-    "source": "Hacker News AI",
-    "summary": "I’ve been running into cases where LLM/agent systems make unexpected or repeated calls and costs spike quickly.Most tools I’ve found focus on observability (logs, traces, dashboards), but not actual enforcement.Is there anything that can:- stop or cut off a call mid-execution (based on budget, tokens, or conditions)?- enforce limits at runtime instead of just alerting after the fact?Curious if people here are solving this in practice, or just handling it at the application level. Comments URL: h",
-    "published_at": "2026-04-08 00:26",
-    "tags": [],
-    "fetch_date": "2026-04-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The BSDs in the AI Age",
-    "url": "https://lists.nycbug.org/pipermail/talk/2026-April/018894.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://lists.nycbug.org/pipermail/talk/2026-April/018894.html Comments URL: https://news.ycombinator.com/item?id=47682956 Points: 2 # Comments: 0",
-    "published_at": "2026-04-08 00:06",
-    "tags": [],
-    "fetch_date": "2026-04-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "We need re-learn what AI agent development tools are in 2026",
-    "url": "https://blog.n8n.io/we-need-re-learn-what-ai-agent-development-tools-are-in-2026/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://blog.n8n.io/we-need-re-learn-what-ai-agent-development-tools-are-in-2026/ Comments URL: https://news.ycombinator.com/item?id=47682879 Points: 3 # Comments: 0",
-    "published_at": "2026-04-07 23:56",
-    "tags": [],
-    "fetch_date": "2026-04-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid",
-    "url": "https://github.com/safishamsi/graphify",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/safishamsi/graphify Comments URL: https://news.ycombinator.com/item?id=47682798 Points: 2 # Comments: 0",
-    "published_at": "2026-04-07 23:45",
-    "tags": [],
-    "fetch_date": "2026-04-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Crag – One governance file, every AI coding tool (50 repos, 96.4% accuracy)",
-    "url": "https://github.com/WhitehatD/crag",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/WhitehatD/crag Comments URL: https://news.ycombinator.com/item?id=47682779 Points: 3 # Comments: 0",
-    "published_at": "2026-04-07 23:43",
-    "tags": [],
-    "fetch_date": "2026-04-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: When Seeing Isn't Enough: Rescuing Stuck LLM Agents",
-    "url": "https://zenodo.org/records/19463134",
-    "source": "Hacker News AI",
-    "summary": "Hi HN, we are sharing our latest preprint from CAUM Systems. We found that LLM coding agents enter 'blind-spot failures' that are completely unrescuable by behavioral nudging, but 100% rescuable by adding a single sentence of causal interpretation about structural data. We introduce the 'bandwidth of observer' framework and explain why cross-model evaluation is critical to tell blind-spots apart from capability floors. Happy to answer questions! Comments URL: https://news.ycombinator.com/item?id",
-    "published_at": "2026-04-07 23:35",
-    "tags": [],
-    "fetch_date": "2026-04-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Fifth Element Star Milla Jovovich Reveals AI Memory Tool MemPalace",
-    "url": "https://decrypt.co/363524/fifth-element-milla-jovovich-ai-tool-mempalace",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://decrypt.co/363524/fifth-element-milla-jovovich-ai-tool-mempalace Comments URL: https://news.ycombinator.com/item?id=47682435 Points: 6 # Comments: 1",
-    "published_at": "2026-04-07 23:01",
-    "tags": [],
-    "fetch_date": "2026-04-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation",
-    "url": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
-    "source": "TechCrunch AI",
-    "summary": "Nvidia-backed Asia AI data center provider Firmus has now raised $1.35 billion in six months.",
-    "published_at": "2026-04-07 18:46",
-    "tags": [
-      "AI",
-      "Startups",
-      "data centers",
-      "In Brief",
-      "nvidia"
-    ],
-    "fetch_date": "2026-04-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
-    "url": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
-    "source": "TechCrunch AI",
-    "summary": "The new model will be used by a small number of high-profile companies to engage in defensive cybersecurity work.",
-    "published_at": "2026-04-07 18:00",
-    "tags": [
-      "AI",
-      "Enterprise",
-      "Security",
-      "Amazon",
-      "Anthropic",
-      "Microsoft",
-      "Mythos"
-    ],
-    "fetch_date": "2026-04-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Uber is the latest to be won over by Amazon’s AI chips",
-    "url": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/",
-    "source": "TechCrunch AI",
-    "summary": "Uber is expanding its AWS contract to run more of its ride-sharing features on Amazon's chips. This is a thumb-of-the nose at Oracle and Google.",
-    "published_at": "2026-04-07 16:46",
-    "tags": [
-      "Enterprise",
-      "AI",
-      "Amazon",
-      "AWS",
-      "Uber"
-    ],
-    "fetch_date": "2026-04-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "A new Anthropic model found security problems &#8216;in every major operating system and web browser&#8217;",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity",
-    "source": "The Verge AI",
-    "summary": "Anthropic is debuting a new AI model as part of a cybersecurity partnership with Nvidia, Google, Amazon Web Services, Apple, Microsoft, and other companies. Project Glasswing, as it's called, is billed as a way for large companies, and potentially even the government, to flag vulnerabilities in their systems with virtually no human intervention. Anthropic is [&#8230;]",
-    "published_at": "2026-04-07 14:00",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "News"
-    ],
-    "fetch_date": "2026-04-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The AI gold rush is pulling private wealth into riskier, earlier bets",
-    "url": "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/",
-    "source": "TechCrunch AI",
-    "summary": "On a recent episode of Equity, we talked to Arena Private Wealth to explore a growing trend: family offices bypassing VCs to gain direct exposure to AI startups, turning them from passive investors into active participants.",
-    "published_at": "2026-04-07 13:00",
-    "tags": [
-      "Venture",
-      "AI",
-      "Fundraising",
-      "Exclusive",
-      "family office",
-      "Equity",
-      "ai investment",
-      "Arena Private Wealth",
-      "Private Wealth"
-    ],
-    "fetch_date": "2026-04-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Gemini is making it faster for distressed users to reach mental health resources",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update",
-    "source": "The Verge AI",
-    "summary": "Google says it has updated Gemini to better direct users to get mental health resources during moments of crisis. The change comes as the tech giant faces a wrongful death lawsuit alleging its chatbot \"coached\" a man to die by suicide, the latest in a string of lawsuits alleging tangible harm from AI products. When [&#8230;]",
-    "published_at": "2026-04-07 06:09",
-    "tags": [
-      "AI",
-      "Health",
-      "News",
-      "Science"
-    ],
-    "fetch_date": "2026-04-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
-    "url": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
-    "source": "TechCrunch AI",
-    "summary": "Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation.",
-    "published_at": "2026-04-07 05:30",
-    "tags": [
-      "AI",
-      "Startups",
-      "rocket",
-      "vibe coding"
-    ],
-    "fetch_date": "2026-04-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Claude Agent SDK vs. Messages API for a Production AI Assistant?",
-    "url": "https://news.ycombinator.com/item?id=47669957",
-    "source": "Hacker News AI",
-    "summary": "We're building a chat assistant into our B2B developer tool. It needs to call domain-specific tools (MCP), stream responses (SSE), and persist conversation history.The Claude Agent SDK looks like it would save us a lot of work — agent loop, compaction, hooks, session management all built in. But the more we look at it, the more the architecture feels oriented toward single-user CLI use. The subprocess spawn overhead (~12s per call), filesystem-based sessions, memory issues in long-running proces",
-    "published_at": "2026-04-07 02:14",
-    "tags": [],
-    "fetch_date": "2026-04-07",
     "fetch_label": "早报"
   }
 ]

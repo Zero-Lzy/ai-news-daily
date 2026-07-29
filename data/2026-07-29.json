@@ -1,0 +1,261 @@
+{
+  "date": "2026-07-29",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-07-29 10:51:53",
+      "count": 24,
+      "articles": [
+        {
+          "title": "GCC AI Policy",
+          "url": "https://gcc.gnu.org/pipermail/gcc/2026-July/248628.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://gcc.gnu.org/pipermail/gcc/2026-July/248628.html Comments URL: https://news.ycombinator.com/item?id=49092816 Points: 2 # Comments: 0",
+          "published_at": "2026-07-29 02:37",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
+          "url": "https://github.com/jagg-ix/zil-lean",
+          "source": "Hacker News AI",
+          "summary": "Google Zanzibar datalog lang lets you describe concepts and express how they are related. I generalize it to DSL you can use on Lean4 (and other languages) this lets you represent a knowledge base you can construct, store and evaluate, have it under git and improve without big engines or relaying on external infrastructure. Comments URL: https://news.ycombinator.com/item?id=49092730 Points: 1 # Comments: 0",
+          "published_at": "2026-07-29 02:22",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: What agentic AI ad optimization tool do you use?",
+          "url": "https://news.ycombinator.com/item?id=49092716",
+          "source": "Hacker News AI",
+          "summary": "Question is specifically for GTM engineers and performance marketers. Curious if any agentic AI ad optimization tools have actually worked for you?I tried PMax on Google Ads and our sign ups increased but pipeline didn't move (most sign ups weren't relevant audience). I am evaluating Factors and Pixis.Curious what else should I look at? Comments URL: https://news.ycombinator.com/item?id=49092716 Points: 1 # Comments: 0",
+          "published_at": "2026-07-29 02:20",
+          "tags": []
+        },
+        {
+          "title": "Revealed: The Authors Whose Pirated Books Are Powering Generative AI (2023)",
+          "url": "https://www.theatlantic.com/technology/archive/2023/08/books3-ai-meta-llama-pirated-books/675063/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theatlantic.com/technology/archive/2023/08/books3-ai-meta-llama-pirated-books/675063/ Comments URL: https://news.ycombinator.com/item?id=49092595 Points: 2 # Comments: 0",
+          "published_at": "2026-07-29 02:01",
+          "tags": []
+        },
+        {
+          "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+          "url": "https://www.bbc.com/news/articles/cly8zng43npo",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bbc.com/news/articles/cly8zng43npo Comments URL: https://news.ycombinator.com/item?id=49092549 Points: 2 # Comments: 0",
+          "published_at": "2026-07-29 01:56",
+          "tags": []
+        },
+        {
+          "title": "New sw dev tool for safe local AI usage",
+          "url": "https://github.com/alexs60/safe-sde",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/alexs60/safe-sde Comments URL: https://news.ycombinator.com/item?id=49092535 Points: 1 # Comments: 0",
+          "published_at": "2026-07-29 01:53",
+          "tags": []
+        },
+        {
+          "title": "Open AI announces two new models- GPT-transcribe and GPT-live-transcribe",
+          "url": "https://developers.openai.com/api/docs/models/gpt-transcribe",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://developers.openai.com/api/docs/models/gpt-transcribe Comments URL: https://news.ycombinator.com/item?id=49092525 Points: 1 # Comments: 0",
+          "published_at": "2026-07-29 01:52",
+          "tags": []
+        },
+        {
+          "title": "I Built a Free AI Pain Point Miner",
+          "url": "https://github.com/joatsaint/pain-point-miner",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/joatsaint/pain-point-miner Comments URL: https://news.ycombinator.com/item?id=49092461 Points: 1 # Comments: 0",
+          "published_at": "2026-07-29 01:45",
+          "tags": []
+        },
+        {
+          "title": "AI systems out-persuade expert humans",
+          "url": "https://arxiv.org/abs/2606.16475",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2606.16475 Comments URL: https://news.ycombinator.com/item?id=49092092 Points: 2 # Comments: 2",
+          "published_at": "2026-07-29 00:57",
+          "tags": []
+        },
+        {
+          "title": "MVP for new AI interface for writing",
+          "url": "https://www.trymargin.org",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.trymargin.org Comments URL: https://news.ycombinator.com/item?id=49091983 Points: 4 # Comments: 1",
+          "published_at": "2026-07-29 00:42",
+          "tags": []
+        },
+        {
+          "title": "Best AI APIs for Startups – WisGate",
+          "url": "https://wisgate.ai/blogs/best-ai-apis-for-startups",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://wisgate.ai/blogs/best-ai-apis-for-startups Comments URL: https://news.ycombinator.com/item?id=49091967 Points: 2 # Comments: 0",
+          "published_at": "2026-07-29 00:41",
+          "tags": []
+        },
+        {
+          "title": "AI helps Stanford scientists discover natural Ozempic without usual side effects",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260719230608.htm",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.sciencedaily.com/releases/2026/07/260719230608.htm Comments URL: https://news.ycombinator.com/item?id=49091840 Points: 2 # Comments: 0",
+          "published_at": "2026-07-29 00:25",
+          "tags": []
+        },
+        {
+          "title": "Told to Train AI Models, Indian Workers Fought Back",
+          "url": "https://thewire.in/labour/told-to-train-ai-models-indian-workers-fought-back",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://thewire.in/labour/told-to-train-ai-models-indian-workers-fought-back Comments URL: https://news.ycombinator.com/item?id=49091598 Points: 2 # Comments: 1",
+          "published_at": "2026-07-28 23:55",
+          "tags": []
+        },
+        {
+          "title": "Apple becomes second $5T company as investors flee AI stocks",
+          "url": "https://www.theguardian.com/technology/2026/jul/28/apple-second-ever-5tn-company-as-investors-flee-ai-stocks",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theguardian.com/technology/2026/jul/28/apple-second-ever-5tn-company-as-investors-flee-ai-stocks Comments URL: https://news.ycombinator.com/item?id=49091512 Points: 11 # Comments: 1",
+          "published_at": "2026-07-28 23:41",
+          "tags": []
+        },
+        {
+          "title": "AI leaders sign a statement asking the government to do something about automated AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+          "source": "The Verge AI",
+          "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coordinated governance efforts. \"Al could help create a dramatically better [&#8230;]",
+          "published_at": "2026-07-28 15:46",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "Google",
+            "Meta",
+            "News",
+            "OpenAI",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+          "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+          "source": "TechCrunch AI",
+          "summary": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+          "published_at": "2026-07-28 14:00",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "voice AI",
+            "text to speech"
+          ]
+        },
+        {
+          "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
+          "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+          "source": "TechCrunch AI",
+          "summary": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process.",
+          "published_at": "2026-07-28 13:19",
+          "tags": [
+            "AI",
+            "AWS",
+            "RSI"
+          ]
+        },
+        {
+          "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+          "source": "The Verge AI",
+          "summary": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer for Windows operates like a \"general-purpose digital worker\" that can access local files and apps to perform [&#8230;]",
+          "published_at": "2026-07-28 08:30",
+          "tags": [
+            "AI",
+            "Microsoft",
+            "News",
+            "Tech",
+            "Windows"
+          ]
+        },
+        {
+          "title": "Smart rings are looking like my kind of AI gadget",
+          "url": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+          "source": "The Verge AI",
+          "summary": "Over the last few months, I've spent a lot of time talking to my computer. One underrated feature of the LLM revolution has been a remarkable leap in all kinds of dictation technology - even the fastest, cheapest models are getting very good at understanding and processing speech. I've tested lots of these apps, from [&#8230;]",
+          "published_at": "2026-07-28 08:00",
+          "tags": [
+            "AI",
+            "Gadgets",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+          "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+          "source": "ArsTechnica AI",
+          "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
+          "published_at": "2026-07-27 21:56",
+          "tags": [
+            "AI",
+            "Biz & IT",
+            "Security",
+            "microsoft",
+            "security"
+          ]
+        },
+        {
+          "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+          "source": "TechCrunch AI",
+          "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
+          "published_at": "2026-07-27 15:30",
+          "tags": [
+            "AI",
+            "Startups",
+            "TechCrunch Disrupt"
+          ]
+        },
+        {
+          "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+          "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+          "source": "TechCrunch AI",
+          "summary": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
+          "published_at": "2026-07-27 15:01",
+          "tags": [
+            "AI",
+            "Startups",
+            "Ilya Sutskever",
+            "nvidia",
+            "OpenAI",
+            "safe superintelligence"
+          ]
+        },
+        {
+          "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
+          "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+          "source": "TechCrunch AI",
+          "summary": "The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
+          "published_at": "2026-07-27 13:00",
+          "tags": [
+            "AI",
+            "Robotics",
+            "Startups",
+            "enigma",
+            "Exclusive",
+            "Index Ventures",
+            "Ribbit Capital",
+            "Sarah Guo",
+            "UX/UI"
+          ]
+        },
+        {
+          "title": "Why China is giving away its best AI models",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+          "source": "The Verge AI",
+          "summary": "Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost. Its performance alone would have been enough to intensify the rivalry between [&#8230;]",
+          "published_at": "2026-07-27 12:51",
+          "tags": [
+            "AI",
+            "Report"
+          ]
+        }
+      ]
+    }
+  ]
+}
