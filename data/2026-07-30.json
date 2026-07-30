@@ -229,6 +229,245 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-07-30 22:03:13",
+      "count": 23,
+      "articles": [
+        {
+          "title": "AI Bond Issuance Is Not AI's \"Subprime Mortgage Crisis\"",
+          "url": "https://www.crisesnotes.com/sigh-no-ed-zitron-ai-bond-issuance-is-not-ais-subprime-mortgage-crisis/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.crisesnotes.com/sigh-no-ed-zitron-ai-bond-issuance-is-not-ais-subprime-mortgage-crisis/ Comments URL: https://news.ycombinator.com/item?id=49110116 Points: 1 # Comments: 0",
+          "published_at": "2026-07-30 13:57",
+          "tags": []
+        },
+        {
+          "title": "I tested whether verifying LLM cache hits in real time helps (weak yes)",
+          "url": "https://github.com/imxinchengyou/CacheVerifier",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/imxinchengyou/CacheVerifier Comments URL: https://news.ycombinator.com/item?id=49109979 Points: 1 # Comments: 0",
+          "published_at": "2026-07-30 13:47",
+          "tags": []
+        },
+        {
+          "title": "The 73,000-server market reselling Western frontier AI into China",
+          "url": "https://infrawatch.com/blog/73000-servers-selling-western-frontier-ai-into-china-transfer-stations",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://infrawatch.com/blog/73000-servers-selling-western-frontier-ai-into-china-transfer-stations Comments URL: https://news.ycombinator.com/item?id=49109964 Points: 2 # Comments: 0",
+          "published_at": "2026-07-30 13:45",
+          "tags": []
+        },
+        {
+          "title": "I wanted to run my own AI. My laptop says not yet",
+          "url": "https://marcioflorindo.com/renting-most-of-my-intelligence.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://marcioflorindo.com/renting-most-of-my-intelligence.html Comments URL: https://news.ycombinator.com/item?id=49109959 Points: 2 # Comments: 0",
+          "published_at": "2026-07-30 13:45",
+          "tags": []
+        },
+        {
+          "title": "The Dress Rehearsal of AI Killing Us All",
+          "url": "https://unchartedterritories.tomaspueyo.com/p/the-dress-rehearsal-of-ai-killing",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://unchartedterritories.tomaspueyo.com/p/the-dress-rehearsal-of-ai-killing Comments URL: https://news.ycombinator.com/item?id=49109933 Points: 1 # Comments: 0",
+          "published_at": "2026-07-30 13:44",
+          "tags": []
+        },
+        {
+          "title": "The Skills AI Stopped Teaching Junior Developers",
+          "url": "https://menelaos.vergis.net/posts/The-Skills-AI-Stopped-Teaching-Junior-Developers",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://menelaos.vergis.net/posts/The-Skills-AI-Stopped-Teaching-Junior-Developers Comments URL: https://news.ycombinator.com/item?id=49109873 Points: 1 # Comments: 0",
+          "published_at": "2026-07-30 13:41",
+          "tags": []
+        },
+        {
+          "title": "Adversarial Code Obfuscation for Defending Against LLM-Based Analysis",
+          "url": "https://arxiv.org/abs/2606.11755",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2606.11755 Comments URL: https://news.ycombinator.com/item?id=49109869 Points: 2 # Comments: 0",
+          "published_at": "2026-07-30 13:40",
+          "tags": []
+        },
+        {
+          "title": "Refusal as Instruction: Equipping Patrons to Resist AI, Data Brokers, Big Tech",
+          "url": "https://ital.corejournals.org/index.php/ital/article/view/17653/11960",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://ital.corejournals.org/index.php/ital/article/view/17653/11960 Comments URL: https://news.ycombinator.com/item?id=49109830 Points: 2 # Comments: 0",
+          "published_at": "2026-07-30 13:37",
+          "tags": []
+        },
+        {
+          "title": "Meta shares tumble as Mark Zuckerberg tries to sell his vision for AI 'agents",
+          "url": "https://www.ft.com/content/06d941ed-8136-46a4-a2ec-44bea1b35c3b",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.ft.com/content/06d941ed-8136-46a4-a2ec-44bea1b35c3b Comments URL: https://news.ycombinator.com/item?id=49109802 Points: 5 # Comments: 2",
+          "published_at": "2026-07-30 13:35",
+          "tags": []
+        },
+        {
+          "title": "First Contact: The most important question in AI",
+          "url": "https://evolutionairy.ai/first-contact/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://evolutionairy.ai/first-contact/ Comments URL: https://news.ycombinator.com/item?id=49109627 Points: 5 # Comments: 1",
+          "published_at": "2026-07-30 13:22",
+          "tags": []
+        },
+        {
+          "title": "The AI Aesthetic",
+          "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/ Comments URL: https://news.ycombinator.com/item?id=49109622 Points: 1 # Comments: 0",
+          "published_at": "2026-07-30 13:21",
+          "tags": []
+        },
+        {
+          "title": "Can AI Agents Be Aligned with Human Rights?",
+          "url": "https://www.techpolicy.press/can-ai-agents-be-aligned-with-human-rights/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.techpolicy.press/can-ai-agents-be-aligned-with-human-rights/ Comments URL: https://news.ycombinator.com/item?id=49109522 Points: 1 # Comments: 0",
+          "published_at": "2026-07-30 13:11",
+          "tags": []
+        },
+        {
+          "title": "Anthropic's new MCP spec, Kimi K3 open weights on Ollama, GPT Transcribe, plus",
+          "url": "https://ddsboston.com/blogs/vibe-code-academy/ai-news-for-vibe-coders-daily-2026-07-30",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://ddsboston.com/blogs/vibe-code-academy/ai-news-for-vibe-coders-daily-2026-07-30 Comments URL: https://news.ycombinator.com/item?id=49109406 Points: 2 # Comments: 0",
+          "published_at": "2026-07-30 13:00",
+          "tags": []
+        },
+        {
+          "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+          "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+          "source": "TechCrunch AI",
+          "summary": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
+          "published_at": "2026-07-30 13:00",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "data center infrastructure"
+          ]
+        },
+        {
+          "title": "Tripplet AI",
+          "url": "https://www.tripplet.lol/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.tripplet.lol/ Comments URL: https://news.ycombinator.com/item?id=49109374 Points: 2 # Comments: 0",
+          "published_at": "2026-07-30 12:57",
+          "tags": []
+        },
+        {
+          "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+          "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+          "source": "TechCrunch AI",
+          "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+          "published_at": "2026-07-29 22:46",
+          "tags": [
+            "AI",
+            "TC",
+            "Microsoft",
+            "OpenAI",
+            "Anthropic",
+            "In Brief"
+          ]
+        },
+        {
+          "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+          "source": "TechCrunch AI",
+          "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+          "published_at": "2026-07-29 21:16",
+          "tags": [
+            "AI",
+            "Databricks",
+            "TechCrunch Disrupt"
+          ]
+        },
+        {
+          "title": "The Hugging Face break-in explained",
+          "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+          "source": "TechCrunch AI",
+          "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
+          "published_at": "2026-07-29 19:44",
+          "tags": [
+            "AI",
+            "Hugging Face",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+          "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+          "source": "The Verge AI",
+          "summary": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year. \"Copilot is evolving rapidly from chat to Cowork to Autopilots,\" Nadella said. \"This quarter, [&#8230;]",
+          "published_at": "2026-07-29 18:17",
+          "tags": [
+            "AI",
+            "Microsoft",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+          "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+          "source": "TechCrunch AI",
+          "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
+          "published_at": "2026-07-29 15:35",
+          "tags": [
+            "AI",
+            "Apps",
+            "Startups",
+            "TC",
+            "hint",
+            "martha stewart"
+          ]
+        },
+        {
+          "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+          "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+          "source": "TechCrunch AI",
+          "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+          "published_at": "2026-07-29 14:41",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "Fundraising",
+            "customer relationship management",
+            "Encore",
+            "Team8 Capital"
+          ]
+        },
+        {
+          "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+          "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+          "source": "TechCrunch AI",
+          "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+          "published_at": "2026-07-29 11:00",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Startups",
+            "ai slop"
+          ]
+        },
+        {
+          "title": "We’re running out of reasons to ignore AI safety",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+          "source": "The Verge AI",
+          "summary": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work. What happened next is almost laughably silly - but also, as Adam Gleave, cofounder and CEO [&#8230;]",
+          "published_at": "2026-07-29 07:00",
+          "tags": [
+            "AI",
+            "OpenAI",
+            "Report",
+            "Tech"
+          ]
+        }
+      ]
     }
   ]
 }
