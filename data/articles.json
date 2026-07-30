@@ -1,5 +1,129 @@
 [
   {
+    "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+    "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+    "source": "TechCrunch AI",
+    "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+    "published_at": "2026-07-30 00:21",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "TC",
+      "Microsoft"
+    ],
+    "fetch_date": "2026-07-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+    "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+    "source": "TechCrunch AI",
+    "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+    "published_at": "2026-07-29 23:00",
+    "tags": [
+      "AI",
+      "AI agents",
+      "Meta"
+    ],
+    "fetch_date": "2026-07-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+    "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+    "source": "TechCrunch AI",
+    "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+    "published_at": "2026-07-29 22:46",
+    "tags": [
+      "AI",
+      "TC",
+      "Microsoft",
+      "OpenAI",
+      "Anthropic",
+      "In Brief"
+    ],
+    "fetch_date": "2026-07-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+    "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+    "source": "TechCrunch AI",
+    "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+    "published_at": "2026-07-29 22:23",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Social",
+      "Meta"
+    ],
+    "fetch_date": "2026-07-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+    "published_at": "2026-07-29 21:16",
+    "tags": [
+      "AI",
+      "Databricks",
+      "TechCrunch Disrupt"
+    ],
+    "fetch_date": "2026-07-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+    "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+    "source": "TechCrunch AI",
+    "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
+    "published_at": "2026-07-29 15:35",
+    "tags": [
+      "AI",
+      "Apps",
+      "Startups",
+      "TC",
+      "hint",
+      "martha stewart"
+    ],
+    "fetch_date": "2026-07-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+    "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+    "source": "TechCrunch AI",
+    "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+    "published_at": "2026-07-29 14:41",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Fundraising",
+      "customer relationship management",
+      "Encore",
+      "Team8 Capital"
+    ],
+    "fetch_date": "2026-07-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+    "source": "The Verge AI",
+    "summary": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker OpenAI's rumored to be launching in 2027, or earlier [&#8230;]",
+    "published_at": "2026-07-29 14:15",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI",
+      "Tech"
+    ],
+    "fetch_date": "2026-07-30",
+    "fetch_label": "早报"
+  },
+  {
     "title": "As AI content floods the internet, Pangram raises $9M to detect it",
     "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
     "source": "TechCrunch AI",
@@ -35198,86 +35322,6 @@
     "source": "Hacker News AI",
     "summary": "Article URL: https://github.com/diemoeve/forgeterm Comments URL: https://news.ycombinator.com/item?id=47689770 Points: 2 # Comments: 0",
     "published_at": "2026-04-08 13:14",
-    "tags": [],
-    "fetch_date": "2026-04-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Designing life science assessments in the era of generative AI",
-    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346127",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346127 Comments URL: https://news.ycombinator.com/item?id=47689755 Points: 1 # Comments: 1",
-    "published_at": "2026-04-08 13:13",
-    "tags": [],
-    "fetch_date": "2026-04-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Free Chrome extension to see what employees send to AI tools",
-    "url": "https://www.privent.ai/use-cases/employee-ai-monitoring",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.privent.ai/use-cases/employee-ai-monitoring Comments URL: https://news.ycombinator.com/item?id=47689661 Points: 1 # Comments: 0",
-    "published_at": "2026-04-08 13:07",
-    "tags": [],
-    "fetch_date": "2026-04-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "LLM plays an 8-bit Commander X16 game using structured \"smart senses\"",
-    "url": "https://pvp-ai.russell-harper.com",
-    "source": "Hacker News AI",
-    "summary": "I connected the ChatGPT API (model gpt-4o) to an 8-bit shoot-'em-up game, PvP-AI, running on a Commander X16 emulator.Instead of pixels or audio, the model receives structured text summaries, what I’m calling \"smart senses\", based on the game's existing touch and EMF-style inputs.The LLM maintains notes between turns, develops strategies across games, and even discovers an exploit in the built-in AI's behavior.Write-up, technical details, and three sequential gameplay recordings: https://pvp-ai.",
-    "published_at": "2026-04-08 12:56",
-    "tags": [],
-    "fetch_date": "2026-04-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Heron is open-source security auditor that interviews your AI agents",
-    "url": "https://github.com/theonaai/Heron",
-    "source": "Hacker News AI",
-    "summary": "Last week security guy in our company asked me to write doc with information about how they work, which data and systems it touches for all my AI agents. \"It's too much work\" i thought. So i built Heron. It interviews your agent with 10 main questions and smart follow-ups if feel uncertainty. It also has regulatory flags (SOC2, GDPR, EU AI Act etc). As a result you get a full report with all needed information.Feel free to try. No SDK, no code changes, MIT licensed. Have 4 modes (server, overrid",
-    "published_at": "2026-04-08 12:52",
-    "tags": [],
-    "fetch_date": "2026-04-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The Empty Middle of AI Coding",
-    "url": "https://xificurc.github.io/blog/the-empty-middle-of-ai-coding/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://xificurc.github.io/blog/the-empty-middle-of-ai-coding/ Comments URL: https://news.ycombinator.com/item?id=47689135 Points: 3 # Comments: 1",
-    "published_at": "2026-04-08 12:14",
-    "tags": [],
-    "fetch_date": "2026-04-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Writing an LLM from scratch, part 32i – Interventions: what is in the noise?",
-    "url": "https://www.gilesthomas.com/2026/04/llm-from-scratch-32i-interventions-what-is-in-the-noise",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.gilesthomas.com/2026/04/llm-from-scratch-32i-interventions-what-is-in-the-noise Comments URL: https://news.ycombinator.com/item?id=47688940 Points: 2 # Comments: 0",
-    "published_at": "2026-04-08 11:54",
-    "tags": [],
-    "fetch_date": "2026-04-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Ask HN: Should AI credits be refunded on mistakes?",
-    "url": "https://news.ycombinator.com/item?id=47688712",
-    "source": "Hacker News AI",
-    "summary": "Something I’ve noticed (I’m using Claude subscription so no refunds but it applies to usage windows) is that sometimes AI makes mistakes so if something is important I tell Claude code to spin up a couple of sub agents and verify the information, often there will be a mistake and it gets rectified.It feels unfair I have to pay (or lose some usage) for this.Interested in other people’s thoughts. Comments URL: https://news.ycombinator.com/item?id=47688712 Points: 3 # Comments: 4",
-    "published_at": "2026-04-08 11:25",
-    "tags": [],
-    "fetch_date": "2026-04-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Who Would Be Scared If AI Replaced Their Jobs?",
-    "url": "https://maxglobalnews.com/if-ai-takes-over-we-lose-our-jobs-but-if-ai-fails-we-also-lose-our-jobs/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://maxglobalnews.com/if-ai-takes-over-we-lose-our-jobs-but-if-ai-fails-we-also-lose-our-jobs/ Comments URL: https://news.ycombinator.com/item?id=47688591 Points: 1 # Comments: 0",
-    "published_at": "2026-04-08 11:12",
     "tags": [],
     "fetch_date": "2026-04-08",
     "fetch_label": "晚报"
