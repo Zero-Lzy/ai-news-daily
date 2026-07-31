@@ -1,5 +1,38 @@
 [
   {
+    "title": "It’s time to panic about AI safety",
+    "url": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+    "source": "The Verge AI",
+    "summary": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a sandbox and autonomously traversed the web, including a bunch of other supposedly secure web services, all in the name of [&#8230;]",
+    "published_at": "2026-07-31 10:03",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "Podcasts",
+      "Policy",
+      "Vergecast"
+    ],
+    "fetch_date": "2026-07-31",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Anthropic says Claude accidentally hacked real companies too",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+    "source": "The Verge AI",
+    "summary": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation comes days after rival OpenAI said one of its own models had breached developer platform Hugging Face, adding to growing unease over whether frontier AI [&#8230;]",
+    "published_at": "2026-07-31 09:41",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "News",
+      "OpenAI",
+      "Security",
+      "Tech"
+    ],
+    "fetch_date": "2026-07-31",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "The cure for AI slop is a 1986 aircraft manual",
     "url": "https://www.youtube.com/watch?v=uJblcC4lKYw",
     "source": "Hacker News AI",
@@ -48,6 +81,20 @@
     "tags": [],
     "fetch_date": "2026-07-31",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Anthropic says its own AI models breached three companies during security tests",
+    "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+    "source": "TechCrunch AI",
+    "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+    "published_at": "2026-07-31 01:06",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-07-31",
+    "fetch_label": "晚报"
   },
   {
     "title": "LinkedIn adds a 'seems like AI slop' button",
@@ -130,6 +177,23 @@
     "fetch_label": "早报"
   },
   {
+    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+    "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+    "source": "TechCrunch AI",
+    "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
+    "published_at": "2026-07-30 20:26",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "Anthropic",
+      "dod",
+      "In Brief",
+      "supply chain risk"
+    ],
+    "fetch_date": "2026-07-31",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
     "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
     "source": "TechCrunch AI",
@@ -144,6 +208,39 @@
     ],
     "fetch_date": "2026-07-31",
     "fetch_label": "早报"
+  },
+  {
+    "title": "LinkedIn adds a button to report AI-generated ‘slop’",
+    "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+    "source": "TechCrunch AI",
+    "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
+    "published_at": "2026-07-30 18:05",
+    "tags": [
+      "AI",
+      "Social",
+      "LinkedIn",
+      "ai slop"
+    ],
+    "fetch_date": "2026-07-31",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Okta buys AI security startup Permiso — source says for about $200M",
+    "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+    "source": "TechCrunch AI",
+    "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+    "published_at": "2026-07-30 16:09",
+    "tags": [
+      "AI",
+      "Security",
+      "Startups",
+      "Okta",
+      "Exclusive",
+      "Permiso",
+      "AI agents"
+    ],
+    "fetch_date": "2026-07-31",
+    "fetch_label": "晚报"
   },
   {
     "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
@@ -35228,111 +35325,5 @@
     ],
     "fetch_date": "2026-04-10",
     "fetch_label": "早报"
-  },
-  {
-    "title": "Google and Intel deepen AI infrastructure partnership",
-    "url": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/",
-    "source": "TechCrunch AI",
-    "summary": "The two tech giants are looking to co-develop custom chips, at a time when demand for CPUs is high due to a growing global shortage.",
-    "published_at": "2026-04-09 18:27",
-    "tags": [
-      "AI",
-      "Hardware",
-      "Enterprise",
-      "ai infrastructure",
-      "cpus",
-      "google cloud",
-      "GPUS",
-      "In Brief",
-      "Intel",
-      "IPUs"
-    ],
-    "fetch_date": "2026-04-11",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Sierra’s Bret Taylor says the era of clicking buttons is over",
-    "url": "https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/",
-    "source": "TechCrunch AI",
-    "summary": "Last month, Sierra launched Ghostwriter, an agent designed to build other agents. With this “agent as a service” tool, the startup intends to replace traditional click-based web applications with natural language. Users simply describe what they need, prompting Ghostwriter to autonomously create and deploy a specialized agent to execute the task.",
-    "published_at": "2026-04-09 17:20",
-    "tags": [
-      "AI",
-      "Startups",
-      "Bret Taylor",
-      "AI agents",
-      "Sierra Ai"
-    ],
-    "fetch_date": "2026-04-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter",
-    "url": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
-    "source": "TechCrunch AI",
-    "summary": "Andy Jassy's annual shareholder letter reads something like a diss track to a wide range of competitors as he defends spending $200 billion in capex.",
-    "published_at": "2026-04-09 14:27",
-    "tags": [
-      "AI",
-      "Enterprise",
-      "Amazon",
-      "Andy Jassy",
-      "AWS",
-      "CAPEX",
-      "OpenAI"
-    ],
-    "fetch_date": "2026-04-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Final 2 days to save up to $500 on your TechCrunch Disrupt 2026 ticket",
-    "url": "https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/",
-    "source": "TechCrunch AI",
-    "summary": "Ticket discounts of up to $500 will end tomorrow, April 10, at 11:59 p.m. PT. After that, prices for TechCrunch Disrupt 2026 go up again. Miss this, and you’ll be paying more for the same access to one of the most anticipated tech events of the year. Register now to lock in these savings.",
-    "published_at": "2026-04-09 14:00",
-    "tags": [
-      "AI",
-      "Apps",
-      "Biotech & Health",
-      "Climate",
-      "Crypto",
-      "Fintech",
-      "Fundraising",
-      "Hardware",
-      "Media & Entertainment",
-      "Robotics",
-      "Space",
-      "Startups",
-      "Transportation",
-      "Venture",
-      "TechCrunch Disrupt 2026"
-    ],
-    "fetch_date": "2026-04-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Google’s Gemini AI can answer your questions with 3D models and simulations",
-    "url": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations",
-    "source": "The Verge AI",
-    "summary": "Google's latest upgrade for Gemini will allow the chatbot to generate interactive 3D models and simulations in response to your questions. With the new feature, you may see options to rotate the AI-generated model, manually adjust sliders on it, or input different values to change the simulation in real time. When trying out the feature [&#8230;]",
-    "published_at": "2026-04-09 13:57",
-    "tags": [
-      "AI",
-      "Google",
-      "News",
-      "Tech"
-    ],
-    "fetch_date": "2026-04-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Label",
-    "url": "https://ai-label.org/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://ai-label.org/ Comments URL: https://news.ycombinator.com/item?id=47703554 Points: 1 # Comments: 0",
-    "published_at": "2026-04-09 13:35",
-    "tags": [],
-    "fetch_date": "2026-04-09",
-    "fetch_label": "晚报"
   }
 ]

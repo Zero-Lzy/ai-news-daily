@@ -227,6 +227,168 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-07-31 22:07:49",
+      "count": 11,
+      "articles": [
+        {
+          "title": "It’s time to panic about AI safety",
+          "url": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+          "source": "The Verge AI",
+          "summary": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a sandbox and autonomously traversed the web, including a bunch of other supposedly secure web services, all in the name of [&#8230;]",
+          "published_at": "2026-07-31 10:03",
+          "tags": [
+            "AI",
+            "OpenAI",
+            "Podcasts",
+            "Policy",
+            "Vergecast"
+          ]
+        },
+        {
+          "title": "Anthropic says Claude accidentally hacked real companies too",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+          "source": "The Verge AI",
+          "summary": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation comes days after rival OpenAI said one of its own models had breached developer platform Hugging Face, adding to growing unease over whether frontier AI [&#8230;]",
+          "published_at": "2026-07-31 09:41",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "News",
+            "OpenAI",
+            "Security",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Anthropic says its own AI models breached three companies during security tests",
+          "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+          "source": "TechCrunch AI",
+          "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+          "published_at": "2026-07-31 01:06",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Investors love AI, as long as you’re a cloud host",
+          "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+          "published_at": "2026-07-30 22:41",
+          "tags": [
+            "AI",
+            "TC",
+            "Amazon",
+            "Cloud Computing",
+            "earnings"
+          ]
+        },
+        {
+          "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+          "source": "TechCrunch AI",
+          "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
+          "published_at": "2026-07-30 20:26",
+          "tags": [
+            "AI",
+            "Government & Policy",
+            "Anthropic",
+            "dod",
+            "In Brief",
+            "supply chain risk"
+          ]
+        },
+        {
+          "title": "LinkedIn adds a button to report AI-generated ‘slop’",
+          "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+          "source": "TechCrunch AI",
+          "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
+          "published_at": "2026-07-30 18:05",
+          "tags": [
+            "AI",
+            "Social",
+            "LinkedIn",
+            "ai slop"
+          ]
+        },
+        {
+          "title": "Okta buys AI security startup Permiso — source says for about $200M",
+          "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+          "source": "TechCrunch AI",
+          "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+          "published_at": "2026-07-30 16:09",
+          "tags": [
+            "AI",
+            "Security",
+            "Startups",
+            "Okta",
+            "Exclusive",
+            "Permiso",
+            "AI agents"
+          ]
+        },
+        {
+          "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+          "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+          "source": "TechCrunch AI",
+          "summary": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
+          "published_at": "2026-07-30 13:00",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "data center infrastructure",
+            "Dili"
+          ]
+        },
+        {
+          "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+          "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+          "source": "TechCrunch AI",
+          "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+          "published_at": "2026-07-30 00:21",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "TC",
+            "Anthropic",
+            "Microsoft",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+          "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+          "source": "TechCrunch AI",
+          "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+          "published_at": "2026-07-29 22:46",
+          "tags": [
+            "AI",
+            "TC",
+            "Microsoft",
+            "OpenAI",
+            "Anthropic",
+            "In Brief"
+          ]
+        },
+        {
+          "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+          "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+          "source": "TechCrunch AI",
+          "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+          "published_at": "2026-07-29 22:23",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "Social",
+            "Meta"
+          ]
+        }
+      ]
     }
   ]
 }
