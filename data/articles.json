@@ -155,6 +155,39 @@
     "fetch_label": "早报"
   },
   {
+    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+    "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+    "source": "TechCrunch AI",
+    "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+    "published_at": "2026-07-31 19:47",
+    "tags": [
+      "AI",
+      "Google",
+      "google earth",
+      "In Brief"
+    ],
+    "fetch_date": "2026-08-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+    "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+    "source": "TechCrunch AI",
+    "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging Face&#160;—&#160;though as Equity’s hosts point out, sloppy security seems to have [&#8230;]",
+    "published_at": "2026-07-31 17:26",
+    "tags": [
+      "AI",
+      "Startups",
+      "Amazon",
+      "Anthropic",
+      "OpenAI",
+      "sam altman",
+      "SpaceX"
+    ],
+    "fetch_date": "2026-08-01",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
     "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
     "source": "The Verge AI",
@@ -169,6 +202,22 @@
     ],
     "fetch_date": "2026-08-01",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+    "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+    "source": "TechCrunch AI",
+    "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
+    "published_at": "2026-07-31 14:47",
+    "tags": [
+      "AI",
+      "Startups",
+      "Venture",
+      "customer support",
+      "voice AI"
+    ],
+    "fetch_date": "2026-08-01",
+    "fetch_label": "晚报"
   },
   {
     "title": "Here’s the problem with putting an AI image generator in Google Earth",
@@ -35285,36 +35334,6 @@
     "source": "Hacker News AI",
     "summary": "Article URL: https://github.com/hanshuaikang/nezha Comments URL: https://news.ycombinator.com/item?id=47716973 Points: 1 # Comments: 2",
     "published_at": "2026-04-10 12:18",
-    "tags": [],
-    "fetch_date": "2026-04-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Apfel-Chat – Private, Local, Native AI Chat (MIT)",
-    "url": "https://apfel-chat.franzai.com/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://apfel-chat.franzai.com/ Comments URL: https://news.ycombinator.com/item?id=47716808 Points: 2 # Comments: 0",
-    "published_at": "2026-04-10 12:03",
-    "tags": [],
-    "fetch_date": "2026-04-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Google Discusses Digital PR Impact on AI Recommendations",
-    "url": "https://www.searchenginejournal.com/google-discusses-digital-pr-impact-on-ai-recommendations/559864/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.searchenginejournal.com/google-discusses-digital-pr-impact-on-ai-recommendations/559864/ Comments URL: https://news.ycombinator.com/item?id=47716695 Points: 1 # Comments: 0",
-    "published_at": "2026-04-10 11:50",
-    "tags": [],
-    "fetch_date": "2026-04-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Why Every Sprint Takes Longer Than the Last in AI-Generated Codebases",
-    "url": "https://vibecodiq.com/ai-chaos/pains/delivery-slowdown",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://vibecodiq.com/ai-chaos/pains/delivery-slowdown Comments URL: https://news.ycombinator.com/item?id=47716678 Points: 1 # Comments: 0",
-    "published_at": "2026-04-10 11:48",
     "tags": [],
     "fetch_date": "2026-04-10",
     "fetch_label": "晚报"
