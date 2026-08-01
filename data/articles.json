@@ -1,5 +1,191 @@
 [
   {
+    "title": "US lawmakers investigate DoorDash's use of Moonshot AI's Kimi K2.6 model",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3362616/us-lawmakers-investigate-doordashs-use-moonshot-ais-kimi-k26-model",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.scmp.com/news/china/diplomacy/article/3362616/us-lawmakers-investigate-doordashs-use-moonshot-ais-kimi-k26-model Comments URL: https://news.ycombinator.com/item?id=49130703 Points: 3 # Comments: 0",
+    "published_at": "2026-08-01 03:11",
+    "tags": [],
+    "fetch_date": "2026-08-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI broke writing as proof-of-thought",
+    "url": "https://hereisyourbrain.substack.com/p/ai-generated-content-mind-virus",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://hereisyourbrain.substack.com/p/ai-generated-content-mind-virus Comments URL: https://news.ycombinator.com/item?id=49130644 Points: 3 # Comments: 0",
+    "published_at": "2026-08-01 02:55",
+    "tags": [],
+    "fetch_date": "2026-08-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Flint: A Visualization Language for the AI Era",
+    "url": "https://microsoft.github.io/flint-chart/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://microsoft.github.io/flint-chart/ Comments URL: https://news.ycombinator.com/item?id=49130604 Points: 3 # Comments: 0",
+    "published_at": "2026-08-01 02:45",
+    "tags": [],
+    "fetch_date": "2026-08-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Leopold Aschenbrenner built a $45B AI hedge fund – and lost most of it in days",
+    "url": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html Comments URL: https://news.ycombinator.com/item?id=49130576 Points: 4 # Comments: 1",
+    "published_at": "2026-08-01 02:39",
+    "tags": [],
+    "fetch_date": "2026-08-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
+    "url": "https://www.bbc.com/news/articles/c77g6dm5pr8o",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bbc.com/news/articles/c77g6dm5pr8o Comments URL: https://news.ycombinator.com/item?id=49130478 Points: 2 # Comments: 0",
+    "published_at": "2026-08-01 02:16",
+    "tags": [],
+    "fetch_date": "2026-08-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The Math Superstar Who's Terrified of AI–and Just Took a Job at OpenAI",
+    "url": "https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79 Comments URL: https://news.ycombinator.com/item?id=49130385 Points: 4 # Comments: 0",
+    "published_at": "2026-08-01 01:55",
+    "tags": [],
+    "fetch_date": "2026-08-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Sanitizer – Strip sensitive data from documents locally before an LLM",
+    "url": "https://provexar.ai/sanitizer",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://provexar.ai/sanitizer Comments URL: https://news.ycombinator.com/item?id=49130329 Points: 2 # Comments: 0",
+    "published_at": "2026-08-01 01:42",
+    "tags": [],
+    "fetch_date": "2026-08-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Urldn – A URL shortener with analytics and an AI data analyst",
+    "url": "https://waitlist.urldn.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://waitlist.urldn.com/ Comments URL: https://news.ycombinator.com/item?id=49130273 Points: 2 # Comments: 0",
+    "published_at": "2026-08-01 01:31",
+    "tags": [],
+    "fetch_date": "2026-08-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Visibility Evidence Model: Five Factors, Graded by Evidence",
+    "url": "https://www.richresults.ai/evidence.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.richresults.ai/evidence.html Comments URL: https://news.ycombinator.com/item?id=49130131 Points: 2 # Comments: 0",
+    "published_at": "2026-08-01 00:56",
+    "tags": [],
+    "fetch_date": "2026-08-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "LLM speculative decoding explained simply",
+    "url": "https://jwlabs.vercel.app/post/speculative-decoding-first-principles",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://jwlabs.vercel.app/post/speculative-decoding-first-principles Comments URL: https://news.ycombinator.com/item?id=49130093 Points: 1 # Comments: 0",
+    "published_at": "2026-08-01 00:48",
+    "tags": [],
+    "fetch_date": "2026-08-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The Major Labels Propose Rules to Keep AI Slop Off the Charts",
+    "url": "https://www.ifpi.org/ifpi-rolls-out-global-principles-for-the-eligibility-of-recordings-developed-using-ai-in-official-music-charts-worldwide/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.ifpi.org/ifpi-rolls-out-global-principles-for-the-eligibility-of-recordings-developed-using-ai-in-official-music-charts-worldwide/ Comments URL: https://news.ycombinator.com/item?id=49129723 Points: 5 # Comments: 0",
+    "published_at": "2026-07-31 23:38",
+    "tags": [],
+    "fetch_date": "2026-08-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "$2M crime novel deal collapses amid questions over AI use",
+    "url": "https://www.theguardian.com/books/2026/jul/31/crime-novel-deal-collapses-questions-ai-jerry-falade-call-me-ill-hide-the-body",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theguardian.com/books/2026/jul/31/crime-novel-deal-collapses-questions-ai-jerry-falade-call-me-ill-hide-the-body Comments URL: https://news.ycombinator.com/item?id=49129667 Points: 6 # Comments: 1",
+    "published_at": "2026-07-31 23:29",
+    "tags": [],
+    "fetch_date": "2026-08-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Framework choice explains ~0.06% of agentic AI security outcome (7,020 trials)",
+    "url": "https://figshare.com/articles/preprint/Cross-Framework_Portability_of_Agentic_AI_Security_A_Controlled_Payload-Verified_Evaluation/33110642",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://figshare.com/articles/preprint/Cross-Framework_Portability_of_Agentic_AI_Security_A_Controlled_Payload-Verified_Evaluation/33110642 Comments URL: https://news.ycombinator.com/item?id=49129575 Points: 3 # Comments: 0",
+    "published_at": "2026-07-31 23:17",
+    "tags": [],
+    "fetch_date": "2026-08-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: GAI – A Go runtime for typed, tool-using LLM agents",
+    "url": "https://github.com/lace-ai/gai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/lace-ai/gai Comments URL: https://news.ycombinator.com/item?id=49129430 Points: 3 # Comments: 0",
+    "published_at": "2026-07-31 22:53",
+    "tags": [],
+    "fetch_date": "2026-08-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+    "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+    "source": "TechCrunch AI",
+    "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+    "published_at": "2026-07-31 22:47",
+    "tags": [
+      "AI",
+      "Hugging Face",
+      "In Brief",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-08-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
+    "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+    "source": "The Verge AI",
+    "summary": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real world using text prompts; Digital Digging's Henk van Ess, for example, intentionally generated images adding things like refugees near the Mexican border [&#8230;]",
+    "published_at": "2026-07-31 15:13",
+    "tags": [
+      "AI",
+      "Apps",
+      "Google",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-08-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Here’s the problem with putting an AI image generator in Google Earth",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
+    "source": "The Verge AI",
+    "summary": "A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feature, like these images generated by Digital Digging's Henk van Ess that show \"refugees near the Mexican border\" and a bomb crater near a hospital in Gaza. Google initially responded to [&#8230;]",
+    "published_at": "2026-07-31 13:05",
+    "tags": [
+      "AI",
+      "Google",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-08-01",
+    "fetch_label": "早报"
+  },
+  {
     "title": "It’s time to panic about AI safety",
     "url": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
     "source": "The Verge AI",
@@ -35132,198 +35318,5 @@
     "tags": [],
     "fetch_date": "2026-04-10",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "Fear and loathing at OpenAI",
-    "url": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast",
-    "source": "The Verge AI",
-    "summary": "Sam Altman's tenure at OpenAI has been… messy. Messy to the point where Altman was briefly fired from his role as CEO, only to be reinstated days later, at which point he began reshaping the organization permanently. This week, The New Yorker published a deep look at Altman, his time at OpenAI, and the questions [&#8230;]",
-    "published_at": "2026-04-10 08:23",
-    "tags": [
-      "AI",
-      "OpenAI",
-      "Podcasts",
-      "Tech",
-      "Vergecast"
-    ],
-    "fetch_date": "2026-04-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Gen Z’s love-hate relationship with AI",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup",
-    "source": "The Verge AI",
-    "summary": "Gen Z is increasingly disillusioned with AI - just not enough to stop using it. A new Gallup report released this week, based on responses from nearly 1,600 people ages 14 to 29 across the US, suggests the hype is wearing off for the digital-native generation as AI becomes more embedded in school and work. [&#8230;]",
-    "published_at": "2026-04-10 07:23",
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "fetch_date": "2026-04-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Astropad Workbench: Remote desktop for the AI era, not IT support",
-    "url": "https://astropad.com/product/workbench/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://astropad.com/product/workbench/ Comments URL: https://news.ycombinator.com/item?id=47712973 Points: 1 # Comments: 1",
-    "published_at": "2026-04-10 02:40",
-    "tags": [],
-    "fetch_date": "2026-04-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Google's AI Overviews spew false answers per hour, bombshell study reveals",
-    "url": "https://nypost.com/2026/04/09/business/googles-ai-overviews-spew-out-millions-of-false-answers-per-hour-bombshell-study/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://nypost.com/2026/04/09/business/googles-ai-overviews-spew-out-millions-of-false-answers-per-hour-bombshell-study/ Comments URL: https://news.ycombinator.com/item?id=47712771 Points: 2 # Comments: 0",
-    "published_at": "2026-04-10 02:08",
-    "tags": [],
-    "fetch_date": "2026-04-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "xAI sues Colorado over first state AI anti-discrimination law",
-    "url": "https://www.ft.com/content/55e8cba9-d09c-4f94-b710-4ab447b987f9",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.ft.com/content/55e8cba9-d09c-4f94-b710-4ab447b987f9 Comments URL: https://news.ycombinator.com/item?id=47712749 Points: 1 # Comments: 1",
-    "published_at": "2026-04-10 02:06",
-    "tags": [],
-    "fetch_date": "2026-04-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Black Forest Labs – The 70-Person AI Image Startup Taking on Silicon Valley",
-    "url": "https://www.wired.com/story/black-forest-labs-ai-image-generation/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.wired.com/story/black-forest-labs-ai-image-generation/ Comments URL: https://news.ycombinator.com/item?id=47712566 Points: 1 # Comments: 0",
-    "published_at": "2026-04-10 01:40",
-    "tags": [],
-    "fetch_date": "2026-04-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Commercial Persuasion in AI-Mediated Conversations",
-    "url": "https://arxiv.org/abs/2604.04263",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://arxiv.org/abs/2604.04263 Comments URL: https://news.ycombinator.com/item?id=47712478 Points: 2 # Comments: 0",
-    "published_at": "2026-04-10 01:29",
-    "tags": [],
-    "fetch_date": "2026-04-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Agentic Code Optimization via Compiler-LLM Cooperation",
-    "url": "https://arxiv.org/abs/2604.04238",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://arxiv.org/abs/2604.04238 Comments URL: https://news.ycombinator.com/item?id=47712457 Points: 2 # Comments: 0",
-    "published_at": "2026-04-10 01:26",
-    "tags": [],
-    "fetch_date": "2026-04-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Tend: Lightweight attention infrastructure for humans and AI agents",
-    "url": "https://www.tend.cx/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.tend.cx/ Comments URL: https://news.ycombinator.com/item?id=47712440 Points: 3 # Comments: 2",
-    "published_at": "2026-04-10 01:23",
-    "tags": [],
-    "fetch_date": "2026-04-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Ask HN: Looking for AI Video Upscaler",
-    "url": "https://news.ycombinator.com/item?id=47712332",
-    "source": "Hacker News AI",
-    "summary": "Hi.Are there any good video upscaler that uses AI. I don't have much experience in this domain. I googled and found this https://www.topazlabs.com/I wanted to an idea if folks here have tried something or suggest something better? Both Local or Cloud options are fine.Thanks! Comments URL: https://news.ycombinator.com/item?id=47712332 Points: 1 # Comments: 0",
-    "published_at": "2026-04-10 01:07",
-    "tags": [],
-    "fetch_date": "2026-04-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI #163: Mythos Quest",
-    "url": "https://thezvi.substack.com/p/ai-163-mythos-quest",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://thezvi.substack.com/p/ai-163-mythos-quest Comments URL: https://news.ycombinator.com/item?id=47712131 Points: 3 # Comments: 0",
-    "published_at": "2026-04-10 00:35",
-    "tags": [],
-    "fetch_date": "2026-04-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Scientists invented a fake disease. AI told people it was real",
-    "url": "https://www.nature.com/articles/d41586-026-01100-y",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.nature.com/articles/d41586-026-01100-y Comments URL: https://news.ycombinator.com/item?id=47711698 Points: 2 # Comments: 1",
-    "published_at": "2026-04-09 23:36",
-    "tags": [],
-    "fetch_date": "2026-04-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Soul.md – A Meditation on AI Identity",
-    "url": "https://soul.md/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://soul.md/ Comments URL: https://news.ycombinator.com/item?id=47711642 Points: 2 # Comments: 0",
-    "published_at": "2026-04-09 23:29",
-    "tags": [],
-    "fetch_date": "2026-04-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: AnimTOON – AI that animates SVGs with 3-4x fewer tokens than OmniLottie",
-    "url": "https://github.com/srk0102/AnimTOON",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/srk0102/AnimTOON Comments URL: https://news.ycombinator.com/item?id=47711622 Points: 2 # Comments: 0",
-    "published_at": "2026-04-09 23:27",
-    "tags": [],
-    "fetch_date": "2026-04-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "ChatGPT finally offers $100/month Pro plan",
-    "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
-    "source": "TechCrunch AI",
-    "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.",
-    "published_at": "2026-04-09 21:29",
-    "tags": [
-      "AI",
-      "OpenAI",
-      "ChatGPT"
-    ],
-    "fetch_date": "2026-04-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
-    "url": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
-    "source": "TechCrunch AI",
-    "summary": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 — and rising.",
-    "published_at": "2026-04-09 19:10",
-    "tags": [
-      "AI",
-      "Apps",
-      "Meta",
-      "meta ai",
-      "muse spark"
-    ],
-    "fetch_date": "2026-04-11",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "ChatGPT has a new $100 per month Pro subscription",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new",
-    "source": "The Verge AI",
-    "summary": "OpenAI has announced a new version of its ChatGPT Pro subscription that costs $100 per month. The new Pro tier offers \"5x more\" usage of its Codex coding tool than the $20 per month Plus subscription and \"is best for longer, high-effort Codex sessions,\" OpenAI says. The company is introducing the new tier as it [&#8230;]",
-    "published_at": "2026-04-09 18:57",
-    "tags": [
-      "AI",
-      "News",
-      "OpenAI"
-    ],
-    "fetch_date": "2026-04-10",
-    "fetch_label": "早报"
   }
 ]

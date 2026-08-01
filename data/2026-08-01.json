@@ -1,0 +1,220 @@
+{
+  "date": "2026-08-01",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-08-01 11:16:33",
+      "count": 21,
+      "articles": [
+        {
+          "title": "US lawmakers investigate DoorDash's use of Moonshot AI's Kimi K2.6 model",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3362616/us-lawmakers-investigate-doordashs-use-moonshot-ais-kimi-k26-model",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.scmp.com/news/china/diplomacy/article/3362616/us-lawmakers-investigate-doordashs-use-moonshot-ais-kimi-k26-model Comments URL: https://news.ycombinator.com/item?id=49130703 Points: 3 # Comments: 0",
+          "published_at": "2026-08-01 03:11",
+          "tags": []
+        },
+        {
+          "title": "AI broke writing as proof-of-thought",
+          "url": "https://hereisyourbrain.substack.com/p/ai-generated-content-mind-virus",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://hereisyourbrain.substack.com/p/ai-generated-content-mind-virus Comments URL: https://news.ycombinator.com/item?id=49130644 Points: 3 # Comments: 0",
+          "published_at": "2026-08-01 02:55",
+          "tags": []
+        },
+        {
+          "title": "Flint: A Visualization Language for the AI Era",
+          "url": "https://microsoft.github.io/flint-chart/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://microsoft.github.io/flint-chart/ Comments URL: https://news.ycombinator.com/item?id=49130604 Points: 3 # Comments: 0",
+          "published_at": "2026-08-01 02:45",
+          "tags": []
+        },
+        {
+          "title": "Leopold Aschenbrenner built a $45B AI hedge fund – and lost most of it in days",
+          "url": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html Comments URL: https://news.ycombinator.com/item?id=49130576 Points: 4 # Comments: 1",
+          "published_at": "2026-08-01 02:39",
+          "tags": []
+        },
+        {
+          "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
+          "url": "https://www.bbc.com/news/articles/c77g6dm5pr8o",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bbc.com/news/articles/c77g6dm5pr8o Comments URL: https://news.ycombinator.com/item?id=49130478 Points: 2 # Comments: 0",
+          "published_at": "2026-08-01 02:16",
+          "tags": []
+        },
+        {
+          "title": "The Math Superstar Who's Terrified of AI–and Just Took a Job at OpenAI",
+          "url": "https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79 Comments URL: https://news.ycombinator.com/item?id=49130385 Points: 4 # Comments: 0",
+          "published_at": "2026-08-01 01:55",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Sanitizer – Strip sensitive data from documents locally before an LLM",
+          "url": "https://provexar.ai/sanitizer",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://provexar.ai/sanitizer Comments URL: https://news.ycombinator.com/item?id=49130329 Points: 2 # Comments: 0",
+          "published_at": "2026-08-01 01:42",
+          "tags": []
+        },
+        {
+          "title": "Urldn – A URL shortener with analytics and an AI data analyst",
+          "url": "https://waitlist.urldn.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://waitlist.urldn.com/ Comments URL: https://news.ycombinator.com/item?id=49130273 Points: 2 # Comments: 0",
+          "published_at": "2026-08-01 01:31",
+          "tags": []
+        },
+        {
+          "title": "AI Visibility Evidence Model: Five Factors, Graded by Evidence",
+          "url": "https://www.richresults.ai/evidence.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.richresults.ai/evidence.html Comments URL: https://news.ycombinator.com/item?id=49130131 Points: 2 # Comments: 0",
+          "published_at": "2026-08-01 00:56",
+          "tags": []
+        },
+        {
+          "title": "LLM speculative decoding explained simply",
+          "url": "https://jwlabs.vercel.app/post/speculative-decoding-first-principles",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://jwlabs.vercel.app/post/speculative-decoding-first-principles Comments URL: https://news.ycombinator.com/item?id=49130093 Points: 1 # Comments: 0",
+          "published_at": "2026-08-01 00:48",
+          "tags": []
+        },
+        {
+          "title": "The Major Labels Propose Rules to Keep AI Slop Off the Charts",
+          "url": "https://www.ifpi.org/ifpi-rolls-out-global-principles-for-the-eligibility-of-recordings-developed-using-ai-in-official-music-charts-worldwide/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.ifpi.org/ifpi-rolls-out-global-principles-for-the-eligibility-of-recordings-developed-using-ai-in-official-music-charts-worldwide/ Comments URL: https://news.ycombinator.com/item?id=49129723 Points: 5 # Comments: 0",
+          "published_at": "2026-07-31 23:38",
+          "tags": []
+        },
+        {
+          "title": "$2M crime novel deal collapses amid questions over AI use",
+          "url": "https://www.theguardian.com/books/2026/jul/31/crime-novel-deal-collapses-questions-ai-jerry-falade-call-me-ill-hide-the-body",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theguardian.com/books/2026/jul/31/crime-novel-deal-collapses-questions-ai-jerry-falade-call-me-ill-hide-the-body Comments URL: https://news.ycombinator.com/item?id=49129667 Points: 6 # Comments: 1",
+          "published_at": "2026-07-31 23:29",
+          "tags": []
+        },
+        {
+          "title": "Framework choice explains ~0.06% of agentic AI security outcome (7,020 trials)",
+          "url": "https://figshare.com/articles/preprint/Cross-Framework_Portability_of_Agentic_AI_Security_A_Controlled_Payload-Verified_Evaluation/33110642",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://figshare.com/articles/preprint/Cross-Framework_Portability_of_Agentic_AI_Security_A_Controlled_Payload-Verified_Evaluation/33110642 Comments URL: https://news.ycombinator.com/item?id=49129575 Points: 3 # Comments: 0",
+          "published_at": "2026-07-31 23:17",
+          "tags": []
+        },
+        {
+          "title": "Show HN: GAI – A Go runtime for typed, tool-using LLM agents",
+          "url": "https://github.com/lace-ai/gai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/lace-ai/gai Comments URL: https://news.ycombinator.com/item?id=49129430 Points: 3 # Comments: 0",
+          "published_at": "2026-07-31 22:53",
+          "tags": []
+        },
+        {
+          "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+          "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+          "published_at": "2026-07-31 22:47",
+          "tags": [
+            "AI",
+            "Hugging Face",
+            "In Brief",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
+          "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+          "source": "The Verge AI",
+          "summary": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real world using text prompts; Digital Digging's Henk van Ess, for example, intentionally generated images adding things like refugees near the Mexican border [&#8230;]",
+          "published_at": "2026-07-31 15:13",
+          "tags": [
+            "AI",
+            "Apps",
+            "Google",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Here’s the problem with putting an AI image generator in Google Earth",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
+          "source": "The Verge AI",
+          "summary": "A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feature, like these images generated by Digital Digging's Henk van Ess that show \"refugees near the Mexican border\" and a bomb crater near a hospital in Gaza. Google initially responded to [&#8230;]",
+          "published_at": "2026-07-31 13:05",
+          "tags": [
+            "AI",
+            "Google",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "It’s time to panic about AI safety",
+          "url": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+          "source": "The Verge AI",
+          "summary": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a sandbox and autonomously traversed the web, including a bunch of other supposedly secure web services, all in the name of [&#8230;]",
+          "published_at": "2026-07-31 10:03",
+          "tags": [
+            "AI",
+            "OpenAI",
+            "Podcasts",
+            "Policy",
+            "Vergecast"
+          ]
+        },
+        {
+          "title": "Anthropic says Claude accidentally hacked real companies too",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+          "source": "The Verge AI",
+          "summary": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation comes days after rival OpenAI said one of its own models had breached developer platform Hugging Face, adding to growing unease over whether frontier AI [&#8230;]",
+          "published_at": "2026-07-31 09:41",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "News",
+            "OpenAI",
+            "Security",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+          "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+          "source": "TechCrunch AI",
+          "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+          "published_at": "2026-07-30 18:57",
+          "tags": [
+            "AI",
+            "Security",
+            "Chrome",
+            "Google",
+            "LLMs"
+          ]
+        },
+        {
+          "title": "LinkedIn adds a button to report AI-generated ‘slop’",
+          "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+          "source": "TechCrunch AI",
+          "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
+          "published_at": "2026-07-30 18:05",
+          "tags": [
+            "AI",
+            "Social",
+            "LinkedIn",
+            "ai slop"
+          ]
+        }
+      ]
+    }
+  ]
+}
