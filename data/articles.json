@@ -1,5 +1,63 @@
 [
   {
+    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+    "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+    "source": "TechCrunch AI",
+    "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+    "published_at": "2026-08-01 20:26",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "SpaceX",
+      "xAI"
+    ],
+    "fetch_date": "2026-08-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+    "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+    "source": "TechCrunch AI",
+    "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+    "published_at": "2026-08-01 19:45",
+    "tags": [
+      "AI",
+      "Media & Entertainment",
+      "hank green"
+    ],
+    "fetch_date": "2026-08-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Sam Altman is still making the case for parenting via ChatGPT",
+    "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+    "source": "TechCrunch AI",
+    "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+    "published_at": "2026-08-01 17:07",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "sam altman"
+    ],
+    "fetch_date": "2026-08-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Is this Billboard Hot 100 hit AI slop?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+    "source": "The Verge AI",
+    "summary": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were raised about the song's origins, with many speculating that it was largely, [&#8230;]",
+    "published_at": "2026-08-01 14:20",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Music",
+      "Report"
+    ],
+    "fetch_date": "2026-08-02",
+    "fetch_label": "早报"
+  },
+  {
     "title": "US lawmakers investigate DoorDash's use of Moonshot AI's Kimi K2.6 model",
     "url": "https://www.scmp.com/news/china/diplomacy/article/3362616/us-lawmakers-investigate-doordashs-use-moonshot-ais-kimi-k26-model",
     "source": "Hacker News AI",
@@ -35294,46 +35352,6 @@
     "source": "Hacker News AI",
     "summary": "Article URL: https://github.com/Jeffyjefchat/oracle-protocol Comments URL: https://news.ycombinator.com/item?id=47717093 Points: 1 # Comments: 0",
     "published_at": "2026-04-10 12:29",
-    "tags": [],
-    "fetch_date": "2026-04-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "My Picture of the Present in AI",
-    "url": "https://www.lesswrong.com/posts/WjaGAA4xCAXeFpyWm/my-picture-of-the-present-in-ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.lesswrong.com/posts/WjaGAA4xCAXeFpyWm/my-picture-of-the-present-in-ai Comments URL: https://news.ycombinator.com/item?id=47717072 Points: 1 # Comments: 0",
-    "published_at": "2026-04-10 12:26",
-    "tags": [],
-    "fetch_date": "2026-04-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: LLM-wiki LLM-compiled knowledge bases with multi-agent research v0.0.20",
-    "url": "https://llm-wiki.net/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://llm-wiki.net/ Comments URL: https://news.ycombinator.com/item?id=47717056 Points: 2 # Comments: 0",
-    "published_at": "2026-04-10 12:25",
-    "tags": [],
-    "fetch_date": "2026-04-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI-Powered Policing",
-    "url": "https://www.washingtonpost.com/national-security/2026/04/10/ai-police-criminal-investigations/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.washingtonpost.com/national-security/2026/04/10/ai-police-criminal-investigations/ Comments URL: https://news.ycombinator.com/item?id=47717021 Points: 1 # Comments: 0",
-    "published_at": "2026-04-10 12:22",
-    "tags": [],
-    "fetch_date": "2026-04-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Nezha: Run multiple AI coding agents across projects (Claude Code and Codex)",
-    "url": "https://github.com/hanshuaikang/nezha",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/hanshuaikang/nezha Comments URL: https://news.ycombinator.com/item?id=47716973 Points: 1 # Comments: 2",
-    "published_at": "2026-04-10 12:18",
     "tags": [],
     "fetch_date": "2026-04-10",
     "fetch_label": "晚报"
