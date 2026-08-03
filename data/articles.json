@@ -1,5 +1,139 @@
 [
   {
+    "title": "The Mental Models I Use to Work with AI",
+    "url": "https://metedata.substack.com/p/015-the-mental-models-i-use-to-work",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://metedata.substack.com/p/015-the-mental-models-i-use-to-work Comments URL: https://news.ycombinator.com/item?id=49156374 Points: 1 # Comments: 0",
+    "published_at": "2026-08-03 14:35",
+    "tags": [],
+    "fetch_date": "2026-08-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Europe opens bidding for seven AI 'gigafactories' in a €30B bid to catch up",
+    "url": "https://thenextweb.com/news/eu-ai-gigafactories-call-30bn",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://thenextweb.com/news/eu-ai-gigafactories-call-30bn Comments URL: https://news.ycombinator.com/item?id=49156329 Points: 1 # Comments: 0",
+    "published_at": "2026-08-03 14:31",
+    "tags": [],
+    "fetch_date": "2026-08-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "eek! it's a tiny rust LLM proxy in ~1k loc",
+    "url": "https://github.com/Liana64/eek",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/Liana64/eek Comments URL: https://news.ycombinator.com/item?id=49156159 Points: 1 # Comments: 1",
+    "published_at": "2026-08-03 14:20",
+    "tags": [],
+    "fetch_date": "2026-08-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "PostScript: Idle Frontier and on developing games with AI",
+    "url": "https://ljvmiranda921.github.io/projects/2026/08/03/idle-frontier/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://ljvmiranda921.github.io/projects/2026/08/03/idle-frontier/ Comments URL: https://news.ycombinator.com/item?id=49156135 Points: 1 # Comments: 1",
+    "published_at": "2026-08-03 14:18",
+    "tags": [],
+    "fetch_date": "2026-08-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Hypothetical scenario; Post AI cryptography?",
+    "url": "https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/w4o-VCza_so",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/w4o-VCza_so Comments URL: https://news.ycombinator.com/item?id=49156086 Points: 1 # Comments: 0",
+    "published_at": "2026-08-03 14:14",
+    "tags": [],
+    "fetch_date": "2026-08-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "A Markdown wiki outscored every AI agent memory product we benchmarked",
+    "url": "https://verginglabs.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://verginglabs.com/ Comments URL: https://news.ycombinator.com/item?id=49156055 Points: 1 # Comments: 0",
+    "published_at": "2026-08-03 14:12",
+    "tags": [],
+    "fetch_date": "2026-08-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The EU AI Act is now in force: an engineering checklist",
+    "url": "https://conformityengineering.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://conformityengineering.com/ Comments URL: https://news.ycombinator.com/item?id=49155887 Points: 3 # Comments: 0",
+    "published_at": "2026-08-03 13:57",
+    "tags": [],
+    "fetch_date": "2026-08-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Are We Having the Wrong Nightmares About AI?",
+    "url": "https://neurips.cc/virtual/2025/loc/san-diego/invited-talk/109606",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://neurips.cc/virtual/2025/loc/san-diego/invited-talk/109606 Comments URL: https://news.ycombinator.com/item?id=49155870 Points: 2 # Comments: 0",
+    "published_at": "2026-08-03 13:56",
+    "tags": [],
+    "fetch_date": "2026-08-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Logue 1.0.1: on-device AI meeting notes, now stored as plain Markdown",
+    "url": "https://github.com/bitwize-ai/Logue",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/bitwize-ai/Logue Comments URL: https://news.ycombinator.com/item?id=49155825 Points: 1 # Comments: 0",
+    "published_at": "2026-08-03 13:52",
+    "tags": [],
+    "fetch_date": "2026-08-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Glaux – Browser-Only AI for Hugging Face ONNX Community Models",
+    "url": "https://glaux.rangan39.sh/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://glaux.rangan39.sh/ Comments URL: https://news.ycombinator.com/item?id=49155736 Points: 2 # Comments: 3",
+    "published_at": "2026-08-03 13:44",
+    "tags": [],
+    "fetch_date": "2026-08-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "GPT-5.6 Sol Uses Twice the Tokens of GPT-5.5",
+    "url": "https://www.vincentschmalbach.com/gpt-5-6-sol-xhigh-uses-twice-tokens-gpt-5-5/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.vincentschmalbach.com/gpt-5-6-sol-xhigh-uses-twice-tokens-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=49155476 Points: 4 # Comments: 0",
+    "published_at": "2026-08-03 13:21",
+    "tags": [],
+    "fetch_date": "2026-08-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "A list of sandboxes for running AI coding agents, ranked by security posture",
+    "url": "https://github.com/fhiltscher/awesome-ai-coding-sandboxes",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/fhiltscher/awesome-ai-coding-sandboxes Comments URL: https://news.ycombinator.com/item?id=49155416 Points: 1 # Comments: 1",
+    "published_at": "2026-08-03 13:18",
+    "tags": [],
+    "fetch_date": "2026-08-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+    "source": "The Verge AI",
+    "summary": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba said it was making the model, Qwen3.8-Max, widely available to users in a [&#8230;]",
+    "published_at": "2026-08-03 07:01",
+    "tags": [
+      "AI",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-08-03",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "AI migrated legacy COBOL programs to Java, bugs included",
     "url": "https://arxiv.org/abs/2607.28271",
     "source": "Hacker News AI",
@@ -35194,147 +35328,6 @@
     "published_at": "2026-04-12 00:19",
     "tags": [],
     "fetch_date": "2026-04-12",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Hungary 2026 – Chat with 1k AI-simulated voters before the election",
-    "url": "https://hungary2026.populon.ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://hungary2026.populon.ai Comments URL: https://news.ycombinator.com/item?id=47734735 Points: 1 # Comments: 0",
-    "published_at": "2026-04-11 23:00",
-    "tags": [],
-    "fetch_date": "2026-04-12",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Forecasting the economic effects of AI",
-    "url": "https://forecastingresearch.substack.com/p/forecasting-the-economic-effects-of-ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://forecastingresearch.substack.com/p/forecasting-the-economic-effects-of-ai Comments URL: https://news.ycombinator.com/item?id=47734714 Points: 3 # Comments: 0",
-    "published_at": "2026-04-11 22:55",
-    "tags": [],
-    "fetch_date": "2026-04-12",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Predict-Rlm: The LLM Runtime That Lets Models Write Their Own Control Flow",
-    "url": "https://repo-explainer.com/Trampoline-AI/predict-rlm",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://repo-explainer.com/Trampoline-AI/predict-rlm Comments URL: https://news.ycombinator.com/item?id=47734702 Points: 1 # Comments: 0",
-    "published_at": "2026-04-11 22:53",
-    "tags": [],
-    "fetch_date": "2026-04-12",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI will test governments on jobs, training, and public trust",
-    "url": "https://www.hoover.org/news/ai-will-test-governments-jobs-training-and-public-trust-hoover-panels-warn",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.hoover.org/news/ai-will-test-governments-jobs-training-and-public-trust-hoover-panels-warn Comments URL: https://news.ycombinator.com/item?id=47734675 Points: 1 # Comments: 0",
-    "published_at": "2026-04-11 22:49",
-    "tags": [],
-    "fetch_date": "2026-04-12",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "How to Switch AI Chatbots and Why You Might Want To",
-    "url": "https://www.wsj.com/tech/ai/how-to-switch-ai-chatbots-and-why-you-might-want-to-8aaccfd4",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/how-to-switch-ai-chatbots-and-why-you-might-want-to-8aaccfd4 Comments URL: https://news.ycombinator.com/item?id=47734654 Points: 1 # Comments: 1",
-    "published_at": "2026-04-11 22:45",
-    "tags": [],
-    "fetch_date": "2026-04-12",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Transaction-level provenance for AI art certificate/signed/license on every sale",
-    "url": "https://arcvelvetos.web.app/verify?id=AwCCW6DLQgA4s5XVZ86X&type=sale",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://arcvelvetos.web.app/verify?id=AwCCW6DLQgA4s5XVZ86X&amp;type=sale Comments URL: https://news.ycombinator.com/item?id=47734092 Points: 2 # Comments: 0",
-    "published_at": "2026-04-11 21:19",
-    "tags": [],
-    "fetch_date": "2026-04-12",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
-    "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
-    "source": "TechCrunch AI",
-    "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
-    "published_at": "2026-04-11 17:18",
-    "tags": [
-      "AI",
-      "OpenAI",
-      "sam altman"
-    ],
-    "fetch_date": "2026-04-13",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Your article about AI doesn’t need AI art",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
-    "source": "The Verge AI",
-    "summary": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces - creepy alt-Altmans, their expressions ranging from anger to open-mouthed woe. Some barely look like Altman. One final face rests [&#8230;]",
-    "published_at": "2026-04-11 11:00",
-    "tags": [
-      "AI"
-    ],
-    "fetch_date": "2026-04-12",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "How Iran out-shitposted the White House",
-    "url": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
-    "source": "The Verge AI",
-    "summary": "In the early days of the war on Iran, while the White House was busy posting Call of Duty memes and AI slop of dancing bowling pins, the Iranian regime's state media was flooding the zone with video after video of what was happening on the ground: Explosions over Tehran. Smoke billowing in the sky. [&#8230;]",
-    "published_at": "2026-04-11 09:00",
-    "tags": [
-      "AI",
-      "Policy",
-      "Politics",
-      "Report"
-    ],
-    "fetch_date": "2026-04-11",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Collabmem – a memory system for long-term collaboration with AI",
-    "url": "https://github.com/visionscaper/collabmem",
-    "source": "Hacker News AI",
-    "summary": "Hello HN! I built collabmem, a simple memory system for long-term collaboration between humans and AI assistants. And it's easy to install, just ask Claude Code: Install the long-term collaboration memory system by cloning https://github.com/visionscaper/collabmem to a temporary location and following the instructions in it. To collaborate with AI over weeks, months, or even years, there needs to be a shared conceptual understanding of:- History (episodic memory): what has been done, why, and wh",
-    "published_at": "2026-04-11 01:02",
-    "tags": [],
-    "fetch_date": "2026-04-11",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "We gave an AI a 3-year Lease. It opened a store",
-    "url": "https://andonlabs.com/blog/andon-market-launch",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://andonlabs.com/blog/andon-market-launch Comments URL: https://news.ycombinator.com/item?id=47726041 Points: 3 # Comments: 0",
-    "published_at": "2026-04-11 01:01",
-    "tags": [],
-    "fetch_date": "2026-04-11",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Code Is Hollowing Out Open Source, and Maintainers Are Looking the Other Way",
-    "url": "https://www.quippd.com/writing/2026/04/08/ai-code-is-hollowing-out-open-source-and-maintainers-are-looking-the-other-way.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.quippd.com/writing/2026/04/08/ai-code-is-hollowing-out-open-source-and-maintainers-are-looking-the-other-way.html Comments URL: https://news.ycombinator.com/item?id=47725874 Points: 3 # Comments: 0",
-    "published_at": "2026-04-11 00:44",
-    "tags": [],
-    "fetch_date": "2026-04-11",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI-Assisted Breach of Mexico's Government Infrastructure Report",
-    "url": "https://gambit.security/blog-post/a-single-operator-two-ai-platforms-nine-government-agencies-the-full-technical-report",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://gambit.security/blog-post/a-single-operator-two-ai-platforms-nine-government-agencies-the-full-technical-report Comments URL: https://news.ycombinator.com/item?id=47725419 Points: 1 # Comments: 0",
-    "published_at": "2026-04-10 23:49",
-    "tags": [],
-    "fetch_date": "2026-04-11",
     "fetch_label": "早报"
   }
 ]

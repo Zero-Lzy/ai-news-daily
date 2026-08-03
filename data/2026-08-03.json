@@ -178,6 +178,134 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-08-03 22:39:34",
+      "count": 14,
+      "articles": [
+        {
+          "title": "The Mental Models I Use to Work with AI",
+          "url": "https://metedata.substack.com/p/015-the-mental-models-i-use-to-work",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://metedata.substack.com/p/015-the-mental-models-i-use-to-work Comments URL: https://news.ycombinator.com/item?id=49156374 Points: 1 # Comments: 0",
+          "published_at": "2026-08-03 14:35",
+          "tags": []
+        },
+        {
+          "title": "Europe opens bidding for seven AI 'gigafactories' in a €30B bid to catch up",
+          "url": "https://thenextweb.com/news/eu-ai-gigafactories-call-30bn",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://thenextweb.com/news/eu-ai-gigafactories-call-30bn Comments URL: https://news.ycombinator.com/item?id=49156329 Points: 1 # Comments: 0",
+          "published_at": "2026-08-03 14:31",
+          "tags": []
+        },
+        {
+          "title": "eek! it's a tiny rust LLM proxy in ~1k loc",
+          "url": "https://github.com/Liana64/eek",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/Liana64/eek Comments URL: https://news.ycombinator.com/item?id=49156159 Points: 1 # Comments: 1",
+          "published_at": "2026-08-03 14:20",
+          "tags": []
+        },
+        {
+          "title": "PostScript: Idle Frontier and on developing games with AI",
+          "url": "https://ljvmiranda921.github.io/projects/2026/08/03/idle-frontier/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://ljvmiranda921.github.io/projects/2026/08/03/idle-frontier/ Comments URL: https://news.ycombinator.com/item?id=49156135 Points: 1 # Comments: 1",
+          "published_at": "2026-08-03 14:18",
+          "tags": []
+        },
+        {
+          "title": "Hypothetical scenario; Post AI cryptography?",
+          "url": "https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/w4o-VCza_so",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/w4o-VCza_so Comments URL: https://news.ycombinator.com/item?id=49156086 Points: 1 # Comments: 0",
+          "published_at": "2026-08-03 14:14",
+          "tags": []
+        },
+        {
+          "title": "A Markdown wiki outscored every AI agent memory product we benchmarked",
+          "url": "https://verginglabs.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://verginglabs.com/ Comments URL: https://news.ycombinator.com/item?id=49156055 Points: 1 # Comments: 0",
+          "published_at": "2026-08-03 14:12",
+          "tags": []
+        },
+        {
+          "title": "The EU AI Act is now in force: an engineering checklist",
+          "url": "https://conformityengineering.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://conformityengineering.com/ Comments URL: https://news.ycombinator.com/item?id=49155887 Points: 3 # Comments: 0",
+          "published_at": "2026-08-03 13:57",
+          "tags": []
+        },
+        {
+          "title": "Are We Having the Wrong Nightmares About AI?",
+          "url": "https://neurips.cc/virtual/2025/loc/san-diego/invited-talk/109606",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://neurips.cc/virtual/2025/loc/san-diego/invited-talk/109606 Comments URL: https://news.ycombinator.com/item?id=49155870 Points: 2 # Comments: 0",
+          "published_at": "2026-08-03 13:56",
+          "tags": []
+        },
+        {
+          "title": "Logue 1.0.1: on-device AI meeting notes, now stored as plain Markdown",
+          "url": "https://github.com/bitwize-ai/Logue",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/bitwize-ai/Logue Comments URL: https://news.ycombinator.com/item?id=49155825 Points: 1 # Comments: 0",
+          "published_at": "2026-08-03 13:52",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Glaux – Browser-Only AI for Hugging Face ONNX Community Models",
+          "url": "https://glaux.rangan39.sh/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://glaux.rangan39.sh/ Comments URL: https://news.ycombinator.com/item?id=49155736 Points: 2 # Comments: 3",
+          "published_at": "2026-08-03 13:44",
+          "tags": []
+        },
+        {
+          "title": "GPT-5.6 Sol Uses Twice the Tokens of GPT-5.5",
+          "url": "https://www.vincentschmalbach.com/gpt-5-6-sol-xhigh-uses-twice-tokens-gpt-5-5/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.vincentschmalbach.com/gpt-5-6-sol-xhigh-uses-twice-tokens-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=49155476 Points: 4 # Comments: 0",
+          "published_at": "2026-08-03 13:21",
+          "tags": []
+        },
+        {
+          "title": "A list of sandboxes for running AI coding agents, ranked by security posture",
+          "url": "https://github.com/fhiltscher/awesome-ai-coding-sandboxes",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/fhiltscher/awesome-ai-coding-sandboxes Comments URL: https://news.ycombinator.com/item?id=49155416 Points: 1 # Comments: 1",
+          "published_at": "2026-08-03 13:18",
+          "tags": []
+        },
+        {
+          "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+          "source": "The Verge AI",
+          "summary": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba said it was making the model, Qwen3.8-Max, widely available to users in a [&#8230;]",
+          "published_at": "2026-08-03 07:01",
+          "tags": [
+            "AI",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Sam Altman and AI’s decel debate",
+          "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+          "source": "TechCrunch AI",
+          "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+          "published_at": "2026-08-02 20:54",
+          "tags": [
+            "AI",
+            "Hugging Face",
+            "OpenAI",
+            "sam altman"
+          ]
+        }
+      ]
     }
   ]
 }
