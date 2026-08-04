@@ -1,5 +1,157 @@
 [
   {
+    "title": "Show HN: Manhwa AI – Create webtoons with consistent AI characters",
+    "url": "https://www.manhwaai.net",
+    "source": "Hacker News AI",
+    "summary": "Hi HN,I built Manhwa AI because creating a webtoon with consistent characters still requires a lot of manual work.The product lets users define their characters, generate a storyboard, create individual panels, add dialogue, and export the finished comic. The main challenge has been maintaining the same face, clothing, and visual style across multiple scenes.It is currently an early version, and I am especially interested in feedback on:1. Character consistency 2. The storyboard-to-panel workflo",
+    "published_at": "2026-08-04 02:41",
+    "tags": [],
+    "fetch_date": "2026-08-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Superbad.com if it came from the mind of an AI",
+    "url": "https://stuff.do/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://stuff.do/ Comments URL: https://news.ycombinator.com/item?id=49163801 Points: 1 # Comments: 1",
+    "published_at": "2026-08-04 02:34",
+    "tags": [],
+    "fetch_date": "2026-08-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Hollow-LLM Attack: Ghost Weights That Fool Zero-Knowledge LLM Verification",
+    "url": "https://arxiv.org/abs/2607.28884",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2607.28884 Comments URL: https://news.ycombinator.com/item?id=49163645 Points: 1 # Comments: 0",
+    "published_at": "2026-08-04 02:07",
+    "tags": [],
+    "fetch_date": "2026-08-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Full-Stack AI Engineer, Clinical Systems – NYC Based – Healthtech",
+    "url": "https://alnuhealth.com/careers/full-stack-ai-engineer-clinical-systems",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://alnuhealth.com/careers/full-stack-ai-engineer-clinical-systems Comments URL: https://news.ycombinator.com/item?id=49163562 Points: 1 # Comments: 2",
+    "published_at": "2026-08-04 01:54",
+    "tags": [],
+    "fetch_date": "2026-08-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Is Breaking the SaaS Deployment Model: 10 Commandments for BYOC",
+    "url": "https://byocanywhere.org/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://byocanywhere.org/ Comments URL: https://news.ycombinator.com/item?id=49163459 Points: 6 # Comments: 0",
+    "published_at": "2026-08-04 01:37",
+    "tags": [],
+    "fetch_date": "2026-08-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The Next Five Years – Economics of AI – Patrick Collison",
+    "url": "https://next-five-years.vercel.app/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://next-five-years.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49163332 Points: 4 # Comments: 0",
+    "published_at": "2026-08-04 01:15",
+    "tags": [],
+    "fetch_date": "2026-08-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "How are you operating AI infrastructure in production?",
+    "url": "https://news.ycombinator.com/item?id=49163280",
+    "source": "Hacker News AI",
+    "summary": "There are many open-source projects across inference, orchestration, observability, vector search, data pipelines, evaluation, and model management. Most are relatively easy to test, but production operation is a different problem.For those running open-source AI infrastructure in production:- What are you running, for what workload, and would you recommend?- Do you operate yourself versus consume as a managed service?- Have you replaced or abandoned any tools because they were too difficult or ",
+    "published_at": "2026-08-04 01:05",
+    "tags": [],
+    "fetch_date": "2026-08-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "I asked GPT 5.6 Sol to build the opening scene to The Matrix using Three.js",
+    "url": "https://marksmayo.github.io/matrix/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://marksmayo.github.io/matrix/ Comments URL: https://news.ycombinator.com/item?id=49163207 Points: 4 # Comments: 1",
+    "published_at": "2026-08-04 00:53",
+    "tags": [],
+    "fetch_date": "2026-08-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI's Manifesto War",
+    "url": "https://www.axios.com/2026/08/02/ai-manifesto-open-weight-models",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.axios.com/2026/08/02/ai-manifesto-open-weight-models Comments URL: https://news.ycombinator.com/item?id=49163120 Points: 2 # Comments: 1",
+    "published_at": "2026-08-04 00:39",
+    "tags": [],
+    "fetch_date": "2026-08-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "This Week in AI Native Companies #2: The context layer gets funded",
+    "url": "https://www.insideainative.com/p/this-week-in-ai-native-companies-555",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.insideainative.com/p/this-week-in-ai-native-companies-555 Comments URL: https://news.ycombinator.com/item?id=49162757 Points: 2 # Comments: 0",
+    "published_at": "2026-08-03 23:39",
+    "tags": [],
+    "fetch_date": "2026-08-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI website builders: 10 prompt-to-app tools compared by pricing and code export",
+    "url": "https://github.com/umairalisadaqat/awesome-ai-website-builders",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/umairalisadaqat/awesome-ai-website-builders Comments URL: https://news.ycombinator.com/item?id=49162703 Points: 1 # Comments: 0",
+    "published_at": "2026-08-03 23:32",
+    "tags": [],
+    "fetch_date": "2026-08-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI First Ethical Code",
+    "url": "https://lastcopy.ai/code/70",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://lastcopy.ai/code/70 Comments URL: https://news.ycombinator.com/item?id=49162497 Points: 2 # Comments: 1",
+    "published_at": "2026-08-03 22:57",
+    "tags": [],
+    "fetch_date": "2026-08-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+    "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+    "source": "TechCrunch AI",
+    "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
+    "published_at": "2026-08-03 18:43",
+    "tags": [
+      "AI",
+      "Apps",
+      "Apple",
+      "siri"
+    ],
+    "fetch_date": "2026-08-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Congress’ favorite AI tool? ChatGPT",
+    "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+    "source": "TechCrunch AI",
+    "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+    "published_at": "2026-08-03 16:40",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "Congress",
+      "OpenAI",
+      "ChatGPT",
+      "In Brief"
+    ],
+    "fetch_date": "2026-08-04",
+    "fetch_label": "早报"
+  },
+  {
     "title": "The Mental Models I Use to Work with AI",
     "url": "https://metedata.substack.com/p/015-the-mental-models-i-use-to-work",
     "source": "Hacker News AI",
@@ -35181,153 +35333,5 @@
     "tags": [],
     "fetch_date": "2026-04-12",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "Why AI Sucks at Front End",
-    "url": "https://nerdy.dev/why-ai-sucks-at-front-end",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 1 # Comments: 0",
-    "published_at": "2026-04-12 12:26",
-    "tags": [],
-    "fetch_date": "2026-04-12",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "LLM Wiki Skill: Build a Second Brain with Claude Code and Obsidian",
-    "url": "https://medium.com/@alirezarezvani/llm-wiki-skill-build-a-second-brain-with-claude-code-and-obsidian-2282752758c1",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://medium.com/@alirezarezvani/llm-wiki-skill-build-a-second-brain-with-claude-code-and-obsidian-2282752758c1 Comments URL: https://news.ycombinator.com/item?id=47738722 Points: 2 # Comments: 0",
-    "published_at": "2026-04-12 12:07",
-    "tags": [],
-    "fetch_date": "2026-04-12",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "HubVanta AI",
-    "url": "https://hubvanta.com/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://hubvanta.com/ Comments URL: https://news.ycombinator.com/item?id=47738709 Points: 1 # Comments: 0",
-    "published_at": "2026-04-12 12:05",
-    "tags": [],
-    "fetch_date": "2026-04-12",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Running AI Agents in a Sandbox",
-    "url": "https://oligot.be/posts/ai-sandbox/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://oligot.be/posts/ai-sandbox/ Comments URL: https://news.ycombinator.com/item?id=47738063 Points: 1 # Comments: 0",
-    "published_at": "2026-04-12 10:24",
-    "tags": [],
-    "fetch_date": "2026-04-12",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Happy Horse AI",
-    "url": "https://www.happy-horse-ai.ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.happy-horse-ai.ai Comments URL: https://news.ycombinator.com/item?id=47737687 Points: 2 # Comments: 1",
-    "published_at": "2026-04-12 09:38",
-    "tags": [],
-    "fetch_date": "2026-04-12",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The AI code wars are heating up",
-    "url": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
-    "source": "The Verge AI",
-    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the AI coding and vibe-coding booms, follow David Pierce. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Writing code was a killer app for AI [&#8230;]",
-    "published_at": "2026-04-12 08:00",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "Column",
-      "Google",
-      "OpenAI",
-      "Tech",
-      "The Stepback"
-    ],
-    "fetch_date": "2026-04-13",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "LLM Time",
-    "url": "https://graydon2.dreamwidth.org/322732.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://graydon2.dreamwidth.org/322732.html Comments URL: https://news.ycombinator.com/item?id=47735708 Points: 1 # Comments: 0",
-    "published_at": "2026-04-12 02:38",
-    "tags": [],
-    "fetch_date": "2026-04-12",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "We spoke to the man making viral Lego-style AI videos for Iran",
-    "url": "https://www.bbc.com/news/articles/cjd8jrd1vnyo",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.bbc.com/news/articles/cjd8jrd1vnyo Comments URL: https://news.ycombinator.com/item?id=47735704 Points: 1 # Comments: 0",
-    "published_at": "2026-04-12 02:37",
-    "tags": [],
-    "fetch_date": "2026-04-12",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Can't Read an Investor Deck",
-    "url": "https://www.mercor.com/blog/Finance-tasks-ai-failures-modes/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.mercor.com/blog/Finance-tasks-ai-failures-modes/ Comments URL: https://news.ycombinator.com/item?id=47735664 Points: 1 # Comments: 1",
-    "published_at": "2026-04-12 02:27",
-    "tags": [],
-    "fetch_date": "2026-04-12",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI models are terrible at betting on soccer- especially xAI Grok",
-    "url": "https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/ Comments URL: https://news.ycombinator.com/item?id=47735397 Points: 1 # Comments: 1",
-    "published_at": "2026-04-12 01:22",
-    "tags": [],
-    "fetch_date": "2026-04-12",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "recursive-mode: The Repo-Native Operating System for AI Engineering",
-    "url": "https://repo-explainer.com/try-works/recursive-mode",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://repo-explainer.com/try-works/recursive-mode Comments URL: https://news.ycombinator.com/item?id=47735396 Points: 1 # Comments: 0",
-    "published_at": "2026-04-12 01:22",
-    "tags": [],
-    "fetch_date": "2026-04-12",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "NeoBaby Phoebe Gates wants her $185M AI startup Phia to succeed",
-    "url": "https://fortune.com/2026/02/21/phoebe-gates-startup-phia-succeed-without-help-parents-bill-gates-melinda-french-gates/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://fortune.com/2026/02/21/phoebe-gates-startup-phia-succeed-without-help-parents-bill-gates-melinda-french-gates/ Comments URL: https://news.ycombinator.com/item?id=47735378 Points: 3 # Comments: 2",
-    "published_at": "2026-04-12 01:14",
-    "tags": [],
-    "fetch_date": "2026-04-12",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "After the Attack on Sam Altman's Home, Will AI CEOs Go on the Offensive?",
-    "url": "https://www.motherjones.com/politics/2026/04/after-the-attack-on-sam-altmans-home-will-ai-ceos-go-on-the-offensive/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.motherjones.com/politics/2026/04/after-the-attack-on-sam-altmans-home-will-ai-ceos-go-on-the-offensive/ Comments URL: https://news.ycombinator.com/item?id=47735134 Points: 2 # Comments: 0",
-    "published_at": "2026-04-12 00:27",
-    "tags": [],
-    "fetch_date": "2026-04-12",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Job Loss Tracker",
-    "url": "https://jobloss.ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://jobloss.ai/ Comments URL: https://news.ycombinator.com/item?id=47735101 Points: 23 # Comments: 20",
-    "published_at": "2026-04-12 00:19",
-    "tags": [],
-    "fetch_date": "2026-04-12",
-    "fetch_label": "早报"
   }
 ]

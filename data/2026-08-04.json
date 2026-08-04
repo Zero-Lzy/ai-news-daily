@@ -1,0 +1,150 @@
+{
+  "date": "2026-08-04",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-08-04 10:47:41",
+      "count": 15,
+      "articles": [
+        {
+          "title": "Show HN: Manhwa AI – Create webtoons with consistent AI characters",
+          "url": "https://www.manhwaai.net",
+          "source": "Hacker News AI",
+          "summary": "Hi HN,I built Manhwa AI because creating a webtoon with consistent characters still requires a lot of manual work.The product lets users define their characters, generate a storyboard, create individual panels, add dialogue, and export the finished comic. The main challenge has been maintaining the same face, clothing, and visual style across multiple scenes.It is currently an early version, and I am especially interested in feedback on:1. Character consistency 2. The storyboard-to-panel workflo",
+          "published_at": "2026-08-04 02:41",
+          "tags": []
+        },
+        {
+          "title": "Superbad.com if it came from the mind of an AI",
+          "url": "https://stuff.do/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://stuff.do/ Comments URL: https://news.ycombinator.com/item?id=49163801 Points: 1 # Comments: 1",
+          "published_at": "2026-08-04 02:34",
+          "tags": []
+        },
+        {
+          "title": "Hollow-LLM Attack: Ghost Weights That Fool Zero-Knowledge LLM Verification",
+          "url": "https://arxiv.org/abs/2607.28884",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2607.28884 Comments URL: https://news.ycombinator.com/item?id=49163645 Points: 1 # Comments: 0",
+          "published_at": "2026-08-04 02:07",
+          "tags": []
+        },
+        {
+          "title": "Full-Stack AI Engineer, Clinical Systems – NYC Based – Healthtech",
+          "url": "https://alnuhealth.com/careers/full-stack-ai-engineer-clinical-systems",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://alnuhealth.com/careers/full-stack-ai-engineer-clinical-systems Comments URL: https://news.ycombinator.com/item?id=49163562 Points: 1 # Comments: 2",
+          "published_at": "2026-08-04 01:54",
+          "tags": []
+        },
+        {
+          "title": "AI Is Breaking the SaaS Deployment Model: 10 Commandments for BYOC",
+          "url": "https://byocanywhere.org/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://byocanywhere.org/ Comments URL: https://news.ycombinator.com/item?id=49163459 Points: 6 # Comments: 0",
+          "published_at": "2026-08-04 01:37",
+          "tags": []
+        },
+        {
+          "title": "The Next Five Years – Economics of AI – Patrick Collison",
+          "url": "https://next-five-years.vercel.app/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://next-five-years.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49163332 Points: 4 # Comments: 0",
+          "published_at": "2026-08-04 01:15",
+          "tags": []
+        },
+        {
+          "title": "How are you operating AI infrastructure in production?",
+          "url": "https://news.ycombinator.com/item?id=49163280",
+          "source": "Hacker News AI",
+          "summary": "There are many open-source projects across inference, orchestration, observability, vector search, data pipelines, evaluation, and model management. Most are relatively easy to test, but production operation is a different problem.For those running open-source AI infrastructure in production:- What are you running, for what workload, and would you recommend?- Do you operate yourself versus consume as a managed service?- Have you replaced or abandoned any tools because they were too difficult or ",
+          "published_at": "2026-08-04 01:05",
+          "tags": []
+        },
+        {
+          "title": "I asked GPT 5.6 Sol to build the opening scene to The Matrix using Three.js",
+          "url": "https://marksmayo.github.io/matrix/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://marksmayo.github.io/matrix/ Comments URL: https://news.ycombinator.com/item?id=49163207 Points: 4 # Comments: 1",
+          "published_at": "2026-08-04 00:53",
+          "tags": []
+        },
+        {
+          "title": "AI's Manifesto War",
+          "url": "https://www.axios.com/2026/08/02/ai-manifesto-open-weight-models",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.axios.com/2026/08/02/ai-manifesto-open-weight-models Comments URL: https://news.ycombinator.com/item?id=49163120 Points: 2 # Comments: 1",
+          "published_at": "2026-08-04 00:39",
+          "tags": []
+        },
+        {
+          "title": "This Week in AI Native Companies #2: The context layer gets funded",
+          "url": "https://www.insideainative.com/p/this-week-in-ai-native-companies-555",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.insideainative.com/p/this-week-in-ai-native-companies-555 Comments URL: https://news.ycombinator.com/item?id=49162757 Points: 2 # Comments: 0",
+          "published_at": "2026-08-03 23:39",
+          "tags": []
+        },
+        {
+          "title": "AI website builders: 10 prompt-to-app tools compared by pricing and code export",
+          "url": "https://github.com/umairalisadaqat/awesome-ai-website-builders",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/umairalisadaqat/awesome-ai-website-builders Comments URL: https://news.ycombinator.com/item?id=49162703 Points: 1 # Comments: 0",
+          "published_at": "2026-08-03 23:32",
+          "tags": []
+        },
+        {
+          "title": "AI First Ethical Code",
+          "url": "https://lastcopy.ai/code/70",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://lastcopy.ai/code/70 Comments URL: https://news.ycombinator.com/item?id=49162497 Points: 2 # Comments: 1",
+          "published_at": "2026-08-03 22:57",
+          "tags": []
+        },
+        {
+          "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+          "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+          "source": "TechCrunch AI",
+          "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
+          "published_at": "2026-08-03 18:43",
+          "tags": [
+            "AI",
+            "Apps",
+            "Apple",
+            "siri"
+          ]
+        },
+        {
+          "title": "Congress’ favorite AI tool? ChatGPT",
+          "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+          "source": "TechCrunch AI",
+          "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+          "published_at": "2026-08-03 16:40",
+          "tags": [
+            "AI",
+            "Government & Policy",
+            "Congress",
+            "OpenAI",
+            "ChatGPT",
+            "In Brief"
+          ]
+        },
+        {
+          "title": "Sam Altman and AI’s decel debate",
+          "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+          "source": "TechCrunch AI",
+          "summary": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\"",
+          "published_at": "2026-08-02 20:54",
+          "tags": [
+            "AI",
+            "Equity podcast",
+            "Hugging Face",
+            "OpenAI",
+            "sam altman"
+          ]
+        }
+      ]
+    }
+  ]
+}
