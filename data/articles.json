@@ -1,5 +1,162 @@
 [
   {
+    "title": "Celeris-1 tops AI speed ranking at 2,158 tokens per second",
+    "url": "https://runtimewire.com/article/celeris-1-tops-ai-speed-ranking-diffusion-model",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://runtimewire.com/article/celeris-1-tops-ai-speed-ranking-diffusion-model Comments URL: https://news.ycombinator.com/item?id=49169258 Points: 1 # Comments: 0",
+    "published_at": "2026-08-04 14:10",
+    "tags": [],
+    "fetch_date": "2026-08-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism",
+    "url": "http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html Comments URL: https://news.ycombinator.com/item?id=49169227 Points: 1 # Comments: 0",
+    "published_at": "2026-08-04 14:07",
+    "tags": [],
+    "fetch_date": "2026-08-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Stonefold – a deterministic gateway between AI agents and your systems",
+    "url": "https://stonefold.ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://stonefold.ai/ Comments URL: https://news.ycombinator.com/item?id=49169158 Points: 1 # Comments: 0",
+    "published_at": "2026-08-04 14:02",
+    "tags": [],
+    "fetch_date": "2026-08-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "I measured defect rates across 2,307 AI-generated 3D models",
+    "url": "https://github.com/alza123123/3dqa-benchmark",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/alza123123/3dqa-benchmark Comments URL: https://news.ycombinator.com/item?id=49168919 Points: 1 # Comments: 0",
+    "published_at": "2026-08-04 13:45",
+    "tags": [],
+    "fetch_date": "2026-08-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "I Phish My AI Agent, and You Should Too",
+    "url": "https://sveder.com/blog/i-phish-my-ai-agent-and-you-should-too/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://sveder.com/blog/i-phish-my-ai-agent-and-you-should-too/ Comments URL: https://news.ycombinator.com/item?id=49168900 Points: 1 # Comments: 0",
+    "published_at": "2026-08-04 13:44",
+    "tags": [],
+    "fetch_date": "2026-08-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI slop pollutes the CVE pipeline with fake vulns",
+    "url": "https://www.theregister.com/security/2026/08/03/ai-slop-pollutes-the-cve-pipeline-with-fake-vulns/5282462",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theregister.com/security/2026/08/03/ai-slop-pollutes-the-cve-pipeline-with-fake-vulns/5282462 Comments URL: https://news.ycombinator.com/item?id=49168899 Points: 1 # Comments: 1",
+    "published_at": "2026-08-04 13:43",
+    "tags": [],
+    "fetch_date": "2026-08-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "I built an LLM debugger for fine-tuning failures",
+    "url": "https://github.com/gradian-ai/gradian",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/gradian-ai/gradian Comments URL: https://news.ycombinator.com/item?id=49168696 Points: 3 # Comments: 3",
+    "published_at": "2026-08-04 13:27",
+    "tags": [],
+    "fetch_date": "2026-08-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Pdf-inspector: The rust-powered open-source PDF parser for AI",
+    "url": "https://firecrawl.github.io/pdf-inspector/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://firecrawl.github.io/pdf-inspector/ Comments URL: https://news.ycombinator.com/item?id=49168679 Points: 1 # Comments: 0",
+    "published_at": "2026-08-04 13:26",
+    "tags": [],
+    "fetch_date": "2026-08-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI pricing is not broken. We have the answers for how to do it",
+    "url": "https://www.solvimon.com/blog/ai-pricing-is-not-broken",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.solvimon.com/blog/ai-pricing-is-not-broken Comments URL: https://news.ycombinator.com/item?id=49168484 Points: 1 # Comments: 0",
+    "published_at": "2026-08-04 13:13",
+    "tags": [],
+    "fetch_date": "2026-08-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Entangle, hand a live AI coding session to anyone with three words",
+    "url": "https://github.com/gowtham-sai-yadav/entangle",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/gowtham-sai-yadav/entangle Comments URL: https://news.ycombinator.com/item?id=49168465 Points: 4 # Comments: 0",
+    "published_at": "2026-08-04 13:12",
+    "tags": [],
+    "fetch_date": "2026-08-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Observability Turns Vibe Coding into AI Engineering",
+    "url": "https://www.dynatrace.com/news/blog/how-observability-transforms-vibe-coding-into-ai-engineering/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.dynatrace.com/news/blog/how-observability-transforms-vibe-coding-into-ai-engineering/ Comments URL: https://news.ycombinator.com/item?id=49168370 Points: 2 # Comments: 0",
+    "published_at": "2026-08-04 13:06",
+    "tags": [],
+    "fetch_date": "2026-08-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Aligning 800 audiobooks (8k hours) to text in 6 days, no LLM in the loop",
+    "url": "https://tale.fyi/@sam/aligning-800-audiobooks-8-000-hours-to-text-in-6-days-no-llm-in-the-loop?from=hn",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://tale.fyi/@sam/aligning-800-audiobooks-8-000-hours-to-text-in-6-days-no-llm-in-the-loop?from=hn Comments URL: https://news.ycombinator.com/item?id=49168259 Points: 2 # Comments: 0",
+    "published_at": "2026-08-04 12:58",
+    "tags": [],
+    "fetch_date": "2026-08-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI-Native Firms",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6905079",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6905079 Comments URL: https://news.ycombinator.com/item?id=49167982 Points: 1 # Comments: 0",
+    "published_at": "2026-08-04 12:41",
+    "tags": [],
+    "fetch_date": "2026-08-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI's talent wars have a loyalty problem",
+    "url": "https://www.axios.com/2026/08/03/ai-talent-wars-openai-google-meta-anthropic",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.axios.com/2026/08/03/ai-talent-wars-openai-google-meta-anthropic Comments URL: https://news.ycombinator.com/item?id=49167877 Points: 1 # Comments: 0",
+    "published_at": "2026-08-04 12:33",
+    "tags": [],
+    "fetch_date": "2026-08-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Can Reddit fend off a new wave of AI SEO spam?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+    "source": "The Verge AI",
+    "summary": "Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of responses; one from a user named Primary-Taro4254 seemed innocuous enough, at least at first. \"I haven't personally tried [that brand] so I can't [&#8230;]",
+    "published_at": "2026-08-04 06:00",
+    "tags": [
+      "AI",
+      "Business",
+      "Creators",
+      "Google",
+      "Reddit",
+      "Tech"
+    ],
+    "fetch_date": "2026-08-04",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Show HN: Manhwa AI – Create webtoons with consistent AI characters",
     "url": "https://www.manhwaai.net",
     "source": "Hacker News AI",
@@ -108,6 +265,22 @@
     "tags": [],
     "fetch_date": "2026-08-04",
     "fetch_label": "早报"
+  },
+  {
+    "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+    "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+    "source": "TechCrunch AI",
+    "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+    "published_at": "2026-08-03 23:19",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "TC",
+      "Alex Karp",
+      "Palantir"
+    ],
+    "fetch_date": "2026-08-04",
+    "fetch_label": "晚报"
   },
   {
     "title": "AI First Ethical Code",
@@ -269,6 +442,20 @@
     "published_at": "2026-08-03 13:18",
     "tags": [],
     "fetch_date": "2026-08-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+    "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+    "source": "TechCrunch AI",
+    "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+    "published_at": "2026-08-03 10:00",
+    "tags": [
+      "AI",
+      "Venture",
+      "Exclusive"
+    ],
+    "fetch_date": "2026-08-04",
     "fetch_label": "晚报"
   },
   {
@@ -35157,181 +35344,5 @@
     "tags": [],
     "fetch_date": "2026-04-13",
     "fetch_label": "早报"
-  },
-  {
-    "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
-    "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end Comments URL: https://news.ycombinator.com/item?id=47747017 Points: 2 # Comments: 0",
-    "published_at": "2026-04-13 02:53",
-    "tags": [],
-    "fetch_date": "2026-04-13",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "ReceiptBot – Stop Node.js AI agents from reading .env and burning your budget",
-    "url": "https://github.com/redshadow912/ReceiptBot",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/redshadow912/ReceiptBot Comments URL: https://news.ycombinator.com/item?id=47746772 Points: 1 # Comments: 1",
-    "published_at": "2026-04-13 02:15",
-    "tags": [],
-    "fetch_date": "2026-04-13",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Yet another AI image ediotr and generator",
-    "url": "https://imageditor.net/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://imageditor.net/ Comments URL: https://news.ycombinator.com/item?id=47746676 Points: 1 # Comments: 0",
-    "published_at": "2026-04-13 02:01",
-    "tags": [],
-    "fetch_date": "2026-04-13",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Moat: Run AI agents in isolated containers",
-    "url": "https://majorcontext.com/moat/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://majorcontext.com/moat/ Comments URL: https://news.ycombinator.com/item?id=47746591 Points: 2 # Comments: 1",
-    "published_at": "2026-04-13 01:45",
-    "tags": [],
-    "fetch_date": "2026-04-13",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "GraphAI – dual-graph $0 knowledge system with AI-native binary format",
-    "url": "https://github.com/nehloo/graphAI",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/nehloo/graphAI Comments URL: https://news.ycombinator.com/item?id=47746391 Points: 1 # Comments: 0",
-    "published_at": "2026-04-13 01:17",
-    "tags": [],
-    "fetch_date": "2026-04-13",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Externalization in LLM Agents",
-    "url": "https://arxiv.org/abs/2604.08224",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://arxiv.org/abs/2604.08224 Comments URL: https://news.ycombinator.com/item?id=47746378 Points: 2 # Comments: 0",
-    "published_at": "2026-04-13 01:15",
-    "tags": [],
-    "fetch_date": "2026-04-13",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: A virtual office where you watch your AI agents code",
-    "url": "https://github.com/ashxco/piedpiper",
-    "source": "Hacker News AI",
-    "summary": "I run a lot of Claude agents at once and got tired of switching between terminals. Built a virtual office on top of t3code where each agent has a desk and you can see what everyone's working on. Comments URL: https://news.ycombinator.com/item?id=47746363 Points: 1 # Comments: 0",
-    "published_at": "2026-04-13 01:12",
-    "tags": [],
-    "fetch_date": "2026-04-13",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Amazon vs. Perplexity AI: ACLU's Amicus Brief",
-    "url": "https://www.aclu.org/cases/amazon-v-perplexity?document=Amicus-Brief-of-ACLU-ACLU-of-Northern-California-and-Knight-First-Amendment-Institute-in-Support-of-Defendant-Appellant-and-Reversal",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.aclu.org/cases/amazon-v-perplexity?document=Amicus-Brief-of-ACLU-ACLU-of-Northern-California-and-Knight-First-Amendment-Institute-in-Support-of-Defendant-Appellant-and-Reversal Comments URL: https://news.ycombinator.com/item?id=47746272 Points: 1 # Comments: 0",
-    "published_at": "2026-04-13 01:00",
-    "tags": [],
-    "fetch_date": "2026-04-13",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Specs over Vibes: Consistent AI Results Ft. Mark Freeman",
-    "url": "https://motherduck.com/blog/specs-over-vibes-consistent-ai-results/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://motherduck.com/blog/specs-over-vibes-consistent-ai-results/ Comments URL: https://news.ycombinator.com/item?id=47746201 Points: 2 # Comments: 0",
-    "published_at": "2026-04-13 00:48",
-    "tags": [],
-    "fetch_date": "2026-04-13",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Most AI travel apps don't help you travel",
-    "url": "https://navoy.io/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://navoy.io/ Comments URL: https://news.ycombinator.com/item?id=47746183 Points: 1 # Comments: 1",
-    "published_at": "2026-04-13 00:46",
-    "tags": [],
-    "fetch_date": "2026-04-13",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Local LLM on a Pi 4 controlling hardware via tool calling",
-    "url": "https://github.com/stfurkan/pi-llm",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/stfurkan/pi-llm Comments URL: https://news.ycombinator.com/item?id=47745503 Points: 3 # Comments: 3",
-    "published_at": "2026-04-12 23:14",
-    "tags": [],
-    "fetch_date": "2026-04-13",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
-    "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
-    "source": "TechCrunch AI",
-    "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
-    "published_at": "2026-04-12 21:14",
-    "tags": [
-      "AI",
-      "Government & Policy",
-      "jerome powell",
-      "Scott Bessent",
-      "Anthropic"
-    ],
-    "fetch_date": "2026-04-13",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "World Socialist Web Site to Launch Socialism AI (2025)",
-    "url": "https://www.wsws.org/en/articles/2025/11/23/ohvk-n23.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.wsws.org/en/articles/2025/11/23/ohvk-n23.html Comments URL: https://news.ycombinator.com/item?id=47739131 Points: 1 # Comments: 0",
-    "published_at": "2026-04-12 13:02",
-    "tags": [],
-    "fetch_date": "2026-04-12",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Over 4,732 Messages, He Fell in Love with an AI Chatbot. Now He's Dead",
-    "url": "https://www.wsj.com/tech/ai/google-gemini-jonathan-gavalas-death-07351ab2",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/google-gemini-jonathan-gavalas-death-07351ab2 Comments URL: https://news.ycombinator.com/item?id=47739110 Points: 1 # Comments: 0",
-    "published_at": "2026-04-12 12:59",
-    "tags": [],
-    "fetch_date": "2026-04-12",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: SpecSource – AI That Writes Linear Specs from Sentry, GitHub, & Slack",
-    "url": "https://www.specsource.ai",
-    "source": "Hacker News AI",
-    "summary": "Hi HN, I'm Antoni. I built SpecSource to automate the tedious research you do for every new Linear ticket - matching with Sentry errors, finding the relevant code, searching Slack for context, checking for duplicates in Linear.You connect your ticketing system like Linear to tools like Sentry, GitHub, Slack, and when a new ticket comes in, an AI agent cross-references everything and writes a structured specification. Takes about 30 seconds. The output works well as input for AI coding agents too",
-    "published_at": "2026-04-12 12:54",
-    "tags": [],
-    "fetch_date": "2026-04-12",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Touch some grass or how to survive during AI times",
-    "url": "https://www.mcbaguetti.xyz/touchgrass.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.mcbaguetti.xyz/touchgrass.html Comments URL: https://news.ycombinator.com/item?id=47739062 Points: 1 # Comments: 0",
-    "published_at": "2026-04-12 12:53",
-    "tags": [],
-    "fetch_date": "2026-04-12",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Agentsview: A local-first desktop and web app for browsing AI agent sessions",
-    "url": "https://github.com/wesm/agentsview",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/wesm/agentsview Comments URL: https://news.ycombinator.com/item?id=47738991 Points: 1 # Comments: 0",
-    "published_at": "2026-04-12 12:43",
-    "tags": [],
-    "fetch_date": "2026-04-12",
-    "fetch_label": "晚报"
   }
 ]
