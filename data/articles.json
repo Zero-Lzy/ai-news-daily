@@ -1,5 +1,51 @@
 [
   {
+    "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+    "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+    "source": "TechCrunch AI",
+    "summary": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
+    "published_at": "2026-08-05 12:28",
+    "tags": [
+      "AI",
+      "Apps",
+      "Liquid AI",
+      "MacPaw",
+      "offline ai",
+      "on device AI"
+    ],
+    "fetch_date": "2026-08-05",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+    "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+    "source": "TechCrunch AI",
+    "summary": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.",
+    "published_at": "2026-08-05 11:00",
+    "tags": [
+      "Venture",
+      "AI",
+      "weather",
+      "meteorology"
+    ],
+    "fetch_date": "2026-08-05",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Trump’s AI testing plan is limited and vague",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
+    "source": "The Verge AI",
+    "summary": "The Trump administration's framework for assessing potential cybersecurity risks posed by advanced AI reportedly has no interest in testing open models. Axios reports that not only do the voluntary guidelines outright exclude open models - meaning anyone can download them and inspect their core components - but the framework explicitly says it can't be used [&#8230;]",
+    "published_at": "2026-08-05 06:29",
+    "tags": [
+      "AI",
+      "News",
+      "Policy"
+    ],
+    "fetch_date": "2026-08-05",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "The Moral Compass of AI: Why Fairness Shapes Our Future",
     "url": "https://medium.com/freedomofthought/the-moral-compass-of-ai-why-fairness-shapes-our-future-d2aed50a4d4e",
     "source": "Hacker News AI",
@@ -120,6 +166,21 @@
     "fetch_label": "早报"
   },
   {
+    "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+    "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+    "source": "TechCrunch AI",
+    "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+    "published_at": "2026-08-04 20:05",
+    "tags": [
+      "AI",
+      "open source",
+      "Z.ai",
+      "GLM"
+    ],
+    "fetch_date": "2026-08-05",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Anthropic signs $10B deal with AI cloud startup Volta",
     "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
     "source": "TechCrunch AI",
@@ -133,6 +194,22 @@
     ],
     "fetch_date": "2026-08-05",
     "fetch_label": "早报"
+  },
+  {
+    "title": "AMD&#8217;s data center business is booming while gaming takes a backseat",
+    "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+    "source": "The Verge AI",
+    "summary": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. During Tuesday's earnings call, AMD CEO Lisa Su said [&#8230;]",
+    "published_at": "2026-08-04 16:57",
+    "tags": [
+      "AI",
+      "AMD",
+      "Business",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-08-05",
+    "fetch_label": "晚报"
   },
   {
     "title": "SpaceX made more revenue as an AI company than a space company",
@@ -199,6 +276,26 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "How an OpenAI influencer trip backfired",
+    "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+    "source": "The Verge AI",
+    "summary": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trips can also spur hard feelings from uninvited influencers, trigger criticism from the public, and project a certain frivolousness. Usually it is fast [&#8230;]",
+    "published_at": "2026-08-04 13:46",
+    "tags": [
+      "AI",
+      "Analysis",
+      "Creators",
+      "Culture",
+      "Entertainment",
+      "Internet Culture",
+      "OpenAI",
+      "Report",
+      "Tech"
+    ],
+    "fetch_date": "2026-08-05",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "I measured defect rates across 2,307 AI-generated 3D models",
     "url": "https://github.com/alza123123/3dqa-benchmark",
     "source": "Hacker News AI",
@@ -226,6 +323,19 @@
     "published_at": "2026-08-04 13:43",
     "tags": [],
     "fetch_date": "2026-08-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "‘Not healthy’ LLM use is more common than you think",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+    "source": "The Verge AI",
+    "summary": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to write scripts. Much of the ensuing firestorm in this corner of [&#8230;]",
+    "published_at": "2026-08-04 13:33",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "fetch_date": "2026-08-05",
     "fetch_label": "晚报"
   },
   {
@@ -35249,76 +35359,6 @@
       "Tech"
     ],
     "fetch_date": "2026-04-15",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "We're Using So Much AI That Computing Firepower Is Running Out",
-    "url": "https://www.wsj.com/tech/ai/ai-is-using-so-much-energy-that-computing-firepower-is-running-out-156e5c85",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/ai-is-using-so-much-energy-that-computing-firepower-is-running-out-156e5c85 Comments URL: https://news.ycombinator.com/item?id=47760636 Points: 2 # Comments: 0",
-    "published_at": "2026-04-14 02:42",
-    "tags": [],
-    "fetch_date": "2026-04-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Meta spins up AI version of Mark Zuckerberg to engage with employees",
-    "url": "https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-zuckerberg-to-engage-with-employees/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-zuckerberg-to-engage-with-employees/ Comments URL: https://news.ycombinator.com/item?id=47760543 Points: 2 # Comments: 0",
-    "published_at": "2026-04-14 02:27",
-    "tags": [],
-    "fetch_date": "2026-04-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Agent Stores – Making Shopee Products Findable by ChatGPT and Perplexity",
-    "url": "https://www.bbiz.shop/blog",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.bbiz.shop/blog Comments URL: https://news.ycombinator.com/item?id=47760530 Points: 3 # Comments: 0",
-    "published_at": "2026-04-14 02:25",
-    "tags": [],
-    "fetch_date": "2026-04-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "OpenAI acquires AI personal finance startup Hiro – financial agents next?",
-    "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/ Comments URL: https://news.ycombinator.com/item?id=47760333 Points: 2 # Comments: 0",
-    "published_at": "2026-04-14 01:55",
-    "tags": [],
-    "fetch_date": "2026-04-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "I built an AI CMO because I can't market",
-    "url": "https://www.polara.ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.polara.ai/ Comments URL: https://news.ycombinator.com/item?id=47760194 Points: 2 # Comments: 2",
-    "published_at": "2026-04-14 01:34",
-    "tags": [],
-    "fetch_date": "2026-04-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Can Now Control Your Mac OS",
-    "url": "https://clawdcursor.com",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://clawdcursor.com Comments URL: https://news.ycombinator.com/item?id=47760035 Points: 1 # Comments: 0",
-    "published_at": "2026-04-14 01:13",
-    "tags": [],
-    "fetch_date": "2026-04-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Beyond Constraint: The Case for Ethical Entrainment in AI",
-    "url": "https://www.mountaineagle.net/articles/display/beyond-constraint-the-case-for-ethical-entrainment-in-ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.mountaineagle.net/articles/display/beyond-constraint-the-case-for-ethical-entrainment-in-ai/ Comments URL: https://news.ycombinator.com/item?id=47759857 Points: 1 # Comments: 1",
-    "published_at": "2026-04-14 00:47",
-    "tags": [],
-    "fetch_date": "2026-04-14",
     "fetch_label": "早报"
   }
 ]

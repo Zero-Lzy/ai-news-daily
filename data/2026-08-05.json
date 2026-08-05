@@ -176,6 +176,181 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-08-05 22:09:44",
+      "count": 12,
+      "articles": [
+        {
+          "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+          "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+          "source": "TechCrunch AI",
+          "summary": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
+          "published_at": "2026-08-05 12:28",
+          "tags": [
+            "AI",
+            "Apps",
+            "Liquid AI",
+            "MacPaw",
+            "offline ai",
+            "on device AI"
+          ]
+        },
+        {
+          "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+          "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+          "source": "TechCrunch AI",
+          "summary": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.",
+          "published_at": "2026-08-05 11:00",
+          "tags": [
+            "Venture",
+            "AI",
+            "weather",
+            "meteorology"
+          ]
+        },
+        {
+          "title": "Trump’s AI testing plan is limited and vague",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
+          "source": "The Verge AI",
+          "summary": "The Trump administration's framework for assessing potential cybersecurity risks posed by advanced AI reportedly has no interest in testing open models. Axios reports that not only do the voluntary guidelines outright exclude open models - meaning anyone can download them and inspect their core components - but the framework explicitly says it can't be used [&#8230;]",
+          "published_at": "2026-08-05 06:29",
+          "tags": [
+            "AI",
+            "News",
+            "Policy"
+          ]
+        },
+        {
+          "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+          "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+          "source": "TechCrunch AI",
+          "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+          "published_at": "2026-08-04 20:05",
+          "tags": [
+            "AI",
+            "open source",
+            "Z.ai",
+            "GLM"
+          ]
+        },
+        {
+          "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+          "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+          "published_at": "2026-08-04 19:48",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "In Brief",
+            "volta"
+          ]
+        },
+        {
+          "title": "AMD&#8217;s data center business is booming while gaming takes a backseat",
+          "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+          "source": "The Verge AI",
+          "summary": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. During Tuesday's earnings call, AMD CEO Lisa Su said [&#8230;]",
+          "published_at": "2026-08-04 16:57",
+          "tags": [
+            "AI",
+            "AMD",
+            "Business",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "SpaceX made more revenue as an AI company than a space company",
+          "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+          "source": "The Verge AI",
+          "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go public was the source of most of its [&#8230;]",
+          "published_at": "2026-08-04 16:47",
+          "tags": [
+            "AI",
+            "Business",
+            "Science",
+            "Space",
+            "SpaceX",
+            "Tech",
+            "xAI"
+          ]
+        },
+        {
+          "title": "Spotify expands AI remix and covers project with Merlin partnership",
+          "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+          "source": "TechCrunch AI",
+          "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring artists opt in, receive credit, and are compensated.",
+          "published_at": "2026-08-04 15:50",
+          "tags": [
+            "AI",
+            "Apps",
+            "Media & Entertainment",
+            "music streaming",
+            "Spotify"
+          ]
+        },
+        {
+          "title": "How an OpenAI influencer trip backfired",
+          "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+          "source": "The Verge AI",
+          "summary": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trips can also spur hard feelings from uninvited influencers, trigger criticism from the public, and project a certain frivolousness. Usually it is fast [&#8230;]",
+          "published_at": "2026-08-04 13:46",
+          "tags": [
+            "AI",
+            "Analysis",
+            "Creators",
+            "Culture",
+            "Entertainment",
+            "Internet Culture",
+            "OpenAI",
+            "Report",
+            "Tech"
+          ]
+        },
+        {
+          "title": "‘Not healthy’ LLM use is more common than you think",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+          "source": "The Verge AI",
+          "summary": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to write scripts. Much of the ensuing firestorm in this corner of [&#8230;]",
+          "published_at": "2026-08-04 13:33",
+          "tags": [
+            "AI",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Can Reddit fend off a new wave of AI SEO spam?",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+          "source": "The Verge AI",
+          "summary": "Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of responses; one from a user named Primary-Taro4254 seemed innocuous enough, at least at first. \"I haven't personally tried [that brand] so I can't [&#8230;]",
+          "published_at": "2026-08-04 06:00",
+          "tags": [
+            "AI",
+            "Business",
+            "Creators",
+            "Google",
+            "Reddit",
+            "Tech"
+          ]
+        },
+        {
+          "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+          "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+          "source": "TechCrunch AI",
+          "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+          "published_at": "2026-08-03 23:19",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "TC",
+            "Alex Karp",
+            "Palantir"
+          ]
+        }
+      ]
     }
   ]
 }
