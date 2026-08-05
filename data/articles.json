@@ -1,5 +1,174 @@
 [
   {
+    "title": "The Moral Compass of AI: Why Fairness Shapes Our Future",
+    "url": "https://medium.com/freedomofthought/the-moral-compass-of-ai-why-fairness-shapes-our-future-d2aed50a4d4e",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://medium.com/freedomofthought/the-moral-compass-of-ai-why-fairness-shapes-our-future-d2aed50a4d4e Comments URL: https://news.ycombinator.com/item?id=49177801 Points: 1 # Comments: 0",
+    "published_at": "2026-08-05 02:13",
+    "tags": [],
+    "fetch_date": "2026-08-05",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "SpaceX hit by surging AI costs as insiders prepare to sell their shares",
+    "url": "https://www.nbcnews.com/business/business-news/spacex-earnings-surging-ai-costs-rcna590682",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.nbcnews.com/business/business-news/spacex-earnings-surging-ai-costs-rcna590682 Comments URL: https://news.ycombinator.com/item?id=49177798 Points: 3 # Comments: 0",
+    "published_at": "2026-08-05 02:12",
+    "tags": [],
+    "fetch_date": "2026-08-05",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Do you find paid contribution on AI Annotation (e.g. DataAnnotation), moral?",
+    "url": "https://news.ycombinator.com/item?id=49177784",
+    "source": "Hacker News AI",
+    "summary": "Do you find paid contribution on AI Annotation (e.g. DataAnnotation), moral? I believe not, and it'a modern way of dumping, where people are paid well, to be replaced! Comments URL: https://news.ycombinator.com/item?id=49177784 Points: 1 # Comments: 1",
+    "published_at": "2026-08-05 02:09",
+    "tags": [],
+    "fetch_date": "2026-08-05",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
+    "url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/ Comments URL: https://news.ycombinator.com/item?id=49177723 Points: 4 # Comments: 0",
+    "published_at": "2026-08-05 02:00",
+    "tags": [],
+    "fetch_date": "2026-08-05",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: AI Version of My Resume",
+    "url": "https://news.ycombinator.com/item?id=49177577",
+    "source": "Hacker News AI",
+    "summary": "I am experimenting with AI Profile of myself instead of sharing resume to the recruiters just to standout from the crowd. What does HN people think about this approach ? Comments URL: https://news.ycombinator.com/item?id=49177577 Points: 2 # Comments: 1",
+    "published_at": "2026-08-05 01:38",
+    "tags": [],
+    "fetch_date": "2026-08-05",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI used new levels of 'autonomy and deception'",
+    "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bbc.co.uk/news/articles/c1w1lvn7d9go Comments URL: https://news.ycombinator.com/item?id=49177556 Points: 3 # Comments: 0",
+    "published_at": "2026-08-05 01:35",
+    "tags": [],
+    "fetch_date": "2026-08-05",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Hubmesh – Multi-hop RAG retrieval with zero LLM calls in the query path",
+    "url": "https://github.com/DemigodDSK/hubmesh",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/DemigodDSK/hubmesh Comments URL: https://news.ycombinator.com/item?id=49177513 Points: 1 # Comments: 0",
+    "published_at": "2026-08-05 01:27",
+    "tags": [],
+    "fetch_date": "2026-08-05",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "CrewAI in Python: Coordinating Teams of AI Agents",
+    "url": "https://realpython.com/crewai-python/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://realpython.com/crewai-python/ Comments URL: https://news.ycombinator.com/item?id=49177458 Points: 2 # Comments: 0",
+    "published_at": "2026-08-05 01:18",
+    "tags": [],
+    "fetch_date": "2026-08-05",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI-generated stories rated better quality than human-written ones, study finds",
+    "url": "https://www.theguardian.com/technology/2026/aug/05/ai-generated-stories-rated-better-quality-than-human-written-ones-study-finds",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/05/ai-generated-stories-rated-better-quality-than-human-written-ones-study-finds Comments URL: https://news.ycombinator.com/item?id=49177118 Points: 2 # Comments: 0",
+    "published_at": "2026-08-05 00:29",
+    "tags": [],
+    "fetch_date": "2026-08-05",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News AI",
+    "summary": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production. Comments URL: https://news.ycombinator.com/item?id=49177018 Points: 3 # Comments: 0",
+    "published_at": "2026-08-05 00:15",
+    "tags": [],
+    "fetch_date": "2026-08-05",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "White House excludes open models from framework to test advanced AI capabilities",
+    "url": "https://www.axios.com/2026/08/04/trump-ai-framework-open-models",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.axios.com/2026/08/04/trump-ai-framework-open-models Comments URL: https://news.ycombinator.com/item?id=49176826 Points: 11 # Comments: 1",
+    "published_at": "2026-08-04 23:50",
+    "tags": [],
+    "fetch_date": "2026-08-05",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask HN: What is a good format for a tool to report data to a LLM?",
+    "url": "https://news.ycombinator.com/item?id=49176440",
+    "source": "Hacker News AI",
+    "summary": "For CLI tools, humans like visually organized text possibly with colors or TUIs. Machines likes tabs-separated tabular data, or json and similar.What's the equivalent for LLMs for tabular or structured data? What makes them grasp the data easily and efficiently? Comments URL: https://news.ycombinator.com/item?id=49176440 Points: 4 # Comments: 2",
+    "published_at": "2026-08-04 22:57",
+    "tags": [],
+    "fetch_date": "2026-08-05",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+    "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+    "source": "TechCrunch AI",
+    "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+    "published_at": "2026-08-04 19:48",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "In Brief",
+      "volta"
+    ],
+    "fetch_date": "2026-08-05",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "SpaceX made more revenue as an AI company than a space company",
+    "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+    "source": "The Verge AI",
+    "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go public was the source of most of its [&#8230;]",
+    "published_at": "2026-08-04 16:47",
+    "tags": [
+      "AI",
+      "Business",
+      "Science",
+      "Space",
+      "SpaceX",
+      "Tech",
+      "xAI"
+    ],
+    "fetch_date": "2026-08-05",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Spotify expands AI remix and covers project with Merlin partnership",
+    "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+    "source": "TechCrunch AI",
+    "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring artists opt in, receive credit, and are compensated.",
+    "published_at": "2026-08-04 15:50",
+    "tags": [
+      "AI",
+      "Apps",
+      "Media & Entertainment",
+      "music streaming",
+      "Spotify"
+    ],
+    "fetch_date": "2026-08-05",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Celeris-1 tops AI speed ranking at 2,158 tokens per second",
     "url": "https://runtimewire.com/article/celeris-1-tops-ai-speed-ranking-diffusion-model",
     "source": "Hacker News AI",
@@ -35150,199 +35319,6 @@
     "published_at": "2026-04-14 00:47",
     "tags": [],
     "fetch_date": "2026-04-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Ask HN: AI Hardware Startup in USA",
-    "url": "https://news.ycombinator.com/item?id=47759631",
-    "source": "Hacker News AI",
-    "summary": "Hi,I am working on a AI HW idea and building a prototype for it. I am planning to build a startup for the product in USA. I am thinking of starting it in Austin, TX and I would like to gather opinions from this forum before making this decision. I considered BayArea, CA and Seattle, WA and these locations are good choices with great access to talent and Venture capital investors, but these locations are expensive to hire engineers.I am thinking of building this company in a low cost location tha",
-    "published_at": "2026-04-14 00:13",
-    "tags": [],
-    "fetch_date": "2026-04-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: A 24/7 live stream where AI writes a new song about the current time",
-    "url": "https://www.youtube.com/watch?v=ZJKx8KEdQkM",
-    "source": "Hacker News AI",
-    "summary": "A clock radio from the 1950s played music and showed the time. I wanted to see what happens when you combined an old idea with a new one — the music itself tells you the time. It's also hilarious.This is a fully automated YouTube live stream. Every few minutes, a new AI-generated song plays. Every song is in a different genre. Every song's lyrics are about what time it is right now. The system generates them ahead of time using Suno's API, builds video segments with FFmpeg, and streams continuou",
-    "published_at": "2026-04-14 00:00",
-    "tags": [],
-    "fetch_date": "2026-04-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "SnapState - Persistent state for AI agent workflows",
-    "url": "https://snapstate.dev",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://snapstate.dev Comments URL: https://news.ycombinator.com/item?id=47759400 Points: 6 # Comments: 0",
-    "published_at": "2026-04-13 23:42",
-    "tags": [],
-    "fetch_date": "2026-04-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Skill files made this AI Workout Builder Good",
-    "url": "https://proximafitness.com/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://proximafitness.com/ Comments URL: https://news.ycombinator.com/item?id=47759116 Points: 2 # Comments: 0",
-    "published_at": "2026-04-13 23:04",
-    "tags": [],
-    "fetch_date": "2026-04-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Tell HN: I regret every single time I use AI",
-    "url": "https://news.ycombinator.com/item?id=47759065",
-    "source": "Hacker News AI",
-    "summary": "I try to not be fully against AI, so keep giving it a change, today again. I went for sport and gave opus 4.6 a medium sized task.In every single step there were assumptions done that I don’t think are correct. I was a refactor and not all is Claudes fault. But since I did have bad experience I work through the changes line by line and honestly I think I would rather have done it from the start then to review the changes as Claude did a not working weird verbose refactor that didn’t help with an",
-    "published_at": "2026-04-13 23:00",
-    "tags": [],
-    "fetch_date": "2026-04-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: AI Native IDE [video]",
-    "url": "https://www.youtube.com/watch?v=ZVy0vXBHaCM",
-    "source": "Hacker News AI",
-    "summary": "Our AI Native IDE, 6digit studio, has a new Big Picture Mode visualization layer, CORDIAL, meant to be possible to use at a \"distance\", making you feel just a little bit more like Tom Cruise in Minority Report. Comments URL: https://news.ycombinator.com/item?id=47758969 Points: 3 # Comments: 2",
-    "published_at": "2026-04-13 22:51",
-    "tags": [],
-    "fetch_date": "2026-04-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI’s HQ",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
-    "source": "The Verge AI",
-    "summary": "Daniel Moreno-Gama is now facing federal charges after allegedly traveling from Texas to California with the intent to kill OpenAI CEO Sam Altman. On April 10th, he was arrested after throwing a Molotov cocktail at OpenAI CEO Sam Altman's home and attempting to break into OpenAI's headquarters. According to prosecutors, at the HQ, \"Moreno-Gama attempted [&#8230;]",
-    "published_at": "2026-04-13 20:02",
-    "tags": [
-      "AI",
-      "News",
-      "OpenAI"
-    ],
-    "fetch_date": "2026-04-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Microsoft is working on yet another OpenClaw-like agent",
-    "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
-    "source": "TechCrunch AI",
-    "summary": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent.",
-    "published_at": "2026-04-13 19:05",
-    "tags": [
-      "AI",
-      "Enterprise",
-      "ai agent",
-      "Copilot",
-      "Microsoft",
-      "openclaw"
-    ],
-    "fetch_date": "2026-04-14",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
-    "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
-    "source": "TechCrunch AI",
-    "summary": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.",
-    "published_at": "2026-04-13 18:55",
-    "tags": [
-      "AI",
-      "public sentiment",
-      "sam altman",
-      "stanford ai report"
-    ],
-    "fetch_date": "2026-04-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI influencers are ‘everywhere’ at Coachella",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella",
-    "source": "The Verge AI",
-    "summary": "Coachella kicked off on Friday, and as usual, it's the place to be for online influencers looking to show off their memorable experiences at the festival. A quick scroll through my social media feeds has already shown me many uncannily attractive figures in glitzy outfits, posing for perfectly staged photographs with celebrities. Only some of [&#8230;]",
-    "published_at": "2026-04-13 15:53",
-    "tags": [
-      "AI",
-      "Entertainment",
-      "Music",
-      "Report"
-    ],
-    "fetch_date": "2026-04-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
-    "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
-    "source": "TechCrunch AI",
-    "summary": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the explosion of AI-generated apps and agents.",
-    "published_at": "2026-04-13 15:22",
-    "tags": [
-      "AI",
-      "Startups",
-      "Venture",
-      "agents",
-      "hosting",
-      "IPO",
-      "Vercel"
-    ],
-    "fetch_date": "2026-04-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Read OpenAI&#8217;s latest internal memo about beating the competition — including Anthropic",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
-    "source": "The Verge AI",
-    "summary": "OpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about the company's strategic direction, emphasizing the need to lock in users and grow its enterprise business. The memo, which was viewed by The Verge, repeatedly underlines the importance of building a moat around its AI products, to combat how easy [&#8230;]",
-    "published_at": "2026-04-13 12:21",
-    "tags": [
-      "AI",
-      "OpenAI",
-      "Report"
-    ],
-    "fetch_date": "2026-04-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Microsoft is testing OpenClaw-like AI bots for Copilot",
-    "url": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses",
-    "source": "The Verge AI",
-    "summary": "Microsoft is looking into ways it can integrate OpenClaw-style features into its Copilot AI assistant, according to a report from The Information. The test reportedly comes as part of efforts to make Microsoft 365 Copilot \"run autonomously around the clock\" while completing tasks on behalf of users. Omar Shahine, Microsoft's corporate vice president, confirmed to [&#8230;]",
-    "published_at": "2026-04-13 11:41",
-    "tags": [
-      "AI",
-      "Microsoft",
-      "News",
-      "Tech"
-    ],
-    "fetch_date": "2026-04-15",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
-    "url": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
-    "source": "The Verge AI",
-    "summary": "Meta CEO Mark Zuckerberg could soon have an AI clone of himself to interact with and provide feedback to employees, according to a report from the Financial Times. Sources tell the outlet that Meta is training the AI avatar on Zuckerberg's image and voice, along with his mannerisms, tone, and public statements, \"so that employees [&#8230;]",
-    "published_at": "2026-04-13 09:40",
-    "tags": [
-      "AI",
-      "Meta",
-      "News",
-      "Tech"
-    ],
-    "fetch_date": "2026-04-14",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Image Editor",
-    "url": "https://jpgtomp4.com",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://jpgtomp4.com Comments URL: https://news.ycombinator.com/item?id=47747114 Points: 1 # Comments: 1",
-    "published_at": "2026-04-13 03:10",
-    "tags": [],
-    "fetch_date": "2026-04-13",
     "fetch_label": "早报"
   }
 ]
