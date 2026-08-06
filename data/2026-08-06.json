@@ -224,6 +224,249 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-08-06 22:10:10",
+      "count": 22,
+      "articles": [
+        {
+          "title": "AI Agents Think and Act: ReAct in 2 Minutes",
+          "url": "https://vinithavn.substack.com/p/how-ai-agents-think-and-act-react",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://vinithavn.substack.com/p/how-ai-agents-think-and-act-react Comments URL: https://news.ycombinator.com/item?id=49196698 Points: 1 # Comments: 0",
+          "published_at": "2026-08-06 13:49",
+          "tags": []
+        },
+        {
+          "title": "AI generated over 95% of China's new microdramas in Q1 2026",
+          "url": "https://www.channelnewsasia.com/east-asia/ai-microdrama-china-film-industry-actors-jobs-6229191",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.channelnewsasia.com/east-asia/ai-microdrama-china-film-industry-actors-jobs-6229191 Comments URL: https://news.ycombinator.com/item?id=49196596 Points: 4 # Comments: 1",
+          "published_at": "2026-08-06 13:44",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: Why don't we grade AI agents like hadith scholars graded narrators?",
+          "url": "https://news.ycombinator.com/item?id=49196496",
+          "source": "Hacker News AI",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=49196496 Points: 1 # Comments: 0",
+          "published_at": "2026-08-06 13:37",
+          "tags": []
+        },
+        {
+          "title": "Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show",
+          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ai-sales-mostly-come-180651710.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/microsoft-ai-sales-mostly-come-180651710.html Comments URL: https://news.ycombinator.com/item?id=49196446 Points: 2 # Comments: 1",
+          "published_at": "2026-08-06 13:33",
+          "tags": []
+        },
+        {
+          "title": "I run a 9-model LLM council to write a financial newsletter. What breaks",
+          "url": "https://marketdaily.ai/blog/eng-llm-council-judge-en-202608",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://marketdaily.ai/blog/eng-llm-council-judge-en-202608 Comments URL: https://news.ycombinator.com/item?id=49196408 Points: 1 # Comments: 1",
+          "published_at": "2026-08-06 13:30",
+          "tags": []
+        },
+        {
+          "title": "Notes on making AI-generated pixel art usable",
+          "url": "https://www.tokimon.io/blog/making-ai-pixel-art-usable",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.tokimon.io/blog/making-ai-pixel-art-usable Comments URL: https://news.ycombinator.com/item?id=49196385 Points: 2 # Comments: 1",
+          "published_at": "2026-08-06 13:28",
+          "tags": []
+        },
+        {
+          "title": "AI Is Now a Commodity",
+          "url": "https://www.vincentschmalbach.com/ai-is-now-a-commodity/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.vincentschmalbach.com/ai-is-now-a-commodity/ Comments URL: https://news.ycombinator.com/item?id=49196324 Points: 2 # Comments: 0",
+          "published_at": "2026-08-06 13:22",
+          "tags": []
+        },
+        {
+          "title": "Enjoy the Bubble While It Lasts: The Secret Behind Your AI Bill",
+          "url": "https://kernel.pryanic.com/posts/enjoy-the-bubble-while-it-lasts-the-secret-behind-your-ai-bill",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://kernel.pryanic.com/posts/enjoy-the-bubble-while-it-lasts-the-secret-behind-your-ai-bill Comments URL: https://news.ycombinator.com/item?id=49196291 Points: 6 # Comments: 1",
+          "published_at": "2026-08-06 13:18",
+          "tags": []
+        },
+        {
+          "title": "Cloudflare AI Search: give your agents a search engine for your data",
+          "url": "https://blog.cloudflare.com/ai-search-easier/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blog.cloudflare.com/ai-search-easier/ Comments URL: https://news.ycombinator.com/item?id=49196224 Points: 1 # Comments: 0",
+          "published_at": "2026-08-06 13:13",
+          "tags": []
+        },
+        {
+          "title": "Companies need to stop kidding themselves about AI",
+          "url": "https://www.nytimes.com/2026/08/03/opinion/ai-hype-tech-layoffs.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.nytimes.com/2026/08/03/opinion/ai-hype-tech-layoffs.html Comments URL: https://news.ycombinator.com/item?id=49196177 Points: 4 # Comments: 1",
+          "published_at": "2026-08-06 13:08",
+          "tags": []
+        },
+        {
+          "title": "AI Hacking, Fearmongering and Prometheus",
+          "url": "https://askmike.org/articles/ai-hacking-fearmongering-prometheus/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://askmike.org/articles/ai-hacking-fearmongering-prometheus/ Comments URL: https://news.ycombinator.com/item?id=49196082 Points: 2 # Comments: 1",
+          "published_at": "2026-08-06 13:01",
+          "tags": []
+        },
+        {
+          "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+          "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+          "source": "TechCrunch AI",
+          "summary": "The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time.",
+          "published_at": "2026-08-06 13:00",
+          "tags": [
+            "AI",
+            "Commerce",
+            "Fundraising",
+            "Bessemer Venture Partners",
+            "Gradient Ventures",
+            "recommendation engines",
+            "e-commerce software"
+          ]
+        },
+        {
+          "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+          "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
+          "published_at": "2026-08-06 13:00",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "Exclusive",
+            "Google",
+            "google cloud",
+            "Mirendil"
+          ]
+        },
+        {
+          "title": "TCM Tongue Diagnosis AI",
+          "url": "https://www.sciencedaily.com/releases/2012/05/120526191322.htm",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.sciencedaily.com/releases/2012/05/120526191322.htm Comments URL: https://news.ycombinator.com/item?id=49195947 Points: 1 # Comments: 1",
+          "published_at": "2026-08-06 12:49",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Hope, 1-on-1 AI Tutor for kids Grades 2-10 learning math",
+          "url": "https://usehope.app",
+          "source": "Hacker News AI",
+          "summary": "Hey HN! My friend and I have been working for the last 3 months on HOPE, a platform that provides students with 1 on 1 math support to improve their confidence and teach them by doing and asking questions. We would really appreciate anyone who's down to try it out with their kids and give their thoughts. Comments URL: https://news.ycombinator.com/item?id=49195914 Points: 8 # Comments: 2",
+          "published_at": "2026-08-06 12:46",
+          "tags": []
+        },
+        {
+          "title": "Omilia raises $67M to scale its customer support platform",
+          "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+          "source": "TechCrunch AI",
+          "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
+          "published_at": "2026-08-06 12:00",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Startups",
+            "customer support",
+            "Expedition Growth Capital",
+            "voice AI"
+          ]
+        },
+        {
+          "title": "Meta launches Muse Code, an AI agent for large code bases",
+          "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+          "source": "TechCrunch AI",
+          "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+          "published_at": "2026-08-05 21:21",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "In Brief",
+            "Mark Zuckerberg",
+            "Meta",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+          "source": "The Verge AI",
+          "summary": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare. \"As far as we can tell, no entry has changed in more than three months,\" Lawfare said. Grokipedia launched in v0.1 in [&#8230;]",
+          "published_at": "2026-08-05 20:25",
+          "tags": [
+            "AI",
+            "Elon Musk",
+            "News",
+            "Tech",
+            "xAI"
+          ]
+        },
+        {
+          "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+          "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+          "source": "TechCrunch AI",
+          "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
+          "published_at": "2026-08-05 19:30",
+          "tags": [
+            "AI",
+            "DeepMind",
+            "Google",
+            "Jeff Dean"
+          ]
+        },
+        {
+          "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+          "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+          "source": "TechCrunch AI",
+          "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+          "published_at": "2026-08-05 15:05",
+          "tags": [
+            "AI",
+            "TechCrunch Disrupt",
+            "Colossal Biosciences"
+          ]
+        },
+        {
+          "title": "SpaceX is barely Space and mostly X",
+          "url": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
+          "source": "The Verge AI",
+          "summary": "Once, I had some questions about why SpaceX, Elon Musk's healthiest company, acquired xAI, his sickliest one. Now I have some questions about why we're calling the whole thing SpaceX. Look, what we have here, by revenue, is primarily a telecom company and a company that rents compute, according to SpaceX's first quarterly earnings statement [&#8230;]",
+          "published_at": "2026-08-05 12:35",
+          "tags": [
+            "AI",
+            "Analysis",
+            "Elon Musk",
+            "Report",
+            "Science",
+            "Space",
+            "SpaceX",
+            "Tech"
+          ]
+        },
+        {
+          "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+          "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+          "source": "TechCrunch AI",
+          "summary": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
+          "published_at": "2026-08-05 12:28",
+          "tags": [
+            "AI",
+            "Apps",
+            "MacPaw",
+            "Liquid AI",
+            "on device AI",
+            "offline ai"
+          ]
+        }
+      ]
     }
   ]
 }

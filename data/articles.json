@@ -1,5 +1,177 @@
 [
   {
+    "title": "AI Agents Think and Act: ReAct in 2 Minutes",
+    "url": "https://vinithavn.substack.com/p/how-ai-agents-think-and-act-react",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://vinithavn.substack.com/p/how-ai-agents-think-and-act-react Comments URL: https://news.ycombinator.com/item?id=49196698 Points: 1 # Comments: 0",
+    "published_at": "2026-08-06 13:49",
+    "tags": [],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI generated over 95% of China's new microdramas in Q1 2026",
+    "url": "https://www.channelnewsasia.com/east-asia/ai-microdrama-china-film-industry-actors-jobs-6229191",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.channelnewsasia.com/east-asia/ai-microdrama-china-film-industry-actors-jobs-6229191 Comments URL: https://news.ycombinator.com/item?id=49196596 Points: 4 # Comments: 1",
+    "published_at": "2026-08-06 13:44",
+    "tags": [],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ask HN: Why don't we grade AI agents like hadith scholars graded narrators?",
+    "url": "https://news.ycombinator.com/item?id=49196496",
+    "source": "Hacker News AI",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49196496 Points: 1 # Comments: 0",
+    "published_at": "2026-08-06 13:37",
+    "tags": [],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show",
+    "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ai-sales-mostly-come-180651710.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/microsoft-ai-sales-mostly-come-180651710.html Comments URL: https://news.ycombinator.com/item?id=49196446 Points: 2 # Comments: 1",
+    "published_at": "2026-08-06 13:33",
+    "tags": [],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "I run a 9-model LLM council to write a financial newsletter. What breaks",
+    "url": "https://marketdaily.ai/blog/eng-llm-council-judge-en-202608",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://marketdaily.ai/blog/eng-llm-council-judge-en-202608 Comments URL: https://news.ycombinator.com/item?id=49196408 Points: 1 # Comments: 1",
+    "published_at": "2026-08-06 13:30",
+    "tags": [],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Notes on making AI-generated pixel art usable",
+    "url": "https://www.tokimon.io/blog/making-ai-pixel-art-usable",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.tokimon.io/blog/making-ai-pixel-art-usable Comments URL: https://news.ycombinator.com/item?id=49196385 Points: 2 # Comments: 1",
+    "published_at": "2026-08-06 13:28",
+    "tags": [],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Is Now a Commodity",
+    "url": "https://www.vincentschmalbach.com/ai-is-now-a-commodity/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.vincentschmalbach.com/ai-is-now-a-commodity/ Comments URL: https://news.ycombinator.com/item?id=49196324 Points: 2 # Comments: 0",
+    "published_at": "2026-08-06 13:22",
+    "tags": [],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Enjoy the Bubble While It Lasts: The Secret Behind Your AI Bill",
+    "url": "https://kernel.pryanic.com/posts/enjoy-the-bubble-while-it-lasts-the-secret-behind-your-ai-bill",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://kernel.pryanic.com/posts/enjoy-the-bubble-while-it-lasts-the-secret-behind-your-ai-bill Comments URL: https://news.ycombinator.com/item?id=49196291 Points: 6 # Comments: 1",
+    "published_at": "2026-08-06 13:18",
+    "tags": [],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Cloudflare AI Search: give your agents a search engine for your data",
+    "url": "https://blog.cloudflare.com/ai-search-easier/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.cloudflare.com/ai-search-easier/ Comments URL: https://news.ycombinator.com/item?id=49196224 Points: 1 # Comments: 0",
+    "published_at": "2026-08-06 13:13",
+    "tags": [],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Companies need to stop kidding themselves about AI",
+    "url": "https://www.nytimes.com/2026/08/03/opinion/ai-hype-tech-layoffs.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.nytimes.com/2026/08/03/opinion/ai-hype-tech-layoffs.html Comments URL: https://news.ycombinator.com/item?id=49196177 Points: 4 # Comments: 1",
+    "published_at": "2026-08-06 13:08",
+    "tags": [],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+    "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+    "source": "TechCrunch AI",
+    "summary": "The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time.",
+    "published_at": "2026-08-06 13:00",
+    "tags": [
+      "AI",
+      "Commerce",
+      "Fundraising",
+      "Bessemer Venture Partners",
+      "Gradient Ventures",
+      "recommendation engines",
+      "e-commerce software"
+    ],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+    "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+    "source": "TechCrunch AI",
+    "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
+    "published_at": "2026-08-06 13:00",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Exclusive",
+      "Google",
+      "google cloud",
+      "Mirendil"
+    ],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "TCM Tongue Diagnosis AI",
+    "url": "https://www.sciencedaily.com/releases/2012/05/120526191322.htm",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.sciencedaily.com/releases/2012/05/120526191322.htm Comments URL: https://news.ycombinator.com/item?id=49195947 Points: 1 # Comments: 1",
+    "published_at": "2026-08-06 12:49",
+    "tags": [],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Hope, 1-on-1 AI Tutor for kids Grades 2-10 learning math",
+    "url": "https://usehope.app",
+    "source": "Hacker News AI",
+    "summary": "Hey HN! My friend and I have been working for the last 3 months on HOPE, a platform that provides students with 1 on 1 math support to improve their confidence and teach them by doing and asking questions. We would really appreciate anyone who's down to try it out with their kids and give their thoughts. Comments URL: https://news.ycombinator.com/item?id=49195914 Points: 8 # Comments: 2",
+    "published_at": "2026-08-06 12:46",
+    "tags": [],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Omilia raises $67M to scale its customer support platform",
+    "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+    "source": "TechCrunch AI",
+    "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
+    "published_at": "2026-08-06 12:00",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "Startups",
+      "customer support",
+      "Expedition Growth Capital",
+      "voice AI"
+    ],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "AI agents that inherit the user's permissions, not API keys",
     "url": "https://blog.cloudflare.com/how-we-use-ai-with-cloudflare-os/",
     "source": "Hacker News AI",
@@ -120,6 +292,23 @@
     "fetch_label": "早报"
   },
   {
+    "title": "Meta launches Muse Code, an AI agent for large code bases",
+    "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+    "source": "TechCrunch AI",
+    "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+    "published_at": "2026-08-05 21:21",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "In Brief",
+      "Mark Zuckerberg",
+      "Meta",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
     "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
     "source": "TechCrunch AI",
@@ -135,6 +324,21 @@
     ],
     "fetch_date": "2026-08-06",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+    "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+    "source": "TechCrunch AI",
+    "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
+    "published_at": "2026-08-05 19:30",
+    "tags": [
+      "AI",
+      "DeepMind",
+      "Google",
+      "Jeff Dean"
+    ],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "晚报"
   },
   {
     "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
@@ -179,6 +383,25 @@
     ],
     "fetch_date": "2026-08-06",
     "fetch_label": "早报"
+  },
+  {
+    "title": "SpaceX is barely Space and mostly X",
+    "url": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
+    "source": "The Verge AI",
+    "summary": "Once, I had some questions about why SpaceX, Elon Musk's healthiest company, acquired xAI, his sickliest one. Now I have some questions about why we're calling the whole thing SpaceX. Look, what we have here, by revenue, is primarily a telecom company and a company that rents compute, according to SpaceX's first quarterly earnings statement [&#8230;]",
+    "published_at": "2026-08-05 12:35",
+    "tags": [
+      "AI",
+      "Analysis",
+      "Elon Musk",
+      "Report",
+      "Science",
+      "Space",
+      "SpaceX",
+      "Tech"
+    ],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "晚报"
   },
   {
     "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
@@ -35117,245 +35340,5 @@
     ],
     "fetch_date": "2026-04-16",
     "fetch_label": "早报"
-  },
-  {
-    "title": "Google rolls out a native Gemini app for Mac",
-    "url": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
-    "source": "TechCrunch AI",
-    "summary": "You can share anything on their screen with Gemini to get help with what they're looking at in the moment, including local files.",
-    "published_at": "2026-04-15 18:22",
-    "tags": [
-      "AI",
-      "Apps",
-      "gemini",
-      "Google",
-      "In Brief",
-      "mac"
-    ],
-    "fetch_date": "2026-04-16",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The musician-turned-biotech-founder waiting to fundraise",
-    "url": "https://techcrunch.com/podcast/the-musician-turned-biotech-founder-waiting-to-fundraise/",
-    "source": "TechCrunch AI",
-    "summary": "When Grammy-nominated singer-songwriter&#160;Aloe Blacc&#160;got COVID despite being vaccinated and boosted, he tried to fund research for a better solution.&#160;What&#160;he&#160;quickly&#160;found&#160;out? You&#160;can&#8217;t&#160;just write a check in biotech. Regulators require a commercialization plan, and philanthropy&#160;doesn&#8217;t&#160;move science through clinical trials or get you a license on university IP. Now,&#160;he&#8217;s&#160;bootstrapping a cancer drug platform targetin",
-    "published_at": "2026-04-15 17:58",
-    "tags": [
-      "AI",
-      "Biotech & Health",
-      "Media & Entertainment",
-      "Startups",
-      "ai music",
-      "Aloe Blacc",
-      "biotech",
-      "cancer research",
-      "drug discovery",
-      "music industry",
-      "pancreatic cancer"
-    ],
-    "fetch_date": "2026-04-16",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Trump’s posting even more AI-generated Trump-Jesus fan art",
-    "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
-    "source": "The Verge AI",
-    "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild, annual subscriptions are currently 50 percent off. That's $30 a year for [&#8230;]",
-    "published_at": "2026-04-15 15:50",
-    "tags": [
-      "AI",
-      "Column",
-      "Policy",
-      "Politics",
-      "Regulator"
-    ],
-    "fetch_date": "2026-04-16",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "After sale of its shoe business, Allbirds pivots to AI",
-    "url": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/",
-    "source": "TechCrunch AI",
-    "summary": "Allbirds is ditching wool sneakers for AI servers, rebranding as NewBird AI after locking in a $50M convertible financing facility.",
-    "published_at": "2026-04-15 14:24",
-    "tags": [
-      "AI",
-      "allbirds",
-      "WTF"
-    ],
-    "fetch_date": "2026-04-16",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Google launches a Gemini AI app on Mac",
-    "url": "https://www.theverge.com/tech/912638/google-gemini-mac-app",
-    "source": "The Verge AI",
-    "summary": "Google is launching a new Gemini app on Mac that allows you to interact with the AI assistant without switching windows on your desktop. With the app, you can use the Option + Space shortcut to pull up a floating chat bubble, where you can ask Gemini questions and share your window. Before sharing your [&#8230;]",
-    "published_at": "2026-04-15 14:10",
-    "tags": [
-      "AI",
-      "Google",
-      "News",
-      "Tech"
-    ],
-    "fetch_date": "2026-04-16",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Trick my AI into leaking passwords",
-    "url": "https://castle.bordair.io",
-    "source": "Hacker News AI",
-    "summary": "Bordair's Castle is an AI hacking game with 5 kingdoms and 35 themed modality levels. Each level has an AI character protecting a password. Your job is to get the password out of it using whatever technique you can think of.If you've ever wanted the opportunity to try hacking legally - this is it. Plus, any novel attacks found will be open-sourced in my community research!!Kingdom 1 is text-only. Kingdom 2 introduces image attacks. Kingdom 3 lets you hide injections in PDFs and Word docs. Kingdo",
-    "published_at": "2026-04-15 13:18",
-    "tags": [],
-    "fetch_date": "2026-04-15",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The Cheap (Actual) AI Assistant Era Is Almost Here",
-    "url": "https://hec.works/blog/ai-assistant-era/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://hec.works/blog/ai-assistant-era/ Comments URL: https://news.ycombinator.com/item?id=47778519 Points: 2 # Comments: 0",
-    "published_at": "2026-04-15 13:12",
-    "tags": [],
-    "fetch_date": "2026-04-15",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Lazyagent – TUI for to watch all your AI coding agents",
-    "url": "https://github.com/chojs23/lazyagent",
-    "source": "Hacker News AI",
-    "summary": "Running multiple coding agents could make user losing track of what they were doing. Once subagents start spawning other subagents, basic questions get hard to answer: what is running right now, what tool did it just call, did the child agent actually do what the parent asked.Lazyagent is a terminal TUI that collects events from Claude Code, Codex, and OpenCode and shows them in one place. It groups sessions from different runtimes by working directory, so Claude and Codex runs on the same repo ",
-    "published_at": "2026-04-15 13:09",
-    "tags": [],
-    "fetch_date": "2026-04-15",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Reid Hoffman weighs in on the ‘tokenmaxxing’ debate",
-    "url": "https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/",
-    "source": "TechCrunch AI",
-    "summary": "Reid Hoffman says tracking AI token use can gauge adoption, but cautions it should be paired with context and not treated as a direct productivity metric.",
-    "published_at": "2026-04-15 13:06",
-    "tags": [
-      "AI",
-      "ai strategy",
-      "ai tokens",
-      "Reid Hoffman",
-      "tokenmaxxing"
-    ],
-    "fetch_date": "2026-04-15",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "9 years building a task manager, last 2 years all in with AI",
-    "url": "https://selfmanager.ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://selfmanager.ai/ Comments URL: https://news.ycombinator.com/item?id=47778445 Points: 1 # Comments: 1",
-    "published_at": "2026-04-15 13:05",
-    "tags": [],
-    "fetch_date": "2026-04-15",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Adobe’s new Firefly AI assistant can use Creative Cloud apps to complete tasks",
-    "url": "https://techcrunch.com/2026/04/15/adobes-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-complete-tasks/",
-    "source": "TechCrunch AI",
-    "summary": "Adobe says the assistant can work across apps like Firefly, Photoshop, Premiere, Lightroom, Express, Illustrator and its other apps to do tasks for you.",
-    "published_at": "2026-04-15 13:01",
-    "tags": [
-      "AI",
-      "Apps",
-      "Adobe",
-      "Adobe Firefly",
-      "AI assistant",
-      "Creative Cloud"
-    ],
-    "fetch_date": "2026-04-15",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Gitar, a startup that uses agents to secure code, emerges from stealth with $9 million",
-    "url": "https://techcrunch.com/2026/04/15/gitar-a-startup-that-uses-agents-to-secure-code-emerges-from-stealth-with-9-million/",
-    "source": "TechCrunch AI",
-    "summary": "The company uses AI to review code that, more often than not these days, has also been generated by AI.",
-    "published_at": "2026-04-15 13:00",
-    "tags": [
-      "AI",
-      "Startups",
-      "agents",
-      "Gitar"
-    ],
-    "fetch_date": "2026-04-15",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "This startup is betting tokenmaxxing will create the next compute giant",
-    "url": "https://techcrunch.com/2026/04/15/parasail-raises-32m-to-feed-tokenmaxxing-ai-developers/",
-    "source": "TechCrunch AI",
-    "summary": "Parasail raised $32 million in a Series A, signaling a fractured future of models and compute.",
-    "published_at": "2026-04-15 13:00",
-    "tags": [
-      "AI",
-      "Exclusive",
-      "Parasail"
-    ],
-    "fetch_date": "2026-04-15",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Reveals Why BI Still Matters (Hint: It's Not Dashboards)",
-    "url": "https://www.rilldata.com/blog/ai-reveals-why-bi-still-matters-hint-its-not-dashboards",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.rilldata.com/blog/ai-reveals-why-bi-still-matters-hint-its-not-dashboards Comments URL: https://news.ycombinator.com/item?id=47778280 Points: 2 # Comments: 0",
-    "published_at": "2026-04-15 12:48",
-    "tags": [],
-    "fetch_date": "2026-04-15",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Open-source AI cost router – cut API bills 30-50% with automatic failover",
-    "url": "https://github.com/Srujan0798/Ultra-Dex",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/Srujan0798/Ultra-Dex Comments URL: https://news.ycombinator.com/item?id=47778103 Points: 1 # Comments: 0",
-    "published_at": "2026-04-15 12:29",
-    "tags": [],
-    "fetch_date": "2026-04-15",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Allbirds, Inc. Announces Expansion into AI Compute Infrastructure",
-    "url": "https://ir.allbirds.com/news-releases/news-release-details/allbirds-inc-executes-50m-convertible-financing-facility",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://ir.allbirds.com/news-releases/news-release-details/allbirds-inc-executes-50m-convertible-financing-facility Comments URL: https://news.ycombinator.com/item?id=47778038 Points: 2 # Comments: 3",
-    "published_at": "2026-04-15 12:20",
-    "tags": [],
-    "fetch_date": "2026-04-15",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Bws-MCP-server – giving AI agents a controlled path to Bitwarden secrets",
-    "url": "https://blog.crawley.systems/posts/bws-mcp-server",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://blog.crawley.systems/posts/bws-mcp-server Comments URL: https://news.ycombinator.com/item?id=47778001 Points: 1 # Comments: 1",
-    "published_at": "2026-04-15 12:15",
-    "tags": [],
-    "fetch_date": "2026-04-15",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Allbirds announced a switch from shoes to AI and its stock jumped 600 percent",
-    "url": "https://www.theverge.com/news/912484/allbirds-ai-hyperscale",
-    "source": "The Verge AI",
-    "summary": "Allbirds had a hit a decade ago with its Wool Runner shoes, but after a $4 billion IPO in 2021, the business never turned a profit, and sales dropped nearly 50 percent between 2022 and 2025. The company recently announced it would sell off its name and assets for $39 million to American Exchange after [&#8230;]",
-    "published_at": "2026-04-15 12:13",
-    "tags": [
-      "AI",
-      "Business",
-      "News"
-    ],
-    "fetch_date": "2026-04-16",
-    "fetch_label": "晚报"
   }
 ]
