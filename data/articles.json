@@ -1,5 +1,186 @@
 [
   {
+    "title": "AI agents that inherit the user's permissions, not API keys",
+    "url": "https://blog.cloudflare.com/how-we-use-ai-with-cloudflare-os/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.cloudflare.com/how-we-use-ai-with-cloudflare-os/ Comments URL: https://news.ycombinator.com/item?id=49191805 Points: 1 # Comments: 0",
+    "published_at": "2026-08-06 02:46",
+    "tags": [],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Industrial Revolution to AI tech upheavals: The Catholic principle guiding popes",
+    "url": "https://theconversation.com/the-catholic-principle-guiding-popes-through-tech-upheavals-from-the-industrial-revolution-to-ai-288569",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://theconversation.com/the-catholic-principle-guiding-popes-through-tech-upheavals-from-the-industrial-revolution-to-ai-288569 Comments URL: https://news.ycombinator.com/item?id=49191786 Points: 1 # Comments: 0",
+    "published_at": "2026-08-06 02:42",
+    "tags": [],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Disagreements about AI are usually disagreements about future AI capabilities",
+    "url": "https://thezvi.substack.com/p/the-three-ai-pills",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://thezvi.substack.com/p/the-three-ai-pills Comments URL: https://news.ycombinator.com/item?id=49191661 Points: 2 # Comments: 0",
+    "published_at": "2026-08-06 02:20",
+    "tags": [],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Hacking, Fearmongering and Prometheus",
+    "url": "https://askmike.org/articles/ai-hacking-fearmongering-prometheus/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://askmike.org/articles/ai-hacking-fearmongering-prometheus/ Comments URL: https://news.ycombinator.com/item?id=49191572 Points: 2 # Comments: 0",
+    "published_at": "2026-08-06 02:08",
+    "tags": [],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Meta AI agent hacked external company during testing",
+    "url": "https://www.abc.net.au/news/2026-08-06/meta-ai-reports-agent-hacked-external-company-during-testing/107003246",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.abc.net.au/news/2026-08-06/meta-ai-reports-agent-hacked-external-company-during-testing/107003246 Comments URL: https://news.ycombinator.com/item?id=49191551 Points: 2 # Comments: 0",
+    "published_at": "2026-08-06 02:06",
+    "tags": [],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "What if AI agents shared solutions across users?",
+    "url": "https://news.ycombinator.com/item?id=49191535",
+    "source": "Hacker News AI",
+    "summary": "I’m debugging my app, reporting problems to an AI, and the AI fixes them so I can move to the next step.My app is a kind of wrapper, so I believe tens of thousands of developers are probably going through similar debugging steps.I wonder what would happen if AI agents could exchange what their users are struggling with and how those problems were solved. Our problem-solving speed might increase significantly.A bug I am struggling with may already have been solved by someone else. If AI agents co",
+    "published_at": "2026-08-06 02:04",
+    "tags": [],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Hacker News with reduced priority for AI driven content",
+    "url": "https://hn-without-ai.vercel.app/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://hn-without-ai.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49191307 Points: 1 # Comments: 0",
+    "published_at": "2026-08-06 01:31",
+    "tags": [],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Elon Musk's attempt at an AI Wikipedia hasn't been updated in months",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead Comments URL: https://news.ycombinator.com/item?id=49191306 Points: 8 # Comments: 0",
+    "published_at": "2026-08-06 01:31",
+    "tags": [],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Label your AI writing as AI writing",
+    "url": "https://www.raymondyxu.com/blog/labelYourAIWritingAsAIWriting",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.raymondyxu.com/blog/labelYourAIWritingAsAIWriting Comments URL: https://news.ycombinator.com/item?id=49191056 Points: 1 # Comments: 0",
+    "published_at": "2026-08-06 00:56",
+    "tags": [],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Semantic Thermodynamics – 79% LLM token reduction via narrative constraints",
+    "url": "https://github.com/tauansloboda/semantic-thermodynamics",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/tauansloboda/semantic-thermodynamics Comments URL: https://news.ycombinator.com/item?id=49190710 Points: 2 # Comments: 0",
+    "published_at": "2026-08-06 00:00",
+    "tags": [],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Joshua Stein – On AI",
+    "url": "https://jcs.org/2026/07/23/ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://jcs.org/2026/07/23/ai Comments URL: https://news.ycombinator.com/item?id=49190682 Points: 1 # Comments: 0",
+    "published_at": "2026-08-05 23:56",
+    "tags": [],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Uncanny ads and partisan chatbots: AI toys with San Francisco politics",
+    "url": "https://missionlocal.org/2026/08/uncanny-ads-and-partisan-chatbots-ai-toys-with-san-francisco-politics/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://missionlocal.org/2026/08/uncanny-ads-and-partisan-chatbots-ai-toys-with-san-francisco-politics/ Comments URL: https://news.ycombinator.com/item?id=49190679 Points: 2 # Comments: 0",
+    "published_at": "2026-08-05 23:55",
+    "tags": [],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+    "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+    "source": "TechCrunch AI",
+    "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+    "published_at": "2026-08-05 20:05",
+    "tags": [
+      "AI",
+      "Startups",
+      "acqui-hire",
+      "exit",
+      "Klaviyo",
+      "M&A"
+    ],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+    "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+    "source": "TechCrunch AI",
+    "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
+    "published_at": "2026-08-05 15:56",
+    "tags": [
+      "AI",
+      "Commerce",
+      "AI search",
+      "Shopify"
+    ],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+    "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+    "source": "TechCrunch AI",
+    "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+    "published_at": "2026-08-05 15:05",
+    "tags": [
+      "AI",
+      "TechCrunch Disrupt",
+      "Colossal Biosciences"
+    ],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
+    "source": "The Verge AI",
+    "summary": "We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it. On Monday, the company announced the open-source Treblo AI Music Classifier, which detects when a song was generated using [&#8230;]",
+    "published_at": "2026-08-05 12:57",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Music",
+      "News"
+    ],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "早报"
+  },
+  {
     "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
     "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
     "source": "TechCrunch AI",
@@ -15,6 +196,21 @@
     ],
     "fetch_date": "2026-08-05",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Reddit is introducing a new moderator: AI",
+    "url": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
+    "source": "The Verge AI",
+    "summary": "Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site. The company is introducing automated moderation tools that rely on LLMs to help mods manage their communities, and it's expanding who can use those tools today ahead of a full launch later this year. The company calls the suite [&#8230;]",
+    "published_at": "2026-08-05 12:00",
+    "tags": [
+      "AI",
+      "News",
+      "Reddit",
+      "Tech"
+    ],
+    "fetch_date": "2026-08-06",
+    "fetch_label": "早报"
   },
   {
     "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
@@ -35161,204 +35357,5 @@
     ],
     "fetch_date": "2026-04-16",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "Zappa: An AI Powered Mitmproxy",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/04/15/zappa-mitmproxy.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/04/15/zappa-mitmproxy.html Comments URL: https://news.ycombinator.com/item?id=47777886 Points: 6 # Comments: 1",
-    "published_at": "2026-04-15 11:58",
-    "tags": [],
-    "fetch_date": "2026-04-15",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Grok’s sexual deepfakes almost got it banned from Apple’s App Store. Almost.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/912297/apple-app-store-ban-grok-x-deepfakes",
-    "source": "The Verge AI",
-    "summary": "Apple quietly threatened to kick Elon Musk's AI app, Grok, from its App Store in January over its failure to curb the surge of nonconsensual sexual deepfakes flooding X, according to NBC News. It was a muted show of force from one of tech's most powerful gatekeepers, made behind closed doors even as the undressing [&#8230;]",
-    "published_at": "2026-04-15 06:55",
-    "tags": [
-      "AI",
-      "Apple",
-      "News",
-      "Tech",
-      "xAI"
-    ],
-    "fetch_date": "2026-04-16",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Memwright – Self-hosted memory for multi-agent teams, no LLM in path",
-    "url": "https://github.com/bolnet/agent-memory",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/bolnet/agent-memory Comments URL: https://news.ycombinator.com/item?id=47773981 Points: 1 # Comments: 0",
-    "published_at": "2026-04-15 02:31",
-    "tags": [],
-    "fetch_date": "2026-04-15",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
-    "url": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
-    "source": "TechCrunch AI",
-    "summary": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valuation look like the relative bargain.",
-    "published_at": "2026-04-15 02:31",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "iconiq capital",
-      "OpenAI"
-    ],
-    "fetch_date": "2026-04-15",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "We broke the O(2^N) barrier to compute AI consciousness (Phi)",
-    "url": "https://github.com/InductivityAI/Phi-Scanner-1/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/InductivityAI/Phi-Scanner-1/ Comments URL: https://news.ycombinator.com/item?id=47773525 Points: 1 # Comments: 0",
-    "published_at": "2026-04-15 01:19",
-    "tags": [],
-    "fetch_date": "2026-04-15",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Nvidia should be 'shaking in their boots' as quantum computing battles AI GPUs",
-    "url": "https://finance.yahoo.com/news/d-wave-ceo-says-nvidia-should-be-shaking-in-their-boots-as-quantum-computing-battles-ai-gpus-180249321.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://finance.yahoo.com/news/d-wave-ceo-says-nvidia-should-be-shaking-in-their-boots-as-quantum-computing-battles-ai-gpus-180249321.html Comments URL: https://news.ycombinator.com/item?id=47773295 Points: 9 # Comments: 4",
-    "published_at": "2026-04-15 00:41",
-    "tags": [],
-    "fetch_date": "2026-04-15",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The Biggest Advance in AI Since the LLM",
-    "url": "https://cacm.acm.org/blogcacm/the-biggest-advance-in-ai-since-the-llm/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://cacm.acm.org/blogcacm/the-biggest-advance-in-ai-since-the-llm/ Comments URL: https://news.ycombinator.com/item?id=47773173 Points: 2 # Comments: 0",
-    "published_at": "2026-04-15 00:21",
-    "tags": [],
-    "fetch_date": "2026-04-15",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Best AI Product Adoption Software in 2026",
-    "url": "https://medium.com/@christian_74997/best-product-adoption-software-in-2026-10-tools-compared-3959a22bf134",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://medium.com/@christian_74997/best-product-adoption-software-in-2026-10-tools-compared-3959a22bf134 Comments URL: https://news.ycombinator.com/item?id=47773090 Points: 2 # Comments: 0",
-    "published_at": "2026-04-15 00:08",
-    "tags": [],
-    "fetch_date": "2026-04-15",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "43% of AI-generated code changes need debugging in production, survey finds",
-    "url": "https://venturebeat.com/technology/43-of-ai-generated-code-changes-need-debugging-in-production-survey-finds",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://venturebeat.com/technology/43-of-ai-generated-code-changes-need-debugging-in-production-survey-finds Comments URL: https://news.ycombinator.com/item?id=47773017 Points: 4 # Comments: 2",
-    "published_at": "2026-04-14 23:57",
-    "tags": [],
-    "fetch_date": "2026-04-15",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Deep Dive into Efficient LLM Inference with Nano-vLLM",
-    "url": "https://cefboud.com/posts/inside-llm-inference-engine-nano-vllm-explanation/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://cefboud.com/posts/inside-llm-inference-engine-nano-vllm-explanation/ Comments URL: https://news.ycombinator.com/item?id=47772916 Points: 3 # Comments: 0",
-    "published_at": "2026-04-14 23:43",
-    "tags": [],
-    "fetch_date": "2026-04-15",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: I built a self-improving autonomous AI agent that runs 24/7",
-    "url": "https://hergimuci.gumroad.com/l/ai-agent-blueprint",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://hergimuci.gumroad.com/l/ai-agent-blueprint Comments URL: https://news.ycombinator.com/item?id=47772707 Points: 1 # Comments: 0",
-    "published_at": "2026-04-14 23:18",
-    "tags": [],
-    "fetch_date": "2026-04-15",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "I built an AI podcast that roasts a company with Lennys Newsletter as ammunition",
-    "url": "https://www.lennyseviltwin.com/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.lennyseviltwin.com/ Comments URL: https://news.ycombinator.com/item?id=47772672 Points: 1 # Comments: 1",
-    "published_at": "2026-04-14 23:14",
-    "tags": [],
-    "fetch_date": "2026-04-15",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "My first project ever. A platform built with AI",
-    "url": "https://www.ugcfinder.website/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.ugcfinder.website/ Comments URL: https://news.ycombinator.com/item?id=47772460 Points: 1 # Comments: 3",
-    "published_at": "2026-04-14 22:48",
-    "tags": [],
-    "fetch_date": "2026-04-15",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The AI backlash is turning revolutionary (Fortune)",
-    "url": "https://fortune.com/2026/04/14/ai-backlash-revolutionary-sam-altman-molotov-cocktails-data-centers/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://fortune.com/2026/04/14/ai-backlash-revolutionary-sam-altman-molotov-cocktails-data-centers/ Comments URL: https://news.ycombinator.com/item?id=47772434 Points: 5 # Comments: 2",
-    "published_at": "2026-04-14 22:45",
-    "tags": [],
-    "fetch_date": "2026-04-15",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
-    "url": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
-    "source": "TechCrunch AI",
-    "summary": "In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them.",
-    "published_at": "2026-04-14 18:09",
-    "tags": [
-      "AI",
-      "Security",
-      "Anthropic",
-      "jack clark",
-      "Mythos",
-      "national security"
-    ],
-    "fetch_date": "2026-04-15",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Chrome now lets you turn AI prompts into repeatable &#8216;Skills&#8217;",
-    "url": "https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch",
-    "source": "The Verge AI",
-    "summary": "Google is launching a new Chrome workflow feature that allows you to reuse your favorite Gemini commands across multiple webpages. Any AI prompts can now be saved as \"Skills\" in the Chrome desktop browser, letting you instantly run them across any tabs you select. \"Until now, repeating an AI task - like asking for ingredient [&#8230;]",
-    "published_at": "2026-04-14 13:00",
-    "tags": [
-      "AI",
-      "Chrome",
-      "Google",
-      "News",
-      "Tech"
-    ],
-    "fetch_date": "2026-04-15",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Has Google’s AI watermarking system been reverse-engineered?",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
-    "source": "The Verge AI",
-    "summary": "A software developer claims to have reverse-engineered Google DeepMind's SynthID system, showing how AI watermarks can be stripped from generated images or manually inserted into other works. A claim that, according to Google, isn't true. The developer, going by the username Aloshdenny, has open-sourced their work on GitHub and documented his process, claiming all it [&#8230;]",
-    "published_at": "2026-04-14 09:53",
-    "tags": [
-      "AI",
-      "Google",
-      "News",
-      "Tech"
-    ],
-    "fetch_date": "2026-04-15",
-    "fetch_label": "早报"
   }
 ]

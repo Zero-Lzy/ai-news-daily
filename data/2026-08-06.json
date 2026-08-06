@@ -1,0 +1,229 @@
+{
+  "date": "2026-08-06",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-08-06 10:47:58",
+      "count": 21,
+      "articles": [
+        {
+          "title": "AI agents that inherit the user's permissions, not API keys",
+          "url": "https://blog.cloudflare.com/how-we-use-ai-with-cloudflare-os/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blog.cloudflare.com/how-we-use-ai-with-cloudflare-os/ Comments URL: https://news.ycombinator.com/item?id=49191805 Points: 1 # Comments: 0",
+          "published_at": "2026-08-06 02:46",
+          "tags": []
+        },
+        {
+          "title": "Industrial Revolution to AI tech upheavals: The Catholic principle guiding popes",
+          "url": "https://theconversation.com/the-catholic-principle-guiding-popes-through-tech-upheavals-from-the-industrial-revolution-to-ai-288569",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://theconversation.com/the-catholic-principle-guiding-popes-through-tech-upheavals-from-the-industrial-revolution-to-ai-288569 Comments URL: https://news.ycombinator.com/item?id=49191786 Points: 1 # Comments: 0",
+          "published_at": "2026-08-06 02:42",
+          "tags": []
+        },
+        {
+          "title": "Disagreements about AI are usually disagreements about future AI capabilities",
+          "url": "https://thezvi.substack.com/p/the-three-ai-pills",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://thezvi.substack.com/p/the-three-ai-pills Comments URL: https://news.ycombinator.com/item?id=49191661 Points: 2 # Comments: 0",
+          "published_at": "2026-08-06 02:20",
+          "tags": []
+        },
+        {
+          "title": "AI Hacking, Fearmongering and Prometheus",
+          "url": "https://askmike.org/articles/ai-hacking-fearmongering-prometheus/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://askmike.org/articles/ai-hacking-fearmongering-prometheus/ Comments URL: https://news.ycombinator.com/item?id=49191572 Points: 2 # Comments: 0",
+          "published_at": "2026-08-06 02:08",
+          "tags": []
+        },
+        {
+          "title": "Meta AI agent hacked external company during testing",
+          "url": "https://www.abc.net.au/news/2026-08-06/meta-ai-reports-agent-hacked-external-company-during-testing/107003246",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.abc.net.au/news/2026-08-06/meta-ai-reports-agent-hacked-external-company-during-testing/107003246 Comments URL: https://news.ycombinator.com/item?id=49191551 Points: 2 # Comments: 0",
+          "published_at": "2026-08-06 02:06",
+          "tags": []
+        },
+        {
+          "title": "What if AI agents shared solutions across users?",
+          "url": "https://news.ycombinator.com/item?id=49191535",
+          "source": "Hacker News AI",
+          "summary": "I’m debugging my app, reporting problems to an AI, and the AI fixes them so I can move to the next step.My app is a kind of wrapper, so I believe tens of thousands of developers are probably going through similar debugging steps.I wonder what would happen if AI agents could exchange what their users are struggling with and how those problems were solved. Our problem-solving speed might increase significantly.A bug I am struggling with may already have been solved by someone else. If AI agents co",
+          "published_at": "2026-08-06 02:04",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Hacker News with reduced priority for AI driven content",
+          "url": "https://hn-without-ai.vercel.app/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://hn-without-ai.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49191307 Points: 1 # Comments: 0",
+          "published_at": "2026-08-06 01:31",
+          "tags": []
+        },
+        {
+          "title": "Elon Musk's attempt at an AI Wikipedia hasn't been updated in months",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead Comments URL: https://news.ycombinator.com/item?id=49191306 Points: 8 # Comments: 0",
+          "published_at": "2026-08-06 01:31",
+          "tags": []
+        },
+        {
+          "title": "Label your AI writing as AI writing",
+          "url": "https://www.raymondyxu.com/blog/labelYourAIWritingAsAIWriting",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.raymondyxu.com/blog/labelYourAIWritingAsAIWriting Comments URL: https://news.ycombinator.com/item?id=49191056 Points: 1 # Comments: 0",
+          "published_at": "2026-08-06 00:56",
+          "tags": []
+        },
+        {
+          "title": "Semantic Thermodynamics – 79% LLM token reduction via narrative constraints",
+          "url": "https://github.com/tauansloboda/semantic-thermodynamics",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/tauansloboda/semantic-thermodynamics Comments URL: https://news.ycombinator.com/item?id=49190710 Points: 2 # Comments: 0",
+          "published_at": "2026-08-06 00:00",
+          "tags": []
+        },
+        {
+          "title": "Joshua Stein – On AI",
+          "url": "https://jcs.org/2026/07/23/ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://jcs.org/2026/07/23/ai Comments URL: https://news.ycombinator.com/item?id=49190682 Points: 1 # Comments: 0",
+          "published_at": "2026-08-05 23:56",
+          "tags": []
+        },
+        {
+          "title": "Uncanny ads and partisan chatbots: AI toys with San Francisco politics",
+          "url": "https://missionlocal.org/2026/08/uncanny-ads-and-partisan-chatbots-ai-toys-with-san-francisco-politics/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://missionlocal.org/2026/08/uncanny-ads-and-partisan-chatbots-ai-toys-with-san-francisco-politics/ Comments URL: https://news.ycombinator.com/item?id=49190679 Points: 2 # Comments: 0",
+          "published_at": "2026-08-05 23:55",
+          "tags": []
+        },
+        {
+          "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+          "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+          "source": "TechCrunch AI",
+          "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+          "published_at": "2026-08-05 20:05",
+          "tags": [
+            "AI",
+            "Startups",
+            "acqui-hire",
+            "exit",
+            "Klaviyo",
+            "M&A"
+          ]
+        },
+        {
+          "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+          "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+          "source": "TechCrunch AI",
+          "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
+          "published_at": "2026-08-05 15:56",
+          "tags": [
+            "AI",
+            "Commerce",
+            "AI search",
+            "Shopify"
+          ]
+        },
+        {
+          "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+          "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+          "source": "TechCrunch AI",
+          "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+          "published_at": "2026-08-05 15:05",
+          "tags": [
+            "AI",
+            "TechCrunch Disrupt",
+            "Colossal Biosciences"
+          ]
+        },
+        {
+          "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
+          "source": "The Verge AI",
+          "summary": "We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it. On Monday, the company announced the open-source Treblo AI Music Classifier, which detects when a song was generated using [&#8230;]",
+          "published_at": "2026-08-05 12:57",
+          "tags": [
+            "AI",
+            "Entertainment",
+            "Music",
+            "News"
+          ]
+        },
+        {
+          "title": "Reddit is introducing a new moderator: AI",
+          "url": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
+          "source": "The Verge AI",
+          "summary": "Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site. The company is introducing automated moderation tools that rely on LLMs to help mods manage their communities, and it's expanding who can use those tools today ahead of a full launch later this year. The company calls the suite [&#8230;]",
+          "published_at": "2026-08-05 12:00",
+          "tags": [
+            "AI",
+            "News",
+            "Reddit",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Trump’s AI testing plan is limited and vague",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
+          "source": "The Verge AI",
+          "summary": "The Trump administration's framework for assessing potential cybersecurity risks posed by advanced AI reportedly has no interest in testing open models. Axios reports that not only do the voluntary guidelines outright exclude open models - meaning anyone can download them and inspect their core components - but the framework explicitly says it can't be used [&#8230;]",
+          "published_at": "2026-08-05 06:29",
+          "tags": [
+            "AI",
+            "News",
+            "Policy"
+          ]
+        },
+        {
+          "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+          "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+          "published_at": "2026-08-04 19:48",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "In Brief",
+            "volta"
+          ]
+        },
+        {
+          "title": "AMD&#8217;s data center business is booming while gaming takes a backseat",
+          "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+          "source": "The Verge AI",
+          "summary": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. During Tuesday's earnings call, AMD CEO Lisa Su said [&#8230;]",
+          "published_at": "2026-08-04 16:57",
+          "tags": [
+            "AI",
+            "AMD",
+            "Business",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "SpaceX made more revenue as an AI company than a space company",
+          "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+          "source": "The Verge AI",
+          "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go public was the source of most of its [&#8230;]",
+          "published_at": "2026-08-04 16:47",
+          "tags": [
+            "AI",
+            "Business",
+            "Science",
+            "Space",
+            "SpaceX",
+            "Tech",
+            "xAI"
+          ]
+        }
+      ]
+    }
+  ]
+}
