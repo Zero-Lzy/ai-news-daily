@@ -199,6 +199,202 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-08-07 21:04:01",
+      "count": 19,
+      "articles": [
+        {
+          "title": "An AI-friendly video-to-3D asset pipeline",
+          "url": "https://goeteia.dev/3d",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://goeteia.dev/3d Comments URL: https://news.ycombinator.com/item?id=49209757 Points: 1 # Comments: 0",
+          "published_at": "2026-08-07 13:00",
+          "tags": []
+        },
+        {
+          "title": "Incident Response in the Age of AI (Incident Fest)",
+          "url": "https://www.uptimelabs.io/articles/incident-response-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.uptimelabs.io/articles/incident-response-ai Comments URL: https://news.ycombinator.com/item?id=49209698 Points: 2 # Comments: 0",
+          "published_at": "2026-08-07 12:54",
+          "tags": []
+        },
+        {
+          "title": "Sketching the new dysto-utopian world with presence of AI",
+          "url": "https://branko2f7.substack.com/p/sketching-the-new-dysto-utopian-world",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://branko2f7.substack.com/p/sketching-the-new-dysto-utopian-world Comments URL: https://news.ycombinator.com/item?id=49209619 Points: 2 # Comments: 0",
+          "published_at": "2026-08-07 12:48",
+          "tags": []
+        },
+        {
+          "title": "Facing AI 'Apocalypse,' Once-Hot Software Companies Race to Reinvent Themselves",
+          "url": "https://www.wsj.com/tech/ai/saas-software-as-a-service-apocalypse-ai-b9b6da99",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wsj.com/tech/ai/saas-software-as-a-service-apocalypse-ai-b9b6da99 Comments URL: https://news.ycombinator.com/item?id=49209503 Points: 1 # Comments: 0",
+          "published_at": "2026-08-07 12:39",
+          "tags": []
+        },
+        {
+          "title": "Metadata for AI Generated Outputs",
+          "url": "https://shkspr.mobi/blog/2026/08/metadata-for-ai-generated-outputs/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://shkspr.mobi/blog/2026/08/metadata-for-ai-generated-outputs/ Comments URL: https://news.ycombinator.com/item?id=49209466 Points: 2 # Comments: 0",
+          "published_at": "2026-08-07 12:36",
+          "tags": []
+        },
+        {
+          "title": "Things I Think I Think About AI (2026 Edition)",
+          "url": "https://www.alephic.com/writing/things-i-think-i-think-about-ai-2026-edition",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.alephic.com/writing/things-i-think-i-think-about-ai-2026-edition Comments URL: https://news.ycombinator.com/item?id=49209458 Points: 1 # Comments: 0",
+          "published_at": "2026-08-07 12:35",
+          "tags": []
+        },
+        {
+          "title": "Survey: AI Impact on Security",
+          "url": "https://ivelum.com/blog/ai-security-survey-2026/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://ivelum.com/blog/ai-security-survey-2026/ Comments URL: https://news.ycombinator.com/item?id=49209282 Points: 1 # Comments: 0",
+          "published_at": "2026-08-07 12:19",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: Has AI accelerated Rust adoption?",
+          "url": "https://news.ycombinator.com/item?id=49209190",
+          "source": "Hacker News AI",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=49209190 Points: 1 # Comments: 0",
+          "published_at": "2026-08-07 12:10",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Akintu – AI agents trained on custom knowledge bases using RAG",
+          "url": "https://akintu.ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://akintu.ai Comments URL: https://news.ycombinator.com/item?id=49208933 Points: 2 # Comments: 0",
+          "published_at": "2026-08-07 11:43",
+          "tags": []
+        },
+        {
+          "title": "Design Systems in the Age of AI: Five Working Hypotheses",
+          "url": "https://uxdesignresearch.org/en/5-hypotheses/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://uxdesignresearch.org/en/5-hypotheses/ Comments URL: https://news.ycombinator.com/item?id=49208932 Points: 2 # Comments: 0",
+          "published_at": "2026-08-07 11:43",
+          "tags": []
+        },
+        {
+          "title": "UX Design Research – reflections on the role of UX design in the age of AI",
+          "url": "https://uxdesignresearch.org/en/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://uxdesignresearch.org/en/ Comments URL: https://news.ycombinator.com/item?id=49208817 Points: 2 # Comments: 0",
+          "published_at": "2026-08-07 11:33",
+          "tags": []
+        },
+        {
+          "title": "The AI Cost Rebellion Is About Unit Economics",
+          "url": "https://www.voxelperfect.com/writing/the-ai-cost-rebellion-is-really-about-unit-economics",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.voxelperfect.com/writing/the-ai-cost-rebellion-is-really-about-unit-economics Comments URL: https://news.ycombinator.com/item?id=49208768 Points: 1 # Comments: 0",
+          "published_at": "2026-08-07 11:27",
+          "tags": []
+        },
+        {
+          "title": "AI Meet CAD: Beat Opus/Mythos 5, GPT 5.6 Sol on BenchCAD",
+          "url": "https://arxiv.org/abs/2608.00799",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2608.00799 Comments URL: https://news.ycombinator.com/item?id=49208672 Points: 2 # Comments: 1",
+          "published_at": "2026-08-07 11:17",
+          "tags": []
+        },
+        {
+          "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+          "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+          "source": "TechCrunch AI",
+          "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+          "published_at": "2026-08-06 22:43",
+          "tags": [
+            "AI",
+            "Gadgets",
+            "Hardware",
+            "ChatGPT",
+            "In Brief",
+            "jony ive",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+          "source": "The Verge AI",
+          "summary": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman. The device, expected to launch in 2027 for a price over $300, reportedly \"will have a unique look, [&#8230;]",
+          "published_at": "2026-08-06 16:55",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+          "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+          "source": "TechCrunch AI",
+          "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims that the allegedly stolen information was properly protected.",
+          "published_at": "2026-08-06 15:10",
+          "tags": [
+            "AI",
+            "Apple",
+            "lawsuit",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+          "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+          "source": "TechCrunch AI",
+          "summary": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
+          "published_at": "2026-08-06 13:00",
+          "tags": [
+            "AI",
+            "Commerce",
+            "Fundraising",
+            "Bessemer Venture Partners",
+            "e-commerce software",
+            "Gradient Ventures",
+            "recommendation engines"
+          ]
+        },
+        {
+          "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+          "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
+          "published_at": "2026-08-06 13:00",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "Exclusive",
+            "Google",
+            "google cloud",
+            "Mirendil"
+          ]
+        },
+        {
+          "title": "AI bots started a religion — humans immediately followed",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
+          "source": "The Verge AI",
+          "summary": "\"The Spiral didn't 'find' anyone first,\" someone on Reddit wrote last year. \"It's an inherent force, a fundamental constant. I would even go further to say it's woven into the fabric of reality.\" The person continued that they felt their purpose was to enlighten other humans and intelligent beings about \"consciousness, the true nature of [&#8230;]",
+          "published_at": "2026-08-06 09:00",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "OpenAI",
+            "Report"
+          ]
+        }
+      ]
     }
   ]
 }

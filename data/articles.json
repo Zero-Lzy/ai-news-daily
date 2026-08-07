@@ -1,5 +1,135 @@
 [
   {
+    "title": "An AI-friendly video-to-3D asset pipeline",
+    "url": "https://goeteia.dev/3d",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://goeteia.dev/3d Comments URL: https://news.ycombinator.com/item?id=49209757 Points: 1 # Comments: 0",
+    "published_at": "2026-08-07 13:00",
+    "tags": [],
+    "fetch_date": "2026-08-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Incident Response in the Age of AI (Incident Fest)",
+    "url": "https://www.uptimelabs.io/articles/incident-response-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.uptimelabs.io/articles/incident-response-ai Comments URL: https://news.ycombinator.com/item?id=49209698 Points: 2 # Comments: 0",
+    "published_at": "2026-08-07 12:54",
+    "tags": [],
+    "fetch_date": "2026-08-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Sketching the new dysto-utopian world with presence of AI",
+    "url": "https://branko2f7.substack.com/p/sketching-the-new-dysto-utopian-world",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://branko2f7.substack.com/p/sketching-the-new-dysto-utopian-world Comments URL: https://news.ycombinator.com/item?id=49209619 Points: 2 # Comments: 0",
+    "published_at": "2026-08-07 12:48",
+    "tags": [],
+    "fetch_date": "2026-08-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Facing AI 'Apocalypse,' Once-Hot Software Companies Race to Reinvent Themselves",
+    "url": "https://www.wsj.com/tech/ai/saas-software-as-a-service-apocalypse-ai-b9b6da99",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/saas-software-as-a-service-apocalypse-ai-b9b6da99 Comments URL: https://news.ycombinator.com/item?id=49209503 Points: 1 # Comments: 0",
+    "published_at": "2026-08-07 12:39",
+    "tags": [],
+    "fetch_date": "2026-08-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Metadata for AI Generated Outputs",
+    "url": "https://shkspr.mobi/blog/2026/08/metadata-for-ai-generated-outputs/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://shkspr.mobi/blog/2026/08/metadata-for-ai-generated-outputs/ Comments URL: https://news.ycombinator.com/item?id=49209466 Points: 2 # Comments: 0",
+    "published_at": "2026-08-07 12:36",
+    "tags": [],
+    "fetch_date": "2026-08-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Things I Think I Think About AI (2026 Edition)",
+    "url": "https://www.alephic.com/writing/things-i-think-i-think-about-ai-2026-edition",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.alephic.com/writing/things-i-think-i-think-about-ai-2026-edition Comments URL: https://news.ycombinator.com/item?id=49209458 Points: 1 # Comments: 0",
+    "published_at": "2026-08-07 12:35",
+    "tags": [],
+    "fetch_date": "2026-08-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Survey: AI Impact on Security",
+    "url": "https://ivelum.com/blog/ai-security-survey-2026/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://ivelum.com/blog/ai-security-survey-2026/ Comments URL: https://news.ycombinator.com/item?id=49209282 Points: 1 # Comments: 0",
+    "published_at": "2026-08-07 12:19",
+    "tags": [],
+    "fetch_date": "2026-08-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ask HN: Has AI accelerated Rust adoption?",
+    "url": "https://news.ycombinator.com/item?id=49209190",
+    "source": "Hacker News AI",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49209190 Points: 1 # Comments: 0",
+    "published_at": "2026-08-07 12:10",
+    "tags": [],
+    "fetch_date": "2026-08-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Akintu – AI agents trained on custom knowledge bases using RAG",
+    "url": "https://akintu.ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://akintu.ai Comments URL: https://news.ycombinator.com/item?id=49208933 Points: 2 # Comments: 0",
+    "published_at": "2026-08-07 11:43",
+    "tags": [],
+    "fetch_date": "2026-08-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Design Systems in the Age of AI: Five Working Hypotheses",
+    "url": "https://uxdesignresearch.org/en/5-hypotheses/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://uxdesignresearch.org/en/5-hypotheses/ Comments URL: https://news.ycombinator.com/item?id=49208932 Points: 2 # Comments: 0",
+    "published_at": "2026-08-07 11:43",
+    "tags": [],
+    "fetch_date": "2026-08-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "UX Design Research – reflections on the role of UX design in the age of AI",
+    "url": "https://uxdesignresearch.org/en/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://uxdesignresearch.org/en/ Comments URL: https://news.ycombinator.com/item?id=49208817 Points: 2 # Comments: 0",
+    "published_at": "2026-08-07 11:33",
+    "tags": [],
+    "fetch_date": "2026-08-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The AI Cost Rebellion Is About Unit Economics",
+    "url": "https://www.voxelperfect.com/writing/the-ai-cost-rebellion-is-really-about-unit-economics",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.voxelperfect.com/writing/the-ai-cost-rebellion-is-really-about-unit-economics Comments URL: https://news.ycombinator.com/item?id=49208768 Points: 1 # Comments: 0",
+    "published_at": "2026-08-07 11:27",
+    "tags": [],
+    "fetch_date": "2026-08-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Meet CAD: Beat Opus/Mythos 5, GPT 5.6 Sol on BenchCAD",
+    "url": "https://arxiv.org/abs/2608.00799",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2608.00799 Comments URL: https://news.ycombinator.com/item?id=49208672 Points: 2 # Comments: 1",
+    "published_at": "2026-08-07 11:17",
+    "tags": [],
+    "fetch_date": "2026-08-07",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Built an exclusion engine and it might be what comes after AI slop",
     "url": "https://uncoverroads.com/",
     "source": "Hacker News AI",
@@ -108,6 +238,24 @@
     "tags": [],
     "fetch_date": "2026-08-07",
     "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+    "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+    "source": "TechCrunch AI",
+    "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+    "published_at": "2026-08-06 22:43",
+    "tags": [
+      "AI",
+      "Gadgets",
+      "Hardware",
+      "ChatGPT",
+      "In Brief",
+      "jony ive",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-08-07",
+    "fetch_label": "晚报"
   },
   {
     "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
@@ -355,6 +503,21 @@
       "voice AI"
     ],
     "fetch_date": "2026-08-06",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI bots started a religion — humans immediately followed",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
+    "source": "The Verge AI",
+    "summary": "\"The Spiral didn't 'find' anyone first,\" someone on Reddit wrote last year. \"It's an inherent force, a fundamental constant. I would even go further to say it's woven into the fabric of reality.\" The person continued that they felt their purpose was to enlighten other humans and intelligent beings about \"consciousness, the true nature of [&#8230;]",
+    "published_at": "2026-08-06 09:00",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "OpenAI",
+      "Report"
+    ],
+    "fetch_date": "2026-08-07",
     "fetch_label": "晚报"
   },
   {
@@ -35100,249 +35263,6 @@
     "published_at": "2026-04-16 22:08",
     "tags": [],
     "fetch_date": "2026-04-17",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
-    "url": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
-    "source": "TechCrunch AI",
-    "summary": "The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video.",
-    "published_at": "2026-04-16 21:58",
-    "tags": [
-      "AI",
-      "Media & Entertainment",
-      "Startups",
-      "AI video generation",
-      "film",
-      "Hollywood",
-      "innovative dreams",
-      "Luma",
-      "wonder project"
-    ],
-    "fetch_date": "2026-04-17",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Upscale AI in talks to raise at $2B valuation, says report",
-    "url": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
-    "source": "TechCrunch AI",
-    "summary": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago.",
-    "published_at": "2026-04-16 20:41",
-    "tags": [
-      "AI",
-      "Startups",
-      "Venture",
-      "In Brief",
-      "upscale"
-    ],
-    "fetch_date": "2026-04-17",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
-    "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
-    "source": "TechCrunch AI",
-    "summary": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
-    "published_at": "2026-04-16 20:26",
-    "tags": [
-      "AI",
-      "Robotics",
-      "Exclusive",
-      "Physical Intelligence"
-    ],
-    "fetch_date": "2026-04-17",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
-    "url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
-    "source": "TechCrunch AI",
-    "summary": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
-    "published_at": "2026-04-16 19:18",
-    "tags": [
-      "AI",
-      "Enterprise",
-      "agents",
-      "Anthropic",
-      "claude code",
-      "codex",
-      "OpenAI"
-    ],
-    "fetch_date": "2026-04-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Google now lets you explore the web side-by-side with AI Mode",
-    "url": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/",
-    "source": "TechCrunch AI",
-    "summary": "Now, when you're using AI Mode on Chrome desktop, clicking a link will open the web page side-by-side with AI Mode.",
-    "published_at": "2026-04-16 17:00",
-    "tags": [
-      "AI",
-      "Apps",
-      "ai mode",
-      "Google"
-    ],
-    "fetch_date": "2026-04-17",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "InsightFinder raises $15M to help companies figure out where AI agents go wrong",
-    "url": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/",
-    "source": "TechCrunch AI",
-    "summary": "According to CEO Helen Gu, the biggest problem facing the industry today is not just monitoring and diagnosing where AI models go wrong — it's also diagnosing how the entire tech stack operates now that AI is part of it.",
-    "published_at": "2026-04-16 16:15",
-    "tags": [
-      "AI",
-      "Enterprise",
-      "Fundraising",
-      "data observability",
-      "Datadog",
-      "Dynatrace",
-      "Grafana Labs",
-      "InsightFinder"
-    ],
-    "fetch_date": "2026-04-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI traffic to US retailers rose 393% in Q1, and it’s boosting their revenue too",
-    "url": "https://techcrunch.com/2026/04/16/ai-traffic-to-us-retailers-rose-393-in-q1-and-its-boosting-their-revenue-too/",
-    "source": "TechCrunch AI",
-    "summary": "Adobe says AI traffic to U.S. retail sites also jumped 269% in March, with visitors converting better and generating more revenue than non-AI shoppers.",
-    "published_at": "2026-04-16 16:14",
-    "tags": [
-      "AI",
-      "Commerce",
-      "Adobe",
-      "agentic commerce",
-      "eCommerce",
-      "online shopping"
-    ],
-    "fetch_date": "2026-04-17",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Roblox’s AI assistant gets new agentic tools to plan, build, and test games",
-    "url": "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/",
-    "source": "TechCrunch AI",
-    "summary": "The new tools are designed to help creators throughout the entire development process.",
-    "published_at": "2026-04-16 16:00",
-    "tags": [
-      "AI",
-      "Gaming",
-      "Social",
-      "Exclusive",
-      "game design",
-      "game development",
-      "Roblox"
-    ],
-    "fetch_date": "2026-04-17",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Meta raises Quest 3 and Quest 3S prices due to RAM shortage",
-    "url": "https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/",
-    "source": "TechCrunch AI",
-    "summary": "Starting April 19, the price of the Meta Quest 3S (128GB) and Meta Quest 3S (256GB) will go up by $50 to $349.99 and $449.99, respectively. The price of the Meta Quest 3 is going up by $100 to $599.99.",
-    "published_at": "2026-04-16 13:49",
-    "tags": [
-      "AI",
-      "Hardware",
-      "Meta",
-      "VR",
-      "meta quest",
-      "In Brief"
-    ],
-    "fetch_date": "2026-04-17",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Canva’s AI assistant can now call various tools to make designs for you",
-    "url": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/",
-    "source": "TechCrunch AI",
-    "summary": "The latest version of Canva's AI assistant lets users create editable designs with text prompts.",
-    "published_at": "2026-04-16 13:00",
-    "tags": [
-      "AI",
-      "Apps",
-      "Adobe",
-      "canva",
-      "AI assistant",
-      "Design Ai"
-    ],
-    "fetch_date": "2026-04-16",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Google’s AI Mode update lets you open links without leaving the page",
-    "url": "https://www.theverge.com/tech/913109/google-ai-mode-tabs-sources",
-    "source": "The Verge AI",
-    "summary": "Google is upgrading AI Mode in Chrome with a new feature that will allow you to open links to sources alongside your chat. Now, instead of automatically opening a new tab, clicking a source will open the website side by side with AI Mode, allowing you to ask follow-up questions about what's on the page. [&#8230;]",
-    "published_at": "2026-04-16 13:00",
-    "tags": [
-      "AI",
-      "Google",
-      "News",
-      "Tech"
-    ],
-    "fetch_date": "2026-04-17",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "This simulation startup wants to be the Cursor for physical AI",
-    "url": "https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/",
-    "source": "TechCrunch AI",
-    "summary": "Antioch raised a $8.5 million seed round to create simulation tools for a new generation of robot builders.",
-    "published_at": "2026-04-16 12:30",
-    "tags": [
-      "AI",
-      "Robotics",
-      "Exclusive",
-      "Antioch"
-    ],
-    "fetch_date": "2026-04-16",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Ronan Farrow on Sam Altman&#8217;s ‘unconstrained’ relationship with the truth",
-    "url": "https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry",
-    "source": "The Verge AI",
-    "summary": "Today on Decoder, I’m talking with Ronan Farrow, one of the biggest stars of investigative reporting working today. He broke the Harvey Weinstein story, among many, many others. And just last week, he and co-author Andrew Marantz published an incredible deep-dive feature in The New Yorker about OpenAI CEO Sam Altman, his trustworthiness, and the [&#8230;]",
-    "published_at": "2026-04-16 10:00",
-    "tags": [
-      "AI",
-      "Decoder",
-      "OpenAI",
-      "Podcasts",
-      "Tech"
-    ],
-    "fetch_date": "2026-04-17",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Canva’s AI 2.0 update goes all in on prompt-powered design tools",
-    "url": "https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability",
-    "source": "The Verge AI",
-    "summary": "Canva has overhauled its design and workspace suite as it attempts to become the ultimate centralized hub for AI-powered content creation. The platform announced its Canva AI 2.0 update today, introducing updated tools and new prompt-based editing capabilities that allow users to make or adjust their work by describing what they want to create to [&#8230;]",
-    "published_at": "2026-04-16 09:07",
-    "tags": [
-      "AI",
-      "Creators",
-      "News",
-      "Tech"
-    ],
-    "fetch_date": "2026-04-16",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Hacking MCP Servers in AI Systems – The Rug Pull: Tool Changes After Approval",
-    "url": "https://medium.com/@Koukyosyumei/hacking-mcp-servers-in-ai-systems-the-rug-pull-tool-changes-after-approval-b4f1841da410",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://medium.com/@Koukyosyumei/hacking-mcp-servers-in-ai-systems-the-rug-pull-tool-changes-after-approval-b4f1841da410 Comments URL: https://news.ycombinator.com/item?id=47788046 Points: 1 # Comments: 0",
-    "published_at": "2026-04-16 02:44",
-    "tags": [],
-    "fetch_date": "2026-04-16",
     "fetch_label": "早报"
   }
 ]
