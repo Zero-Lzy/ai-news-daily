@@ -1,5 +1,96 @@
 [
   {
+    "title": "OpenAI says it slowed Astra model development over security concerns",
+    "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "source": "TechCrunch AI",
+    "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
+    "published_at": "2026-08-07 22:48",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-08-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+    "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+    "source": "TechCrunch AI",
+    "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+    "published_at": "2026-08-07 21:30",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Rippling"
+    ],
+    "fetch_date": "2026-08-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "source": "TechCrunch AI",
+    "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+    "published_at": "2026-08-07 16:16",
+    "tags": [
+      "AI",
+      "Apps",
+      "AI agents",
+      "cloudflare"
+    ],
+    "fetch_date": "2026-08-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+    "source": "The Verge AI",
+    "summary": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the company releasing an AI detector that identifies it [&#8230;]",
+    "published_at": "2026-08-07 16:01",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Music",
+      "News"
+    ],
+    "fetch_date": "2026-08-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+    "source": "The Verge AI",
+    "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue [&#8230;]",
+    "published_at": "2026-08-07 14:40",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI",
+      "Security",
+      "Tech"
+    ],
+    "fetch_date": "2026-08-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+    "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+    "source": "TechCrunch AI",
+    "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products —&#160;almost as&#160;if&#160;they&#8217;re&#160;forming a new government. And whether&#160;you&#8217;re&#160;thinking of Twitter&#8217;s old “town hall in your pocket” or&#160;Anthropic&#8217;s Claude constitution,&#160;it&#8217;s&#160;a theory that&#160;doesn&#8217;t&#160;paint Silicon Valley in a very flattering light.&#160;&#160; In&#160;Lepore&#8217;s&#160;upcoming book,&#160;Th",
+    "published_at": "2026-08-07 14:00",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "AI policy",
+      "AI regulation",
+      "Elon Musk",
+      "Jill Lepore",
+      "sam altman"
+    ],
+    "fetch_date": "2026-08-08",
+    "fetch_label": "早报"
+  },
+  {
     "title": "An AI-friendly video-to-3D asset pipeline",
     "url": "https://goeteia.dev/3d",
     "source": "Hacker News AI",
@@ -28,6 +119,22 @@
     "tags": [],
     "fetch_date": "2026-08-07",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "What&#8217;s behind the Google AI shake-up",
+    "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+    "source": "The Verge AI",
+    "summary": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in [&#8230;]",
+    "published_at": "2026-08-07 12:45",
+    "tags": [
+      "AI",
+      "Google",
+      "Podcasts",
+      "Tech",
+      "Vergecast"
+    ],
+    "fetch_date": "2026-08-08",
+    "fetch_label": "早报"
   },
   {
     "title": "Facing AI 'Apocalypse,' Once-Hot Software Companies Race to Reinvent Themselves",
@@ -256,6 +363,21 @@
     ],
     "fetch_date": "2026-08-07",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "ChatGPT brings unlimited text chats to free users",
+    "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+    "source": "TechCrunch AI",
+    "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
+    "published_at": "2026-08-06 17:34",
+    "tags": [
+      "AI",
+      "Apps",
+      "ChatGPT",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-08-08",
+    "fetch_label": "早报"
   },
   {
     "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
@@ -504,6 +626,23 @@
     ],
     "fetch_date": "2026-08-06",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "The left and right agree on one thing: no data centers",
+    "url": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
+    "source": "The Verge AI",
+    "summary": "Today, I’m talking with Gaby Del Valle, a policy reporter here at The Verge, about the growing backlash against AI data centers.&#160; Gaby recently reported a fantastic piece about Hernando County, Florida, where last month the county commission unanimously approved a yearlong moratorium on data center construction. She attended a protest there organized by a [&#8230;]",
+    "published_at": "2026-08-06 10:00",
+    "tags": [
+      "AI",
+      "Decoder",
+      "Podcasts",
+      "Policy",
+      "Politics",
+      "Tech"
+    ],
+    "fetch_date": "2026-08-08",
+    "fetch_label": "早报"
   },
   {
     "title": "AI bots started a religion — humans immediately followed",
@@ -35164,103 +35303,6 @@
     "source": "Hacker News AI",
     "summary": "Article URL: https://github.com/jgoy-labs/server-nexe Comments URL: https://news.ycombinator.com/item?id=47801189 Points: 1 # Comments: 0",
     "published_at": "2026-04-17 00:28",
-    "tags": [],
-    "fetch_date": "2026-04-17",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "I Hate AI",
-    "url": "https://news.ycombinator.com/item?id=47800922",
-    "source": "Hacker News AI",
-    "summary": "I know this might seem very emotional, but please take it as stilistic tool.I told everyone to just use Claude Code all day everyday and take over the world. I was number 1 on Strauva (Strava for Claude Code yes). 7k token burn/month at api price + gemini antigravity to get another claude max subscription.I wasn’t use it excessively, like not more than 4 sessions at once. I was doing tabs, namings, git worktrees, commit messages.My sentiment changed drastically. I really hate AI now. It feels li",
-    "published_at": "2026-04-16 23:42",
-    "tags": [],
-    "fetch_date": "2026-04-17",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Isolating AI Coding Agents on Bare Metal",
-    "url": "https://blog.singlr.ai/isolating-ai-coding-agents-bare-metal-incus-podman/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://blog.singlr.ai/isolating-ai-coding-agents-bare-metal-incus-podman/ Comments URL: https://news.ycombinator.com/item?id=47800623 Points: 3 # Comments: 0",
-    "published_at": "2026-04-16 23:01",
-    "tags": [],
-    "fetch_date": "2026-04-17",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Runway CEO: AI could help Hollywood make 50 films instead of 1 $100M blockbuster",
-    "url": "https://techcrunch.com/2026/04/16/runway-ceo-says-ai-could-help-hollywood-make-50-films-instead-of-one-100m-blockbuster/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://techcrunch.com/2026/04/16/runway-ceo-says-ai-could-help-hollywood-make-50-films-instead-of-one-100m-blockbuster/ Comments URL: https://news.ycombinator.com/item?id=47800597 Points: 2 # Comments: 2",
-    "published_at": "2026-04-16 22:58",
-    "tags": [],
-    "fetch_date": "2026-04-17",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
-    "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
-    "source": "TechCrunch AI",
-    "summary": "The three-year-old startup raised $150 million led by Khosla Ventures.",
-    "published_at": "2026-04-16 22:55",
-    "tags": [
-      "AI",
-      "Startups",
-      "Khosla Ventures",
-      "Sequioa",
-      "In Brief",
-      "AI coding tools"
-    ],
-    "fetch_date": "2026-04-17",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Anubis weighs the soul of incoming HTTP requests to stop AI crawlers",
-    "url": "https://github.com/TecharoHQ/anubis",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/TecharoHQ/anubis Comments URL: https://news.ycombinator.com/item?id=47800425 Points: 4 # Comments: 0",
-    "published_at": "2026-04-16 22:41",
-    "tags": [],
-    "fetch_date": "2026-04-17",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Rebuilt SETI Home but for AI",
-    "url": "https://github.com/Agent-FM/agentfm-core",
-    "source": "Hacker News AI",
-    "summary": "It’s a single Go binary that turns unused home GPUs into a decentralized, peer-to-peer AI compute grid. Think SETI@home, but for running local LLMs and AI workloads. Comments URL: https://news.ycombinator.com/item?id=47800418 Points: 3 # Comments: 3",
-    "published_at": "2026-04-16 22:40",
-    "tags": [],
-    "fetch_date": "2026-04-17",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Grpo explained: group relative policy optimization for LLM finetuning",
-    "url": "https://cgft.io/learn/grpo-intro/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://cgft.io/learn/grpo-intro/ Comments URL: https://news.ycombinator.com/item?id=47800256 Points: 1 # Comments: 0",
-    "published_at": "2026-04-16 22:18",
-    "tags": [],
-    "fetch_date": "2026-04-17",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "15% of Reddit Posts are Likely AI-generated in 2025",
-    "url": "https://originality.ai/blog/ai-reddit-posts-study",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://originality.ai/blog/ai-reddit-posts-study Comments URL: https://news.ycombinator.com/item?id=47800236 Points: 8 # Comments: 6",
-    "published_at": "2026-04-16 22:16",
-    "tags": [],
-    "fetch_date": "2026-04-17",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Could AI's leading men become as powerful as Ford or Rockefeller?",
-    "url": "https://www.economist.com/business/2026/04/16/could-ais-leading-men-become-as-powerful-as-ford-or-rockefeller",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.economist.com/business/2026/04/16/could-ais-leading-men-become-as-powerful-as-ford-or-rockefeller Comments URL: https://news.ycombinator.com/item?id=47800167 Points: 2 # Comments: 1",
-    "published_at": "2026-04-16 22:08",
     "tags": [],
     "fetch_date": "2026-04-17",
     "fetch_label": "早报"
