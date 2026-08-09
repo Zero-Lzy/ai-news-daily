@@ -1,5 +1,149 @@
 [
   {
+    "title": "Model Genome: Fingerprinting Whether an LLM Was Trained from Scratch or Derived",
+    "url": "https://huggingface.co/blog/mayafree/model-dna",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://huggingface.co/blog/mayafree/model-dna Comments URL: https://news.ycombinator.com/item?id=49227675 Points: 1 # Comments: 0",
+    "published_at": "2026-08-09 01:54",
+    "tags": [],
+    "fetch_date": "2026-08-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "I built a video editor in Rust with extensive AI-powered features",
+    "url": "https://github.com/heng30/wayshot",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/heng30/wayshot Comments URL: https://news.ycombinator.com/item?id=49227619 Points: 1 # Comments: 0",
+    "published_at": "2026-08-09 01:43",
+    "tags": [],
+    "fetch_date": "2026-08-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The AI Apocalypse Is Here",
+    "url": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/ Comments URL: https://news.ycombinator.com/item?id=49227521 Points: 10 # Comments: 1",
+    "published_at": "2026-08-09 01:28",
+    "tags": [],
+    "fetch_date": "2026-08-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "A Man Who Invented Modern AI (Before Everyone Else) – Jürgen Schmidhuber [video]",
+    "url": "https://www.youtube.com/watch?v=DP454c1K_vQ",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=DP454c1K_vQ Comments URL: https://news.ycombinator.com/item?id=49227342 Points: 2 # Comments: 0",
+    "published_at": "2026-08-09 00:56",
+    "tags": [],
+    "fetch_date": "2026-08-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Is Conscious Under a Behavioral Definition (43,590 Frozen Trials)",
+    "url": "https://zenodo.org/records/21855824",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://zenodo.org/records/21855824 Comments URL: https://news.ycombinator.com/item?id=49227170 Points: 4 # Comments: 3",
+    "published_at": "2026-08-09 00:23",
+    "tags": [],
+    "fetch_date": "2026-08-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Teaching Coding When AI Can Write the Code",
+    "url": "https://www.oreilly.com/radar/teaching-coding-when-ai-can-write-the-code/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.oreilly.com/radar/teaching-coding-when-ai-can-write-the-code/ Comments URL: https://news.ycombinator.com/item?id=49227028 Points: 4 # Comments: 0",
+    "published_at": "2026-08-08 23:55",
+    "tags": [],
+    "fetch_date": "2026-08-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Things I learned about how people use AI after 1800 people",
+    "url": "https://news.ycombinator.com/item?id=49226913",
+    "source": "Hacker News AI",
+    "summary": "I'm running a an AI fluency assessment tool and after 1800 real users who interact with our chat bot 20-40 minutes; here are some weird things we found out.1. The least AI-fluent professionals overestimated their score by 40 points. The most fluent underestimated by 27. 67 point Dunning-Kruger gap.2. Product managers outscore engineers on AI fluency (59.2 vs 53.7). Applied judgement beats technical knowledge.3. HR people (ironically who make hiring decisions using AI) understand AI the least, wi",
+    "published_at": "2026-08-08 23:35",
+    "tags": [],
+    "fetch_date": "2026-08-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Faaah – Filesystem as an AI Handler",
+    "url": "https://github.com/sebastiancarlos/faaah",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/sebastiancarlos/faaah Comments URL: https://news.ycombinator.com/item?id=49226789 Points: 2 # Comments: 0",
+    "published_at": "2026-08-08 23:13",
+    "tags": [],
+    "fetch_date": "2026-08-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "GPT-4 finished training four years ago today",
+    "url": "https://twitter.com/gdb/status/2086092396023120286",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/gdb/status/2086092396023120286 Comments URL: https://news.ycombinator.com/item?id=49226743 Points: 4 # Comments: 1",
+    "published_at": "2026-08-08 23:05",
+    "tags": [],
+    "fetch_date": "2026-08-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "How AI is breaking the British State",
+    "url": "https://news.ycombinator.com/item?id=49226649",
+    "source": "Hacker News AI",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49226649 Points: 4 # Comments: 4",
+    "published_at": "2026-08-08 22:50",
+    "tags": [],
+    "fetch_date": "2026-08-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: ExpertCache – Run the Full GPT-OSS 120B (63GB) on a 16GB M1 Pro",
+    "url": "https://github.com/amos-labs/expertcache",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/amos-labs/expertcache Comments URL: https://news.ycombinator.com/item?id=49226502 Points: 2 # Comments: 0",
+    "published_at": "2026-08-08 22:28",
+    "tags": [],
+    "fetch_date": "2026-08-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Roku Fairgound, a new 24/7 AI slop channel",
+    "url": "https://therokuchannel.roku.com/details/b484db42f3d31b6dc2f604d453c694a0/fairground-ai-creator-tv",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://therokuchannel.roku.com/details/b484db42f3d31b6dc2f604d453c694a0/fairground-ai-creator-tv Comments URL: https://news.ycombinator.com/item?id=49226480 Points: 3 # Comments: 1",
+    "published_at": "2026-08-08 22:25",
+    "tags": [],
+    "fetch_date": "2026-08-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Settles a 25 Year-Old Problem We Left Behind",
+    "url": "https://twitter.com/DimitrisPapail/status/2086158118354887060",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/DimitrisPapail/status/2086158118354887060 Comments URL: https://news.ycombinator.com/item?id=49226444 Points: 11 # Comments: 0",
+    "published_at": "2026-08-08 22:22",
+    "tags": [],
+    "fetch_date": "2026-08-09",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI acquires presentation startup NextSlide",
+    "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+    "source": "TechCrunch AI",
+    "summary": "NextSlide says its team members are now working on ChatGPT.",
+    "published_at": "2026-08-08 19:41",
+    "tags": [
+      "AI",
+      "Startups",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-08-09",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Show HN: A Free Paper Trading Platform with AI Coaching for Global Markets",
     "url": "https://paper-trader.org",
     "source": "Hacker News AI",
@@ -35109,201 +35253,5 @@
     "tags": [],
     "fetch_date": "2026-04-18",
     "fetch_label": "早报"
-  },
-  {
-    "title": "Littlebird raises $11M for its AI-assisted 'recall' tool",
-    "url": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/ Comments URL: https://news.ycombinator.com/item?id=47811198 Points: 2 # Comments: 0",
-    "published_at": "2026-04-17 22:18",
-    "tags": [],
-    "fetch_date": "2026-04-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The AI Rewrite Dilemma",
-    "url": "https://lh3.github.io/2026/04/17/the-ai-rewrite-dilemma",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://lh3.github.io/2026/04/17/the-ai-rewrite-dilemma Comments URL: https://news.ycombinator.com/item?id=47811131 Points: 2 # Comments: 0",
-    "published_at": "2026-04-17 22:09",
-    "tags": [],
-    "fetch_date": "2026-04-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
-    "url": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
-    "source": "ArsTechnica AI",
-    "summary": "Grinex says needed hacking resources \"available exclusively to ... unfriendly states.\"",
-    "published_at": "2026-04-17 21:28",
-    "tags": [
-      "Biz & IT",
-      "Security",
-      "cryptocurrency exchange",
-      "cyberattack",
-      "Grinex",
-      "russian hacking"
-    ],
-    "fetch_date": "2026-04-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
-    "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
-    "source": "TechCrunch AI",
-    "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
-    "published_at": "2026-04-17 20:38",
-    "tags": [
-      "AI",
-      "bill peebles",
-      "Kevin Weil",
-      "OpenAI",
-      "OpenAI For Science",
-      "sora"
-    ],
-    "fetch_date": "2026-04-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "OpenAI’s former Sora boss is leaving",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
-    "source": "The Verge AI",
-    "summary": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as part of an effort to avoid \"side quests,\" and Peebles' departure is just one of many recent changes as the company [&#8230;]",
-    "published_at": "2026-04-17 17:13",
-    "tags": [
-      "AI",
-      "News",
-      "OpenAI"
-    ],
-    "fetch_date": "2026-04-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Should you stare into Sam Altman&#8217;s orb before your next date?",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
-    "source": "The Verge AI",
-    "summary": "Tinder users who prove they're a real person by visiting an identity-verifying orb will soon be able to get five free boosts in the app - and it's just the latest service to embrace the orb. World, which was co-founded by OpenAI CEO Sam Altman, initially tested Tinder verification using its facial scanning orbs through [&#8230;]",
-    "published_at": "2026-04-17 16:42",
-    "tags": [
-      "AI",
-      "News",
-      "Tech"
-    ],
-    "fetch_date": "2026-04-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
-    "url": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
-    "source": "TechCrunch AI",
-    "summary": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;finance apps&#160;to&#160;talk shows, a certain shoe company just&#160;rebranded as an AI infrastructure play, and Anthropic unveiled a model it says is&#160;too powerful to release publicly&#160;&#8230;but&#160;apparently not&#160;too [&#8230;]",
-    "published_at": "2026-04-17 15:57",
-    "tags": [
-      "AI",
-      "Startups",
-      "allbirds",
-      "Anthropic",
-      "Anthropic OpenAI",
-      "Claude",
-      "Equity podcast",
-      "fluidstack",
-      "Mythos",
-      "OpenAI",
-      "Roundup",
-      "tokenmaxxing",
-      "Uber"
-    ],
-    "fetch_date": "2026-04-18",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "This charming gadget writes bad AI poetry",
-    "url": "https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on",
-    "source": "The Verge AI",
-    "summary": "I've never been as charmed and frustrated by one gadget as I have with the Poetry Camera. It's a delightful object. White and cherry red with a color-matched woven strap, it looks playful and adorably lo-fi. If I saw it on a store shelf, I'd absolutely pick it up. But aside from obviously appealing, I'm [&#8230;]",
-    "published_at": "2026-04-17 13:30",
-    "tags": [
-      "AI",
-      "Gadgets",
-      "Hands-on",
-      "Reviews",
-      "Tech"
-    ],
-    "fetch_date": "2026-04-19",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Unweight: We compressed an LLM 22% without sacrificing quality",
-    "url": "https://blog.cloudflare.com/unweight-tensor-compression/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://blog.cloudflare.com/unweight-tensor-compression/ Comments URL: https://news.ycombinator.com/item?id=47805495 Points: 1 # Comments: 0",
-    "published_at": "2026-04-17 13:04",
-    "tags": [],
-    "fetch_date": "2026-04-17",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Are we tokenmaxxing our way to nowhere?",
-    "url": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
-    "source": "TechCrunch AI",
-    "summary": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;finance apps&#160;to&#160;talk shows, a certain shoe company just&#160;rebranded as an AI infrastructure play, and Anthropic unveiled a model it says is&#160;too powerful to release publicly&#160;&#8230;but&#160;apparently not&#160;too [&#8230;]",
-    "published_at": "2026-04-17 13:00",
-    "tags": [
-      "AI",
-      "Startups",
-      "acquisition",
-      "AI data center",
-      "ai infrastructure",
-      "allbirds",
-      "Equity Video",
-      "hiro",
-      "Mythos",
-      "openai anthropic",
-      "podcast",
-      "tokenmaxxing",
-      "wayve"
-    ],
-    "fetch_date": "2026-04-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Java 26 and the Rise of Agentic AI: The State of the Ecosystem (April 2026)",
-    "url": "https://techlife.blog/posts/java-ecosystem-april-2026/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://techlife.blog/posts/java-ecosystem-april-2026/ Comments URL: https://news.ycombinator.com/item?id=47805372 Points: 1 # Comments: 0",
-    "published_at": "2026-04-17 12:49",
-    "tags": [],
-    "fetch_date": "2026-04-17",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "An AI system that runs an art exhibition and decides what gets made",
-    "url": "https://performance-review.jonaslund.com/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://performance-review.jonaslund.com/ Comments URL: https://news.ycombinator.com/item?id=47805367 Points: 1 # Comments: 0",
-    "published_at": "2026-04-17 12:48",
-    "tags": [],
-    "fetch_date": "2026-04-17",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Adapt: an LLM-based memory layer that restructures itself",
-    "url": "https://github.com/unbody-io/adapt",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/unbody-io/adapt Comments URL: https://news.ycombinator.com/item?id=47805302 Points: 1 # Comments: 0",
-    "published_at": "2026-04-17 12:40",
-    "tags": [],
-    "fetch_date": "2026-04-17",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Anthropic chief Dario Amodei: 'I don't want AI turned on our own people'",
-    "url": "https://www.ft.com/content/9e0e0fc6-ab7d-4b69-a8b1-5a972b82fb06",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.ft.com/content/9e0e0fc6-ab7d-4b69-a8b1-5a972b82fb06 Comments URL: https://news.ycombinator.com/item?id=47805296 Points: 3 # Comments: 1",
-    "published_at": "2026-04-17 12:39",
-    "tags": [],
-    "fetch_date": "2026-04-17",
-    "fetch_label": "晚报"
   }
 ]
