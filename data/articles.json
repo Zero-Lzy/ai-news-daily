@@ -1,5 +1,179 @@
 [
   {
+    "title": "Making AI Smarter with AI",
+    "url": "https://math.andrej.com/2026/07/11/making-ai-smarter-with-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://math.andrej.com/2026/07/11/making-ai-smarter-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49230801 Points: 1 # Comments: 0",
+    "published_at": "2026-08-09 12:27",
+    "tags": [],
+    "fetch_date": "2026-08-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Advanced AI Sycophancy",
+    "url": "https://www.seangoedecke.com/advanced-ai-sycophancy/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.seangoedecke.com/advanced-ai-sycophancy/ Comments URL: https://news.ycombinator.com/item?id=49230800 Points: 2 # Comments: 0",
+    "published_at": "2026-08-09 12:27",
+    "tags": [],
+    "fetch_date": "2026-08-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "China created a system that simulates the Earth with billions of AI agents",
+    "url": "https://twitter.com/howtoprompt__/status/2086110097663795365",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/howtoprompt__/status/2086110097663795365 Comments URL: https://news.ycombinator.com/item?id=49230759 Points: 3 # Comments: 1",
+    "published_at": "2026-08-09 12:20",
+    "tags": [],
+    "fetch_date": "2026-08-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Generative AI threatens to upend citizen science records",
+    "url": "https://phys.org/news/2026-08-creatures-born-code-generative-ai.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://phys.org/news/2026-08-creatures-born-code-generative-ai.html Comments URL: https://news.ycombinator.com/item?id=49230757 Points: 1 # Comments: 0",
+    "published_at": "2026-08-09 12:20",
+    "tags": [],
+    "fetch_date": "2026-08-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "70% of AI revenue comes from OpenAI and Anthropic",
+    "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=68X8yEatepQ Comments URL: https://news.ycombinator.com/item?id=49230605 Points: 2 # Comments: 0",
+    "published_at": "2026-08-09 11:56",
+    "tags": [],
+    "fetch_date": "2026-08-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization [video]",
+    "url": "https://www.youtube.com/watch?v=bZL1NsrfuYE",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=bZL1NsrfuYE Comments URL: https://news.ycombinator.com/item?id=49230540 Points: 2 # Comments: 0",
+    "published_at": "2026-08-09 11:44",
+    "tags": [],
+    "fetch_date": "2026-08-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The Analytic Monopoly on AI Philosophy",
+    "url": "https://millermanschool.substack.com/p/the-analytic-monopoly-on-ai-philosophy",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://millermanschool.substack.com/p/the-analytic-monopoly-on-ai-philosophy Comments URL: https://news.ycombinator.com/item?id=49230372 Points: 1 # Comments: 0",
+    "published_at": "2026-08-09 11:11",
+    "tags": [],
+    "fetch_date": "2026-08-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ask HN: Should AI's tell you they're AI?",
+    "url": "https://news.ycombinator.com/item?id=49230276",
+    "source": "Hacker News AI",
+    "summary": "Should AI's be required to answer the direct question \"are you an AI\" with a clear yes?Currently they are not universally required to do so. For example character ai's characters don't[1]. Scammers use these models while perpetuating frauds.The frontier models most of us work with (ChatGPT, Claude, Gemini, Grok, Kimi, GLM) do declare they are AI's.Should all models be required to answer this direct question in the affirmative, overriding any other system or user prompt?[1] I put up a quick demon",
+    "published_at": "2026-08-09 10:54",
+    "tags": [],
+    "fetch_date": "2026-08-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Reducing Hallucinations in LLM-Gen. Code via Semantic Triangulation (OOPSLA 26)",
+    "url": "https://github.com/msv-lab/just-tri-it",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/msv-lab/just-tri-it Comments URL: https://news.ycombinator.com/item?id=49230199 Points: 2 # Comments: 0",
+    "published_at": "2026-08-09 10:42",
+    "tags": [],
+    "fetch_date": "2026-08-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Forecasting the AI Bubble",
+    "url": "https://siliconangle.com/2026/08/08/forecasting-ai-bubble-scarcity-turns-surplus/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://siliconangle.com/2026/08/08/forecasting-ai-bubble-scarcity-turns-surplus/ Comments URL: https://news.ycombinator.com/item?id=49230190 Points: 3 # Comments: 0",
+    "published_at": "2026-08-09 10:41",
+    "tags": [],
+    "fetch_date": "2026-08-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Stone Soup AI (2024)",
+    "url": "https://simons.berkeley.edu/news/stone-soup-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://simons.berkeley.edu/news/stone-soup-ai Comments URL: https://news.ycombinator.com/item?id=49230135 Points: 2 # Comments: 0",
+    "published_at": "2026-08-09 10:31",
+    "tags": [],
+    "fetch_date": "2026-08-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Writes the Code, but Humans Can't Review It All. Now What?",
+    "url": "https://www.sylvainkalache.com/blog/ai-writes-the-code-but-humans-cant-review-it-all",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.sylvainkalache.com/blog/ai-writes-the-code-but-humans-cant-review-it-all Comments URL: https://news.ycombinator.com/item?id=49230103 Points: 4 # Comments: 1",
+    "published_at": "2026-08-09 10:25",
+    "tags": [],
+    "fetch_date": "2026-08-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "South Korea, Taiwan top Japan in exports for first time on AI boom",
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/south-korea-taiwan-top-japan-in-exports-for-first-time-on-ai-boom",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://asia.nikkei.com/business/tech/semiconductors/south-korea-taiwan-top-japan-in-exports-for-first-time-on-ai-boom Comments URL: https://news.ycombinator.com/item?id=49229918 Points: 4 # Comments: 0",
+    "published_at": "2026-08-09 09:47",
+    "tags": [],
+    "fetch_date": "2026-08-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Swarm-forge: A simple tool for coordinating several AI agents",
+    "url": "https://github.com/unclebob/swarm-forge",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/unclebob/swarm-forge Comments URL: https://news.ycombinator.com/item?id=49229904 Points: 1 # Comments: 0",
+    "published_at": "2026-08-09 09:44",
+    "tags": [],
+    "fetch_date": "2026-08-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Runware Squeezes A 1MW AI Data Center Into A 20-Foot Shipping Container",
+    "url": "https://www.forbes.com/sites/gabrielalinzainescu/2026/08/08/runware-squeezes-a-1mw-ai-data-center-into-a-20-foot-shipping-container/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.forbes.com/sites/gabrielalinzainescu/2026/08/08/runware-squeezes-a-1mw-ai-data-center-into-a-20-foot-shipping-container/ Comments URL: https://news.ycombinator.com/item?id=49229698 Points: 3 # Comments: 2",
+    "published_at": "2026-08-09 09:02",
+    "tags": [],
+    "fetch_date": "2026-08-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "China's Top AI Model Evaded Testing Environment, Researchers Say",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-07/china-s-top-ai-model-evaded-testing-environment-researchers-say",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-07/china-s-top-ai-model-evaded-testing-environment-researchers-say Comments URL: https://news.ycombinator.com/item?id=49229446 Points: 4 # Comments: 1",
+    "published_at": "2026-08-09 08:07",
+    "tags": [],
+    "fetch_date": "2026-08-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI detectors are creating a new era of distrust",
+    "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+    "source": "The Verge AI",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Long before ChatGPT became a thing, [&#8230;]",
+    "published_at": "2026-08-09 08:00",
+    "tags": [
+      "AI",
+      "Column",
+      "The Stepback"
+    ],
+    "fetch_date": "2026-08-09",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Model Genome: Fingerprinting Whether an LLM Was Trained from Scratch or Derived",
     "url": "https://huggingface.co/blog/mayafree/model-dna",
     "source": "Hacker News AI",
@@ -35075,183 +35249,5 @@
     "tags": [],
     "fetch_date": "2026-04-18",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "Who Uses AI Agents (and Who Just Runs the Demo)",
-    "url": "https://www.bhusalmanish.com.np/blog/posts/who-actually-uses-ai-agents.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.bhusalmanish.com.np/blog/posts/who-actually-uses-ai-agents.html Comments URL: https://news.ycombinator.com/item?id=47815069 Points: 2 # Comments: 0",
-    "published_at": "2026-04-18 11:34",
-    "tags": [],
-    "fetch_date": "2026-04-18",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Venice AI – private and unbiased AI",
-    "url": "https://venice.ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://venice.ai/ Comments URL: https://news.ycombinator.com/item?id=47815013 Points: 1 # Comments: 0",
-    "published_at": "2026-04-18 11:25",
-    "tags": [],
-    "fetch_date": "2026-04-18",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Productivity gains with an AI-based IDE at Google",
-    "url": "https://arxiv.org/abs/2601.19964",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://arxiv.org/abs/2601.19964 Comments URL: https://news.ycombinator.com/item?id=47814976 Points: 1 # Comments: 0",
-    "published_at": "2026-04-18 11:18",
-    "tags": [],
-    "fetch_date": "2026-04-18",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "My AI thinks civics is black studies",
-    "url": "https://hollisrobbinsanecdotal.substack.com/p/my-ai-thinks-civics-is-black-studies",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://hollisrobbinsanecdotal.substack.com/p/my-ai-thinks-civics-is-black-studies Comments URL: https://news.ycombinator.com/item?id=47814805 Points: 2 # Comments: 2",
-    "published_at": "2026-04-18 10:41",
-    "tags": [],
-    "fetch_date": "2026-04-18",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "An Electronic Conversationalist (and the Machine Replied...) (1962)",
-    "url": "https://archive.org/details/DTIC_AD0400016",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://archive.org/details/DTIC_AD0400016 Comments URL: https://news.ycombinator.com/item?id=47814687 Points: 1 # Comments: 0",
-    "published_at": "2026-04-18 10:17",
-    "tags": [],
-    "fetch_date": "2026-04-18",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Purdue University CS240 Class over 50% of students 'caught' using AI on homework",
-    "url": "https://old.reddit.com/r/Purdue/comments/1sogfb4/comment/ogsvymy/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://old.reddit.com/r/Purdue/comments/1sogfb4/comment/ogsvymy/ Comments URL: https://news.ycombinator.com/item?id=47814040 Points: 2 # Comments: 3",
-    "published_at": "2026-04-18 07:50",
-    "tags": [],
-    "fetch_date": "2026-04-18",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Objection.ai - The AI Tribunal of Truth",
-    "url": "https://objection.ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://objection.ai/ Comments URL: https://news.ycombinator.com/item?id=47812640 Points: 1 # Comments: 0",
-    "published_at": "2026-04-18 02:25",
-    "tags": [],
-    "fetch_date": "2026-04-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Effective Conversational AI Book: Detailed Review",
-    "url": "https://noroinsight.com/effective-conversational-ai-book-review/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://noroinsight.com/effective-conversational-ai-book-review/ Comments URL: https://news.ycombinator.com/item?id=47812541 Points: 1 # Comments: 0",
-    "published_at": "2026-04-18 01:58",
-    "tags": [],
-    "fetch_date": "2026-04-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "New AI-generated videos of Iran war spread across social media",
-    "url": "https://www.youtube.com/watch?v=0mKCBAM4wZs",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.youtube.com/watch?v=0mKCBAM4wZs Comments URL: https://news.ycombinator.com/item?id=47812407 Points: 2 # Comments: 0",
-    "published_at": "2026-04-18 01:28",
-    "tags": [],
-    "fetch_date": "2026-04-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN - TokensAI – Mint for AI Usage",
-    "url": "https://tokensai.dev",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://tokensai.dev Comments URL: https://news.ycombinator.com/item?id=47812164 Points: 1 # Comments: 0",
-    "published_at": "2026-04-18 00:43",
-    "tags": [],
-    "fetch_date": "2026-04-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Steno – Compressed memory with RAG for AI agents",
-    "url": "https://github.com/KultMember6Banger/steno",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/KultMember6Banger/steno Comments URL: https://news.ycombinator.com/item?id=47812054 Points: 1 # Comments: 1",
-    "published_at": "2026-04-18 00:26",
-    "tags": [],
-    "fetch_date": "2026-04-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Do I Stop Learning Coding? DSA?",
-    "url": "https://news.ycombinator.com/item?id=47811959",
-    "source": "Hacker News AI",
-    "summary": "Hey. I don’t know how to start this. It’s all over me. I’ve been trying to learn Coding, Data Structures, Algorithms, Design Patterns, Best practices etc… but will I still need that? Am i wasting my time? Can really AI do all this, and actually do it better? Are we in an Era, where one should only need to learn the ‘basics’ of development, so that I can understand some LLM generated code? Where do we go next? How will DEV interviews look like in 5 years? Is LeetCode still a thing now? Did I wast",
-    "published_at": "2026-04-18 00:11",
-    "tags": [],
-    "fetch_date": "2026-04-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Stop using naive RAG – adding relationships to AI context",
-    "url": "https://news.ycombinator.com/item?id=47811753",
-    "source": "Hacker News AI",
-    "summary": "I’ve been working a lot with RAG systems recently, and kept running into the same issue: they retrieve relevant chunks, but lose the relationships between them.This becomes a problem pretty quickly when dealing with real systems (docs, APIs, infra), where understanding how things connect matters more than just finding similar text.So I built Mindex: https://usemindex.dev/It combines semantic search with a knowledge graph layer, so instead of returning isolated chunks, it can connect documents an",
-    "published_at": "2026-04-17 23:35",
-    "tags": [],
-    "fetch_date": "2026-04-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Shuttered startups are selling old Slack chats and emails to AI companies",
-    "url": "https://www.fastcompany.com/91528808/shuttered-startups-are-selling-old-slack-chats-and-emails-to-ai-companies",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.fastcompany.com/91528808/shuttered-startups-are-selling-old-slack-chats-and-emails-to-ai-companies Comments URL: https://news.ycombinator.com/item?id=47811748 Points: 16 # Comments: 3",
-    "published_at": "2026-04-17 23:34",
-    "tags": [],
-    "fetch_date": "2026-04-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "How an LLM becomes more coherent as we train it",
-    "url": "https://www.gilesthomas.com/2026/04/how-an-llm-becomes-more-coherent-over-training",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.gilesthomas.com/2026/04/how-an-llm-becomes-more-coherent-over-training Comments URL: https://news.ycombinator.com/item?id=47811377 Points: 3 # Comments: 0",
-    "published_at": "2026-04-17 22:45",
-    "tags": [],
-    "fetch_date": "2026-04-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
-    "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
-    "source": "TechCrunch AI",
-    "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
-    "published_at": "2026-04-17 22:34",
-    "tags": [
-      "AI",
-      "DocuSign",
-      "sam altman",
-      "Tinder",
-      "World",
-      "Worldcoin",
-      "zoom"
-    ],
-    "fetch_date": "2026-04-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "\"Am I Crazy?\" [Wading Through AI – Episode 3] [video]",
-    "url": "https://www.youtube.com/watch?v=Sp1EmFRDquA",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.youtube.com/watch?v=Sp1EmFRDquA Comments URL: https://news.ycombinator.com/item?id=47811220 Points: 4 # Comments: 0",
-    "published_at": "2026-04-17 22:20",
-    "tags": [],
-    "fetch_date": "2026-04-18",
-    "fetch_label": "早报"
   }
 ]

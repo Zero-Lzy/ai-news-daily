@@ -189,6 +189,165 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-08-09 20:51:21",
+      "count": 18,
+      "articles": [
+        {
+          "title": "Making AI Smarter with AI",
+          "url": "https://math.andrej.com/2026/07/11/making-ai-smarter-with-ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://math.andrej.com/2026/07/11/making-ai-smarter-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49230801 Points: 1 # Comments: 0",
+          "published_at": "2026-08-09 12:27",
+          "tags": []
+        },
+        {
+          "title": "Advanced AI Sycophancy",
+          "url": "https://www.seangoedecke.com/advanced-ai-sycophancy/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.seangoedecke.com/advanced-ai-sycophancy/ Comments URL: https://news.ycombinator.com/item?id=49230800 Points: 2 # Comments: 0",
+          "published_at": "2026-08-09 12:27",
+          "tags": []
+        },
+        {
+          "title": "China created a system that simulates the Earth with billions of AI agents",
+          "url": "https://twitter.com/howtoprompt__/status/2086110097663795365",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://twitter.com/howtoprompt__/status/2086110097663795365 Comments URL: https://news.ycombinator.com/item?id=49230759 Points: 3 # Comments: 1",
+          "published_at": "2026-08-09 12:20",
+          "tags": []
+        },
+        {
+          "title": "Generative AI threatens to upend citizen science records",
+          "url": "https://phys.org/news/2026-08-creatures-born-code-generative-ai.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://phys.org/news/2026-08-creatures-born-code-generative-ai.html Comments URL: https://news.ycombinator.com/item?id=49230757 Points: 1 # Comments: 0",
+          "published_at": "2026-08-09 12:20",
+          "tags": []
+        },
+        {
+          "title": "70% of AI revenue comes from OpenAI and Anthropic",
+          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=68X8yEatepQ Comments URL: https://news.ycombinator.com/item?id=49230605 Points: 2 # Comments: 0",
+          "published_at": "2026-08-09 11:56",
+          "tags": []
+        },
+        {
+          "title": "Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization [video]",
+          "url": "https://www.youtube.com/watch?v=bZL1NsrfuYE",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=bZL1NsrfuYE Comments URL: https://news.ycombinator.com/item?id=49230540 Points: 2 # Comments: 0",
+          "published_at": "2026-08-09 11:44",
+          "tags": []
+        },
+        {
+          "title": "The Analytic Monopoly on AI Philosophy",
+          "url": "https://millermanschool.substack.com/p/the-analytic-monopoly-on-ai-philosophy",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://millermanschool.substack.com/p/the-analytic-monopoly-on-ai-philosophy Comments URL: https://news.ycombinator.com/item?id=49230372 Points: 1 # Comments: 0",
+          "published_at": "2026-08-09 11:11",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: Should AI's tell you they're AI?",
+          "url": "https://news.ycombinator.com/item?id=49230276",
+          "source": "Hacker News AI",
+          "summary": "Should AI's be required to answer the direct question \"are you an AI\" with a clear yes?Currently they are not universally required to do so. For example character ai's characters don't[1]. Scammers use these models while perpetuating frauds.The frontier models most of us work with (ChatGPT, Claude, Gemini, Grok, Kimi, GLM) do declare they are AI's.Should all models be required to answer this direct question in the affirmative, overriding any other system or user prompt?[1] I put up a quick demon",
+          "published_at": "2026-08-09 10:54",
+          "tags": []
+        },
+        {
+          "title": "Reducing Hallucinations in LLM-Gen. Code via Semantic Triangulation (OOPSLA 26)",
+          "url": "https://github.com/msv-lab/just-tri-it",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/msv-lab/just-tri-it Comments URL: https://news.ycombinator.com/item?id=49230199 Points: 2 # Comments: 0",
+          "published_at": "2026-08-09 10:42",
+          "tags": []
+        },
+        {
+          "title": "Forecasting the AI Bubble",
+          "url": "https://siliconangle.com/2026/08/08/forecasting-ai-bubble-scarcity-turns-surplus/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://siliconangle.com/2026/08/08/forecasting-ai-bubble-scarcity-turns-surplus/ Comments URL: https://news.ycombinator.com/item?id=49230190 Points: 3 # Comments: 0",
+          "published_at": "2026-08-09 10:41",
+          "tags": []
+        },
+        {
+          "title": "Stone Soup AI (2024)",
+          "url": "https://simons.berkeley.edu/news/stone-soup-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://simons.berkeley.edu/news/stone-soup-ai Comments URL: https://news.ycombinator.com/item?id=49230135 Points: 2 # Comments: 0",
+          "published_at": "2026-08-09 10:31",
+          "tags": []
+        },
+        {
+          "title": "AI Writes the Code, but Humans Can't Review It All. Now What?",
+          "url": "https://www.sylvainkalache.com/blog/ai-writes-the-code-but-humans-cant-review-it-all",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.sylvainkalache.com/blog/ai-writes-the-code-but-humans-cant-review-it-all Comments URL: https://news.ycombinator.com/item?id=49230103 Points: 4 # Comments: 1",
+          "published_at": "2026-08-09 10:25",
+          "tags": []
+        },
+        {
+          "title": "South Korea, Taiwan top Japan in exports for first time on AI boom",
+          "url": "https://asia.nikkei.com/business/tech/semiconductors/south-korea-taiwan-top-japan-in-exports-for-first-time-on-ai-boom",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://asia.nikkei.com/business/tech/semiconductors/south-korea-taiwan-top-japan-in-exports-for-first-time-on-ai-boom Comments URL: https://news.ycombinator.com/item?id=49229918 Points: 4 # Comments: 0",
+          "published_at": "2026-08-09 09:47",
+          "tags": []
+        },
+        {
+          "title": "Swarm-forge: A simple tool for coordinating several AI agents",
+          "url": "https://github.com/unclebob/swarm-forge",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/unclebob/swarm-forge Comments URL: https://news.ycombinator.com/item?id=49229904 Points: 1 # Comments: 0",
+          "published_at": "2026-08-09 09:44",
+          "tags": []
+        },
+        {
+          "title": "Runware Squeezes A 1MW AI Data Center Into A 20-Foot Shipping Container",
+          "url": "https://www.forbes.com/sites/gabrielalinzainescu/2026/08/08/runware-squeezes-a-1mw-ai-data-center-into-a-20-foot-shipping-container/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.forbes.com/sites/gabrielalinzainescu/2026/08/08/runware-squeezes-a-1mw-ai-data-center-into-a-20-foot-shipping-container/ Comments URL: https://news.ycombinator.com/item?id=49229698 Points: 3 # Comments: 2",
+          "published_at": "2026-08-09 09:02",
+          "tags": []
+        },
+        {
+          "title": "China's Top AI Model Evaded Testing Environment, Researchers Say",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-07/china-s-top-ai-model-evaded-testing-environment-researchers-say",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-07/china-s-top-ai-model-evaded-testing-environment-researchers-say Comments URL: https://news.ycombinator.com/item?id=49229446 Points: 4 # Comments: 1",
+          "published_at": "2026-08-09 08:07",
+          "tags": []
+        },
+        {
+          "title": "AI detectors are creating a new era of distrust",
+          "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+          "source": "The Verge AI",
+          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Long before ChatGPT became a thing, [&#8230;]",
+          "published_at": "2026-08-09 08:00",
+          "tags": [
+            "AI",
+            "Column",
+            "The Stepback"
+          ]
+        },
+        {
+          "title": "OpenAI acquires presentation startup NextSlide",
+          "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+          "source": "TechCrunch AI",
+          "summary": "NextSlide says its team members are now working on ChatGPT.",
+          "published_at": "2026-08-08 19:41",
+          "tags": [
+            "AI",
+            "Startups",
+            "OpenAI"
+          ]
+        }
+      ]
     }
   ]
 }
