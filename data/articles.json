@@ -1,5 +1,20 @@
 [
   {
+    "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+    "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+    "source": "TechCrunch AI",
+    "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+    "published_at": "2026-08-10 12:00",
+    "tags": [
+      "Startups",
+      "AI",
+      "Fundraising",
+      "Exclusive"
+    ],
+    "fetch_date": "2026-08-10",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
     "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
     "source": "TechCrunch AI",
@@ -35249,16 +35264,6 @@
     "source": "Hacker News AI",
     "summary": "150 applications. One offer. Each application took 5+ manual steps.Separate tools, separate tabs, separate sites — none of them talking to each other. Generic output. Over an hour per application.Paste a job description — or pull it from any job site with the Chrome extension — and five AI agents run an orchestrated pipeline in under 30 seconds: analyzing the role, scoring your fit, researching the company, writing a targeted cover letter, and tailoring your resume to the role. Sequential where ",
     "published_at": "2026-04-18 12:17",
-    "tags": [],
-    "fetch_date": "2026-04-18",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "GPT‑2: 1.5B release (2019)",
-    "url": "https://openai.com/index/gpt-2-1-5b-release/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://openai.com/index/gpt-2-1-5b-release/ Comments URL: https://news.ycombinator.com/item?id=47815242 Points: 1 # Comments: 0",
-    "published_at": "2026-04-18 12:03",
     "tags": [],
     "fetch_date": "2026-04-18",
     "fetch_label": "晚报"
