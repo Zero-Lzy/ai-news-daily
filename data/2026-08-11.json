@@ -148,6 +148,109 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-08-11 21:05:59",
+      "count": 7,
+      "articles": [
+        {
+          "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+          "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+          "source": "TechCrunch AI",
+          "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
+          "published_at": "2026-08-11 13:00",
+          "tags": [
+            "Media & Entertainment",
+            "AI",
+            "Spotify"
+          ]
+        },
+        {
+          "title": "The AI takeover of mathematics has begun",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+          "source": "The Verge AI",
+          "summary": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's been grappling with the future of his field as the traditionally slow-moving discipline hurries to adapt to AI. Days before we spoke, [&#8230;]",
+          "published_at": "2026-08-11 07:00",
+          "tags": [
+            "AI",
+            "OpenAI",
+            "Report",
+            "Tech"
+          ]
+        },
+        {
+          "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+          "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+          "source": "TechCrunch AI",
+          "summary": "San Francisco's housing market is in trouble again.",
+          "published_at": "2026-08-11 00:03",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+          "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+          "source": "TechCrunch AI",
+          "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+          "published_at": "2026-08-10 20:04",
+          "tags": [
+            "AI",
+            "Startups",
+            "TC",
+            "openclaw"
+          ]
+        },
+        {
+          "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+          "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+          "source": "TechCrunch AI",
+          "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+          "published_at": "2026-08-10 12:00",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Startups",
+            "Exclusive",
+            "microchips"
+          ]
+        },
+        {
+          "title": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
+          "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+          "source": "The Verge AI",
+          "summary": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter. The lengthy manifesto Zuckerberg published on Monday, titled \"The Future is for Everyone,\" broadly lays out his beliefs about how the [&#8230;]",
+          "published_at": "2026-08-10 11:19",
+          "tags": [
+            "AI",
+            "Meta",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "What happens to Bose when headphones become AI?",
+          "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+          "source": "The Verge AI",
+          "summary": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to consumers, and its focus on research and development has led it to be a leader in both [&#8230;]",
+          "published_at": "2026-08-10 10:00",
+          "tags": [
+            "AI",
+            "Audio",
+            "Bose",
+            "Business",
+            "Decoder",
+            "Gadgets",
+            "Headphones",
+            "Podcasts",
+            "Tech",
+            "Wearable"
+          ]
+        }
+      ]
     }
   ]
 }

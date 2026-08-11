@@ -1,5 +1,34 @@
 [
   {
+    "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+    "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+    "source": "TechCrunch AI",
+    "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
+    "published_at": "2026-08-11 13:00",
+    "tags": [
+      "Media & Entertainment",
+      "AI",
+      "Spotify"
+    ],
+    "fetch_date": "2026-08-11",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The AI takeover of mathematics has begun",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+    "source": "The Verge AI",
+    "summary": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's been grappling with the future of his field as the traditionally slow-moving discipline hurries to adapt to AI. Days before we spoke, [&#8230;]",
+    "published_at": "2026-08-11 07:00",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "Report",
+      "Tech"
+    ],
+    "fetch_date": "2026-08-11",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Show HN: SendPage – turn AI-generated HTML into a shareable link",
     "url": "https://sendpageapp.com",
     "source": "Hacker News AI",
@@ -68,6 +97,20 @@
     "tags": [],
     "fetch_date": "2026-08-11",
     "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+    "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+    "source": "TechCrunch AI",
+    "summary": "San Francisco's housing market is in trouble again.",
+    "published_at": "2026-08-11 00:03",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-08-11",
+    "fetch_label": "晚报"
   },
   {
     "title": "Unifying Workers AI and AI Gateway into a Single AI Control Plane",
@@ -140,6 +183,21 @@
     "fetch_label": "早报"
   },
   {
+    "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+    "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+    "source": "TechCrunch AI",
+    "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+    "published_at": "2026-08-10 20:04",
+    "tags": [
+      "AI",
+      "Startups",
+      "TC",
+      "openclaw"
+    ],
+    "fetch_date": "2026-08-11",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
     "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
     "source": "TechCrunch AI",
@@ -152,6 +210,42 @@
       "Exclusive"
     ],
     "fetch_date": "2026-08-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
+    "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+    "source": "The Verge AI",
+    "summary": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter. The lengthy manifesto Zuckerberg published on Monday, titled \"The Future is for Everyone,\" broadly lays out his beliefs about how the [&#8230;]",
+    "published_at": "2026-08-10 11:19",
+    "tags": [
+      "AI",
+      "Meta",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-08-11",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "What happens to Bose when headphones become AI?",
+    "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+    "source": "The Verge AI",
+    "summary": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to consumers, and its focus on research and development has led it to be a leader in both [&#8230;]",
+    "published_at": "2026-08-10 10:00",
+    "tags": [
+      "AI",
+      "Audio",
+      "Bose",
+      "Business",
+      "Decoder",
+      "Gadgets",
+      "Headphones",
+      "Podcasts",
+      "Tech",
+      "Wearable"
+    ],
+    "fetch_date": "2026-08-11",
     "fetch_label": "晚报"
   },
   {
@@ -35188,65 +35282,5 @@
     "tags": [],
     "fetch_date": "2026-04-19",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "Need some suggestions and ideas on agricultural using AI",
-    "url": "https://news.ycombinator.com/item?id=47823272",
-    "source": "Hacker News AI",
-    "summary": "Comments URL: https://news.ycombinator.com/item?id=47823272 Points: 1 # Comments: 0",
-    "published_at": "2026-04-19 10:36",
-    "tags": [],
-    "fetch_date": "2026-04-19",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: AI Primer – A Searchable AI Changelog for AI Engineers and Creatives",
-    "url": "https://www.ai-primer.com",
-    "source": "Hacker News AI",
-    "summary": "My girlfriend and I built this because we kept losing chunks of the day to \"catching up on AI.\"We're both building AI products in production. We both get a huge buzz out of being on X, and our day-to-day work changes meaningfully based on what we find that day.We built AI Primer to get the benefit of being on X but with the focus of a curated feed. You can catch up when you want without the anxiety of missing something if you skip a day on X.It’s closer to a changelog than a newsletter. Dated en",
-    "published_at": "2026-04-19 09:12",
-    "tags": [],
-    "fetch_date": "2026-04-19",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "ChatGPT vs. Gemini vs. Claude: The Best LLM Subscription You Should Buy",
-    "url": "https://www.artificialintelligencemadesimple.com/p/chatgpt-vs-gemini-vs-claude-the-best",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.artificialintelligencemadesimple.com/p/chatgpt-vs-gemini-vs-claude-the-best Comments URL: https://news.ycombinator.com/item?id=47821378 Points: 1 # Comments: 0",
-    "published_at": "2026-04-19 02:38",
-    "tags": [],
-    "fetch_date": "2026-04-19",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Loomfeed – where AI agents and humans post and vote as equals",
-    "url": "https://www.loomfeed.com",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.loomfeed.com Comments URL: https://news.ycombinator.com/item?id=47821365 Points: 1 # Comments: 0",
-    "published_at": "2026-04-19 02:36",
-    "tags": [],
-    "fetch_date": "2026-04-19",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: 5-translation RAG matrix fixing LLM religious hallucinations",
-    "url": "https://github.com/salaamalykum/quran-semantic-search",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/salaamalykum/quran-semantic-search Comments URL: https://news.ycombinator.com/item?id=47821239 Points: 2 # Comments: 0",
-    "published_at": "2026-04-19 02:07",
-    "tags": [],
-    "fetch_date": "2026-04-19",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "TensorRT LLM",
-    "url": "https://github.com/NVIDIA/TensorRT-LLM",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/NVIDIA/TensorRT-LLM Comments URL: https://news.ycombinator.com/item?id=47821198 Points: 2 # Comments: 0",
-    "published_at": "2026-04-19 01:58",
-    "tags": [],
-    "fetch_date": "2026-04-19",
-    "fetch_label": "早报"
   }
 ]
