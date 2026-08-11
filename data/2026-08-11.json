@@ -1,0 +1,153 @@
+{
+  "date": "2026-08-11",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-08-11 09:56:34",
+      "count": 16,
+      "articles": [
+        {
+          "title": "Show HN: SendPage – turn AI-generated HTML into a shareable link",
+          "url": "https://sendpageapp.com",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://sendpageapp.com Comments URL: https://news.ycombinator.com/item?id=49252349 Points: 1 # Comments: 0",
+          "published_at": "2026-08-11 01:43",
+          "tags": []
+        },
+        {
+          "title": "Sprout – easily build an app with AI, share it, and use other apps",
+          "url": "https://sprout.monkeyai.io/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://sprout.monkeyai.io/ Comments URL: https://news.ycombinator.com/item?id=49252236 Points: 1 # Comments: 1",
+          "published_at": "2026-08-11 01:29",
+          "tags": []
+        },
+        {
+          "title": "Predicting AI Job Exposure",
+          "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure Comments URL: https://news.ycombinator.com/item?id=49252132 Points: 1 # Comments: 0",
+          "published_at": "2026-08-11 01:16",
+          "tags": []
+        },
+        {
+          "title": "Google's AI Team Tells Job Seekers Its HR Filters Are Unreliable",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-10/google-s-ai-team-tells-job-seekers-its-hr-filters-are-unreliable",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-10/google-s-ai-team-tells-job-seekers-its-hr-filters-are-unreliable Comments URL: https://news.ycombinator.com/item?id=49252111 Points: 3 # Comments: 1",
+          "published_at": "2026-08-11 01:14",
+          "tags": []
+        },
+        {
+          "title": "Using AI while exercising your critical thinking",
+          "url": "https://swiftrocks.com/using-ai-without-losing-critical-thinking",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://swiftrocks.com/using-ai-without-losing-critical-thinking Comments URL: https://news.ycombinator.com/item?id=49251852 Points: 1 # Comments: 0",
+          "published_at": "2026-08-11 00:45",
+          "tags": []
+        },
+        {
+          "title": "AI Coding and Its Discontents",
+          "url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://calnewport.com/on-ai-coding-and-its-discontents/ Comments URL: https://news.ycombinator.com/item?id=49251757 Points: 3 # Comments: 0",
+          "published_at": "2026-08-11 00:33",
+          "tags": []
+        },
+        {
+          "title": "The AI Slop Backlash Is Having an Impact",
+          "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/ Comments URL: https://news.ycombinator.com/item?id=49251601 Points: 6 # Comments: 0",
+          "published_at": "2026-08-11 00:10",
+          "tags": []
+        },
+        {
+          "title": "Unifying Workers AI and AI Gateway into a Single AI Control Plane",
+          "url": "https://blog.cloudflare.com/workers-ai-gateway-unification/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blog.cloudflare.com/workers-ai-gateway-unification/ Comments URL: https://news.ycombinator.com/item?id=49251541 Points: 1 # Comments: 0",
+          "published_at": "2026-08-11 00:01",
+          "tags": []
+        },
+        {
+          "title": "People don't hate AI because of Zuck. They hate the version TechCrunch sells",
+          "url": "https://runtimewire.com/article/people-don-t-hate-ai-because-of-zuckerberg-they-hate-the-version-techcrunch-sell",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://runtimewire.com/article/people-don-t-hate-ai-because-of-zuckerberg-they-hate-the-version-techcrunch-sell Comments URL: https://news.ycombinator.com/item?id=49251375 Points: 2 # Comments: 1",
+          "published_at": "2026-08-10 23:39",
+          "tags": []
+        },
+        {
+          "title": "VectorGrid Core – Bare-metal C++ grid orchestration for AI data centers",
+          "url": "https://github.com/MaximiH-86/GridPulse_Production_Server",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/MaximiH-86/GridPulse_Production_Server Comments URL: https://news.ycombinator.com/item?id=49251282 Points: 1 # Comments: 0",
+          "published_at": "2026-08-10 23:29",
+          "tags": []
+        },
+        {
+          "title": "Text AI watermarks will always be trivial to remove",
+          "url": "https://www.seangoedecke.com/text-ai-watermarks/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.seangoedecke.com/text-ai-watermarks/ Comments URL: https://news.ycombinator.com/item?id=49251153 Points: 4 # Comments: 1",
+          "published_at": "2026-08-10 23:12",
+          "tags": []
+        },
+        {
+          "title": "Learning Sed or Using Claude?",
+          "url": "https://playtechnique.io/blog/learning-sed-or-using-claude.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://playtechnique.io/blog/learning-sed-or-using-claude.html Comments URL: https://news.ycombinator.com/item?id=49250994 Points: 2 # Comments: 4",
+          "published_at": "2026-08-10 22:52",
+          "tags": []
+        },
+        {
+          "title": "Bernie Sanders calls for AI development pause",
+          "url": "https://www.axios.com/2026/08/10/sanders-ai-development-pause",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.axios.com/2026/08/10/sanders-ai-development-pause Comments URL: https://news.ycombinator.com/item?id=49250822 Points: 1 # Comments: 0",
+          "published_at": "2026-08-10 22:35",
+          "tags": []
+        },
+        {
+          "title": "Catholic expert: \"Security issues show AI needs greater human oversight\"",
+          "url": "https://www.detroitcatholic.com/news/security-issues-show-ai-needs-greater-human-oversight-say-catholic-experts",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.detroitcatholic.com/news/security-issues-show-ai-needs-greater-human-oversight-say-catholic-experts Comments URL: https://news.ycombinator.com/item?id=49250691 Points: 5 # Comments: 4",
+          "published_at": "2026-08-10 22:24",
+          "tags": []
+        },
+        {
+          "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+          "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+          "source": "TechCrunch AI",
+          "summary": "The AI-focused hedge fund is still making some big bets.",
+          "published_at": "2026-08-09 20:35",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "In Brief",
+            "situational awareness"
+          ]
+        },
+        {
+          "title": "The AI safety test is becoming a safety risk",
+          "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+          "source": "TechCrunch AI",
+          "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards, and regulation can keep pace with increasingly powerful models.",
+          "published_at": "2026-08-09 14:30",
+          "tags": [
+            "AI",
+            "Security",
+            "Meta",
+            "cybersecurity",
+            "OpenAI",
+            "Hugging Face",
+            "Anthropic"
+          ]
+        }
+      ]
+    }
+  ]
+}
