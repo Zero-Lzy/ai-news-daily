@@ -1,5 +1,223 @@
 [
   {
+    "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is AI",
+    "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/ Comments URL: https://news.ycombinator.com/item?id=49267057 Points: 1 # Comments: 0",
+    "published_at": "2026-08-12 02:05",
+    "tags": [],
+    "fetch_date": "2026-08-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Numbat by Perplexity: Endpoint visibility into AI agent activity",
+    "url": "https://github.com/perplexityai/numbat",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/perplexityai/numbat Comments URL: https://news.ycombinator.com/item?id=49267022 Points: 1 # Comments: 0",
+    "published_at": "2026-08-12 02:00",
+    "tags": [],
+    "fetch_date": "2026-08-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "4Chan Chuds Used AI to Clothe Her. She Fought Back (2024)",
+    "url": "https://www.rollingstone.com/culture/culture-news/dignifai-4chan-shame-women-1234961851/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.rollingstone.com/culture/culture-news/dignifai-4chan-shame-women-1234961851/ Comments URL: https://news.ycombinator.com/item?id=49267010 Points: 2 # Comments: 0",
+    "published_at": "2026-08-12 01:57",
+    "tags": [],
+    "fetch_date": "2026-08-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+    "url": "https://arxiv.org/abs/2608.09867",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2608.09867 Comments URL: https://news.ycombinator.com/item?id=49267000 Points: 1 # Comments: 0",
+    "published_at": "2026-08-12 01:56",
+    "tags": [],
+    "fetch_date": "2026-08-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "I built a failover daemon for Vast.ai spot GPUs, found 5 real bugs testing it",
+    "url": "https://github.com/enplabs/spotwarp",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/enplabs/spotwarp Comments URL: https://news.ycombinator.com/item?id=49266845 Points: 1 # Comments: 0",
+    "published_at": "2026-08-12 01:34",
+    "tags": [],
+    "fetch_date": "2026-08-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Diabetes charity capitalises on AI technology",
+    "url": "https://www.royalgazette.com/health/news/article/20260811/diabetes-charity-capitalises-on-ai-technology/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.royalgazette.com/health/news/article/20260811/diabetes-charity-capitalises-on-ai-technology/ Comments URL: https://news.ycombinator.com/item?id=49266279 Points: 2 # Comments: 0",
+    "published_at": "2026-08-12 00:19",
+    "tags": [],
+    "fetch_date": "2026-08-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Open AI models hacked into HuggingFace",
+    "url": "https://www.instagram.com/p/DbGS8_0FmKx/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.instagram.com/p/DbGS8_0FmKx/ Comments URL: https://news.ycombinator.com/item?id=49266096 Points: 2 # Comments: 0",
+    "published_at": "2026-08-11 23:54",
+    "tags": [],
+    "fetch_date": "2026-08-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Is Dead. Organoids Are Alive",
+    "url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/ Comments URL: https://news.ycombinator.com/item?id=49266068 Points: 2 # Comments: 0",
+    "published_at": "2026-08-11 23:51",
+    "tags": [],
+    "fetch_date": "2026-08-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Adoption Is a Myth",
+    "url": "https://twitter.com/vasuman/status/2085806422072418632",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/vasuman/status/2085806422072418632 Comments URL: https://news.ycombinator.com/item?id=49265856 Points: 1 # Comments: 0",
+    "published_at": "2026-08-11 23:23",
+    "tags": [],
+    "fetch_date": "2026-08-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Frontier.fast – Help push the frontier of LLM speed forward",
+    "url": "https://frontier.fast/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://frontier.fast/ Comments URL: https://news.ycombinator.com/item?id=49265738 Points: 1 # Comments: 0",
+    "published_at": "2026-08-11 23:10",
+    "tags": [],
+    "fetch_date": "2026-08-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "LLM Model-Swapping Trick Can Expose AI Reasoning Traces",
+    "url": "https://ai-updates.net/model-swapping-exposes-ai-reasoning-traces/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://ai-updates.net/model-swapping-exposes-ai-reasoning-traces/ Comments URL: https://news.ycombinator.com/item?id=49265641 Points: 2 # Comments: 0",
+    "published_at": "2026-08-11 22:57",
+    "tags": [],
+    "fetch_date": "2026-08-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "LLM Inference lecture series [video]",
+    "url": "https://www.youtube.com/watch?v=Yf51-__QeN8&list=PL5vCjAyS9QP_Pze76CYAlidc0hpdTXFLV",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=Yf51-__QeN8&amp;list=PL5vCjAyS9QP_Pze76CYAlidc0hpdTXFLV Comments URL: https://news.ycombinator.com/item?id=49265513 Points: 2 # Comments: 0",
+    "published_at": "2026-08-11 22:43",
+    "tags": [],
+    "fetch_date": "2026-08-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI vibe coded game projects suck",
+    "url": "https://asecretarea.com/2026/08/10/ai-vibe-coded-game-projects-suck/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://asecretarea.com/2026/08/10/ai-vibe-coded-game-projects-suck/ Comments URL: https://news.ycombinator.com/item?id=49265432 Points: 2 # Comments: 0",
+    "published_at": "2026-08-11 22:36",
+    "tags": [],
+    "fetch_date": "2026-08-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+    "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+    "source": "TechCrunch AI",
+    "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+    "published_at": "2026-08-11 21:39",
+    "tags": [
+      "AI",
+      "Venture",
+      "Accel"
+    ],
+    "fetch_date": "2026-08-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+    "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+    "source": "The Verge AI",
+    "summary": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine. The writer, Stella Sacco, says differently, however, posting on Bluesky that \"I was lead writer on this one! [&#8230;]",
+    "published_at": "2026-08-11 20:39",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Gaming",
+      "News"
+    ],
+    "fetch_date": "2026-08-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Google’s Gemini app surges to 1 billion users",
+    "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+    "source": "TechCrunch AI",
+    "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
+    "published_at": "2026-08-11 18:49",
+    "tags": [
+      "AI",
+      "Apps",
+      "gemini",
+      "Google"
+    ],
+    "fetch_date": "2026-08-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+    "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+    "source": "TechCrunch AI",
+    "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+    "published_at": "2026-08-11 17:41",
+    "tags": [
+      "AI",
+      "Brad Lightcap",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-08-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+    "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+    "source": "TechCrunch AI",
+    "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+    "published_at": "2026-08-11 17:41",
+    "tags": [
+      "AI",
+      "Startups",
+      "TC",
+      "General Catalyst"
+    ],
+    "fetch_date": "2026-08-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "ChatGPT and Gemini both just passed 1 billion users",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+    "source": "The Verge AI",
+    "summary": "For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever. A billion users is a huge milestone, but Google isn't the first AI app to hit it. OpenAI's ChatGPT [&#8230;]",
+    "published_at": "2026-08-11 15:41",
+    "tags": [
+      "AI",
+      "Google",
+      "OpenAI",
+      "Tech"
+    ],
+    "fetch_date": "2026-08-12",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
     "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
     "source": "TechCrunch AI",
@@ -12,6 +230,37 @@
     ],
     "fetch_date": "2026-08-11",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+    "source": "The Verge AI",
+    "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the flaw using \"fewer than 20 prompts on publicly available AI models,\" as reported earlier by Wired. The exploit involved Zoom's annotation feature, [&#8230;]",
+    "published_at": "2026-08-11 10:45",
+    "tags": [
+      "AI",
+      "Apps",
+      "Security",
+      "Tech"
+    ],
+    "fetch_date": "2026-08-12",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
+    "url": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
+    "source": "The Verge AI",
+    "summary": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's profile across the app if they do \"not represent a real person.\" The music streaming platform will allow artists to disclose that they're [&#8230;]",
+    "published_at": "2026-08-11 09:00",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Music",
+      "News",
+      "Spotify"
+    ],
+    "fetch_date": "2026-08-12",
+    "fetch_label": "早报"
   },
   {
     "title": "The AI takeover of mathematics has begun",
@@ -35043,244 +35292,5 @@
     "tags": [],
     "fetch_date": "2026-04-20",
     "fetch_label": "早报"
-  },
-  {
-    "title": "Headless Everything for Personal AI",
-    "url": "https://interconnected.org/home/2026/04/18/headless",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://interconnected.org/home/2026/04/18/headless Comments URL: https://news.ycombinator.com/item?id=47828282 Points: 4 # Comments: 0",
-    "published_at": "2026-04-19 22:38",
-    "tags": [],
-    "fetch_date": "2026-04-20",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Ex-CEO, ex-CFO of bankrupt AI company charged with fraud",
-    "url": "https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/ Comments URL: https://news.ycombinator.com/item?id=47828225 Points: 139 # Comments: 59",
-    "published_at": "2026-04-19 22:30",
-    "tags": [],
-    "fetch_date": "2026-04-20",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Why your AI assistant is suddenly selling to you",
-    "url": "https://www.economist.com/business/2026/04/19/why-your-ai-assistant-is-suddenly-selling-to-you",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.economist.com/business/2026/04/19/why-your-ai-assistant-is-suddenly-selling-to-you Comments URL: https://news.ycombinator.com/item?id=47827950 Points: 2 # Comments: 0",
-    "published_at": "2026-04-19 21:52",
-    "tags": [],
-    "fetch_date": "2026-04-20",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Auxx.ai – Customer Support CRM (Mix of Attio and N8n)",
-    "url": "https://auxx.ai",
-    "source": "Hacker News AI",
-    "summary": "Hey HN! Markus here. I have been building a Customer Support CRM for the last 12 months to help my dad's business.He was drowning in support messages (dealing with returns, product questions, sales, etc) and didn’t have a good way to organize and attack them, often forgetting to respond.We tried attio, freshworks, n8n for some automations. I liked n8n a lot but I didn’t want to leave to another app to view messages and customer info. Tried to build bridges via Google Sheets and Airtable and then",
-    "published_at": "2026-04-19 21:49",
-    "tags": [],
-    "fetch_date": "2026-04-20",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI's New Training Data: Your Old Work Slacks and Emails",
-    "url": "https://www.forbes.com/sites/annatong/2026/04/16/ais-new-training-data-your-old-work-slacks-and-emails/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.forbes.com/sites/annatong/2026/04/16/ais-new-training-data-your-old-work-slacks-and-emails/ Comments URL: https://news.ycombinator.com/item?id=47827792 Points: 2 # Comments: 0",
-    "published_at": "2026-04-19 21:30",
-    "tags": [],
-    "fetch_date": "2026-04-20",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "OpenAI’s existential questions",
-    "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
-    "source": "TechCrunch AI",
-    "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
-    "published_at": "2026-04-19 21:24",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "Equity podcast",
-      "OpenAI"
-    ],
-    "fetch_date": "2026-04-20",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The 12-month window",
-    "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
-    "source": "TechCrunch AI",
-    "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
-    "published_at": "2026-04-19 19:30",
-    "tags": [
-      "AI",
-      "Startups",
-      "Venture",
-      "Elad Gil",
-      "No Priors",
-      "Sarah Guo"
-    ],
-    "fetch_date": "2026-04-20",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
-    "url": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
-    "source": "TechCrunch AI",
-    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
-    "published_at": "2026-04-19 16:01",
-    "tags": [
-      "Transportation",
-      "AI",
-      "jeff bezos",
-      "slate",
-      "Tesla",
-      "Uber",
-      "eclipse",
-      "Loop",
-      "Waymo",
-      "Rivian",
-      "techcrunch mobility"
-    ],
-    "fetch_date": "2026-04-20",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Cloud development platform Vercel was hacked",
-    "url": "https://www.theverge.com/tech/914723/vercel-hacked",
-    "source": "The Verge AI",
-    "summary": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was behind the recent hack of Rockstar Games, posted some data online, including employee names, email addresses, and activity time stamps. Vercel confirmed [&#8230;]",
-    "published_at": "2026-04-19 15:54",
-    "tags": [
-      "AI",
-      "News",
-      "Security",
-      "Tech"
-    ],
-    "fetch_date": "2026-04-20",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Scan domain for llms.txt LLMs-full.txt AI aware SEO tool",
-    "url": "https://news.ycombinator.com/item?id=47823995",
-    "source": "Hacker News AI",
-    "summary": "Hi! Been working on DialtoneApp, a free domain scanning tool to see how your site does with all the new rules for AI SEO. Also known as AEO (Answer Engine Optimization) or GEO (Generative Engine Optimization) the A can also stand for \"Agent\"! It's a whole new world out there and we haven't even gotten to agents.json files and the new \"b2b\" (bot to bot) commerce part.But there are some standards starting to take shape with llms.txt and using things like:https://dialtoneapp.com/top-sites.md\">on al",
-    "published_at": "2026-04-19 13:01",
-    "tags": [],
-    "fetch_date": "2026-04-19",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Open source contribution and job search as matching markets under AI congestion",
-    "url": "https://e10v.me/matching-markets-congestion/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://e10v.me/matching-markets-congestion/ Comments URL: https://news.ycombinator.com/item?id=47823902 Points: 1 # Comments: 1",
-    "published_at": "2026-04-19 12:46",
-    "tags": [],
-    "fetch_date": "2026-04-19",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI song tops iTunes global charts",
-    "url": "https://www.dexerto.com/entertainment/ai-generated-song-takes-1-spot-on-itunes-global-charts-3353485/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.dexerto.com/entertainment/ai-generated-song-takes-1-spot-on-itunes-global-charts-3353485/ Comments URL: https://news.ycombinator.com/item?id=47823798 Points: 1 # Comments: 0",
-    "published_at": "2026-04-19 12:26",
-    "tags": [],
-    "fetch_date": "2026-04-19",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI vendors' response to security flaws: It wasn't me",
-    "url": "https://www.theregister.com/2026/04/19/ai_vendors_response_to_security/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.theregister.com/2026/04/19/ai_vendors_response_to_security/ Comments URL: https://news.ycombinator.com/item?id=47823779 Points: 1 # Comments: 0",
-    "published_at": "2026-04-19 12:23",
-    "tags": [],
-    "fetch_date": "2026-04-19",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Proposly – AI-generated client proposals for freelancers",
-    "url": "https://proposly.org",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://proposly.org Comments URL: https://news.ycombinator.com/item?id=47823575 Points: 1 # Comments: 0",
-    "published_at": "2026-04-19 11:40",
-    "tags": [],
-    "fetch_date": "2026-04-19",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "America wakes up to AI's dangerous power",
-    "url": "https://www.economist.com/leaders/2026/04/16/america-wakes-up-to-ais-dangerous-power",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.economist.com/leaders/2026/04/16/america-wakes-up-to-ais-dangerous-power Comments URL: https://news.ycombinator.com/item?id=47823542 Points: 2 # Comments: 1",
-    "published_at": "2026-04-19 11:33",
-    "tags": [],
-    "fetch_date": "2026-04-19",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Forecastr – RFC 3161 timestamps for AI forecasts, verifiable with OpenSSL",
-    "url": "https://www.forecastr.dev/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.forecastr.dev/ Comments URL: https://news.ycombinator.com/item?id=47823536 Points: 2 # Comments: 0",
-    "published_at": "2026-04-19 11:32",
-    "tags": [],
-    "fetch_date": "2026-04-19",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Vitality AI Health – blood work, wearables, and DNA unified",
-    "url": "https://vitalityaihealth.com",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://vitalityaihealth.com Comments URL: https://news.ycombinator.com/item?id=47823461 Points: 1 # Comments: 1",
-    "published_at": "2026-04-19 11:17",
-    "tags": [],
-    "fetch_date": "2026-04-19",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Track HN: Comparing 156 LLM Launch Posts on Hacker News",
-    "url": "https://track-hacker-news.com/reports/llm-launches",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://track-hacker-news.com/reports/llm-launches Comments URL: https://news.ycombinator.com/item?id=47823438 Points: 2 # Comments: 0",
-    "published_at": "2026-04-19 11:13",
-    "tags": [],
-    "fetch_date": "2026-04-19",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The Abstraction Fallacy: Why AI Can Simulate But Not Instantiate Consciousness",
-    "url": "https://deepmind.google/research/publications/231971/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://deepmind.google/research/publications/231971/ Comments URL: https://news.ycombinator.com/item?id=47823429 Points: 2 # Comments: 1",
-    "published_at": "2026-04-19 11:11",
-    "tags": [],
-    "fetch_date": "2026-04-19",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Laravel Magika – AI Powered File Type Detection",
-    "url": "https://github.com/megoxv/laravel-magika",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/megoxv/laravel-magika Comments URL: https://news.ycombinator.com/item?id=47823424 Points: 1 # Comments: 0",
-    "published_at": "2026-04-19 11:10",
-    "tags": [],
-    "fetch_date": "2026-04-19",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The AI Chip Owners Explorer",
-    "url": "https://epoch.ai/blog/introducing-the-ai-chip-owners-explorer",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://epoch.ai/blog/introducing-the-ai-chip-owners-explorer Comments URL: https://news.ycombinator.com/item?id=47823355 Points: 5 # Comments: 0",
-    "published_at": "2026-04-19 10:54",
-    "tags": [],
-    "fetch_date": "2026-04-19",
-    "fetch_label": "晚报"
   }
 ]

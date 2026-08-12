@@ -1,0 +1,278 @@
+{
+  "date": "2026-08-12",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-08-12 10:09:46",
+      "count": 26,
+      "articles": [
+        {
+          "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is AI",
+          "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/ Comments URL: https://news.ycombinator.com/item?id=49267057 Points: 1 # Comments: 0",
+          "published_at": "2026-08-12 02:05",
+          "tags": []
+        },
+        {
+          "title": "Numbat by Perplexity: Endpoint visibility into AI agent activity",
+          "url": "https://github.com/perplexityai/numbat",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/perplexityai/numbat Comments URL: https://news.ycombinator.com/item?id=49267022 Points: 1 # Comments: 0",
+          "published_at": "2026-08-12 02:00",
+          "tags": []
+        },
+        {
+          "title": "4Chan Chuds Used AI to Clothe Her. She Fought Back (2024)",
+          "url": "https://www.rollingstone.com/culture/culture-news/dignifai-4chan-shame-women-1234961851/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.rollingstone.com/culture/culture-news/dignifai-4chan-shame-women-1234961851/ Comments URL: https://news.ycombinator.com/item?id=49267010 Points: 2 # Comments: 0",
+          "published_at": "2026-08-12 01:57",
+          "tags": []
+        },
+        {
+          "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+          "url": "https://arxiv.org/abs/2608.09867",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2608.09867 Comments URL: https://news.ycombinator.com/item?id=49267000 Points: 1 # Comments: 0",
+          "published_at": "2026-08-12 01:56",
+          "tags": []
+        },
+        {
+          "title": "Advanced AI Sycophancy",
+          "url": "https://www.seangoedecke.com/advanced-ai-sycophancy/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.seangoedecke.com/advanced-ai-sycophancy/ Comments URL: https://news.ycombinator.com/item?id=49266865 Points: 2 # Comments: 0",
+          "published_at": "2026-08-12 01:38",
+          "tags": []
+        },
+        {
+          "title": "I built a failover daemon for Vast.ai spot GPUs, found 5 real bugs testing it",
+          "url": "https://github.com/enplabs/spotwarp",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/enplabs/spotwarp Comments URL: https://news.ycombinator.com/item?id=49266845 Points: 1 # Comments: 0",
+          "published_at": "2026-08-12 01:34",
+          "tags": []
+        },
+        {
+          "title": "Diabetes charity capitalises on AI technology",
+          "url": "https://www.royalgazette.com/health/news/article/20260811/diabetes-charity-capitalises-on-ai-technology/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.royalgazette.com/health/news/article/20260811/diabetes-charity-capitalises-on-ai-technology/ Comments URL: https://news.ycombinator.com/item?id=49266279 Points: 2 # Comments: 0",
+          "published_at": "2026-08-12 00:19",
+          "tags": []
+        },
+        {
+          "title": "Open AI models hacked into HuggingFace",
+          "url": "https://www.instagram.com/p/DbGS8_0FmKx/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.instagram.com/p/DbGS8_0FmKx/ Comments URL: https://news.ycombinator.com/item?id=49266096 Points: 2 # Comments: 0",
+          "published_at": "2026-08-11 23:54",
+          "tags": []
+        },
+        {
+          "title": "AI Is Dead. Organoids Are Alive",
+          "url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/ Comments URL: https://news.ycombinator.com/item?id=49266068 Points: 2 # Comments: 0",
+          "published_at": "2026-08-11 23:51",
+          "tags": []
+        },
+        {
+          "title": "AI Adoption Is a Myth",
+          "url": "https://twitter.com/vasuman/status/2085806422072418632",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://twitter.com/vasuman/status/2085806422072418632 Comments URL: https://news.ycombinator.com/item?id=49265856 Points: 1 # Comments: 0",
+          "published_at": "2026-08-11 23:23",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Frontier.fast – Help push the frontier of LLM speed forward",
+          "url": "https://frontier.fast/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://frontier.fast/ Comments URL: https://news.ycombinator.com/item?id=49265738 Points: 1 # Comments: 0",
+          "published_at": "2026-08-11 23:10",
+          "tags": []
+        },
+        {
+          "title": "LLM Model-Swapping Trick Can Expose AI Reasoning Traces",
+          "url": "https://ai-updates.net/model-swapping-exposes-ai-reasoning-traces/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://ai-updates.net/model-swapping-exposes-ai-reasoning-traces/ Comments URL: https://news.ycombinator.com/item?id=49265641 Points: 2 # Comments: 0",
+          "published_at": "2026-08-11 22:57",
+          "tags": []
+        },
+        {
+          "title": "LLM Inference lecture series [video]",
+          "url": "https://www.youtube.com/watch?v=Yf51-__QeN8&list=PL5vCjAyS9QP_Pze76CYAlidc0hpdTXFLV",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=Yf51-__QeN8&amp;list=PL5vCjAyS9QP_Pze76CYAlidc0hpdTXFLV Comments URL: https://news.ycombinator.com/item?id=49265513 Points: 2 # Comments: 0",
+          "published_at": "2026-08-11 22:43",
+          "tags": []
+        },
+        {
+          "title": "AI vibe coded game projects suck",
+          "url": "https://asecretarea.com/2026/08/10/ai-vibe-coded-game-projects-suck/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://asecretarea.com/2026/08/10/ai-vibe-coded-game-projects-suck/ Comments URL: https://news.ycombinator.com/item?id=49265432 Points: 2 # Comments: 0",
+          "published_at": "2026-08-11 22:36",
+          "tags": []
+        },
+        {
+          "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+          "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+          "source": "TechCrunch AI",
+          "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+          "published_at": "2026-08-11 21:39",
+          "tags": [
+            "AI",
+            "Venture",
+            "Accel"
+          ]
+        },
+        {
+          "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+          "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+          "source": "The Verge AI",
+          "summary": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine. The writer, Stella Sacco, says differently, however, posting on Bluesky that \"I was lead writer on this one! [&#8230;]",
+          "published_at": "2026-08-11 20:39",
+          "tags": [
+            "AI",
+            "Entertainment",
+            "Gaming",
+            "News"
+          ]
+        },
+        {
+          "title": "Google’s Gemini app surges to 1 billion users",
+          "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+          "source": "TechCrunch AI",
+          "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
+          "published_at": "2026-08-11 18:49",
+          "tags": [
+            "AI",
+            "Apps",
+            "gemini",
+            "Google"
+          ]
+        },
+        {
+          "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+          "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+          "source": "TechCrunch AI",
+          "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+          "published_at": "2026-08-11 17:41",
+          "tags": [
+            "AI",
+            "Brad Lightcap",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+          "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+          "source": "TechCrunch AI",
+          "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+          "published_at": "2026-08-11 17:41",
+          "tags": [
+            "AI",
+            "Startups",
+            "TC",
+            "General Catalyst"
+          ]
+        },
+        {
+          "title": "ChatGPT and Gemini both just passed 1 billion users",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+          "source": "The Verge AI",
+          "summary": "For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever. A billion users is a huge milestone, but Google isn't the first AI app to hit it. OpenAI's ChatGPT [&#8230;]",
+          "published_at": "2026-08-11 15:41",
+          "tags": [
+            "AI",
+            "Google",
+            "OpenAI",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+          "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+          "source": "TechCrunch AI",
+          "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
+          "published_at": "2026-08-11 13:00",
+          "tags": [
+            "AI",
+            "Media & Entertainment",
+            "Spotify"
+          ]
+        },
+        {
+          "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+          "source": "The Verge AI",
+          "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the flaw using \"fewer than 20 prompts on publicly available AI models,\" as reported earlier by Wired. The exploit involved Zoom's annotation feature, [&#8230;]",
+          "published_at": "2026-08-11 10:45",
+          "tags": [
+            "AI",
+            "Apps",
+            "Security",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
+          "url": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
+          "source": "The Verge AI",
+          "summary": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's profile across the app if they do \"not represent a real person.\" The music streaming platform will allow artists to disclose that they're [&#8230;]",
+          "published_at": "2026-08-11 09:00",
+          "tags": [
+            "AI",
+            "Entertainment",
+            "Music",
+            "News",
+            "Spotify"
+          ]
+        },
+        {
+          "title": "The AI takeover of mathematics has begun",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+          "source": "The Verge AI",
+          "summary": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's been grappling with the future of his field as the traditionally slow-moving discipline hurries to adapt to AI. Days before we spoke, [&#8230;]",
+          "published_at": "2026-08-11 07:00",
+          "tags": [
+            "AI",
+            "OpenAI",
+            "Report",
+            "Tech"
+          ]
+        },
+        {
+          "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+          "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+          "source": "TechCrunch AI",
+          "summary": "San Francisco's housing market is in trouble again.",
+          "published_at": "2026-08-11 00:03",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "In Brief",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+          "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+          "source": "TechCrunch AI",
+          "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+          "published_at": "2026-08-10 20:04",
+          "tags": [
+            "AI",
+            "Startups",
+            "TC",
+            "openclaw"
+          ]
+        }
+      ]
+    }
+  ]
+}
