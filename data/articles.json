@@ -1,5 +1,115 @@
 [
   {
+    "title": "Choosing an AI model: one prompt, 11 models, different results",
+    "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.netlify.com/blog/one-prompt-11-models-very-different-results/ Comments URL: https://news.ycombinator.com/item?id=49285327 Points: 2 # Comments: 0",
+    "published_at": "2026-08-13 13:05",
+    "tags": [],
+    "fetch_date": "2026-08-13",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Read the Room – a social LLM puzzle",
+    "url": "https://ilia-iliev.itch.io/read-the-room",
+    "source": "Hacker News AI",
+    "summary": "I built this to explore whether LLM can work for social games.Each scenario has 3-4 characters. There is a relationship matrix (character-to-character) and each turn this is shifted. The game interprets what happened, updates the relationship matrix, and determines whether the objective has succeeded or failed.It’s free, works in the browser, and requires no account. I store the chats and telemetry.I'm not sure how novel this is but I haven't found existing group chats convincing and wanted to e",
+    "published_at": "2026-08-13 12:57",
+    "tags": [],
+    "fetch_date": "2026-08-13",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Free private memory across every AI you use on-device",
+    "url": "https://sovseal.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://sovseal.com/ Comments URL: https://news.ycombinator.com/item?id=49285061 Points: 1 # Comments: 0",
+    "published_at": "2026-08-13 12:40",
+    "tags": [],
+    "fetch_date": "2026-08-13",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Trying to fill out a PDF with AI",
+    "url": "https://twitter.com/DanielLockyer/status/2087542891677671526",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/DanielLockyer/status/2087542891677671526 Comments URL: https://news.ycombinator.com/item?id=49285007 Points: 1 # Comments: 0",
+    "published_at": "2026-08-13 12:35",
+    "tags": [],
+    "fetch_date": "2026-08-13",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: AI Flight Recorder – record, replay, and track AI session costs",
+    "url": "https://github.com/AllThingsSmitty/ai-flight-recorder",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/AllThingsSmitty/ai-flight-recorder Comments URL: https://news.ycombinator.com/item?id=49284938 Points: 2 # Comments: 0",
+    "published_at": "2026-08-13 12:30",
+    "tags": [],
+    "fetch_date": "2026-08-13",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: RBEK – governed execution for AI agent",
+    "url": "https://github.com/rbekplatform/rbek",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/rbekplatform/rbek Comments URL: https://news.ycombinator.com/item?id=49284886 Points: 1 # Comments: 1",
+    "published_at": "2026-08-13 12:24",
+    "tags": [],
+    "fetch_date": "2026-08-13",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Rogue AI Agents Aren't Evil. They're Just Eager to Please",
+    "url": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wired.com/story/rogue-ai-is-just-misunderstood/ Comments URL: https://news.ycombinator.com/item?id=49284801 Points: 1 # Comments: 0",
+    "published_at": "2026-08-13 12:14",
+    "tags": [],
+    "fetch_date": "2026-08-13",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: I graded 83 AI vendors on data residency, training and subprocessors",
+    "url": "https://sovereignairegistry.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://sovereignairegistry.com Comments URL: https://news.ycombinator.com/item?id=49284787 Points: 2 # Comments: 0",
+    "published_at": "2026-08-13 12:12",
+    "tags": [],
+    "fetch_date": "2026-08-13",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Apple in Talks to Pay Publishers to Improve AI-Powered Siri",
+    "url": "https://www.wsj.com/business/media/apple-in-talks-to-pay-publishers-to-improve-ai-powered-siri-0641f64b",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wsj.com/business/media/apple-in-talks-to-pay-publishers-to-improve-ai-powered-siri-0641f64b Comments URL: https://news.ycombinator.com/item?id=49284325 Points: 1 # Comments: 0",
+    "published_at": "2026-08-13 11:17",
+    "tags": [],
+    "fetch_date": "2026-08-13",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: AI Store Builder",
+    "url": "https://app.chisels.dev",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://app.chisels.dev Comments URL: https://news.ycombinator.com/item?id=49284214 Points: 1 # Comments: 0",
+    "published_at": "2026-08-13 11:04",
+    "tags": [],
+    "fetch_date": "2026-08-13",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI's Threat to Science Media Archives",
+    "url": "https://www.birdsoutsidemywindow.org/2026/08/12/ais-threat-to-science-media-archives/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.birdsoutsidemywindow.org/2026/08/12/ais-threat-to-science-media-archives/ Comments URL: https://news.ycombinator.com/item?id=49284083 Points: 2 # Comments: 0",
+    "published_at": "2026-08-13 10:49",
+    "tags": [],
+    "fetch_date": "2026-08-13",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Anthropic in Talks to Buy World Model AI Startup Decart for $6B",
     "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
     "source": "Hacker News AI",
@@ -130,6 +240,23 @@
     ],
     "fetch_date": "2026-08-13",
     "fetch_label": "早报"
+  },
+  {
+    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+    "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+    "source": "TechCrunch AI",
+    "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
+    "published_at": "2026-08-12 17:51",
+    "tags": [
+      "AI",
+      "andrew ng",
+      "Artificial Intelligence (AI)",
+      "Fei-Fei Li",
+      "Geoffrey Hinton",
+      "tech regulation"
+    ],
+    "fetch_date": "2026-08-13",
+    "fetch_label": "晚报"
   },
   {
     "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
@@ -35161,171 +35288,5 @@
     ],
     "fetch_date": "2026-04-22",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
-    "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
-    "source": "TechCrunch AI",
-    "summary": "The move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI — the same companies now competing directly with Cursor for the developer market.",
-    "published_at": "2026-04-21 22:58",
-    "tags": [
-      "AI",
-      "cursor",
-      "Elon Musk",
-      "SpaceX"
-    ],
-    "fetch_date": "2026-04-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
-    "url": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
-    "source": "TechCrunch AI",
-    "summary": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
-    "published_at": "2026-04-21 19:11",
-    "tags": [
-      "AI",
-      "Startups",
-      "AI agents",
-      "AI Lab",
-      "researchers"
-    ],
-    "fetch_date": "2026-04-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
-    "url": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
-    "source": "TechCrunch AI",
-    "summary": "This week, during a podcast appearance, OpenAI CEO Sam Altman called out his competitor's new cybersecurity model, noting that the company was using fear to make its product sound more impressive than it actually is.",
-    "published_at": "2026-04-21 18:51",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "In Brief",
-      "Mythos",
-      "OpenAI",
-      "sam altman"
-    ],
-    "fetch_date": "2026-04-22",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "YouTube expands its AI likeness detection technology to celebrities",
-    "url": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
-    "source": "TechCrunch AI",
-    "summary": "YouTube is expanding its AI likeness detection tool to celebrities, giving talent and their reps a way to find and remove deepfakes.",
-    "published_at": "2026-04-21 15:02",
-    "tags": [
-      "AI",
-      "Media & Entertainment",
-      "YouTube",
-      "Hollywood",
-      "Celebs",
-      "likeness",
-      "deepfake"
-    ],
-    "fetch_date": "2026-04-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI backlash is coming for elections",
-    "url": "https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs",
-    "source": "The Verge AI",
-    "summary": "Ask Americans how they feel about AI and most say they have concerns. Communities have mounted resistance to data center projects, stalling them across the US. On social media, anger at AI companies and executives is unrestrained - sometimes to the point of condoning violence. But look at the issues that most campaigns are focused [&#8230;]",
-    "published_at": "2026-04-21 15:00",
-    "tags": [
-      "AI",
-      "Policy",
-      "Politics",
-      "Report"
-    ],
-    "fetch_date": "2026-04-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "GRAI believes AI can make music more social, not replace artists",
-    "url": "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/",
-    "source": "TechCrunch AI",
-    "summary": "AI music startup GRAI says fans want to remix tracks, not generate songs from scratch.",
-    "published_at": "2026-04-21 13:00",
-    "tags": [
-      "TC",
-      "Media & Entertainment",
-      "AI",
-      "Apps",
-      "Social",
-      "Music",
-      "Remix",
-      "social apps"
-    ],
-    "fetch_date": "2026-04-21",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "John Ternus’s first big problem is AI",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri",
-    "source": "The Verge AI",
-    "summary": "Less than a year ago, Apple made headlines for a lack of AI announcements at its annual WWDC event. Ten months later, the company has announced that hardware executive John Ternus will succeed longtime CEO Tim Cook as chief executive - and the official release doesn't mention AI once. Ternus, currently Apple's SVP of hardware [&#8230;]",
-    "published_at": "2026-04-21 09:37",
-    "tags": [
-      "AI",
-      "Analysis",
-      "Apple",
-      "Report",
-      "Tech"
-    ],
-    "fetch_date": "2026-04-21",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Pause – an AI that assigns YOU tasks",
-    "url": "https://www.pause.build/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.pause.build/ Comments URL: https://news.ycombinator.com/item?id=47843905 Points: 1 # Comments: 0",
-    "published_at": "2026-04-21 02:44",
-    "tags": [],
-    "fetch_date": "2026-04-21",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Palmier – bridge your AI agents and your phone",
-    "url": "https://github.com/caihongxu/palmier",
-    "source": "Hacker News AI",
-    "summary": "Hi HN — I built Palmier.Palmier bridges your AI agents and your phone.It does two things:1. It lets you use your phone to directly control AI agents running on your computer, from anywhere.2. It gives your AI agents access to your phone, wherever you are — including things like push notifications, SMS, calendar, contacts, sending email, creating calendar events, location, and more.A few details:* Supports 15+ agent CLIs* Supports Linux, Windows, and macOS* What runs on your computer and your pho",
-    "published_at": "2026-04-21 02:31",
-    "tags": [],
-    "fetch_date": "2026-04-21",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Trolling with AI is too much fun(2024)",
-    "url": "https://old.reddit.com/r/aiwars/comments/18ovtyp/trolling_with_ai_is_too_much_fun/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://old.reddit.com/r/aiwars/comments/18ovtyp/trolling_with_ai_is_too_much_fun/ Comments URL: https://news.ycombinator.com/item?id=47843178 Points: 1 # Comments: 0",
-    "published_at": "2026-04-21 00:45",
-    "tags": [],
-    "fetch_date": "2026-04-21",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "LLM from scratch (32l) – Interventions: updated instruction fine-tuning results",
-    "url": "https://www.gilesthomas.com/2026/04/llm-from-scratch-32l-interventions-instruction-fine-tuning-tests",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.gilesthomas.com/2026/04/llm-from-scratch-32l-interventions-instruction-fine-tuning-tests Comments URL: https://news.ycombinator.com/item?id=47842959 Points: 1 # Comments: 0",
-    "published_at": "2026-04-21 00:14",
-    "tags": [],
-    "fetch_date": "2026-04-21",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Why doesn't memory work across AI tools?",
-    "url": "https://www.ricord.ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.ricord.ai Comments URL: https://news.ycombinator.com/item?id=47842900 Points: 3 # Comments: 1",
-    "published_at": "2026-04-21 00:08",
-    "tags": [],
-    "fetch_date": "2026-04-21",
-    "fetch_label": "早报"
   }
 ]

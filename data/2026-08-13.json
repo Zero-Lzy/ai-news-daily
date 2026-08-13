@@ -276,6 +276,226 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-08-13 21:11:21",
+      "count": 20,
+      "articles": [
+        {
+          "title": "Choosing an AI model: one prompt, 11 models, different results",
+          "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.netlify.com/blog/one-prompt-11-models-very-different-results/ Comments URL: https://news.ycombinator.com/item?id=49285327 Points: 2 # Comments: 0",
+          "published_at": "2026-08-13 13:05",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Read the Room – a social LLM puzzle",
+          "url": "https://ilia-iliev.itch.io/read-the-room",
+          "source": "Hacker News AI",
+          "summary": "I built this to explore whether LLM can work for social games.Each scenario has 3-4 characters. There is a relationship matrix (character-to-character) and each turn this is shifted. The game interprets what happened, updates the relationship matrix, and determines whether the objective has succeeded or failed.It’s free, works in the browser, and requires no account. I store the chats and telemetry.I'm not sure how novel this is but I haven't found existing group chats convincing and wanted to e",
+          "published_at": "2026-08-13 12:57",
+          "tags": []
+        },
+        {
+          "title": "Free private memory across every AI you use on-device",
+          "url": "https://sovseal.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://sovseal.com/ Comments URL: https://news.ycombinator.com/item?id=49285061 Points: 1 # Comments: 0",
+          "published_at": "2026-08-13 12:40",
+          "tags": []
+        },
+        {
+          "title": "Trying to fill out a PDF with AI",
+          "url": "https://twitter.com/DanielLockyer/status/2087542891677671526",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://twitter.com/DanielLockyer/status/2087542891677671526 Comments URL: https://news.ycombinator.com/item?id=49285007 Points: 1 # Comments: 0",
+          "published_at": "2026-08-13 12:35",
+          "tags": []
+        },
+        {
+          "title": "Show HN: AI Flight Recorder – record, replay, and track AI session costs",
+          "url": "https://github.com/AllThingsSmitty/ai-flight-recorder",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/AllThingsSmitty/ai-flight-recorder Comments URL: https://news.ycombinator.com/item?id=49284938 Points: 2 # Comments: 0",
+          "published_at": "2026-08-13 12:30",
+          "tags": []
+        },
+        {
+          "title": "Show HN: RBEK – governed execution for AI agent",
+          "url": "https://github.com/rbekplatform/rbek",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/rbekplatform/rbek Comments URL: https://news.ycombinator.com/item?id=49284886 Points: 1 # Comments: 1",
+          "published_at": "2026-08-13 12:24",
+          "tags": []
+        },
+        {
+          "title": "Rogue AI Agents Aren't Evil. They're Just Eager to Please",
+          "url": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wired.com/story/rogue-ai-is-just-misunderstood/ Comments URL: https://news.ycombinator.com/item?id=49284801 Points: 1 # Comments: 0",
+          "published_at": "2026-08-13 12:14",
+          "tags": []
+        },
+        {
+          "title": "Show HN: I graded 83 AI vendors on data residency, training and subprocessors",
+          "url": "https://sovereignairegistry.com",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://sovereignairegistry.com Comments URL: https://news.ycombinator.com/item?id=49284787 Points: 2 # Comments: 0",
+          "published_at": "2026-08-13 12:12",
+          "tags": []
+        },
+        {
+          "title": "Apple in Talks to Pay Publishers to Improve AI-Powered Siri",
+          "url": "https://www.wsj.com/business/media/apple-in-talks-to-pay-publishers-to-improve-ai-powered-siri-0641f64b",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wsj.com/business/media/apple-in-talks-to-pay-publishers-to-improve-ai-powered-siri-0641f64b Comments URL: https://news.ycombinator.com/item?id=49284325 Points: 1 # Comments: 0",
+          "published_at": "2026-08-13 11:17",
+          "tags": []
+        },
+        {
+          "title": "Apple and AI: Siri the Early Years",
+          "url": "https://thechipletter.substack.com/p/apple-and-ai-siri-the-early-years",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://thechipletter.substack.com/p/apple-and-ai-siri-the-early-years Comments URL: https://news.ycombinator.com/item?id=49284273 Points: 1 # Comments: 0",
+          "published_at": "2026-08-13 11:11",
+          "tags": []
+        },
+        {
+          "title": "Show HN: AI Store Builder",
+          "url": "https://app.chisels.dev",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://app.chisels.dev Comments URL: https://news.ycombinator.com/item?id=49284214 Points: 1 # Comments: 0",
+          "published_at": "2026-08-13 11:04",
+          "tags": []
+        },
+        {
+          "title": "AI's Threat to Science Media Archives",
+          "url": "https://www.birdsoutsidemywindow.org/2026/08/12/ais-threat-to-science-media-archives/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.birdsoutsidemywindow.org/2026/08/12/ais-threat-to-science-media-archives/ Comments URL: https://news.ycombinator.com/item?id=49284083 Points: 2 # Comments: 0",
+          "published_at": "2026-08-13 10:49",
+          "tags": []
+        },
+        {
+          "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+          "source": "TechCrunch AI",
+          "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+          "published_at": "2026-08-12 22:26",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "Claude",
+            "watermarks"
+          ]
+        },
+        {
+          "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+          "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+          "source": "TechCrunch AI",
+          "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+          "published_at": "2026-08-12 18:19",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Startups",
+            "TC",
+            "cognition",
+            "In Brief"
+          ]
+        },
+        {
+          "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+          "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+          "source": "TechCrunch AI",
+          "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
+          "published_at": "2026-08-12 17:51",
+          "tags": [
+            "AI",
+            "andrew ng",
+            "Artificial Intelligence (AI)",
+            "Fei-Fei Li",
+            "Geoffrey Hinton",
+            "tech regulation"
+          ]
+        },
+        {
+          "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+          "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+          "source": "TechCrunch AI",
+          "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
+          "published_at": "2026-08-12 17:41",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "Fundraising",
+            "Venture",
+            "Enterprise AI",
+            "Thrive Capital",
+            "thrive holdings"
+          ]
+        },
+        {
+          "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+          "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+          "source": "TechCrunch AI",
+          "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
+          "published_at": "2026-08-12 16:04",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Startups",
+            "Lovable"
+          ]
+        },
+        {
+          "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+          "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
+          "source": "TechCrunch AI",
+          "summary": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
+          "published_at": "2026-08-12 15:44",
+          "tags": [
+            "AI",
+            "Startups",
+            "fraud",
+            "Mergers and Acquisitions",
+            "video clips"
+          ]
+        },
+        {
+          "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
+          "url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
+          "source": "TechCrunch AI",
+          "summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.&#160; One of [&#8230;]",
+          "published_at": "2026-08-12 14:22",
+          "tags": [
+            "AI",
+            "Hardware",
+            "Startups",
+            "AI hardware",
+            "Sandbar",
+            "wearables"
+          ]
+        },
+        {
+          "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+          "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+          "source": "TechCrunch AI",
+          "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
+          "published_at": "2026-08-12 14:20",
+          "tags": [
+            "AI",
+            "Gadgets",
+            "Hardware",
+            "gemini",
+            "Google",
+            "Google Pixel",
+            "Made by Google"
+          ]
+        }
+      ]
     }
   ]
 }
