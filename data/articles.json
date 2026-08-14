@@ -1,5 +1,205 @@
 [
   {
+    "title": "Muxxy: Like Slime, for AI and Tmux",
+    "url": "https://blog.djhaskin.com/blog/muxxy-like-slime-for-ai-tmux/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.djhaskin.com/blog/muxxy-like-slime-for-ai-tmux/ Comments URL: https://news.ycombinator.com/item?id=49293955 Points: 1 # Comments: 0",
+    "published_at": "2026-08-14 01:57",
+    "tags": [],
+    "fetch_date": "2026-08-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask HN: How do you develop more deterministic LLM pipelines?",
+    "url": "https://news.ycombinator.com/item?id=49293943",
+    "source": "Hacker News AI",
+    "summary": "It feels like with LLMs I develop a prompt and then get some kind of output that's not very well structured and requires some kind of human oversight to verify that the result I've gotten back is of quality, and the non-deterministic nature of LLMs is the main reason for this.I see solutions using LLMs, VLMs, etc that will achieve things that have been solved before (things like OCR, parsing, or even just code generation). They do these problems really well and really fast... 90% of the time. Ho",
+    "published_at": "2026-08-14 01:56",
+    "tags": [],
+    "fetch_date": "2026-08-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "DeepMind's Hassabis Pitched AI-Oversight Body Before Shake-Up",
+    "url": "https://www.wsj.com/tech/ai/deepminds-hassabis-pitched-ai-oversight-body-before-shake-up-e25b3f71",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/deepminds-hassabis-pitched-ai-oversight-body-before-shake-up-e25b3f71 Comments URL: https://news.ycombinator.com/item?id=49293900 Points: 1 # Comments: 0",
+    "published_at": "2026-08-14 01:48",
+    "tags": [],
+    "fetch_date": "2026-08-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Silicon Valley's AI boom is remaking American charity",
+    "url": "https://economist.com/international/2026/08/13/silicon-valleys-ai-boom-is-remaking-american-charity",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://economist.com/international/2026/08/13/silicon-valleys-ai-boom-is-remaking-american-charity Comments URL: https://news.ycombinator.com/item?id=49293791 Points: 1 # Comments: 0",
+    "published_at": "2026-08-14 01:28",
+    "tags": [],
+    "fetch_date": "2026-08-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Agentrove: Self-hosted AI workspace for orchestrating coding agents",
+    "url": "https://github.com/Mng-dev-ai/agentrove",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/Mng-dev-ai/agentrove Comments URL: https://news.ycombinator.com/item?id=49293480 Points: 1 # Comments: 0",
+    "published_at": "2026-08-14 00:38",
+    "tags": [],
+    "fetch_date": "2026-08-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Auto-train the harness, not the LLM. cross-model, cross-benchmark gains",
+    "url": "https://github.com/workofart/harness-training",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/workofart/harness-training Comments URL: https://news.ycombinator.com/item?id=49293267 Points: 4 # Comments: 0",
+    "published_at": "2026-08-14 00:05",
+    "tags": [],
+    "fetch_date": "2026-08-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Pen Testing Chrome Extension",
+    "url": "https://github.com/brianhama/in-browser-sec-audit",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/brianhama/in-browser-sec-audit Comments URL: https://news.ycombinator.com/item?id=49293241 Points: 2 # Comments: 0",
+    "published_at": "2026-08-14 00:00",
+    "tags": [],
+    "fetch_date": "2026-08-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Can Now Design Functional Viruses",
+    "url": "https://spectrum.ieee.org/ai-designed-virus",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://spectrum.ieee.org/ai-designed-virus Comments URL: https://news.ycombinator.com/item?id=49293198 Points: 2 # Comments: 0",
+    "published_at": "2026-08-13 23:54",
+    "tags": [],
+    "fetch_date": "2026-08-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI is learning clinical judgment by practicing on simulated patients",
+    "url": "https://www.echohive.ai/ai-clinical-residency",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.echohive.ai/ai-clinical-residency Comments URL: https://news.ycombinator.com/item?id=49292870 Points: 3 # Comments: 1",
+    "published_at": "2026-08-13 23:08",
+    "tags": [],
+    "fetch_date": "2026-08-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "An anchoring layer between facts and AI memory",
+    "url": "https://github.com/Anchorstate-Lab/GMR",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/Anchorstate-Lab/GMR Comments URL: https://news.ycombinator.com/item?id=49292758 Points: 1 # Comments: 1",
+    "published_at": "2026-08-13 22:52",
+    "tags": [],
+    "fetch_date": "2026-08-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: AI Slop Kitchen",
+    "url": "https://play-kitchen.netlify.app/",
+    "source": "Hacker News AI",
+    "summary": "I've been vibe coding small games with my 3 year old. We stumbled upon this kitchen format Comments URL: https://news.ycombinator.com/item?id=49292742 Points: 1 # Comments: 0",
+    "published_at": "2026-08-13 22:49",
+    "tags": [],
+    "fetch_date": "2026-08-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+    "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+    "source": "TechCrunch AI",
+    "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+    "published_at": "2026-08-13 20:14",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "Startups",
+      "TC",
+      "Databricks"
+    ],
+    "fetch_date": "2026-08-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "source": "TechCrunch AI",
+    "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+    "published_at": "2026-08-13 19:22",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "ChatGPT",
+      "Claude",
+      "In Brief",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-08-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "IBM partners with OpenAI to bolster enterprise AI push",
+    "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+    "source": "TechCrunch AI",
+    "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+    "published_at": "2026-08-13 19:19",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "IBM",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-08-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI hires new CRO as executive shake-up continues",
+    "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+    "source": "TechCrunch AI",
+    "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
+    "published_at": "2026-08-13 17:07",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-08-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+    "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+    "source": "TechCrunch AI",
+    "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
+    "published_at": "2026-08-13 15:30",
+    "tags": [
+      "AI",
+      "Apps",
+      "Copilot",
+      "Microsoft"
+    ],
+    "fetch_date": "2026-08-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI is losing its second executive this week",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+    "source": "The Verge AI",
+    "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, will be taking over the [&#8230;]",
+    "published_at": "2026-08-13 15:28",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-08-14",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Choosing an AI model: one prompt, 11 models, different results",
     "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
     "source": "Hacker News AI",
@@ -274,6 +474,22 @@
       "thrive holdings"
     ],
     "fetch_date": "2026-08-13",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
+    "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+    "source": "TechCrunch AI",
+    "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
+    "published_at": "2026-08-12 16:57",
+    "tags": [
+      "AI",
+      "Apps",
+      "android apps",
+      "Automattic",
+      "mesh"
+    ],
+    "fetch_date": "2026-08-14",
     "fetch_label": "早报"
   },
   {
@@ -35065,228 +35281,5 @@
     ],
     "fetch_date": "2026-04-23",
     "fetch_label": "早报"
-  },
-  {
-    "title": "Watch Sony’s elite ping-pong robot beat top-ranked players",
-    "url": "https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras",
-    "source": "The Verge AI",
-    "summary": "Humans have been building ping-pong playing robots for decades, such as Omron's FORPHEUS that challenged amateur competitors at CES 2017. What sets Ace apart from the rest is that the robot, which was developed by Sony's AI division, is the first that can hold its own against top-ranked human players and occasionally even beat them [&#8230;]",
-    "published_at": "2026-04-22 13:43",
-    "tags": [
-      "AI",
-      "News",
-      "Robot",
-      "Science",
-      "Sony",
-      "Tech"
-    ],
-    "fetch_date": "2026-04-23",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
-    "url": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
-    "source": "TechCrunch AI",
-    "summary": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules.",
-    "published_at": "2026-04-22 13:00",
-    "tags": [
-      "Biotech & Health",
-      "AI",
-      "Exclusive",
-      "10x Science"
-    ],
-    "fetch_date": "2026-04-22",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Google Meet will take AI notes for in-person meetings too",
-    "url": "https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings",
-    "source": "The Verge AI",
-    "summary": "Google's AI meeting notetaker is no longer limited to Google Meets - Gemini can also generate summaries and transcripts of in-person meetings now, as well as meetings on Zoom and Microsoft Teams, as first reported by 9to5Google. Support for in-person meetings was previously limited to alpha users and only available on Android. Google's support page [&#8230;]",
-    "published_at": "2026-04-22 12:38",
-    "tags": [
-      "AI",
-      "Google",
-      "News",
-      "Tech"
-    ],
-    "fetch_date": "2026-04-23",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The most interesting startups showcased at Google Cloud Next 2026",
-    "url": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
-    "source": "TechCrunch AI",
-    "summary": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference.",
-    "published_at": "2026-04-22 12:00",
-    "tags": [
-      "TC",
-      "Startups",
-      "AI",
-      "Exclusive",
-      "google cloud",
-      "interact",
-      "Notion",
-      "Google Cloud Next",
-      "Lovable"
-    ],
-    "fetch_date": "2026-04-22",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Google Maps is about to get a big dose of AI",
-    "url": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
-    "source": "TechCrunch AI",
-    "summary": "Generative AI is being infused into Google's popular feature within Maps.",
-    "published_at": "2026-04-22 12:00",
-    "tags": [
-      "AI",
-      "Google",
-      "Google Maps",
-      "Street View",
-      "Generative AI"
-    ],
-    "fetch_date": "2026-04-22",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Meta to track workers' clicks and keystrokes to train AI",
-    "url": "https://www.bbc.co.uk/news/articles/cvglyklz49jo",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvglyklz49jo Comments URL: https://news.ycombinator.com/item?id=47858081 Points: 1 # Comments: 0",
-    "published_at": "2026-04-22 02:29",
-    "tags": [],
-    "fetch_date": "2026-04-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "How Gen-Z AI Founders Are Merging Work and Life",
-    "url": "https://www.inc.com/ben-sherry/gen-z-ai-founders-are-merging-work-and-life-in-these-3-ways/91239573",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.inc.com/ben-sherry/gen-z-ai-founders-are-merging-work-and-life-in-these-3-ways/91239573 Comments URL: https://news.ycombinator.com/item?id=47858060 Points: 1 # Comments: 0",
-    "published_at": "2026-04-22 02:27",
-    "tags": [],
-    "fetch_date": "2026-04-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Ascend – DevSecOps framework with AI-powered merge conflict sync",
-    "url": "https://github.com/venkatapgummadi/ascend",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/venkatapgummadi/ascend Comments URL: https://news.ycombinator.com/item?id=47858020 Points: 1 # Comments: 1",
-    "published_at": "2026-04-22 02:22",
-    "tags": [],
-    "fetch_date": "2026-04-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Layer 8: The coordination protocol AI agents and embedded devices don't have yet",
-    "url": "https://www.ezthrottle.network/blog/operationless-network-for-a-new-world-of-devices",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.ezthrottle.network/blog/operationless-network-for-a-new-world-of-devices Comments URL: https://news.ycombinator.com/item?id=47857889 Points: 1 # Comments: 0",
-    "published_at": "2026-04-22 02:07",
-    "tags": [],
-    "fetch_date": "2026-04-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "I'm Sick of AI Everything",
-    "url": "https://news.ycombinator.com/item?id=47857461",
-    "source": "Hacker News AI",
-    "summary": "A while back, I stopped using Facebook because I just couldn't take it anymore. Just totally sick of it. I'm honestly getting there with AI. At this point, I would prefer to have anything AI related just be blocked at the browser level. Comments URL: https://news.ycombinator.com/item?id=47857461 Points: 99 # Comments: 37",
-    "published_at": "2026-04-22 01:19",
-    "tags": [],
-    "fetch_date": "2026-04-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Google WeatherNext 2 – Our most accurate AI weather forecasting technology",
-    "url": "https://deepmind.google/science/weathernext/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://deepmind.google/science/weathernext/ Comments URL: https://news.ycombinator.com/item?id=47857389 Points: 2 # Comments: 0",
-    "published_at": "2026-04-22 01:10",
-    "tags": [],
-    "fetch_date": "2026-04-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Voxyflow – An AI companion that plans, codes, and ships with you",
-    "url": "https://github.com/jcviau81/voxyflow",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/jcviau81/voxyflow Comments URL: https://news.ycombinator.com/item?id=47857147 Points: 1 # Comments: 0",
-    "published_at": "2026-04-22 00:45",
-    "tags": [],
-    "fetch_date": "2026-04-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Server Demand to Drive Memory Contract Price Increases in 2Q26",
-    "url": "https://www.trendforce.com/presscenter/news/20260331-12995.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.trendforce.com/presscenter/news/20260331-12995.html Comments URL: https://news.ycombinator.com/item?id=47857040 Points: 2 # Comments: 0",
-    "published_at": "2026-04-22 00:37",
-    "tags": [],
-    "fetch_date": "2026-04-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Meta will record employees’ keystrokes and use it to train its AI models",
-    "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
-    "source": "TechCrunch AI",
-    "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
-    "published_at": "2026-04-21 23:45",
-    "tags": [
-      "AI",
-      "AI training",
-      "In Brief",
-      "Meta"
-    ],
-    "fetch_date": "2026-04-22",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI bot buying what agents can buy in 2026",
-    "url": "https://dialtoneapp.com/2026/april/ai-bot-buying-report",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://dialtoneapp.com/2026/april/ai-bot-buying-report Comments URL: https://news.ycombinator.com/item?id=47856377 Points: 2 # Comments: 0",
-    "published_at": "2026-04-21 23:39",
-    "tags": [],
-    "fetch_date": "2026-04-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Does your boss have AI brain?",
-    "url": "https://www.milkkarten.net/p/boss-obsessed-ai-marketing",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.milkkarten.net/p/boss-obsessed-ai-marketing Comments URL: https://news.ycombinator.com/item?id=47856283 Points: 4 # Comments: 0",
-    "published_at": "2026-04-21 23:29",
-    "tags": [],
-    "fetch_date": "2026-04-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Single-minded pursuit of profit can get firms in trouble. Same thing with AI",
-    "url": "https://news.harvard.edu/gazette/story/2026/04/single-minded-pursuit-of-profit-can-get-firms-in-trouble-same-thing-with-ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://news.harvard.edu/gazette/story/2026/04/single-minded-pursuit-of-profit-can-get-firms-in-trouble-same-thing-with-ai/ Comments URL: https://news.ycombinator.com/item?id=47856270 Points: 3 # Comments: 0",
-    "published_at": "2026-04-21 23:28",
-    "tags": [],
-    "fetch_date": "2026-04-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
-    "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
-    "source": "TechCrunch AI",
-    "summary": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
-    "published_at": "2026-04-21 23:26",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "cybersecurity",
-      "Mythos"
-    ],
-    "fetch_date": "2026-04-22",
-    "fetch_label": "晚报"
   }
 ]
