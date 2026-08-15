@@ -227,6 +227,163 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-08-15 20:37:20",
+      "count": 16,
+      "articles": [
+        {
+          "title": "AI Just Had Another Math Breakthrough–With Help from a High-School Dropout",
+          "url": "https://www.wsj.com/tech/ai/ai-math-riemann-hypothesis-anthropic-openai-22f98a87",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wsj.com/tech/ai/ai-math-riemann-hypothesis-anthropic-openai-22f98a87 Comments URL: https://news.ycombinator.com/item?id=49310048 Points: 3 # Comments: 0",
+          "published_at": "2026-08-15 12:30",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Tempered – AI Powered PC Optimizer",
+          "url": "https://tempered.to/",
+          "source": "Hacker News AI",
+          "summary": "HEy Everyone, i'm the developer of Tempered. Tempered uses AI to analyze metrics on your computer and automatically fix any issues with human approval. Worth checking out? I think yes! Comments URL: https://news.ycombinator.com/item?id=49309989 Points: 4 # Comments: 0",
+          "published_at": "2026-08-15 12:18",
+          "tags": []
+        },
+        {
+          "title": "Honest Government Ad – AI Data Centres [video]",
+          "url": "https://www.youtube.com/watch?v=kON2ZI2BNj8",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=kON2ZI2BNj8 Comments URL: https://news.ycombinator.com/item?id=49309969 Points: 2 # Comments: 1",
+          "published_at": "2026-08-15 12:14",
+          "tags": []
+        },
+        {
+          "title": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\"",
+          "url": "https://www.axios.com/2026/08/14/anthropic-model-2-ai-risk",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.axios.com/2026/08/14/anthropic-model-2-ai-risk Comments URL: https://news.ycombinator.com/item?id=49309551 Points: 2 # Comments: 0",
+          "published_at": "2026-08-15 11:00",
+          "tags": []
+        },
+        {
+          "title": "Training AI Scientists to Replicate Research",
+          "url": "https://inherentlabs.ai/research/training-to-replicate",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://inherentlabs.ai/research/training-to-replicate Comments URL: https://news.ycombinator.com/item?id=49309322 Points: 1 # Comments: 0",
+          "published_at": "2026-08-15 10:11",
+          "tags": []
+        },
+        {
+          "title": "Alibaba AI Models Hit 3B Downloads, Passing Meta, Google",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google Comments URL: https://news.ycombinator.com/item?id=49309183 Points: 8 # Comments: 0",
+          "published_at": "2026-08-15 09:46",
+          "tags": []
+        },
+        {
+          "title": "BanProof AI",
+          "url": "https://banproof.io/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://banproof.io/ Comments URL: https://news.ycombinator.com/item?id=49309125 Points: 3 # Comments: 0",
+          "published_at": "2026-08-15 09:36",
+          "tags": []
+        },
+        {
+          "title": "Debian has begun voting on the future of AI/LLM contributions",
+          "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html Comments URL: https://news.ycombinator.com/item?id=49309050 Points: 39 # Comments: 25",
+          "published_at": "2026-08-15 09:20",
+          "tags": []
+        },
+        {
+          "title": "Show HN: AI First Virtual Linux Desktop as a Mac App",
+          "url": "https://aifcc.franzai.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://aifcc.franzai.com/ Comments URL: https://news.ycombinator.com/item?id=49308944 Points: 1 # Comments: 0",
+          "published_at": "2026-08-15 08:54",
+          "tags": []
+        },
+        {
+          "title": "Show HN: HN Without AI Stories",
+          "url": "https://hnnoai.readpipe.org/",
+          "source": "Hacker News AI",
+          "summary": "URL: https://hnnoai.readpipe.org/ Comments URL: https://news.ycombinator.com/item?id=49308787 Points: 6 # Comments: 2",
+          "published_at": "2026-08-15 08:17",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Chemistry AI – step-by-step chemistry solver",
+          "url": "https://chemistryai.chat",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://chemistryai.chat Comments URL: https://news.ycombinator.com/item?id=49308749 Points: 1 # Comments: 0",
+          "published_at": "2026-08-15 08:11",
+          "tags": []
+        },
+        {
+          "title": "Open Commonplace – Protecting knowledge from being generalized by AI",
+          "url": "https://news.ycombinator.com/item?id=49308416",
+          "source": "Hacker News AI",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=49308416 Points: 1 # Comments: 0",
+          "published_at": "2026-08-15 07:06",
+          "tags": []
+        },
+        {
+          "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+          "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+          "source": "ArsTechnica AI",
+          "summary": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
+          "published_at": "2026-08-14 17:03",
+          "tags": [
+            "Biz & IT",
+            "cloud",
+            "cloud storage",
+            "data center",
+            "PBS"
+          ]
+        },
+        {
+          "title": "Google will now allow users to remove visible watermark from its AI generations",
+          "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+          "source": "TechCrunch AI",
+          "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+          "published_at": "2026-08-14 16:13",
+          "tags": [
+            "AI",
+            "Apps",
+            "gemini",
+            "Google",
+            "In Brief",
+            "watermarks"
+          ]
+        },
+        {
+          "title": "Kog is going deeper to squeeze more inference out of GPUs",
+          "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+          "source": "TechCrunch AI",
+          "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+          "published_at": "2026-08-14 14:50",
+          "tags": [
+            "AI",
+            "Startups",
+            "AI inference"
+          ]
+        },
+        {
+          "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
+          "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+          "source": "The Verge AI",
+          "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the \"sparkle\" watermark that appears in the bottom-right corner of [&#8230;]",
+          "published_at": "2026-08-14 12:39",
+          "tags": [
+            "AI",
+            "Google",
+            "News",
+            "Tech"
+          ]
+        }
+      ]
     }
   ]
 }
