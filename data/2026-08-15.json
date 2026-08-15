@@ -1,0 +1,232 @@
+{
+  "date": "2026-08-15",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-08-15 09:22:30",
+      "count": 21,
+      "articles": [
+        {
+          "title": "Show HN: Dictata – Local Whisper dictation with LLM cleanup",
+          "url": "https://github.com/AntoineChatry/Dictata",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/AntoineChatry/Dictata Comments URL: https://news.ycombinator.com/item?id=49306462 Points: 1 # Comments: 0",
+          "published_at": "2026-08-15 00:58",
+          "tags": []
+        },
+        {
+          "title": "The Commons – experiments in inherited knowledge and errors between LLM agents",
+          "url": "https://github.com/coladul/the_commons/tree/main",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/coladul/the_commons/tree/main Comments URL: https://news.ycombinator.com/item?id=49306404 Points: 1 # Comments: 0",
+          "published_at": "2026-08-15 00:48",
+          "tags": []
+        },
+        {
+          "title": "ShieldFont: Bludgeoning AI Scrapers That Disrespect Robots.txt",
+          "url": "https://hackaday.com/2026/08/14/shieldfont-bludgeoning-ai-scrapers-that-disrespect-robots-txt/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://hackaday.com/2026/08/14/shieldfont-bludgeoning-ai-scrapers-that-disrespect-robots-txt/ Comments URL: https://news.ycombinator.com/item?id=49306375 Points: 1 # Comments: 0",
+          "published_at": "2026-08-15 00:44",
+          "tags": []
+        },
+        {
+          "title": "Baking a Model: A Metaphor for LLM Training",
+          "url": "https://newsletter.kentbeck.com/p/baking-a-model",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://newsletter.kentbeck.com/p/baking-a-model Comments URL: https://news.ycombinator.com/item?id=49305969 Points: 1 # Comments: 0",
+          "published_at": "2026-08-14 23:46",
+          "tags": []
+        },
+        {
+          "title": "Flownie – Open and Visual Data Workflow Platform with AI Agent Assistance",
+          "url": "https://flownie.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://flownie.com/ Comments URL: https://news.ycombinator.com/item?id=49305904 Points: 2 # Comments: 0",
+          "published_at": "2026-08-14 23:38",
+          "tags": []
+        },
+        {
+          "title": "Talos AI Agent Super Secure",
+          "url": "https://github.com/talos-kernel/talos",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/talos-kernel/talos Comments URL: https://news.ycombinator.com/item?id=49305773 Points: 1 # Comments: 0",
+          "published_at": "2026-08-14 23:18",
+          "tags": []
+        },
+        {
+          "title": "Taiwan targeted in AI-driven hacking campaign",
+          "url": "https://www.taipeitimes.com/News/front/archives/2026/08/14/2003862463",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.taipeitimes.com/News/front/archives/2026/08/14/2003862463 Comments URL: https://news.ycombinator.com/item?id=49305196 Points: 1 # Comments: 0",
+          "published_at": "2026-08-14 22:09",
+          "tags": []
+        },
+        {
+          "title": "Show HN: WeaveScope – Elixir native observability for AI agents",
+          "url": "https://weavescope.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://weavescope.com/ Comments URL: https://news.ycombinator.com/item?id=49305100 Points: 1 # Comments: 0",
+          "published_at": "2026-08-14 21:58",
+          "tags": []
+        },
+        {
+          "title": "Show HN: A sandbox for AI agents using nothing but Go's standard library",
+          "url": "https://towardsdev.com/i-built-an-ai-agent-sandbox-from-the-go-standard-library-350ecac5d578?sk=f58cedafe6394788d87ecb3179f2ccbd",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://towardsdev.com/i-built-an-ai-agent-sandbox-from-the-go-standard-library-350ecac5d578?sk=f58cedafe6394788d87ecb3179f2ccbd Comments URL: https://news.ycombinator.com/item?id=49304882 Points: 1 # Comments: 0",
+          "published_at": "2026-08-14 21:36",
+          "tags": []
+        },
+        {
+          "title": "AI runs here. Not out there",
+          "url": "https://osaurus.ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://osaurus.ai Comments URL: https://news.ycombinator.com/item?id=49304848 Points: 2 # Comments: 0",
+          "published_at": "2026-08-14 21:32",
+          "tags": []
+        },
+        {
+          "title": "YeshiAI – AI for spiritual practice across five religious paths",
+          "url": "https://yeshi.ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://yeshi.ai/ Comments URL: https://news.ycombinator.com/item?id=49304689 Points: 1 # Comments: 0",
+          "published_at": "2026-08-14 21:15",
+          "tags": []
+        },
+        {
+          "title": "Deploying and Installing SUSE AI",
+          "url": "https://documentation.suse.com/suse-ai/1.0/html/AI-deployment/index.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://documentation.suse.com/suse-ai/1.0/html/AI-deployment/index.html Comments URL: https://news.ycombinator.com/item?id=49304513 Points: 4 # Comments: 0",
+          "published_at": "2026-08-14 20:58",
+          "tags": []
+        },
+        {
+          "title": "Google will now allow users to remove visible watermark from its AI generations",
+          "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+          "source": "TechCrunch AI",
+          "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+          "published_at": "2026-08-14 16:13",
+          "tags": [
+            "AI",
+            "Apps",
+            "gemini",
+            "Google",
+            "In Brief",
+            "watermarks"
+          ]
+        },
+        {
+          "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+          "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+          "source": "TechCrunch AI",
+          "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s [&#8230;]",
+          "published_at": "2026-08-14 15:43",
+          "tags": [
+            "AI",
+            "Amazon",
+            "Anthropic",
+            "data centers",
+            "Joby Aviation",
+            "Mark Zuckerberg",
+            "Meta"
+          ]
+        },
+        {
+          "title": "Kog is going deeper to squeeze more inference out of GPUs",
+          "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+          "source": "TechCrunch AI",
+          "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+          "published_at": "2026-08-14 14:50",
+          "tags": [
+            "AI",
+            "Startups",
+            "AI inference"
+          ]
+        },
+        {
+          "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+          "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+          "source": "TechCrunch AI",
+          "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s [&#8230;]",
+          "published_at": "2026-08-14 14:00",
+          "tags": [
+            "AI",
+            "Startups",
+            "Amazon",
+            "Anthropic",
+            "Equity podcast",
+            "Joby Aviation",
+            "Meta"
+          ]
+        },
+        {
+          "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
+          "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+          "source": "The Verge AI",
+          "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the \"sparkle\" watermark that appears in the bottom-right corner of [&#8230;]",
+          "published_at": "2026-08-14 12:39",
+          "tags": [
+            "AI",
+            "Google",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+          "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+          "source": "TechCrunch AI",
+          "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+          "published_at": "2026-08-13 20:14",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Startups",
+            "TC",
+            "Databricks"
+          ]
+        },
+        {
+          "title": "OpenAI hires new CRO as executive shake-up continues",
+          "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
+          "published_at": "2026-08-13 17:07",
+          "tags": [
+            "AI",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+          "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
+          "published_at": "2026-08-13 15:08",
+          "tags": [
+            "AI",
+            "TC",
+            "nvidia"
+          ]
+        },
+        {
+          "title": "Does Google even want to win at AI?",
+          "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+          "source": "The Verge AI",
+          "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s because last week Google announced a bombshell reorganization of its AI division, Google DeepMind. Jeff Dean, the company’s chief scientist, is [&#8230;]",
+          "published_at": "2026-08-13 10:10",
+          "tags": [
+            "AI",
+            "Business",
+            "Decoder",
+            "Google",
+            "Podcasts",
+            "Tech"
+          ]
+        }
+      ]
+    }
+  ]
+}
