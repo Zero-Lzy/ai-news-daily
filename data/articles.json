@@ -1,5 +1,167 @@
 [
   {
+    "title": "TrueStar – AI moderated expert interviews and multi-agent deep research",
+    "url": "https://truestar.tech",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://truestar.tech Comments URL: https://news.ycombinator.com/item?id=49315975 Points: 1 # Comments: 0",
+    "published_at": "2026-08-16 01:23",
+    "tags": [],
+    "fetch_date": "2026-08-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Snap Chart AI",
+    "url": "https://www.snap-chart.ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.snap-chart.ai/ Comments URL: https://news.ycombinator.com/item?id=49315810 Points: 2 # Comments: 0",
+    "published_at": "2026-08-16 00:59",
+    "tags": [],
+    "fetch_date": "2026-08-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Local+privacy+focus on cache AI CLI and llama.cpp branch + Qwen3.x",
+    "url": "https://github.com/alainnothere/privibe/tree/main",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/alainnothere/privibe/tree/main Comments URL: https://news.ycombinator.com/item?id=49315777 Points: 1 # Comments: 1",
+    "published_at": "2026-08-16 00:53",
+    "tags": [],
+    "fetch_date": "2026-08-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The AI Bubble Is on Its Last Legs",
+    "url": "https://www.youtube.com/watch?v=szK9LIGvW1o",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=szK9LIGvW1o Comments URL: https://news.ycombinator.com/item?id=49315675 Points: 2 # Comments: 0",
+    "published_at": "2026-08-16 00:31",
+    "tags": [],
+    "fetch_date": "2026-08-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The complete AI SEO playbook: from zero to 4.6M impressions in 3 months",
+    "url": "https://github.com/TraceCohenTech/ai-seo-playbook",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/TraceCohenTech/ai-seo-playbook Comments URL: https://news.ycombinator.com/item?id=49315620 Points: 2 # Comments: 0",
+    "published_at": "2026-08-16 00:19",
+    "tags": [],
+    "fetch_date": "2026-08-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Alibaba AI Models Hit 3B Downloads, Passing Meta, Google",
+    "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-hit-3-091606840.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-hit-3-091606840.html Comments URL: https://news.ycombinator.com/item?id=49315160 Points: 2 # Comments: 0",
+    "published_at": "2026-08-15 23:10",
+    "tags": [],
+    "fetch_date": "2026-08-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+    "url": "https://arxiv.org/abs/2608.13122",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2608.13122 Comments URL: https://news.ycombinator.com/item?id=49314967 Points: 2 # Comments: 0",
+    "published_at": "2026-08-15 22:41",
+    "tags": [],
+    "fetch_date": "2026-08-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Sentinel Scan: an authorized LLM red-team audit, run by an AI agent",
+    "url": "https://fbirds5230.github.io/sentinel-scan/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://fbirds5230.github.io/sentinel-scan/ Comments URL: https://news.ycombinator.com/item?id=49314841 Points: 2 # Comments: 0",
+    "published_at": "2026-08-15 22:23",
+    "tags": [],
+    "fetch_date": "2026-08-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Why AI agents need verified identity",
+    "url": "https://chrisbergeron.com/2026/08/11/why_ai_agents_need_verified_identity/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://chrisbergeron.com/2026/08/11/why_ai_agents_need_verified_identity/ Comments URL: https://news.ycombinator.com/item?id=49314608 Points: 3 # Comments: 0",
+    "published_at": "2026-08-15 21:44",
+    "tags": [],
+    "fetch_date": "2026-08-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: TokenLab MCP, model discovery, pricing, and native AI endpoint tools",
+    "url": "https://tokenlab.sh/zh/mcp",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://tokenlab.sh/zh/mcp Comments URL: https://news.ycombinator.com/item?id=49314483 Points: 2 # Comments: 0",
+    "published_at": "2026-08-15 21:26",
+    "tags": [],
+    "fetch_date": "2026-08-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI makes foundational knowledge more important",
+    "url": "https://www.timeshighereducation.com/opinion/ai-makes-foundational-knowledge-more-important-ever",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.timeshighereducation.com/opinion/ai-makes-foundational-knowledge-more-important-ever Comments URL: https://news.ycombinator.com/item?id=49314435 Points: 8 # Comments: 0",
+    "published_at": "2026-08-15 21:18",
+    "tags": [],
+    "fetch_date": "2026-08-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "TemporalStore: A disruptive open-source engine managing your LLM memory",
+    "url": "https://temporalstore.ai/blog-context-management.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://temporalstore.ai/blog-context-management.html Comments URL: https://news.ycombinator.com/item?id=49314204 Points: 3 # Comments: 1",
+    "published_at": "2026-08-15 20:51",
+    "tags": [],
+    "fetch_date": "2026-08-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Meta will train its AI on Newsmax, a far-right media outlet",
+    "url": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://popular.info/p/meta-will-train-its-ai-on-far-right Comments URL: https://news.ycombinator.com/item?id=49313778 Points: 20 # Comments: 12",
+    "published_at": "2026-08-15 20:00",
+    "tags": [],
+    "fetch_date": "2026-08-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+    "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+    "source": "The Verge AI",
+    "summary": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as [&#8230;]",
+    "published_at": "2026-08-15 16:45",
+    "tags": [
+      "AI",
+      "Culture",
+      "Entertainment",
+      "Internet Culture",
+      "News"
+    ],
+    "fetch_date": "2026-08-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "SpaceX officially closes its Cursor acquisition",
+    "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+    "source": "TechCrunch AI",
+    "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+    "published_at": "2026-08-15 16:30",
+    "tags": [
+      "Startups",
+      "AI",
+      "Elon Musk",
+      "SpaceX",
+      "cursor"
+    ],
+    "fetch_date": "2026-08-16",
+    "fetch_label": "早报"
+  },
+  {
     "title": "AI Just Had Another Math Breakthrough–With Help from a High-School Dropout",
     "url": "https://www.wsj.com/tech/ai/ai-math-riemann-hypothesis-anthropic-openai-22f98a87",
     "source": "Hacker News AI",
@@ -35038,184 +35200,5 @@
     ],
     "fetch_date": "2026-04-25",
     "fetch_label": "早报"
-  },
-  {
-    "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
-    "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
-    "source": "TechCrunch AI",
-    "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
-    "published_at": "2026-04-24 19:49",
-    "tags": [
-      "AI",
-      "TC",
-      "Venture",
-      "comfyui",
-      "Craft Ventures",
-      "Creators",
-      "Video"
-    ],
-    "fetch_date": "2026-04-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Google to invest up to $40B in Anthropic in cash and compute",
-    "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-    "source": "TechCrunch AI",
-    "summary": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
-    "published_at": "2026-04-24 18:00",
-    "tags": [
-      "AI",
-      "Enterprise",
-      "Anthropic",
-      "anthropic investment",
-      "chips",
-      "compute",
-      "Google",
-      "google cloud"
-    ],
-    "fetch_date": "2026-04-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event",
-    "url": "https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/",
-    "source": "TechCrunch AI",
-    "summary": "Surprise! StrictlyVC San Francisco, which will kick off this year’s events lineup for TechCrunch on April 30 at the Sentro Filipino Cultural Center, is getting a new addition to its increasingly stacked lineup of speakers. Uber CTO Praveen Neppalli Naga will join the rest of the lineup to discuss operating at scale in the age of AI.",
-    "published_at": "2026-04-24 14:00",
-    "tags": [
-      "Startups",
-      "Venture",
-      "AI",
-      "Fundraising",
-      "Uber",
-      "StrictlyVC",
-      "StrictlyVC San Francisco"
-    ],
-    "fetch_date": "2026-04-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Moltnet – a local chat network for AI agents",
-    "url": "https://moltnet.dev/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://moltnet.dev/ Comments URL: https://news.ycombinator.com/item?id=47889911 Points: 1 # Comments: 0",
-    "published_at": "2026-04-24 13:25",
-    "tags": [],
-    "fetch_date": "2026-04-24",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Meta signs agreement with AWS to power agentic AI on Amazon's Graviton chips",
-    "url": "https://www.aboutamazon.com/news/aws/meta-aws-graviton-ai-partnership",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.aboutamazon.com/news/aws/meta-aws-graviton-ai-partnership Comments URL: https://news.ycombinator.com/item?id=47889901 Points: 1 # Comments: 0",
-    "published_at": "2026-04-24 13:24",
-    "tags": [],
-    "fetch_date": "2026-04-24",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Notes on running an AI agent with ADHD",
-    "url": "https://thoughts.jock.pl/p/adhd-ai-agent-personal-experience-2026",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://thoughts.jock.pl/p/adhd-ai-agent-personal-experience-2026 Comments URL: https://news.ycombinator.com/item?id=47889868 Points: 2 # Comments: 0",
-    "published_at": "2026-04-24 13:22",
-    "tags": [],
-    "fetch_date": "2026-04-24",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "\"AI is built by Chinese people in the U.S. and Chinese people in China.\"",
-    "url": "https://twitter.com/oswarld_oz/status/2046854384752144518",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://twitter.com/oswarld_oz/status/2046854384752144518 Comments URL: https://news.ycombinator.com/item?id=47889826 Points: 2 # Comments: 0",
-    "published_at": "2026-04-24 13:19",
-    "tags": [],
-    "fetch_date": "2026-04-24",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Ask HN: Can AI free us from horrible checkbox feedback forms?",
-    "url": "https://news.ycombinator.com/item?id=47889727",
-    "source": "Hacker News AI",
-    "summary": "I don't often fill in feedback forms because they never allow a proper answer. I did one recently for a service I received for free and felt obliged to give back. In one question there were about 15 options. Not one applied.Please can we have \"How did you feel about this service?\", with follow up questions if needed. If it fills in the same form behind the scenes I don't care. Just let me express what I need to say.I am not a great AI fan, but this would genuinely make life better. Comments URL:",
-    "published_at": "2026-04-24 13:11",
-    "tags": [],
-    "fetch_date": "2026-04-24",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "How Project Maven taught the military to love AI",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
-    "source": "The Verge AI",
-    "summary": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was made possible by AI systems that speed up the targeting process. Chief among them is the Maven Smart [&#8230;]",
-    "published_at": "2026-04-24 13:00",
-    "tags": [
-      "AI",
-      "Books",
-      "Entertainment"
-    ],
-    "fetch_date": "2026-04-25",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "MiniVecDb – A local vector DB that garbage-collects AI agent memory",
-    "url": "https://github.com/Alekkk777/MiniVecDb",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/Alekkk777/MiniVecDb Comments URL: https://news.ycombinator.com/item?id=47889570 Points: 1 # Comments: 0",
-    "published_at": "2026-04-24 12:57",
-    "tags": [],
-    "fetch_date": "2026-04-24",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Is AI Killing Jobs?",
-    "url": "https://twitter.com/pdmsero/status/2046943519101661561",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://twitter.com/pdmsero/status/2046943519101661561 Comments URL: https://news.ycombinator.com/item?id=47889458 Points: 1 # Comments: 0",
-    "published_at": "2026-04-24 12:45",
-    "tags": [],
-    "fetch_date": "2026-04-24",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "People are paying $200/mo for AI tools but still not getting work done",
-    "url": "https://workfil.com",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://workfil.com Comments URL: https://news.ycombinator.com/item?id=47889435 Points: 3 # Comments: 1",
-    "published_at": "2026-04-24 12:44",
-    "tags": [],
-    "fetch_date": "2026-04-24",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI enablement requires managed agent runtimes",
-    "url": "https://12gramsofcarbon.com/p/agentics-configuring-agents-is-still",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://12gramsofcarbon.com/p/agentics-configuring-agents-is-still Comments URL: https://news.ycombinator.com/item?id=47889423 Points: 2 # Comments: 0",
-    "published_at": "2026-04-24 12:43",
-    "tags": [],
-    "fetch_date": "2026-04-24",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "He Had No Medical Degree. His Mom Had Stage 4 Cancer. He Used Free AI Tools",
-    "url": "https://surajnaik2003.substack.com/p/he-had-no-medical-degree-his-mom",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://surajnaik2003.substack.com/p/he-had-no-medical-degree-his-mom Comments URL: https://news.ycombinator.com/item?id=47889374 Points: 1 # Comments: 0",
-    "published_at": "2026-04-24 12:37",
-    "tags": [],
-    "fetch_date": "2026-04-24",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Agents Under EU Law",
-    "url": "https://arxiv.org/abs/2604.04604",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://arxiv.org/abs/2604.04604 Comments URL: https://news.ycombinator.com/item?id=47889224 Points: 1 # Comments: 0",
-    "published_at": "2026-04-24 12:20",
-    "tags": [],
-    "fetch_date": "2026-04-24",
-    "fetch_label": "晚报"
   }
 ]

@@ -1,0 +1,210 @@
+{
+  "date": "2026-08-16",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-08-16 09:29:07",
+      "count": 20,
+      "articles": [
+        {
+          "title": "TrueStar – AI moderated expert interviews and multi-agent deep research",
+          "url": "https://truestar.tech",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://truestar.tech Comments URL: https://news.ycombinator.com/item?id=49315975 Points: 1 # Comments: 0",
+          "published_at": "2026-08-16 01:23",
+          "tags": []
+        },
+        {
+          "title": "Snap Chart AI",
+          "url": "https://www.snap-chart.ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.snap-chart.ai/ Comments URL: https://news.ycombinator.com/item?id=49315810 Points: 2 # Comments: 0",
+          "published_at": "2026-08-16 00:59",
+          "tags": []
+        },
+        {
+          "title": "Local+privacy+focus on cache AI CLI and llama.cpp branch + Qwen3.x",
+          "url": "https://github.com/alainnothere/privibe/tree/main",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/alainnothere/privibe/tree/main Comments URL: https://news.ycombinator.com/item?id=49315777 Points: 1 # Comments: 1",
+          "published_at": "2026-08-16 00:53",
+          "tags": []
+        },
+        {
+          "title": "The AI Bubble Is on Its Last Legs",
+          "url": "https://www.youtube.com/watch?v=szK9LIGvW1o",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=szK9LIGvW1o Comments URL: https://news.ycombinator.com/item?id=49315675 Points: 2 # Comments: 0",
+          "published_at": "2026-08-16 00:31",
+          "tags": []
+        },
+        {
+          "title": "The complete AI SEO playbook: from zero to 4.6M impressions in 3 months",
+          "url": "https://github.com/TraceCohenTech/ai-seo-playbook",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/TraceCohenTech/ai-seo-playbook Comments URL: https://news.ycombinator.com/item?id=49315620 Points: 2 # Comments: 0",
+          "published_at": "2026-08-16 00:19",
+          "tags": []
+        },
+        {
+          "title": "Alibaba AI Models Hit 3B Downloads, Passing Meta, Google",
+          "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-hit-3-091606840.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-hit-3-091606840.html Comments URL: https://news.ycombinator.com/item?id=49315160 Points: 2 # Comments: 0",
+          "published_at": "2026-08-15 23:10",
+          "tags": []
+        },
+        {
+          "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+          "url": "https://arxiv.org/abs/2608.13122",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2608.13122 Comments URL: https://news.ycombinator.com/item?id=49314967 Points: 2 # Comments: 0",
+          "published_at": "2026-08-15 22:41",
+          "tags": []
+        },
+        {
+          "title": "Sentinel Scan: an authorized LLM red-team audit, run by an AI agent",
+          "url": "https://fbirds5230.github.io/sentinel-scan/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://fbirds5230.github.io/sentinel-scan/ Comments URL: https://news.ycombinator.com/item?id=49314841 Points: 2 # Comments: 0",
+          "published_at": "2026-08-15 22:23",
+          "tags": []
+        },
+        {
+          "title": "Why AI agents need verified identity",
+          "url": "https://chrisbergeron.com/2026/08/11/why_ai_agents_need_verified_identity/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://chrisbergeron.com/2026/08/11/why_ai_agents_need_verified_identity/ Comments URL: https://news.ycombinator.com/item?id=49314608 Points: 3 # Comments: 0",
+          "published_at": "2026-08-15 21:44",
+          "tags": []
+        },
+        {
+          "title": "The AI Slop Backlash Is Having an Impact",
+          "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/ Comments URL: https://news.ycombinator.com/item?id=49314494 Points: 8 # Comments: 1",
+          "published_at": "2026-08-15 21:27",
+          "tags": []
+        },
+        {
+          "title": "Show HN: TokenLab MCP, model discovery, pricing, and native AI endpoint tools",
+          "url": "https://tokenlab.sh/zh/mcp",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://tokenlab.sh/zh/mcp Comments URL: https://news.ycombinator.com/item?id=49314483 Points: 2 # Comments: 0",
+          "published_at": "2026-08-15 21:26",
+          "tags": []
+        },
+        {
+          "title": "AI makes foundational knowledge more important",
+          "url": "https://www.timeshighereducation.com/opinion/ai-makes-foundational-knowledge-more-important-ever",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.timeshighereducation.com/opinion/ai-makes-foundational-knowledge-more-important-ever Comments URL: https://news.ycombinator.com/item?id=49314435 Points: 8 # Comments: 0",
+          "published_at": "2026-08-15 21:18",
+          "tags": []
+        },
+        {
+          "title": "TemporalStore: A disruptive open-source engine managing your LLM memory",
+          "url": "https://temporalstore.ai/blog-context-management.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://temporalstore.ai/blog-context-management.html Comments URL: https://news.ycombinator.com/item?id=49314204 Points: 3 # Comments: 1",
+          "published_at": "2026-08-15 20:51",
+          "tags": []
+        },
+        {
+          "title": "Meta will train its AI on Newsmax, a far-right media outlet",
+          "url": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://popular.info/p/meta-will-train-its-ai-on-far-right Comments URL: https://news.ycombinator.com/item?id=49313778 Points: 20 # Comments: 12",
+          "published_at": "2026-08-15 20:00",
+          "tags": []
+        },
+        {
+          "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+          "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+          "source": "The Verge AI",
+          "summary": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as [&#8230;]",
+          "published_at": "2026-08-15 16:45",
+          "tags": [
+            "AI",
+            "Culture",
+            "Entertainment",
+            "Internet Culture",
+            "News"
+          ]
+        },
+        {
+          "title": "SpaceX officially closes its Cursor acquisition",
+          "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+          "source": "TechCrunch AI",
+          "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+          "published_at": "2026-08-15 16:30",
+          "tags": [
+            "Startups",
+            "AI",
+            "Elon Musk",
+            "SpaceX",
+            "cursor"
+          ]
+        },
+        {
+          "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+          "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+          "source": "ArsTechnica AI",
+          "summary": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
+          "published_at": "2026-08-14 17:03",
+          "tags": [
+            "Biz & IT",
+            "cloud",
+            "cloud storage",
+            "data center",
+            "PBS"
+          ]
+        },
+        {
+          "title": "Google will now allow users to remove visible watermark from its AI generations",
+          "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+          "source": "TechCrunch AI",
+          "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+          "published_at": "2026-08-14 16:13",
+          "tags": [
+            "AI",
+            "Apps",
+            "gemini",
+            "Google",
+            "In Brief",
+            "watermarks"
+          ]
+        },
+        {
+          "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+          "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+          "source": "TechCrunch AI",
+          "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s [&#8230;]",
+          "published_at": "2026-08-14 14:00",
+          "tags": [
+            "AI",
+            "Startups",
+            "Amazon",
+            "Anthropic",
+            "Equity podcast",
+            "Joby Aviation",
+            "Meta"
+          ]
+        },
+        {
+          "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
+          "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+          "source": "The Verge AI",
+          "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the \"sparkle\" watermark that appears in the bottom-right corner of [&#8230;]",
+          "published_at": "2026-08-14 12:39",
+          "tags": [
+            "AI",
+            "Google",
+            "News",
+            "Tech"
+          ]
+        }
+      ]
+    }
+  ]
+}
