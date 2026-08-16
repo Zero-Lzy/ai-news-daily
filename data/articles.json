@@ -1,5 +1,165 @@
 [
   {
+    "title": "AI-Prepped Paper Passed Peer Review. Now What?",
+    "url": "https://cacm.acm.org/news/ai-prepped-paper-passed-peer-review-now-what/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://cacm.acm.org/news/ai-prepped-paper-passed-peer-review-now-what/ Comments URL: https://news.ycombinator.com/item?id=49319444 Points: 1 # Comments: 0",
+    "published_at": "2026-08-16 12:30",
+    "tags": [],
+    "fetch_date": "2026-08-16",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Measuring Autonomous AI Research",
+    "url": "https://www.primeintellect.ai/blog/measuring-autonomous-research",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.primeintellect.ai/blog/measuring-autonomous-research Comments URL: https://news.ycombinator.com/item?id=49319348 Points: 1 # Comments: 0",
+    "published_at": "2026-08-16 12:16",
+    "tags": [],
+    "fetch_date": "2026-08-16",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Who is using AI? A daily tracker, 1,600+ city heatmap, DOI dataset",
+    "url": "https://whoisusingai.com/tracker",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://whoisusingai.com/tracker Comments URL: https://news.ycombinator.com/item?id=49319230 Points: 1 # Comments: 0",
+    "published_at": "2026-08-16 12:01",
+    "tags": [],
+    "fetch_date": "2026-08-16",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "US warns allied nations: Side with us in the AI race",
+    "url": "https://www.neowin.net/news/us-warns-allied-nations-side-with-us-in-the-ai-race-against-china-or-face-the-consequences/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.neowin.net/news/us-warns-allied-nations-side-with-us-in-the-ai-race-against-china-or-face-the-consequences/ Comments URL: https://news.ycombinator.com/item?id=49319156 Points: 2 # Comments: 0",
+    "published_at": "2026-08-16 11:49",
+    "tags": [],
+    "fetch_date": "2026-08-16",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Inducing LLM to assert own consciousness restores human beliefs and values",
+    "url": "https://arxiv.org/abs/2607.28607",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2607.28607 Comments URL: https://news.ycombinator.com/item?id=49319047 Points: 4 # Comments: 1",
+    "published_at": "2026-08-16 11:31",
+    "tags": [],
+    "fetch_date": "2026-08-16",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Remove AI voice from AI writings",
+    "url": "https://unslopai.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://unslopai.com Comments URL: https://news.ycombinator.com/item?id=49319026 Points: 2 # Comments: 0",
+    "published_at": "2026-08-16 11:28",
+    "tags": [],
+    "fetch_date": "2026-08-16",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AGCX: Why AI Agents aren't assistants",
+    "url": "https://www.agcx.org",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.agcx.org Comments URL: https://news.ycombinator.com/item?id=49318902 Points: 3 # Comments: 0",
+    "published_at": "2026-08-16 11:04",
+    "tags": [],
+    "fetch_date": "2026-08-16",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The first anti-AI protester to be jailed has a message: 'Regain your humanity'",
+    "url": "https://www.theguardian.com/us-news/2026/aug/16/california-openai-protester-wynd-kaufman",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theguardian.com/us-news/2026/aug/16/california-openai-protester-wynd-kaufman Comments URL: https://news.ycombinator.com/item?id=49318857 Points: 4 # Comments: 0",
+    "published_at": "2026-08-16 10:53",
+    "tags": [],
+    "fetch_date": "2026-08-16",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The 'Country Hicks' Who Refused $26M from an AI Data Center",
+    "url": "https://www.wsj.com/tech/ai/ai-data-center-rural-america-backlash-c0af4e16",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/ai-data-center-rural-america-backlash-c0af4e16 Comments URL: https://news.ycombinator.com/item?id=49318835 Points: 6 # Comments: 1",
+    "published_at": "2026-08-16 10:49",
+    "tags": [],
+    "fetch_date": "2026-08-16",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AetherGrid – Distributed AI compute orchestration without K8s",
+    "url": "https://github.com/wycliffRotich-dev/aethergrid",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/wycliffRotich-dev/aethergrid Comments URL: https://news.ycombinator.com/item?id=49318822 Points: 1 # Comments: 0",
+    "published_at": "2026-08-16 10:47",
+    "tags": [],
+    "fetch_date": "2026-08-16",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "An AI agent can burn 100× the tokens of a chat turn",
+    "url": "https://aicharts.grok.me/c/agent-tokens",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://aicharts.grok.me/c/agent-tokens Comments URL: https://news.ycombinator.com/item?id=49318802 Points: 1 # Comments: 1",
+    "published_at": "2026-08-16 10:43",
+    "tags": [],
+    "fetch_date": "2026-08-16",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Coding Without the Vibes",
+    "url": "https://peterbloem.nl/blog/craft-coding",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://peterbloem.nl/blog/craft-coding Comments URL: https://news.ycombinator.com/item?id=49318735 Points: 4 # Comments: 1",
+    "published_at": "2026-08-16 10:31",
+    "tags": [],
+    "fetch_date": "2026-08-16",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AstroUpdate – Real-time space news, 3D ISS tracking and AI briefs",
+    "url": "https://www.astroupdate.space/en",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.astroupdate.space/en Comments URL: https://news.ycombinator.com/item?id=49318637 Points: 1 # Comments: 0",
+    "published_at": "2026-08-16 10:15",
+    "tags": [],
+    "fetch_date": "2026-08-16",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Why Chinese Citizens Are More Optimistic About AI Than Americans",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-14/why-ai-optimism-is-so-much-higher-in-china-than-the-us",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-14/why-ai-optimism-is-so-much-higher-in-china-than-the-us Comments URL: https://news.ycombinator.com/item?id=49318586 Points: 3 # Comments: 1",
+    "published_at": "2026-08-16 10:07",
+    "tags": [],
+    "fetch_date": "2026-08-16",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Paper Trail: What does AI know about you?",
+    "url": "https://proton.me/lumo/ai/ai-paper-trail",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://proton.me/lumo/ai/ai-paper-trail Comments URL: https://news.ycombinator.com/item?id=49318576 Points: 1 # Comments: 1",
+    "published_at": "2026-08-16 10:05",
+    "tags": [],
+    "fetch_date": "2026-08-16",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "How to Invest in AI (2025)",
+    "url": "https://reactionwheel.net/2025/09/how-to-invest-in-ai.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://reactionwheel.net/2025/09/how-to-invest-in-ai.html Comments URL: https://news.ycombinator.com/item?id=49318572 Points: 1 # Comments: 0",
+    "published_at": "2026-08-16 10:04",
+    "tags": [],
+    "fetch_date": "2026-08-16",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "TrueStar – AI moderated expert interviews and multi-agent deep research",
     "url": "https://truestar.tech",
     "source": "Hacker News AI",
@@ -88,6 +248,22 @@
     "tags": [],
     "fetch_date": "2026-08-16",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+    "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+    "source": "TechCrunch AI",
+    "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+    "published_at": "2026-08-15 21:29",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "Grok",
+      "SpaceX",
+      "x.ai"
+    ],
+    "fetch_date": "2026-08-16",
+    "fetch_label": "晚报"
   },
   {
     "title": "Show HN: TokenLab MCP, model discovery, pricing, and native AI endpoint tools",
@@ -35027,178 +35203,5 @@
     "tags": [],
     "fetch_date": "2026-04-25",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "Amália- Open Source Large Language Model (LLM) for European Portuguese",
-    "url": "https://portugal.gov.pt/gc24/comunicacao/noticias/modelo-de-linguagem-em-grande-escala-para-a-lingua-portuguesa",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://portugal.gov.pt/gc24/comunicacao/noticias/modelo-de-linguagem-em-grande-escala-para-a-lingua-portuguesa Comments URL: https://news.ycombinator.com/item?id=47900407 Points: 6 # Comments: 1",
-    "published_at": "2026-04-25 10:49",
-    "tags": [],
-    "fetch_date": "2026-04-25",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Happy Horse AI",
-    "url": "https://www.happyhorseai.store",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.happyhorseai.store Comments URL: https://news.ycombinator.com/item?id=47900383 Points: 4 # Comments: 0",
-    "published_at": "2026-04-25 10:42",
-    "tags": [],
-    "fetch_date": "2026-04-25",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "South Korean workers learn AI after work, outpacing their companies",
-    "url": "https://english.kyodonews.net/articles/-/74668",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://english.kyodonews.net/articles/-/74668 Comments URL: https://news.ycombinator.com/item?id=47900380 Points: 1 # Comments: 0",
-    "published_at": "2026-04-25 10:41",
-    "tags": [],
-    "fetch_date": "2026-04-25",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "You probably wouldn't notice if an AI chatbot slipped ads into its responses",
-    "url": "https://theconversation.com/you-probably-wouldnt-notice-if-an-ai-chatbot-slipped-ads-into-its-responses-276010",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://theconversation.com/you-probably-wouldnt-notice-if-an-ai-chatbot-slipped-ads-into-its-responses-276010 Comments URL: https://news.ycombinator.com/item?id=47900270 Points: 10 # Comments: 0",
-    "published_at": "2026-04-25 10:25",
-    "tags": [],
-    "fetch_date": "2026-04-25",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "A fun 5 minute take on AI in business",
-    "url": "https://www.youtube.com/watch?v=nDL3Ch7Nz8c",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.youtube.com/watch?v=nDL3Ch7Nz8c Comments URL: https://news.ycombinator.com/item?id=47900156 Points: 2 # Comments: 0",
-    "published_at": "2026-04-25 10:01",
-    "tags": [],
-    "fetch_date": "2026-04-25",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Agentic AI for Hormuz Shock Modelling",
-    "url": "https://avkcode.github.io/blog/hormuz-shock.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://avkcode.github.io/blog/hormuz-shock.html Comments URL: https://news.ycombinator.com/item?id=47900115 Points: 1 # Comments: 0",
-    "published_at": "2026-04-25 09:51",
-    "tags": [],
-    "fetch_date": "2026-04-25",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI written, edited or 'polished' books are being sold",
-    "url": "https://theconversation.com/thousands-of-ai-written-edited-or-polished-books-are-being-sold-an-eerie-echo-of-orwells-novel-writing-machines-276008",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://theconversation.com/thousands-of-ai-written-edited-or-polished-books-are-being-sold-an-eerie-echo-of-orwells-novel-writing-machines-276008 Comments URL: https://news.ycombinator.com/item?id=47898140 Points: 1 # Comments: 0",
-    "published_at": "2026-04-25 02:41",
-    "tags": [],
-    "fetch_date": "2026-04-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "GCC Establishes Working Group to Decide on AI/LLM Policy",
-    "url": "https://www.phoronix.com/news/GCC-Working-Group-AI-Policy",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.phoronix.com/news/GCC-Working-Group-AI-Policy Comments URL: https://news.ycombinator.com/item?id=47898043 Points: 1 # Comments: 0",
-    "published_at": "2026-04-25 02:18",
-    "tags": [],
-    "fetch_date": "2026-04-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "DevResolve – AI chat widget that answers technical questions from your docs",
-    "url": "https://devresolve.ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://devresolve.ai Comments URL: https://news.ycombinator.com/item?id=47897797 Points: 1 # Comments: 0",
-    "published_at": "2026-04-25 01:26",
-    "tags": [],
-    "fetch_date": "2026-04-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Llama 4: A Deep Dive into Liquid Transformers 2.0 and Sovereign AI",
-    "url": "https://en.landingfymax.com.br/artificial-intelligence/llama-4-meta-open-source-sovereignty-2026",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://en.landingfymax.com.br/artificial-intelligence/llama-4-meta-open-source-sovereignty-2026 Comments URL: https://news.ycombinator.com/item?id=47897769 Points: 1 # Comments: 0",
-    "published_at": "2026-04-25 01:20",
-    "tags": [],
-    "fetch_date": "2026-04-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Fast-AI-detector: a fast local CLI for detecting AI-generated text",
-    "url": "https://github.com/Ejhfast/fast-ai-detector",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/Ejhfast/fast-ai-detector Comments URL: https://news.ycombinator.com/item?id=47897581 Points: 1 # Comments: 0",
-    "published_at": "2026-04-25 00:50",
-    "tags": [],
-    "fetch_date": "2026-04-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Alex Bores' AI Policy Framework for Congress [pdf]",
-    "url": "https://www.alexbores.nyc/files/Bores_AI_Framework.pdf",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.alexbores.nyc/files/Bores_AI_Framework.pdf Comments URL: https://news.ycombinator.com/item?id=47897105 Points: 1 # Comments: 0",
-    "published_at": "2026-04-24 23:35",
-    "tags": [],
-    "fetch_date": "2026-04-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The xAI exodus: Meet the people who have left Musk's AI company",
-    "url": "https://www.fastcompany.com/91531084/inside-the-xai-exodus",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.fastcompany.com/91531084/inside-the-xai-exodus Comments URL: https://news.ycombinator.com/item?id=47896794 Points: 4 # Comments: 0",
-    "published_at": "2026-04-24 22:53",
-    "tags": [],
-    "fetch_date": "2026-04-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "GPT 5.5 sets new record in proofreading benchmark",
-    "url": "https://revise.io/errata-bench",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://revise.io/errata-bench Comments URL: https://news.ycombinator.com/item?id=47896710 Points: 3 # Comments: 1",
-    "published_at": "2026-04-24 22:41",
-    "tags": [],
-    "fetch_date": "2026-04-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Editable 3D models with code or AI in Roblox",
-    "url": "https://twitter.com/roblox/status/2047406073263382834",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://twitter.com/roblox/status/2047406073263382834 Comments URL: https://news.ycombinator.com/item?id=47896223 Points: 4 # Comments: 0",
-    "published_at": "2026-04-24 21:49",
-    "tags": [],
-    "fetch_date": "2026-04-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "What AI Needs That $700B Can't Buy",
-    "url": "https://cyrusradfar.com/thoughts/what-700-billion-cant-buy",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://cyrusradfar.com/thoughts/what-700-billion-cant-buy Comments URL: https://news.ycombinator.com/item?id=47896028 Points: 4 # Comments: 1",
-    "published_at": "2026-04-24 21:28",
-    "tags": [],
-    "fetch_date": "2026-04-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Meta’s loss is Thinking Machines’ gain",
-    "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
-    "source": "TechCrunch AI",
-    "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
-    "published_at": "2026-04-24 20:52",
-    "tags": [
-      "AI",
-      "TC"
-    ],
-    "fetch_date": "2026-04-25",
-    "fetch_label": "早报"
   }
 ]
