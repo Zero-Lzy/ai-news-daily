@@ -1,5 +1,121 @@
 [
   {
+    "title": "The CLI your AI agent drives to manage your knowledge graph",
+    "url": "https://useokf.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://useokf.com/ Comments URL: https://news.ycombinator.com/item?id=49325279 Points: 2 # Comments: 0",
+    "published_at": "2026-08-17 00:32",
+    "tags": [],
+    "fetch_date": "2026-08-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "With OpenRouter, Is Stripe Becoming the Amazon of AI",
+    "url": "https://github.com/getlago/lago/wiki/With-OpenRouter,-is-Stripe-becoming-the-Amazon-of-AI",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/getlago/lago/wiki/With-OpenRouter,-is-Stripe-becoming-the-Amazon-of-AI Comments URL: https://news.ycombinator.com/item?id=49324994 Points: 3 # Comments: 2",
+    "published_at": "2026-08-16 23:47",
+    "tags": [],
+    "fetch_date": "2026-08-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/ Comments URL: https://news.ycombinator.com/item?id=49324712 Points: 11 # Comments: 2",
+    "published_at": "2026-08-16 23:07",
+    "tags": [],
+    "fetch_date": "2026-08-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Slop Is Real",
+    "url": "https://aichatspot.online/what-is-ai-slop-and-does-it-really-ruin-youtube/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://aichatspot.online/what-is-ai-slop-and-does-it-really-ruin-youtube/ Comments URL: https://news.ycombinator.com/item?id=49324585 Points: 2 # Comments: 0",
+    "published_at": "2026-08-16 22:52",
+    "tags": [],
+    "fetch_date": "2026-08-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Smarter – open-source, declarative AI authoring platform (Django, K8s-inspired)",
+    "url": "https://github.com/smarter-sh/smarter",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/smarter-sh/smarter Comments URL: https://news.ycombinator.com/item?id=49324366 Points: 1 # Comments: 0",
+    "published_at": "2026-08-16 22:25",
+    "tags": [],
+    "fetch_date": "2026-08-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Legbar – live AI agent sessions beside GitHub CI, in one terminal",
+    "url": "https://github.com/gmhoward9289-ops/legbar",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/gmhoward9289-ops/legbar Comments URL: https://news.ycombinator.com/item?id=49324201 Points: 4 # Comments: 0",
+    "published_at": "2026-08-16 22:06",
+    "tags": [],
+    "fetch_date": "2026-08-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI #176 Part 2: Plan B",
+    "url": "https://thezvi.substack.com/p/ai-176-part-2-plan-b",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://thezvi.substack.com/p/ai-176-part-2-plan-b Comments URL: https://news.ycombinator.com/item?id=49323941 Points: 1 # Comments: 0",
+    "published_at": "2026-08-16 21:34",
+    "tags": [],
+    "fetch_date": "2026-08-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Debt Failure Will Prompt Another Wave of Fed Bailouts [pdf]",
+    "url": "https://www.myrmikan.com/pub/Myrmikan_Research_2026_08_14.pdf",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.myrmikan.com/pub/Myrmikan_Research_2026_08_14.pdf Comments URL: https://news.ycombinator.com/item?id=49323632 Points: 4 # Comments: 1",
+    "published_at": "2026-08-16 21:01",
+    "tags": [],
+    "fetch_date": "2026-08-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Do people care if articles are written by AI?",
+    "url": "https://writifyai.com/blog/do-people-really-care-if-an-article-is-written-by-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://writifyai.com/blog/do-people-really-care-if-an-article-is-written-by-ai/ Comments URL: https://news.ycombinator.com/item?id=49323517 Points: 5 # Comments: 14",
+    "published_at": "2026-08-16 20:47",
+    "tags": [],
+    "fetch_date": "2026-08-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Beautiful UI for AI-native interfaces",
+    "url": "https://www.beautifului.dev/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.beautifului.dev/ Comments URL: https://news.ycombinator.com/item?id=49323480 Points: 2 # Comments: 0",
+    "published_at": "2026-08-16 20:42",
+    "tags": [],
+    "fetch_date": "2026-08-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI reportedly disbanded its preparedness team",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+    "source": "The Verge AI",
+    "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) According to FT, responsibility [&#8230;]",
+    "published_at": "2026-08-16 17:32",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI",
+      "Security",
+      "Tech"
+    ],
+    "fetch_date": "2026-08-17",
+    "fetch_label": "早报"
+  },
+  {
     "title": "AI-Prepped Paper Passed Peer Review. Now What?",
     "url": "https://cacm.acm.org/news/ai-prepped-paper-passed-peer-review-now-what/",
     "source": "Hacker News AI",
@@ -158,6 +274,23 @@
     "tags": [],
     "fetch_date": "2026-08-16",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Rogue AI aren’t science fiction anymore",
+    "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+    "source": "The Verge AI",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started in July, when one of OpenAI's autonomous AI agents [&#8230;]",
+    "published_at": "2026-08-16 08:00",
+    "tags": [
+      "AI",
+      "Column",
+      "OpenAI",
+      "Security",
+      "Tech",
+      "The Stepback"
+    ],
+    "fetch_date": "2026-08-17",
+    "fetch_label": "早报"
   },
   {
     "title": "TrueStar – AI moderated expert interviews and multi-agent deep research",
@@ -35064,144 +35197,5 @@
     "tags": [],
     "fetch_date": "2026-04-26",
     "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Routiium – self-hosted LLM gateway with a tool-result guard",
-    "url": "https://github.com/labiium/routiium",
-    "source": "Hacker News AI",
-    "summary": "Routiium is a self-hosted, OpenAI-compatible LLM gateway I built. It does the table-stakes things you'd expect — managed keys, routing, rate limits, analytics — but the part I want to flag for HN is what it does on the agent side. Most LLM gateways judge the user's prompt and stop there. Scan the input, decide if it looks malicious, allow or block. That's the easy half. In an agent loop with web-fetch, MCP, or shell tools, the harder problem is the tool's return value becoming the next message i",
-    "published_at": "2026-04-25 20:30",
-    "tags": [],
-    "fetch_date": "2026-04-26",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-    "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-    "source": "TechCrunch AI",
-    "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
-    "published_at": "2026-04-25 17:17",
-    "tags": [
-      "AI",
-      "Government & Policy",
-      "Jesse Van Rootselaar",
-      "OpenAI",
-      "sam altman",
-      "tumbler ridge"
-    ],
-    "fetch_date": "2026-04-26",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Why Cohere is merging with Aleph Alpha",
-    "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
-    "source": "TechCrunch AI",
-    "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
-    "published_at": "2026-04-25 16:00",
-    "tags": [
-      "AI",
-      "Aleph Alpha",
-      "Cohere",
-      "digital sovereignty"
-    ],
-    "fetch_date": "2026-04-26",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Why Tokyo is the most important tech destination of 2026",
-    "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
-    "source": "TechCrunch AI",
-    "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
-    "published_at": "2026-04-25 15:03",
-    "tags": [
-      "Startups",
-      "Media & Entertainment",
-      "AI",
-      "Robotics",
-      "Startup Battlefield 200",
-      "SusHi Tech Tokyo"
-    ],
-    "fetch_date": "2026-04-26",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The Tsundoku Trap: Why AI Makes You Start Everything and Finish Nothing",
-    "url": "https://blog.danielvaughan.com/the-tsundoku-trap-why-ai-makes-you-start-everything-and-finish-nothing-7087184a4342",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://blog.danielvaughan.com/the-tsundoku-trap-why-ai-makes-you-start-everything-and-finish-nothing-7087184a4342 Comments URL: https://news.ycombinator.com/item?id=47901024 Points: 2 # Comments: 0",
-    "published_at": "2026-04-25 12:42",
-    "tags": [],
-    "fetch_date": "2026-04-25",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Memweave CLI – search your AI agent's memory from the shell",
-    "url": "https://github.com/sachinsharma9780/memweave",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/sachinsharma9780/memweave Comments URL: https://news.ycombinator.com/item?id=47900995 Points: 2 # Comments: 0",
-    "published_at": "2026-04-25 12:39",
-    "tags": [],
-    "fetch_date": "2026-04-25",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Enlist AI: Sub-second interview coaching with persistence",
-    "url": "https://news.ycombinator.com/item?id=47900781",
-    "source": "Hacker News AI",
-    "summary": "Following some initial feedback, we’ve updated Enlist AI to ensure your preparation never resets. Based on user behavior, we noticed plans were being lost on refresh, so we've implemented local persistence to keep your progress synced.What it does: Enlist AI is a full-pipeline preparation tool that turns any job description into a custom coaching experience. You paste a JD and get a personalized day-by-day study schedule.The \"Mock Interview\" Flow: Real-time Voice Analysis: You speak your answers",
-    "published_at": "2026-04-25 12:05",
-    "tags": [],
-    "fetch_date": "2026-04-25",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "From $200 to $30: Five Layers of LLM Cost Optimization",
-    "url": "http://blog.dwornikowski.com/posts/cutting-llm-costs-token-optimization/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: http://blog.dwornikowski.com/posts/cutting-llm-costs-token-optimization/ Comments URL: https://news.ycombinator.com/item?id=47900746 Points: 7 # Comments: 0",
-    "published_at": "2026-04-25 11:56",
-    "tags": [],
-    "fetch_date": "2026-04-25",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Crafting an AI-Driven Workflow System [video]",
-    "url": "https://www.youtube.com/watch?v=SrRweChigB0",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.youtube.com/watch?v=SrRweChigB0 Comments URL: https://news.ycombinator.com/item?id=47900731 Points: 1 # Comments: 0",
-    "published_at": "2026-04-25 11:54",
-    "tags": [],
-    "fetch_date": "2026-04-25",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "SAP just made the opposite bet from every other enterprise platform on AI agents",
-    "url": "https://www.sap.com/documents/2026/04/dce9aee4-497f-0010-bca6-c68f7e60039b.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.sap.com/documents/2026/04/dce9aee4-497f-0010-bca6-c68f7e60039b.html Comments URL: https://news.ycombinator.com/item?id=47900564 Points: 1 # Comments: 0",
-    "published_at": "2026-04-25 11:24",
-    "tags": [],
-    "fetch_date": "2026-04-25",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "GPT 5.5 flags accounts for \"potential high-risk cybersecurity\"",
-    "url": "https://twitter.com/banteg/status/2047577218142871949",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://twitter.com/banteg/status/2047577218142871949 Comments URL: https://news.ycombinator.com/item?id=47900544 Points: 4 # Comments: 0",
-    "published_at": "2026-04-25 11:21",
-    "tags": [],
-    "fetch_date": "2026-04-25",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Lambda Calculus Benchmark for AI",
-    "url": "https://victortaelin.github.io/lambench/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://victortaelin.github.io/lambench/ Comments URL: https://news.ycombinator.com/item?id=47900506 Points: 10 # Comments: 1",
-    "published_at": "2026-04-25 11:16",
-    "tags": [],
-    "fetch_date": "2026-04-25",
-    "fetch_label": "晚报"
   }
 ]
