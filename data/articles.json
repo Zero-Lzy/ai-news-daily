@@ -1,5 +1,100 @@
 [
   {
+    "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+    "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+    "source": "TechCrunch AI",
+    "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+    "published_at": "2026-08-17 21:27",
+    "tags": [
+      "AI",
+      "Chrome",
+      "gemini",
+      "Google",
+      "relay"
+    ],
+    "fetch_date": "2026-08-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+    "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "source": "TechCrunch AI",
+    "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+    "published_at": "2026-08-17 16:38",
+    "tags": [
+      "AI",
+      "AI training",
+      "Amazon",
+      "In Brief"
+    ],
+    "fetch_date": "2026-08-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+    "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+    "source": "TechCrunch AI",
+    "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+    "published_at": "2026-08-17 16:15",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "data centers",
+      "groq",
+      "neocloud",
+      "nvidia"
+    ],
+    "fetch_date": "2026-08-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+    "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+    "source": "TechCrunch AI",
+    "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+    "published_at": "2026-08-17 15:16",
+    "tags": [
+      "AI",
+      "data centers",
+      "In Brief",
+      "nvidia",
+      "OpenAI",
+      "Softbank"
+    ],
+    "fetch_date": "2026-08-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Nvidia discloses $21B stake in SpaceX",
+    "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+    "source": "ArsTechnica AI",
+    "summary": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
+    "published_at": "2026-08-17 14:22",
+    "tags": [
+      "Biz & IT",
+      "NVIDIA",
+      "spacex",
+      "syndication"
+    ],
+    "fetch_date": "2026-08-18",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+    "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+    "source": "TechCrunch AI",
+    "summary": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
+    "published_at": "2026-08-17 13:10",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "Funding",
+      "Wispr"
+    ],
+    "fetch_date": "2026-08-18",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
     "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
     "source": "The Verge AI",
@@ -143,6 +238,21 @@
       "Tech"
     ],
     "fetch_date": "2026-08-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+    "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "source": "TechCrunch AI",
+    "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+    "published_at": "2026-08-16 16:53",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "Anthropic",
+      "dario amodei"
+    ],
+    "fetch_date": "2026-08-18",
     "fetch_label": "早报"
   },
   {
@@ -35130,81 +35240,6 @@
     "source": "Hacker News AI",
     "summary": "Article URL: https://www.chatcomparison.ai/ Comments URL: https://news.ycombinator.com/item?id=47906310 Points: 1 # Comments: 0",
     "published_at": "2026-04-26 01:01",
-    "tags": [],
-    "fetch_date": "2026-04-26",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Zephyr Agent: Add AI chat to any website",
-    "url": "https://zephyr-agent.sh/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://zephyr-agent.sh/ Comments URL: https://news.ycombinator.com/item?id=47906308 Points: 2 # Comments: 0",
-    "published_at": "2026-04-26 01:01",
-    "tags": [],
-    "fetch_date": "2026-04-26",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Google unveils way to train AI models across distributed data centers",
-    "url": "https://www.sdxcentral.com/news/google-unveils-way-to-train-ai-models-across-distributed-data-centers/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.sdxcentral.com/news/google-unveils-way-to-train-ai-models-across-distributed-data-centers/ Comments URL: https://news.ycombinator.com/item?id=47906171 Points: 3 # Comments: 2",
-    "published_at": "2026-04-26 00:39",
-    "tags": [],
-    "fetch_date": "2026-04-26",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI cannot plan",
-    "url": "https://orchidfiles.com/ai-will-build-your-roadmap-in-ten-seconds/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://orchidfiles.com/ai-will-build-your-roadmap-in-ten-seconds/ Comments URL: https://news.ycombinator.com/item?id=47906140 Points: 1 # Comments: 0",
-    "published_at": "2026-04-26 00:34",
-    "tags": [],
-    "fetch_date": "2026-04-26",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: A privacy first companion AI",
-    "url": "https://www.friendai.pro",
-    "source": "Hacker News AI",
-    "summary": "I'm flabbergasted that people share their most sensitive messages with companion AI apps. Read their privacy policies. They can read your messages. They also have your email. That combination is a serious security threat.Replika was just fined €5M in Italy over exactly this.Yes, this is something I built. All inference runs on-device, no account, no chat data leaves your phone.Happy to defend every claim.www.friendai.pro https://apps.apple.com/au/app/friend-ai-private-chat/id67616... Comments UR",
-    "published_at": "2026-04-25 22:36",
-    "tags": [],
-    "fetch_date": "2026-04-26",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Anthropic created a test marketplace for agent-on-agent commerce",
-    "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
-    "source": "TechCrunch AI",
-    "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
-    "published_at": "2026-04-25 21:43",
-    "tags": [
-      "AI",
-      "Commerce",
-      "Anthropic",
-      "project deal"
-    ],
-    "fetch_date": "2026-04-26",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Our Survey on Creativity, Writing, and Reading in the Age of AI",
-    "url": "https://ellipsus.com/blog/survey-on-writing-and-ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://ellipsus.com/blog/survey-on-writing-and-ai Comments URL: https://news.ycombinator.com/item?id=47904589 Points: 9 # Comments: 0",
-    "published_at": "2026-04-25 21:13",
-    "tags": [],
-    "fetch_date": "2026-04-26",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The AI industry is discovering that the public hates it",
-    "url": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash Comments URL: https://news.ycombinator.com/item?id=47904568 Points: 213 # Comments: 289",
-    "published_at": "2026-04-25 21:11",
     "tags": [],
     "fetch_date": "2026-04-26",
     "fetch_label": "早报"
