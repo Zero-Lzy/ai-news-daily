@@ -1,5 +1,40 @@
 [
   {
+    "title": "Google&#8217;s Pet Memory forgot who my cats are",
+    "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+    "source": "The Verge AI",
+    "summary": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for Home, [&#8230;]",
+    "published_at": "2026-08-18 08:01",
+    "tags": [
+      "AI",
+      "Google",
+      "Reviews",
+      "Smart Home",
+      "Smart Home Reviews",
+      "Tech"
+    ],
+    "fetch_date": "2026-08-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
+    "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+    "source": "The Verge AI",
+    "summary": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so that Visual Intelligence can see the [&#8230;]",
+    "published_at": "2026-08-18 05:00",
+    "tags": [
+      "AI",
+      "Apple",
+      "Apple Rumors",
+      "Audio",
+      "Gadgets",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-08-18",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
     "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
     "source": "TechCrunch AI",
@@ -93,6 +128,23 @@
     ],
     "fetch_date": "2026-08-18",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
+    "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+    "source": "The Verge AI",
+    "summary": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that could flag health issues? Sign me up. But I have two [&#8230;]",
+    "published_at": "2026-08-17 07:00",
+    "tags": [
+      "AI",
+      "Reviews",
+      "Robot",
+      "Smart Home",
+      "Smart Home Reviews",
+      "Tech"
+    ],
+    "fetch_date": "2026-08-18",
+    "fetch_label": "晚报"
   },
   {
     "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
@@ -35210,36 +35262,6 @@
     "source": "Hacker News AI",
     "summary": "Article URL: https://aistackinsights.ai/blog/multi-agent-ai-systems-langgraph-crewai-production-guide Comments URL: https://news.ycombinator.com/item?id=47906692 Points: 2 # Comments: 0",
     "published_at": "2026-04-26 02:21",
-    "tags": [],
-    "fetch_date": "2026-04-26",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Can Frontier AI Labs make money?",
-    "url": "https://janosmeny.com/blog/can-frontier-ai-labs-make-money/index.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://janosmeny.com/blog/can-frontier-ai-labs-make-money/index.html Comments URL: https://news.ycombinator.com/item?id=47906583 Points: 1 # Comments: 0",
-    "published_at": "2026-04-26 01:58",
-    "tags": [],
-    "fetch_date": "2026-04-26",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Aruana – Detects scams and blocks PII before it reaches AI chatbots (100% local)",
-    "url": "https://aruana.maiaware.com/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://aruana.maiaware.com/ Comments URL: https://news.ycombinator.com/item?id=47906422 Points: 1 # Comments: 0",
-    "published_at": "2026-04-26 01:25",
-    "tags": [],
-    "fetch_date": "2026-04-26",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Multiple AI Models in One Platform",
-    "url": "https://www.chatcomparison.ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.chatcomparison.ai/ Comments URL: https://news.ycombinator.com/item?id=47906310 Points: 1 # Comments: 0",
-    "published_at": "2026-04-26 01:01",
     "tags": [],
     "fetch_date": "2026-04-26",
     "fetch_label": "早报"

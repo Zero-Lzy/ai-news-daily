@@ -145,6 +145,170 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-08-18 20:46:31",
+      "count": 11,
+      "articles": [
+        {
+          "title": "Google&#8217;s Pet Memory forgot who my cats are",
+          "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+          "source": "The Verge AI",
+          "summary": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for Home, [&#8230;]",
+          "published_at": "2026-08-18 08:01",
+          "tags": [
+            "AI",
+            "Google",
+            "Reviews",
+            "Smart Home",
+            "Smart Home Reviews",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
+          "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+          "source": "The Verge AI",
+          "summary": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so that Visual Intelligence can see the [&#8230;]",
+          "published_at": "2026-08-18 05:00",
+          "tags": [
+            "AI",
+            "Apple",
+            "Apple Rumors",
+            "Audio",
+            "Gadgets",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+          "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+          "source": "TechCrunch AI",
+          "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+          "published_at": "2026-08-17 21:27",
+          "tags": [
+            "AI",
+            "Chrome",
+            "gemini",
+            "Google",
+            "relay"
+          ]
+        },
+        {
+          "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+          "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+          "source": "TechCrunch AI",
+          "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+          "published_at": "2026-08-17 16:38",
+          "tags": [
+            "AI",
+            "AI training",
+            "Amazon",
+            "In Brief"
+          ]
+        },
+        {
+          "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+          "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+          "source": "TechCrunch AI",
+          "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+          "published_at": "2026-08-17 16:15",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "data centers",
+            "groq",
+            "neocloud",
+            "nvidia"
+          ]
+        },
+        {
+          "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+          "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+          "published_at": "2026-08-17 15:16",
+          "tags": [
+            "AI",
+            "data centers",
+            "In Brief",
+            "nvidia",
+            "OpenAI",
+            "Softbank"
+          ]
+        },
+        {
+          "title": "Nvidia discloses $21B stake in SpaceX",
+          "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+          "source": "ArsTechnica AI",
+          "summary": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
+          "published_at": "2026-08-17 14:22",
+          "tags": [
+            "Biz & IT",
+            "NVIDIA",
+            "spacex",
+            "syndication"
+          ]
+        },
+        {
+          "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+          "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+          "source": "TechCrunch AI",
+          "summary": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
+          "published_at": "2026-08-17 13:10",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Funding",
+            "Wispr"
+          ]
+        },
+        {
+          "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
+          "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+          "source": "The Verge AI",
+          "summary": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that could flag health issues? Sign me up. But I have two [&#8230;]",
+          "published_at": "2026-08-17 07:00",
+          "tags": [
+            "AI",
+            "Reviews",
+            "Robot",
+            "Smart Home",
+            "Smart Home Reviews",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+          "source": "The Verge AI",
+          "summary": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the SynthID-Text approach\" - an open-source watermarking technology developed by Google DeepMind that creates detectable patterns using wording probabilities. This [&#8230;]",
+          "published_at": "2026-08-17 06:57",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+          "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+          "source": "TechCrunch AI",
+          "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+          "published_at": "2026-08-16 20:57",
+          "tags": [
+            "AI",
+            "Startups",
+            "stripe",
+            "Mergers and Acquisitions",
+            "In Brief",
+            "openrouter"
+          ]
+        }
+      ]
     }
   ]
 }
