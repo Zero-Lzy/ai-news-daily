@@ -1,5 +1,155 @@
 [
   {
+    "title": "Can an LLM make a feature-length movie on its own?",
+    "url": "https://www.lesswrong.com/posts/24RKHEkwgZ6Hm6ygY/can-an-llm-make-a-feature-length-movie-on-its-own",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.lesswrong.com/posts/24RKHEkwgZ6Hm6ygY/can-an-llm-make-a-feature-length-movie-on-its-own Comments URL: https://news.ycombinator.com/item?id=49360802 Points: 1 # Comments: 0",
+    "published_at": "2026-08-19 12:42",
+    "tags": [],
+    "fetch_date": "2026-08-19",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI acts as ideological chameleon and deepen political polarization, study find",
+    "url": "https://agencia.fapesp.br/artificial-intelligence-acts-as-an-ideological-chameleon-and-may-deepen-political-polarization-study-finds/59001",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://agencia.fapesp.br/artificial-intelligence-acts-as-an-ideological-chameleon-and-may-deepen-political-polarization-study-finds/59001 Comments URL: https://news.ycombinator.com/item?id=49360734 Points: 2 # Comments: 1",
+    "published_at": "2026-08-19 12:36",
+    "tags": [],
+    "fetch_date": "2026-08-19",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Where are AI Agents going?",
+    "url": "https://designislove.substack.com/p/will-ai-agents-become-the-internets",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://designislove.substack.com/p/will-ai-agents-become-the-internets Comments URL: https://news.ycombinator.com/item?id=49360724 Points: 1 # Comments: 0",
+    "published_at": "2026-08-19 12:35",
+    "tags": [],
+    "fetch_date": "2026-08-19",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "CorePilot, Offline AI Agent and Assistant",
+    "url": "https://corepilot-three.vercel.app",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://corepilot-three.vercel.app Comments URL: https://news.ycombinator.com/item?id=49360713 Points: 1 # Comments: 0",
+    "published_at": "2026-08-19 12:34",
+    "tags": [],
+    "fetch_date": "2026-08-19",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Two API Calls Exposed AI's Hidden Reasoning [video]",
+    "url": "https://www.youtube.com/watch?v=P1v1-2CCKD0",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=P1v1-2CCKD0 Comments URL: https://news.ycombinator.com/item?id=49360705 Points: 1 # Comments: 0",
+    "published_at": "2026-08-19 12:33",
+    "tags": [],
+    "fetch_date": "2026-08-19",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Why AI Won't Replace Your Job but Will Change How You Do It",
+    "url": "https://daydreamsinruby.com/blog/2026-04-08-ai-changing-your-job/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://daydreamsinruby.com/blog/2026-04-08-ai-changing-your-job/ Comments URL: https://news.ycombinator.com/item?id=49360658 Points: 3 # Comments: 1",
+    "published_at": "2026-08-19 12:29",
+    "tags": [],
+    "fetch_date": "2026-08-19",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Agents Need Good Management Too",
+    "url": "https://www.danstroot.com/posts/2026-08-17-ai-needs-good-management-too",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.danstroot.com/posts/2026-08-17-ai-needs-good-management-too Comments URL: https://news.ycombinator.com/item?id=49360648 Points: 2 # Comments: 0",
+    "published_at": "2026-08-19 12:29",
+    "tags": [],
+    "fetch_date": "2026-08-19",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Why Legacy Systems Block Real-Time AI Decision-Making",
+    "url": "https://geekyants.com/blog/why-legacy-systems-block-real-time-ai-decision-making",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://geekyants.com/blog/why-legacy-systems-block-real-time-ai-decision-making Comments URL: https://news.ycombinator.com/item?id=49360513 Points: 1 # Comments: 0",
+    "published_at": "2026-08-19 12:16",
+    "tags": [],
+    "fetch_date": "2026-08-19",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Anthropic Posts First Profitable Quarter in Frontier AI",
+    "url": "https://www.forbes.com/sites/jonmarkman/2026/08/17/anthropics-groundbreaking-second-quarter-delivers-115b-in-revenue/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.forbes.com/sites/jonmarkman/2026/08/17/anthropics-groundbreaking-second-quarter-delivers-115b-in-revenue/ Comments URL: https://news.ycombinator.com/item?id=49360469 Points: 2 # Comments: 1",
+    "published_at": "2026-08-19 12:11",
+    "tags": [],
+    "fetch_date": "2026-08-19",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: LLM-Shield-Proxy Zero-Egress PII Streaming Proxy (55MB RAM)",
+    "url": "https://github.com/ninadphalak/LLM-Shield-Proxy",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/ninadphalak/LLM-Shield-Proxy Comments URL: https://news.ycombinator.com/item?id=49360413 Points: 2 # Comments: 0",
+    "published_at": "2026-08-19 12:06",
+    "tags": [],
+    "fetch_date": "2026-08-19",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Real-time argument duello game – AI judge decides who's right",
+    "url": "https://wram.chat",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://wram.chat Comments URL: https://news.ycombinator.com/item?id=49360270 Points: 3 # Comments: 0",
+    "published_at": "2026-08-19 11:50",
+    "tags": [],
+    "fetch_date": "2026-08-19",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The AI storage pitch is a load balancing problem",
+    "url": "https://dev.profullstack.com/~anthony/blog/023-post.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://dev.profullstack.com/~anthony/blog/023-post.html Comments URL: https://news.ycombinator.com/item?id=49360198 Points: 2 # Comments: 0",
+    "published_at": "2026-08-19 11:41",
+    "tags": [],
+    "fetch_date": "2026-08-19",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Giving LLM the schema docs made its wrong SQL answers more plausible, not rarer",
+    "url": "https://quaesitor.eu/silent-failures/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://quaesitor.eu/silent-failures/ Comments URL: https://news.ycombinator.com/item?id=49360009 Points: 1 # Comments: 0",
+    "published_at": "2026-08-19 11:21",
+    "tags": [],
+    "fetch_date": "2026-08-19",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+    "url": "https://www.wired.com/story/flock-safety-os-investigate/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wired.com/story/flock-safety-os-investigate/ Comments URL: https://news.ycombinator.com/item?id=49359914 Points: 5 # Comments: 0",
+    "published_at": "2026-08-19 11:10",
+    "tags": [],
+    "fetch_date": "2026-08-19",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Common Mistakes I've Seen That AI-Generated Apps Keep Making",
+    "url": "https://daniel.reguero.dev/blogs/ten-common-security-mistakes-ai-generated-apps-make",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://daniel.reguero.dev/blogs/ten-common-security-mistakes-ai-generated-apps-make Comments URL: https://news.ycombinator.com/item?id=49359856 Points: 1 # Comments: 0",
+    "published_at": "2026-08-19 11:03",
+    "tags": [],
+    "fetch_date": "2026-08-19",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text",
     "url": "https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking",
     "source": "Hacker News AI",
@@ -128,6 +278,20 @@
     ],
     "fetch_date": "2026-08-19",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+    "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+    "source": "TechCrunch AI",
+    "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
+    "published_at": "2026-08-18 14:00",
+    "tags": [
+      "AI",
+      "AI coding tools",
+      "warp"
+    ],
+    "fetch_date": "2026-08-19",
+    "fetch_label": "晚报"
   },
   {
     "title": "Firefox&#8217;s Smart Window promises a better AI browser",
@@ -35094,191 +35258,5 @@
     ],
     "fetch_date": "2026-04-28",
     "fetch_label": "早报"
-  },
-  {
-    "title": "China vetoes Meta’s $2B Manus deal after months-long probe",
-    "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
-    "source": "TechCrunch AI",
-    "summary": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
-    "published_at": "2026-04-27 13:16",
-    "tags": [
-      "AI",
-      "TC",
-      "China",
-      "manus",
-      "Meta"
-    ],
-    "fetch_date": "2026-04-27",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "OpenAI could be making a phone with AI agents replacing apps",
-    "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
-    "source": "TechCrunch AI",
-    "summary": "The phone could go in mass production in 2028, an analyst says.",
-    "published_at": "2026-04-27 13:08",
-    "tags": [
-      "AI",
-      "Hardware",
-      "MediaTek",
-      "OpenAI",
-      "Qualcomm",
-      "smartphone"
-    ],
-    "fetch_date": "2026-04-27",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Canva apologizes after its AI tool replaces ‘Palestine’ in designs",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
-    "source": "The Verge AI",
-    "summary": "One of Canva's new AI features has been caught replacing the word \"Palestine\" in designs. The Magic Layers feature - which is designed to break flat images out into separate editable components - isn't supposed to make visible alterations to user designs, but it was found by X user @ros_ie9 to automatically switch the phrase [&#8230;]",
-    "published_at": "2026-04-27 10:29",
-    "tags": [
-      "AI",
-      "Creators",
-      "Design",
-      "News",
-      "Tech"
-    ],
-    "fetch_date": "2026-04-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The AI-designed car is taking shape",
-    "url": "https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept",
-    "source": "The Verge AI",
-    "summary": "The auto design world is full of advanced 3D visualization tools and VR sculpting platforms, but your average new car still enters the world as a sketch. Those sketches traditionally see endless iteration and refinement from all angles before being turned into 3D models by hand, some dying in the digital world, others sculpted into [&#8230;]",
-    "published_at": "2026-04-27 07:00",
-    "tags": [
-      "AI",
-      "Cars",
-      "GM",
-      "Nissan",
-      "Report",
-      "Transportation"
-    ],
-    "fetch_date": "2026-04-27",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Making a Landing Page Work for Both Humans and AI Agents",
-    "url": "https://docsalot.dev/blog/i-redesigned-my-landing-page-so-ai-agents-can-read-it",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://docsalot.dev/blog/i-redesigned-my-landing-page-so-ai-agents-can-read-it Comments URL: https://news.ycombinator.com/item?id=47917329 Points: 2 # Comments: 0",
-    "published_at": "2026-04-27 03:13",
-    "tags": [],
-    "fetch_date": "2026-04-27",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI and Digitalization in HTA: Enhancing Evidence, Equity and Efficiency [video]",
-    "url": "https://www.youtube.com/watch?v=2wN0D-AqUQQ",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.youtube.com/watch?v=2wN0D-AqUQQ Comments URL: https://news.ycombinator.com/item?id=47917310 Points: 1 # Comments: 0",
-    "published_at": "2026-04-27 03:10",
-    "tags": [],
-    "fetch_date": "2026-04-27",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "What type of code should you generate with AI?",
-    "url": "https://news.ycombinator.com/item?id=47917192",
-    "source": "Hacker News AI",
-    "summary": "I (and many people) have been thinking a lot about \"what are the best tasks to do using AI.\" My personal framework I've been using is, you should use AI to generate code when: 1. The code is easy to validate 2. It is not important that a human understands itI find that the best thing to AI generate is something on the level of a pure function (easy to validate + not necessarily important to understand implementation as long as you understand the interface). I've tried doing things like generatin",
-    "published_at": "2026-04-27 02:50",
-    "tags": [],
-    "fetch_date": "2026-04-27",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The AI Guy [Google_made_an_Ooopsie]",
-    "url": "https://inv.nadeko.net/channel/UCUYWQzo6AtlFSTHab_qKQaA/community",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://inv.nadeko.net/channel/UCUYWQzo6AtlFSTHab_qKQaA/community Comments URL: https://news.ycombinator.com/item?id=47917188 Points: 1 # Comments: 0",
-    "published_at": "2026-04-27 02:49",
-    "tags": [],
-    "fetch_date": "2026-04-27",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Team9 Review: The Fastest AI Workspace for Small Teams",
-    "url": "https://team9.ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://team9.ai Comments URL: https://news.ycombinator.com/item?id=47917145 Points: 1 # Comments: 0",
-    "published_at": "2026-04-27 02:41",
-    "tags": [],
-    "fetch_date": "2026-04-27",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Aether – A GCP-Native Framework to Terminate LLM Agent Drift",
-    "url": "https://github.com/poinsettiaclg-gif/AETHER-core",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/poinsettiaclg-gif/AETHER-core Comments URL: https://news.ycombinator.com/item?id=47916656 Points: 1 # Comments: 1",
-    "published_at": "2026-04-27 01:10",
-    "tags": [],
-    "fetch_date": "2026-04-27",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Human AI Collaboration in LIterature",
-    "url": "https://indignified.com/history-of-human-ai-collaboration-in-literature/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://indignified.com/history-of-human-ai-collaboration-in-literature/ Comments URL: https://news.ycombinator.com/item?id=47916083 Points: 2 # Comments: 0",
-    "published_at": "2026-04-26 23:46",
-    "tags": [],
-    "fetch_date": "2026-04-27",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Jaeger adopts OpenTelemetry at its core to solve the AI agent observability gap",
-    "url": "https://thenewstack.io/jaeger-v2-ai-observability/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://thenewstack.io/jaeger-v2-ai-observability/ Comments URL: https://news.ycombinator.com/item?id=47915620 Points: 1 # Comments: 0",
-    "published_at": "2026-04-26 22:52",
-    "tags": [],
-    "fetch_date": "2026-04-27",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "UK departments at odds over energy demands of AI datacentres",
-    "url": "https://www.theguardian.com/technology/2026/apr/26/uk-departments-at-odds-over-energy-demands-of-ai-datacentres",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/26/uk-departments-at-odds-over-energy-demands-of-ai-datacentres Comments URL: https://news.ycombinator.com/item?id=47915061 Points: 5 # Comments: 0",
-    "published_at": "2026-04-26 21:54",
-    "tags": [],
-    "fetch_date": "2026-04-27",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Squish – a local memory runtime for AI agents",
-    "url": "https://squishplugin.dev/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://squishplugin.dev/ Comments URL: https://news.ycombinator.com/item?id=47915017 Points: 3 # Comments: 0",
-    "published_at": "2026-04-26 21:51",
-    "tags": [],
-    "fetch_date": "2026-04-27",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Has AI Changed the Course of Drug Development? Three Years Later",
-    "url": "https://divingintogeneticsandgenomics.com/post/has-ai-changed-drug-development-3-years-later/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://divingintogeneticsandgenomics.com/post/has-ai-changed-drug-development-3-years-later/ Comments URL: https://news.ycombinator.com/item?id=47910009 Points: 1 # Comments: 0",
-    "published_at": "2026-04-26 13:05",
-    "tags": [],
-    "fetch_date": "2026-04-26",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Why Every AI-Coded App Is an Island",
-    "url": "https://rootcx.com/blog/why-every-ai-coded-app-is-an-island",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://rootcx.com/blog/why-every-ai-coded-app-is-an-island Comments URL: https://news.ycombinator.com/item?id=47910005 Points: 1 # Comments: 0",
-    "published_at": "2026-04-26 13:04",
-    "tags": [],
-    "fetch_date": "2026-04-26",
-    "fetch_label": "晚报"
   }
 ]

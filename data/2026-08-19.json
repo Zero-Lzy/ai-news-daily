@@ -193,6 +193,173 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-08-19 20:47:14",
+      "count": 18,
+      "articles": [
+        {
+          "title": "Can an LLM make a feature-length movie on its own?",
+          "url": "https://www.lesswrong.com/posts/24RKHEkwgZ6Hm6ygY/can-an-llm-make-a-feature-length-movie-on-its-own",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.lesswrong.com/posts/24RKHEkwgZ6Hm6ygY/can-an-llm-make-a-feature-length-movie-on-its-own Comments URL: https://news.ycombinator.com/item?id=49360802 Points: 1 # Comments: 0",
+          "published_at": "2026-08-19 12:42",
+          "tags": []
+        },
+        {
+          "title": "AI acts as ideological chameleon and deepen political polarization, study find",
+          "url": "https://agencia.fapesp.br/artificial-intelligence-acts-as-an-ideological-chameleon-and-may-deepen-political-polarization-study-finds/59001",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://agencia.fapesp.br/artificial-intelligence-acts-as-an-ideological-chameleon-and-may-deepen-political-polarization-study-finds/59001 Comments URL: https://news.ycombinator.com/item?id=49360734 Points: 2 # Comments: 1",
+          "published_at": "2026-08-19 12:36",
+          "tags": []
+        },
+        {
+          "title": "Where are AI Agents going?",
+          "url": "https://designislove.substack.com/p/will-ai-agents-become-the-internets",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://designislove.substack.com/p/will-ai-agents-become-the-internets Comments URL: https://news.ycombinator.com/item?id=49360724 Points: 1 # Comments: 0",
+          "published_at": "2026-08-19 12:35",
+          "tags": []
+        },
+        {
+          "title": "CorePilot, Offline AI Agent and Assistant",
+          "url": "https://corepilot-three.vercel.app",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://corepilot-three.vercel.app Comments URL: https://news.ycombinator.com/item?id=49360713 Points: 1 # Comments: 0",
+          "published_at": "2026-08-19 12:34",
+          "tags": []
+        },
+        {
+          "title": "Two API Calls Exposed AI's Hidden Reasoning [video]",
+          "url": "https://www.youtube.com/watch?v=P1v1-2CCKD0",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=P1v1-2CCKD0 Comments URL: https://news.ycombinator.com/item?id=49360705 Points: 1 # Comments: 0",
+          "published_at": "2026-08-19 12:33",
+          "tags": []
+        },
+        {
+          "title": "Why AI Won't Replace Your Job but Will Change How You Do It",
+          "url": "https://daydreamsinruby.com/blog/2026-04-08-ai-changing-your-job/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://daydreamsinruby.com/blog/2026-04-08-ai-changing-your-job/ Comments URL: https://news.ycombinator.com/item?id=49360658 Points: 3 # Comments: 1",
+          "published_at": "2026-08-19 12:29",
+          "tags": []
+        },
+        {
+          "title": "AI Agents Need Good Management Too",
+          "url": "https://www.danstroot.com/posts/2026-08-17-ai-needs-good-management-too",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.danstroot.com/posts/2026-08-17-ai-needs-good-management-too Comments URL: https://news.ycombinator.com/item?id=49360648 Points: 2 # Comments: 0",
+          "published_at": "2026-08-19 12:29",
+          "tags": []
+        },
+        {
+          "title": "Why Legacy Systems Block Real-Time AI Decision-Making",
+          "url": "https://geekyants.com/blog/why-legacy-systems-block-real-time-ai-decision-making",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://geekyants.com/blog/why-legacy-systems-block-real-time-ai-decision-making Comments URL: https://news.ycombinator.com/item?id=49360513 Points: 1 # Comments: 0",
+          "published_at": "2026-08-19 12:16",
+          "tags": []
+        },
+        {
+          "title": "Anthropic Posts First Profitable Quarter in Frontier AI",
+          "url": "https://www.forbes.com/sites/jonmarkman/2026/08/17/anthropics-groundbreaking-second-quarter-delivers-115b-in-revenue/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.forbes.com/sites/jonmarkman/2026/08/17/anthropics-groundbreaking-second-quarter-delivers-115b-in-revenue/ Comments URL: https://news.ycombinator.com/item?id=49360469 Points: 2 # Comments: 1",
+          "published_at": "2026-08-19 12:11",
+          "tags": []
+        },
+        {
+          "title": "Show HN: LLM-Shield-Proxy Zero-Egress PII Streaming Proxy (55MB RAM)",
+          "url": "https://github.com/ninadphalak/LLM-Shield-Proxy",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/ninadphalak/LLM-Shield-Proxy Comments URL: https://news.ycombinator.com/item?id=49360413 Points: 2 # Comments: 0",
+          "published_at": "2026-08-19 12:06",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Real-time argument duello game – AI judge decides who's right",
+          "url": "https://wram.chat",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://wram.chat Comments URL: https://news.ycombinator.com/item?id=49360270 Points: 3 # Comments: 0",
+          "published_at": "2026-08-19 11:50",
+          "tags": []
+        },
+        {
+          "title": "The AI storage pitch is a load balancing problem",
+          "url": "https://dev.profullstack.com/~anthony/blog/023-post.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://dev.profullstack.com/~anthony/blog/023-post.html Comments URL: https://news.ycombinator.com/item?id=49360198 Points: 2 # Comments: 0",
+          "published_at": "2026-08-19 11:41",
+          "tags": []
+        },
+        {
+          "title": "Giving LLM the schema docs made its wrong SQL answers more plausible, not rarer",
+          "url": "https://quaesitor.eu/silent-failures/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://quaesitor.eu/silent-failures/ Comments URL: https://news.ycombinator.com/item?id=49360009 Points: 1 # Comments: 0",
+          "published_at": "2026-08-19 11:21",
+          "tags": []
+        },
+        {
+          "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+          "url": "https://www.wired.com/story/flock-safety-os-investigate/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wired.com/story/flock-safety-os-investigate/ Comments URL: https://news.ycombinator.com/item?id=49359914 Points: 5 # Comments: 0",
+          "published_at": "2026-08-19 11:10",
+          "tags": []
+        },
+        {
+          "title": "Common Mistakes I've Seen That AI-Generated Apps Keep Making",
+          "url": "https://daniel.reguero.dev/blogs/ten-common-security-mistakes-ai-generated-apps-make",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://daniel.reguero.dev/blogs/ten-common-security-mistakes-ai-generated-apps-make Comments URL: https://news.ycombinator.com/item?id=49359856 Points: 1 # Comments: 0",
+          "published_at": "2026-08-19 11:03",
+          "tags": []
+        },
+        {
+          "title": "Etched’s valuation doubles to $21B in a month",
+          "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+          "source": "TechCrunch AI",
+          "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+          "published_at": "2026-08-18 17:21",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Startups",
+            "etched"
+          ]
+        },
+        {
+          "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+          "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+          "source": "TechCrunch AI",
+          "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
+          "published_at": "2026-08-18 14:00",
+          "tags": [
+            "AI",
+            "AI coding tools",
+            "warp"
+          ]
+        },
+        {
+          "title": "Google&#8217;s Pet Memory forgot who my cats are",
+          "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+          "source": "The Verge AI",
+          "summary": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for Home, [&#8230;]",
+          "published_at": "2026-08-18 08:01",
+          "tags": [
+            "AI",
+            "Google",
+            "Reviews",
+            "Smart Home",
+            "Smart Home Reviews",
+            "Tech"
+          ]
+        }
+      ]
     }
   ]
 }
