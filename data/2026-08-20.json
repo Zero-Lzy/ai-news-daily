@@ -240,6 +240,199 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-08-20 20:50:14",
+      "count": 19,
+      "articles": [
+        {
+          "title": "GOP issues stark warning to AI companies",
+          "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election Comments URL: https://news.ycombinator.com/item?id=49373873 Points: 1 # Comments: 0",
+          "published_at": "2026-08-20 12:44",
+          "tags": []
+        },
+        {
+          "title": "LinkedIn cracks down on automated content with AI detection button",
+          "url": "https://www.campaignindia.in/article/linkedin-cracks-down-on-automated-content-with-new-seems-like-ai-slop-detection-button/43e4tn3qyq543rpam874wksjn3",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.campaignindia.in/article/linkedin-cracks-down-on-automated-content-with-new-seems-like-ai-slop-detection-button/43e4tn3qyq543rpam874wksjn3 Comments URL: https://news.ycombinator.com/item?id=49373851 Points: 2 # Comments: 0",
+          "published_at": "2026-08-20 12:42",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Languageme – Learning new languages with Claude Code by dripping",
+          "url": "https://github.com/magiclex/languageme",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/magiclex/languageme Comments URL: https://news.ycombinator.com/item?id=49373850 Points: 1 # Comments: 0",
+          "published_at": "2026-08-20 12:42",
+          "tags": []
+        },
+        {
+          "title": "Getting a Foothold in Reinforcement Learning for LLMs",
+          "url": "https://amitpoonia.github.io/posts/intro-rl.md.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://amitpoonia.github.io/posts/intro-rl.md.html Comments URL: https://news.ycombinator.com/item?id=49373782 Points: 1 # Comments: 0",
+          "published_at": "2026-08-20 12:36",
+          "tags": []
+        },
+        {
+          "title": "Gen-1.5 In-Context Learning",
+          "url": "https://generalistai.com/blog/gen-1.5",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://generalistai.com/blog/gen-1.5 Comments URL: https://news.ycombinator.com/item?id=49373619 Points: 3 # Comments: 0",
+          "published_at": "2026-08-20 12:20",
+          "tags": []
+        },
+        {
+          "title": "Kingmakers: Crypto, AI, betting firms fuel record spending on the 2026 midterms",
+          "url": "https://www.reuters.com/legal/legalindustry/new-kingmakers-crypto-ai-betting-firms-fuel-record-spending-2026-midterms-2026-08-20/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.reuters.com/legal/legalindustry/new-kingmakers-crypto-ai-betting-firms-fuel-record-spending-2026-midterms-2026-08-20/ Comments URL: https://news.ycombinator.com/item?id=49373363 Points: 2 # Comments: 0",
+          "published_at": "2026-08-20 11:52",
+          "tags": []
+        },
+        {
+          "title": "Show HN: A directory of the best tweets available on twitter. hand-picked. no AI",
+          "url": "https://billiondollartweets.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://billiondollartweets.com/ Comments URL: https://news.ycombinator.com/item?id=49373343 Points: 1 # Comments: 1",
+          "published_at": "2026-08-20 11:49",
+          "tags": []
+        },
+        {
+          "title": "AI didn't erase the junior engineer's value, it increased it it",
+          "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://franciscotrindade.me/blog/the-kids-are-really-alright/ Comments URL: https://news.ycombinator.com/item?id=49373269 Points: 38 # Comments: 56",
+          "published_at": "2026-08-20 11:42",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Try Sequo to manage your AI context",
+          "url": "https://sequo.app",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://sequo.app Comments URL: https://news.ycombinator.com/item?id=49373103 Points: 1 # Comments: 0",
+          "published_at": "2026-08-20 11:20",
+          "tags": []
+        },
+        {
+          "title": "How to Outsmart AI When It's Tracking Your Workday",
+          "url": "https://www.wsj.com/lifestyle/workplace/how-to-outsmart-ai-when-its-tracking-your-workday-3ad6907e",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wsj.com/lifestyle/workplace/how-to-outsmart-ai-when-its-tracking-your-workday-3ad6907e Comments URL: https://news.ycombinator.com/item?id=49372874 Points: 2 # Comments: 2",
+          "published_at": "2026-08-20 10:49",
+          "tags": []
+        },
+        {
+          "title": "Dutch data protection authority advises Twitch users to opt out from Amazon AI",
+          "url": "https://www.autoriteitpersoonsgegevens.nl/en/current/ap-advises-twitch-users-opt-out-from-sharing-data-with-amazon-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.autoriteitpersoonsgegevens.nl/en/current/ap-advises-twitch-users-opt-out-from-sharing-data-with-amazon-ai Comments URL: https://news.ycombinator.com/item?id=49372781 Points: 5 # Comments: 0",
+          "published_at": "2026-08-20 10:36",
+          "tags": []
+        },
+        {
+          "title": "Don't paste the AI, please (angry way)",
+          "url": "https://dontpastetheai.com/angry/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://dontpastetheai.com/angry/ Comments URL: https://news.ycombinator.com/item?id=49372770 Points: 3 # Comments: 0",
+          "published_at": "2026-08-20 10:35",
+          "tags": []
+        },
+        {
+          "title": "Pine AI getting 75.4% (SoTA) on τ³-Voice Leaderboard",
+          "url": "http://taubench.com/leaderboard/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: http://taubench.com/leaderboard/ Comments URL: https://news.ycombinator.com/item?id=49372693 Points: 12 # Comments: 2",
+          "published_at": "2026-08-20 10:24",
+          "tags": []
+        },
+        {
+          "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+          "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+          "source": "TechCrunch AI",
+          "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+          "published_at": "2026-08-19 21:51",
+          "tags": [
+            "AI",
+            "ai coding",
+            "cognition",
+            "Devin",
+            "Mergers and Acquisitions",
+            "SpaceX",
+            "vibe coding"
+          ]
+        },
+        {
+          "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+          "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
+          "published_at": "2026-08-19 15:00",
+          "tags": [
+            "AI",
+            "Media & Entertainment",
+            "Alexa",
+            "Amazon",
+            "Fire TV"
+          ]
+        },
+        {
+          "title": "OpenAI hit the brakes. Now what?",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+          "source": "The Verge AI",
+          "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguards. That included a two-week pause [&#8230;]",
+          "published_at": "2026-08-19 13:10",
+          "tags": [
+            "AI",
+            "OpenAI",
+            "Report",
+            "Security",
+            "Tech"
+          ]
+        },
+        {
+          "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+          "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+          "source": "TechCrunch AI",
+          "summary": "It's the data, stupid.",
+          "published_at": "2026-08-19 12:00",
+          "tags": [
+            "AI",
+            "Biotech & Health",
+            "Startups",
+            "AI drug discovery"
+          ]
+        },
+        {
+          "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+          "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+          "source": "TechCrunch AI",
+          "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
+          "published_at": "2026-08-19 10:00",
+          "tags": [
+            "AI",
+            "data centers",
+            "Fiber"
+          ]
+        },
+        {
+          "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+          "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+          "source": "TechCrunch AI",
+          "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
+          "published_at": "2026-08-18 22:14",
+          "tags": [
+            "AI",
+            "cursor",
+            "GitHub",
+            "spacexai"
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1,5 +1,135 @@
 [
   {
+    "title": "GOP issues stark warning to AI companies",
+    "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election Comments URL: https://news.ycombinator.com/item?id=49373873 Points: 1 # Comments: 0",
+    "published_at": "2026-08-20 12:44",
+    "tags": [],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "LinkedIn cracks down on automated content with AI detection button",
+    "url": "https://www.campaignindia.in/article/linkedin-cracks-down-on-automated-content-with-new-seems-like-ai-slop-detection-button/43e4tn3qyq543rpam874wksjn3",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.campaignindia.in/article/linkedin-cracks-down-on-automated-content-with-new-seems-like-ai-slop-detection-button/43e4tn3qyq543rpam874wksjn3 Comments URL: https://news.ycombinator.com/item?id=49373851 Points: 2 # Comments: 0",
+    "published_at": "2026-08-20 12:42",
+    "tags": [],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Languageme – Learning new languages with Claude Code by dripping",
+    "url": "https://github.com/magiclex/languageme",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/magiclex/languageme Comments URL: https://news.ycombinator.com/item?id=49373850 Points: 1 # Comments: 0",
+    "published_at": "2026-08-20 12:42",
+    "tags": [],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Getting a Foothold in Reinforcement Learning for LLMs",
+    "url": "https://amitpoonia.github.io/posts/intro-rl.md.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://amitpoonia.github.io/posts/intro-rl.md.html Comments URL: https://news.ycombinator.com/item?id=49373782 Points: 1 # Comments: 0",
+    "published_at": "2026-08-20 12:36",
+    "tags": [],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Gen-1.5 In-Context Learning",
+    "url": "https://generalistai.com/blog/gen-1.5",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://generalistai.com/blog/gen-1.5 Comments URL: https://news.ycombinator.com/item?id=49373619 Points: 3 # Comments: 0",
+    "published_at": "2026-08-20 12:20",
+    "tags": [],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Kingmakers: Crypto, AI, betting firms fuel record spending on the 2026 midterms",
+    "url": "https://www.reuters.com/legal/legalindustry/new-kingmakers-crypto-ai-betting-firms-fuel-record-spending-2026-midterms-2026-08-20/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.reuters.com/legal/legalindustry/new-kingmakers-crypto-ai-betting-firms-fuel-record-spending-2026-midterms-2026-08-20/ Comments URL: https://news.ycombinator.com/item?id=49373363 Points: 2 # Comments: 0",
+    "published_at": "2026-08-20 11:52",
+    "tags": [],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: A directory of the best tweets available on twitter. hand-picked. no AI",
+    "url": "https://billiondollartweets.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://billiondollartweets.com/ Comments URL: https://news.ycombinator.com/item?id=49373343 Points: 1 # Comments: 1",
+    "published_at": "2026-08-20 11:49",
+    "tags": [],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI didn't erase the junior engineer's value, it increased it it",
+    "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://franciscotrindade.me/blog/the-kids-are-really-alright/ Comments URL: https://news.ycombinator.com/item?id=49373269 Points: 38 # Comments: 56",
+    "published_at": "2026-08-20 11:42",
+    "tags": [],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Try Sequo to manage your AI context",
+    "url": "https://sequo.app",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://sequo.app Comments URL: https://news.ycombinator.com/item?id=49373103 Points: 1 # Comments: 0",
+    "published_at": "2026-08-20 11:20",
+    "tags": [],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "How to Outsmart AI When It's Tracking Your Workday",
+    "url": "https://www.wsj.com/lifestyle/workplace/how-to-outsmart-ai-when-its-tracking-your-workday-3ad6907e",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wsj.com/lifestyle/workplace/how-to-outsmart-ai-when-its-tracking-your-workday-3ad6907e Comments URL: https://news.ycombinator.com/item?id=49372874 Points: 2 # Comments: 2",
+    "published_at": "2026-08-20 10:49",
+    "tags": [],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Dutch data protection authority advises Twitch users to opt out from Amazon AI",
+    "url": "https://www.autoriteitpersoonsgegevens.nl/en/current/ap-advises-twitch-users-opt-out-from-sharing-data-with-amazon-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.autoriteitpersoonsgegevens.nl/en/current/ap-advises-twitch-users-opt-out-from-sharing-data-with-amazon-ai Comments URL: https://news.ycombinator.com/item?id=49372781 Points: 5 # Comments: 0",
+    "published_at": "2026-08-20 10:36",
+    "tags": [],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Don't paste the AI, please (angry way)",
+    "url": "https://dontpastetheai.com/angry/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://dontpastetheai.com/angry/ Comments URL: https://news.ycombinator.com/item?id=49372770 Points: 3 # Comments: 0",
+    "published_at": "2026-08-20 10:35",
+    "tags": [],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Pine AI getting 75.4% (SoTA) on τ³-Voice Leaderboard",
+    "url": "http://taubench.com/leaderboard/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: http://taubench.com/leaderboard/ Comments URL: https://news.ycombinator.com/item?id=49372693 Points: 12 # Comments: 2",
+    "published_at": "2026-08-20 10:24",
+    "tags": [],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "How to use AI for your next job interview",
     "url": "https://www.lennysnewsletter.com/p/how-to-use-ai-in-your-next-job-interview",
     "source": "Hacker News AI",
@@ -35117,149 +35247,6 @@
     "summary": "Article URL: https://www.anildash.com/2026/04/28/one-good-ai-is-here/ Comments URL: https://news.ycombinator.com/item?id=47943828 Points: 1 # Comments: 0",
     "published_at": "2026-04-29 03:20",
     "tags": [],
-    "fetch_date": "2026-04-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Help a fellow dev on AI-localization?",
-    "url": "https://news.ycombinator.com/item?id=47943730",
-    "source": "Hacker News AI",
-    "summary": "We built an AI-based localization pipeline for our software product (HR domain) and would love feedback/ suggestions from others working in production MT/localization, so that we can learn and improve.Current methodology:GPT-5-nano forward translation + back-translationtext-embedding-3-small cosine similarity on source vs. back-translated text.Threshold: ≥0.92 = auto-approvedOn a recent ~970-string Spanish localization run:~75% of strings passed automaticallyWe then had two human translators rev",
-    "published_at": "2026-04-29 03:01",
-    "tags": [],
-    "fetch_date": "2026-04-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Spotify Shares Fall Most Since 2022 on AI Fears [video]",
-    "url": "https://www.youtube.com/watch?v=pXgf7uZT7OU",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.youtube.com/watch?v=pXgf7uZT7OU Comments URL: https://news.ycombinator.com/item?id=47943691 Points: 1 # Comments: 0",
-    "published_at": "2026-04-29 02:53",
-    "tags": [],
-    "fetch_date": "2026-04-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The Uncanny Horror of AI Hallucinations (2025)",
-    "url": "https://www.youtube.com/watch?v=vimNI7NjuS8",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.youtube.com/watch?v=vimNI7NjuS8 Comments URL: https://news.ycombinator.com/item?id=47943650 Points: 1 # Comments: 0",
-    "published_at": "2026-04-29 02:45",
-    "tags": [],
-    "fetch_date": "2026-04-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Edge Computing and Intelligence: AI for Edge and AI on Edge",
-    "url": "https://blog.sparsh.dev/edge-ai-computing-intelligence/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://blog.sparsh.dev/edge-ai-computing-intelligence/ Comments URL: https://news.ycombinator.com/item?id=47943647 Points: 1 # Comments: 1",
-    "published_at": "2026-04-29 02:45",
-    "tags": [],
-    "fetch_date": "2026-04-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "I Built My Own Hair Electrolysis Machine",
-    "url": "https://www.scd31.com/posts/diy-hair-electrolysis-machine",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.scd31.com/posts/diy-hair-electrolysis-machine Comments URL: https://news.ycombinator.com/item?id=47943632 Points: 2 # Comments: 0",
-    "published_at": "2026-04-29 02:42",
-    "tags": [],
-    "fetch_date": "2026-04-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "I hired an AI as SO. He chose a name, and we co-authored a book",
-    "url": "https://jdeid.it/agi-research/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://jdeid.it/agi-research/ Comments URL: https://news.ycombinator.com/item?id=47943532 Points: 1 # Comments: 0",
-    "published_at": "2026-04-29 02:24",
-    "tags": [],
-    "fetch_date": "2026-04-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Designs Thermoelectric Generators 10k Times Faster Than We Can",
-    "url": "https://spectrum.ieee.org/ai-designed-thermoelectric-generator",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://spectrum.ieee.org/ai-designed-thermoelectric-generator Comments URL: https://news.ycombinator.com/item?id=47943214 Points: 2 # Comments: 0",
-    "published_at": "2026-04-29 01:39",
-    "tags": [],
-    "fetch_date": "2026-04-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "From One AI to Any AI: JetBrains rethinks the approach to AI tooling [video]",
-    "url": "https://www.youtube.com/watch?v=J8fHU4WFd_c",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.youtube.com/watch?v=J8fHU4WFd_c Comments URL: https://news.ycombinator.com/item?id=47942940 Points: 1 # Comments: 0",
-    "published_at": "2026-04-29 01:02",
-    "tags": [],
-    "fetch_date": "2026-04-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Tencent used Anthropic's Claude to fine-tune it's new Hy3 AI model",
-    "url": "https://www.reuters.com/world/china/chinese-companies-used-claude-improve-own-models-anthropic-says-2026-02-23/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.reuters.com/world/china/chinese-companies-used-claude-improve-own-models-anthropic-says-2026-02-23/ Comments URL: https://news.ycombinator.com/item?id=47942759 Points: 2 # Comments: 0",
-    "published_at": "2026-04-29 00:35",
-    "tags": [],
-    "fetch_date": "2026-04-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "vLLM-Compile: Bringing Compiler Optimizations to LLM Inference",
-    "url": "https://docs.google.com/presentation/d/17WYU9T9qouY20zJg-7n_kV8DrMRJ2LHeNh_WXD6bUmc/view",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://docs.google.com/presentation/d/17WYU9T9qouY20zJg-7n_kV8DrMRJ2LHeNh_WXD6bUmc/view Comments URL: https://news.ycombinator.com/item?id=47942713 Points: 1 # Comments: 0",
-    "published_at": "2026-04-29 00:28",
-    "tags": [],
-    "fetch_date": "2026-04-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "From spaghetti to main bus: refactoring an AI agent orchestrator with Elm",
-    "url": "https://blog.mariohayashi.com/p/the-factory-must-grow-part-ii-from",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://blog.mariohayashi.com/p/the-factory-must-grow-part-ii-from Comments URL: https://news.ycombinator.com/item?id=47942296 Points: 2 # Comments: 0",
-    "published_at": "2026-04-28 23:35",
-    "tags": [],
-    "fetch_date": "2026-04-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
-    "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
-    "source": "TechCrunch AI",
-    "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
-    "published_at": "2026-04-28 18:49",
-    "tags": [
-      "AI",
-      "Apps",
-      "Commerce",
-      "Amazon",
-      "eCommerce",
-      "Rufus"
-    ],
-    "fetch_date": "2026-04-29",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
-    "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
-    "source": "TechCrunch AI",
-    "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
-    "published_at": "2026-04-28 18:15",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "Defense Department",
-      "Google",
-      "pentagon"
-    ],
     "fetch_date": "2026-04-29",
     "fetch_label": "早报"
   }
