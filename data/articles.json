@@ -1,5 +1,222 @@
 [
   {
+    "title": "How to use AI for your next job interview",
+    "url": "https://www.lennysnewsletter.com/p/how-to-use-ai-in-your-next-job-interview",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.lennysnewsletter.com/p/how-to-use-ai-in-your-next-job-interview Comments URL: https://news.ycombinator.com/item?id=49369333 Points: 1 # Comments: 0",
+    "published_at": "2026-08-20 01:18",
+    "tags": [],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Agentic AI has made CPUs the new performance bottleneck",
+    "url": "https://spectrum.ieee.org/ai-cpu-comeback",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://spectrum.ieee.org/ai-cpu-comeback Comments URL: https://news.ycombinator.com/item?id=49369311 Points: 1 # Comments: 0",
+    "published_at": "2026-08-20 01:14",
+    "tags": [],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "If You're Not Studying for Retention, Just Use AI",
+    "url": "https://www.fjapm.com/posts/if-youre-not-studying-for-retention-just-use-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.fjapm.com/posts/if-youre-not-studying-for-retention-just-use-ai Comments URL: https://news.ycombinator.com/item?id=49368725 Points: 3 # Comments: 1",
+    "published_at": "2026-08-19 23:50",
+    "tags": [],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI-Powered Cyberattacks",
+    "url": "https://www.opswat.com/blog/ai-powered-cyberattacks",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.opswat.com/blog/ai-powered-cyberattacks Comments URL: https://news.ycombinator.com/item?id=49368496 Points: 1 # Comments: 0",
+    "published_at": "2026-08-19 23:25",
+    "tags": [],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Hurtles Ahead",
+    "url": "https://www.oaktreecapital.com/insights/memo/ai-hurtles-ahead",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.oaktreecapital.com/insights/memo/ai-hurtles-ahead Comments URL: https://news.ycombinator.com/item?id=49368452 Points: 1 # Comments: 3",
+    "published_at": "2026-08-19 23:21",
+    "tags": [],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Technical leaders should have the largest AI exhaust",
+    "url": "https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/ Comments URL: https://news.ycombinator.com/item?id=49368389 Points: 8 # Comments: 9",
+    "published_at": "2026-08-19 23:12",
+    "tags": [],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "\"Half-Day\": 0-Day in the Age of AI",
+    "url": "https://margin.re/2026/08/introducing-the-half-day-0-day-in-the-age-of-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://margin.re/2026/08/introducing-the-half-day-0-day-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49368297 Points: 2 # Comments: 0",
+    "published_at": "2026-08-19 23:03",
+    "tags": [],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Semantica, the Open Source Palantir for AI Agents",
+    "url": "https://github.com/semantica-agi/semantica",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/semantica-agi/semantica Comments URL: https://news.ycombinator.com/item?id=49367995 Points: 2 # Comments: 0",
+    "published_at": "2026-08-19 22:28",
+    "tags": [],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Japan to require AI firms to disclose training data",
+    "url": "https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/ Comments URL: https://news.ycombinator.com/item?id=49367870 Points: 12 # Comments: 4",
+    "published_at": "2026-08-19 22:12",
+    "tags": [],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+    "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+    "source": "TechCrunch AI",
+    "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+    "published_at": "2026-08-19 22:10",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Claude",
+      "fable",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Node.js AI use policy and guidelines",
+    "url": "https://github.com/nodejs/node/blob/main/doc/contributing/ai-guidelines.md",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/nodejs/node/blob/main/doc/contributing/ai-guidelines.md Comments URL: https://news.ycombinator.com/item?id=49367779 Points: 2 # Comments: 0",
+    "published_at": "2026-08-19 22:03",
+    "tags": [],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+    "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+    "source": "TechCrunch AI",
+    "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+    "published_at": "2026-08-19 21:51",
+    "tags": [
+      "AI",
+      "ai coding",
+      "cognition",
+      "Devin",
+      "Mergers and Acquisitions",
+      "SpaceX",
+      "vibe coding"
+    ],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Replit expands access to software creation with GPT‑5.6 Luna",
+    "url": "https://openai.com/index/replit/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://openai.com/index/replit/ Comments URL: https://news.ycombinator.com/item?id=49367650 Points: 3 # Comments: 0",
+    "published_at": "2026-08-19 21:49",
+    "tags": [],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Vibe-Kanban-Alternative – Classic AI agent Kanban with mem0 persistent memory",
+    "url": "https://github.com/flashlan/vibe-kanban-alternative",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/flashlan/vibe-kanban-alternative Comments URL: https://news.ycombinator.com/item?id=49367532 Points: 1 # Comments: 0",
+    "published_at": "2026-08-19 21:38",
+    "tags": [],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI was supposed to win people over by now — it hasn’t",
+    "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+    "source": "TechCrunch AI",
+    "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+    "published_at": "2026-08-19 19:11",
+    "tags": [
+      "AI",
+      "TC"
+    ],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+    "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+    "source": "TechCrunch AI",
+    "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
+    "published_at": "2026-08-19 15:00",
+    "tags": [
+      "AI",
+      "Media & Entertainment",
+      "Alexa",
+      "Amazon",
+      "Fire TV"
+    ],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI hit the brakes. Now what?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+    "source": "The Verge AI",
+    "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguards. That included a two-week pause [&#8230;]",
+    "published_at": "2026-08-19 13:10",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "Report",
+      "Security",
+      "Tech"
+    ],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Meta AI is getting a Mac app",
+    "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+    "source": "The Verge AI",
+    "summary": "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what's on your screen. Meta AI on the Mac also supports dictation across all apps. The [&#8230;]",
+    "published_at": "2026-08-19 13:00",
+    "tags": [
+      "AI",
+      "Apple",
+      "Apps",
+      "macOS",
+      "Meta",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Can an LLM make a feature-length movie on its own?",
     "url": "https://www.lesswrong.com/posts/24RKHEkwgZ6Hm6ygY/can-an-llm-make-a-feature-length-movie-on-its-own",
     "source": "Hacker News AI",
@@ -100,6 +317,21 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+    "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+    "source": "TechCrunch AI",
+    "summary": "It's the data, stupid.",
+    "published_at": "2026-08-19 12:00",
+    "tags": [
+      "AI",
+      "Biotech & Health",
+      "Startups",
+      "AI drug discovery"
+    ],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Show HN: Real-time argument duello game – AI judge decides who's right",
     "url": "https://wram.chat",
     "source": "Hacker News AI",
@@ -148,6 +380,20 @@
     "tags": [],
     "fetch_date": "2026-08-19",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+    "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+    "source": "TechCrunch AI",
+    "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
+    "published_at": "2026-08-19 10:00",
+    "tags": [
+      "AI",
+      "data centers",
+      "Fiber"
+    ],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "早报"
   },
   {
     "title": "Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text",
@@ -292,6 +538,22 @@
     ],
     "fetch_date": "2026-08-19",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Perplexity’s free AI offer left it with millions more users in India",
+    "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+    "source": "TechCrunch AI",
+    "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
+    "published_at": "2026-08-18 13:45",
+    "tags": [
+      "AI",
+      "Apps",
+      "Startups",
+      "Airtel",
+      "Perplexity"
+    ],
+    "fetch_date": "2026-08-20",
+    "fetch_label": "早报"
   },
   {
     "title": "Firefox&#8217;s Smart Window promises a better AI browser",
@@ -34999,264 +35261,6 @@
       "pentagon"
     ],
     "fetch_date": "2026-04-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Elon Musk tells the jury that all he wants to do is save humanity",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity",
-    "source": "The Verge AI",
-    "summary": "On the stand, Elon Musk is positioning himself as a savior. In the high-profile trial between him and his fellow OpenAI co-founder, now CEO, Sam Altman, Musk opened by going through his background. He went as far back as being raised in South Africa and arriving in Canada for college with \"2,500 in Canadian travelers' [&#8230;]",
-    "published_at": "2026-04-28 16:46",
-    "tags": [
-      "AI",
-      "Elon Musk",
-      "OpenAI",
-      "Tech"
-    ],
-    "fetch_date": "2026-04-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-    "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-    "source": "The Verge AI",
-    "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. The trial began with [&#8230;]",
-    "published_at": "2026-04-28 15:27",
-    "tags": [
-      "AI",
-      "Elon Musk",
-      "Law",
-      "News",
-      "OpenAI",
-      "Policy",
-      "Tech",
-      "xAI"
-    ],
-    "fetch_date": "2026-04-29",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "YouTube is testing an AI-powered search feature that shows guided answers",
-    "url": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
-    "source": "TechCrunch AI",
-    "summary": "YouTube is rolling out the new AI search feature to Premium subscribers in the U.S. on an opt-in basis.",
-    "published_at": "2026-04-28 13:54",
-    "tags": [
-      "AI",
-      "Apps",
-      "Media & Entertainment",
-      "Google",
-      "Search",
-      "Video",
-      "YouTube"
-    ],
-    "fetch_date": "2026-04-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Musk and Altman go to court",
-    "url": "https://www.theverge.com/podcast/919534/musk-openai-trial-vergecast",
-    "source": "The Verge AI",
-    "summary": "The trial between Elon Musk and OpenAI is officially upon us. And it is going to be a mess. As the two sides fight over the early days of AI, who deserves credit and cash for what, and more, we're likely to spend the next few weeks hearing a lot of important people's secrets made [&#8230;]",
-    "published_at": "2026-04-28 10:47",
-    "tags": [
-      "AI",
-      "Gadgets",
-      "OpenAI",
-      "Podcasts",
-      "Vergecast"
-    ],
-    "fetch_date": "2026-04-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Why Spotify has no button to filter out AI music",
-    "url": "https://www.bbc.co.uk/news/articles/cd7jpg4w181o",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.bbc.co.uk/news/articles/cd7jpg4w181o Comments URL: https://news.ycombinator.com/item?id=47930128 Points: 1 # Comments: 0",
-    "published_at": "2026-04-28 03:19",
-    "tags": [],
-    "fetch_date": "2026-04-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Grocyy – AI receipt scanner that tracks grocery spending by item, not just total",
-    "url": "https://grocyy.com/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://grocyy.com/ Comments URL: https://news.ycombinator.com/item?id=47930047 Points: 1 # Comments: 0",
-    "published_at": "2026-04-28 03:04",
-    "tags": [],
-    "fetch_date": "2026-04-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The AI-X Scale for Written Content",
-    "url": "https://docs.zeropolis.net/doku.php/tech:ai-text-categorization",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://docs.zeropolis.net/doku.php/tech:ai-text-categorization Comments URL: https://news.ycombinator.com/item?id=47929918 Points: 1 # Comments: 0",
-    "published_at": "2026-04-28 02:36",
-    "tags": [],
-    "fetch_date": "2026-04-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "You were training AI while catching Pokemon [video]",
-    "url": "https://www.youtube.com/watch?v=Vk95ZO-WAvY",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.youtube.com/watch?v=Vk95ZO-WAvY Comments URL: https://news.ycombinator.com/item?id=47929871 Points: 1 # Comments: 0",
-    "published_at": "2026-04-28 02:29",
-    "tags": [],
-    "fetch_date": "2026-04-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "An AI First World (2016)",
-    "url": "https://avc.com/2016/04/an-ai-first-world/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://avc.com/2016/04/an-ai-first-world/ Comments URL: https://news.ycombinator.com/item?id=47929692 Points: 3 # Comments: 0",
-    "published_at": "2026-04-28 01:59",
-    "tags": [],
-    "fetch_date": "2026-04-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "How AI Will Reshape Computer Systems by 2035",
-    "url": "https://cra.org/industry/2026/04/27/how-ai-will-reshape-computer-systems-by-2035-a-jeffersonian-dinner-in-san-francisco-about-our-10000x-future/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://cra.org/industry/2026/04/27/how-ai-will-reshape-computer-systems-by-2035-a-jeffersonian-dinner-in-san-francisco-about-our-10000x-future/ Comments URL: https://news.ycombinator.com/item?id=47929621 Points: 2 # Comments: 0",
-    "published_at": "2026-04-28 01:49",
-    "tags": [],
-    "fetch_date": "2026-04-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Lightport – open-source AI gateway",
-    "url": "https://www.npmjs.com/package/lightport",
-    "source": "Hacker News AI",
-    "summary": "Hey HN!I am the founder of Glama.We are making Lightport open-source – it's the AI gateway that's been powering Glama.GitHub: https://github.com/glama-ai/lightportLive: https://glama.ai/ai/gatewayWhy?We're going all-in on the MCP ecosystem – it's what we're best at. Open-sourcing the gateway is both a thank-you to the community that helped us grow and a way to keep us focused.The short backstory:Lightport began as a fork of Portkey. We needed a way to make various LLM providers OpenAI-compatible",
-    "published_at": "2026-04-28 01:48",
-    "tags": [],
-    "fetch_date": "2026-04-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path",
-    "url": "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/ Comments URL: https://news.ycombinator.com/item?id=47929069 Points: 2 # Comments: 0",
-    "published_at": "2026-04-28 00:35",
-    "tags": [],
-    "fetch_date": "2026-04-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Google staff urge chief executive to block US Military AI use",
-    "url": "https://www.ft.com/content/9270ce04-558c-44e8-816f-a40219cd5007",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.ft.com/content/9270ce04-558c-44e8-816f-a40219cd5007 Comments URL: https://news.ycombinator.com/item?id=47928887 Points: 10 # Comments: 0",
-    "published_at": "2026-04-28 00:08",
-    "tags": [],
-    "fetch_date": "2026-04-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Generative AI Vegetarianism",
-    "url": "https://sboots.ca/2026/03/11/generative-ai-vegetarianism/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://sboots.ca/2026/03/11/generative-ai-vegetarianism/ Comments URL: https://news.ycombinator.com/item?id=47928885 Points: 37 # Comments: 44",
-    "published_at": "2026-04-28 00:07",
-    "tags": [],
-    "fetch_date": "2026-04-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Professors Disturbed to Find Their Lectures Chopped Up and Turned into AI Slop",
-    "url": "https://www.404media.co/asu-atomic-ai-modules-arizona-state-university/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.404media.co/asu-atomic-ai-modules-arizona-state-university/ Comments URL: https://news.ycombinator.com/item?id=47928842 Points: 5 # Comments: 0",
-    "published_at": "2026-04-28 00:00",
-    "tags": [],
-    "fetch_date": "2026-04-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Ask HN: What Makes AI a Bubble?",
-    "url": "https://news.ycombinator.com/item?id=47928683",
-    "source": "Hacker News AI",
-    "summary": "A lot of people seem to take it as a given that the AI bubble will \"pop\", leading to a mass devaluation of AI companies from their current peaks.What I'm confused about though is what makes current AI evaluations a bubble.Bubbles usually exists when future speculation outpaces productivity: eventually some realization leads the market to no longer believe in that future speculation, causing devaluation which triggers a mass sell-off.However, AI companies currently have very high revenues and are",
-    "published_at": "2026-04-27 23:32",
-    "tags": [],
-    "fetch_date": "2026-04-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "China's DeepSeek prices new V4 AI model at 97% below OpenAI's GPT-5.5",
-    "url": "https://www.scmp.com/tech/tech-trends/article/3351595/chinas-deepseek-prices-new-v4-ai-model-97-below-openais-gpt-55",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.scmp.com/tech/tech-trends/article/3351595/chinas-deepseek-prices-new-v4-ai-model-97-below-openais-gpt-55 Comments URL: https://news.ycombinator.com/item?id=47928644 Points: 4 # Comments: 0",
-    "published_at": "2026-04-27 23:26",
-    "tags": [],
-    "fetch_date": "2026-04-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "What is physical AI?",
-    "url": "https://www.ibm.com/think/topics/physical-ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.ibm.com/think/topics/physical-ai Comments URL: https://news.ycombinator.com/item?id=47928607 Points: 1 # Comments: 0",
-    "published_at": "2026-04-27 23:21",
-    "tags": [],
-    "fetch_date": "2026-04-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Google is testing AI chatbot search for YouTube",
-    "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
-    "source": "The Verge AI",
-    "summary": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like longform videos, YouTube Shorts, and text about what you're searching for. The \"experiment\" is now available if you're a YouTube [&#8230;]",
-    "published_at": "2026-04-27 20:01",
-    "tags": [
-      "AI",
-      "Google",
-      "News",
-      "Streaming",
-      "Tech",
-      "YouTube"
-    ],
-    "fetch_date": "2026-04-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
-    "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
-    "source": "TechCrunch AI",
-    "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
-    "published_at": "2026-04-27 17:40",
-    "tags": [
-      "AI",
-      "Enterprise",
-      "Amazon",
-      "Microsoft",
-      "OpenAI"
-    ],
-    "fetch_date": "2026-04-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
-    "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
-    "source": "TechCrunch AI",
-    "summary": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
-    "published_at": "2026-04-27 17:24",
-    "tags": [
-      "AI",
-      "DeepMind",
-      "ineffable intelligence",
-      "lightspeed",
-      "reinforcement learning",
-      "Sequoia Capital"
-    ],
-    "fetch_date": "2026-04-28",
     "fetch_label": "早报"
   }
 ]

@@ -1,0 +1,245 @@
+{
+  "date": "2026-08-20",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-08-20 09:22:38",
+      "count": 22,
+      "articles": [
+        {
+          "title": "How to use AI for your next job interview",
+          "url": "https://www.lennysnewsletter.com/p/how-to-use-ai-in-your-next-job-interview",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.lennysnewsletter.com/p/how-to-use-ai-in-your-next-job-interview Comments URL: https://news.ycombinator.com/item?id=49369333 Points: 1 # Comments: 0",
+          "published_at": "2026-08-20 01:18",
+          "tags": []
+        },
+        {
+          "title": "Agentic AI has made CPUs the new performance bottleneck",
+          "url": "https://spectrum.ieee.org/ai-cpu-comeback",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://spectrum.ieee.org/ai-cpu-comeback Comments URL: https://news.ycombinator.com/item?id=49369311 Points: 1 # Comments: 0",
+          "published_at": "2026-08-20 01:14",
+          "tags": []
+        },
+        {
+          "title": "If You're Not Studying for Retention, Just Use AI",
+          "url": "https://www.fjapm.com/posts/if-youre-not-studying-for-retention-just-use-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.fjapm.com/posts/if-youre-not-studying-for-retention-just-use-ai Comments URL: https://news.ycombinator.com/item?id=49368725 Points: 3 # Comments: 1",
+          "published_at": "2026-08-19 23:50",
+          "tags": []
+        },
+        {
+          "title": "AI-Powered Cyberattacks",
+          "url": "https://www.opswat.com/blog/ai-powered-cyberattacks",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.opswat.com/blog/ai-powered-cyberattacks Comments URL: https://news.ycombinator.com/item?id=49368496 Points: 1 # Comments: 0",
+          "published_at": "2026-08-19 23:25",
+          "tags": []
+        },
+        {
+          "title": "AI Hurtles Ahead",
+          "url": "https://www.oaktreecapital.com/insights/memo/ai-hurtles-ahead",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.oaktreecapital.com/insights/memo/ai-hurtles-ahead Comments URL: https://news.ycombinator.com/item?id=49368452 Points: 1 # Comments: 3",
+          "published_at": "2026-08-19 23:21",
+          "tags": []
+        },
+        {
+          "title": "Technical leaders should have the largest AI exhaust",
+          "url": "https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/ Comments URL: https://news.ycombinator.com/item?id=49368389 Points: 8 # Comments: 9",
+          "published_at": "2026-08-19 23:12",
+          "tags": []
+        },
+        {
+          "title": "\"Half-Day\": 0-Day in the Age of AI",
+          "url": "https://margin.re/2026/08/introducing-the-half-day-0-day-in-the-age-of-ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://margin.re/2026/08/introducing-the-half-day-0-day-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49368297 Points: 2 # Comments: 0",
+          "published_at": "2026-08-19 23:03",
+          "tags": []
+        },
+        {
+          "title": "Semantica, the Open Source Palantir for AI Agents",
+          "url": "https://github.com/semantica-agi/semantica",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/semantica-agi/semantica Comments URL: https://news.ycombinator.com/item?id=49367995 Points: 2 # Comments: 0",
+          "published_at": "2026-08-19 22:28",
+          "tags": []
+        },
+        {
+          "title": "Japan to require AI firms to disclose training data",
+          "url": "https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/ Comments URL: https://news.ycombinator.com/item?id=49367870 Points: 12 # Comments: 4",
+          "published_at": "2026-08-19 22:12",
+          "tags": []
+        },
+        {
+          "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+          "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+          "source": "TechCrunch AI",
+          "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+          "published_at": "2026-08-19 22:10",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "Claude",
+            "fable",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Node.js AI use policy and guidelines",
+          "url": "https://github.com/nodejs/node/blob/main/doc/contributing/ai-guidelines.md",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/nodejs/node/blob/main/doc/contributing/ai-guidelines.md Comments URL: https://news.ycombinator.com/item?id=49367779 Points: 2 # Comments: 0",
+          "published_at": "2026-08-19 22:03",
+          "tags": []
+        },
+        {
+          "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+          "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+          "source": "TechCrunch AI",
+          "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+          "published_at": "2026-08-19 21:51",
+          "tags": [
+            "AI",
+            "ai coding",
+            "cognition",
+            "Devin",
+            "Mergers and Acquisitions",
+            "SpaceX",
+            "vibe coding"
+          ]
+        },
+        {
+          "title": "Replit expands access to software creation with GPT‑5.6 Luna",
+          "url": "https://openai.com/index/replit/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://openai.com/index/replit/ Comments URL: https://news.ycombinator.com/item?id=49367650 Points: 3 # Comments: 0",
+          "published_at": "2026-08-19 21:49",
+          "tags": []
+        },
+        {
+          "title": "Vibe-Kanban-Alternative – Classic AI agent Kanban with mem0 persistent memory",
+          "url": "https://github.com/flashlan/vibe-kanban-alternative",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/flashlan/vibe-kanban-alternative Comments URL: https://news.ycombinator.com/item?id=49367532 Points: 1 # Comments: 0",
+          "published_at": "2026-08-19 21:38",
+          "tags": []
+        },
+        {
+          "title": "AI was supposed to win people over by now — it hasn’t",
+          "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+          "source": "TechCrunch AI",
+          "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+          "published_at": "2026-08-19 19:11",
+          "tags": [
+            "AI",
+            "TC"
+          ]
+        },
+        {
+          "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+          "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
+          "published_at": "2026-08-19 15:00",
+          "tags": [
+            "AI",
+            "Media & Entertainment",
+            "Alexa",
+            "Amazon",
+            "Fire TV"
+          ]
+        },
+        {
+          "title": "OpenAI hit the brakes. Now what?",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+          "source": "The Verge AI",
+          "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguards. That included a two-week pause [&#8230;]",
+          "published_at": "2026-08-19 13:10",
+          "tags": [
+            "AI",
+            "OpenAI",
+            "Report",
+            "Security",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Meta AI is getting a Mac app",
+          "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+          "source": "The Verge AI",
+          "summary": "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what's on your screen. Meta AI on the Mac also supports dictation across all apps. The [&#8230;]",
+          "published_at": "2026-08-19 13:00",
+          "tags": [
+            "AI",
+            "Apple",
+            "Apps",
+            "macOS",
+            "Meta",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+          "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+          "source": "TechCrunch AI",
+          "summary": "It's the data, stupid.",
+          "published_at": "2026-08-19 12:00",
+          "tags": [
+            "AI",
+            "Biotech & Health",
+            "Startups",
+            "AI drug discovery"
+          ]
+        },
+        {
+          "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+          "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+          "source": "TechCrunch AI",
+          "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
+          "published_at": "2026-08-19 10:00",
+          "tags": [
+            "AI",
+            "data centers",
+            "Fiber"
+          ]
+        },
+        {
+          "title": "Etched’s valuation doubles to $21B in a month",
+          "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+          "source": "TechCrunch AI",
+          "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+          "published_at": "2026-08-18 17:21",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Startups",
+            "etched"
+          ]
+        },
+        {
+          "title": "Perplexity’s free AI offer left it with millions more users in India",
+          "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+          "source": "TechCrunch AI",
+          "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
+          "published_at": "2026-08-18 13:45",
+          "tags": [
+            "AI",
+            "Apps",
+            "Startups",
+            "Airtel",
+            "Perplexity"
+          ]
+        }
+      ]
+    }
+  ]
+}
