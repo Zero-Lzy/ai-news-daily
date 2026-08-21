@@ -161,6 +161,229 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-08-21 20:47:50",
+      "count": 22,
+      "articles": [
+        {
+          "title": "AI;DR or Don't be a meat proxy",
+          "url": "https://theaspiringnerd.com/aidr-or-dont-be-a-meat-proxy/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://theaspiringnerd.com/aidr-or-dont-be-a-meat-proxy/ Comments URL: https://news.ycombinator.com/item?id=49387059 Points: 1 # Comments: 0",
+          "published_at": "2026-08-21 12:25",
+          "tags": []
+        },
+        {
+          "title": "Locus: Deterministic AST safety firewall for AI agents in pure Rust (<0.05ms)",
+          "url": "https://github.com/ahmadshady747-create/LOCUS",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/ahmadshady747-create/LOCUS Comments URL: https://news.ycombinator.com/item?id=49387042 Points: 1 # Comments: 0",
+          "published_at": "2026-08-21 12:24",
+          "tags": []
+        },
+        {
+          "title": "ChatGPT-Taught Experts Are Crippling Agentic AI",
+          "url": "https://msukhareva.substack.com/p/how-chatgpt-taught-experts-are-crippling",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://msukhareva.substack.com/p/how-chatgpt-taught-experts-are-crippling Comments URL: https://news.ycombinator.com/item?id=49386963 Points: 1 # Comments: 1",
+          "published_at": "2026-08-21 12:16",
+          "tags": []
+        },
+        {
+          "title": "Tell HN: US LLM models are smarter outside US working hours",
+          "url": "https://news.ycombinator.com/item?id=49386935",
+          "source": "Hacker News AI",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=49386935 Points: 1 # Comments: 0",
+          "published_at": "2026-08-21 12:14",
+          "tags": []
+        },
+        {
+          "title": "We burned 11.7B tokens to find the best cyber AI model",
+          "url": "https://www.aikido.dev/blog/ai-model-benchmarks-aug-21-2026",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.aikido.dev/blog/ai-model-benchmarks-aug-21-2026 Comments URL: https://news.ycombinator.com/item?id=49386885 Points: 1 # Comments: 0",
+          "published_at": "2026-08-21 12:09",
+          "tags": []
+        },
+        {
+          "title": "Vertical AI Founders, You Are Going Through 3 Existential Crises",
+          "url": "https://medium.com/@MirArshadTalpur/vertical-ai-founders-you-are-going-through-3-existential-crises-and-most-of-you-dont-know-it-b3d86a386d37",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://medium.com/@MirArshadTalpur/vertical-ai-founders-you-are-going-through-3-existential-crises-and-most-of-you-dont-know-it-b3d86a386d37 Comments URL: https://news.ycombinator.com/item?id=49386845 Points: 3 # Comments: 1",
+          "published_at": "2026-08-21 12:04",
+          "tags": []
+        },
+        {
+          "title": "AI reshapes India's IT services sector contracts as clients demand more for less",
+          "url": "https://www.reuters.com/world/india/ai-reshapes-indias-it-services-sector-contracts-clients-demand-more-less-2026-08-20/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.reuters.com/world/india/ai-reshapes-indias-it-services-sector-contracts-clients-demand-more-less-2026-08-20/ Comments URL: https://news.ycombinator.com/item?id=49386837 Points: 2 # Comments: 1",
+          "published_at": "2026-08-21 12:04",
+          "tags": []
+        },
+        {
+          "title": "I'm Becoming AI-Blind",
+          "url": "https://cymerys.com/w/im-becoming-ai-blind",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://cymerys.com/w/im-becoming-ai-blind Comments URL: https://news.ycombinator.com/item?id=49386699 Points: 6 # Comments: 0",
+          "published_at": "2026-08-21 11:48",
+          "tags": []
+        },
+        {
+          "title": "Delta Use AI to Cut Costs Set Diff Ticket Price–CEO Says Profits Could Rise 50%",
+          "url": "https://viewfromthewing.com/delta-will-use-ai-to-cut-jobs-and-set-a-different-ticket-price-for-every-passenger-ceo-says-profits-could-rise-50/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://viewfromthewing.com/delta-will-use-ai-to-cut-jobs-and-set-a-different-ticket-price-for-every-passenger-ceo-says-profits-could-rise-50/ Comments URL: https://news.ycombinator.com/item?id=49386689 Points: 4 # Comments: 1",
+          "published_at": "2026-08-21 11:47",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: What is the best AI Video studio",
+          "url": "https://news.ycombinator.com/item?id=49386577",
+          "source": "Hacker News AI",
+          "summary": "I’m learning how to make AI videos, I know there are many video models. But is there a platform that can provide professional workflow to make ai videos? Comments URL: https://news.ycombinator.com/item?id=49386577 Points: 2 # Comments: 0",
+          "published_at": "2026-08-21 11:35",
+          "tags": []
+        },
+        {
+          "title": "AI(.)DIY – Open-source AI workspace with agents, MCP and Linux in the browser",
+          "url": "https://github.com/Cubinghackerz/ai.diy",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/Cubinghackerz/ai.diy Comments URL: https://news.ycombinator.com/item?id=49386508 Points: 1 # Comments: 0",
+          "published_at": "2026-08-21 11:25",
+          "tags": []
+        },
+        {
+          "title": "Microsoft gives Task Manager another task: Watching AI workloads",
+          "url": "https://www.theregister.com/os-platforms/2026/08/20/microsoft-gives-task-manager-another-task-watching-ai-workloads/5290448",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theregister.com/os-platforms/2026/08/20/microsoft-gives-task-manager-another-task-watching-ai-workloads/5290448 Comments URL: https://news.ycombinator.com/item?id=49386447 Points: 2 # Comments: 0",
+          "published_at": "2026-08-21 11:16",
+          "tags": []
+        },
+        {
+          "title": "When AI designs a drug, who gets the credit?",
+          "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/ Comments URL: https://news.ycombinator.com/item?id=49386348 Points: 1 # Comments: 0",
+          "published_at": "2026-08-21 11:02",
+          "tags": []
+        },
+        {
+          "title": "Qwen Image 3.0 Pro vs. GPT Image 2 for production image APIs",
+          "url": "https://flaq.ai/models/alibaba/qwen-image-3-0-pro/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://flaq.ai/models/alibaba/qwen-image-3-0-pro/ Comments URL: https://news.ycombinator.com/item?id=49386174 Points: 2 # Comments: 0",
+          "published_at": "2026-08-21 10:36",
+          "tags": []
+        },
+        {
+          "title": "Watch a 535B parameter (23B active) LLM get trained live",
+          "url": "https://wandb.ai/marin-community/marin_moe/reports/535B-A23B-18T-Token-Hero-Run-Scaling-Ladder--VmlldzoxNzc2MDM5Ng",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://wandb.ai/marin-community/marin_moe/reports/535B-A23B-18T-Token-Hero-Run-Scaling-Ladder--VmlldzoxNzc2MDM5Ng Comments URL: https://news.ycombinator.com/item?id=49386102 Points: 1 # Comments: 0",
+          "published_at": "2026-08-21 10:25",
+          "tags": []
+        },
+        {
+          "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+          "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+          "source": "TechCrunch AI",
+          "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+          "published_at": "2026-08-21 00:13",
+          "tags": [
+            "AI",
+            "Startups",
+            "data labeling",
+            "micro1",
+            "reinforcement learning"
+          ]
+        },
+        {
+          "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+          "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+          "source": "TechCrunch AI",
+          "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
+          "published_at": "2026-08-20 19:18",
+          "tags": [
+            "AI",
+            "Media & Entertainment",
+            "Google",
+            "Search"
+          ]
+        },
+        {
+          "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+          "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+          "source": "TechCrunch AI",
+          "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+          "published_at": "2026-08-20 18:20",
+          "tags": [
+            "AI",
+            "Apps",
+            "Gadgets",
+            "Hardware",
+            "smart calendar"
+          ]
+        },
+        {
+          "title": "Meta AI’s new Mac app wants you to talk to your apps",
+          "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+          "source": "TechCrunch AI",
+          "summary": "The company said that the dictation feature works across all apps, just like other tools such as Wispr Flow, Superwhisper, and Monologue.",
+          "published_at": "2026-08-20 12:11",
+          "tags": [
+            "AI",
+            "In Brief",
+            "Meta",
+            "meta ai"
+          ]
+        },
+        {
+          "title": "It’s Greg Brockman’s OpenAI now",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+          "source": "The Verge AI",
+          "summary": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives [&#8230;]",
+          "published_at": "2026-08-20 11:45",
+          "tags": [
+            "AI",
+            "OpenAI",
+            "Report"
+          ]
+        },
+        {
+          "title": "Welcome to the AI crisis in math",
+          "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+          "source": "The Verge AI",
+          "summary": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it. OpenAI just published a set of solutions to longstanding problems in math that went off like a bombshell in the field. [&#8230;]",
+          "published_at": "2026-08-20 10:00",
+          "tags": [
+            "AI",
+            "Decoder",
+            "OpenAI",
+            "Podcasts",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+          "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+          "source": "TechCrunch AI",
+          "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+          "published_at": "2026-08-19 21:51",
+          "tags": [
+            "AI",
+            "ai coding",
+            "cognition",
+            "Devin",
+            "Mergers and Acquisitions",
+            "SpaceX",
+            "vibe coding"
+          ]
+        }
+      ]
     }
   ]
 }
