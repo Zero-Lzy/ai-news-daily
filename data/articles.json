@@ -1,5 +1,101 @@
 [
   {
+    "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+    "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+    "source": "TechCrunch AI",
+    "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+    "published_at": "2026-08-21 00:13",
+    "tags": [
+      "AI",
+      "Startups",
+      "data labeling",
+      "micro1",
+      "reinforcement learning"
+    ],
+    "fetch_date": "2026-08-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+    "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+    "source": "TechCrunch AI",
+    "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+    "published_at": "2026-08-20 22:36",
+    "tags": [
+      "AI",
+      "TC",
+      "Anthropic",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-08-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+    "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+    "source": "TechCrunch AI",
+    "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+    "published_at": "2026-08-20 22:09",
+    "tags": [
+      "AI",
+      "Apple",
+      "ChatGPT",
+      "In Brief",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-08-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+    "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+    "source": "TechCrunch AI",
+    "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+    "published_at": "2026-08-20 18:20",
+    "tags": [
+      "AI",
+      "Apps",
+      "Gadgets",
+      "Hardware",
+      "smart calendar"
+    ],
+    "fetch_date": "2026-08-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ramp launches its own AI model router, called Router",
+    "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+    "source": "TechCrunch AI",
+    "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+    "published_at": "2026-08-20 16:46",
+    "tags": [
+      "AI",
+      "Fintech",
+      "corporate expense management",
+      "openrouter",
+      "Ramp"
+    ],
+    "fetch_date": "2026-08-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+    "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+    "source": "TechCrunch AI",
+    "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
+    "published_at": "2026-08-20 16:07",
+    "tags": [
+      "AI",
+      "Apps",
+      "Gaming",
+      "Social",
+      "Meta",
+      "vibe-coding"
+    ],
+    "fetch_date": "2026-08-21",
+    "fetch_label": "早报"
+  },
+  {
     "title": "GOP issues stark warning to AI companies",
     "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
     "source": "Hacker News AI",
@@ -50,6 +146,21 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "Meta AI’s new Mac app wants you to talk to your apps",
+    "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+    "source": "TechCrunch AI",
+    "summary": "The company said that the dictation feature works across all apps, just like other tools such as Wispr Flow, Superwhisper, and Monologue.",
+    "published_at": "2026-08-20 12:11",
+    "tags": [
+      "AI",
+      "In Brief",
+      "Meta",
+      "meta ai"
+    ],
+    "fetch_date": "2026-08-21",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Kingmakers: Crypto, AI, betting firms fuel record spending on the 2026 midterms",
     "url": "https://www.reuters.com/legal/legalindustry/new-kingmakers-crypto-ai-betting-firms-fuel-record-spending-2026-midterms-2026-08-20/",
     "source": "Hacker News AI",
@@ -68,6 +179,20 @@
     "tags": [],
     "fetch_date": "2026-08-20",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "It’s Greg Brockman’s OpenAI now",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+    "source": "The Verge AI",
+    "summary": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives [&#8230;]",
+    "published_at": "2026-08-20 11:45",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "Report"
+    ],
+    "fetch_date": "2026-08-21",
+    "fetch_label": "早报"
   },
   {
     "title": "AI didn't erase the junior engineer's value, it increased it it",
@@ -310,6 +435,21 @@
       "Fire TV"
     ],
     "fetch_date": "2026-08-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Google Gemini is getting a dedicated student hub",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+    "source": "The Verge AI",
+    "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates [&#8230;]",
+    "published_at": "2026-08-19 15:00",
+    "tags": [
+      "AI",
+      "Google",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-08-21",
     "fetch_label": "早报"
   },
   {
@@ -35143,111 +35283,5 @@
     "tags": [],
     "fetch_date": "2026-04-29",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "Four engineers with 10 years of experience on staying relevant in the AI era",
-    "url": "https://shiftmag.dev/what-4-engineers-with-10-years-of-experience-say-about-staying-relevant-in-the-ai-era-9309/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://shiftmag.dev/what-4-engineers-with-10-years-of-experience-say-about-staying-relevant-in-the-ai-era-9309/ Comments URL: https://news.ycombinator.com/item?id=47947797 Points: 4 # Comments: 0",
-    "published_at": "2026-04-29 13:03",
-    "tags": [],
-    "fetch_date": "2026-04-29",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Prxhub – open registry so AI agents stop re-running the same research",
-    "url": "https://prxhub.com",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://prxhub.com Comments URL: https://news.ycombinator.com/item?id=47947759 Points: 5 # Comments: 0",
-    "published_at": "2026-04-29 13:00",
-    "tags": [],
-    "fetch_date": "2026-04-29",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Chatbots – Last Week Tonight [video]",
-    "url": "https://www.youtube.com/watch?v=Ykvf3MunGf8",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.youtube.com/watch?v=Ykvf3MunGf8 Comments URL: https://news.ycombinator.com/item?id=47947671 Points: 1 # Comments: 0",
-    "published_at": "2026-04-29 12:54",
-    "tags": [],
-    "fetch_date": "2026-04-29",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Megent – Firewall for AI Agents",
-    "url": "https://megent.dev",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://megent.dev Comments URL: https://news.ycombinator.com/item?id=47947605 Points: 1 # Comments: 0",
-    "published_at": "2026-04-29 12:50",
-    "tags": [],
-    "fetch_date": "2026-04-29",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Letting AI play my game – building an agentic test harness to help play-testing",
-    "url": "https://blog.jeffschomay.com/letting-ai-play-my-game",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://blog.jeffschomay.com/letting-ai-play-my-game Comments URL: https://news.ycombinator.com/item?id=47947525 Points: 15 # Comments: 1",
-    "published_at": "2026-04-29 12:43",
-    "tags": [],
-    "fetch_date": "2026-04-29",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "ChatGPT downloads are slowing — and may cause problems for OpenAI&#8217;s IPO",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/920476/openai-chatgpt-downloads-slow-down-ipo",
-    "source": "The Verge AI",
-    "summary": "ChatGPT is struggling to keep up its once-explosive growth as users uninstall the app or opt for rival chatbots instead. According to data from market intelligence firm Sensor Tower, ChatGPT experienced a 132 percent increase in uninstalls year over year in April. Its uninstall rate was even higher last month, up 413 percent year-over-year, following [&#8230;]",
-    "published_at": "2026-04-29 10:43",
-    "tags": [
-      "AI",
-      "News",
-      "OpenAI",
-      "Tech"
-    ],
-    "fetch_date": "2026-04-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Larry’s risky business",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout",
-    "source": "The Verge AI",
-    "summary": "If you want to know whether the AI bubble is bursting, there's only one publicly traded company that will tell you: Oracle. That's right, the database company. Oracle has burned its boats and pivoted to AI, but not in any kind of usual way. It is not a foundation model builder like OpenAI or Anthropic, [&#8230;]",
-    "published_at": "2026-04-29 09:57",
-    "tags": [
-      "AI",
-      "Business",
-      "OpenAI",
-      "Report"
-    ],
-    "fetch_date": "2026-04-29",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Colby Adcock’s Scout AI raises $100M to train its models for war. We visited its bootcamp",
-    "url": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
-    "source": "TechCrunch AI",
-    "summary": "We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles.",
-    "published_at": "2026-04-29 09:45",
-    "tags": [
-      "AI",
-      "Robotics",
-      "defense tech",
-      "Exclusive",
-      "Scout AI"
-    ],
-    "fetch_date": "2026-04-29",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "(One) Good AI Is Here – Anil Dash",
-    "url": "https://www.anildash.com/2026/04/28/one-good-ai-is-here/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.anildash.com/2026/04/28/one-good-ai-is-here/ Comments URL: https://news.ycombinator.com/item?id=47943828 Points: 1 # Comments: 0",
-    "published_at": "2026-04-29 03:20",
-    "tags": [],
-    "fetch_date": "2026-04-29",
-    "fetch_label": "早报"
   }
 ]

@@ -1,0 +1,166 @@
+{
+  "date": "2026-08-21",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-08-21 09:26:52",
+      "count": 11,
+      "articles": [
+        {
+          "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+          "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+          "source": "TechCrunch AI",
+          "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+          "published_at": "2026-08-21 00:13",
+          "tags": [
+            "AI",
+            "Startups",
+            "data labeling",
+            "micro1",
+            "reinforcement learning"
+          ]
+        },
+        {
+          "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+          "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+          "source": "TechCrunch AI",
+          "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+          "published_at": "2026-08-20 22:36",
+          "tags": [
+            "AI",
+            "TC",
+            "Anthropic",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+          "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+          "source": "TechCrunch AI",
+          "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+          "published_at": "2026-08-20 22:09",
+          "tags": [
+            "AI",
+            "Apple",
+            "ChatGPT",
+            "In Brief",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+          "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+          "source": "TechCrunch AI",
+          "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+          "published_at": "2026-08-20 18:20",
+          "tags": [
+            "AI",
+            "Apps",
+            "Gadgets",
+            "Hardware",
+            "smart calendar"
+          ]
+        },
+        {
+          "title": "Ramp launches its own AI model router, called Router",
+          "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+          "source": "TechCrunch AI",
+          "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+          "published_at": "2026-08-20 16:46",
+          "tags": [
+            "AI",
+            "Fintech",
+            "corporate expense management",
+            "openrouter",
+            "Ramp"
+          ]
+        },
+        {
+          "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+          "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+          "source": "TechCrunch AI",
+          "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
+          "published_at": "2026-08-20 16:07",
+          "tags": [
+            "AI",
+            "Apps",
+            "Gaming",
+            "Social",
+            "Meta",
+            "vibe-coding"
+          ]
+        },
+        {
+          "title": "Meta AI’s new Mac app wants you to talk to your apps",
+          "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+          "source": "TechCrunch AI",
+          "summary": "The company said that the dictation feature works across all apps, just like other tools such as Wispr Flow, Superwhisper, and Monologue.",
+          "published_at": "2026-08-20 12:11",
+          "tags": [
+            "AI",
+            "In Brief",
+            "Meta",
+            "meta ai"
+          ]
+        },
+        {
+          "title": "It’s Greg Brockman’s OpenAI now",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+          "source": "The Verge AI",
+          "summary": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives [&#8230;]",
+          "published_at": "2026-08-20 11:45",
+          "tags": [
+            "AI",
+            "OpenAI",
+            "Report"
+          ]
+        },
+        {
+          "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+          "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+          "source": "TechCrunch AI",
+          "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+          "published_at": "2026-08-19 21:51",
+          "tags": [
+            "AI",
+            "ai coding",
+            "cognition",
+            "Devin",
+            "Mergers and Acquisitions",
+            "SpaceX",
+            "vibe coding"
+          ]
+        },
+        {
+          "title": "Google Gemini is getting a dedicated student hub",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+          "source": "The Verge AI",
+          "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates [&#8230;]",
+          "published_at": "2026-08-19 15:00",
+          "tags": [
+            "AI",
+            "Google",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Meta AI is getting a Mac app",
+          "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+          "source": "The Verge AI",
+          "summary": "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what's on your screen. Meta AI on the Mac also supports dictation across all apps. The [&#8230;]",
+          "published_at": "2026-08-19 13:00",
+          "tags": [
+            "AI",
+            "Apple",
+            "Apps",
+            "macOS",
+            "Meta",
+            "News",
+            "Tech"
+          ]
+        }
+      ]
+    }
+  ]
+}
