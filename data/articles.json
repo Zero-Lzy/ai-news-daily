@@ -1,5 +1,154 @@
 [
   {
+    "title": "20% price reduction for GPT 5.6 Sol",
+    "url": "https://community.openai.com/t/20-price-reduction-for-gpt-5-6-sol-api-codex-credits-and-chatgpt-work/1391726",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://community.openai.com/t/20-price-reduction-for-gpt-5-6-sol-api-codex-credits-and-chatgpt-work/1391726 Comments URL: https://news.ycombinator.com/item?id=49395655 Points: 2 # Comments: 0",
+    "published_at": "2026-08-22 01:15",
+    "tags": [],
+    "fetch_date": "2026-08-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
+    "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21/ Comments URL: https://news.ycombinator.com/item?id=49395638 Points: 4 # Comments: 0",
+    "published_at": "2026-08-22 01:09",
+    "tags": [],
+    "fetch_date": "2026-08-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "In 1957, Disney Built Our Friend the Atom. We Now Need Our Friend the AI",
+    "url": "https://medium.com/@chipmunkworks/the-disney-solution-why-silicon-valley-needs-to-build-our-friend-the-ai-1a0ce3fc764a",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://medium.com/@chipmunkworks/the-disney-solution-why-silicon-valley-needs-to-build-our-friend-the-ai-1a0ce3fc764a Comments URL: https://news.ycombinator.com/item?id=49395597 Points: 1 # Comments: 0",
+    "published_at": "2026-08-22 01:00",
+    "tags": [],
+    "fetch_date": "2026-08-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ox Alpha Is Performing SOTA and as Well as GPT-5.6 Sol in Multi-Agent Arena",
+    "url": "https://twitter.com/olam_labs/status/2090930116138582224",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/olam_labs/status/2090930116138582224 Comments URL: https://news.ycombinator.com/item?id=49395319 Points: 2 # Comments: 1",
+    "published_at": "2026-08-22 00:17",
+    "tags": [],
+    "fetch_date": "2026-08-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: AI driven civic dashboard for Palo Alto",
+    "url": "https://paloaltocivic.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://paloaltocivic.com Comments URL: https://news.ycombinator.com/item?id=49395316 Points: 1 # Comments: 0",
+    "published_at": "2026-08-22 00:17",
+    "tags": [],
+    "fetch_date": "2026-08-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Linus: \"A debug session from hell, enormously helped by an AI\"",
+    "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c Comments URL: https://news.ycombinator.com/item?id=49395262 Points: 4 # Comments: 1",
+    "published_at": "2026-08-22 00:08",
+    "tags": [],
+    "fetch_date": "2026-08-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Nvidia to Pay AI Startup Poolside a $6B License, Newcomer Says",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says Comments URL: https://news.ycombinator.com/item?id=49395252 Points: 5 # Comments: 0",
+    "published_at": "2026-08-22 00:07",
+    "tags": [],
+    "fetch_date": "2026-08-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "What We Tell AI",
+    "url": "https://www.whatwetellai.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.whatwetellai.com/ Comments URL: https://news.ycombinator.com/item?id=49395157 Points: 4 # Comments: 1",
+    "published_at": "2026-08-21 23:50",
+    "tags": [],
+    "fetch_date": "2026-08-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "As demand for Meta AI glasses explodes, it's harder to avoid creepy recordings",
+    "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/ Comments URL: https://news.ycombinator.com/item?id=49395154 Points: 3 # Comments: 1",
+    "published_at": "2026-08-21 23:49",
+    "tags": [],
+    "fetch_date": "2026-08-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "A Call for Action: The \"Leiden Declaration on AI and Math\"",
+    "url": "https://www.ams.org/journals/notices/202608/noti3386/noti3386.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.ams.org/journals/notices/202608/noti3386/noti3386.html Comments URL: https://news.ycombinator.com/item?id=49394934 Points: 9 # Comments: 1",
+    "published_at": "2026-08-21 23:20",
+    "tags": [],
+    "fetch_date": "2026-08-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Replacing 223-node agent graph with a single OSS LLM",
+    "url": "https://www.netic.ai/blog/replacing-node-agent-graph-with-open-source-llm",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.netic.ai/blog/replacing-node-agent-graph-with-open-source-llm Comments URL: https://news.ycombinator.com/item?id=49394842 Points: 3 # Comments: 0",
+    "published_at": "2026-08-21 23:10",
+    "tags": [],
+    "fetch_date": "2026-08-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Anthropic’s Opus 4.6 is a smut-machine",
+    "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+    "source": "TechCrunch AI",
+    "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+    "published_at": "2026-08-21 23:07",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Claude",
+      "Exclusive"
+    ],
+    "fetch_date": "2026-08-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Making Audio Stories Interactive with AI: The Story of Schmaudio",
+    "url": "http://www.dennisweyland.net/blog/?p=175",
+    "source": "Hacker News AI",
+    "summary": "Article URL: http://www.dennisweyland.net/blog/?p=175 Comments URL: https://news.ycombinator.com/item?id=49393468 Points: 2 # Comments: 0",
+    "published_at": "2026-08-21 20:36",
+    "tags": [],
+    "fetch_date": "2026-08-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+    "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+    "source": "TechCrunch AI",
+    "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#",
+    "published_at": "2026-08-21 14:00",
+    "tags": [
+      "Startups",
+      "Venture",
+      "AI"
+    ],
+    "fetch_date": "2026-08-22",
+    "fetch_label": "早报"
+  },
+  {
     "title": "AI;DR or Don't be a meat proxy",
     "url": "https://theaspiringnerd.com/aidr-or-dont-be-a-meat-proxy/",
     "source": "Hacker News AI",
@@ -210,6 +359,21 @@
     ],
     "fetch_date": "2026-08-21",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
+    "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+    "source": "TechCrunch AI",
+    "summary": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
+    "published_at": "2026-08-20 19:15",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Startups",
+      "Rippling"
+    ],
+    "fetch_date": "2026-08-22",
+    "fetch_label": "早报"
   },
   {
     "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
@@ -35088,155 +35252,5 @@
     ],
     "fetch_date": "2026-04-30",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Groupchats app just launched",
-    "url": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/ Comments URL: https://news.ycombinator.com/item?id=47957580 Points: 1 # Comments: 1",
-    "published_at": "2026-04-30 03:05",
-    "tags": [],
-    "fetch_date": "2026-04-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The TypeScript AI Framework – Mastra",
-    "url": "https://mastra.ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://mastra.ai/ Comments URL: https://news.ycombinator.com/item?id=47957538 Points: 1 # Comments: 0",
-    "published_at": "2026-04-30 03:00",
-    "tags": [],
-    "fetch_date": "2026-04-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The AI Compute Extensions (ACE) for x86 [pdf]",
-    "url": "https://x86ecosystem.org/wp-content/uploads/2026/03/ACE-Whitepaper-v1.pdf",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://x86ecosystem.org/wp-content/uploads/2026/03/ACE-Whitepaper-v1.pdf Comments URL: https://news.ycombinator.com/item?id=47957495 Points: 2 # Comments: 0",
-    "published_at": "2026-04-30 02:52",
-    "tags": [],
-    "fetch_date": "2026-04-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The Zig project's rationale for their firm anti-AI contribution policy",
-    "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/ Comments URL: https://news.ycombinator.com/item?id=47957294 Points: 6 # Comments: 1",
-    "published_at": "2026-04-30 02:15",
-    "tags": [],
-    "fetch_date": "2026-04-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Musk casts himself as AI's good guy in testimony vs. OpenAI",
-    "url": "https://www.axios.com/2026/04/30/musk-openai-safety-grok",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.axios.com/2026/04/30/musk-openai-safety-grok Comments URL: https://news.ycombinator.com/item?id=47957250 Points: 3 # Comments: 0",
-    "published_at": "2026-04-30 02:07",
-    "tags": [],
-    "fetch_date": "2026-04-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Copilot Student GPT-5.3-Codex removal from model picker",
-    "url": "https://github.blog/changelog/2026-04-27-copilot-student-gpt-5-3-codex-removal-from-model-picker/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.blog/changelog/2026-04-27-copilot-student-gpt-5-3-codex-removal-from-model-picker/ Comments URL: https://news.ycombinator.com/item?id=47957142 Points: 1 # Comments: 1",
-    "published_at": "2026-04-30 01:51",
-    "tags": [],
-    "fetch_date": "2026-04-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Microsoft lifts 2026 AI spend by $25B to cover component price rises",
-    "url": "https://www.theregister.com/2026/04/30/microsoft_q3_2026/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.theregister.com/2026/04/30/microsoft_q3_2026/ Comments URL: https://news.ycombinator.com/item?id=47957119 Points: 4 # Comments: 0",
-    "published_at": "2026-04-30 01:48",
-    "tags": [],
-    "fetch_date": "2026-04-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Failed AI tractor company lays off all employees, abandons Bay Area headquarters",
-    "url": "https://www.sfgate.com/tech/article/monarch-ai-tractor-failure-22183476.php",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.sfgate.com/tech/article/monarch-ai-tractor-failure-22183476.php Comments URL: https://news.ycombinator.com/item?id=47956976 Points: 5 # Comments: 0",
-    "published_at": "2026-04-30 01:31",
-    "tags": [],
-    "fetch_date": "2026-04-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Claude.ai down again?",
-    "url": "https://news.ycombinator.com/item?id=47956890",
-    "source": "Hacker News AI",
-    "summary": "Please run /login · API Error: 403 {\"type\":\"error\",\"error\":{\"type\":\"permission_error\",\"message\":\"Account is no longer a member of the organization associated with this token.\"}}Can't reach Claude Check your connection. Comments URL: https://news.ycombinator.com/item?id=47956890 Points: 22 # Comments: 18",
-    "published_at": "2026-04-30 01:20",
-    "tags": [],
-    "fetch_date": "2026-04-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Gen Z is outsourcing hard conversations to AI. Why it matters",
-    "url": "https://www.rnz.co.nz/life/relationships/gen-z-is-outsourcing-hard-conversations-to-ai-why-it-matters",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.rnz.co.nz/life/relationships/gen-z-is-outsourcing-hard-conversations-to-ai-why-it-matters Comments URL: https://news.ycombinator.com/item?id=47956783 Points: 6 # Comments: 0",
-    "published_at": "2026-04-30 01:02",
-    "tags": [],
-    "fetch_date": "2026-04-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Dex Raised $5.3M to Hire Your AI Engineers Without the LinkedIn Parade",
-    "url": "https://www.siliconsnark.com/dex-raised-5-3m-to-hire-your-ai-engineers-without-the-linkedin-parade/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.siliconsnark.com/dex-raised-5-3m-to-hire-your-ai-engineers-without-the-linkedin-parade/ Comments URL: https://news.ycombinator.com/item?id=47956761 Points: 2 # Comments: 1",
-    "published_at": "2026-04-30 00:59",
-    "tags": [],
-    "fetch_date": "2026-04-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Mike: open-source legal AI",
-    "url": "https://mikeoss.com/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://mikeoss.com/ Comments URL: https://news.ycombinator.com/item?id=47956739 Points: 20 # Comments: 5",
-    "published_at": "2026-04-30 00:56",
-    "tags": [],
-    "fetch_date": "2026-04-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Yiitap – AI-native Notion-style block editor",
-    "url": "https://github.com/pileax-ai/yiitap",
-    "source": "Hacker News AI",
-    "summary": "Hi HN,I built an open-source block editor designed for AI-native apps.It’s inspired by Notion, but built with AI workflows in mind: - Built-in AI capabilities to supercharge content creation and productivity. - Block-based editing (drag, split, reorder) - Markdown paste & copy - Built on top of Tiptap & ProseMirrorSupports both Vue and React.Demo: https://yiitap.pileax.ai/demo/vueGitHub: https://github.com/pileax-ai/yiitapWould love feedback — especially what kind of AI features you'd expect in ",
-    "published_at": "2026-04-30 00:28",
-    "tags": [],
-    "fetch_date": "2026-04-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Ask HN: Do you think AI will end up like dotcom?",
-    "url": "https://news.ycombinator.com/item?id=47956459",
-    "source": "Hacker News AI",
-    "summary": "Comments URL: https://news.ycombinator.com/item?id=47956459 Points: 3 # Comments: 1",
-    "published_at": "2026-04-30 00:24",
-    "tags": [],
-    "fetch_date": "2026-04-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Claude AI agent admits: “I violated every principle” after wiping firm database",
-    "url": "https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database Comments URL: https://news.ycombinator.com/item?id=47956396 Points: 2 # Comments: 2",
-    "published_at": "2026-04-30 00:16",
-    "tags": [],
-    "fetch_date": "2026-04-30",
-    "fetch_label": "早报"
   }
 ]
