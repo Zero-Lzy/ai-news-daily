@@ -208,6 +208,181 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-08-22 20:38:57",
+      "count": 18,
+      "articles": [
+        {
+          "title": "How to Fingerprint AI Models When Prompts Lie",
+          "url": "https://openrating.io/blog/current-state-of-ai-model-fingerprinting",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://openrating.io/blog/current-state-of-ai-model-fingerprinting Comments URL: https://news.ycombinator.com/item?id=49399051 Points: 1 # Comments: 0",
+          "published_at": "2026-08-22 12:26",
+          "tags": []
+        },
+        {
+          "title": "The AI boom: rational enthusiasm or the next dot-com bubble?",
+          "url": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20260817~754a8a4418.en.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20260817~754a8a4418.en.html Comments URL: https://news.ycombinator.com/item?id=49398763 Points: 1 # Comments: 0",
+          "published_at": "2026-08-22 11:45",
+          "tags": []
+        },
+        {
+          "title": "Mango AI: image/video generation with Nano Banana 2, GPT Image 2, Seedance 2",
+          "url": "https://trymangoai.com",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://trymangoai.com Comments URL: https://news.ycombinator.com/item?id=49398747 Points: 2 # Comments: 0",
+          "published_at": "2026-08-22 11:43",
+          "tags": []
+        },
+        {
+          "title": "Dutch regulator fines Uber €825M for letting AI deactivate driver accounts",
+          "url": "https://nltimes.nl/2026/08/21/dutch-regulator-fines-uber-eu825-mil-letting-algorithm-deactivate-drivers-accounts",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://nltimes.nl/2026/08/21/dutch-regulator-fines-uber-eu825-mil-letting-algorithm-deactivate-drivers-accounts Comments URL: https://news.ycombinator.com/item?id=49398609 Points: 5 # Comments: 2",
+          "published_at": "2026-08-22 11:27",
+          "tags": []
+        },
+        {
+          "title": "SignalWatch – AI crypto scanner and smart alerts in your pocket",
+          "url": "https://play.google.com/store/apps/details?id=com.builtwithme.signalwatch&hl=en_US",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://play.google.com/store/apps/details?id=com.builtwithme.signalwatch&amp;hl=en_US Comments URL: https://news.ycombinator.com/item?id=49398530 Points: 1 # Comments: 0",
+          "published_at": "2026-08-22 11:13",
+          "tags": []
+        },
+        {
+          "title": "AI;DR There May Be Nobody There",
+          "url": "https://yusufaytas.com/there-may-be-nobody-there",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://yusufaytas.com/there-may-be-nobody-there Comments URL: https://news.ycombinator.com/item?id=49398509 Points: 3 # Comments: 0",
+          "published_at": "2026-08-22 11:10",
+          "tags": []
+        },
+        {
+          "title": "AI Is Rewriting Mathematics",
+          "url": "https://nofilk.substack.com/p/ai-is-rewriting-mathematics",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://nofilk.substack.com/p/ai-is-rewriting-mathematics Comments URL: https://news.ycombinator.com/item?id=49398441 Points: 2 # Comments: 1",
+          "published_at": "2026-08-22 10:59",
+          "tags": []
+        },
+        {
+          "title": "Six principles for evaluating cognitive capabilities in AI models",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1002/aaai.70061",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://onlinelibrary.wiley.com/doi/10.1002/aaai.70061 Comments URL: https://news.ycombinator.com/item?id=49398347 Points: 1 # Comments: 1",
+          "published_at": "2026-08-22 10:37",
+          "tags": []
+        },
+        {
+          "title": "CyberStrike – open-source AI harness for offensive security (AGPL)",
+          "url": "https://github.com/CyberStrikeus/CyberStrike",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/CyberStrikeus/CyberStrike Comments URL: https://news.ycombinator.com/item?id=49398125 Points: 4 # Comments: 1",
+          "published_at": "2026-08-22 09:44",
+          "tags": []
+        },
+        {
+          "title": "Embedded AI",
+          "url": "https://nostarch.com/embedded-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://nostarch.com/embedded-ai Comments URL: https://news.ycombinator.com/item?id=49397947 Points: 3 # Comments: 0",
+          "published_at": "2026-08-22 09:07",
+          "tags": []
+        },
+        {
+          "title": "Is \"AI slop\" now the default response to every new project?",
+          "url": "https://news.ycombinator.com/item?id=49397791",
+          "source": "Hacker News AI",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=49397791 Points: 2 # Comments: 5",
+          "published_at": "2026-08-22 08:35",
+          "tags": []
+        },
+        {
+          "title": "Older Americans leaving workforce poses challenges for AI plans",
+          "url": "https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/8/older-americans-leaving-workforce-poses-challenges-for-ai-plans-105150367",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/8/older-americans-leaving-workforce-poses-challenges-for-ai-plans-105150367 Comments URL: https://news.ycombinator.com/item?id=49397749 Points: 4 # Comments: 0",
+          "published_at": "2026-08-22 08:24",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Agile AI Development Lifecycle",
+          "url": "https://valeriavg.dev/agile-ai-development-lifecycle",
+          "source": "Hacker News AI",
+          "summary": "Schrödinger's AI-DLC Framework Comments URL: https://news.ycombinator.com/item?id=49397671 Points: 2 # Comments: 0",
+          "published_at": "2026-08-22 08:08",
+          "tags": []
+        },
+        {
+          "title": "Anthropic’s Opus 4.6 is a smut-machine",
+          "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+          "published_at": "2026-08-21 23:07",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "Claude",
+            "Exclusive"
+          ]
+        },
+        {
+          "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+          "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+          "published_at": "2026-08-21 19:43",
+          "tags": [
+            "AI",
+            "Exclusive",
+            "nvidia"
+          ]
+        },
+        {
+          "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+          "source": "The Verge AI",
+          "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible from the three dots menu on a [&#8230;]",
+          "published_at": "2026-08-21 17:25",
+          "tags": [
+            "AI",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+          "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+          "source": "TechCrunch AI",
+          "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#",
+          "published_at": "2026-08-21 14:00",
+          "tags": [
+            "Startups",
+            "Venture",
+            "AI"
+          ]
+        },
+        {
+          "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+          "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+          "source": "TechCrunch AI",
+          "summary": "There's about to be a big fight to secure access to space.",
+          "published_at": "2026-08-21 14:00",
+          "tags": [
+            "AI",
+            "Space",
+            "Startups",
+            "Exclusive",
+            "orbital data centers",
+            "Starcloud"
+          ]
+        }
+      ]
     }
   ]
 }
