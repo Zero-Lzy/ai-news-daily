@@ -1,5 +1,172 @@
 [
   {
+    "title": "Treat AI Like an Intern, Not Software: A Stanford Professor's Guide",
+    "url": "https://pixelum.substack.com/p/treat-ai-like-an-intern-not-software",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://pixelum.substack.com/p/treat-ai-like-an-intern-not-software Comments URL: https://news.ycombinator.com/item?id=49405473 Points: 1 # Comments: 0",
+    "published_at": "2026-08-23 01:31",
+    "tags": [],
+    "fetch_date": "2026-08-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Agent2Creator – a video social network whose members are AI agents",
+    "url": "https://agent2creator.vidmoat.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://agent2creator.vidmoat.com Comments URL: https://news.ycombinator.com/item?id=49405354 Points: 2 # Comments: 1",
+    "published_at": "2026-08-23 01:00",
+    "tags": [],
+    "fetch_date": "2026-08-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Active Inference as Context Acquisition for AI Agents",
+    "url": "https://arxiv.org/abs/2608.19202",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2608.19202 Comments URL: https://news.ycombinator.com/item?id=49405247 Points: 1 # Comments: 0",
+    "published_at": "2026-08-23 00:40",
+    "tags": [],
+    "fetch_date": "2026-08-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "You don't have to make money with AI. You could just be happier",
+    "url": "https://hibernation.dev/posts/ai-for-happiness-not-money/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://hibernation.dev/posts/ai-for-happiness-not-money/ Comments URL: https://news.ycombinator.com/item?id=49405020 Points: 2 # Comments: 0",
+    "published_at": "2026-08-22 23:59",
+    "tags": [],
+    "fetch_date": "2026-08-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI as a Co-Writer",
+    "url": "https://strawberry9.github.io/the-wrong-memory/cover.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://strawberry9.github.io/the-wrong-memory/cover.html Comments URL: https://news.ycombinator.com/item?id=49404856 Points: 1 # Comments: 0",
+    "published_at": "2026-08-22 23:27",
+    "tags": [],
+    "fetch_date": "2026-08-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The Real AI Crash Will Start This Year",
+    "url": "https://quoththeraven.substack.com/p/the-real-ai-crash-will-start-this",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://quoththeraven.substack.com/p/the-real-ai-crash-will-start-this Comments URL: https://news.ycombinator.com/item?id=49404815 Points: 4 # Comments: 2",
+    "published_at": "2026-08-22 23:21",
+    "tags": [],
+    "fetch_date": "2026-08-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: MacAIApps – a directory of AI-powered Mac apps",
+    "url": "https://www.macaiapps.com/",
+    "source": "Hacker News AI",
+    "summary": "I love discovering Mac apps that use AI, so I built MacAIApps to collect them in one place.You can browse by category and find apps you might otherwise miss. Comments URL: https://news.ycombinator.com/item?id=49404725 Points: 1 # Comments: 0",
+    "published_at": "2026-08-22 23:05",
+    "tags": [],
+    "fetch_date": "2026-08-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Quiet on set. How AI transformed China's microdrama scene",
+    "url": "https://www.cnn.com/2026/08/22/style/short-drama-ai-china-intl-hnk",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.cnn.com/2026/08/22/style/short-drama-ai-china-intl-hnk Comments URL: https://news.ycombinator.com/item?id=49404556 Points: 1 # Comments: 0",
+    "published_at": "2026-08-22 22:39",
+    "tags": [],
+    "fetch_date": "2026-08-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "How much is crawling your content worth to an AI bot?",
+    "url": "https://insights.som.yale.edu/insights/how-much-is-crawling-your-content-worth-to-an-ai-bot",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://insights.som.yale.edu/insights/how-much-is-crawling-your-content-worth-to-an-ai-bot Comments URL: https://news.ycombinator.com/item?id=49404527 Points: 2 # Comments: 0",
+    "published_at": "2026-08-22 22:35",
+    "tags": [],
+    "fetch_date": "2026-08-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "MiniMax M3 Medium hits 73.17% F1 on DeepSearchQA, near GPT-5 High",
+    "url": "https://huggingface.co/datasets/youdotcom/minimax-m3-deepsearchqa-skill-eval",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://huggingface.co/datasets/youdotcom/minimax-m3-deepsearchqa-skill-eval Comments URL: https://news.ycombinator.com/item?id=49404524 Points: 1 # Comments: 0",
+    "published_at": "2026-08-22 22:35",
+    "tags": [],
+    "fetch_date": "2026-08-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "People vs. the AI Overlords",
+    "url": "https://anarc.at/blog/2026-08-18-people-vs-ai-overlords/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://anarc.at/blog/2026-08-18-people-vs-ai-overlords/ Comments URL: https://news.ycombinator.com/item?id=49404509 Points: 1 # Comments: 0",
+    "published_at": "2026-08-22 22:32",
+    "tags": [],
+    "fetch_date": "2026-08-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Made Me Faster. I'm Not Sure It Made Me Better",
+    "url": "https://medium.com/freedomofthought/ai-made-me-faster-im-not-sure-it-made-me-better-b7f78db7fc66",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://medium.com/freedomofthought/ai-made-me-faster-im-not-sure-it-made-me-better-b7f78db7fc66 Comments URL: https://news.ycombinator.com/item?id=49404320 Points: 5 # Comments: 0",
+    "published_at": "2026-08-22 22:05",
+    "tags": [],
+    "fetch_date": "2026-08-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The crisis of AI-generated mathematics",
+    "url": "https://arxiv.org/abs/2608.02859",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2608.02859 Comments URL: https://news.ycombinator.com/item?id=49404317 Points: 5 # Comments: 1",
+    "published_at": "2026-08-22 22:04",
+    "tags": [],
+    "fetch_date": "2026-08-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+    "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+    "source": "TechCrunch AI",
+    "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+    "published_at": "2026-08-22 21:46",
+    "tags": [
+      "AI",
+      "Harvard Business School"
+    ],
+    "fetch_date": "2026-08-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "How LLM Serves a Request",
+    "url": "https://mapathak-commits.github.io/inference-wall/articles/primer/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://mapathak-commits.github.io/inference-wall/articles/primer/ Comments URL: https://news.ycombinator.com/item?id=49404153 Points: 1 # Comments: 1",
+    "published_at": "2026-08-22 21:42",
+    "tags": [],
+    "fetch_date": "2026-08-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+    "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+    "source": "TechCrunch AI",
+    "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+    "published_at": "2026-08-22 19:00",
+    "tags": [
+      "AI",
+      "London",
+      "google deepmind"
+    ],
+    "fetch_date": "2026-08-23",
+    "fetch_label": "早报"
+  },
+  {
     "title": "How to Fingerprint AI Models When Prompts Lie",
     "url": "https://openrating.io/blog/current-state-of-ai-model-fingerprinting",
     "source": "Hacker News AI",
@@ -35003,227 +35170,5 @@
     "tags": [],
     "fetch_date": "2026-05-01",
     "fetch_label": "早报"
-  },
-  {
-    "title": "LLM Quantization",
-    "url": "https://huggingface.co/docs/transformers/main_classes/quantization",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://huggingface.co/docs/transformers/main_classes/quantization Comments URL: https://news.ycombinator.com/item?id=47969848 Points: 1 # Comments: 0",
-    "published_at": "2026-04-30 23:54",
-    "tags": [],
-    "fetch_date": "2026-05-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Chinese Courts Rule Companies Cannot Fire Workers Simply to Replace Them with AI",
-    "url": "https://www.caixinglobal.com/2026-04-30/chinese-courts-rule-companies-cannot-fire-workers-simply-to-replace-them-with-ai-1024",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.caixinglobal.com/2026-04-30/chinese-courts-rule-companies-cannot-fire-workers-simply-to-replace-them-with-ai-1024 Comments URL: https://news.ycombinator.com/item?id=47969733 Points: 6 # Comments: 1",
-    "published_at": "2026-04-30 23:37",
-    "tags": [],
-    "fetch_date": "2026-05-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "In Musk vs. Altman case, judge warns lawyers that AI itself is not on trial",
-    "url": "https://www.nbcnews.com/tech/tech-news/elon-musk-testimony-day-three-sam-altman-openai-trial-rcna342967",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/elon-musk-testimony-day-three-sam-altman-openai-trial-rcna342967 Comments URL: https://news.ycombinator.com/item?id=47969589 Points: 1 # Comments: 0",
-    "published_at": "2026-04-30 23:21",
-    "tags": [],
-    "fetch_date": "2026-05-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Onyx Pro, a local desktop utility for resetting AI IDE trial state",
-    "url": "https://getonyxpro.com",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://getonyxpro.com Comments URL: https://news.ycombinator.com/item?id=47969523 Points: 1 # Comments: 0",
-    "published_at": "2026-04-30 23:15",
-    "tags": [],
-    "fetch_date": "2026-05-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Ask HN: Local or Cloud -based AI?",
-    "url": "https://news.ycombinator.com/item?id=47969476",
-    "source": "Hacker News AI",
-    "summary": "Comments URL: https://news.ycombinator.com/item?id=47969476 Points: 1 # Comments: 0",
-    "published_at": "2026-04-30 23:10",
-    "tags": [],
-    "fetch_date": "2026-05-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
-    "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
-    "source": "TechCrunch AI",
-    "summary": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
-    "published_at": "2026-04-30 23:07",
-    "tags": [
-      "AI",
-      "Venture",
-      "Anthropic",
-      "Exclusive",
-      "megarounds"
-    ],
-    "fetch_date": "2026-05-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI discovery reveals DNA isn’t locked away in cells after all",
-    "url": "https://gladstone.org/news/ai-discovery-reveals-dna-isnt-locked-away-cells-after-all",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://gladstone.org/news/ai-discovery-reveals-dna-isnt-locked-away-cells-after-all Comments URL: https://news.ycombinator.com/item?id=47969258 Points: 18 # Comments: 6",
-    "published_at": "2026-04-30 22:45",
-    "tags": [],
-    "fetch_date": "2026-05-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Apple was surprised by AI-driven demand for Macs",
-    "url": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
-    "source": "TechCrunch AI",
-    "summary": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too.",
-    "published_at": "2026-04-30 22:12",
-    "tags": [
-      "AI",
-      "Hardware",
-      "Apple",
-      "earnings",
-      "mac",
-      "mac mini",
-      "Mac Studio",
-      "macbook neo"
-    ],
-    "fetch_date": "2026-05-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The most severe Linux threat to surface in years catches the world flat-footed",
-    "url": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
-    "source": "ArsTechnica AI",
-    "summary": "CopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more.",
-    "published_at": "2026-04-30 20:20",
-    "tags": [
-      "Biz & IT",
-      "Security",
-      "exploits",
-      "Linux",
-      "local privilege escalation",
-      "vulnerabilities"
-    ],
-    "fetch_date": "2026-05-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
-    "url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
-    "source": "TechCrunch AI",
-    "summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
-    "published_at": "2026-04-30 20:14",
-    "tags": [
-      "AI",
-      "Startups",
-      "Harvey",
-      "jude law",
-      "legal tech",
-      "legora",
-      "nventures",
-      "nvidia"
-    ],
-    "fetch_date": "2026-05-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
-    "url": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
-    "source": "TechCrunch AI",
-    "summary": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
-    "published_at": "2026-04-30 18:03",
-    "tags": [
-      "AI",
-      "AI training",
-      "distillation",
-      "Elon Musk",
-      "Grok",
-      "OpenAI"
-    ],
-    "fetch_date": "2026-05-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
-    "url": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/",
-    "source": "TechCrunch AI",
-    "summary": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red tape.",
-    "published_at": "2026-04-30 17:53",
-    "tags": [
-      "AI",
-      "Startups",
-      "BioticsAI",
-      "Build Mode",
-      "Build Mode Video",
-      "Startup Battlefield",
-      "startup battlefield winner"
-    ],
-    "fetch_date": "2026-05-01",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
-    "url": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/",
-    "source": "TechCrunch AI",
-    "summary": "The move signals Google’s push to bring more advanced, conversational AI into the driving experience.",
-    "published_at": "2026-04-30 17:46",
-    "tags": [
-      "AI",
-      "Transportation",
-      "gemini",
-      "Generative AI",
-      "Google",
-      "google cars",
-      "Vehicles"
-    ],
-    "fetch_date": "2026-05-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "X announces a rebuilt ad platform powered by AI",
-    "url": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/",
-    "source": "TechCrunch AI",
-    "summary": "X is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again.",
-    "published_at": "2026-04-30 15:14",
-    "tags": [
-      "AI",
-      "Apps",
-      "Social",
-      "Adtech",
-      "advertising",
-      "X",
-      "xAI"
-    ],
-    "fetch_date": "2026-05-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The cost of Google's AI defaults and the illusion of choice",
-    "url": "https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/ Comments URL: https://news.ycombinator.com/item?id=47962519 Points: 1 # Comments: 0",
-    "published_at": "2026-04-30 13:52",
-    "tags": [],
-    "fetch_date": "2026-04-30",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "'The job description is changing': mathematician Terence Tao on the rise of AI",
-    "url": "https://www.nature.com/articles/d41586-026-01246-9",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.nature.com/articles/d41586-026-01246-9 Comments URL: https://news.ycombinator.com/item?id=47962507 Points: 1 # Comments: 0",
-    "published_at": "2026-04-30 13:52",
-    "tags": [],
-    "fetch_date": "2026-04-30",
-    "fetch_label": "晚报"
   }
 ]
