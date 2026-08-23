@@ -1,5 +1,105 @@
 [
   {
+    "title": "Product Owner Interview Questions for the Age of AI",
+    "url": "https://age-of-product.com/product-owner-interview-questions/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://age-of-product.com/product-owner-interview-questions/ Comments URL: https://news.ycombinator.com/item?id=49408316 Points: 1 # Comments: 0",
+    "published_at": "2026-08-23 12:31",
+    "tags": [],
+    "fetch_date": "2026-08-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Do LLM quants impact as much as we think?",
+    "url": "https://rakuensoftware.com/blog/which-quant-beats-how-many-bits",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://rakuensoftware.com/blog/which-quant-beats-how-many-bits Comments URL: https://news.ycombinator.com/item?id=49408266 Points: 1 # Comments: 1",
+    "published_at": "2026-08-23 12:24",
+    "tags": [],
+    "fetch_date": "2026-08-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Prism Reviewer – Multi-agent AI code reviewer built with LangGraph and LiteLLM",
+    "url": "https://github.com/marketplace/actions/prism-reviewer-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/marketplace/actions/prism-reviewer-ai Comments URL: https://news.ycombinator.com/item?id=49408247 Points: 1 # Comments: 0",
+    "published_at": "2026-08-23 12:22",
+    "tags": [],
+    "fetch_date": "2026-08-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "What do you think of AI website builders?",
+    "url": "https://blog.webround.com/en/i-built-an-ai-website-builder-and-killed-it",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.webround.com/en/i-built-an-ai-website-builder-and-killed-it Comments URL: https://news.ycombinator.com/item?id=49408013 Points: 1 # Comments: 1",
+    "published_at": "2026-08-23 11:44",
+    "tags": [],
+    "fetch_date": "2026-08-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Why Einstein would fail today: The case for an automated AI Science Institute",
+    "url": "https://zenodo.org/records/22067050",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://zenodo.org/records/22067050 Comments URL: https://news.ycombinator.com/item?id=49407926 Points: 1 # Comments: 0",
+    "published_at": "2026-08-23 11:24",
+    "tags": [],
+    "fetch_date": "2026-08-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Publish to 15 social media channels using AI agents, free",
+    "url": "https://www.bulkpublish.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bulkpublish.com/ Comments URL: https://news.ycombinator.com/item?id=49407919 Points: 1 # Comments: 1",
+    "published_at": "2026-08-23 11:24",
+    "tags": [],
+    "fetch_date": "2026-08-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Agentic AI in a Smolbox",
+    "url": "https://remyhax.xyz/posts/smolbox/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://remyhax.xyz/posts/smolbox/ Comments URL: https://news.ycombinator.com/item?id=49407905 Points: 2 # Comments: 0",
+    "published_at": "2026-08-23 11:20",
+    "tags": [],
+    "fetch_date": "2026-08-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Evidence over Anecdotes: Running A/B Tests on AI Agent Tooling",
+    "url": "https://www.pagerduty.com/eng/evidence-over-anecdotes-running-a-b-tests-on-ai-agent-tooling/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.pagerduty.com/eng/evidence-over-anecdotes-running-a-b-tests-on-ai-agent-tooling/ Comments URL: https://news.ycombinator.com/item?id=49407872 Points: 1 # Comments: 0",
+    "published_at": "2026-08-23 11:14",
+    "tags": [],
+    "fetch_date": "2026-08-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "'AI refuser' quit her dream job, and hopes others follow",
+    "url": "https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html Comments URL: https://news.ycombinator.com/item?id=49407785 Points: 26 # Comments: 30",
+    "published_at": "2026-08-23 10:54",
+    "tags": [],
+    "fetch_date": "2026-08-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Writing Without the Slop",
+    "url": "https://sfactory.dev",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://sfactory.dev Comments URL: https://news.ycombinator.com/item?id=49407489 Points: 1 # Comments: 1",
+    "published_at": "2026-08-23 10:00",
+    "tags": [],
+    "fetch_date": "2026-08-23",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Treat AI Like an Intern, Not Software: A Stanford Professor's Guide",
     "url": "https://pixelum.substack.com/p/treat-ai-like-an-intern-not-software",
     "source": "Hacker News AI",
@@ -35062,113 +35162,6 @@
       "YouTube"
     ],
     "fetch_date": "2026-05-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Xmemory: Benchmarking Structured AI Memory Against RAG and Hybrid RAG",
-    "url": "https://arxiv.org/abs/2604.27906",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://arxiv.org/abs/2604.27906 Comments URL: https://news.ycombinator.com/item?id=47972683 Points: 4 # Comments: 0",
-    "published_at": "2026-05-01 09:15",
-    "tags": [],
-    "fetch_date": "2026-05-01",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Ubuntu is going all in on Generative AI and other Linux distros might follow",
-    "url": "https://www.neowin.net/news/ubuntu-is-going-all-in-on-generative-ai-and-other-linux-distros-might-follow/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.neowin.net/news/ubuntu-is-going-all-in-on-generative-ai-and-other-linux-distros-might-follow/ Comments URL: https://news.ycombinator.com/item?id=47972608 Points: 2 # Comments: 0",
-    "published_at": "2026-05-01 08:59",
-    "tags": [],
-    "fetch_date": "2026-05-01",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "I made a weird AI kids app (Little Chicken)",
-    "url": "https://apps.apple.com/us/app/kids-games-fun-little-chicken/id6759822036",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://apps.apple.com/us/app/kids-games-fun-little-chicken/id6759822036 Comments URL: https://news.ycombinator.com/item?id=47970860 Points: 1 # Comments: 0",
-    "published_at": "2026-05-01 02:55",
-    "tags": [],
-    "fetch_date": "2026-05-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Cursor's 'Rogue' AI agent goes haywire, deletes company's database [video]",
-    "url": "https://www.youtube.com/watch?v=XBVoLSXaAHA",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.youtube.com/watch?v=XBVoLSXaAHA Comments URL: https://news.ycombinator.com/item?id=47970851 Points: 2 # Comments: 2",
-    "published_at": "2026-05-01 02:54",
-    "tags": [],
-    "fetch_date": "2026-05-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
-    "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
-    "source": "TechCrunch AI",
-    "summary": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
-    "published_at": "2026-05-01 02:00",
-    "tags": [
-      "AI",
-      "Apps",
-      "OpenAI",
-      "ChatGPT",
-      "ChatGPT Images 2.0",
-      "ChatGPT Images"
-    ],
-    "fetch_date": "2026-05-01",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Enabling privacy-preserving AI training on everyday devices",
-    "url": "https://news.mit.edu/2026/enabling-privacy-preserving-ai-training-everyday-devices-0429",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://news.mit.edu/2026/enabling-privacy-preserving-ai-training-everyday-devices-0429 Comments URL: https://news.ycombinator.com/item?id=47970405 Points: 2 # Comments: 0",
-    "published_at": "2026-05-01 01:31",
-    "tags": [],
-    "fetch_date": "2026-05-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "State of the AI Frontier, April 2026",
-    "url": "https://gertlabs.com/blog/state-of-frontier-april-2026",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://gertlabs.com/blog/state-of-frontier-april-2026 Comments URL: https://news.ycombinator.com/item?id=47970396 Points: 6 # Comments: 1",
-    "published_at": "2026-05-01 01:30",
-    "tags": [],
-    "fetch_date": "2026-05-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Status (Mac App)| FOSS",
-    "url": "https://github.com/Jaecobd1/ai-status",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/Jaecobd1/ai-status Comments URL: https://news.ycombinator.com/item?id=47970224 Points: 2 # Comments: 0",
-    "published_at": "2026-05-01 00:57",
-    "tags": [],
-    "fetch_date": "2026-05-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "What We're Missing About Generative AI",
-    "url": "https://onlinelibrary.wiley.com/doi/10.1155/hbe2/2320511",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://onlinelibrary.wiley.com/doi/10.1155/hbe2/2320511 Comments URL: https://news.ycombinator.com/item?id=47970215 Points: 2 # Comments: 0",
-    "published_at": "2026-05-01 00:55",
-    "tags": [],
-    "fetch_date": "2026-05-01",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: LLM-Powered News –> Event Map, Timeline, and Analysis",
-    "url": "https://conflictintelligence.ai/",
-    "source": "Hacker News AI",
-    "summary": "Been working on this for a few months, since the day the USA hit Iran. It started out as a simple OSS conflict monitor of which many were popping up at the time, but it developed into an entirely domain-agnostic pipeline which extracts claims + evidence, synthesizes events, and maps them on a timeline. It also attributes actors, relates events to each other, and contributes analysis.There are a lot of features under the hood that I'm not sure what to do with yet - various contextual analyses, a ",
-    "published_at": "2026-05-01 00:48",
-    "tags": [],
-    "fetch_date": "2026-05-01",
     "fetch_label": "早报"
   }
 ]

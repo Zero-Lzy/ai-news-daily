@@ -194,6 +194,117 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-08-23 20:40:09",
+      "count": 12,
+      "articles": [
+        {
+          "title": "Product Owner Interview Questions for the Age of AI",
+          "url": "https://age-of-product.com/product-owner-interview-questions/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://age-of-product.com/product-owner-interview-questions/ Comments URL: https://news.ycombinator.com/item?id=49408316 Points: 1 # Comments: 0",
+          "published_at": "2026-08-23 12:31",
+          "tags": []
+        },
+        {
+          "title": "Do LLM quants impact as much as we think?",
+          "url": "https://rakuensoftware.com/blog/which-quant-beats-how-many-bits",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://rakuensoftware.com/blog/which-quant-beats-how-many-bits Comments URL: https://news.ycombinator.com/item?id=49408266 Points: 1 # Comments: 1",
+          "published_at": "2026-08-23 12:24",
+          "tags": []
+        },
+        {
+          "title": "Prism Reviewer – Multi-agent AI code reviewer built with LangGraph and LiteLLM",
+          "url": "https://github.com/marketplace/actions/prism-reviewer-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/marketplace/actions/prism-reviewer-ai Comments URL: https://news.ycombinator.com/item?id=49408247 Points: 1 # Comments: 0",
+          "published_at": "2026-08-23 12:22",
+          "tags": []
+        },
+        {
+          "title": "What do you think of AI website builders?",
+          "url": "https://blog.webround.com/en/i-built-an-ai-website-builder-and-killed-it",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blog.webround.com/en/i-built-an-ai-website-builder-and-killed-it Comments URL: https://news.ycombinator.com/item?id=49408013 Points: 1 # Comments: 1",
+          "published_at": "2026-08-23 11:44",
+          "tags": []
+        },
+        {
+          "title": "Why Einstein would fail today: The case for an automated AI Science Institute",
+          "url": "https://zenodo.org/records/22067050",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://zenodo.org/records/22067050 Comments URL: https://news.ycombinator.com/item?id=49407926 Points: 1 # Comments: 0",
+          "published_at": "2026-08-23 11:24",
+          "tags": []
+        },
+        {
+          "title": "Publish to 15 social media channels using AI agents, free",
+          "url": "https://www.bulkpublish.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bulkpublish.com/ Comments URL: https://news.ycombinator.com/item?id=49407919 Points: 1 # Comments: 1",
+          "published_at": "2026-08-23 11:24",
+          "tags": []
+        },
+        {
+          "title": "Agentic AI in a Smolbox",
+          "url": "https://remyhax.xyz/posts/smolbox/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://remyhax.xyz/posts/smolbox/ Comments URL: https://news.ycombinator.com/item?id=49407905 Points: 2 # Comments: 0",
+          "published_at": "2026-08-23 11:20",
+          "tags": []
+        },
+        {
+          "title": "Evidence over Anecdotes: Running A/B Tests on AI Agent Tooling",
+          "url": "https://www.pagerduty.com/eng/evidence-over-anecdotes-running-a-b-tests-on-ai-agent-tooling/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.pagerduty.com/eng/evidence-over-anecdotes-running-a-b-tests-on-ai-agent-tooling/ Comments URL: https://news.ycombinator.com/item?id=49407872 Points: 1 # Comments: 0",
+          "published_at": "2026-08-23 11:14",
+          "tags": []
+        },
+        {
+          "title": "'AI refuser' quit her dream job, and hopes others follow",
+          "url": "https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html Comments URL: https://news.ycombinator.com/item?id=49407785 Points: 26 # Comments: 30",
+          "published_at": "2026-08-23 10:54",
+          "tags": []
+        },
+        {
+          "title": "AI Writing Without the Slop",
+          "url": "https://sfactory.dev",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://sfactory.dev Comments URL: https://news.ycombinator.com/item?id=49407489 Points: 1 # Comments: 1",
+          "published_at": "2026-08-23 10:00",
+          "tags": []
+        },
+        {
+          "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+          "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+          "source": "TechCrunch AI",
+          "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+          "published_at": "2026-08-22 21:46",
+          "tags": [
+            "AI",
+            "Harvard Business School"
+          ]
+        },
+        {
+          "title": "Anthropic’s Opus 4.6 is a smut-machine",
+          "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+          "published_at": "2026-08-21 23:07",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "Claude",
+            "Exclusive"
+          ]
+        }
+      ]
     }
   ]
 }
