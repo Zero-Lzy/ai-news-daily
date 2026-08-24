@@ -1,5 +1,111 @@
 [
   {
+    "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+    "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+    "source": "TechCrunch AI",
+    "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+    "published_at": "2026-08-23 20:01",
+    "tags": [
+      "AI",
+      "openrouter"
+    ],
+    "fetch_date": "2026-08-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Flock camera backlash adds fuel to midterm anti-AI frenzy",
+    "url": "https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech Comments URL: https://news.ycombinator.com/item?id=49409392 Points: 1 # Comments: 0",
+    "published_at": "2026-08-23 15:03",
+    "tags": [],
+    "fetch_date": "2026-08-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+    "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+    "source": "TechCrunch AI",
+    "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+    "published_at": "2026-08-23 15:00",
+    "tags": [
+      "AI",
+      "Exclusive"
+    ],
+    "fetch_date": "2026-08-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Oneiric, AI-generated, open source [video]",
+    "url": "https://www.youtube.com/watch?v=aAg9iDh9_BQ",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=aAg9iDh9_BQ Comments URL: https://news.ycombinator.com/item?id=49409332 Points: 1 # Comments: 0",
+    "published_at": "2026-08-23 14:55",
+    "tags": [],
+    "fetch_date": "2026-08-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Woe Is Em: The Sad Lifecycle of an AI Tell",
+    "url": "https://stevekrause.org/blog/2026/08/woe-is-em-the-sad-lifecycle-of-an-ai-tell/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://stevekrause.org/blog/2026/08/woe-is-em-the-sad-lifecycle-of-an-ai-tell/ Comments URL: https://news.ycombinator.com/item?id=49409320 Points: 1 # Comments: 0",
+    "published_at": "2026-08-23 14:53",
+    "tags": [],
+    "fetch_date": "2026-08-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Writing-eval, local deterministic style checks for AI-written drafts",
+    "url": "https://github.com/majesticlabs-dev/writing-eval",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/majesticlabs-dev/writing-eval Comments URL: https://news.ycombinator.com/item?id=49409152 Points: 1 # Comments: 0",
+    "published_at": "2026-08-23 14:31",
+    "tags": [],
+    "fetch_date": "2026-08-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+    "url": "https://ericpardee.github.io/fire-hd-ownership/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://ericpardee.github.io/fire-hd-ownership/ Comments URL: https://news.ycombinator.com/item?id=49409073 Points: 3 # Comments: 0",
+    "published_at": "2026-08-23 14:23",
+    "tags": [],
+    "fetch_date": "2026-08-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI leader warns of threat of 'persistent' AI cyber-attacks",
+    "url": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane Comments URL: https://news.ycombinator.com/item?id=49409030 Points: 3 # Comments: 0",
+    "published_at": "2026-08-23 14:16",
+    "tags": [],
+    "fetch_date": "2026-08-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Daimon – Local Privacy LLM",
+    "url": "https://github.com/ar0per0/Daimon",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/ar0per0/Daimon Comments URL: https://news.ycombinator.com/item?id=49408697 Points: 2 # Comments: 0",
+    "published_at": "2026-08-23 13:26",
+    "tags": [],
+    "fetch_date": "2026-08-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask HN: Will AI trigger mass IP protectionism in software?",
+    "url": "https://news.ycombinator.com/item?id=49408691",
+    "source": "Hacker News AI",
+    "summary": "One of the reasons AI is so \"good\" at software development is that it is trained on a snapshot of a large corpus of already solved software problems.In the future, wouldn't that make anyone who produces original code become more cautious of sharing it, being aware that it will just be fed into the \"hive mind\" and they'll never get any attribution or financial gain out of it?Or has the value of code, tools and software become so cheap it doesn't really matter anymore? Comments URL: https://news.y",
+    "published_at": "2026-08-23 13:24",
+    "tags": [],
+    "fetch_date": "2026-08-24",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Product Owner Interview Questions for the Age of AI",
     "url": "https://age-of-product.com/product-owner-interview-questions/",
     "source": "Hacker News AI",
@@ -35038,130 +35144,5 @@
     "tags": [],
     "fetch_date": "2026-05-01",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Stanzio, AI presentation tool that designs each slide as real HTML",
-    "url": "https://stanzio.fly.dev/",
-    "source": "Hacker News AI",
-    "summary": "Given that PowerPoint's format doesn't play well with LLMs, I built a tool that generates presentations as real HTML instead. Think Lovable but for slides. Would love to hear what you think :) Comments URL: https://news.ycombinator.com/item?id=47974235 Points: 1 # Comments: 0",
-    "published_at": "2026-05-01 12:54",
-    "tags": [],
-    "fetch_date": "2026-05-01",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "An AI reasoning system just discovered a candidate universal law in astrophysics",
-    "url": "https://blankline.org/research/universal-bimodal-drift-rate",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://blankline.org/research/universal-bimodal-drift-rate Comments URL: https://news.ycombinator.com/item?id=47974218 Points: 1 # Comments: 1",
-    "published_at": "2026-05-01 12:52",
-    "tags": [],
-    "fetch_date": "2026-05-01",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Coverage-guided and grammar-aware and LLM fuzzing finds 100 compiler bugs",
-    "url": "https://nowarp.io/blog/compiler-testing-part-1/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://nowarp.io/blog/compiler-testing-part-1/ Comments URL: https://news.ycombinator.com/item?id=47974089 Points: 1 # Comments: 1",
-    "published_at": "2026-05-01 12:38",
-    "tags": [],
-    "fetch_date": "2026-05-01",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "So, About That AI Bubble",
-    "url": "https://www.theatlantic.com/economy/2026/05/ai-bubble-revenue-anthropic/687022/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.theatlantic.com/economy/2026/05/ai-bubble-revenue-anthropic/687022/ Comments URL: https://news.ycombinator.com/item?id=47973544 Points: 2 # Comments: 0",
-    "published_at": "2026-05-01 11:31",
-    "tags": [],
-    "fetch_date": "2026-05-01",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The AI Jailbreakers",
-    "url": "https://www.theguardian.com/technology/2026/apr/29/meet-the-ai-jailbreakers-i-see-the-worst-things-humanity-has-produced",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/29/meet-the-ai-jailbreakers-i-see-the-worst-things-humanity-has-produced Comments URL: https://news.ycombinator.com/item?id=47973206 Points: 1 # Comments: 0",
-    "published_at": "2026-05-01 10:43",
-    "tags": [],
-    "fetch_date": "2026-05-01",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
-    "source": "The Verge AI",
-    "summary": "The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according to an announcement on Friday. At the same time, the Defense Department has left out Anthropic - which it previously used for classified information - [&#8230;]",
-    "published_at": "2026-05-01 10:09",
-    "tags": [
-      "AI",
-      "Amazon",
-      "Google",
-      "Microsoft",
-      "News",
-      "Nvidia",
-      "OpenAI",
-      "Policy",
-      "Politics",
-      "Tech",
-      "xAI"
-    ],
-    "fetch_date": "2026-05-02",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Chinese Courts Rule Companies Cannot Fire Workers Simply to Replace Them with AI",
-    "url": "https://www.caixinglobal.com/2026-04-30/chinese-courts-rule-companies-cannot-fire-workers-simply-to-replace-them-with-ai-102439602.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.caixinglobal.com/2026-04-30/chinese-courts-rule-companies-cannot-fire-workers-simply-to-replace-them-with-ai-102439602.html Comments URL: https://news.ycombinator.com/item?id=47972831 Points: 5 # Comments: 1",
-    "published_at": "2026-05-01 09:42",
-    "tags": [],
-    "fetch_date": "2026-05-01",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Elon Musk had a bad week in court",
-    "url": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
-    "source": "The Verge AI",
-    "summary": "Elon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was the actual driving force behind one of the most important companies currently in tech. All indications are that he won't win his case against the company, but he's fighting it anyway. So you'd [&#8230;]",
-    "published_at": "2026-05-01 09:33",
-    "tags": [
-      "AI",
-      "Elon Musk",
-      "OpenAI",
-      "Podcasts",
-      "Tech",
-      "Vergecast"
-    ],
-    "fetch_date": "2026-05-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Meta Just Killed Open-Source AI",
-    "url": "https://www.utkarshapoorva.com/writing/meta-llama-trap/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.utkarshapoorva.com/writing/meta-llama-trap/ Comments URL: https://news.ycombinator.com/item?id=47972744 Points: 2 # Comments: 0",
-    "published_at": "2026-05-01 09:27",
-    "tags": [],
-    "fetch_date": "2026-05-01",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Christian content creators are outsourcing AI slop to gig workers on Fiverr",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop",
-    "source": "The Verge AI",
-    "summary": "In the beginning, platforms like Fiverr were places where people could hire freelancers to do specialized creative labor using skills that took years to develop. In the age of generative AI, though, many of these gig workers have embraced the technology in order to meet clients' demands. These workers' profiles emphasize that they can quickly [&#8230;]",
-    "published_at": "2026-05-01 09:25",
-    "tags": [
-      "AI",
-      "Interview",
-      "Report",
-      "Streaming",
-      "YouTube"
-    ],
-    "fetch_date": "2026-05-02",
-    "fetch_label": "早报"
   }
 ]
