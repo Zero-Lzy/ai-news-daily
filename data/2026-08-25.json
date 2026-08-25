@@ -157,6 +157,115 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-08-25 20:47:37",
+      "count": 11,
+      "articles": [
+        {
+          "title": "My experience with LLM-assisted tools in software development",
+          "url": "https://ounapuu.ee/posts/2026/06/08/llm/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://ounapuu.ee/posts/2026/06/08/llm/ Comments URL: https://news.ycombinator.com/item?id=49432949 Points: 1 # Comments: 0",
+          "published_at": "2026-08-25 12:37",
+          "tags": []
+        },
+        {
+          "title": "Run manual QA test cases in a real browser with an AI agent",
+          "url": "https://github.com/broxhq/qpilot",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/broxhq/qpilot Comments URL: https://news.ycombinator.com/item?id=49432514 Points: 1 # Comments: 0",
+          "published_at": "2026-08-25 12:07",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Prelo – a WordPress-style admin for AI-built sites",
+          "url": "https://www.prelo.dev/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.prelo.dev/ Comments URL: https://news.ycombinator.com/item?id=49432499 Points: 1 # Comments: 0",
+          "published_at": "2026-08-25 12:06",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Neither HTML nor Markdown is enough: a way out of the AI doc dilemma",
+          "url": "https://news.ycombinator.com/item?id=49432443",
+          "source": "Hacker News AI",
+          "summary": "A recent post from Anthropic's Claude Code team (\"The Unreasonable Effectiveness of HTML\", https://thariqs.github.io/html-effectiveness/) argued that with today's context windows the bottleneck is human attention — rich HTML for decision surfaces, Markdown for durable records. That split makes sense to me. What it leaves open, in my experience, is the durable record itself: what happens when that is the thing an agent must iteratively co-author? You end up picking one and paying for the other — ",
+          "published_at": "2026-08-25 12:02",
+          "tags": []
+        },
+        {
+          "title": "Analysis: Can we license LLM generated \"vibe code\" into Free Software?",
+          "url": "https://fsfe.org/news/2026/news-20260825-01.en.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://fsfe.org/news/2026/news-20260825-01.en.html Comments URL: https://news.ycombinator.com/item?id=49432416 Points: 3 # Comments: 0",
+          "published_at": "2026-08-25 11:59",
+          "tags": []
+        },
+        {
+          "title": "An Interesting AI Educational Animation Generator",
+          "url": "https://fogsight.ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://fogsight.ai Comments URL: https://news.ycombinator.com/item?id=49432188 Points: 2 # Comments: 0",
+          "published_at": "2026-08-25 11:36",
+          "tags": []
+        },
+        {
+          "title": "We Use AI at Stalwart",
+          "url": "https://stalw.art/blog/how-we-use-ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://stalw.art/blog/how-we-use-ai/ Comments URL: https://news.ycombinator.com/item?id=49431989 Points: 1 # Comments: 0",
+          "published_at": "2026-08-25 11:18",
+          "tags": []
+        },
+        {
+          "title": "KAR AI",
+          "url": "https://karautoresearch.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://karautoresearch.com/ Comments URL: https://news.ycombinator.com/item?id=49431935 Points: 1 # Comments: 0",
+          "published_at": "2026-08-25 11:13",
+          "tags": []
+        },
+        {
+          "title": "AI Makes Better Software",
+          "url": "https://www.hmans.dev/blog/ai-makes-better-software",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.hmans.dev/blog/ai-makes-better-software Comments URL: https://news.ycombinator.com/item?id=49431667 Points: 8 # Comments: 2",
+          "published_at": "2026-08-25 10:47",
+          "tags": []
+        },
+        {
+          "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+          "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+          "source": "TechCrunch AI",
+          "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
+          "published_at": "2026-08-24 18:03",
+          "tags": [
+            "AI",
+            "Privacy",
+            "Security",
+            "AI assistants"
+          ]
+        },
+        {
+          "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+          "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+          "source": "TechCrunch AI",
+          "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
+          "published_at": "2026-08-24 15:24",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Venture",
+            "Exclusive",
+            "general intuition",
+            "Point72 Ventures",
+            "robotics",
+            "valor equity partners"
+          ]
+        }
+      ]
     }
   ]
 }

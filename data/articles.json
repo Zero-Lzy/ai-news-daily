@@ -1,5 +1,95 @@
 [
   {
+    "title": "My experience with LLM-assisted tools in software development",
+    "url": "https://ounapuu.ee/posts/2026/06/08/llm/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://ounapuu.ee/posts/2026/06/08/llm/ Comments URL: https://news.ycombinator.com/item?id=49432949 Points: 1 # Comments: 0",
+    "published_at": "2026-08-25 12:37",
+    "tags": [],
+    "fetch_date": "2026-08-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Run manual QA test cases in a real browser with an AI agent",
+    "url": "https://github.com/broxhq/qpilot",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/broxhq/qpilot Comments URL: https://news.ycombinator.com/item?id=49432514 Points: 1 # Comments: 0",
+    "published_at": "2026-08-25 12:07",
+    "tags": [],
+    "fetch_date": "2026-08-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Prelo – a WordPress-style admin for AI-built sites",
+    "url": "https://www.prelo.dev/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.prelo.dev/ Comments URL: https://news.ycombinator.com/item?id=49432499 Points: 1 # Comments: 0",
+    "published_at": "2026-08-25 12:06",
+    "tags": [],
+    "fetch_date": "2026-08-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Neither HTML nor Markdown is enough: a way out of the AI doc dilemma",
+    "url": "https://news.ycombinator.com/item?id=49432443",
+    "source": "Hacker News AI",
+    "summary": "A recent post from Anthropic's Claude Code team (\"The Unreasonable Effectiveness of HTML\", https://thariqs.github.io/html-effectiveness/) argued that with today's context windows the bottleneck is human attention — rich HTML for decision surfaces, Markdown for durable records. That split makes sense to me. What it leaves open, in my experience, is the durable record itself: what happens when that is the thing an agent must iteratively co-author? You end up picking one and paying for the other — ",
+    "published_at": "2026-08-25 12:02",
+    "tags": [],
+    "fetch_date": "2026-08-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Analysis: Can we license LLM generated \"vibe code\" into Free Software?",
+    "url": "https://fsfe.org/news/2026/news-20260825-01.en.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://fsfe.org/news/2026/news-20260825-01.en.html Comments URL: https://news.ycombinator.com/item?id=49432416 Points: 3 # Comments: 0",
+    "published_at": "2026-08-25 11:59",
+    "tags": [],
+    "fetch_date": "2026-08-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "An Interesting AI Educational Animation Generator",
+    "url": "https://fogsight.ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://fogsight.ai Comments URL: https://news.ycombinator.com/item?id=49432188 Points: 2 # Comments: 0",
+    "published_at": "2026-08-25 11:36",
+    "tags": [],
+    "fetch_date": "2026-08-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "We Use AI at Stalwart",
+    "url": "https://stalw.art/blog/how-we-use-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://stalw.art/blog/how-we-use-ai/ Comments URL: https://news.ycombinator.com/item?id=49431989 Points: 1 # Comments: 0",
+    "published_at": "2026-08-25 11:18",
+    "tags": [],
+    "fetch_date": "2026-08-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "KAR AI",
+    "url": "https://karautoresearch.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://karautoresearch.com/ Comments URL: https://news.ycombinator.com/item?id=49431935 Points: 1 # Comments: 0",
+    "published_at": "2026-08-25 11:13",
+    "tags": [],
+    "fetch_date": "2026-08-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Makes Better Software",
+    "url": "https://www.hmans.dev/blog/ai-makes-better-software",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.hmans.dev/blog/ai-makes-better-software Comments URL: https://news.ycombinator.com/item?id=49431667 Points: 8 # Comments: 2",
+    "published_at": "2026-08-25 10:47",
+    "tags": [],
+    "fetch_date": "2026-08-25",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Russian drone guided by AI kills civilians in Ukraine",
     "url": "https://www.aerotime.aero/articles/russian-drone-guided-entirely-by-ai-kills-civilians-in-ukraine",
     "source": "Hacker News AI",
@@ -35051,96 +35141,6 @@
       "ai dictation"
     ],
     "fetch_date": "2026-05-03",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The AI supply crunch is here",
-    "url": "https://www.economist.com/leaders/2026/04/30/the-ai-supply-crunch-is-here",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.economist.com/leaders/2026/04/30/the-ai-supply-crunch-is-here Comments URL: https://news.ycombinator.com/item?id=47986087 Points: 1 # Comments: 0",
-    "published_at": "2026-05-02 13:08",
-    "tags": [],
-    "fetch_date": "2026-05-02",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "I Just Launched the AI Pledge for Humanity. Here's Why",
-    "url": "https://scottsantens.substack.com/p/i-just-launched-the-ai-pledge-for",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://scottsantens.substack.com/p/i-just-launched-the-ai-pledge-for Comments URL: https://news.ycombinator.com/item?id=47985976 Points: 1 # Comments: 3",
-    "published_at": "2026-05-02 12:51",
-    "tags": [],
-    "fetch_date": "2026-05-02",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "David Bessis on AI destroying mathematics",
-    "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy Comments URL: https://news.ycombinator.com/item?id=47985962 Points: 1 # Comments: 0",
-    "published_at": "2026-05-02 12:48",
-    "tags": [],
-    "fetch_date": "2026-05-02",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Cyberattacks Meet Memory-Safe Code Defenses",
-    "url": "https://spectrum.ieee.org/ai-cyberattacks-memory-safe-code",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://spectrum.ieee.org/ai-cyberattacks-memory-safe-code Comments URL: https://news.ycombinator.com/item?id=47985890 Points: 1 # Comments: 0",
-    "published_at": "2026-05-02 12:38",
-    "tags": [],
-    "fetch_date": "2026-05-02",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "I'm building a pool logging and AI app. What would make this genuinely useful?",
-    "url": "https://poolquant.com",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://poolquant.com Comments URL: https://news.ycombinator.com/item?id=47985799 Points: 1 # Comments: 0",
-    "published_at": "2026-05-02 12:23",
-    "tags": [],
-    "fetch_date": "2026-05-02",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "When generative AI makes mistakes, are they the same as human errors?",
-    "url": "https://link.springer.com/article/10.1007/s13347-026-01056-x",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://link.springer.com/article/10.1007/s13347-026-01056-x Comments URL: https://news.ycombinator.com/item?id=47985788 Points: 1 # Comments: 1",
-    "published_at": "2026-05-02 12:22",
-    "tags": [],
-    "fetch_date": "2026-05-02",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Herbert Simon in 1979: on AI and robotics [video]",
-    "url": "https://www.youtube.com/watch?v=p5c9ns0oeZg",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.youtube.com/watch?v=p5c9ns0oeZg Comments URL: https://news.ycombinator.com/item?id=47985711 Points: 1 # Comments: 0",
-    "published_at": "2026-05-02 12:09",
-    "tags": [],
-    "fetch_date": "2026-05-02",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Quantization for Modern AI Systems (70-page free eBook)",
-    "url": "https://pawankjha.substack.com/p/my-new-ebook-free-download-quantization",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://pawankjha.substack.com/p/my-new-ebook-free-download-quantization Comments URL: https://news.ycombinator.com/item?id=47985687 Points: 2 # Comments: 0",
-    "published_at": "2026-05-02 12:06",
-    "tags": [],
-    "fetch_date": "2026-05-02",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Minnesota passes ban on fake AI nudes; app makers risk $500K fines",
-    "url": "https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/ Comments URL: https://news.ycombinator.com/item?id=47985613 Points: 3 # Comments: 1",
-    "published_at": "2026-05-02 11:55",
-    "tags": [],
-    "fetch_date": "2026-05-02",
     "fetch_label": "晚报"
   }
 ]
