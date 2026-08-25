@@ -1,5 +1,189 @@
 [
   {
+    "title": "Russian drone guided by AI kills civilians in Ukraine",
+    "url": "https://www.aerotime.aero/articles/russian-drone-guided-entirely-by-ai-kills-civilians-in-ukraine",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.aerotime.aero/articles/russian-drone-guided-entirely-by-ai-kills-civilians-in-ukraine Comments URL: https://news.ycombinator.com/item?id=49427988 Points: 1 # Comments: 1",
+    "published_at": "2026-08-25 01:18",
+    "tags": [],
+    "fetch_date": "2026-08-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Who will decide that level AI you have access to?",
+    "url": "https://guustaaf.substack.com/p/governments-will-decide-what-level-ai-you-have-access-to",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://guustaaf.substack.com/p/governments-will-decide-what-level-ai-you-have-access-to Comments URL: https://news.ycombinator.com/item?id=49427703 Points: 3 # Comments: 3",
+    "published_at": "2026-08-25 00:34",
+    "tags": [],
+    "fetch_date": "2026-08-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Is Dissolving Software Moats. China Did It to Hardware First",
+    "url": "https://mehmetmhy.com/posts/modern_moat/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://mehmetmhy.com/posts/modern_moat/ Comments URL: https://news.ycombinator.com/item?id=49427422 Points: 1 # Comments: 3",
+    "published_at": "2026-08-24 23:54",
+    "tags": [],
+    "fetch_date": "2026-08-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "I audited 2,475 businesses for AI-search readiness. 88% failed",
+    "url": "https://docs.google.com/document/d/1Z_RNzARxQZS9TDmQDGr7Da5mqqmbwTbbe8pWvl92tHw/edit?usp=sharing",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://docs.google.com/document/d/1Z_RNzARxQZS9TDmQDGr7Da5mqqmbwTbbe8pWvl92tHw/edit?usp=sharing Comments URL: https://news.ycombinator.com/item?id=49427340 Points: 1 # Comments: 1",
+    "published_at": "2026-08-24 23:43",
+    "tags": [],
+    "fetch_date": "2026-08-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Skills for Real Engineers",
+    "url": "https://blog.master.dev/introducing-ai-skills-for-real-engineers/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.master.dev/introducing-ai-skills-for-real-engineers/ Comments URL: https://news.ycombinator.com/item?id=49427320 Points: 1 # Comments: 0",
+    "published_at": "2026-08-24 23:39",
+    "tags": [],
+    "fetch_date": "2026-08-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "What my dad taught me about AI coding in the 90s",
+    "url": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/ Comments URL: https://news.ycombinator.com/item?id=49427181 Points: 2 # Comments: 0",
+    "published_at": "2026-08-24 23:23",
+    "tags": [],
+    "fetch_date": "2026-08-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "UK will use Ukraine battlefield data to train AI and use it againsts protesters",
+    "url": "https://www.theguardian.com/politics/2026/aug/24/uk-to-use-ukraine-battlefield-data-to-train-ai-to-protect-sensitive-sites",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theguardian.com/politics/2026/aug/24/uk-to-use-ukraine-battlefield-data-to-train-ai-to-protect-sensitive-sites Comments URL: https://news.ycombinator.com/item?id=49427094 Points: 3 # Comments: 1",
+    "published_at": "2026-08-24 23:12",
+    "tags": [],
+    "fetch_date": "2026-08-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: AiSyncing – Back up your AI coding assistant memories to GitHub",
+    "url": "https://github.com/DiegoSalazar/AiSyncing",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/DiegoSalazar/AiSyncing Comments URL: https://news.ycombinator.com/item?id=49426934 Points: 1 # Comments: 0",
+    "published_at": "2026-08-24 22:52",
+    "tags": [],
+    "fetch_date": "2026-08-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Characterizing the spiral: potential mechanisms in AI-associated delusions",
+    "url": "https://www.nature.com/articles/s44277-026-00065-0",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.nature.com/articles/s44277-026-00065-0 Comments URL: https://news.ycombinator.com/item?id=49426912 Points: 4 # Comments: 0",
+    "published_at": "2026-08-24 22:50",
+    "tags": [],
+    "fetch_date": "2026-08-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Stigmergy, a Karpathy-style LLM wiki for a team, not one person",
+    "url": "https://github.com/sturlese/stigmergy",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/sturlese/stigmergy Comments URL: https://news.ycombinator.com/item?id=49426770 Points: 1 # Comments: 0",
+    "published_at": "2026-08-24 22:32",
+    "tags": [],
+    "fetch_date": "2026-08-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet",
+    "url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/ Comments URL: https://news.ycombinator.com/item?id=49426482 Points: 3 # Comments: 0",
+    "published_at": "2026-08-24 22:07",
+    "tags": [],
+    "fetch_date": "2026-08-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI text watermarking and quality loss",
+    "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.keyvan.net/p/ai-text-watermarking-and-quality Comments URL: https://news.ycombinator.com/item?id=49426464 Points: 2 # Comments: 0",
+    "published_at": "2026-08-24 22:05",
+    "tags": [],
+    "fetch_date": "2026-08-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "See what your content is worth to AI agents",
+    "url": "https://index.parallel.ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://index.parallel.ai/ Comments URL: https://news.ycombinator.com/item?id=49426463 Points: 1 # Comments: 0",
+    "published_at": "2026-08-24 22:05",
+    "tags": [],
+    "fetch_date": "2026-08-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "SpaceX Shares Sink on AI Spending Plans",
+    "url": "https://www.wsj.com/tech/ai/spacex-says-spending-spree-is-supercharging-ai-revenues-ea750ff3",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/spacex-says-spending-spree-is-supercharging-ai-revenues-ea750ff3 Comments URL: https://news.ycombinator.com/item?id=49426333 Points: 1 # Comments: 0",
+    "published_at": "2026-08-24 21:52",
+    "tags": [],
+    "fetch_date": "2026-08-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI-to-AI Code Reviews of GitHub Pull Requests",
+    "url": "https://arxiv.org/abs/2608.21311",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2608.21311 Comments URL: https://news.ycombinator.com/item?id=49426227 Points: 1 # Comments: 0",
+    "published_at": "2026-08-24 21:41",
+    "tags": [],
+    "fetch_date": "2026-08-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+    "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+    "source": "TechCrunch AI",
+    "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
+    "published_at": "2026-08-24 18:03",
+    "tags": [
+      "AI",
+      "Privacy",
+      "Security",
+      "AI assistants"
+    ],
+    "fetch_date": "2026-08-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+    "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+    "source": "TechCrunch AI",
+    "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
+    "published_at": "2026-08-24 15:24",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "Venture",
+      "Exclusive",
+      "general intuition",
+      "Point72 Ventures",
+      "robotics",
+      "valor equity partners"
+    ],
+    "fetch_date": "2026-08-25",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
     "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
     "source": "TechCrunch AI",
@@ -34957,192 +35141,6 @@
     "published_at": "2026-05-02 11:55",
     "tags": [],
     "fetch_date": "2026-05-02",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "A New Mental Model for Work in the AI Age",
-    "url": "https://dalehurley.com/posts/newmentalmodelforworkintheaiage/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://dalehurley.com/posts/newmentalmodelforworkintheaiage/ Comments URL: https://news.ycombinator.com/item?id=47985600 Points: 1 # Comments: 2",
-    "published_at": "2026-05-02 11:53",
-    "tags": [],
-    "fetch_date": "2026-05-02",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Architecting AI Compute (Part 1)",
-    "url": "https://pawankjha.substack.com/p/architecting-ai-compute-part-1-the",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://pawankjha.substack.com/p/architecting-ai-compute-part-1-the Comments URL: https://news.ycombinator.com/item?id=47985484 Points: 1 # Comments: 0",
-    "published_at": "2026-05-02 11:35",
-    "tags": [],
-    "fetch_date": "2026-05-02",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "WebLLM is a high-performance in-browser LLM inference engine",
-    "url": "https://github.com/mlc-ai/web-llm",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/mlc-ai/web-llm Comments URL: https://news.ycombinator.com/item?id=47985332 Points: 1 # Comments: 0",
-    "published_at": "2026-05-02 11:08",
-    "tags": [],
-    "fetch_date": "2026-05-02",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
-    "url": "https://mljar.com/",
-    "source": "Hacker News AI",
-    "summary": "Hi HN,I’ve been working on mljar-supervised (open-source AutoML for tabular data) for a few years. Recently I built a desktop app around it called MLJAR Studio.The idea is simple: you talk to your data in natural language, the AI generates Python code, executes it locally, and the whole conversation becomes a reproducible notebook (*.ipynb file). So instead of just chatting with data, you end up with something you can inspect, modify, and rerun.What MLJAR Studio does:- Sets up a local Python env",
-    "published_at": "2026-05-02 10:21",
-    "tags": [],
-    "fetch_date": "2026-05-02",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The AI Race Is Charged by the Fear of Being Left Behind",
-    "url": "https://thewalrus.ca/the-ai-race-is-charged-by-the-fear-of-being-left-behind/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://thewalrus.ca/the-ai-race-is-charged-by-the-fear-of-being-left-behind/ Comments URL: https://news.ycombinator.com/item?id=47984998 Points: 9 # Comments: 2",
-    "published_at": "2026-05-02 10:06",
-    "tags": [],
-    "fetch_date": "2026-05-02",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Apple just gave a clue that a big AI acquisition may be in the cards",
-    "url": "https://www.marketwatch.com/story/apple-just-gave-a-subtle-clue-that-a-splashy-ai-acquisition-may-be-in-the-cards-110f5ce2?mod=home_lead",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.marketwatch.com/story/apple-just-gave-a-subtle-clue-that-a-splashy-ai-acquisition-may-be-in-the-cards-110f5ce2?mod=home_lead Comments URL: https://news.ycombinator.com/item?id=47984913 Points: 1 # Comments: 0",
-    "published_at": "2026-05-02 09:45",
-    "tags": [],
-    "fetch_date": "2026-05-02",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Sam Altman says OpenAI doesn't want to replace you with AI",
-    "url": "https://www.neowin.net/news/sam-altman-says-that-openai-doesnt-want-to-replace-you-with-ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.neowin.net/news/sam-altman-says-that-openai-doesnt-want-to-replace-you-with-ai/ Comments URL: https://news.ycombinator.com/item?id=47982795 Points: 1 # Comments: 1",
-    "published_at": "2026-05-02 02:34",
-    "tags": [],
-    "fetch_date": "2026-05-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Finny – AI trading agent that runs in your terminal",
-    "url": "https://www.finnyai.tech/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.finnyai.tech/ Comments URL: https://news.ycombinator.com/item?id=47982138 Points: 1 # Comments: 0",
-    "published_at": "2026-05-02 00:40",
-    "tags": [],
-    "fetch_date": "2026-05-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Addressing AI Use in Game Development",
-    "url": "https://darkounity.com/blog/addressing-ai-use-in-game-development",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://darkounity.com/blog/addressing-ai-use-in-game-development Comments URL: https://news.ycombinator.com/item?id=47981826 Points: 1 # Comments: 0",
-    "published_at": "2026-05-01 23:47",
-    "tags": [],
-    "fetch_date": "2026-05-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Does threatening an AI agent's existence make it a better gambler?",
-    "url": "https://handyai.substack.com/p/does-threatening-an-ai-agents-existence",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://handyai.substack.com/p/does-threatening-an-ai-agents-existence Comments URL: https://news.ycombinator.com/item?id=47981398 Points: 2 # Comments: 0",
-    "published_at": "2026-05-01 22:48",
-    "tags": [],
-    "fetch_date": "2026-05-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Friday Studio AI runtime: Turn prompts, skills, & tools into reliable config",
-    "url": "https://github.com/friday-platform/friday-studio",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/friday-platform/friday-studio Comments URL: https://news.ycombinator.com/item?id=47981311 Points: 8 # Comments: 3",
-    "published_at": "2026-05-01 22:37",
-    "tags": [],
-    "fetch_date": "2026-05-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI actors and writers will be ineligible for Oscars",
-    "url": "https://www.reuters.com/lifestyle/ai-actors-writers-will-be-ineligible-oscars-2026-05-01/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.reuters.com/lifestyle/ai-actors-writers-will-be-ineligible-oscars-2026-05-01/ Comments URL: https://news.ycombinator.com/item?id=47981199 Points: 5 # Comments: 3",
-    "published_at": "2026-05-01 22:25",
-    "tags": [],
-    "fetch_date": "2026-05-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "GitHub Copilot: Upcoming Deprecation of GPT-5.2 and GPT-5.2-Codex",
-    "url": "https://github.blog/changelog/2026-05-01-upcoming-deprecation-of-gpt-5-2-and-gpt-5-2-codex/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.blog/changelog/2026-05-01-upcoming-deprecation-of-gpt-5-2-and-gpt-5-2-codex/ Comments URL: https://news.ycombinator.com/item?id=47981179 Points: 3 # Comments: 0",
-    "published_at": "2026-05-01 22:22",
-    "tags": [],
-    "fetch_date": "2026-05-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Stealth Benchmark test if AI coding interview tools can be detected",
-    "url": "https://github.com/blindCodes/stealth-benchmark",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/blindCodes/stealth-benchmark Comments URL: https://news.ycombinator.com/item?id=47981096 Points: 2 # Comments: 0",
-    "published_at": "2026-05-01 22:12",
-    "tags": [],
-    "fetch_date": "2026-05-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Musk v. Altman is just getting started",
-    "url": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
-    "source": "TechCrunch AI",
-    "summary": "Elon Musk spent the better part of three days&#160;on the witness stand&#160;this week&#160;in his lawsuit against OpenAI, and&#160;it&#8217;s&#160;already getting messy. Emails, texts, and&#160;his own tweets&#160;are surfacing in court, and there are plenty more witnesses to come. Musk&#8217;s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the [&#8230;]",
-    "published_at": "2026-05-01 14:00",
-    "tags": [
-      "AI",
-      "Startups",
-      "Acquisitions",
-      "ai infrastructure",
-      "Amazon",
-      "big tech earnings",
-      "Elon Musk",
-      "Google",
-      "Meta",
-      "Microsoft",
-      "military AI",
-      "OpenAI",
-      "sallie mae",
-      "sam altman",
-      "Scout AI"
-    ],
-    "fetch_date": "2026-05-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Top AI Companies Agree to Pentagon Deals for Classified Work",
-    "url": "https://www.wsj.com/tech/ai/top-ai-companies-agree-to-pentagon-deals-for-classified-work-9c621e78",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/top-ai-companies-agree-to-pentagon-deals-for-classified-work-9c621e78 Comments URL: https://news.ycombinator.com/item?id=47974475 Points: 1 # Comments: 1",
-    "published_at": "2026-05-01 13:17",
-    "tags": [],
-    "fetch_date": "2026-05-01",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Ask HN: How do you feel about AI assisted blogging?",
-    "url": "https://news.ycombinator.com/item?id=47974256",
-    "source": "Hacker News AI",
-    "summary": "How do you feel when you learn someone has been using AI heavily to help them write? Setting aside English as a second language.My knee-jerk is to find it disappointing. But maybe I’m missing some nuance. And I don’t have the same negative reaction to AI coding.But if you’re going to ask me to read a blog article, I don’t quite enjoy it when it’s not in your own words. I want to be in conversation with you, not you intermediated through an LLM.While I don’t particularly care about a bit of LLM s",
-    "published_at": "2026-05-01 12:56",
-    "tags": [],
-    "fetch_date": "2026-05-01",
     "fetch_label": "晚报"
   }
 ]
