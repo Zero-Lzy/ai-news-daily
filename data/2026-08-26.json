@@ -195,6 +195,198 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-08-26 20:52:20",
+      "count": 19,
+      "articles": [
+        {
+          "title": "Bill Gates: The turbulent AI era is here",
+          "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make Comments URL: https://news.ycombinator.com/item?id=49448137 Points: 3 # Comments: 0",
+          "published_at": "2026-08-26 12:47",
+          "tags": []
+        },
+        {
+          "title": "Created my own LLM Agentic Coding App with a desktop client",
+          "url": "https://apps.apple.com/us/app/pocket-grammer/id6762562983",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://apps.apple.com/us/app/pocket-grammer/id6762562983 Comments URL: https://news.ycombinator.com/item?id=49448052 Points: 1 # Comments: 1",
+          "published_at": "2026-08-26 12:42",
+          "tags": []
+        },
+        {
+          "title": "How kids feel about AI, in their own words",
+          "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/ Comments URL: https://news.ycombinator.com/item?id=49448038 Points: 1 # Comments: 0",
+          "published_at": "2026-08-26 12:41",
+          "tags": []
+        },
+        {
+          "title": "Do AI Models Have an Inner Monologue? – The J-Space –- Strad Slater [video]",
+          "url": "https://www.youtube.com/watch?v=s_0rSqMSzss",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=s_0rSqMSzss Comments URL: https://news.ycombinator.com/item?id=49448012 Points: 1 # Comments: 1",
+          "published_at": "2026-08-26 12:40",
+          "tags": []
+        },
+        {
+          "title": "Libera.Chat Bot/LLM policy update",
+          "url": "https://libera.chat/news/bot-policy-update",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://libera.chat/news/bot-policy-update Comments URL: https://news.ycombinator.com/item?id=49448010 Points: 1 # Comments: 0",
+          "published_at": "2026-08-26 12:40",
+          "tags": []
+        },
+        {
+          "title": "I'm an Amazon SVP. I hadn't coded in 25 years. AI helped me write 100k lines",
+          "url": "https://www.aboutamazon.com/news/workplace/amazon-svp-ai-tools-employees-careers",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.aboutamazon.com/news/workplace/amazon-svp-ai-tools-employees-careers Comments URL: https://news.ycombinator.com/item?id=49447987 Points: 1 # Comments: 0",
+          "published_at": "2026-08-26 12:38",
+          "tags": []
+        },
+        {
+          "title": "AI can now credibly complete most undergraduate assignments, MIT warns",
+          "url": "https://www.washingtonpost.com/education/2026/08/25/ai-can-now-credibly-complete-most-undergraduate-assignments-mit-warns/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.washingtonpost.com/education/2026/08/25/ai-can-now-credibly-complete-most-undergraduate-assignments-mit-warns/ Comments URL: https://news.ycombinator.com/item?id=49447890 Points: 1 # Comments: 0",
+          "published_at": "2026-08-26 12:33",
+          "tags": []
+        },
+        {
+          "title": "Ora benchmarks every major AI agent on Vercel – Customers",
+          "url": "https://vercel.com/customers/how-ora-benchmarks-every-major-ai-agent-on-vercel",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://vercel.com/customers/how-ora-benchmarks-every-major-ai-agent-on-vercel Comments URL: https://news.ycombinator.com/item?id=49447761 Points: 1 # Comments: 0",
+          "published_at": "2026-08-26 12:24",
+          "tags": []
+        },
+        {
+          "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+          "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda Comments URL: https://news.ycombinator.com/item?id=49447600 Points: 3 # Comments: 0",
+          "published_at": "2026-08-26 12:11",
+          "tags": []
+        },
+        {
+          "title": "Building a better PowerPoint API for the AI era",
+          "url": "https://editide.com/blog/building-a-better-powerpoint-api/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://editide.com/blog/building-a-better-powerpoint-api/ Comments URL: https://news.ycombinator.com/item?id=49447492 Points: 3 # Comments: 0",
+          "published_at": "2026-08-26 12:00",
+          "tags": []
+        },
+        {
+          "title": "Workism, AI and Vocations",
+          "url": "https://unattributed.cc/2026/08/13/workism-ai-and-vocations/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://unattributed.cc/2026/08/13/workism-ai-and-vocations/ Comments URL: https://news.ycombinator.com/item?id=49447485 Points: 2 # Comments: 0",
+          "published_at": "2026-08-26 12:00",
+          "tags": []
+        },
+        {
+          "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+          "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+          "source": "TechCrunch AI",
+          "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
+          "published_at": "2026-08-26 12:00",
+          "tags": [
+            "Startups",
+            "Hardware",
+            "AI",
+            "Gadgets",
+            "accessibility",
+            "hearing aid",
+            "smartglasses"
+          ]
+        },
+        {
+          "title": "Wall St. Scrutinizes Nvidia's Deal Machine",
+          "url": "https://www.nytimes.com/2026/08/26/business/dealbook/nvidia-earnings-ai-investments.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.nytimes.com/2026/08/26/business/dealbook/nvidia-earnings-ai-investments.html Comments URL: https://news.ycombinator.com/item?id=49447423 Points: 5 # Comments: 1",
+          "published_at": "2026-08-26 11:54",
+          "tags": []
+        },
+        {
+          "title": "Top Best AI Aggregators in 2026",
+          "url": "https://data-infinityfreeapp.gt.tc",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://data-infinityfreeapp.gt.tc Comments URL: https://news.ycombinator.com/item?id=49447243 Points: 1 # Comments: 0",
+          "published_at": "2026-08-26 11:38",
+          "tags": []
+        },
+        {
+          "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+          "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+          "source": "TechCrunch AI",
+          "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+          "published_at": "2026-08-26 00:40",
+          "tags": [
+            "AI",
+            "Robotics",
+            "8VC",
+            "Exclusive",
+            "radical ventures"
+          ]
+        },
+        {
+          "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
+          "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+          "source": "TechCrunch AI",
+          "summary": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\"",
+          "published_at": "2026-08-26 00:06",
+          "tags": [
+            "AI",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+          "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+          "source": "TechCrunch AI",
+          "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+          "published_at": "2026-08-25 14:22",
+          "tags": [
+            "AI",
+            "Broadcom",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Accel-backed Keenable is indexing the web for AI agents",
+          "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+          "source": "TechCrunch AI",
+          "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+          "published_at": "2026-08-25 13:00",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Startups",
+            "AI agents",
+            "Exclusive",
+            "search engines",
+            "Yandex"
+          ]
+        },
+        {
+          "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+          "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+          "source": "TechCrunch AI",
+          "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
+          "published_at": "2026-08-25 12:00",
+          "tags": [
+            "AI",
+            "Exclusive",
+            "OpenAI"
+          ]
+        }
+      ]
     }
   ]
 }
