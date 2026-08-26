@@ -1,5 +1,214 @@
 [
   {
+    "title": "Microsoft's Maia 200 AI Accelerator at Hot Chips 2026",
+    "url": "https://www.servethehome.com/microsofts-maia-200-accelerator-at-hot-chips-2026/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.servethehome.com/microsofts-maia-200-accelerator-at-hot-chips-2026/ Comments URL: https://news.ycombinator.com/item?id=49442682 Points: 1 # Comments: 0",
+    "published_at": "2026-08-26 00:33",
+    "tags": [],
+    "fetch_date": "2026-08-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Realist Radar:GPT‑5.6 Sol Pricing, Stripe's OpenRouter Deal",
+    "url": "https://msukhareva.substack.com/p/ai-realist-radar-gpt56-sol-pricing",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://msukhareva.substack.com/p/ai-realist-radar-gpt56-sol-pricing Comments URL: https://news.ycombinator.com/item?id=49442514 Points: 1 # Comments: 0",
+    "published_at": "2026-08-26 00:11",
+    "tags": [],
+    "fetch_date": "2026-08-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+    "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+    "source": "TechCrunch AI",
+    "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+    "published_at": "2026-08-26 00:06",
+    "tags": [
+      "AI",
+      "TC"
+    ],
+    "fetch_date": "2026-08-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The AI Health Agent That Will Know Me for Life",
+    "url": "https://williamtp.substack.com/p/the-ai-health-agent-that-will-know",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://williamtp.substack.com/p/the-ai-health-agent-that-will-know Comments URL: https://news.ycombinator.com/item?id=49442198 Points: 1 # Comments: 0",
+    "published_at": "2026-08-25 23:37",
+    "tags": [],
+    "fetch_date": "2026-08-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "A modest but open theorem in theoretical biology proved by AI",
+    "url": "https://twitter.com/curiouswavefn/status/2092380964668534967",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/curiouswavefn/status/2092380964668534967 Comments URL: https://news.ycombinator.com/item?id=49442122 Points: 3 # Comments: 0",
+    "published_at": "2026-08-25 23:28",
+    "tags": [],
+    "fetch_date": "2026-08-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Disruptors: How the Next Generation of Business Is Being Built",
+    "url": "https://www.digitalocean.com/blog/ai-disruptors",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.digitalocean.com/blog/ai-disruptors Comments URL: https://news.ycombinator.com/item?id=49442069 Points: 1 # Comments: 0",
+    "published_at": "2026-08-25 23:22",
+    "tags": [],
+    "fetch_date": "2026-08-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Slash-tokens – know LLM cost before the call leaves your machine",
+    "url": "https://github.com/Wolfe-Jam/slash-tokens",
+    "source": "Hacker News AI",
+    "summary": "I kept finding out what a call cost after I had already paid, so I built /Slash -- slash-tokens is a 4.8KB WASM that estimates tokens FAST and can block a wasted trip, or switch to cheaper same-provider model before the request leaves your machine. Try it MIT, no account needed: bunx slash-tokensOr install the SDK: npm install slash-tokens Comments URL: https://news.ycombinator.com/item?id=49441725 Points: 2 # Comments: 2",
+    "published_at": "2026-08-25 22:48",
+    "tags": [],
+    "fetch_date": "2026-08-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Home Lab for Beginners: The Deep Dive",
+    "url": "https://augmentedmind.substack.com/p/ai-home-lab-for-beginners",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://augmentedmind.substack.com/p/ai-home-lab-for-beginners Comments URL: https://news.ycombinator.com/item?id=49441626 Points: 2 # Comments: 0",
+    "published_at": "2026-08-25 22:35",
+    "tags": [],
+    "fetch_date": "2026-08-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "New AI Agent to Autonomously Prepare and Send Docs Out for Signature",
+    "url": "https://slack.com/marketplace/A095XNK8GPK-docendorse-ai-agent?nojsmode=1",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://slack.com/marketplace/A095XNK8GPK-docendorse-ai-agent?nojsmode=1 Comments URL: https://news.ycombinator.com/item?id=49441347 Points: 1 # Comments: 0",
+    "published_at": "2026-08-25 22:06",
+    "tags": [],
+    "fetch_date": "2026-08-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Try to beat this AI writing detector",
+    "url": "https://www.washingtonpost.com/technology/interactive/2026/08/25/ai-detectors-like-pangram-are-everywhere-arent-always-accurate/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.washingtonpost.com/technology/interactive/2026/08/25/ai-detectors-like-pangram-are-everywhere-arent-always-accurate/ Comments URL: https://news.ycombinator.com/item?id=49440586 Points: 5 # Comments: 1",
+    "published_at": "2026-08-25 21:02",
+    "tags": [],
+    "fetch_date": "2026-08-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The State of AI Disclosure 2026: what 1,088 EU sites' chat widgets say",
+    "url": "https://disclosureproof.com/research/state-of-ai-disclosure/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://disclosureproof.com/research/state-of-ai-disclosure/ Comments URL: https://news.ycombinator.com/item?id=49440371 Points: 1 # Comments: 0",
+    "published_at": "2026-08-25 20:46",
+    "tags": [],
+    "fetch_date": "2026-08-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "MREA – Open-source governance framework for multi-role AI agents",
+    "url": "https://github.com/JairValle/mrea-framework",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/JairValle/mrea-framework Comments URL: https://news.ycombinator.com/item?id=49440302 Points: 1 # Comments: 0",
+    "published_at": "2026-08-25 20:40",
+    "tags": [],
+    "fetch_date": "2026-08-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI, IPv6, and the future Internet at IETF 126",
+    "url": "https://blog.apnic.net/2026/08/25/ai-ipv6-and-the-future-internet-at-ietf-126/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.apnic.net/2026/08/25/ai-ipv6-and-the-future-internet-at-ietf-126/ Comments URL: https://news.ycombinator.com/item?id=49440215 Points: 2 # Comments: 0",
+    "published_at": "2026-08-25 20:33",
+    "tags": [],
+    "fetch_date": "2026-08-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The New York Times is publishing AI slop",
+    "url": "https://unpublishablepapers.substack.com/p/the-new-york-times-is-publishing",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://unpublishablepapers.substack.com/p/the-new-york-times-is-publishing Comments URL: https://news.ycombinator.com/item?id=49440204 Points: 14 # Comments: 2",
+    "published_at": "2026-08-25 20:32",
+    "tags": [],
+    "fetch_date": "2026-08-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Cross-vendor byte-identical inference for a 72B LLM (AMD MI300X vs. Nvidia H100)",
+    "url": "https://zenodo.org/records/19882078",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://zenodo.org/records/19882078 Comments URL: https://news.ycombinator.com/item?id=49440102 Points: 5 # Comments: 0",
+    "published_at": "2026-08-25 20:24",
+    "tags": [],
+    "fetch_date": "2026-08-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Codeberg TOS Now Rejects Predominantly AI Repos",
+    "url": "https://codeberg.org/Codeberg/org/compare/17bdb39b0c1ecd0e423f3ba592650ce57fcdfbf5..71149c7fc95ccfeae36109b5cddca339e4aa1473?files=TermsOfUse.md#diff-d760d688bb9b929b62db808bfc76abe4493d095a",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://codeberg.org/Codeberg/org/compare/17bdb39b0c1ecd0e423f3ba592650ce57fcdfbf5..71149c7fc95ccfeae36109b5cddca339e4aa1473?files=TermsOfUse.md#diff-d760d688bb9b929b62db808bfc76abe4493d095a Comments URL: https://news.ycombinator.com/item?id=49440062 Points: 3 # Comments: 1",
+    "published_at": "2026-08-25 20:21",
+    "tags": [],
+    "fetch_date": "2026-08-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+    "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+    "source": "TechCrunch AI",
+    "summary": "The company's new fundraising total now stands at $232 million.",
+    "published_at": "2026-08-25 19:03",
+    "tags": [
+      "AI",
+      "Stability AI",
+      "Stable Diffusion"
+    ],
+    "fetch_date": "2026-08-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+    "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+    "source": "TechCrunch AI",
+    "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+    "published_at": "2026-08-25 14:22",
+    "tags": [
+      "AI",
+      "Broadcom",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-08-26",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Accel-backed Keenable is indexing the web for AI agents",
+    "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+    "source": "TechCrunch AI",
+    "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+    "published_at": "2026-08-25 13:00",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "Startups",
+      "AI agents",
+      "Exclusive",
+      "search engines",
+      "Yandex"
+    ],
+    "fetch_date": "2026-08-26",
+    "fetch_label": "早报"
+  },
+  {
     "title": "My experience with LLM-assisted tools in software development",
     "url": "https://ounapuu.ee/posts/2026/06/08/llm/",
     "source": "Hacker News AI",
@@ -34923,224 +35132,5 @@
     "tags": [],
     "fetch_date": "2026-05-04",
     "fetch_label": "早报"
-  },
-  {
-    "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
-    "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
-    "source": "TechCrunch AI",
-    "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
-    "published_at": "2026-05-03 18:00",
-    "tags": [
-      "AI",
-      "Biotech & Health",
-      "beth israel",
-      "harvard medical school",
-      "OpenAI"
-    ],
-    "fetch_date": "2026-05-04",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "How the internet’s favorite squirrel dad made the hottest camera app of 2026",
-    "url": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr",
-    "source": "The Verge AI",
-    "summary": "It's not hyperbole to call DualShot Recorder an overnight sensation. It took only 12 hours from the time it was released to hit number one on the App Store's list of top paid apps. It was a surprise success - but what's even more surprising is the app's origin story: it all started with a [&#8230;]",
-    "published_at": "2026-05-03 09:00",
-    "tags": [
-      "AI",
-      "Apple",
-      "Apps",
-      "iPhone",
-      "Mobile",
-      "Tech"
-    ],
-    "fetch_date": "2026-05-03",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI music is flooding streaming services — but who wants it?",
-    "url": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
-    "source": "The Verge AI",
-    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The use of generative AI [&#8230;]",
-    "published_at": "2026-05-03 08:00",
-    "tags": [
-      "AI",
-      "Column",
-      "Streaming",
-      "The Stepback"
-    ],
-    "fetch_date": "2026-05-03",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Fun, open-source AI transparency project",
-    "url": "https://github.com/realalonw/agent-receipts",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/realalonw/agent-receipts Comments URL: https://news.ycombinator.com/item?id=47992816 Points: 1 # Comments: 1",
-    "published_at": "2026-05-03 02:44",
-    "tags": [],
-    "fetch_date": "2026-05-03",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI, Intimacy, and the Data You Never Meant to Share",
-    "url": "https://fshot.org/techzone/the-algorithm-knows.php",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://fshot.org/techzone/the-algorithm-knows.php Comments URL: https://news.ycombinator.com/item?id=47992802 Points: 1 # Comments: 0",
-    "published_at": "2026-05-03 02:42",
-    "tags": [],
-    "fetch_date": "2026-05-03",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The AI workflow I use to build apps",
-    "url": "https://juanmanuelalloron.com/post/my-current-ai-workflow-for-building-apps/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://juanmanuelalloron.com/post/my-current-ai-workflow-for-building-apps/ Comments URL: https://news.ycombinator.com/item?id=47992665 Points: 1 # Comments: 0",
-    "published_at": "2026-05-03 02:14",
-    "tags": [],
-    "fetch_date": "2026-05-03",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "US Navy signs deal with AI firm for training underwater drones",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-navy-signs-deal-with-ai-firm-for-training-underwater-drones-to-detect-mines-in-strait-of-hormuz-usd100-million-would-allow-drone-minesweepers-to-update-their-detection-algorithms-in-days-instead-of-months",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/us-navy-signs-deal-with-ai-firm-for-training-underwater-drones-to-detect-mines-in-strait-of-hormuz-usd100-million-would-allow-drone-minesweepers-to-update-their-detection-algorithms-in-days-instead-of-months Comments URL: https://news.ycombinator.com/item?id=47992542 Points: 1 # Comments: 0",
-    "published_at": "2026-05-03 01:52",
-    "tags": [],
-    "fetch_date": "2026-05-03",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "In real-world test, an AI model did better than doctors at diagnosing patients",
-    "url": "https://www.npr.org/2026/04/30/nx-s1-5804474/ai-doctors-openai-patient-care-diagnosis",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.npr.org/2026/04/30/nx-s1-5804474/ai-doctors-openai-patient-care-diagnosis Comments URL: https://news.ycombinator.com/item?id=47991831 Points: 2 # Comments: 0",
-    "published_at": "2026-05-03 00:06",
-    "tags": [],
-    "fetch_date": "2026-05-03",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI is locking people out. At Scale",
-    "url": "https://conesible.de/wab/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://conesible.de/wab/ Comments URL: https://news.ycombinator.com/item?id=47991586 Points: 7 # Comments: 0",
-    "published_at": "2026-05-02 23:23",
-    "tags": [],
-    "fetch_date": "2026-05-03",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "VueBuds integrate low-res cameras and visual AI as a smart glasses alternative",
-    "url": "https://spectrum.ieee.org/smart-earbuds-smart-glasses-privacy",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://spectrum.ieee.org/smart-earbuds-smart-glasses-privacy Comments URL: https://news.ycombinator.com/item?id=47991577 Points: 3 # Comments: 0",
-    "published_at": "2026-05-02 23:21",
-    "tags": [],
-    "fetch_date": "2026-05-03",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Wrote the Code. Can Your Enterprise Ship It?",
-    "url": "https://stackgen.com/blog/your-ai-wrote-the-code.-can-your-enterprise-actually-ship-it",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://stackgen.com/blog/your-ai-wrote-the-code.-can-your-enterprise-actually-ship-it Comments URL: https://news.ycombinator.com/item?id=47991395 Points: 1 # Comments: 0",
-    "published_at": "2026-05-02 22:51",
-    "tags": [],
-    "fetch_date": "2026-05-03",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious",
-    "url": "https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/ Comments URL: https://news.ycombinator.com/item?id=47991340 Points: 58 # Comments: 78",
-    "published_at": "2026-05-02 22:44",
-    "tags": [],
-    "fetch_date": "2026-05-03",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI-generated actors and scripts are now ineligible for Oscars",
-    "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
-    "source": "TechCrunch AI",
-    "summary": "Bad news for Tilly Norwood.",
-    "published_at": "2026-05-02 21:54",
-    "tags": [
-      "AI",
-      "Media & Entertainment",
-      "academy awards",
-      "academy of motion picture arts and sciences"
-    ],
-    "fetch_date": "2026-05-03",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "CISA, NSA & Five Eyes publishes guide on how to safely deploy AI agents",
-    "url": "https://cyberscoop.com/cisa-nsa-five-eyes-guidance-secure-deployment-ai-agents/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://cyberscoop.com/cisa-nsa-five-eyes-guidance-secure-deployment-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=47990574 Points: 3 # Comments: 0",
-    "published_at": "2026-05-02 21:10",
-    "tags": [],
-    "fetch_date": "2026-05-03",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Rotato – Node.js proxy that rotates LLM API keys on 429 errors",
-    "url": "https://github.com/p32929/rotato",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/p32929/rotato Comments URL: https://news.ycombinator.com/item?id=47990541 Points: 2 # Comments: 0",
-    "published_at": "2026-05-02 21:08",
-    "tags": [],
-    "fetch_date": "2026-05-03",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Automate Anything with Python and AI",
-    "url": "https://codeonix.app/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://codeonix.app/ Comments URL: https://news.ycombinator.com/item?id=47990319 Points: 1 # Comments: 0",
-    "published_at": "2026-05-02 20:46",
-    "tags": [],
-    "fetch_date": "2026-05-03",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "English councils to trial Google AI tool to speed up planning decisions",
-    "url": "https://www.ft.com/content/91ce4475-d325-4d65-babb-4214996bc0f6",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.ft.com/content/91ce4475-d325-4d65-babb-4214996bc0f6 Comments URL: https://news.ycombinator.com/item?id=47989887 Points: 2 # Comments: 1",
-    "published_at": "2026-05-02 19:57",
-    "tags": [],
-    "fetch_date": "2026-05-03",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
-    "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/ Comments URL: https://news.ycombinator.com/item?id=47989767 Points: 4 # Comments: 0",
-    "published_at": "2026-05-02 19:44",
-    "tags": [],
-    "fetch_date": "2026-05-03",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The best AI dictation apps, tested and ranked",
-    "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
-    "source": "TechCrunch AI",
-    "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
-    "published_at": "2026-05-02 16:00",
-    "tags": [
-      "AI",
-      "Apps",
-      "voice AI",
-      "Wispr flow",
-      "ai dictation"
-    ],
-    "fetch_date": "2026-05-03",
-    "fetch_label": "晚报"
   }
 ]
