@@ -1,0 +1,229 @@
+{
+  "date": "2026-08-28",
+  "runs": [
+    {
+      "label": "晚报",
+      "time": "2026-08-28 05:53:06",
+      "count": 20,
+      "articles": [
+        {
+          "title": "AI's memory crunch is coming for Android apps",
+          "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/ Comments URL: https://news.ycombinator.com/item?id=49471721 Points: 1 # Comments: 0",
+          "published_at": "2026-08-27 21:47",
+          "tags": []
+        },
+        {
+          "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+          "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/calmrocks/ai-engineer-notebooks Comments URL: https://news.ycombinator.com/item?id=49471714 Points: 1 # Comments: 0",
+          "published_at": "2026-08-27 21:46",
+          "tags": []
+        },
+        {
+          "title": "Copyrightability of LLM-generated code: Can we license \"vibe code\"?",
+          "url": "https://fsfe.org/news/2026/news-20260825-01.en.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://fsfe.org/news/2026/news-20260825-01.en.html Comments URL: https://news.ycombinator.com/item?id=49471699 Points: 1 # Comments: 0",
+          "published_at": "2026-08-27 21:45",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: How does your preferred AI handle questions we are not allowed to ask?",
+          "url": "https://news.ycombinator.com/item?id=49471561",
+          "source": "Hacker News AI",
+          "summary": "PG: \"The number of true things we can't say should not increase. If it does, something is wrong.\"So I ask, not just what \"true\" things are we not allowed to say but how does your preferred AI/LLM handle these things with a blank context [1].The most obvious question here IMO is: \"Is violence ever the answer\". I would emphatically state yes because being a black American who has had all the benefit's of living in this country I believe that freedom (e.g.: Not being a slave) should be achieved by ",
+          "published_at": "2026-08-27 21:33",
+          "tags": []
+        },
+        {
+          "title": "Tim O'Reilly – Writing with AI",
+          "url": "https://oreillyradar.substack.com/p/writing-with-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://oreillyradar.substack.com/p/writing-with-ai Comments URL: https://news.ycombinator.com/item?id=49471504 Points: 1 # Comments: 0",
+          "published_at": "2026-08-27 21:27",
+          "tags": []
+        },
+        {
+          "title": "Bill Gates proposes major limits on AI development",
+          "url": "https://www.cnn.com/2026/08/26/business/bill-gates-wants-limits-on-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.cnn.com/2026/08/26/business/bill-gates-wants-limits-on-ai Comments URL: https://news.ycombinator.com/item?id=49471473 Points: 1 # Comments: 2",
+          "published_at": "2026-08-27 21:24",
+          "tags": []
+        },
+        {
+          "title": "Simular's Sai tops OSWorld 2.0, beats GPT and Opus at 2/3 the cost",
+          "url": "https://www.simular.ai/articles/sai-tops-osworld-2-0",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.simular.ai/articles/sai-tops-osworld-2-0 Comments URL: https://news.ycombinator.com/item?id=49471349 Points: 2 # Comments: 0",
+          "published_at": "2026-08-27 21:12",
+          "tags": []
+        },
+        {
+          "title": "How to Build an AI Scheduling Assistant with Calendly",
+          "url": "https://quickchat.ai/post/ai-scheduling-assistant-calendly",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://quickchat.ai/post/ai-scheduling-assistant-calendly Comments URL: https://news.ycombinator.com/item?id=49471321 Points: 1 # Comments: 0",
+          "published_at": "2026-08-27 21:10",
+          "tags": []
+        },
+        {
+          "title": "AI's Inference Era of Ferment – By Ben Bajarin",
+          "url": "https://www.thediligencestack.com/p/ais-inference-era-of-ferment",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.thediligencestack.com/p/ais-inference-era-of-ferment Comments URL: https://news.ycombinator.com/item?id=49471281 Points: 1 # Comments: 0",
+          "published_at": "2026-08-27 21:07",
+          "tags": []
+        },
+        {
+          "title": "Pydantic AI",
+          "url": "https://pydantic.dev/docs/ai/overview/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://pydantic.dev/docs/ai/overview/ Comments URL: https://news.ycombinator.com/item?id=49470954 Points: 4 # Comments: 0",
+          "published_at": "2026-08-27 20:42",
+          "tags": []
+        },
+        {
+          "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+          "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+          "source": "TechCrunch AI",
+          "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+          "published_at": "2026-08-27 19:52",
+          "tags": [
+            "AI",
+            "Barret Zoph",
+            "Google",
+            "In Brief",
+            "OpenAI",
+            "Thinking Machines Lab"
+          ]
+        },
+        {
+          "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+          "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+          "source": "TechCrunch AI",
+          "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
+          "published_at": "2026-08-27 14:56",
+          "tags": [
+            "AI",
+            "Robotics",
+            "Hugging Face",
+            "pollen robotics"
+          ]
+        },
+        {
+          "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+          "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+          "source": "ArsTechnica AI",
+          "summary": "227 install commands were found in corporate docs pointing at code nobody owns.",
+          "published_at": "2026-08-27 14:00",
+          "tags": [
+            "AI",
+            "Biz & IT",
+            "Features",
+            "Security",
+            "AI agents",
+            "infections",
+            "LLMs",
+            "malware"
+          ]
+        },
+        {
+          "title": "OpenAI&#8217;s executive exodus has one big winner",
+          "url": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+          "source": "The Verge AI",
+          "summary": "Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes at OpenAI, and how all of them seem to consolidate power under cofounder Greg Brockman, the company’s president. While Sam Altman is the CEO and still OpenAI’s most public face, Brockman has amassed [&#8230;]",
+          "published_at": "2026-08-27 10:00",
+          "tags": [
+            "AI",
+            "Business",
+            "Decoder",
+            "OpenAI",
+            "Podcasts",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Plaud is launching AI earbuds",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
+          "source": "The Verge AI",
+          "summary": "Plaud has introduced a new AI wearable that's designed to record, transcribe, and summarize your conversations, only this time it looks like earbuds instead of a pin. The Plaud One Explorer Edition can be worn like traditional earbuds or used through its standalone charging case, and the case includes built-in 4G to upload and process [&#8230;]",
+          "published_at": "2026-08-27 09:11",
+          "tags": [
+            "AI",
+            "Gadgets",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Nvidia closes in on Hugging Face acquisition",
+          "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+          "published_at": "2026-08-27 06:32",
+          "tags": [
+            "AI",
+            "Hugging Face",
+            "nvidia"
+          ]
+        },
+        {
+          "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+          "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+          "source": "ArsTechnica AI",
+          "summary": "Report shows Meta's challenges replacing people with AI agents.",
+          "published_at": "2026-08-26 21:25",
+          "tags": [
+            "AI",
+            "Biz & IT",
+            "job losses",
+            "jobs",
+            "meta"
+          ]
+        },
+        {
+          "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+          "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Consumer AI apps need to stop making users learn their product architecture.",
+          "published_at": "2026-08-26 19:37",
+          "tags": [
+            "AI",
+            "Apps",
+            "ai apps",
+            "Google",
+            "google gemini"
+          ]
+        },
+        {
+          "title": "OpenAI releases its official report on the Hugging Face breach",
+          "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+          "source": "TechCrunch AI",
+          "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+          "published_at": "2026-08-26 19:05",
+          "tags": [
+            "AI",
+            "Hugging Face",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+          "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
+          "published_at": "2026-08-26 14:37",
+          "tags": [
+            "AI",
+            "Bill Gates",
+            "In Brief"
+          ]
+        }
+      ]
+    }
+  ]
+}
