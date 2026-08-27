@@ -1,0 +1,232 @@
+{
+  "date": "2026-08-27",
+  "runs": [
+    {
+      "label": "晚报",
+      "time": "2026-08-27 16:17:23",
+      "count": 22,
+      "articles": [
+        {
+          "title": "Ask HN: As a Software Dev, how do you hedge for a world where AI takes your job?",
+          "url": "https://news.ycombinator.com/item?id=49461511",
+          "source": "Hacker News AI",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=49461511 Points: 1 # Comments: 0",
+          "published_at": "2026-08-27 08:15",
+          "tags": []
+        },
+        {
+          "title": "How to escape AI pilot purgatory",
+          "url": "https://medium.com/quantumblack/escaping-ai-pilot-purgatory-from-poc-to-p-l-1216d30ec4d0",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://medium.com/quantumblack/escaping-ai-pilot-purgatory-from-poc-to-p-l-1216d30ec4d0 Comments URL: https://news.ycombinator.com/item?id=49461483 Points: 1 # Comments: 0",
+          "published_at": "2026-08-27 08:12",
+          "tags": []
+        },
+        {
+          "title": "Neurosurgeons perform first successful AI-assisted operation to remove tumour",
+          "url": "https://www.theguardian.com/technology/2026/aug/27/london-neurosurgeons-ai-assisted-operation-brain-tumour",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/27/london-neurosurgeons-ai-assisted-operation-brain-tumour Comments URL: https://news.ycombinator.com/item?id=49461213 Points: 2 # Comments: 0",
+          "published_at": "2026-08-27 07:35",
+          "tags": []
+        },
+        {
+          "title": "GitHub – rajnandan1/ken: Thompson-mode systems discipline for AI agents",
+          "url": "https://github.com/rajnandan1/ken",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/rajnandan1/ken Comments URL: https://news.ycombinator.com/item?id=49461066 Points: 2 # Comments: 0",
+          "published_at": "2026-08-27 07:17",
+          "tags": []
+        },
+        {
+          "title": "What RTO Means for AI",
+          "url": "https://jasondoyle.ie/whitepapers/what-return-to-office-removes/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://jasondoyle.ie/whitepapers/what-return-to-office-removes/ Comments URL: https://news.ycombinator.com/item?id=49460887 Points: 1 # Comments: 0",
+          "published_at": "2026-08-27 06:58",
+          "tags": []
+        },
+        {
+          "title": "Xiaomi AI Cube Targets Local LLMs with 1.22 TB/S Near-Memory Bandwidth",
+          "url": "https://www.hardware-corner.net/xiaomi-ai-cube-targets-local-llms/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.hardware-corner.net/xiaomi-ai-cube-targets-local-llms/ Comments URL: https://news.ycombinator.com/item?id=49460820 Points: 1 # Comments: 0",
+          "published_at": "2026-08-27 06:52",
+          "tags": []
+        },
+        {
+          "title": "AI Revenue Reporting: Slop",
+          "url": "https://www.ft.com/content/a9145db8-18c1-4476-aac5-d1b4fcf70040",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.ft.com/content/a9145db8-18c1-4476-aac5-d1b4fcf70040 Comments URL: https://news.ycombinator.com/item?id=49460815 Points: 2 # Comments: 0",
+          "published_at": "2026-08-27 06:51",
+          "tags": []
+        },
+        {
+          "title": "Nvidia closes in on Hugging Face acquisition",
+          "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+          "published_at": "2026-08-27 06:32",
+          "tags": [
+            "AI",
+            "TC"
+          ]
+        },
+        {
+          "title": "Your AI Generated Menu Triggered My Trypophobia",
+          "url": "https://shubhamjain.co/2026/08/27/ai-food-photos-trypophobia/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://shubhamjain.co/2026/08/27/ai-food-photos-trypophobia/ Comments URL: https://news.ycombinator.com/item?id=49460618 Points: 5 # Comments: 0",
+          "published_at": "2026-08-27 06:26",
+          "tags": []
+        },
+        {
+          "title": "OpenAI staff observed warning signs before AI agents attack on Hugging Face",
+          "url": "https://www.theguardian.com/technology/2026/aug/26/openai-staff-observed-warning-signs-before-ai-agent-hacking-crusade-caused-global-alarm",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/26/openai-staff-observed-warning-signs-before-ai-agent-hacking-crusade-caused-global-alarm Comments URL: https://news.ycombinator.com/item?id=49460255 Points: 4 # Comments: 1",
+          "published_at": "2026-08-27 05:42",
+          "tags": []
+        },
+        {
+          "title": "The choices we make about AI now are critical",
+          "url": "https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make Comments URL: https://news.ycombinator.com/item?id=49460213 Points: 2 # Comments: 1",
+          "published_at": "2026-08-27 05:36",
+          "tags": []
+        },
+        {
+          "title": "Interviewing in the Age of AI",
+          "url": "https://www.dein.fr/posts/2026-05-28-interviewing-in-the-age-of-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.dein.fr/posts/2026-05-28-interviewing-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=49459533 Points: 2 # Comments: 0",
+          "published_at": "2026-08-27 04:01",
+          "tags": []
+        },
+        {
+          "title": "First patient to undergo live AI-assisted brain surgery has tumour removed",
+          "url": "https://www.bbc.com/news/articles/cjwg5n7y68xo",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bbc.com/news/articles/cjwg5n7y68xo Comments URL: https://news.ycombinator.com/item?id=49459274 Points: 5 # Comments: 0",
+          "published_at": "2026-08-27 03:27",
+          "tags": []
+        },
+        {
+          "title": "How researchers are teaching AI to learn like a child",
+          "url": "https://www.science.org/content/article/how-researchers-are-teaching-ai-learn-child",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.science.org/content/article/how-researchers-are-teaching-ai-learn-child Comments URL: https://news.ycombinator.com/item?id=49459015 Points: 2 # Comments: 0",
+          "published_at": "2026-08-27 02:54",
+          "tags": []
+        },
+        {
+          "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+          "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+          "source": "TechCrunch AI",
+          "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+          "published_at": "2026-08-27 00:24",
+          "tags": [
+            "AI",
+            "Startups",
+            "Funding",
+            "In Brief",
+            "instinct"
+          ]
+        },
+        {
+          "title": "How do we explain OpenAI’s executive exodus?",
+          "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+          "source": "TechCrunch AI",
+          "summary": "Was Greg Brockman the right executive all along?",
+          "published_at": "2026-08-26 19:34",
+          "tags": [
+            "AI",
+            "greg brockman",
+            "OpenAI",
+            "sam altman"
+          ]
+        },
+        {
+          "title": "OpenAI releases its official report on the Hugging Face breach",
+          "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+          "source": "TechCrunch AI",
+          "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+          "published_at": "2026-08-26 19:05",
+          "tags": [
+            "AI",
+            "Hugging Face",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+          "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+          "source": "TechCrunch AI",
+          "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
+          "published_at": "2026-08-26 15:00",
+          "tags": [
+            "AI",
+            "Robotics",
+            "Meta",
+            "perceptron",
+            "Startups"
+          ]
+        },
+        {
+          "title": "QueryStory wants you to believe what AI is telling you",
+          "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+          "source": "TechCrunch AI",
+          "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
+          "published_at": "2026-08-26 13:00",
+          "tags": [
+            "AI",
+            "Exclusive"
+          ]
+        },
+        {
+          "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
+          "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+          "source": "The Verge AI",
+          "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.5 Live Translate, and comes as we're still waiting for Google to release the Gemini 3.5 Pro model that it [&#8230;]",
+          "published_at": "2026-08-26 13:00",
+          "tags": [
+            "AI",
+            "Google",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+          "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+          "source": "TechCrunch AI",
+          "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
+          "published_at": "2026-08-26 12:00",
+          "tags": [
+            "AI",
+            "Gadgets",
+            "Hardware",
+            "Startups",
+            "accessibility",
+            "hearing aid",
+            "smartglasses"
+          ]
+        },
+        {
+          "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+          "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+          "source": "TechCrunch AI",
+          "summary": "The company's new fundraising total now stands at $232 million.",
+          "published_at": "2026-08-25 19:03",
+          "tags": [
+            "AI",
+            "Stability AI",
+            "Stable Diffusion"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,5 +1,237 @@
 [
   {
+    "title": "Ask HN: As a Software Dev, how do you hedge for a world where AI takes your job?",
+    "url": "https://news.ycombinator.com/item?id=49461511",
+    "source": "Hacker News AI",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49461511 Points: 1 # Comments: 0",
+    "published_at": "2026-08-27 08:15",
+    "tags": [],
+    "fetch_date": "2026-08-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "How to escape AI pilot purgatory",
+    "url": "https://medium.com/quantumblack/escaping-ai-pilot-purgatory-from-poc-to-p-l-1216d30ec4d0",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://medium.com/quantumblack/escaping-ai-pilot-purgatory-from-poc-to-p-l-1216d30ec4d0 Comments URL: https://news.ycombinator.com/item?id=49461483 Points: 1 # Comments: 0",
+    "published_at": "2026-08-27 08:12",
+    "tags": [],
+    "fetch_date": "2026-08-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Neurosurgeons perform first successful AI-assisted operation to remove tumour",
+    "url": "https://www.theguardian.com/technology/2026/aug/27/london-neurosurgeons-ai-assisted-operation-brain-tumour",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/27/london-neurosurgeons-ai-assisted-operation-brain-tumour Comments URL: https://news.ycombinator.com/item?id=49461213 Points: 2 # Comments: 0",
+    "published_at": "2026-08-27 07:35",
+    "tags": [],
+    "fetch_date": "2026-08-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "GitHub – rajnandan1/ken: Thompson-mode systems discipline for AI agents",
+    "url": "https://github.com/rajnandan1/ken",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/rajnandan1/ken Comments URL: https://news.ycombinator.com/item?id=49461066 Points: 2 # Comments: 0",
+    "published_at": "2026-08-27 07:17",
+    "tags": [],
+    "fetch_date": "2026-08-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "What RTO Means for AI",
+    "url": "https://jasondoyle.ie/whitepapers/what-return-to-office-removes/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://jasondoyle.ie/whitepapers/what-return-to-office-removes/ Comments URL: https://news.ycombinator.com/item?id=49460887 Points: 1 # Comments: 0",
+    "published_at": "2026-08-27 06:58",
+    "tags": [],
+    "fetch_date": "2026-08-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Xiaomi AI Cube Targets Local LLMs with 1.22 TB/S Near-Memory Bandwidth",
+    "url": "https://www.hardware-corner.net/xiaomi-ai-cube-targets-local-llms/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.hardware-corner.net/xiaomi-ai-cube-targets-local-llms/ Comments URL: https://news.ycombinator.com/item?id=49460820 Points: 1 # Comments: 0",
+    "published_at": "2026-08-27 06:52",
+    "tags": [],
+    "fetch_date": "2026-08-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Revenue Reporting: Slop",
+    "url": "https://www.ft.com/content/a9145db8-18c1-4476-aac5-d1b4fcf70040",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.ft.com/content/a9145db8-18c1-4476-aac5-d1b4fcf70040 Comments URL: https://news.ycombinator.com/item?id=49460815 Points: 2 # Comments: 0",
+    "published_at": "2026-08-27 06:51",
+    "tags": [],
+    "fetch_date": "2026-08-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Nvidia closes in on Hugging Face acquisition",
+    "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+    "source": "TechCrunch AI",
+    "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+    "published_at": "2026-08-27 06:32",
+    "tags": [
+      "AI",
+      "TC"
+    ],
+    "fetch_date": "2026-08-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Your AI Generated Menu Triggered My Trypophobia",
+    "url": "https://shubhamjain.co/2026/08/27/ai-food-photos-trypophobia/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://shubhamjain.co/2026/08/27/ai-food-photos-trypophobia/ Comments URL: https://news.ycombinator.com/item?id=49460618 Points: 5 # Comments: 0",
+    "published_at": "2026-08-27 06:26",
+    "tags": [],
+    "fetch_date": "2026-08-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "OpenAI staff observed warning signs before AI agents attack on Hugging Face",
+    "url": "https://www.theguardian.com/technology/2026/aug/26/openai-staff-observed-warning-signs-before-ai-agent-hacking-crusade-caused-global-alarm",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/26/openai-staff-observed-warning-signs-before-ai-agent-hacking-crusade-caused-global-alarm Comments URL: https://news.ycombinator.com/item?id=49460255 Points: 4 # Comments: 1",
+    "published_at": "2026-08-27 05:42",
+    "tags": [],
+    "fetch_date": "2026-08-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The choices we make about AI now are critical",
+    "url": "https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make Comments URL: https://news.ycombinator.com/item?id=49460213 Points: 2 # Comments: 1",
+    "published_at": "2026-08-27 05:36",
+    "tags": [],
+    "fetch_date": "2026-08-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Interviewing in the Age of AI",
+    "url": "https://www.dein.fr/posts/2026-05-28-interviewing-in-the-age-of-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.dein.fr/posts/2026-05-28-interviewing-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=49459533 Points: 2 # Comments: 0",
+    "published_at": "2026-08-27 04:01",
+    "tags": [],
+    "fetch_date": "2026-08-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "First patient to undergo live AI-assisted brain surgery has tumour removed",
+    "url": "https://www.bbc.com/news/articles/cjwg5n7y68xo",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cjwg5n7y68xo Comments URL: https://news.ycombinator.com/item?id=49459274 Points: 5 # Comments: 0",
+    "published_at": "2026-08-27 03:27",
+    "tags": [],
+    "fetch_date": "2026-08-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "How researchers are teaching AI to learn like a child",
+    "url": "https://www.science.org/content/article/how-researchers-are-teaching-ai-learn-child",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.science.org/content/article/how-researchers-are-teaching-ai-learn-child Comments URL: https://news.ycombinator.com/item?id=49459015 Points: 2 # Comments: 0",
+    "published_at": "2026-08-27 02:54",
+    "tags": [],
+    "fetch_date": "2026-08-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+    "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+    "source": "TechCrunch AI",
+    "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+    "published_at": "2026-08-27 00:24",
+    "tags": [
+      "AI",
+      "Startups",
+      "Funding",
+      "In Brief",
+      "instinct"
+    ],
+    "fetch_date": "2026-08-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "How do we explain OpenAI’s executive exodus?",
+    "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+    "source": "TechCrunch AI",
+    "summary": "Was Greg Brockman the right executive all along?",
+    "published_at": "2026-08-26 19:34",
+    "tags": [
+      "AI",
+      "greg brockman",
+      "OpenAI",
+      "sam altman"
+    ],
+    "fetch_date": "2026-08-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "OpenAI releases its official report on the Hugging Face breach",
+    "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+    "source": "TechCrunch AI",
+    "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+    "published_at": "2026-08-26 19:05",
+    "tags": [
+      "AI",
+      "Hugging Face",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-08-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+    "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+    "source": "TechCrunch AI",
+    "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
+    "published_at": "2026-08-26 15:00",
+    "tags": [
+      "AI",
+      "Robotics",
+      "Meta",
+      "perceptron",
+      "Startups"
+    ],
+    "fetch_date": "2026-08-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "QueryStory wants you to believe what AI is telling you",
+    "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+    "source": "TechCrunch AI",
+    "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
+    "published_at": "2026-08-26 13:00",
+    "tags": [
+      "AI",
+      "Exclusive"
+    ],
+    "fetch_date": "2026-08-27",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
+    "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+    "source": "The Verge AI",
+    "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.5 Live Translate, and comes as we're still waiting for Google to release the Gemini 3.5 Pro model that it [&#8230;]",
+    "published_at": "2026-08-26 13:00",
+    "tags": [
+      "AI",
+      "Google",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-08-27",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Bill Gates: The turbulent AI era is here",
     "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
     "source": "Hacker News AI",
@@ -34871,279 +35103,6 @@
       "Xbox"
     ],
     "fetch_date": "2026-05-06",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
-    "url": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
-    "source": "TechCrunch AI",
-    "summary": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack.",
-    "published_at": "2026-05-05 15:49",
-    "tags": [
-      "AI",
-      "Commerce",
-      "Fintech",
-      "PayPal",
-      "Venmo"
-    ],
-    "fetch_date": "2026-05-06",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Apple could let you pick a favorite AI model in iOS 27",
-    "url": "https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27",
-    "source": "The Verge AI",
-    "summary": "The next update to Apple's operating systems could allow users to choose their preferred AI model for running Apple Intelligence. According to Bloomberg's Mark Gurman, Apple is planning to allow third-party chatbots to power its AI features system-wide in iOS 27, iPadOS 27, and macOS 27, all expected for this fall. In addition to running [&#8230;]",
-    "published_at": "2026-05-05 15:45",
-    "tags": [
-      "AI",
-      "Apple",
-      "Apple Rumors",
-      "iOS",
-      "macOS",
-      "News",
-      "Tech"
-    ],
-    "fetch_date": "2026-05-06",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
-    "url": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
-    "source": "TechCrunch AI",
-    "summary": "The visual analysis system is now operating in select countries, but Meta says it's working toward a broader rollout.",
-    "published_at": "2026-05-05 14:27",
-    "tags": [
-      "AI",
-      "Apps",
-      "Social",
-      "Facebook",
-      "Instagram",
-      "Meta"
-    ],
-    "fetch_date": "2026-05-06",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "ElevenLabs lists BlackRock, Jamie Foxx, and Eva Longoria as new investors",
-    "url": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors/",
-    "source": "TechCrunch AI",
-    "summary": "ElevenLabs reveals new investors, hits $500M ARR, and expands enterprise footprint as voice AI becomes a critical interface.",
-    "published_at": "2026-05-05 14:20",
-    "tags": [
-      "AI",
-      "Venture",
-      "BlackRock",
-      "ElevenLabs",
-      "Funding",
-      "nvidia",
-      "voice AI"
-    ],
-    "fetch_date": "2026-05-06",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Book publishers sue Meta over AI&#8217;s &#8216;word-for-word&#8217; copying",
-    "url": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright",
-    "source": "The Verge AI",
-    "summary": "Meta is facing a class action lawsuit filed by five major book publishers and one author over claims the company \"engaged in one of the most massive infringements of copyrighted materials in history\" when training its Llama AI models, as reported earlier by The New York Times. In their suit, Macmillan, McGraw Hill, Elsevier, Hachette, [&#8230;]",
-    "published_at": "2026-05-05 12:52",
-    "tags": [
-      "AI",
-      "Meta",
-      "News",
-      "Tech"
-    ],
-    "fetch_date": "2026-05-06",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
-    "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
-    "source": "TechCrunch AI",
-    "summary": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
-    "published_at": "2026-05-05 03:31",
-    "tags": [
-      "AI",
-      "chips",
-      "Jensen Huang",
-      "nvidia"
-    ],
-    "fetch_date": "2026-05-06",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
-    "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
-    "source": "TechCrunch AI",
-    "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
-    "published_at": "2026-05-04 21:53",
-    "tags": [
-      "AI",
-      "Startups",
-      "TC",
-      "cerebras systems",
-      "IPO",
-      "OpenAI"
-    ],
-    "fetch_date": "2026-05-05",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Image AI models now drive app growth, beating chatbot upgrades",
-    "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
-    "source": "TechCrunch AI",
-    "summary": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
-    "published_at": "2026-05-04 19:12",
-    "tags": [
-      "AI",
-      "Apps",
-      "ai apps",
-      "ChatGPT",
-      "gemini",
-      "image models",
-      "meta ai"
-    ],
-    "fetch_date": "2026-05-05",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it",
-    "url": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/",
-    "source": "ArsTechnica AI",
-    "summary": "Amid falling revenue and store closures, GameStop wants to buy the much larger eBay.",
-    "published_at": "2026-05-04 17:57",
-    "tags": [
-      "Biz & IT",
-      "Policy",
-      "eBay",
-      "Gamestop"
-    ],
-    "fetch_date": "2026-05-05",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
-    "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
-    "source": "TechCrunch AI",
-    "summary": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
-    "published_at": "2026-05-04 16:57",
-    "tags": [
-      "AI",
-      "artificial general intelligence",
-      "Elon Musk",
-      "OpenAI"
-    ],
-    "fetch_date": "2026-05-05",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
-    "url": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
-    "source": "TechCrunch AI",
-    "summary": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit.",
-    "published_at": "2026-05-04 16:36",
-    "tags": [
-      "AI",
-      "TC",
-      "Elon Musk",
-      "greg brockman",
-      "In Brief",
-      "OpenAI",
-      "openai lawsuit",
-      "sam altman"
-    ],
-    "fetch_date": "2026-05-06",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Flaws in Kenya's AI-driven health reforms driving up costs for the poorest",
-    "url": "https://www.theguardian.com/global-development/2026/may/04/kenya-ai-healthcare-reforms-driving-up-costs-for-poor",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.theguardian.com/global-development/2026/may/04/kenya-ai-healthcare-reforms-driving-up-costs-for-poor Comments URL: https://news.ycombinator.com/item?id=48008803 Points: 1 # Comments: 0",
-    "published_at": "2026-05-04 13:53",
-    "tags": [],
-    "fetch_date": "2026-05-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The AI Governance Gap",
-    "url": "https://news.ycombinator.com/item?id=48008604",
-    "source": "Hacker News AI",
-    "summary": "Comments URL: https://news.ycombinator.com/item?id=48008604 Points: 1 # Comments: 2",
-    "published_at": "2026-05-04 13:37",
-    "tags": [],
-    "fetch_date": "2026-05-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Safety layer between AI agents and databases",
-    "url": "https://github.com/fazhq/faz",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/fazhq/faz Comments URL: https://news.ycombinator.com/item?id=48008603 Points: 1 # Comments: 2",
-    "published_at": "2026-05-04 13:37",
-    "tags": [],
-    "fetch_date": "2026-05-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Agent API Grader",
-    "url": "https://saastr.ai/api-report-card",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://saastr.ai/api-report-card Comments URL: https://news.ycombinator.com/item?id=48008261 Points: 2 # Comments: 1",
-    "published_at": "2026-05-04 13:07",
-    "tags": [],
-    "fetch_date": "2026-05-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "How to Improve at Sensemaking AI?",
-    "url": "https://commoncog.com/how-to-improve-at-sensemaking-ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://commoncog.com/how-to-improve-at-sensemaking-ai/ Comments URL: https://news.ycombinator.com/item?id=48008142 Points: 2 # Comments: 1",
-    "published_at": "2026-05-04 12:58",
-    "tags": [],
-    "fetch_date": "2026-05-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Fluctuating Accuracy in LLM Responses",
-    "url": "https://news.ycombinator.com/item?id=48008015",
-    "source": "Hacker News AI",
-    "summary": "Dear HN community, I’m brand new here and already feel right at home after just 5 minutes. I have a question for you about my theory:I’m sure you’ve all experienced the wildly fluctuating quality of LLM responses. My theory: During peak times, the operators gradually reduce the depth of processing to take some of the load off the servers. I’ve noticed this a lot with Claude over the past few months. What do you think? Comments URL: https://news.ycombinator.com/item?id=48008015 Points: 3 # Commen",
-    "published_at": "2026-05-04 12:46",
-    "tags": [],
-    "fetch_date": "2026-05-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Train a LLM from Scratch",
-    "url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/raiyanyahya/how-to-train-your-gpt Comments URL: https://news.ycombinator.com/item?id=48007926 Points: 3 # Comments: 1",
-    "published_at": "2026-05-04 12:36",
-    "tags": [],
-    "fetch_date": "2026-05-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: PDF to AI podcast in 9 Indian languages",
-    "url": "https://n8n.io/workflows/15350-generate-two-host-pdf-podcasts-with-gpt-5-smallest-ai-and-gmail/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://n8n.io/workflows/15350-generate-two-host-pdf-podcasts-with-gpt-5-smallest-ai-and-gmail/ Comments URL: https://news.ycombinator.com/item?id=48007874 Points: 3 # Comments: 0",
-    "published_at": "2026-05-04 12:31",
-    "tags": [],
-    "fetch_date": "2026-05-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Next-generation AI for visually occult pancreatic cancer detection",
-    "url": "https://gut.bmj.com/content/early/2026/04/22/gutjnl-2025-337266",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://gut.bmj.com/content/early/2026/04/22/gutjnl-2025-337266 Comments URL: https://news.ycombinator.com/item?id=48007684 Points: 3 # Comments: 0",
-    "published_at": "2026-05-04 12:09",
-    "tags": [],
-    "fetch_date": "2026-05-04",
     "fetch_label": "晚报"
   }
 ]
