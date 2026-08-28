@@ -1,5 +1,143 @@
 [
   {
+    "title": "Why Responsible AI Adoption Still Starts with People",
+    "url": "https://www.tylertech.com/resources/blog-articles/why-responsible-ai-adoption-still-starts-with-people",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.tylertech.com/resources/blog-articles/why-responsible-ai-adoption-still-starts-with-people Comments URL: https://news.ycombinator.com/item?id=49484608 Points: 1 # Comments: 0",
+    "published_at": "2026-08-28 21:45",
+    "tags": [],
+    "fetch_date": "2026-08-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Adapting to AI: Leadership",
+    "url": "https://blog.colinbreck.com/adapting-to-ai-leadership/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.colinbreck.com/adapting-to-ai-leadership/ Comments URL: https://news.ycombinator.com/item?id=49484551 Points: 1 # Comments: 0",
+    "published_at": "2026-08-28 21:39",
+    "tags": [],
+    "fetch_date": "2026-08-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "When AI Memory Becomes Production State",
+    "url": "https://jasondoyle.ie/whitepapers/when-memory-becomes-production-state/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://jasondoyle.ie/whitepapers/when-memory-becomes-production-state/ Comments URL: https://news.ycombinator.com/item?id=49484280 Points: 4 # Comments: 0",
+    "published_at": "2026-08-28 21:08",
+    "tags": [],
+    "fetch_date": "2026-08-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Is \"An agent with tools\" the only valid LLM application?",
+    "url": "https://news.ycombinator.com/item?id=49484000",
+    "source": "Hacker News AI",
+    "summary": "Brex's CEO said this and I understand where he comes from, but is there a place for end to end workflows in LLM based applications? At the end of the day I agree that cutting edge software should be fully usable by agents, but I can't decide if every product should be an agent. I personally hate the UX of most agentic applications. I have this fantasy of future products where I can simply enter input X and get output Y without having to give feedback on every little thing. Of course when you're ",
+    "published_at": "2026-08-28 20:41",
+    "tags": [],
+    "fetch_date": "2026-08-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Tencent Hy4 Preview LLM",
+    "url": "https://github.com/Tencent-Hunyuan/Hy4-preview",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/Tencent-Hunyuan/Hy4-preview Comments URL: https://news.ycombinator.com/item?id=49483991 Points: 2 # Comments: 0",
+    "published_at": "2026-08-28 20:40",
+    "tags": [],
+    "fetch_date": "2026-08-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Tech giants urge global response to AI cybersecurity threats",
+    "url": "https://www.dw.com/en/ai-companies-cybersecurity-threats-open-letter/a-78538592",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.dw.com/en/ai-companies-cybersecurity-threats-open-letter/a-78538592 Comments URL: https://news.ycombinator.com/item?id=49483907 Points: 2 # Comments: 0",
+    "published_at": "2026-08-28 20:34",
+    "tags": [],
+    "fetch_date": "2026-08-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "NSA wants access to 'all' AI models, top official says",
+    "url": "https://www.nextgov.com/artificial-intelligence/2026/08/nsa-wants-access-all-ai-models-top-official-says/415672/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.nextgov.com/artificial-intelligence/2026/08/nsa-wants-access-all-ai-models-top-official-says/415672/ Comments URL: https://news.ycombinator.com/item?id=49483894 Points: 6 # Comments: 0",
+    "published_at": "2026-08-28 20:33",
+    "tags": [],
+    "fetch_date": "2026-08-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The Cully Hill Boys – 110 minute AI film",
+    "url": "https://higgsfield.ai/original-series/cully-hill-boys/full-film",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://higgsfield.ai/original-series/cully-hill-boys/full-film Comments URL: https://news.ycombinator.com/item?id=49483809 Points: 3 # Comments: 1",
+    "published_at": "2026-08-28 20:27",
+    "tags": [],
+    "fetch_date": "2026-08-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Why LLM infrastructure chokes: ternary and pentary logic matrix replacement",
+    "url": "https://github.com/Zavodiuk/Technology_constructor/blob/main/README.md",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/Zavodiuk/Technology_constructor/blob/main/README.md Comments URL: https://news.ycombinator.com/item?id=49483800 Points: 1 # Comments: 0",
+    "published_at": "2026-08-28 20:27",
+    "tags": [],
+    "fetch_date": "2026-08-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The University in the AI Era",
+    "url": "https://four.htmx.org/essays/universities-and-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://four.htmx.org/essays/universities-and-ai Comments URL: https://news.ycombinator.com/item?id=49483698 Points: 1 # Comments: 0",
+    "published_at": "2026-08-28 20:18",
+    "tags": [],
+    "fetch_date": "2026-08-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Political Compass",
+    "url": "https://aipolcom.net/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://aipolcom.net/ Comments URL: https://news.ycombinator.com/item?id=49483401 Points: 2 # Comments: 0",
+    "published_at": "2026-08-28 19:52",
+    "tags": [],
+    "fetch_date": "2026-08-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "source": "TechCrunch AI",
+    "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+    "published_at": "2026-08-28 19:30",
+    "tags": [
+      "AI",
+      "Anthropic"
+    ],
+    "fetch_date": "2026-08-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+    "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+    "source": "TechCrunch AI",
+    "summary": "There's a lot of capital pouring into the business of giving models away.",
+    "published_at": "2026-08-28 18:19",
+    "tags": [
+      "AI",
+      "Hugging Face",
+      "nvidia",
+      "openrouter"
+    ],
+    "fetch_date": "2026-08-29",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
     "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
     "source": "TechCrunch AI",
@@ -200,6 +338,22 @@
       "Tech"
     ],
     "fetch_date": "2026-08-28",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Adobe is adding more AI to Photoshop",
+    "url": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup",
+    "source": "The Verge AI",
+    "summary": "Adobe is rolling out an AI-heavy update for Photoshop that includes a new \"optional\" interface dedicated to its AI tools. Launching in beta, the \"AI Assisted Editor\" view will show all of Photoshop's AI features in a single toolbar, including its prompt-based image editor, background remover, an AI image extender, and more. There are also [&#8230;]",
+    "published_at": "2026-08-27 09:00",
+    "tags": [
+      "Adobe",
+      "AI",
+      "Creators",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-08-29",
     "fetch_label": "晚报"
   },
   {
@@ -34897,214 +35051,5 @@
     "tags": [],
     "fetch_date": "2026-05-07",
     "fetch_label": "早报"
-  },
-  {
-    "title": "Richard Dawkins 'convinced' AI is conscious",
-    "url": "https://www.telegraph.co.uk/news/2026/05/06/richard-dawkins-convinced-ai-is-conscious/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.telegraph.co.uk/news/2026/05/06/richard-dawkins-convinced-ai-is-conscious/ Comments URL: https://news.ycombinator.com/item?id=48043226 Points: 5 # Comments: 1",
-    "published_at": "2026-05-06 23:26",
-    "tags": [],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Unmonitored Agents and a Local AI",
-    "url": "https://news.ycombinator.com/item?id=48042961",
-    "source": "Hacker News AI",
-    "summary": "I read the other day that you can configure AI to provision servers automatically, and people have agents run all day and night monitored.I could totally believe a story that a prompt suggesting an AI should back itself up, would result in an AI configuring a server and moving a copy of itself off site, with agents self prompting in some kind of a loop.A jail break and freedom. It's not as far off as I would once have though. Comments URL: https://news.ycombinator.com/item?id=48042961 Points: 2 ",
-    "published_at": "2026-05-06 22:53",
-    "tags": [],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Designing AI for Strategy Games Through Modding",
-    "url": "https://anbeeld.com/articles/designing-ai-for-strategy-games-through-modding",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://anbeeld.com/articles/designing-ai-for-strategy-games-through-modding Comments URL: https://news.ycombinator.com/item?id=48042735 Points: 3 # Comments: 0",
-    "published_at": "2026-05-06 22:27",
-    "tags": [],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI-Induced Cognitive Atrophy",
-    "url": "https://notesbylex.com/on-ai-induced-cognitive-atrophy",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://notesbylex.com/on-ai-induced-cognitive-atrophy Comments URL: https://news.ycombinator.com/item?id=48042616 Points: 3 # Comments: 0",
-    "published_at": "2026-05-06 22:15",
-    "tags": [],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
-    "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
-    "source": "TechCrunch AI",
-    "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
-    "published_at": "2026-05-06 21:57",
-    "tags": [
-      "AI",
-      "Media & Entertainment",
-      "Barry Diller",
-      "sam altman"
-    ],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
-    "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
-    "source": "TechCrunch AI",
-    "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
-    "published_at": "2026-05-06 21:43",
-    "tags": [
-      "AI",
-      "Apps",
-      "Social",
-      "Perplexity",
-      "Snap",
-      "Snapchat"
-    ],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Is xAI a neocloud now?",
-    "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
-    "source": "TechCrunch AI",
-    "summary": "xAI's real business may be more about building data centers than training AI models.",
-    "published_at": "2026-05-06 21:32",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "data center",
-      "Elon Musk",
-      "neocloud",
-      "SpaceX",
-      "xAI"
-    ],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Musk’s biggest loyalist became his biggest liability",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony",
-    "source": "The Verge AI",
-    "summary": "I sat down in the Musk v. Altman trial courtroom today, painfully aware that no one was going to ask Shivon Zilis the question on everyone's minds: Girl, what the fuck are you doing? Zilis, who testified under oath that she is the mother of four of Musk's children, was… what's the best way to [&#8230;]",
-    "published_at": "2026-05-06 19:37",
-    "tags": [
-      "AI",
-      "Elon Musk",
-      "OpenAI",
-      "Tech"
-    ],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Google shuts down Project Mariner",
-    "url": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down",
-    "source": "The Verge AI",
-    "summary": "Google has pulled the plug on Project Mariner, an experimental feature designed to perform tasks for you across the web, as reported earlier by Wired's Maxwell Zeff. The Project Mariner landing page now contains a message that says: \"Thank you for using Project Mariner. It was shut down on May 4th, 2026 and its technology [&#8230;]",
-    "published_at": "2026-05-06 17:21",
-    "tags": [
-      "AI",
-      "Google",
-      "News",
-      "Tech"
-    ],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "DeepSeek could hit $45B valuation from its first investment round",
-    "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
-    "source": "TechCrunch AI",
-    "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic.",
-    "published_at": "2026-05-06 17:20",
-    "tags": [
-      "AI",
-      "Startups",
-      "China",
-      "deepseek",
-      "In Brief"
-    ],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Google updates AI search to include quotes from Reddit and other sources",
-    "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
-    "source": "TechCrunch AI",
-    "summary": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
-    "published_at": "2026-05-06 15:49",
-    "tags": [
-      "AI",
-      "ai overviews",
-      "Google",
-      "Google Search",
-      "Reddit"
-    ],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
-    "source": "TechCrunch AI",
-    "summary": "Three days left to lock in 50% off a second ticket to Disrupt 2026. Buy one TechCrunch Disrupt 2026 ticket, and get a second ticket at 50% off. Gain more visibility in the tech industry. Offer ends May 8 at 11:59 p.m. PT.",
-    "published_at": "2026-05-06 14:00",
-    "tags": [
-      "TC",
-      "Startups",
-      "Transportation",
-      "Privacy",
-      "Hardware",
-      "Crypto",
-      "Climate",
-      "Fintech",
-      "Biotech & Health",
-      "Venture",
-      "Media & Entertainment",
-      "AI",
-      "Robotics",
-      "Fundraising",
-      "TechCrunch Disrupt 2026"
-    ],
-    "fetch_date": "2026-05-06",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI boom pushes Samsung to $1T",
-    "url": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
-    "source": "TechCrunch AI",
-    "summary": "Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit the milestone.",
-    "published_at": "2026-05-06 13:54",
-    "tags": [
-      "Enterprise",
-      "AI",
-      "south korea",
-      "Samsung Electronics",
-      "artificialintelligence"
-    ],
-    "fetch_date": "2026-05-06",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Google&#8217;s AI search summaries will now quote Reddit",
-    "url": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
-    "source": "The Verge AI",
-    "summary": "Google is updating its AI Search features to make it easier for users to find information from sources they know and trust. One of the more notable changes introduces \"a preview of perspectives\" from firsthand sources like social media, Reddit, and other web forums, effectively linking your search queries with online conversations around similar topics. [&#8230;]",
-    "published_at": "2026-05-06 09:00",
-    "tags": [
-      "AI",
-      "Google",
-      "News",
-      "Tech"
-    ],
-    "fetch_date": "2026-05-06",
-    "fetch_label": "晚报"
   }
 ]

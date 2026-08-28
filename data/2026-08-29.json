@@ -1,0 +1,246 @@
+{
+  "date": "2026-08-29",
+  "runs": [
+    {
+      "label": "晚报",
+      "time": "2026-08-29 05:46:15",
+      "count": 22,
+      "articles": [
+        {
+          "title": "Why Responsible AI Adoption Still Starts with People",
+          "url": "https://www.tylertech.com/resources/blog-articles/why-responsible-ai-adoption-still-starts-with-people",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.tylertech.com/resources/blog-articles/why-responsible-ai-adoption-still-starts-with-people Comments URL: https://news.ycombinator.com/item?id=49484608 Points: 1 # Comments: 0",
+          "published_at": "2026-08-28 21:45",
+          "tags": []
+        },
+        {
+          "title": "Adapting to AI: Leadership",
+          "url": "https://blog.colinbreck.com/adapting-to-ai-leadership/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blog.colinbreck.com/adapting-to-ai-leadership/ Comments URL: https://news.ycombinator.com/item?id=49484551 Points: 1 # Comments: 0",
+          "published_at": "2026-08-28 21:39",
+          "tags": []
+        },
+        {
+          "title": "When AI Memory Becomes Production State",
+          "url": "https://jasondoyle.ie/whitepapers/when-memory-becomes-production-state/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://jasondoyle.ie/whitepapers/when-memory-becomes-production-state/ Comments URL: https://news.ycombinator.com/item?id=49484280 Points: 4 # Comments: 0",
+          "published_at": "2026-08-28 21:08",
+          "tags": []
+        },
+        {
+          "title": "Is \"An agent with tools\" the only valid LLM application?",
+          "url": "https://news.ycombinator.com/item?id=49484000",
+          "source": "Hacker News AI",
+          "summary": "Brex's CEO said this and I understand where he comes from, but is there a place for end to end workflows in LLM based applications? At the end of the day I agree that cutting edge software should be fully usable by agents, but I can't decide if every product should be an agent. I personally hate the UX of most agentic applications. I have this fantasy of future products where I can simply enter input X and get output Y without having to give feedback on every little thing. Of course when you're ",
+          "published_at": "2026-08-28 20:41",
+          "tags": []
+        },
+        {
+          "title": "Tencent Hy4 Preview LLM",
+          "url": "https://github.com/Tencent-Hunyuan/Hy4-preview",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/Tencent-Hunyuan/Hy4-preview Comments URL: https://news.ycombinator.com/item?id=49483991 Points: 2 # Comments: 0",
+          "published_at": "2026-08-28 20:40",
+          "tags": []
+        },
+        {
+          "title": "Tech giants urge global response to AI cybersecurity threats",
+          "url": "https://www.dw.com/en/ai-companies-cybersecurity-threats-open-letter/a-78538592",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.dw.com/en/ai-companies-cybersecurity-threats-open-letter/a-78538592 Comments URL: https://news.ycombinator.com/item?id=49483907 Points: 2 # Comments: 0",
+          "published_at": "2026-08-28 20:34",
+          "tags": []
+        },
+        {
+          "title": "NSA wants access to 'all' AI models, top official says",
+          "url": "https://www.nextgov.com/artificial-intelligence/2026/08/nsa-wants-access-all-ai-models-top-official-says/415672/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.nextgov.com/artificial-intelligence/2026/08/nsa-wants-access-all-ai-models-top-official-says/415672/ Comments URL: https://news.ycombinator.com/item?id=49483894 Points: 6 # Comments: 0",
+          "published_at": "2026-08-28 20:33",
+          "tags": []
+        },
+        {
+          "title": "The Cully Hill Boys – 110 minute AI film",
+          "url": "https://higgsfield.ai/original-series/cully-hill-boys/full-film",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://higgsfield.ai/original-series/cully-hill-boys/full-film Comments URL: https://news.ycombinator.com/item?id=49483809 Points: 3 # Comments: 1",
+          "published_at": "2026-08-28 20:27",
+          "tags": []
+        },
+        {
+          "title": "Why LLM infrastructure chokes: ternary and pentary logic matrix replacement",
+          "url": "https://github.com/Zavodiuk/Technology_constructor/blob/main/README.md",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/Zavodiuk/Technology_constructor/blob/main/README.md Comments URL: https://news.ycombinator.com/item?id=49483800 Points: 1 # Comments: 0",
+          "published_at": "2026-08-28 20:27",
+          "tags": []
+        },
+        {
+          "title": "The University in the AI Era",
+          "url": "https://four.htmx.org/essays/universities-and-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://four.htmx.org/essays/universities-and-ai Comments URL: https://news.ycombinator.com/item?id=49483698 Points: 1 # Comments: 0",
+          "published_at": "2026-08-28 20:18",
+          "tags": []
+        },
+        {
+          "title": "AI Political Compass",
+          "url": "https://aipolcom.net/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://aipolcom.net/ Comments URL: https://news.ycombinator.com/item?id=49483401 Points: 2 # Comments: 0",
+          "published_at": "2026-08-28 19:52",
+          "tags": []
+        },
+        {
+          "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+          "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+          "published_at": "2026-08-28 19:30",
+          "tags": [
+            "AI",
+            "Anthropic"
+          ]
+        },
+        {
+          "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+          "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+          "source": "TechCrunch AI",
+          "summary": "There's a lot of capital pouring into the business of giving models away.",
+          "published_at": "2026-08-28 18:19",
+          "tags": [
+            "AI",
+            "Hugging Face",
+            "nvidia",
+            "openrouter"
+          ]
+        },
+        {
+          "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+          "source": "TechCrunch AI",
+          "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+          "published_at": "2026-08-27 23:16",
+          "tags": [
+            "AI",
+            "Databricks",
+            "TechCrunch Disrupt"
+          ]
+        },
+        {
+          "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+          "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+          "source": "TechCrunch AI",
+          "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+          "published_at": "2026-08-27 19:52",
+          "tags": [
+            "AI",
+            "Barret Zoph",
+            "Google",
+            "In Brief",
+            "OpenAI",
+            "Thinking Machines Lab"
+          ]
+        },
+        {
+          "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+          "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+          "source": "TechCrunch AI",
+          "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
+          "published_at": "2026-08-27 14:56",
+          "tags": [
+            "AI",
+            "Robotics",
+            "Hugging Face",
+            "pollen robotics"
+          ]
+        },
+        {
+          "title": "AI’s memory crunch is coming for Android apps",
+          "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+          "source": "TechCrunch AI",
+          "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
+          "published_at": "2026-08-27 14:27",
+          "tags": [
+            "AI",
+            "Apps",
+            "Android",
+            "developers",
+            "Google"
+          ]
+        },
+        {
+          "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+          "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+          "published_at": "2026-08-27 11:35",
+          "tags": [
+            "AI",
+            "Ads",
+            "ChatGPT",
+            "ChatGPT Go",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "OpenAI&#8217;s executive exodus has one big winner",
+          "url": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+          "source": "The Verge AI",
+          "summary": "Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes at OpenAI, and how all of them seem to consolidate power under cofounder Greg Brockman, the company’s president. While Sam Altman is the CEO and still OpenAI’s most public face, Brockman has amassed [&#8230;]",
+          "published_at": "2026-08-27 10:00",
+          "tags": [
+            "AI",
+            "Business",
+            "Decoder",
+            "OpenAI",
+            "Podcasts",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Plaud is launching AI earbuds",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
+          "source": "The Verge AI",
+          "summary": "Plaud has introduced a new AI wearable that's designed to record, transcribe, and summarize your conversations, only this time it looks like earbuds instead of a pin. The Plaud One Explorer Edition can be worn like traditional earbuds or used through its standalone charging case, and the case includes built-in 4G to upload and process [&#8230;]",
+          "published_at": "2026-08-27 09:11",
+          "tags": [
+            "AI",
+            "Gadgets",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Adobe is adding more AI to Photoshop",
+          "url": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup",
+          "source": "The Verge AI",
+          "summary": "Adobe is rolling out an AI-heavy update for Photoshop that includes a new \"optional\" interface dedicated to its AI tools. Launching in beta, the \"AI Assisted Editor\" view will show all of Photoshop's AI features in a single toolbar, including its prompt-based image editor, background remover, an AI image extender, and more. There are also [&#8230;]",
+          "published_at": "2026-08-27 09:00",
+          "tags": [
+            "Adobe",
+            "AI",
+            "Creators",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Nvidia closes in on Hugging Face acquisition",
+          "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+          "published_at": "2026-08-27 06:32",
+          "tags": [
+            "AI",
+            "Hugging Face",
+            "nvidia"
+          ]
+        }
+      ]
+    }
+  ]
+}
