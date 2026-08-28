@@ -224,6 +224,205 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-08-28 18:19:03",
+      "count": 14,
+      "articles": [
+        {
+          "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+          "source": "TechCrunch AI",
+          "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+          "published_at": "2026-08-27 23:16",
+          "tags": [
+            "AI",
+            "Databricks",
+            "TechCrunch Disrupt"
+          ]
+        },
+        {
+          "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+          "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+          "source": "TechCrunch AI",
+          "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+          "published_at": "2026-08-27 19:52",
+          "tags": [
+            "AI",
+            "Barret Zoph",
+            "Google",
+            "In Brief",
+            "OpenAI",
+            "Thinking Machines Lab"
+          ]
+        },
+        {
+          "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+          "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+          "source": "TechCrunch AI",
+          "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
+          "published_at": "2026-08-27 14:56",
+          "tags": [
+            "AI",
+            "Robotics",
+            "Hugging Face",
+            "pollen robotics"
+          ]
+        },
+        {
+          "title": "AI’s memory crunch is coming for Android apps",
+          "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+          "source": "TechCrunch AI",
+          "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
+          "published_at": "2026-08-27 14:27",
+          "tags": [
+            "AI",
+            "Apps",
+            "Android",
+            "developers",
+            "Google"
+          ]
+        },
+        {
+          "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+          "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+          "source": "ArsTechnica AI",
+          "summary": "227 install commands were found in corporate docs pointing at code nobody owns.",
+          "published_at": "2026-08-27 14:00",
+          "tags": [
+            "AI",
+            "Biz & IT",
+            "Features",
+            "Security",
+            "AI agents",
+            "infections",
+            "LLMs",
+            "malware"
+          ]
+        },
+        {
+          "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+          "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+          "published_at": "2026-08-27 11:35",
+          "tags": [
+            "AI",
+            "Ads",
+            "ChatGPT",
+            "ChatGPT Go",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "OpenAI&#8217;s executive exodus has one big winner",
+          "url": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+          "source": "The Verge AI",
+          "summary": "Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes at OpenAI, and how all of them seem to consolidate power under cofounder Greg Brockman, the company’s president. While Sam Altman is the CEO and still OpenAI’s most public face, Brockman has amassed [&#8230;]",
+          "published_at": "2026-08-27 10:00",
+          "tags": [
+            "AI",
+            "Business",
+            "Decoder",
+            "OpenAI",
+            "Podcasts",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Plaud is launching AI earbuds",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
+          "source": "The Verge AI",
+          "summary": "Plaud has introduced a new AI wearable that's designed to record, transcribe, and summarize your conversations, only this time it looks like earbuds instead of a pin. The Plaud One Explorer Edition can be worn like traditional earbuds or used through its standalone charging case, and the case includes built-in 4G to upload and process [&#8230;]",
+          "published_at": "2026-08-27 09:11",
+          "tags": [
+            "AI",
+            "Gadgets",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Nvidia closes in on Hugging Face acquisition",
+          "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+          "published_at": "2026-08-27 06:32",
+          "tags": [
+            "AI",
+            "Hugging Face",
+            "nvidia"
+          ]
+        },
+        {
+          "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+          "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+          "source": "TechCrunch AI",
+          "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+          "published_at": "2026-08-27 00:24",
+          "tags": [
+            "AI",
+            "Startups",
+            "Funding",
+            "In Brief",
+            "instinct"
+          ]
+        },
+        {
+          "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+          "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+          "source": "ArsTechnica AI",
+          "summary": "Report shows Meta's challenges replacing people with AI agents.",
+          "published_at": "2026-08-26 21:25",
+          "tags": [
+            "AI",
+            "Biz & IT",
+            "job losses",
+            "jobs",
+            "meta"
+          ]
+        },
+        {
+          "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+          "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Consumer AI apps need to stop making users learn their product architecture.",
+          "published_at": "2026-08-26 19:37",
+          "tags": [
+            "AI",
+            "Apps",
+            "ai apps",
+            "Google",
+            "google gemini"
+          ]
+        },
+        {
+          "title": "How do we explain OpenAI’s executive exodus?",
+          "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+          "source": "TechCrunch AI",
+          "summary": "Was Greg Brockman the right executive all along?",
+          "published_at": "2026-08-26 19:34",
+          "tags": [
+            "AI",
+            "greg brockman",
+            "OpenAI",
+            "sam altman"
+          ]
+        },
+        {
+          "title": "OpenAI releases its official report on the Hugging Face breach",
+          "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+          "source": "TechCrunch AI",
+          "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+          "published_at": "2026-08-26 19:05",
+          "tags": [
+            "AI",
+            "Hugging Face",
+            "OpenAI"
+          ]
+        }
+      ]
     }
   ]
 }
