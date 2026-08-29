@@ -1,5 +1,20 @@
 [
   {
+    "title": "Nvidia’s AI advantage is moving beyond the GPU",
+    "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "source": "TechCrunch AI",
+    "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+    "published_at": "2026-08-29 13:00",
+    "tags": [
+      "TC",
+      "AI",
+      "nvidia",
+      "GPU"
+    ],
+    "fetch_date": "2026-08-30",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "I tried vibe-coding a memory tool for AI and stared into the abyss of philosophy",
     "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
     "source": "Hacker News AI",
@@ -230,6 +245,25 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+    "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "source": "TechCrunch AI",
+    "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+    "published_at": "2026-08-28 20:24",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "AI chips",
+      "In Brief",
+      "Lambda",
+      "Microsoft",
+      "neocloud",
+      "nvidia"
+    ],
+    "fetch_date": "2026-08-30",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "The University in the AI Era",
     "url": "https://four.htmx.org/essays/universities-and-ai",
     "source": "Hacker News AI",
@@ -275,6 +309,55 @@
       "openrouter"
     ],
     "fetch_date": "2026-08-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+    "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+    "source": "TechCrunch AI",
+    "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+    "published_at": "2026-08-28 12:46",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "Anthropic",
+      "dod",
+      "pete hegseth",
+      "supply chain risk"
+    ],
+    "fetch_date": "2026-08-30",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Trump’s EPA wants to let data centers hide their air pollution",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+    "source": "The Verge AI",
+    "summary": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain industrial sites [&#8230;]",
+    "published_at": "2026-08-28 12:28",
+    "tags": [
+      "AI",
+      "Energy",
+      "Environment",
+      "Science"
+    ],
+    "fetch_date": "2026-08-30",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
+    "url": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
+    "source": "ArsTechnica AI",
+    "summary": "The group infected more than 1,000 organizations in a relentless supply-chain attack campaign.",
+    "published_at": "2026-08-28 11:15",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "law enforcement",
+      "supply chain attacks",
+      "teampcp",
+      "worms"
+    ],
+    "fetch_date": "2026-08-30",
     "fetch_label": "晚报"
   },
   {
@@ -34964,56 +35047,6 @@
     "source": "Hacker News AI",
     "summary": "Article URL: https://www.xfra.ai/ Comments URL: https://news.ycombinator.com/item?id=48049359 Points: 3 # Comments: 0",
     "published_at": "2026-05-07 13:43",
-    "tags": [],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI for Bio has a Fuzzy API problem",
-    "url": "https://ankitg.me/blog/2026/05/04/fuzzy_api.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://ankitg.me/blog/2026/05/04/fuzzy_api.html Comments URL: https://news.ycombinator.com/item?id=48049311 Points: 2 # Comments: 1",
-    "published_at": "2026-05-07 13:39",
-    "tags": [],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "What would make an academic AI assistant trustworthy for students?",
-    "url": "https://github.com/DavidHavoc/openworkers",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/DavidHavoc/openworkers Comments URL: https://news.ycombinator.com/item?id=48049190 Points: 2 # Comments: 1",
-    "published_at": "2026-05-07 13:28",
-    "tags": [],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AgentWrit, a Go broker for task-scoped AI agent credentials",
-    "url": "https://github.com/devonartis/agentwrit",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/devonartis/agentwrit Comments URL: https://news.ycombinator.com/item?id=48049140 Points: 2 # Comments: 0",
-    "published_at": "2026-05-07 13:24",
-    "tags": [],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Consuming too much AI can be bad. Data on 'tokenmaxxing' reveals a better way",
-    "url": "https://www.businessinsider.com/ai-tokenmaxxing-fails-as-productivity-strategy-jellyfish-2026-5",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.businessinsider.com/ai-tokenmaxxing-fails-as-productivity-strategy-jellyfish-2026-5 Comments URL: https://news.ycombinator.com/item?id=48049131 Points: 2 # Comments: 0",
-    "published_at": "2026-05-07 13:23",
-    "tags": [],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI in B2B Sales: How Managed Loops Are Replacing CRM Services",
-    "url": "https://www.promptmetrics.dev/blog/services-as-software-is-coming-for-your-crm-heres-how-to-win",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.promptmetrics.dev/blog/services-as-software-is-coming-for-your-crm-heres-how-to-win Comments URL: https://news.ycombinator.com/item?id=48049043 Points: 2 # Comments: 0",
-    "published_at": "2026-05-07 13:15",
     "tags": [],
     "fetch_date": "2026-05-07",
     "fetch_label": "晚报"
