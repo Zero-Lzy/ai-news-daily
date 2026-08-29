@@ -1,5 +1,145 @@
 [
   {
+    "title": "I tried vibe-coding a memory tool for AI and stared into the abyss of philosophy",
+    "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory Comments URL: https://news.ycombinator.com/item?id=49487351 Points: 1 # Comments: 1",
+    "published_at": "2026-08-29 06:09",
+    "tags": [],
+    "fetch_date": "2026-08-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "LaneGate – Git-native worktree orchestrator for AI agents",
+    "url": "https://github.com/sudheerdvn/lanegate",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/sudheerdvn/lanegate Comments URL: https://news.ycombinator.com/item?id=49487178 Points: 1 # Comments: 0",
+    "published_at": "2026-08-29 05:36",
+    "tags": [],
+    "fetch_date": "2026-08-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "OpenAI to end agreement with SpaceX's AI coding tool Cursor",
+    "url": "https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/ Comments URL: https://news.ycombinator.com/item?id=49487134 Points: 1 # Comments: 0",
+    "published_at": "2026-08-29 05:27",
+    "tags": [],
+    "fetch_date": "2026-08-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Yes, We're in an AI Bubble. Just Look to 1980s Japan",
+    "url": "https://foreignpolicy.com/2026/08/28/nvidia-earnings-quarterly-report-ai-economic-bubble-japan-history/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://foreignpolicy.com/2026/08/28/nvidia-earnings-quarterly-report-ai-economic-bubble-japan-history/ Comments URL: https://news.ycombinator.com/item?id=49487072 Points: 2 # Comments: 2",
+    "published_at": "2026-08-29 05:12",
+    "tags": [],
+    "fetch_date": "2026-08-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Stock Research Assistant · Streamlit",
+    "url": "https://ai-stock-research-kiaan.streamlit.app",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://ai-stock-research-kiaan.streamlit.app Comments URL: https://news.ycombinator.com/item?id=49487065 Points: 1 # Comments: 0",
+    "published_at": "2026-08-29 05:11",
+    "tags": [],
+    "fetch_date": "2026-08-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Debian has published the official results for the 2026 GR on LLM usage",
+    "url": "https://vote.debian.org/~secretary/gr_llm/results.txt",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://vote.debian.org/~secretary/gr_llm/results.txt Comments URL: https://news.ycombinator.com/item?id=49486967 Points: 6 # Comments: 1",
+    "published_at": "2026-08-29 04:48",
+    "tags": [],
+    "fetch_date": "2026-08-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ask HN: What BOYK AI client are you using?",
+    "url": "https://news.ycombinator.com/item?id=49486912",
+    "source": "Hacker News AI",
+    "summary": "I built an AI desktop client specifically designed for non-programmers, which has the capabilities of Codex/Claude Desktop, but it is localized, protects all your privacy, and supports any model call.Would you like to try using it? Any questions, feel free to ask me! Comments URL: https://news.ycombinator.com/item?id=49486912 Points: 2 # Comments: 0",
+    "published_at": "2026-08-29 04:38",
+    "tags": [],
+    "fetch_date": "2026-08-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Mediated Learning",
+    "url": "https://substack.com/profile/526971458-yasaswi-yash-kompella/note/c-325001983",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://substack.com/profile/526971458-yasaswi-yash-kompella/note/c-325001983 Comments URL: https://news.ycombinator.com/item?id=49486879 Points: 1 # Comments: 0",
+    "published_at": "2026-08-29 04:30",
+    "tags": [],
+    "fetch_date": "2026-08-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Obsessing over AI Agent Harnesses",
+    "url": "https://www.roderick.dev/writing/2026-08-28-obsessing-harnesses/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.roderick.dev/writing/2026-08-28-obsessing-harnesses/ Comments URL: https://news.ycombinator.com/item?id=49486868 Points: 1 # Comments: 0",
+    "published_at": "2026-08-29 04:28",
+    "tags": [],
+    "fetch_date": "2026-08-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "I built an AI assistant that keeps working after the chat ends",
+    "url": "https://shotah.github.io/gantree/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://shotah.github.io/gantree/ Comments URL: https://news.ycombinator.com/item?id=49486856 Points: 1 # Comments: 0",
+    "published_at": "2026-08-29 04:24",
+    "tags": [],
+    "fetch_date": "2026-08-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ezducate an AI powered special education platform",
+    "url": "https://www.ezducate.ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.ezducate.ai/ Comments URL: https://news.ycombinator.com/item?id=49486557 Points: 1 # Comments: 0",
+    "published_at": "2026-08-29 03:15",
+    "tags": [],
+    "fetch_date": "2026-08-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Citations in AI-written reports did not exist",
+    "url": "https://www.stipple.sh/resources/ai-citation-hallucination-benchmark",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.stipple.sh/resources/ai-citation-hallucination-benchmark Comments URL: https://news.ycombinator.com/item?id=49486501 Points: 4 # Comments: 0",
+    "published_at": "2026-08-29 02:59",
+    "tags": [],
+    "fetch_date": "2026-08-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Debian Votes to Allow \"Responsible Use of Generative AI\"",
+    "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use Comments URL: https://news.ycombinator.com/item?id=49486493 Points: 7 # Comments: 0",
+    "published_at": "2026-08-29 02:57",
+    "tags": [],
+    "fetch_date": "2026-08-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Safety Does Not Compose: Non-Decaying Loop State for Autonomous LLM Agents",
+    "url": "https://arxiv.org/abs/2608.27141",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2608.27141 Comments URL: https://news.ycombinator.com/item?id=49486254 Points: 3 # Comments: 0",
+    "published_at": "2026-08-29 02:07",
+    "tags": [],
+    "fetch_date": "2026-08-29",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Why Responsible AI Adoption Still Starts with People",
     "url": "https://www.tylertech.com/resources/blog-articles/why-responsible-ai-adoption-still-starts-with-people",
     "source": "Hacker News AI",
@@ -34877,179 +35017,5 @@
     "tags": [],
     "fetch_date": "2026-05-07",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "LLM-driven security reports disrupt coordinated disclosure",
-    "url": "https://lwn.net/SubscriberLink/1070698/708a56108d2a9e2e/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://lwn.net/SubscriberLink/1070698/708a56108d2a9e2e/ Comments URL: https://news.ycombinator.com/item?id=48049021 Points: 2 # Comments: 0",
-    "published_at": "2026-05-07 13:13",
-    "tags": [],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Needs Better Metaphors",
-    "url": "https://metedata.substack.com/p/011-ai-needs-better-metaphors",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://metedata.substack.com/p/011-ai-needs-better-metaphors Comments URL: https://news.ycombinator.com/item?id=48049013 Points: 2 # Comments: 0",
-    "published_at": "2026-05-07 13:12",
-    "tags": [],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Writting AI evals is not the point",
-    "url": "https://www.youtube.com/watch?v=sXusaxZeB7Q",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.youtube.com/watch?v=sXusaxZeB7Q Comments URL: https://news.ycombinator.com/item?id=48048939 Points: 1 # Comments: 0",
-    "published_at": "2026-05-07 13:05",
-    "tags": [],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "An AI powered track recommendation app for DJs",
-    "url": "https://www.nexttrack.club/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.nexttrack.club/ Comments URL: https://news.ycombinator.com/item?id=48048757 Points: 2 # Comments: 1",
-    "published_at": "2026-05-07 12:46",
-    "tags": [],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-    "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48048721 Points: 1 # Comments: 0",
-    "published_at": "2026-05-07 12:43",
-    "tags": [],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese",
-    "url": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
-    "source": "TechCrunch AI",
-    "summary": "Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese.",
-    "published_at": "2026-05-07 12:20",
-    "tags": [
-      "AI",
-      "Apps",
-      "Media & Entertainment",
-      "ai dj",
-      "music streaming services",
-      "Spotify"
-    ],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "OpenClaw and Claude can put your AI-generated podcasts in Spotify",
-    "url": "https://www.theverge.com/entertainment/925916/save-to-spotify-ai-podcasts",
-    "source": "The Verge AI",
-    "summary": "Save to Spotify is a new command-line tool designed specifically for AI agents like OpenClaw, Claude Code, or OpenAI Codex. If you're the kind of person who collects research on a topic, then feeds it through their AI of choice to create audio summaries and personal podcasts, this lets you save them right alongside the [&#8230;]",
-    "published_at": "2026-05-07 10:15",
-    "tags": [
-      "AI",
-      "Entertainment",
-      "News",
-      "Spotify"
-    ],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Google’s taking a big swing at AI health with the Fitbit Air",
-    "url": "https://www.theverge.com/gadgets/925458/google-health-fitbit-air-ai-coaching-wearables-fitness-trackers",
-    "source": "The Verge AI",
-    "summary": "It's a Whoop dupe. That was my first thought when I saw the new $99 Google Fitbit Air. You can hardly blame me. The band is screenless with a metallic fabric clasp. My eyes flickered between the Fitbit Air and my wrist, where I'm wearing a Whoop MG. Was I not seeing double? But as [&#8230;]",
-    "published_at": "2026-05-07 10:00",
-    "tags": [
-      "AI",
-      "Gadgets",
-      "Google",
-      "Health",
-      "News",
-      "Science",
-      "Tech",
-      "Wearable"
-    ],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Five architects of the AI economy explain where the wheels are coming off",
-    "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
-    "source": "TechCrunch AI",
-    "summary": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Institute Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture that undergirds the tech is wrong.",
-    "published_at": "2026-05-07 05:25",
-    "tags": [
-      "AI",
-      "TC",
-      "applied intuition",
-      "ASML",
-      "Christophe Fouquet",
-      "Dimitry Shevelenko",
-      "Eve Bodnia",
-      "Francis deSouza",
-      "google cloud",
-      "Logical Intelligence",
-      "Milken Institute",
-      "Qasar Younis"
-    ],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "How AI Works Under the Hood – LLMs Explained with Code",
-    "url": "https://nitayneeman.com/blog/how-ai-works-under-the-hood-llms-explained-with-code/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://nitayneeman.com/blog/how-ai-works-under-the-hood-llms-explained-with-code/ Comments URL: https://news.ycombinator.com/item?id=48044920 Points: 2 # Comments: 0",
-    "published_at": "2026-05-07 02:56",
-    "tags": [],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Character.ai Faces Unlawful Practice of Medicine Claim in Pennsylvania Suit",
-    "url": "https://www.law.com/therecorder/2026/05/06/characterai-maker-faces-unlawful-practice-of-medicine-claim-in-pennsylvania-suit/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.law.com/therecorder/2026/05/06/characterai-maker-faces-unlawful-practice-of-medicine-claim-in-pennsylvania-suit/ Comments URL: https://news.ycombinator.com/item?id=48044820 Points: 3 # Comments: 2",
-    "published_at": "2026-05-07 02:44",
-    "tags": [],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Nvidia Enterprise Reference Architectures for AI Data Centers",
-    "url": "https://www.nvidia.com/en-us/technologies/enterprise-reference-architecture/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.nvidia.com/en-us/technologies/enterprise-reference-architecture/ Comments URL: https://news.ycombinator.com/item?id=48044683 Points: 2 # Comments: 1",
-    "published_at": "2026-05-07 02:24",
-    "tags": [],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "How programmers are feeling about AI",
-    "url": "https://thesoftwaresurvey.com/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://thesoftwaresurvey.com/ Comments URL: https://news.ycombinator.com/item?id=48043676 Points: 4 # Comments: 1",
-    "published_at": "2026-05-07 00:08",
-    "tags": [],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "On-Policy [LLM] Distillation (2025)",
-    "url": "https://thinkingmachines.ai/blog/on-policy-distillation/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://thinkingmachines.ai/blog/on-policy-distillation/ Comments URL: https://news.ycombinator.com/item?id=48043338 Points: 3 # Comments: 0",
-    "published_at": "2026-05-06 23:38",
-    "tags": [],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "早报"
   }
 ]
