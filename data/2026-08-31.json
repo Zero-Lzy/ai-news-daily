@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-31",
+  "runs": [
+    {
+      "label": "晚报",
+      "time": "2026-08-31 00:11:41",
+      "count": 5,
+      "articles": [
+        {
+          "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+          "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+          "source": "TechCrunch AI",
+          "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+          "published_at": "2026-08-30 15:00",
+          "tags": [
+            "Enterprise",
+            "AI",
+            "caterpillar",
+            "mining"
+          ]
+        },
+        {
+          "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+          "source": "The Verge AI",
+          "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacking a $1 fee onto insurance policies, [&#8230;]",
+          "published_at": "2026-08-30 11:35",
+          "tags": [
+            "AI",
+            "News",
+            "Policy",
+            "Politics"
+          ]
+        },
+        {
+          "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+          "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+          "source": "TechCrunch AI",
+          "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
+          "published_at": "2026-08-29 17:36",
+          "tags": [
+            "AI",
+            "Biotech & Health",
+            "TC",
+            "Andreessen Horowitz",
+            "Vijay Pande"
+          ]
+        },
+        {
+          "title": "Nvidia’s AI advantage is moving beyond the GPU",
+          "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+          "source": "TechCrunch AI",
+          "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+          "published_at": "2026-08-29 13:00",
+          "tags": [
+            "TC",
+            "AI",
+            "nvidia",
+            "GPU"
+          ]
+        },
+        {
+          "title": "Musicians-turned-detectives are hunting for AI grifters",
+          "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+          "source": "The Verge AI",
+          "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI, others have denied using the technology [&#8230;]",
+          "published_at": "2026-08-29 08:00",
+          "tags": [
+            "AI",
+            "Creators",
+            "Entertainment",
+            "Music",
+            "Spotify",
+            "Tech"
+          ]
+        }
+      ]
+    }
+  ]
+}
