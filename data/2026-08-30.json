@@ -104,6 +104,170 @@
           ]
         }
       ]
+    },
+    {
+      "label": "早报",
+      "time": "2026-08-30 12:28:04",
+      "count": 17,
+      "articles": [
+        {
+          "title": "Critical: Persistent back end data retention after deletion in AI Studio",
+          "url": "https://issuetracker.google.com/issues/554464766",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://issuetracker.google.com/issues/554464766 Comments URL: https://news.ycombinator.com/item?id=49495667 Points: 1 # Comments: 0",
+          "published_at": "2026-08-30 04:19",
+          "tags": []
+        },
+        {
+          "title": "I ran out of AI tokens in one app while holding unused tokens in another",
+          "url": "https://news.ycombinator.com/item?id=49495398",
+          "source": "Hacker News AI",
+          "summary": "The problem is simple: AI tokens are locked to individual products.context : I was using both an agentic IDE and a Hostinger deployment agent. One day, I ran out of tokens on the deployment agent. To keep using it, I either had to wait for tokens to reset or upgrade to a higher subscription or buy tokens.So basically, I had AI tokens, but I couldn’t use them where I needed them. or despite having tokens, we cannot use them.As people start using more AI products, this could mean buying tokens aga",
+          "published_at": "2026-08-30 03:20",
+          "tags": []
+        },
+        {
+          "title": "China's AI Revolution and the Ideology of Xi Jinping",
+          "url": "https://kevinrudd.com/media/anu-centre-for-china-in-the-world-annual-lecture-2026",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://kevinrudd.com/media/anu-centre-for-china-in-the-world-annual-lecture-2026 Comments URL: https://news.ycombinator.com/item?id=49495307 Points: 1 # Comments: 1",
+          "published_at": "2026-08-30 03:02",
+          "tags": []
+        },
+        {
+          "title": "Best AI Quiz Generator?",
+          "url": "https://quizroom.ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://quizroom.ai Comments URL: https://news.ycombinator.com/item?id=49495208 Points: 1 # Comments: 1",
+          "published_at": "2026-08-30 02:42",
+          "tags": []
+        },
+        {
+          "title": "Meta Project OT plan to replace employees with AI agents",
+          "url": "https://www.thestreet.com/technology/mark-zuckerberg-shocking-message-meta-employee-layoffs-artificial-intelligence",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.thestreet.com/technology/mark-zuckerberg-shocking-message-meta-employee-layoffs-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=49495009 Points: 10 # Comments: 5",
+          "published_at": "2026-08-30 02:01",
+          "tags": []
+        },
+        {
+          "title": "AI is changing religion and religions are trying to change AI",
+          "url": "https://economist.com/international/2026/08/27/ai-is-changing-religion-and-religions-are-trying-to-change-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://economist.com/international/2026/08/27/ai-is-changing-religion-and-religions-are-trying-to-change-ai Comments URL: https://news.ycombinator.com/item?id=49494690 Points: 2 # Comments: 0",
+          "published_at": "2026-08-30 00:58",
+          "tags": []
+        },
+        {
+          "title": "Crbro – Local, file-based persistent memory for AI agents (MCP)",
+          "url": "https://github.com/Octonove/crbro-memory",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/Octonove/crbro-memory Comments URL: https://news.ycombinator.com/item?id=49494676 Points: 1 # Comments: 0",
+          "published_at": "2026-08-30 00:55",
+          "tags": []
+        },
+        {
+          "title": "Build Your Customer Service Team with AI Agents",
+          "url": "https://aimujib.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://aimujib.com/ Comments URL: https://news.ycombinator.com/item?id=49494653 Points: 2 # Comments: 1",
+          "published_at": "2026-08-30 00:49",
+          "tags": []
+        },
+        {
+          "title": "When AI Writes the Code Verification Is the New Implementation",
+          "url": "https://sarpex.com/2026/08-verification-is-the-new-implementation",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://sarpex.com/2026/08-verification-is-the-new-implementation Comments URL: https://news.ycombinator.com/item?id=49494200 Points: 2 # Comments: 0",
+          "published_at": "2026-08-29 23:20",
+          "tags": []
+        },
+        {
+          "title": "How Big Tech Blinded Itself to the Grassroots AI Revolt",
+          "url": "https://www.wsj.com/tech/ai/how-big-tech-blinded-itself-to-the-grassroots-ai-revolt-cb6f5715",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wsj.com/tech/ai/how-big-tech-blinded-itself-to-the-grassroots-ai-revolt-cb6f5715 Comments URL: https://news.ycombinator.com/item?id=49494143 Points: 3 # Comments: 0",
+          "published_at": "2026-08-29 23:11",
+          "tags": []
+        },
+        {
+          "title": "The issue with AI video generation",
+          "url": "https://dimension.so/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://dimension.so/ Comments URL: https://news.ycombinator.com/item?id=49494014 Points: 1 # Comments: 0",
+          "published_at": "2026-08-29 22:48",
+          "tags": []
+        },
+        {
+          "title": "What does it mean for data to be AI ready?",
+          "url": "https://sina.bio/posts/what-does-it-mean-for-data-to-be-ai-ready.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://sina.bio/posts/what-does-it-mean-for-data-to-be-ai-ready.html Comments URL: https://news.ycombinator.com/item?id=49493907 Points: 2 # Comments: 0",
+          "published_at": "2026-08-29 22:35",
+          "tags": []
+        },
+        {
+          "title": "AI surveillance in schools raises safety and equity concerns",
+          "url": "https://www.brookings.edu/articles/ai-surveillance-in-schools-raises-safety-and-equity-concerns/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.brookings.edu/articles/ai-surveillance-in-schools-raises-safety-and-equity-concerns/ Comments URL: https://news.ycombinator.com/item?id=49493775 Points: 4 # Comments: 5",
+          "published_at": "2026-08-29 22:15",
+          "tags": []
+        },
+        {
+          "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+          "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+          "source": "TechCrunch AI",
+          "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+          "published_at": "2026-08-29 18:41",
+          "tags": [
+            "AI",
+            "Anthropic"
+          ]
+        },
+        {
+          "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+          "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+          "source": "TechCrunch AI",
+          "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
+          "published_at": "2026-08-29 17:36",
+          "tags": [
+            "AI",
+            "Biotech & Health",
+            "TC",
+            "Andreessen Horowitz",
+            "Vijay Pande"
+          ]
+        },
+        {
+          "title": "Nvidia’s AI advantage is moving beyond the GPU",
+          "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+          "source": "TechCrunch AI",
+          "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+          "published_at": "2026-08-29 13:00",
+          "tags": [
+            "TC",
+            "AI",
+            "nvidia",
+            "GPU"
+          ]
+        },
+        {
+          "title": "Musicians-turned-detectives are hunting for AI grifters",
+          "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+          "source": "The Verge AI",
+          "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI, others have denied using the technology [&#8230;]",
+          "published_at": "2026-08-29 08:00",
+          "tags": [
+            "AI",
+            "Creators",
+            "Entertainment",
+            "Music",
+            "Spotify",
+            "Tech"
+          ]
+        }
+      ]
     }
   ]
 }

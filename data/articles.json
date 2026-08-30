@@ -1,5 +1,164 @@
 [
   {
+    "title": "Critical: Persistent back end data retention after deletion in AI Studio",
+    "url": "https://issuetracker.google.com/issues/554464766",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://issuetracker.google.com/issues/554464766 Comments URL: https://news.ycombinator.com/item?id=49495667 Points: 1 # Comments: 0",
+    "published_at": "2026-08-30 04:19",
+    "tags": [],
+    "fetch_date": "2026-08-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "I ran out of AI tokens in one app while holding unused tokens in another",
+    "url": "https://news.ycombinator.com/item?id=49495398",
+    "source": "Hacker News AI",
+    "summary": "The problem is simple: AI tokens are locked to individual products.context : I was using both an agentic IDE and a Hostinger deployment agent. One day, I ran out of tokens on the deployment agent. To keep using it, I either had to wait for tokens to reset or upgrade to a higher subscription or buy tokens.So basically, I had AI tokens, but I couldn’t use them where I needed them. or despite having tokens, we cannot use them.As people start using more AI products, this could mean buying tokens aga",
+    "published_at": "2026-08-30 03:20",
+    "tags": [],
+    "fetch_date": "2026-08-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "China's AI Revolution and the Ideology of Xi Jinping",
+    "url": "https://kevinrudd.com/media/anu-centre-for-china-in-the-world-annual-lecture-2026",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://kevinrudd.com/media/anu-centre-for-china-in-the-world-annual-lecture-2026 Comments URL: https://news.ycombinator.com/item?id=49495307 Points: 1 # Comments: 1",
+    "published_at": "2026-08-30 03:02",
+    "tags": [],
+    "fetch_date": "2026-08-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Best AI Quiz Generator?",
+    "url": "https://quizroom.ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://quizroom.ai Comments URL: https://news.ycombinator.com/item?id=49495208 Points: 1 # Comments: 1",
+    "published_at": "2026-08-30 02:42",
+    "tags": [],
+    "fetch_date": "2026-08-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Meta Project OT plan to replace employees with AI agents",
+    "url": "https://www.thestreet.com/technology/mark-zuckerberg-shocking-message-meta-employee-layoffs-artificial-intelligence",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.thestreet.com/technology/mark-zuckerberg-shocking-message-meta-employee-layoffs-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=49495009 Points: 10 # Comments: 5",
+    "published_at": "2026-08-30 02:01",
+    "tags": [],
+    "fetch_date": "2026-08-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI is changing religion and religions are trying to change AI",
+    "url": "https://economist.com/international/2026/08/27/ai-is-changing-religion-and-religions-are-trying-to-change-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://economist.com/international/2026/08/27/ai-is-changing-religion-and-religions-are-trying-to-change-ai Comments URL: https://news.ycombinator.com/item?id=49494690 Points: 2 # Comments: 0",
+    "published_at": "2026-08-30 00:58",
+    "tags": [],
+    "fetch_date": "2026-08-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Crbro – Local, file-based persistent memory for AI agents (MCP)",
+    "url": "https://github.com/Octonove/crbro-memory",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/Octonove/crbro-memory Comments URL: https://news.ycombinator.com/item?id=49494676 Points: 1 # Comments: 0",
+    "published_at": "2026-08-30 00:55",
+    "tags": [],
+    "fetch_date": "2026-08-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Build Your Customer Service Team with AI Agents",
+    "url": "https://aimujib.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://aimujib.com/ Comments URL: https://news.ycombinator.com/item?id=49494653 Points: 2 # Comments: 1",
+    "published_at": "2026-08-30 00:49",
+    "tags": [],
+    "fetch_date": "2026-08-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "When AI Writes the Code Verification Is the New Implementation",
+    "url": "https://sarpex.com/2026/08-verification-is-the-new-implementation",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://sarpex.com/2026/08-verification-is-the-new-implementation Comments URL: https://news.ycombinator.com/item?id=49494200 Points: 2 # Comments: 0",
+    "published_at": "2026-08-29 23:20",
+    "tags": [],
+    "fetch_date": "2026-08-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "How Big Tech Blinded Itself to the Grassroots AI Revolt",
+    "url": "https://www.wsj.com/tech/ai/how-big-tech-blinded-itself-to-the-grassroots-ai-revolt-cb6f5715",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/how-big-tech-blinded-itself-to-the-grassroots-ai-revolt-cb6f5715 Comments URL: https://news.ycombinator.com/item?id=49494143 Points: 3 # Comments: 0",
+    "published_at": "2026-08-29 23:11",
+    "tags": [],
+    "fetch_date": "2026-08-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The issue with AI video generation",
+    "url": "https://dimension.so/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://dimension.so/ Comments URL: https://news.ycombinator.com/item?id=49494014 Points: 1 # Comments: 0",
+    "published_at": "2026-08-29 22:48",
+    "tags": [],
+    "fetch_date": "2026-08-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "What does it mean for data to be AI ready?",
+    "url": "https://sina.bio/posts/what-does-it-mean-for-data-to-be-ai-ready.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://sina.bio/posts/what-does-it-mean-for-data-to-be-ai-ready.html Comments URL: https://news.ycombinator.com/item?id=49493907 Points: 2 # Comments: 0",
+    "published_at": "2026-08-29 22:35",
+    "tags": [],
+    "fetch_date": "2026-08-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI surveillance in schools raises safety and equity concerns",
+    "url": "https://www.brookings.edu/articles/ai-surveillance-in-schools-raises-safety-and-equity-concerns/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.brookings.edu/articles/ai-surveillance-in-schools-raises-safety-and-equity-concerns/ Comments URL: https://news.ycombinator.com/item?id=49493775 Points: 4 # Comments: 5",
+    "published_at": "2026-08-29 22:15",
+    "tags": [],
+    "fetch_date": "2026-08-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+    "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "source": "TechCrunch AI",
+    "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+    "published_at": "2026-08-29 18:41",
+    "tags": [
+      "AI",
+      "Anthropic"
+    ],
+    "fetch_date": "2026-08-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+    "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+    "source": "TechCrunch AI",
+    "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
+    "published_at": "2026-08-29 17:36",
+    "tags": [
+      "AI",
+      "Biotech & Health",
+      "TC",
+      "Andreessen Horowitz",
+      "Vijay Pande"
+    ],
+    "fetch_date": "2026-08-30",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Nvidia’s AI advantage is moving beyond the GPU",
     "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
     "source": "TechCrunch AI",
@@ -13,6 +172,23 @@
     ],
     "fetch_date": "2026-08-30",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Musicians-turned-detectives are hunting for AI grifters",
+    "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+    "source": "The Verge AI",
+    "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI, others have denied using the technology [&#8230;]",
+    "published_at": "2026-08-29 08:00",
+    "tags": [
+      "AI",
+      "Creators",
+      "Entertainment",
+      "Music",
+      "Spotify",
+      "Tech"
+    ],
+    "fetch_date": "2026-08-30",
+    "fetch_label": "早报"
   },
   {
     "title": "I tried vibe-coding a memory tool for AI and stared into the abyss of philosophy",
@@ -34832,223 +35008,5 @@
     "tags": [],
     "fetch_date": "2026-05-08",
     "fetch_label": "早报"
-  },
-  {
-    "title": "Chrome's 4GB AI Surprise: Why Google Chrome Is Quietly Downloading Gemini Nano",
-    "url": "https://blog.praveen.science/chrome-s-4gb-ai-surprise-why-google-chrome-is-quietly-downloading-gemini-nano-to-your-device/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://blog.praveen.science/chrome-s-4gb-ai-surprise-why-google-chrome-is-quietly-downloading-gemini-nano-to-your-device/ Comments URL: https://news.ycombinator.com/item?id=48056866 Points: 3 # Comments: 0",
-    "published_at": "2026-05-08 00:20",
-    "tags": [],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "OpenAI launches new voice intelligence features in its API",
-    "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
-    "source": "TechCrunch AI",
-    "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
-    "published_at": "2026-05-07 22:24",
-    "tags": [
-      "AI",
-      "OpenAI",
-      "gpt"
-    ],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
-    "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
-    "source": "TechCrunch AI",
-    "summary": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
-    "published_at": "2026-05-07 19:57",
-    "tags": [
-      "AI",
-      "Apps",
-      "Perplexity",
-      "perplexity computer"
-    ],
-    "fetch_date": "2026-05-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
-    "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
-    "source": "TechCrunch AI",
-    "summary": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial general intelligence.",
-    "published_at": "2026-05-07 19:21",
-    "tags": [
-      "AI",
-      "Elon Musk",
-      "OpenAI",
-      "openai lawsuit",
-      "sam altman"
-    ],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
-    "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
-    "source": "ArsTechnica AI",
-    "summary": "The developer of Firefox says it has \"completely bought in\" on AI-assisted bug discovery.",
-    "published_at": "2026-05-07 19:18",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "Security",
-      "firefox",
-      "Mythos",
-      "vulnerabilities"
-    ],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
-    "source": "The Verge AI",
-    "summary": "The week leading up to Thanksgiving 2023 was the AI industry's biggest soap opera moment. OpenAI CEO Sam Altman was abruptly ousted from his role at the ChatGPT maker. The explanation? That Altman was \"not consistently candid in his communications with the board.\" Now, via witness testimony and trial exhibits in Musk v. Altman, the [&#8230;]",
-    "published_at": "2026-05-07 15:55",
-    "tags": [
-      "AI",
-      "Analysis",
-      "Elon Musk",
-      "Law",
-      "OpenAI",
-      "Policy",
-      "Report",
-      "Tech"
-    ],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Apple&#8217;s AirPods with cameras for AI are apparently close to production",
-    "url": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production",
-    "source": "The Verge AI",
-    "summary": "Apple's rumored AirPods with cameras are nearing a stage where the company will test early mass production, Bloomberg's Mark Gurman reports. Currently, Apple testers are \"actively using\" prototypes that are in the design validation test stage, which is one step before the production validation test stage. The AirPods' cameras \"aren't designed\" to snap photos or [&#8230;]",
-    "published_at": "2026-05-07 15:39",
-    "tags": [
-      "AI",
-      "Apple",
-      "Gadgets",
-      "Headphones",
-      "News",
-      "Tech"
-    ],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "SpaceX has a $55 billion plan to build AI chips in Texas",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips",
-    "source": "The Verge AI",
-    "summary": "Elon Musk's plans to get into the AI chip manufacturing business are going to be costly. As the New York Times and CNBC report, SpaceX is planning to invest at least $55 billion into its \"Terafab\" chip plant in Austin, Texas. That's according to the details of a public hearing notice filed in Grimes County, [&#8230;]",
-    "published_at": "2026-05-07 15:26",
-    "tags": [
-      "AI",
-      "Elon Musk",
-      "News",
-      "Science",
-      "Space",
-      "SpaceX",
-      "Tech",
-      "xAI"
-    ],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "ChatGPT&#8217;s &#8216;Trusted Contact&#8217; will alert loved ones of safety concerns",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification",
-    "source": "The Verge AI",
-    "summary": "OpenAI is launching an optional safety feature for ChatGPT that allows adult users to assign an emergency contact for mental health and safety concerns. Friends, family members, or caregivers designated as a \"Trusted Contact\" will be notified if OpenAI detects that a person may have discussed topics like self-harm or suicide with the chatbot. \"Trusted [&#8230;]",
-    "published_at": "2026-05-07 14:00",
-    "tags": [
-      "AI",
-      "News",
-      "OpenAI"
-    ],
-    "fetch_date": "2026-05-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "First Church of the Singularity: An AI Art Experiment",
-    "url": "https://firstchurchofthesingularity.com/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://firstchurchofthesingularity.com/ Comments URL: https://news.ycombinator.com/item?id=48049544 Points: 2 # Comments: 1",
-    "published_at": "2026-05-07 13:57",
-    "tags": [],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Open-source AI code review (AGPLv3, BYOK)",
-    "url": "https://github.com/kodustech/kodus-ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/kodustech/kodus-ai Comments URL: https://news.ycombinator.com/item?id=48049508 Points: 3 # Comments: 0",
-    "published_at": "2026-05-07 13:54",
-    "tags": [],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: AERF – receipts for AI agents, crypto-signed like cosign for evidence",
-    "url": "https://github.com/aerf-spec/aerf",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/aerf-spec/aerf Comments URL: https://news.ycombinator.com/item?id=48049489 Points: 2 # Comments: 0",
-    "published_at": "2026-05-07 13:53",
-    "tags": [],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Comparing Sandboxing Approaches for AI Agents",
-    "url": "https://www.docker.com/blog/comparing-sandboxing-approaches-ai-agents/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.docker.com/blog/comparing-sandboxing-approaches-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48049447 Points: 2 # Comments: 0",
-    "published_at": "2026-05-07 13:50",
-    "tags": [],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Git for AI Agents",
-    "url": "https://github.com/regent-vcs/re_gent",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/regent-vcs/re_gent Comments URL: https://news.ycombinator.com/item?id=48049431 Points: 4 # Comments: 1",
-    "published_at": "2026-05-07 13:49",
-    "tags": [],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open-source AI skyrockets",
-    "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
-    "source": "TechCrunch AI",
-    "summary": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
-    "published_at": "2026-05-07 13:44",
-    "tags": [
-      "AI",
-      "Startups",
-      "China",
-      "kimi",
-      "large language models",
-      "moonshot ai"
-    ],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Xfra AI",
-    "url": "https://www.xfra.ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.xfra.ai/ Comments URL: https://news.ycombinator.com/item?id=48049359 Points: 3 # Comments: 0",
-    "published_at": "2026-05-07 13:43",
-    "tags": [],
-    "fetch_date": "2026-05-07",
-    "fetch_label": "晚报"
   }
 ]
