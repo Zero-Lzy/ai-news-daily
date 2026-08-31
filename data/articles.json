@@ -1,5 +1,95 @@
 [
   {
+    "title": "Ask HN: How do you feel about AI generated documentation?",
+    "url": "https://news.ycombinator.com/item?id=49505508",
+    "source": "Hacker News AI",
+    "summary": "It usually feels like it wasn't written to be read.Do you have examples of good ai generated documentation ? Comments URL: https://news.ycombinator.com/item?id=49505508 Points: 3 # Comments: 0",
+    "published_at": "2026-08-31 04:18",
+    "tags": [],
+    "fetch_date": "2026-08-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Care for a Little More AI?",
+    "url": "https://proofsandprompts.com/2026/08/30/care-for-a-little-more-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://proofsandprompts.com/2026/08/30/care-for-a-little-more-ai/ Comments URL: https://news.ycombinator.com/item?id=49505470 Points: 1 # Comments: 0",
+    "published_at": "2026-08-31 04:12",
+    "tags": [],
+    "fetch_date": "2026-08-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+    "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis Comments URL: https://news.ycombinator.com/item?id=49505351 Points: 13 # Comments: 1",
+    "published_at": "2026-08-31 03:45",
+    "tags": [],
+    "fetch_date": "2026-08-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Growtics – an AI growth agent that tells you what to do next",
+    "url": "https://growtics.io",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://growtics.io Comments URL: https://news.ycombinator.com/item?id=49505111 Points: 1 # Comments: 0",
+    "published_at": "2026-08-31 03:00",
+    "tags": [],
+    "fetch_date": "2026-08-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "HermOS – a local-first AI agent IDE",
+    "url": "https://hermos.is-a.dev/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://hermos.is-a.dev/ Comments URL: https://news.ycombinator.com/item?id=49504833 Points: 2 # Comments: 0",
+    "published_at": "2026-08-31 02:09",
+    "tags": [],
+    "fetch_date": "2026-08-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Clips Kitty Open-source local AI video clipping and editing",
+    "url": "https://github.com/ColinGPT9/clips-studio",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/ColinGPT9/clips-studio Comments URL: https://news.ycombinator.com/item?id=49504646 Points: 1 # Comments: 1",
+    "published_at": "2026-08-31 01:31",
+    "tags": [],
+    "fetch_date": "2026-08-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Will anybody use AI as much as coders?",
+    "url": "https://www.economist.com/business/2026/08/30/will-anybody-use-ai-as-much-as-coders",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.economist.com/business/2026/08/30/will-anybody-use-ai-as-much-as-coders Comments URL: https://news.ycombinator.com/item?id=49504154 Points: 2 # Comments: 2",
+    "published_at": "2026-08-31 00:06",
+    "tags": [],
+    "fetch_date": "2026-08-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Israel Is Running a Synthetic Think Tank to Influence AI Search Results",
+    "url": "https://www.404media.co/israel-is-running-a-synthetic-think-tank-to-influence-ai-search-results/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.404media.co/israel-is-running-a-synthetic-think-tank-to-influence-ai-search-results/ Comments URL: https://news.ycombinator.com/item?id=49504123 Points: 6 # Comments: 0",
+    "published_at": "2026-08-31 00:02",
+    "tags": [],
+    "fetch_date": "2026-08-31",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: What Apple's OS updates silently change in the on-device AI model",
+    "url": "https://umer9538.github.io/underfoot/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://umer9538.github.io/underfoot/ Comments URL: https://news.ycombinator.com/item?id=49503958 Points: 2 # Comments: 0",
+    "published_at": "2026-08-30 23:41",
+    "tags": [],
+    "fetch_date": "2026-08-31",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
     "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
     "source": "TechCrunch AI",
@@ -34925,96 +35015,6 @@
     "source": "Hacker News AI",
     "summary": "Article URL: https://github.com/GreyforgeLabs/sley Comments URL: https://news.ycombinator.com/item?id=48058152 Points: 1 # Comments: 1",
     "published_at": "2026-05-08 03:26",
-    "tags": [],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI at Discount",
-    "url": "https://tomtunguz.com/ai-at-discount/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://tomtunguz.com/ai-at-discount/ Comments URL: https://news.ycombinator.com/item?id=48057930 Points: 1 # Comments: 0",
-    "published_at": "2026-05-08 02:54",
-    "tags": [],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Loxai.tech and Neutboom – Gen AI's frontier of individuality",
-    "url": "https://www.neutboom.com",
-    "source": "Hacker News AI",
-    "summary": "Hi- I hope you’re all having a good day so far! I'm not sure where to post this but I do have two things for you guys today, related to the AI space: individuality and a new era to AI! So: - LLM wrappers are crumbling- these businesses will not survive as foundational models begin to offer the functionalities consumers have been seeking. This maybe represents a failure in interpretation of individuality as horizontal growth (these startups didn't last too long...), which brings up the next point",
-    "published_at": "2026-05-08 02:50",
-    "tags": [],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Anthropic's Mythos Threw the White House AI Strategy into Chaos",
-    "url": "https://www.wsj.com/tech/ai/trump-ai-anthropic-mythos-regulation-2378971f",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/trump-ai-anthropic-mythos-regulation-2378971f Comments URL: https://news.ycombinator.com/item?id=48057717 Points: 1 # Comments: 0",
-    "published_at": "2026-05-08 02:22",
-    "tags": [],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows",
-    "url": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/ Comments URL: https://news.ycombinator.com/item?id=48057652 Points: 5 # Comments: 0",
-    "published_at": "2026-05-08 02:10",
-    "tags": [],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Roche to Buy PathAI for Up to $1.05B to Bolster AI Diagnostics Tools",
-    "url": "https://www.wsj.com/business/deals/roche-to-buy-pathai-for-up-to-1-05-billion-to-bolster-ai-diagnostics-tools-0b4575ee",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.wsj.com/business/deals/roche-to-buy-pathai-for-up-to-1-05-billion-to-bolster-ai-diagnostics-tools-0b4575ee Comments URL: https://news.ycombinator.com/item?id=48057610 Points: 1 # Comments: 0",
-    "published_at": "2026-05-08 02:02",
-    "tags": [],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Upper bound for AI output is based on your taste/exposure",
-    "url": "https://news.ycombinator.com/item?id=48057514",
-    "source": "Hacker News AI",
-    "summary": "For image models specifically, but I think it applies to LLMs aswell Comments URL: https://news.ycombinator.com/item?id=48057514 Points: 1 # Comments: 0",
-    "published_at": "2026-05-08 01:47",
-    "tags": [],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Contributions to CPAN: The Copyright Question",
-    "url": "https://blogs.perl.org/users/todd_rinaldo/2026/04/ai-contributions-to-cpan-the-copyright-question.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://blogs.perl.org/users/todd_rinaldo/2026/04/ai-contributions-to-cpan-the-copyright-question.html Comments URL: https://news.ycombinator.com/item?id=48057449 Points: 2 # Comments: 0",
-    "published_at": "2026-05-08 01:37",
-    "tags": [],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "GPT-5.5 Price Increase: What It Costs",
-    "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://openrouter.ai/announcements/gpt55-cost-analysis Comments URL: https://news.ycombinator.com/item?id=48057209 Points: 2 # Comments: 0",
-    "published_at": "2026-05-08 01:02",
-    "tags": [],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Netflix tests its own AI-powered voice search",
-    "url": "https://www.lowpass.cc/p/ask-netflix-ai-voice-search",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.lowpass.cc/p/ask-netflix-ai-voice-search Comments URL: https://news.ycombinator.com/item?id=48057196 Points: 1 # Comments: 0",
-    "published_at": "2026-05-08 01:01",
     "tags": [],
     "fetch_date": "2026-05-08",
     "fetch_label": "早报"
