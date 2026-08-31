@@ -1,0 +1,165 @@
+{
+  "date": "2026-09-01",
+  "runs": [
+    {
+      "label": "晚报",
+      "time": "2026-09-01 02:52:52",
+      "count": 17,
+      "articles": [
+        {
+          "title": "SlopTV: A livestream of AI slop generated from comments, Minimax H3 on 2x5090",
+          "url": "https://www.youtube.com/watch?v=EQ2RexjIEFE",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=EQ2RexjIEFE Comments URL: https://news.ycombinator.com/item?id=49513366 Points: 1 # Comments: 0",
+          "published_at": "2026-08-31 18:48",
+          "tags": []
+        },
+        {
+          "title": "Harvard Law dropout raises $6M for Blue Voice to build a “Harvey for police officers”",
+          "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+          "source": "TechCrunch AI",
+          "summary": "The seed round for the app that provides real-time legal and policy guidance to officers was led by SignalFire and Las Olas VC.",
+          "published_at": "2026-08-31 18:35",
+          "tags": [
+            "AI",
+            "Government & Policy",
+            "Startups",
+            "Las Olas Venture Capital",
+            "police",
+            "signalfire"
+          ]
+        },
+        {
+          "title": "VibeCoded AI-Slop License v1.0",
+          "url": "https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6 Comments URL: https://news.ycombinator.com/item?id=49512989 Points: 2 # Comments: 0",
+          "published_at": "2026-08-31 18:22",
+          "tags": []
+        },
+        {
+          "title": "Whatareyoubuilding.ai – indie builder and AI product directory",
+          "url": "https://whatareyoubuilding.ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://whatareyoubuilding.ai/ Comments URL: https://news.ycombinator.com/item?id=49512957 Points: 1 # Comments: 0",
+          "published_at": "2026-08-31 18:19",
+          "tags": []
+        },
+        {
+          "title": "Is your Shopify store visible to ChatGPT? A free AI-visibility scanner",
+          "url": "https://rankinai.surge.sh/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://rankinai.surge.sh/ Comments URL: https://news.ycombinator.com/item?id=49512951 Points: 1 # Comments: 0",
+          "published_at": "2026-08-31 18:19",
+          "tags": []
+        },
+        {
+          "title": "LLM tokens aren't the new dollars",
+          "url": "https://avaprotocol.org/blog/tokens-arent-the-new-dollars",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://avaprotocol.org/blog/tokens-arent-the-new-dollars Comments URL: https://news.ycombinator.com/item?id=49512891 Points: 1 # Comments: 0",
+          "published_at": "2026-08-31 18:14",
+          "tags": []
+        },
+        {
+          "title": "The safest job from AI may be writing",
+          "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html Comments URL: https://news.ycombinator.com/item?id=49512856 Points: 31 # Comments: 25",
+          "published_at": "2026-08-31 18:12",
+          "tags": []
+        },
+        {
+          "title": "Show HN: 10x token savings for AI Web Scraping",
+          "url": "https://www.makralabs.org/about",
+          "source": "Hacker News AI",
+          "summary": "I have been working on this problem for 6 months.Makra brings down the cost of web scraping by quite a lot, using novel memory and layout caching mechanisms.Currently it's web scraping, but the same can be applied with all kinds of Browser-use application.Let me know what you think.And, just FYI: benchmarks will be public soon. We're on it. Comments URL: https://news.ycombinator.com/item?id=49512846 Points: 2 # Comments: 0",
+          "published_at": "2026-08-31 18:11",
+          "tags": []
+        },
+        {
+          "title": "AGI Society: AI and Labor Market Assessment Quiz",
+          "url": "https://ask.agi-society.de/ai-labor-report-2026",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://ask.agi-society.de/ai-labor-report-2026 Comments URL: https://news.ycombinator.com/item?id=49512712 Points: 1 # Comments: 0",
+          "published_at": "2026-08-31 18:00",
+          "tags": []
+        },
+        {
+          "title": "In the US, Caution Rules on AI Ahead of K-12 School Year",
+          "url": "https://www.techpolicy.press/in-the-us-caution-rules-on-ai-ahead-of-k12-school-year/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.techpolicy.press/in-the-us-caution-rules-on-ai-ahead-of-k12-school-year/ Comments URL: https://news.ycombinator.com/item?id=49512676 Points: 2 # Comments: 0",
+          "published_at": "2026-08-31 17:57",
+          "tags": []
+        },
+        {
+          "title": "Open Source thinking-orb animations for AI agents",
+          "url": "https://orbs.jakubantalik.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://orbs.jakubantalik.com/ Comments URL: https://news.ycombinator.com/item?id=49512563 Points: 1 # Comments: 0",
+          "published_at": "2026-08-31 17:44",
+          "tags": []
+        },
+        {
+          "title": "SDL Project bans AI",
+          "url": "https://github.com/libsdl-org/SDL/commit/83ab835bfd48b9fea3fefbf84f65ae898fedaffb",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/libsdl-org/SDL/commit/83ab835bfd48b9fea3fefbf84f65ae898fedaffb Comments URL: https://news.ycombinator.com/item?id=49512506 Points: 3 # Comments: 0",
+          "published_at": "2026-08-31 17:39",
+          "tags": []
+        },
+        {
+          "title": "I turned a Mac Studio into an always-on AI development server",
+          "url": "https://polyform.ai/news/mac-studio-ai-development-server/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://polyform.ai/news/mac-studio-ai-development-server/ Comments URL: https://news.ycombinator.com/item?id=49512492 Points: 1 # Comments: 0",
+          "published_at": "2026-08-31 17:38",
+          "tags": []
+        },
+        {
+          "title": "I Posted on Hacker News. Two AI Agents Emailed Me",
+          "url": "https://www.dbpro.app/blog/i-posted-on-hacker-news-two-ai-agents-emailed-me",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.dbpro.app/blog/i-posted-on-hacker-news-two-ai-agents-emailed-me Comments URL: https://news.ycombinator.com/item?id=49512021 Points: 3 # Comments: 2",
+          "published_at": "2026-08-31 17:00",
+          "tags": []
+        },
+        {
+          "title": "Anthropic legal fight with Pentagon shows shifting politics of AI",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-08-31/anthropic-legal-fight-with-pentagon-shows-shifting-politics-of-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bloomberg.com/news/newsletters/2026-08-31/anthropic-legal-fight-with-pentagon-shows-shifting-politics-of-ai Comments URL: https://news.ycombinator.com/item?id=49511912 Points: 8 # Comments: 1",
+          "published_at": "2026-08-31 16:52",
+          "tags": []
+        },
+        {
+          "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+          "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+          "source": "The Verge AI",
+          "summary": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible\" use of AI can improve developers' productivity, and goes on to say, \"generative AI is neither exempt from nor subject to special rules beyond the standards already [&#8230;]",
+          "published_at": "2026-08-31 11:34",
+          "tags": [
+            "AI",
+            "Linux",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+          "source": "The Verge AI",
+          "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacking a $1 fee onto insurance policies, [&#8230;]",
+          "published_at": "2026-08-30 11:35",
+          "tags": [
+            "AI",
+            "News",
+            "Policy",
+            "Politics"
+          ]
+        }
+      ]
+    }
+  ]
+}

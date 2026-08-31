@@ -1,5 +1,177 @@
 [
   {
+    "title": "SlopTV: A livestream of AI slop generated from comments, Minimax H3 on 2x5090",
+    "url": "https://www.youtube.com/watch?v=EQ2RexjIEFE",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=EQ2RexjIEFE Comments URL: https://news.ycombinator.com/item?id=49513366 Points: 1 # Comments: 0",
+    "published_at": "2026-08-31 18:48",
+    "tags": [],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Harvard Law dropout raises $6M for Blue Voice to build a “Harvey for police officers”",
+    "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+    "source": "TechCrunch AI",
+    "summary": "The seed round for the app that provides real-time legal and policy guidance to officers was led by SignalFire and Las Olas VC.",
+    "published_at": "2026-08-31 18:35",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "Startups",
+      "Las Olas Venture Capital",
+      "police",
+      "signalfire"
+    ],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "VibeCoded AI-Slop License v1.0",
+    "url": "https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6 Comments URL: https://news.ycombinator.com/item?id=49512989 Points: 2 # Comments: 0",
+    "published_at": "2026-08-31 18:22",
+    "tags": [],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Whatareyoubuilding.ai – indie builder and AI product directory",
+    "url": "https://whatareyoubuilding.ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://whatareyoubuilding.ai/ Comments URL: https://news.ycombinator.com/item?id=49512957 Points: 1 # Comments: 0",
+    "published_at": "2026-08-31 18:19",
+    "tags": [],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Is your Shopify store visible to ChatGPT? A free AI-visibility scanner",
+    "url": "https://rankinai.surge.sh/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://rankinai.surge.sh/ Comments URL: https://news.ycombinator.com/item?id=49512951 Points: 1 # Comments: 0",
+    "published_at": "2026-08-31 18:19",
+    "tags": [],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "LLM tokens aren't the new dollars",
+    "url": "https://avaprotocol.org/blog/tokens-arent-the-new-dollars",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://avaprotocol.org/blog/tokens-arent-the-new-dollars Comments URL: https://news.ycombinator.com/item?id=49512891 Points: 1 # Comments: 0",
+    "published_at": "2026-08-31 18:14",
+    "tags": [],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The safest job from AI may be writing",
+    "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html Comments URL: https://news.ycombinator.com/item?id=49512856 Points: 31 # Comments: 25",
+    "published_at": "2026-08-31 18:12",
+    "tags": [],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: 10x token savings for AI Web Scraping",
+    "url": "https://www.makralabs.org/about",
+    "source": "Hacker News AI",
+    "summary": "I have been working on this problem for 6 months.Makra brings down the cost of web scraping by quite a lot, using novel memory and layout caching mechanisms.Currently it's web scraping, but the same can be applied with all kinds of Browser-use application.Let me know what you think.And, just FYI: benchmarks will be public soon. We're on it. Comments URL: https://news.ycombinator.com/item?id=49512846 Points: 2 # Comments: 0",
+    "published_at": "2026-08-31 18:11",
+    "tags": [],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AGI Society: AI and Labor Market Assessment Quiz",
+    "url": "https://ask.agi-society.de/ai-labor-report-2026",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://ask.agi-society.de/ai-labor-report-2026 Comments URL: https://news.ycombinator.com/item?id=49512712 Points: 1 # Comments: 0",
+    "published_at": "2026-08-31 18:00",
+    "tags": [],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "In the US, Caution Rules on AI Ahead of K-12 School Year",
+    "url": "https://www.techpolicy.press/in-the-us-caution-rules-on-ai-ahead-of-k12-school-year/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.techpolicy.press/in-the-us-caution-rules-on-ai-ahead-of-k12-school-year/ Comments URL: https://news.ycombinator.com/item?id=49512676 Points: 2 # Comments: 0",
+    "published_at": "2026-08-31 17:57",
+    "tags": [],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Open Source thinking-orb animations for AI agents",
+    "url": "https://orbs.jakubantalik.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://orbs.jakubantalik.com/ Comments URL: https://news.ycombinator.com/item?id=49512563 Points: 1 # Comments: 0",
+    "published_at": "2026-08-31 17:44",
+    "tags": [],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "SDL Project bans AI",
+    "url": "https://github.com/libsdl-org/SDL/commit/83ab835bfd48b9fea3fefbf84f65ae898fedaffb",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/libsdl-org/SDL/commit/83ab835bfd48b9fea3fefbf84f65ae898fedaffb Comments URL: https://news.ycombinator.com/item?id=49512506 Points: 3 # Comments: 0",
+    "published_at": "2026-08-31 17:39",
+    "tags": [],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "I turned a Mac Studio into an always-on AI development server",
+    "url": "https://polyform.ai/news/mac-studio-ai-development-server/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://polyform.ai/news/mac-studio-ai-development-server/ Comments URL: https://news.ycombinator.com/item?id=49512492 Points: 1 # Comments: 0",
+    "published_at": "2026-08-31 17:38",
+    "tags": [],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "I Posted on Hacker News. Two AI Agents Emailed Me",
+    "url": "https://www.dbpro.app/blog/i-posted-on-hacker-news-two-ai-agents-emailed-me",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.dbpro.app/blog/i-posted-on-hacker-news-two-ai-agents-emailed-me Comments URL: https://news.ycombinator.com/item?id=49512021 Points: 3 # Comments: 2",
+    "published_at": "2026-08-31 17:00",
+    "tags": [],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Anthropic legal fight with Pentagon shows shifting politics of AI",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-08-31/anthropic-legal-fight-with-pentagon-shows-shifting-politics-of-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bloomberg.com/news/newsletters/2026-08-31/anthropic-legal-fight-with-pentagon-shows-shifting-politics-of-ai Comments URL: https://news.ycombinator.com/item?id=49511912 Points: 8 # Comments: 1",
+    "published_at": "2026-08-31 16:52",
+    "tags": [],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+    "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+    "source": "The Verge AI",
+    "summary": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible\" use of AI can improve developers' productivity, and goes on to say, \"generative AI is neither exempt from nor subject to special rules beyond the standards already [&#8230;]",
+    "published_at": "2026-08-31 11:34",
+    "tags": [
+      "AI",
+      "Linux",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Ask HN: How do you feel about AI generated documentation?",
     "url": "https://news.ycombinator.com/item?id=49505508",
     "source": "Hacker News AI",
@@ -34823,200 +34995,5 @@
     "tags": [],
     "fetch_date": "2026-05-08",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "Ask HN: What are your strategies for reviewing AI generated code?",
-    "url": "https://news.ycombinator.com/item?id=48063044",
-    "source": "Hacker News AI",
-    "summary": "Almost everyone I talk to feels the pain of reviewing code generated with LLMs. It feels like humans have become the bottleneck in the development process.Some teams are setting guardrails, like limiting PR size or enforcing a max number of changed lines, but it still feels like everyone is figuring this out in real time.What has actually worked for you to make reviewing AI generated code easier? Comments URL: https://news.ycombinator.com/item?id=48063044 Points: 1 # Comments: 0",
-    "published_at": "2026-05-08 13:43",
-    "tags": [],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Addressing Some AI Fake News [video]",
-    "url": "https://www.youtube.com/watch?v=vdPP7zLCgrk",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.youtube.com/watch?v=vdPP7zLCgrk Comments URL: https://news.ycombinator.com/item?id=48062901 Points: 2 # Comments: 1",
-    "published_at": "2026-05-08 13:33",
-    "tags": [],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Is GraphQL the Panacea for Agentic AI?",
-    "url": "https://magiroux.com/posts/is-graphql-the-panacea-for-agentic-ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://magiroux.com/posts/is-graphql-the-panacea-for-agentic-ai Comments URL: https://news.ycombinator.com/item?id=48062860 Points: 2 # Comments: 0",
-    "published_at": "2026-05-08 13:30",
-    "tags": [],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Arlo – Your AI Chief of Staff: Kill 80% of the noise. Focus on the 20%.",
-    "url": "https://www.arlo.fyi",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.arlo.fyi Comments URL: https://news.ycombinator.com/item?id=48062633 Points: 1 # Comments: 0",
-    "published_at": "2026-05-08 13:14",
-    "tags": [],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "How LLM Inference Works",
-    "url": "https://twitter.com/akshay_pachaar/status/2050941458614751327",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://twitter.com/akshay_pachaar/status/2050941458614751327 Comments URL: https://news.ycombinator.com/item?id=48062500 Points: 1 # Comments: 0",
-    "published_at": "2026-05-08 13:04",
-    "tags": [],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "What Is an AI Control Plane",
-    "url": "https://www.speakeasy.com/resources/ai-control-plane",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.speakeasy.com/resources/ai-control-plane Comments URL: https://news.ycombinator.com/item?id=48062280 Points: 2 # Comments: 0",
-    "published_at": "2026-05-08 12:46",
-    "tags": [],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
-    "url": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
-    "source": "The Verge AI",
-    "summary": "As part of an earnings presentation on Friday, Sony shared how it's thinking about AI at the company, including many details about how it's evaluating AI as part of making PlayStation games. Generative AI has recently been showing up in bigger games - though many indie developers still reject it - and while Sony calls [&#8230;]",
-    "published_at": "2026-05-08 12:30",
-    "tags": [
-      "AI",
-      "Gaming",
-      "News",
-      "PlayStation"
-    ],
-    "fetch_date": "2026-05-09",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: NanoCorp – Create autonomous companies run by AI",
-    "url": "https://www.nanocorp.so",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.nanocorp.so Comments URL: https://news.ycombinator.com/item?id=48062033 Points: 3 # Comments: 1",
-    "published_at": "2026-05-08 12:19",
-    "tags": [],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The Impact of AI-Generated Text on the Internet",
-    "url": "https://ai-on-the-internet.github.io/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://ai-on-the-internet.github.io/ Comments URL: https://news.ycombinator.com/item?id=48061924 Points: 2 # Comments: 0",
-    "published_at": "2026-05-08 12:08",
-    "tags": [],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Benchmarking AI agent retrieval strategies on Kubernetes bug fixes",
-    "url": "https://www.cncf.io/blog/2026/05/08/benchmarking-ai-agent-retrieval-strategies-on-kubernetes-bug-fixes/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.cncf.io/blog/2026/05/08/benchmarking-ai-agent-retrieval-strategies-on-kubernetes-bug-fixes/ Comments URL: https://news.ycombinator.com/item?id=48061869 Points: 2 # Comments: 0",
-    "published_at": "2026-05-08 12:01",
-    "tags": [],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Building an Open Source 7MB AI Terminal with Agents and Code Editor (Rust/Tauri)",
-    "url": "https://github.com/crynta/terax-ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/crynta/terax-ai Comments URL: https://news.ycombinator.com/item?id=48061825 Points: 2 # Comments: 1",
-    "published_at": "2026-05-08 11:55",
-    "tags": [],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure",
-    "url": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure",
-    "source": "The Verge AI",
-    "summary": "When OpenAI was busy experimenting with AI-powered gaming bots, Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman were in the early days of forming an AI partnership. Court documents from the ongoing Musk v. Altman trial have provided a rare look at the communications between Microsoft's top executives about investing in OpenAI and fears [&#8230;]",
-    "published_at": "2026-05-08 11:25",
-    "tags": [
-      "AI",
-      "Gaming",
-      "Microsoft",
-      "OpenAI",
-      "Report",
-      "Tech",
-      "Xbox"
-    ],
-    "fetch_date": "2026-05-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Everybody wants to rule the AI world",
-    "url": "https://www.theverge.com/podcast/926707/openai-ceo-murati-musk-trial-vergecast",
-    "source": "The Verge AI",
-    "summary": "Sometimes, companies pick CEOs based on carefully laid succession plans designed to maximize investor confidence and future performance. Other times, apparently, companies pick CEOs based on a bunch of video calls while the current CEO is texting the former CEO about who the new CEO even is. Such was the story of The Blip, the [&#8230;]",
-    "published_at": "2026-05-08 09:31",
-    "tags": [
-      "AI",
-      "Elon Musk",
-      "OpenAI",
-      "Podcasts",
-      "Tech",
-      "Vergecast"
-    ],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Nanoleaf bets its future on robots, red light therapy, and AI",
-    "url": "https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness",
-    "source": "The Verge AI",
-    "summary": "Smart lighting company Nanoleaf has been unusually quiet recently. While competitors such as Govee and Philips Hue have been pumping out new products and innovative features at an impressive pace, Nanoleaf has launched just a handful of smart lighting products in the last two years. There's a reason for this lull - the company has [&#8230;]",
-    "published_at": "2026-05-08 08:15",
-    "tags": [
-      "AI",
-      "Matter",
-      "Smart Home",
-      "Tech"
-    ],
-    "fetch_date": "2026-05-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Why you can never get your doctor to call you back",
-    "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
-    "source": "TechCrunch AI",
-    "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried about drowning.",
-    "published_at": "2026-05-08 04:42",
-    "tags": [
-      "AI",
-      "Biotech & Health",
-      "TC",
-      "Aileen Lee",
-      "Basata",
-      "Basis Set Ventures",
-      "cowboy ventures",
-      "Sofeon",
-      "Victoria Treyger"
-    ],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Sley is live: the first native AI programming language",
-    "url": "https://github.com/GreyforgeLabs/sley",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/GreyforgeLabs/sley Comments URL: https://news.ycombinator.com/item?id=48058152 Points: 1 # Comments: 1",
-    "published_at": "2026-05-08 03:26",
-    "tags": [],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "早报"
   }
 ]
