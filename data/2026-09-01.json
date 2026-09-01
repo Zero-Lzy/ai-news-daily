@@ -160,6 +160,198 @@
           ]
         }
       ]
+    },
+    {
+      "label": "早报",
+      "time": "2026-09-01 12:15:08",
+      "count": 19,
+      "articles": [
+        {
+          "title": "Show HN: Seatlr – We rebuilt our traveler chat into an AI-powered travel network",
+          "url": "https://www.seatlr.com/",
+          "source": "Hacker News AI",
+          "summary": "Hey HN,I previously shared the initial version of Seatlr here. The idea was to provide a chat room for each destination, connecting travelers heading to the same city regardless of airline.Over the past few weeks, we have expanded Seatlr from destination-based chat rooms into a more comprehensive travel companion, adding an AI assistant and an alert service designed to make travel safer.Travelers enter their flight number, and Seatlr automatically connects them to their destination’s city room, ",
+          "published_at": "2026-09-01 03:46",
+          "tags": []
+        },
+        {
+          "title": "Running a personal AI agent on an old Android phone instead of a server",
+          "url": "https://medium.com/@fsaint/the-best-home-for-your-agent-is-in-your-junk-drawer-3afe0b0976e8",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://medium.com/@fsaint/the-best-home-for-your-agent-is-in-your-junk-drawer-3afe0b0976e8 Comments URL: https://news.ycombinator.com/item?id=49517567 Points: 2 # Comments: 0",
+          "published_at": "2026-09-01 03:12",
+          "tags": []
+        },
+        {
+          "title": "How My Students Think About AI",
+          "url": "https://www.lesswrong.com/posts/ySXuvJcqRindQwAk7/how-my-students-think-about-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.lesswrong.com/posts/ySXuvJcqRindQwAk7/how-my-students-think-about-ai Comments URL: https://news.ycombinator.com/item?id=49517343 Points: 5 # Comments: 0",
+          "published_at": "2026-09-01 02:35",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Deslop, a skill that turns legalese and AI slop into plain English",
+          "url": "https://github.com/fayerman-source/deslop/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/fayerman-source/deslop/ Comments URL: https://news.ycombinator.com/item?id=49517122 Points: 2 # Comments: 0",
+          "published_at": "2026-09-01 02:03",
+          "tags": []
+        },
+        {
+          "title": "OpenAI to Cut Off AI Models for SpaceX-Owned Cursor",
+          "url": "https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/ Comments URL: https://news.ycombinator.com/item?id=49516583 Points: 5 # Comments: 1",
+          "published_at": "2026-09-01 00:43",
+          "tags": []
+        },
+        {
+          "title": "Mu/TH/UR 6000 – An anonymous AI terminal styled as a 1979 mainframe",
+          "url": "https://mu7hur.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://mu7hur.com/ Comments URL: https://news.ycombinator.com/item?id=49516460 Points: 2 # Comments: 1",
+          "published_at": "2026-09-01 00:21",
+          "tags": []
+        },
+        {
+          "title": "AI and Employment: So Far, So Good",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-employment-what-the-firms-say.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-employment-what-the-firms-say.html Comments URL: https://news.ycombinator.com/item?id=49516267 Points: 4 # Comments: 0",
+          "published_at": "2026-08-31 23:54",
+          "tags": []
+        },
+        {
+          "title": "HashCortX – AI workspace app, Now works on pre-2013 CPU windows devices",
+          "url": "https://github.com/Hash-7777/HashCortX",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/Hash-7777/HashCortX Comments URL: https://news.ycombinator.com/item?id=49516181 Points: 2 # Comments: 0",
+          "published_at": "2026-08-31 23:43",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Saccade – Live semantic browser truth for AI agents",
+          "url": "https://github.com/nanlogic/saccade",
+          "source": "Hacker News AI",
+          "summary": "I build one this application is to resolve the most of the agent cannot handle the brother they extremely slow. So I come up with this idea, we install one of the extntion on chrome or edge to give continuously compile the tabs authorized by the user into semantically meaningful objects with stable identities, and push page changes as deltas to the local Node.js Broker. The Agent reads the full truth or delta of the specified tab via MCP and executes actions using object IDs bound to document. T",
+          "published_at": "2026-08-31 23:35",
+          "tags": []
+        },
+        {
+          "title": "Rogue AI attacks deserve more scrutiny than airplane crashes",
+          "url": "https://blog.peterwildeford.com/p/rogue-ai-attacks-deserve-more-scrutiny",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blog.peterwildeford.com/p/rogue-ai-attacks-deserve-more-scrutiny Comments URL: https://news.ycombinator.com/item?id=49516077 Points: 4 # Comments: 0",
+          "published_at": "2026-08-31 23:28",
+          "tags": []
+        },
+        {
+          "title": "AI giants lean into health care to stall public backlash",
+          "url": "https://www.axios.com/2026/08/31/ai-health-care-cures-disease-anthropic-open-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.axios.com/2026/08/31/ai-health-care-cures-disease-anthropic-open-ai Comments URL: https://news.ycombinator.com/item?id=49516052 Points: 3 # Comments: 0",
+          "published_at": "2026-08-31 23:25",
+          "tags": []
+        },
+        {
+          "title": "1,664 cases where the AI went out of control",
+          "url": "https://www.theguardian.com/technology/2026/aug/29/sharp-rise-in-incidents-of-ai-escaping-users-control-research-finds",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/29/sharp-rise-in-incidents-of-ai-escaping-users-control-research-finds Comments URL: https://news.ycombinator.com/item?id=49515440 Points: 5 # Comments: 1",
+          "published_at": "2026-08-31 22:07",
+          "tags": []
+        },
+        {
+          "title": "AI Job Scout and Rate Matcher",
+          "url": "https://github.com/Deviad/job-hunter",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/Deviad/job-hunter Comments URL: https://news.ycombinator.com/item?id=49515381 Points: 1 # Comments: 0",
+          "published_at": "2026-08-31 22:02",
+          "tags": []
+        },
+        {
+          "title": "Tell HN: On AI, Quality, and Accountability",
+          "url": "https://news.ycombinator.com/item?id=49515051",
+          "source": "Hacker News AI",
+          "summary": "Suppose I do something myself. I reap all the benefits, but it takes a lot of time, I may not have the expertise to do a good job, and I get all the blame if something goes wrong.Suppose I go to the park and find one of several guys who would do it for free. I get all the of benefits, he might do an excellent job, but, because there's no contract, I still take all the blame.Suppose I actually hire a professional to do it. I receive fewer of the benefits. However, he's much more likely to do a go",
+          "published_at": "2026-08-31 21:30",
+          "tags": []
+        },
+        {
+          "title": "The Pentagon now has its own version of ChatGPT and Grok",
+          "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+          "source": "TechCrunch AI",
+          "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+          "published_at": "2026-08-31 20:13",
+          "tags": [
+            "AI",
+            "ChatGPT",
+            "Grok"
+          ]
+        },
+        {
+          "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+          "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+          "source": "TechCrunch AI",
+          "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
+          "published_at": "2026-08-31 18:35",
+          "tags": [
+            "AI",
+            "Government & Policy",
+            "Startups",
+            "Las Olas Venture Capital",
+            "police",
+            "signalfire"
+          ]
+        },
+        {
+          "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+          "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+          "source": "TechCrunch AI",
+          "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
+          "published_at": "2026-08-31 16:00",
+          "tags": [
+            "AI",
+            "Startups",
+            "ai agent",
+            "Generative AI"
+          ]
+        },
+        {
+          "title": "ChatGPT to face tougher regulation in the EU",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+          "source": "The Verge AI",
+          "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is now considered a Very Large Online Search Engine under the EU's Digital Services Act, a set of laws regulating major online services and [&#8230;]",
+          "published_at": "2026-08-31 09:27",
+          "tags": [
+            "AI",
+            "Apps",
+            "News",
+            "OpenAI",
+            "Policy",
+            "Politics",
+            "Reddit",
+            "Regulation",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Instagram cracks down on AI accounts pretending to be human",
+          "url": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+          "source": "The Verge AI",
+          "summary": "Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It's also renaming the \"AI creator\" label to \"AI-generated profile\" to make it clear when a profile features an AI-generated person that's not a real human being. \"We've heard that people don't like seeing a profile [&#8230;]",
+          "published_at": "2026-08-31 09:00",
+          "tags": [
+            "AI",
+            "Instagram",
+            "Meta",
+            "News",
+            "Social Media",
+            "Tech"
+          ]
+        }
+      ]
     }
   ]
 }

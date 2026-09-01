@@ -1,5 +1,149 @@
 [
   {
+    "title": "Show HN: Seatlr – We rebuilt our traveler chat into an AI-powered travel network",
+    "url": "https://www.seatlr.com/",
+    "source": "Hacker News AI",
+    "summary": "Hey HN,I previously shared the initial version of Seatlr here. The idea was to provide a chat room for each destination, connecting travelers heading to the same city regardless of airline.Over the past few weeks, we have expanded Seatlr from destination-based chat rooms into a more comprehensive travel companion, adding an AI assistant and an alert service designed to make travel safer.Travelers enter their flight number, and Seatlr automatically connects them to their destination’s city room, ",
+    "published_at": "2026-09-01 03:46",
+    "tags": [],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Running a personal AI agent on an old Android phone instead of a server",
+    "url": "https://medium.com/@fsaint/the-best-home-for-your-agent-is-in-your-junk-drawer-3afe0b0976e8",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://medium.com/@fsaint/the-best-home-for-your-agent-is-in-your-junk-drawer-3afe0b0976e8 Comments URL: https://news.ycombinator.com/item?id=49517567 Points: 2 # Comments: 0",
+    "published_at": "2026-09-01 03:12",
+    "tags": [],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "How My Students Think About AI",
+    "url": "https://www.lesswrong.com/posts/ySXuvJcqRindQwAk7/how-my-students-think-about-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.lesswrong.com/posts/ySXuvJcqRindQwAk7/how-my-students-think-about-ai Comments URL: https://news.ycombinator.com/item?id=49517343 Points: 5 # Comments: 0",
+    "published_at": "2026-09-01 02:35",
+    "tags": [],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Deslop, a skill that turns legalese and AI slop into plain English",
+    "url": "https://github.com/fayerman-source/deslop/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/fayerman-source/deslop/ Comments URL: https://news.ycombinator.com/item?id=49517122 Points: 2 # Comments: 0",
+    "published_at": "2026-09-01 02:03",
+    "tags": [],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Mu/TH/UR 6000 – An anonymous AI terminal styled as a 1979 mainframe",
+    "url": "https://mu7hur.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://mu7hur.com/ Comments URL: https://news.ycombinator.com/item?id=49516460 Points: 2 # Comments: 1",
+    "published_at": "2026-09-01 00:21",
+    "tags": [],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI and Employment: So Far, So Good",
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-employment-what-the-firms-say.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-employment-what-the-firms-say.html Comments URL: https://news.ycombinator.com/item?id=49516267 Points: 4 # Comments: 0",
+    "published_at": "2026-08-31 23:54",
+    "tags": [],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "HashCortX – AI workspace app, Now works on pre-2013 CPU windows devices",
+    "url": "https://github.com/Hash-7777/HashCortX",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/Hash-7777/HashCortX Comments URL: https://news.ycombinator.com/item?id=49516181 Points: 2 # Comments: 0",
+    "published_at": "2026-08-31 23:43",
+    "tags": [],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Saccade – Live semantic browser truth for AI agents",
+    "url": "https://github.com/nanlogic/saccade",
+    "source": "Hacker News AI",
+    "summary": "I build one this application is to resolve the most of the agent cannot handle the brother they extremely slow. So I come up with this idea, we install one of the extntion on chrome or edge to give continuously compile the tabs authorized by the user into semantically meaningful objects with stable identities, and push page changes as deltas to the local Node.js Broker. The Agent reads the full truth or delta of the specified tab via MCP and executes actions using object IDs bound to document. T",
+    "published_at": "2026-08-31 23:35",
+    "tags": [],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Rogue AI attacks deserve more scrutiny than airplane crashes",
+    "url": "https://blog.peterwildeford.com/p/rogue-ai-attacks-deserve-more-scrutiny",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.peterwildeford.com/p/rogue-ai-attacks-deserve-more-scrutiny Comments URL: https://news.ycombinator.com/item?id=49516077 Points: 4 # Comments: 0",
+    "published_at": "2026-08-31 23:28",
+    "tags": [],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI giants lean into health care to stall public backlash",
+    "url": "https://www.axios.com/2026/08/31/ai-health-care-cures-disease-anthropic-open-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.axios.com/2026/08/31/ai-health-care-cures-disease-anthropic-open-ai Comments URL: https://news.ycombinator.com/item?id=49516052 Points: 3 # Comments: 0",
+    "published_at": "2026-08-31 23:25",
+    "tags": [],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "1,664 cases where the AI went out of control",
+    "url": "https://www.theguardian.com/technology/2026/aug/29/sharp-rise-in-incidents-of-ai-escaping-users-control-research-finds",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/29/sharp-rise-in-incidents-of-ai-escaping-users-control-research-finds Comments URL: https://news.ycombinator.com/item?id=49515440 Points: 5 # Comments: 1",
+    "published_at": "2026-08-31 22:07",
+    "tags": [],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Job Scout and Rate Matcher",
+    "url": "https://github.com/Deviad/job-hunter",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/Deviad/job-hunter Comments URL: https://news.ycombinator.com/item?id=49515381 Points: 1 # Comments: 0",
+    "published_at": "2026-08-31 22:02",
+    "tags": [],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Tell HN: On AI, Quality, and Accountability",
+    "url": "https://news.ycombinator.com/item?id=49515051",
+    "source": "Hacker News AI",
+    "summary": "Suppose I do something myself. I reap all the benefits, but it takes a lot of time, I may not have the expertise to do a good job, and I get all the blame if something goes wrong.Suppose I go to the park and find one of several guys who would do it for free. I get all the of benefits, he might do an excellent job, but, because there's no contract, I still take all the blame.Suppose I actually hire a professional to do it. I receive fewer of the benefits. However, he's much more likely to do a go",
+    "published_at": "2026-08-31 21:30",
+    "tags": [],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The Pentagon now has its own version of ChatGPT and Grok",
+    "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+    "source": "TechCrunch AI",
+    "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+    "published_at": "2026-08-31 20:13",
+    "tags": [
+      "AI",
+      "ChatGPT",
+      "Grok"
+    ],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "早报"
+  },
+  {
     "title": "SlopTV: A livestream of AI slop generated from comments, Minimax H3 on 2x5090",
     "url": "https://www.youtube.com/watch?v=EQ2RexjIEFE",
     "source": "Hacker News AI",
@@ -157,6 +301,21 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+    "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+    "source": "TechCrunch AI",
+    "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
+    "published_at": "2026-08-31 16:00",
+    "tags": [
+      "AI",
+      "Startups",
+      "ai agent",
+      "Generative AI"
+    ],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Debian won&#8217;t ban AI code from its Linux distribution",
     "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
     "source": "The Verge AI",
@@ -170,6 +329,43 @@
     ],
     "fetch_date": "2026-09-01",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "ChatGPT to face tougher regulation in the EU",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+    "source": "The Verge AI",
+    "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is now considered a Very Large Online Search Engine under the EU's Digital Services Act, a set of laws regulating major online services and [&#8230;]",
+    "published_at": "2026-08-31 09:27",
+    "tags": [
+      "AI",
+      "Apps",
+      "News",
+      "OpenAI",
+      "Policy",
+      "Politics",
+      "Reddit",
+      "Regulation",
+      "Tech"
+    ],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Instagram cracks down on AI accounts pretending to be human",
+    "url": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+    "source": "The Verge AI",
+    "summary": "Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It's also renaming the \"AI creator\" label to \"AI-generated profile\" to make it clear when a profile features an AI-generated person that's not a real human being. \"We've heard that people don't like seeing a profile [&#8230;]",
+    "published_at": "2026-08-31 09:00",
+    "tags": [
+      "AI",
+      "Instagram",
+      "Meta",
+      "News",
+      "Social Media",
+      "Tech"
+    ],
+    "fetch_date": "2026-09-01",
+    "fetch_label": "早报"
   },
   {
     "title": "Ask HN: How do you feel about AI generated documentation?",
@@ -34799,201 +34995,5 @@
     "tags": [],
     "fetch_date": "2026-05-09",
     "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Nexa-gauge – Cache/cost-aware graph-based eval for LLM and RAG",
-    "url": "https://github.com/harnexa/nexa-gauge",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/harnexa/nexa-gauge Comments URL: https://news.ycombinator.com/item?id=48070603 Points: 3 # Comments: 0",
-    "published_at": "2026-05-09 00:45",
-    "tags": [],
-    "fetch_date": "2026-05-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "People Hate AI Art",
-    "url": "https://mccue.dev/pages/5-8-26-ai-art",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://mccue.dev/pages/5-8-26-ai-art Comments URL: https://news.ycombinator.com/item?id=48070548 Points: 97 # Comments: 94",
-    "published_at": "2026-05-09 00:39",
-    "tags": [],
-    "fetch_date": "2026-05-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Accelerator Applicant's AI System Makes Faux Pau; Critical of Accelerator Model",
-    "url": "https://news.novonavis.com/news/intel_080526_2297",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://news.novonavis.com/news/intel_080526_2297 Comments URL: https://news.ycombinator.com/item?id=48070540 Points: 1 # Comments: 1",
-    "published_at": "2026-05-09 00:38",
-    "tags": [],
-    "fetch_date": "2026-05-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Canasta Scoring App",
-    "url": "https://canastascore.com/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://canastascore.com/ Comments URL: https://news.ycombinator.com/item?id=48070497 Points: 1 # Comments: 0",
-    "published_at": "2026-05-09 00:33",
-    "tags": [],
-    "fetch_date": "2026-05-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Playing Around with OpenAI's GPT Realtime Voice API",
-    "url": "https://nathancooper.io/blog/2026-05-08-gpt-realtime-audio",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://nathancooper.io/blog/2026-05-08-gpt-realtime-audio Comments URL: https://news.ycombinator.com/item?id=48070481 Points: 2 # Comments: 0",
-    "published_at": "2026-05-09 00:29",
-    "tags": [],
-    "fetch_date": "2026-05-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: AI-native tech assessments (end of LeetCode)",
-    "url": "https://www.openround.ai/",
-    "source": "Hacker News AI",
-    "summary": "Hi HN!We built openround.ai - an assessment platform to hire AI native engineers. On OpenRound, engineers build a project or solve a problem using AI. This replaces a usual coding round/take home assessment.I believe coding assessments measure who is good at passing interviews, not who is actually a good engineer.We want to flip that by showing how engineers actually work on a real problem.2 interesting things we solve -1. Designing assessments and environments that are not one shotted by AI.2. ",
-    "published_at": "2026-05-09 00:28",
-    "tags": [],
-    "fetch_date": "2026-05-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Ask HN: What are the most joyful AI projects you've seen?",
-    "url": "https://news.ycombinator.com/item?id=48070363",
-    "source": "Hacker News AI",
-    "summary": "A lot of AI work I see is about automation, agents, productivity. Useful, but not exactly joyful.What AI projects have you built, used, or seen that felt genuinely fun, playful, weird, beautiful, or surprising? Comments URL: https://news.ycombinator.com/item?id=48070363 Points: 3 # Comments: 2",
-    "published_at": "2026-05-09 00:14",
-    "tags": [],
-    "fetch_date": "2026-05-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "DeepSeek Seeks Funding at $45B Valuation as China Backs Homegrown AI Rival",
-    "url": "https://theaiinsider.tech/2026/05/08/deepseek-seeks-first-outside-funding-at-45b-valuation-as-china-backs-homegrown-ai-rival/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://theaiinsider.tech/2026/05/08/deepseek-seeks-first-outside-funding-at-45b-valuation-as-china-backs-homegrown-ai-rival/ Comments URL: https://news.ycombinator.com/item?id=48069927 Points: 3 # Comments: 1",
-    "published_at": "2026-05-08 23:14",
-    "tags": [],
-    "fetch_date": "2026-05-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
-    "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
-    "source": "TechCrunch AI",
-    "summary": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
-    "published_at": "2026-05-08 22:59",
-    "tags": [
-      "AI",
-      "Enterprise",
-      "TC",
-      "Exclusive",
-      "Layoffs",
-      "oracle",
-      "severence"
-    ],
-    "fetch_date": "2026-05-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Contral – the agent which will teach you while you build with AI",
-    "url": "https://contral.ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://contral.ai Comments URL: https://news.ycombinator.com/item?id=48069590 Points: 2 # Comments: 1",
-    "published_at": "2026-05-08 22:34",
-    "tags": [],
-    "fetch_date": "2026-05-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI makes weak engineers less harmful",
-    "url": "https://www.seangoedecke.com/ai-makes-weak-engineers-less-harmful/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.seangoedecke.com/ai-makes-weak-engineers-less-harmful/ Comments URL: https://news.ycombinator.com/item?id=48069496 Points: 3 # Comments: 0",
-    "published_at": "2026-05-08 22:24",
-    "tags": [],
-    "fetch_date": "2026-05-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "How Do You Know If a Skill Is Any Good? LLM-as-Judge Scoring",
-    "url": "http://instructionmanuel.com/scoring-skills-with-llm-as-judge",
-    "source": "Hacker News AI",
-    "summary": "Article URL: http://instructionmanuel.com/scoring-skills-with-llm-as-judge Comments URL: https://news.ycombinator.com/item?id=48069403 Points: 2 # Comments: 0",
-    "published_at": "2026-05-08 22:11",
-    "tags": [],
-    "fetch_date": "2026-05-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
-    "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
-    "source": "TechCrunch AI",
-    "summary": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
-    "published_at": "2026-05-08 18:33",
-    "tags": [
-      "AI",
-      "Enterprise",
-      "TC",
-      "cloudflare",
-      "Layoffs"
-    ],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The “people’s airline” and the enterprise AI gold rush",
-    "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
-    "source": "TechCrunch AI",
-    "summary": "Everyone wants a piece of the&#160;enterprise&#160;AI pie, and this week, we saw a string of companies making their moves. From&#160;Anthropic and OpenAI announcing new joint ventures&#160;targeting enterprise AI deployment to&#160;SAP dropping $1B&#160;on German AI startup Prior Labs,&#160;it&#8217;s&#160;becoming clear that if&#160;you&#8217;re&#160;a startup building enterprise tools,&#160;you&#8217;re&#160;likely an&#160;acquisition target.&#160; On this episode of TechCrunch&#8217;s&#160;Eq",
-    "published_at": "2026-05-08 15:46",
-    "tags": [
-      "AI",
-      "Startups",
-      "Anthropic",
-      "crypto",
-      "Enterprise AI",
-      "Equity podcast",
-      "OpenAI",
-      "prior labs",
-      "Roundup",
-      "sap",
-      "xAI"
-    ],
-    "fetch_date": "2026-05-09",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "New 40k Acre NSA AI Datacenter: Stratos Project Fact Sheet",
-    "url": "https://www.boxeldercountyut.gov/647/Stratos-Project-Fact-Sheet",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.boxeldercountyut.gov/647/Stratos-Project-Fact-Sheet Comments URL: https://news.ycombinator.com/item?id=48063120 Points: 1 # Comments: 1",
-    "published_at": "2026-05-08 13:49",
-    "tags": [],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Huawei braces for $12B in AI chip revenue-Chinese fabs can barely keep up",
-    "url": "https://www.tomshardware.com/tech-industry/huawei-expects-12-billion-in-ai-chip-revenue-this-year-as-nvidias-china-market-share-hits-zero",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.tomshardware.com/tech-industry/huawei-expects-12-billion-in-ai-chip-revenue-this-year-as-nvidias-china-market-share-hits-zero Comments URL: https://news.ycombinator.com/item?id=48063091 Points: 2 # Comments: 1",
-    "published_at": "2026-05-08 13:47",
-    "tags": [],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Yes, I set up Karpathy's LLM wiki. Now what?",
-    "url": "https://twitter.com/keane42443/status/2052426761477255448",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://twitter.com/keane42443/status/2052426761477255448 Comments URL: https://news.ycombinator.com/item?id=48063085 Points: 1 # Comments: 0",
-    "published_at": "2026-05-08 13:46",
-    "tags": [],
-    "fetch_date": "2026-05-08",
-    "fetch_label": "晚报"
   }
 ]
