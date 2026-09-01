@@ -1,5 +1,71 @@
 [
   {
+    "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+    "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+    "source": "TechCrunch AI",
+    "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behaviour.",
+    "published_at": "2026-09-01 15:45",
+    "tags": [
+      "AI",
+      "Security",
+      "AI agents",
+      "ai security",
+      "Greenoaks Capital",
+      "Sequoia Capital"
+    ],
+    "fetch_date": "2026-09-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Fambot introduces an ‘AI chief of staff’ for families",
+    "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+    "source": "TechCrunch AI",
+    "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+    "published_at": "2026-09-01 15:10",
+    "tags": [
+      "AI",
+      "Apps",
+      "Startups",
+      "AI agents",
+      "families",
+      "scheduling"
+    ],
+    "fetch_date": "2026-09-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Google Pics is like Canva, but with even more AI",
+    "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+    "source": "The Verge AI",
+    "summary": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built around Gemini and the Nano Banana generative AI model, Google Pics is designed to give more granular control over prompt-based image making and manipulation, allowing [&#8230;]",
+    "published_at": "2026-09-01 12:00",
+    "tags": [
+      "AI",
+      "Google",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-09-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Nvidia&#8217;s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+    "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+    "source": "The Verge AI",
+    "summary": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video games, but worse.\" DLSS 5 will officially be available on RTX 50-series desktop and laptop GPUs and through GeForce Now [&#8230;]",
+    "published_at": "2026-09-01 09:00",
+    "tags": [
+      "AI",
+      "Gaming",
+      "News",
+      "Nvidia",
+      "PC Gaming",
+      "Tech"
+    ],
+    "fetch_date": "2026-09-02",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Show HN: Seatlr – We rebuilt our traveler chat into an AI-powered travel network",
     "url": "https://www.seatlr.com/",
     "source": "Hacker News AI",
@@ -142,6 +208,23 @@
     ],
     "fetch_date": "2026-09-01",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Instagram puts new limits on undisclosed AI profiles",
+    "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+    "source": "TechCrunch AI",
+    "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+    "published_at": "2026-08-31 19:16",
+    "tags": [
+      "AI",
+      "Apps",
+      "Media & Entertainment",
+      "Social",
+      "Instagram",
+      "Meta"
+    ],
+    "fetch_date": "2026-09-02",
+    "fetch_label": "晚报"
   },
   {
     "title": "SlopTV: A livestream of AI slop generated from comments, Minimax H3 on 2x5090",
@@ -34944,56 +35027,6 @@
       "OpenAI"
     ],
     "fetch_date": "2026-05-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Meltdown: LLM Client Made in Python and Tk",
-    "url": "https://github.com/Merkoba/Meltdown",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/Merkoba/Meltdown Comments URL: https://news.ycombinator.com/item?id=48071307 Points: 2 # Comments: 0",
-    "published_at": "2026-05-09 02:48",
-    "tags": [],
-    "fetch_date": "2026-05-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Ask Hacker News: AI music with feedback",
-    "url": "https://news.ycombinator.com/item?id=48070959",
-    "source": "Hacker News AI",
-    "summary": "Can someone make streaming music that changes based on input from the phone, or does this already exist and what app? Comments URL: https://news.ycombinator.com/item?id=48070959 Points: 1 # Comments: 0",
-    "published_at": "2026-05-09 01:50",
-    "tags": [],
-    "fetch_date": "2026-05-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "How to Work and Compound with AI",
-    "url": "https://eugeneyan.com/writing/working-with-ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://eugeneyan.com/writing/working-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48070873 Points: 1 # Comments: 0",
-    "published_at": "2026-05-09 01:30",
-    "tags": [],
-    "fetch_date": "2026-05-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI's Circular Psychosis",
-    "url": "https://www.wheresyoured.at/premium-ais-circular-psychosis/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.wheresyoured.at/premium-ais-circular-psychosis/ Comments URL: https://news.ycombinator.com/item?id=48070826 Points: 7 # Comments: 6",
-    "published_at": "2026-05-09 01:22",
-    "tags": [],
-    "fetch_date": "2026-05-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Hard Drive Shortage Making It More Expensive, Harder to Archive the Internet",
-    "url": "https://www.404media.co/the-ai-hard-drive-shortage-is-making-it-more-expensive-and-harder-to-archive-the-internet/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.404media.co/the-ai-hard-drive-shortage-is-making-it-more-expensive-and-harder-to-archive-the-internet/ Comments URL: https://news.ycombinator.com/item?id=48070817 Points: 2 # Comments: 1",
-    "published_at": "2026-05-09 01:22",
-    "tags": [],
-    "fetch_date": "2026-05-09",
     "fetch_label": "早报"
   }
 ]

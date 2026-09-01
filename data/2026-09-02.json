@@ -1,0 +1,156 @@
+{
+  "date": "2026-09-02",
+  "runs": [
+    {
+      "label": "晚报",
+      "time": "2026-09-02 00:10:31",
+      "count": 10,
+      "articles": [
+        {
+          "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+          "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+          "source": "TechCrunch AI",
+          "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behaviour.",
+          "published_at": "2026-09-01 15:45",
+          "tags": [
+            "AI",
+            "Security",
+            "AI agents",
+            "ai security",
+            "Greenoaks Capital",
+            "Sequoia Capital"
+          ]
+        },
+        {
+          "title": "Fambot introduces an ‘AI chief of staff’ for families",
+          "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+          "source": "TechCrunch AI",
+          "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+          "published_at": "2026-09-01 15:10",
+          "tags": [
+            "AI",
+            "Apps",
+            "Startups",
+            "AI agents",
+            "families",
+            "scheduling"
+          ]
+        },
+        {
+          "title": "Google Pics is like Canva, but with even more AI",
+          "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+          "source": "The Verge AI",
+          "summary": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built around Gemini and the Nano Banana generative AI model, Google Pics is designed to give more granular control over prompt-based image making and manipulation, allowing [&#8230;]",
+          "published_at": "2026-09-01 12:00",
+          "tags": [
+            "AI",
+            "Google",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Nvidia&#8217;s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+          "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+          "source": "The Verge AI",
+          "summary": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video games, but worse.\" DLSS 5 will officially be available on RTX 50-series desktop and laptop GPUs and through GeForce Now [&#8230;]",
+          "published_at": "2026-09-01 09:00",
+          "tags": [
+            "AI",
+            "Gaming",
+            "News",
+            "Nvidia",
+            "PC Gaming",
+            "Tech"
+          ]
+        },
+        {
+          "title": "The Pentagon now has its own version of ChatGPT and Grok",
+          "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+          "source": "TechCrunch AI",
+          "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+          "published_at": "2026-08-31 20:13",
+          "tags": [
+            "AI",
+            "ChatGPT",
+            "Grok"
+          ]
+        },
+        {
+          "title": "Instagram puts new limits on undisclosed AI profiles",
+          "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+          "source": "TechCrunch AI",
+          "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+          "published_at": "2026-08-31 19:16",
+          "tags": [
+            "AI",
+            "Apps",
+            "Media & Entertainment",
+            "Social",
+            "Instagram",
+            "Meta"
+          ]
+        },
+        {
+          "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+          "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+          "source": "TechCrunch AI",
+          "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
+          "published_at": "2026-08-31 18:35",
+          "tags": [
+            "AI",
+            "Government & Policy",
+            "Startups",
+            "Las Olas Venture Capital",
+            "police",
+            "signalfire"
+          ]
+        },
+        {
+          "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+          "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+          "source": "TechCrunch AI",
+          "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
+          "published_at": "2026-08-31 16:00",
+          "tags": [
+            "AI",
+            "Startups",
+            "ai agent",
+            "Generative AI"
+          ]
+        },
+        {
+          "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+          "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+          "source": "The Verge AI",
+          "summary": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible\" use of AI can improve developers' productivity, and goes on to say, \"generative AI is neither exempt from nor subject to special rules beyond the standards already [&#8230;]",
+          "published_at": "2026-08-31 11:34",
+          "tags": [
+            "AI",
+            "Linux",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "ChatGPT to face tougher regulation in the EU",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+          "source": "The Verge AI",
+          "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is now considered a Very Large Online Search Engine under the EU's Digital Services Act, a set of laws regulating major online services and [&#8230;]",
+          "published_at": "2026-08-31 09:27",
+          "tags": [
+            "AI",
+            "Apps",
+            "News",
+            "OpenAI",
+            "Policy",
+            "Politics",
+            "Reddit",
+            "Regulation",
+            "Tech"
+          ]
+        }
+      ]
+    }
+  ]
+}
