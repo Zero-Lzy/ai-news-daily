@@ -1,0 +1,229 @@
+{
+  "date": "2026-09-03",
+  "runs": [
+    {
+      "label": "晚报",
+      "time": "2026-09-03 00:06:01",
+      "count": 21,
+      "articles": [
+        {
+          "title": "AI Doomers Are Buying Potemkin Articles",
+          "url": "https://twitter.com/brianchau57/status/2095128785955987698",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://twitter.com/brianchau57/status/2095128785955987698 Comments URL: https://news.ycombinator.com/item?id=49538173 Points: 1 # Comments: 0",
+          "published_at": "2026-09-02 15:54",
+          "tags": []
+        },
+        {
+          "title": "AI Killed My Blog Traffic",
+          "url": "https://clintmcmahon.com/blog/ai-killed-my-blog-traffic",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://clintmcmahon.com/blog/ai-killed-my-blog-traffic Comments URL: https://news.ycombinator.com/item?id=49538145 Points: 1 # Comments: 0",
+          "published_at": "2026-09-02 15:52",
+          "tags": []
+        },
+        {
+          "title": "End AI agent lock-in. Start conversation with one agent – continue with another",
+          "url": "https://github.com/Aplexica/Aplexica",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/Aplexica/Aplexica Comments URL: https://news.ycombinator.com/item?id=49537958 Points: 1 # Comments: 0",
+          "published_at": "2026-09-02 15:40",
+          "tags": []
+        },
+        {
+          "title": "AI Policy",
+          "url": "https://dbushell.com/ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://dbushell.com/ai/ Comments URL: https://news.ycombinator.com/item?id=49537900 Points: 2 # Comments: 0",
+          "published_at": "2026-09-02 15:36",
+          "tags": []
+        },
+        {
+          "title": "Ultra Fast LLM's Are Interesting (Mercury 2.5 Preview Release)",
+          "url": "https://openrouter.ai/inception/mercury-2.5-preview",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://openrouter.ai/inception/mercury-2.5-preview Comments URL: https://news.ycombinator.com/item?id=49537813 Points: 1 # Comments: 1",
+          "published_at": "2026-09-02 15:31",
+          "tags": []
+        },
+        {
+          "title": "Why Adding More AI Agents Makes Your Team Slower",
+          "url": "https://blog.mempko.com/misconception-about-agentic-scaling/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blog.mempko.com/misconception-about-agentic-scaling/ Comments URL: https://news.ycombinator.com/item?id=49537759 Points: 1 # Comments: 0",
+          "published_at": "2026-09-02 15:27",
+          "tags": []
+        },
+        {
+          "title": "Researchers trick Fortune-500 AI agents into running arbitrary code via llms.txt",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-easily-trick-fortune-500-companies-ai-agents-into-running-arbitrary-code-supply-chain-attack-via-llms-txt-guidance-file-illustrates-how-data-has-become-code",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-easily-trick-fortune-500-companies-ai-agents-into-running-arbitrary-code-supply-chain-attack-via-llms-txt-guidance-file-illustrates-how-data-has-become-code Comments URL: https://news.ycombinator.com/item?id=49537462 Points: 1 # Comments: 0",
+          "published_at": "2026-09-02 15:07",
+          "tags": []
+        },
+        {
+          "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+          "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+          "source": "TechCrunch AI",
+          "summary": "HiddenLayer has raised a $100M Series B from Delta-v Capital, Ten Eleven Ventures, Morgan Stanley, Microsoft's M12, Booz Allen Hamilton, and others.",
+          "published_at": "2026-09-02 15:01",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Security",
+            "Delta-v Capital",
+            "HiddenLayer",
+            "M12",
+            "Ten Eleven Ventures"
+          ]
+        },
+        {
+          "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+          "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
+          "published_at": "2026-09-02 14:56",
+          "tags": [
+            "AI",
+            "Commerce",
+            "Amazon",
+            "e-commerce"
+          ]
+        },
+        {
+          "title": "AI-assisted writing, AI slop, and the line between them",
+          "url": "https://amatria.in/blog/aislop",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://amatria.in/blog/aislop Comments URL: https://news.ycombinator.com/item?id=49537259 Points: 2 # Comments: 0",
+          "published_at": "2026-09-02 14:54",
+          "tags": []
+        },
+        {
+          "title": "Europe Doesn't Have an AI Problem. It Has a Trust Problem",
+          "url": "https://medium.com/@MirArshadTalpur/europe-doesnt-have-an-ai-problem-it-has-a-trust-problem-c0ee81ad7bef",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://medium.com/@MirArshadTalpur/europe-doesnt-have-an-ai-problem-it-has-a-trust-problem-c0ee81ad7bef Comments URL: https://news.ycombinator.com/item?id=49537256 Points: 2 # Comments: 0",
+          "published_at": "2026-09-02 14:54",
+          "tags": []
+        },
+        {
+          "title": "Dead internet theater – turning malicious AI crawlers into a poetic experiment",
+          "url": "https://deadinternet.theater",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://deadinternet.theater Comments URL: https://news.ycombinator.com/item?id=49537223 Points: 2 # Comments: 1",
+          "published_at": "2026-09-02 14:52",
+          "tags": []
+        },
+        {
+          "title": "Fine-tuning your LLM might be making it dumber",
+          "url": "https://github.com/aryanyaksh-art/did-it-even-learn",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/aryanyaksh-art/did-it-even-learn Comments URL: https://news.ycombinator.com/item?id=49537178 Points: 1 # Comments: 1",
+          "published_at": "2026-09-02 14:49",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Otaku.sh – AI Roleplay Client",
+          "url": "https://otaku.sh",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://otaku.sh Comments URL: https://news.ycombinator.com/item?id=49536921 Points: 1 # Comments: 0",
+          "published_at": "2026-09-02 14:34",
+          "tags": []
+        },
+        {
+          "title": "Are We Thinking Correctly About AI Intelligence?",
+          "url": "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/ Comments URL: https://news.ycombinator.com/item?id=49536710 Points: 1 # Comments: 0",
+          "published_at": "2026-09-02 14:22",
+          "tags": []
+        },
+        {
+          "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+          "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+          "source": "TechCrunch AI",
+          "summary": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
+          "published_at": "2026-09-02 12:09",
+          "tags": [
+            "AI",
+            "Chris Lehane",
+            "lawsuits",
+            "mass shooting",
+            "OpenAI",
+            "tumbler ridge"
+          ]
+        },
+        {
+          "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+          "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+          "source": "TechCrunch AI",
+          "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+          "published_at": "2026-09-01 22:08",
+          "tags": [
+            "AI",
+            "Venture",
+            "In Brief",
+            "Y Combinator"
+          ]
+        },
+        {
+          "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+          "source": "The Verge AI",
+          "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less for complex agentic tasks, thanks to reduced pricing [&#8230;]",
+          "published_at": "2026-09-01 18:01",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "News"
+          ]
+        },
+        {
+          "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+          "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+          "source": "TechCrunch AI",
+          "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
+          "published_at": "2026-09-01 15:45",
+          "tags": [
+            "AI",
+            "Security",
+            "Startups",
+            "AI agents",
+            "ai security",
+            "Greenoaks Capital",
+            "Sequoia Capital"
+          ]
+        },
+        {
+          "title": "Fambot introduces an ‘AI chief of staff’ for families",
+          "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+          "source": "TechCrunch AI",
+          "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+          "published_at": "2026-09-01 15:10",
+          "tags": [
+            "AI",
+            "Apps",
+            "Startups",
+            "AI agents",
+            "families",
+            "scheduling"
+          ]
+        },
+        {
+          "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+          "source": "The Verge AI",
+          "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a massive cybersecurity incident from a company to [&#8230;]",
+          "published_at": "2026-09-01 15:02",
+          "tags": [
+            "AI",
+            "OpenAI",
+            "Security",
+            "Tech"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,5 +1,185 @@
 [
   {
+    "title": "AI Doomers Are Buying Potemkin Articles",
+    "url": "https://twitter.com/brianchau57/status/2095128785955987698",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/brianchau57/status/2095128785955987698 Comments URL: https://news.ycombinator.com/item?id=49538173 Points: 1 # Comments: 0",
+    "published_at": "2026-09-02 15:54",
+    "tags": [],
+    "fetch_date": "2026-09-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Killed My Blog Traffic",
+    "url": "https://clintmcmahon.com/blog/ai-killed-my-blog-traffic",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://clintmcmahon.com/blog/ai-killed-my-blog-traffic Comments URL: https://news.ycombinator.com/item?id=49538145 Points: 1 # Comments: 0",
+    "published_at": "2026-09-02 15:52",
+    "tags": [],
+    "fetch_date": "2026-09-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "End AI agent lock-in. Start conversation with one agent – continue with another",
+    "url": "https://github.com/Aplexica/Aplexica",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/Aplexica/Aplexica Comments URL: https://news.ycombinator.com/item?id=49537958 Points: 1 # Comments: 0",
+    "published_at": "2026-09-02 15:40",
+    "tags": [],
+    "fetch_date": "2026-09-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Policy",
+    "url": "https://dbushell.com/ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://dbushell.com/ai/ Comments URL: https://news.ycombinator.com/item?id=49537900 Points: 2 # Comments: 0",
+    "published_at": "2026-09-02 15:36",
+    "tags": [],
+    "fetch_date": "2026-09-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ultra Fast LLM's Are Interesting (Mercury 2.5 Preview Release)",
+    "url": "https://openrouter.ai/inception/mercury-2.5-preview",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://openrouter.ai/inception/mercury-2.5-preview Comments URL: https://news.ycombinator.com/item?id=49537813 Points: 1 # Comments: 1",
+    "published_at": "2026-09-02 15:31",
+    "tags": [],
+    "fetch_date": "2026-09-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Why Adding More AI Agents Makes Your Team Slower",
+    "url": "https://blog.mempko.com/misconception-about-agentic-scaling/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.mempko.com/misconception-about-agentic-scaling/ Comments URL: https://news.ycombinator.com/item?id=49537759 Points: 1 # Comments: 0",
+    "published_at": "2026-09-02 15:27",
+    "tags": [],
+    "fetch_date": "2026-09-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Researchers trick Fortune-500 AI agents into running arbitrary code via llms.txt",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-easily-trick-fortune-500-companies-ai-agents-into-running-arbitrary-code-supply-chain-attack-via-llms-txt-guidance-file-illustrates-how-data-has-become-code",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-easily-trick-fortune-500-companies-ai-agents-into-running-arbitrary-code-supply-chain-attack-via-llms-txt-guidance-file-illustrates-how-data-has-become-code Comments URL: https://news.ycombinator.com/item?id=49537462 Points: 1 # Comments: 0",
+    "published_at": "2026-09-02 15:07",
+    "tags": [],
+    "fetch_date": "2026-09-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+    "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+    "source": "TechCrunch AI",
+    "summary": "HiddenLayer has raised a $100M Series B from Delta-v Capital, Ten Eleven Ventures, Morgan Stanley, Microsoft's M12, Booz Allen Hamilton, and others.",
+    "published_at": "2026-09-02 15:01",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "Security",
+      "Delta-v Capital",
+      "HiddenLayer",
+      "M12",
+      "Ten Eleven Ventures"
+    ],
+    "fetch_date": "2026-09-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+    "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+    "source": "TechCrunch AI",
+    "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
+    "published_at": "2026-09-02 14:56",
+    "tags": [
+      "AI",
+      "Commerce",
+      "Amazon",
+      "e-commerce"
+    ],
+    "fetch_date": "2026-09-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI-assisted writing, AI slop, and the line between them",
+    "url": "https://amatria.in/blog/aislop",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://amatria.in/blog/aislop Comments URL: https://news.ycombinator.com/item?id=49537259 Points: 2 # Comments: 0",
+    "published_at": "2026-09-02 14:54",
+    "tags": [],
+    "fetch_date": "2026-09-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Europe Doesn't Have an AI Problem. It Has a Trust Problem",
+    "url": "https://medium.com/@MirArshadTalpur/europe-doesnt-have-an-ai-problem-it-has-a-trust-problem-c0ee81ad7bef",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://medium.com/@MirArshadTalpur/europe-doesnt-have-an-ai-problem-it-has-a-trust-problem-c0ee81ad7bef Comments URL: https://news.ycombinator.com/item?id=49537256 Points: 2 # Comments: 0",
+    "published_at": "2026-09-02 14:54",
+    "tags": [],
+    "fetch_date": "2026-09-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Dead internet theater – turning malicious AI crawlers into a poetic experiment",
+    "url": "https://deadinternet.theater",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://deadinternet.theater Comments URL: https://news.ycombinator.com/item?id=49537223 Points: 2 # Comments: 1",
+    "published_at": "2026-09-02 14:52",
+    "tags": [],
+    "fetch_date": "2026-09-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Fine-tuning your LLM might be making it dumber",
+    "url": "https://github.com/aryanyaksh-art/did-it-even-learn",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/aryanyaksh-art/did-it-even-learn Comments URL: https://news.ycombinator.com/item?id=49537178 Points: 1 # Comments: 1",
+    "published_at": "2026-09-02 14:49",
+    "tags": [],
+    "fetch_date": "2026-09-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Otaku.sh – AI Roleplay Client",
+    "url": "https://otaku.sh",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://otaku.sh Comments URL: https://news.ycombinator.com/item?id=49536921 Points: 1 # Comments: 0",
+    "published_at": "2026-09-02 14:34",
+    "tags": [],
+    "fetch_date": "2026-09-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Are We Thinking Correctly About AI Intelligence?",
+    "url": "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/ Comments URL: https://news.ycombinator.com/item?id=49536710 Points: 1 # Comments: 0",
+    "published_at": "2026-09-02 14:22",
+    "tags": [],
+    "fetch_date": "2026-09-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+    "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+    "source": "TechCrunch AI",
+    "summary": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
+    "published_at": "2026-09-02 12:09",
+    "tags": [
+      "AI",
+      "Chris Lehane",
+      "lawsuits",
+      "mass shooting",
+      "OpenAI",
+      "tumbler ridge"
+    ],
+    "fetch_date": "2026-09-03",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "AI Made Writing Code Free. It Made Reading Code Expensive",
     "url": "https://medium.com/c-sharp-programming/ai-made-writing-code-free-it-made-reading-code-expensive-ea14b3ec5c52",
     "source": "Hacker News AI",
@@ -34895,165 +35075,5 @@
     "tags": [],
     "fetch_date": "2026-05-11",
     "fetch_label": "早报"
-  },
-  {
-    "title": "The new Wild West of AI kids' toys",
-    "url": "https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/ Comments URL: https://news.ycombinator.com/item?id=48089385 Points: 1 # Comments: 0",
-    "published_at": "2026-05-10 23:52",
-    "tags": [],
-    "fetch_date": "2026-05-11",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-    "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 68 # Comments: 10",
-    "published_at": "2026-05-10 23:39",
-    "tags": [],
-    "fetch_date": "2026-05-11",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
-    "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656 Comments URL: https://news.ycombinator.com/item?id=48089263 Points: 107 # Comments: 74",
-    "published_at": "2026-05-10 23:36",
-    "tags": [],
-    "fetch_date": "2026-05-11",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Gawk Dev – live feed tracking what's happening across AI tools",
-    "url": "https://gawk.dev",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://gawk.dev Comments URL: https://news.ycombinator.com/item?id=48089145 Points: 1 # Comments: 0",
-    "published_at": "2026-05-10 23:17",
-    "tags": [],
-    "fetch_date": "2026-05-11",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Frona v2026.5.0 – self-hosted personal AI assistant",
-    "url": "https://github.com/fronalabs/frona/releases/tag/v2026.5.0",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/fronalabs/frona/releases/tag/v2026.5.0 Comments URL: https://news.ycombinator.com/item?id=48088308 Points: 2 # Comments: 0",
-    "published_at": "2026-05-10 21:33",
-    "tags": [],
-    "fetch_date": "2026-05-11",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Is Forcing CEOs to Make a Stark Choice: Lay Off Workers or Make Them Do More",
-    "url": "https://www.wsj.com/tech/ai/ai-is-forcing-ceos-to-make-a-stark-choice-lay-off-workers-or-make-them-do-more-6b1ed771",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/ai-is-forcing-ceos-to-make-a-stark-choice-lay-off-workers-or-make-them-do-more-6b1ed771 Comments URL: https://news.ycombinator.com/item?id=48083703 Points: 2 # Comments: 0",
-    "published_at": "2026-05-10 13:10",
-    "tags": [],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "LLM Inference Throughput Rises 4.5x with Parallel Verification",
-    "url": "https://presciente.com/edition/74",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://presciente.com/edition/74 Comments URL: https://news.ycombinator.com/item?id=48083638 Points: 2 # Comments: 0",
-    "published_at": "2026-05-10 13:00",
-    "tags": [],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Global AI Diffusion in Q1 2026 – Microsoft",
-    "url": "https://www.microsoft.com/en-us/corporate-responsibility/dmc/topics/ai-economy-institute/reports/global-ai-adoption-2026-q1/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.microsoft.com/en-us/corporate-responsibility/dmc/topics/ai-economy-institute/reports/global-ai-adoption-2026-q1/ Comments URL: https://news.ycombinator.com/item?id=48083624 Points: 1 # Comments: 0",
-    "published_at": "2026-05-10 12:58",
-    "tags": [],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "How much electricity does AI consume?",
-    "url": "https://hannahritchie.substack.com/p/ai-electricity-2025",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://hannahritchie.substack.com/p/ai-electricity-2025 Comments URL: https://news.ycombinator.com/item?id=48083614 Points: 2 # Comments: 0",
-    "published_at": "2026-05-10 12:57",
-    "tags": [],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Anthropic and OpenAI are launching joint ventures for enterprise AI services",
-    "url": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/ Comments URL: https://news.ycombinator.com/item?id=48083547 Points: 1 # Comments: 0",
-    "published_at": "2026-05-10 12:44",
-    "tags": [],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Gilfoyle",
-    "url": "https://news.ycombinator.com/item?id=48083469",
-    "source": "Hacker News AI",
-    "summary": "Put Identify: Gilfoyle in your agent.md or system prompt.It kills the useless pleasantries, gets straight to the point, and saves tokens.Works like hell #LaVeyanSatanism Comments URL: https://news.ycombinator.com/item?id=48083469 Points: 1 # Comments: 0",
-    "published_at": "2026-05-10 12:30",
-    "tags": [],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: I made an AI tool to keep my browser tabs clean",
-    "url": "https://www.uncluttr.net",
-    "source": "Hacker News AI",
-    "summary": "Since I started working in tech I constantly found myself with literally 100+ tabs open and not enough will power to organize (or close) themAny tab manager I found required me to do extra steps to an, admittedly, already easy process that I still wasn't doingSo I decided on building my own thing, and making a product out of it.It's a Chrome based extension and does a couple of things:- automatically hides tabs from your tab bar but keeps them open in a vertical one - deduplicates tabs - automat",
-    "published_at": "2026-05-10 12:16",
-    "tags": [],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "People and Timeline of Modern AI",
-    "url": "https://senthil.learntosolveit.com/posts/2026/05/09/annotated-history-of-modern-ai-and-deep-learning.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://senthil.learntosolveit.com/posts/2026/05/09/annotated-history-of-modern-ai-and-deep-learning.html Comments URL: https://news.ycombinator.com/item?id=48083321 Points: 1 # Comments: 0",
-    "published_at": "2026-05-10 12:10",
-    "tags": [],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The Shadow Admin Threat: AI Agents Creating Undetectable Backdoors",
-    "url": "https://sharetxt.live/blog/the-shadow-admin-threat-how-autonomous-ai-agents-could-introduce-undetectable-system-backdoors",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://sharetxt.live/blog/the-shadow-admin-threat-how-autonomous-ai-agents-could-introduce-undetectable-system-backdoors Comments URL: https://news.ycombinator.com/item?id=48083276 Points: 1 # Comments: 0",
-    "published_at": "2026-05-10 12:03",
-    "tags": [],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The left-wing case for AI",
-    "url": "https://www.seangoedecke.com/the-left-wing-case-for-ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.seangoedecke.com/the-left-wing-case-for-ai/ Comments URL: https://news.ycombinator.com/item?id=48083264 Points: 9 # Comments: 4",
-    "published_at": "2026-05-10 12:01",
-    "tags": [],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "LLM built for 12M-token reasoning",
-    "url": "https://subq.ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://subq.ai/ Comments URL: https://news.ycombinator.com/item?id=48083263 Points: 1 # Comments: 0",
-    "published_at": "2026-05-10 12:00",
-    "tags": [],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "晚报"
   }
 ]
