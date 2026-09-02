@@ -1,5 +1,226 @@
 [
   {
+    "title": "AI Made Writing Code Free. It Made Reading Code Expensive",
+    "url": "https://medium.com/c-sharp-programming/ai-made-writing-code-free-it-made-reading-code-expensive-ea14b3ec5c52",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://medium.com/c-sharp-programming/ai-made-writing-code-free-it-made-reading-code-expensive-ea14b3ec5c52 Comments URL: https://news.ycombinator.com/item?id=49531287 Points: 2 # Comments: 0",
+    "published_at": "2026-09-02 03:13",
+    "tags": [],
+    "fetch_date": "2026-09-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "One in three AI scribe notes carries a verified clinical error",
+    "url": "https://arxiv.org/abs/2608.31017",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2608.31017 Comments URL: https://news.ycombinator.com/item?id=49531257 Points: 1 # Comments: 1",
+    "published_at": "2026-09-02 03:07",
+    "tags": [],
+    "fetch_date": "2026-09-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Piloting the first double-blind AI evaluations",
+    "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/ Comments URL: https://news.ycombinator.com/item?id=49531188 Points: 1 # Comments: 0",
+    "published_at": "2026-09-02 02:55",
+    "tags": [],
+    "fetch_date": "2026-09-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Markdown Gatekeeper – one current source per topic for AI agents",
+    "url": "https://github.com/nanlogic/markdown-gatekeeper",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/nanlogic/markdown-gatekeeper Comments URL: https://news.ycombinator.com/item?id=49531156 Points: 3 # Comments: 0",
+    "published_at": "2026-09-02 02:48",
+    "tags": [],
+    "fetch_date": "2026-09-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "EngineRed: Asymmetric AI Warfare",
+    "url": "https://sma-das.blog/blogs/enginered-asymmetric-ai-warfare",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://sma-das.blog/blogs/enginered-asymmetric-ai-warfare Comments URL: https://news.ycombinator.com/item?id=49531105 Points: 1 # Comments: 0",
+    "published_at": "2026-09-02 02:40",
+    "tags": [],
+    "fetch_date": "2026-09-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Insightify – AI review analytics for Shopify",
+    "url": "https://apps.shopify.com/aireview-analyzer",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://apps.shopify.com/aireview-analyzer Comments URL: https://news.ycombinator.com/item?id=49531102 Points: 1 # Comments: 0",
+    "published_at": "2026-09-02 02:40",
+    "tags": [],
+    "fetch_date": "2026-09-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "What's the Right Balance in Regulating AI?",
+    "url": "https://weightythoughts.com/p/whats-the-right-balance-in-regulating",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://weightythoughts.com/p/whats-the-right-balance-in-regulating Comments URL: https://news.ycombinator.com/item?id=49530868 Points: 2 # Comments: 0",
+    "published_at": "2026-09-02 02:01",
+    "tags": [],
+    "fetch_date": "2026-09-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Local AI Assistants can be user friendly too",
+    "url": "https://anjadhe.ai/blog/local-ai-assistants-can-be-user-friendly-too",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://anjadhe.ai/blog/local-ai-assistants-can-be-user-friendly-too Comments URL: https://news.ycombinator.com/item?id=49530822 Points: 2 # Comments: 1",
+    "published_at": "2026-09-02 01:52",
+    "tags": [],
+    "fetch_date": "2026-09-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Broke the Assumptions Behind CI",
+    "url": "https://stack72.dev/ai-broke-the-assumptions-behind-ci/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://stack72.dev/ai-broke-the-assumptions-behind-ci/ Comments URL: https://news.ycombinator.com/item?id=49530800 Points: 1 # Comments: 0",
+    "published_at": "2026-09-02 01:49",
+    "tags": [],
+    "fetch_date": "2026-09-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Crossplane AI Contribution Policy",
+    "url": "https://github.com/crossplane/crossplane/blob/main/AI_POLICY.md",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/crossplane/crossplane/blob/main/AI_POLICY.md Comments URL: https://news.ycombinator.com/item?id=49530537 Points: 1 # Comments: 0",
+    "published_at": "2026-09-02 01:13",
+    "tags": [],
+    "fetch_date": "2026-09-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "State of Local AI Report",
+    "url": "https://www.basecompute.co/stateoflocalai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.basecompute.co/stateoflocalai Comments URL: https://news.ycombinator.com/item?id=49530290 Points: 3 # Comments: 1",
+    "published_at": "2026-09-02 00:38",
+    "tags": [],
+    "fetch_date": "2026-09-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "California lawmakers pass bill governing lawyers' use of AI",
+    "url": "https://www.reuters.com/legal/government/california-lawmakers-pass-bill-governing-lawyers-use-ai-2026-09-01/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.reuters.com/legal/government/california-lawmakers-pass-bill-governing-lawyers-use-ai-2026-09-01/ Comments URL: https://news.ycombinator.com/item?id=49530024 Points: 3 # Comments: 2",
+    "published_at": "2026-09-02 00:01",
+    "tags": [],
+    "fetch_date": "2026-09-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Researchers use AI to 'democratize' 3D printing of crucial metal alloy",
+    "url": "https://news.wsu.edu/news/2026/08/24/researchers-use-ai-to-democratize-3d-printing-of-crucial-metal-alloy/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://news.wsu.edu/news/2026/08/24/researchers-use-ai-to-democratize-3d-printing-of-crucial-metal-alloy/ Comments URL: https://news.ycombinator.com/item?id=49529962 Points: 2 # Comments: 0",
+    "published_at": "2026-09-01 23:54",
+    "tags": [],
+    "fetch_date": "2026-09-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI and the Practical Scientist",
+    "url": "https://scholarlyfutures.substack.com/p/ai-and-the-practical-scientist",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://scholarlyfutures.substack.com/p/ai-and-the-practical-scientist Comments URL: https://news.ycombinator.com/item?id=49529956 Points: 2 # Comments: 1",
+    "published_at": "2026-09-01 23:54",
+    "tags": [],
+    "fetch_date": "2026-09-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+    "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+    "source": "TechCrunch AI",
+    "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+    "published_at": "2026-09-01 22:08",
+    "tags": [
+      "AI",
+      "Venture",
+      "In Brief",
+      "Y Combinator"
+    ],
+    "fetch_date": "2026-09-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+    "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+    "source": "TechCrunch AI",
+    "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+    "published_at": "2026-09-01 20:53",
+    "tags": [
+      "AI",
+      "Apps",
+      "Hardware",
+      "Android",
+      "Google"
+    ],
+    "fetch_date": "2026-09-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Google needs Hollywood more than the studios need AI",
+    "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+    "source": "The Verge AI",
+    "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be a win-win: a huge financial boon to the studios that would also [&#8230;]",
+    "published_at": "2026-09-01 18:50",
+    "tags": [
+      "AI",
+      "Analysis",
+      "Disney",
+      "Entertainment",
+      "Film",
+      "Google",
+      "Report",
+      "Streaming",
+      "Tech",
+      "TV Shows"
+    ],
+    "fetch_date": "2026-09-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+    "source": "The Verge AI",
+    "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less for complex agentic tasks, thanks to reduced pricing [&#8230;]",
+    "published_at": "2026-09-01 18:01",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "News"
+    ],
+    "fetch_date": "2026-09-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+    "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+    "source": "TechCrunch AI",
+    "summary": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+    "published_at": "2026-09-01 17:00",
+    "tags": [
+      "AI",
+      "Apps",
+      "ChatGPT",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-09-02",
+    "fetch_label": "早报"
+  },
+  {
     "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
     "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
     "source": "TechCrunch AI",
@@ -32,6 +253,37 @@
     ],
     "fetch_date": "2026-09-02",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+    "source": "The Verge AI",
+    "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a massive cybersecurity incident from a company to [&#8230;]",
+    "published_at": "2026-09-01 15:02",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "Security",
+      "Tech"
+    ],
+    "fetch_date": "2026-09-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Apple accuses OpenAI of destroying evidence",
+    "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+    "source": "The Verge AI",
+    "summary": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple alleges OpenAI only just handed over a MacBook used by a former employee at the center of the lawsuit, which contained discussions about \"destroying [&#8230;]",
+    "published_at": "2026-09-01 14:19",
+    "tags": [
+      "AI",
+      "Apple",
+      "OpenAI",
+      "Policy",
+      "Tech"
+    ],
+    "fetch_date": "2026-09-02",
+    "fetch_label": "早报"
   },
   {
     "title": "Google Pics is like Canva, but with even more AI",
@@ -34803,230 +35055,5 @@
     "tags": [],
     "fetch_date": "2026-05-10",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "Will AI kill the research paper?",
-    "url": "https://marginalrevolution.com/marginalrevolution/2026/05/will-ai-kill-the-research-paper.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://marginalrevolution.com/marginalrevolution/2026/05/will-ai-kill-the-research-paper.html Comments URL: https://news.ycombinator.com/item?id=48082872 Points: 4 # Comments: 1",
-    "published_at": "2026-05-10 11:09",
-    "tags": [],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Tech is turning increasingly to religion in a quest to create ethical AI",
-    "url": "https://apnews.com/article/ai-artificial-intelligence-ethics-religion-roundtable-053a44133c64703f83fd50c9ee6124ea",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://apnews.com/article/ai-artificial-intelligence-ethics-religion-roundtable-053a44133c64703f83fd50c9ee6124ea Comments URL: https://news.ycombinator.com/item?id=48082865 Points: 2 # Comments: 0",
-    "published_at": "2026-05-10 11:08",
-    "tags": [],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "If you're a programmer and you feel depressed by AI, don't be!",
-    "url": "https://unixdigest.com/articles/if-youre-a-programmer-and-you-feel-depressed-by-ai-dont-be.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://unixdigest.com/articles/if-youre-a-programmer-and-you-feel-depressed-by-ai-dont-be.html Comments URL: https://news.ycombinator.com/item?id=48082767 Points: 3 # Comments: 0",
-    "published_at": "2026-05-10 10:52",
-    "tags": [],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Startup's Software Watches Employees as They Work",
-    "url": "https://www.forbes.com/sites/rashishrivastava/2026/05/10/this-ai-startups-software-watches-employees-as-they-work-to-reduce-inefficiencies/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.forbes.com/sites/rashishrivastava/2026/05/10/this-ai-startups-software-watches-employees-as-they-work-to-reduce-inefficiencies/ Comments URL: https://news.ycombinator.com/item?id=48082759 Points: 3 # Comments: 0",
-    "published_at": "2026-05-10 10:51",
-    "tags": [],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Act Article 50 transparency rules. Heading for another cookie consent moment?",
-    "url": "https://digital-strategy.ec.europa.eu/en/library/draft-guidelines-implementation-transparency-obligations-certain-ai-systems-under-article-50-ai-act",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://digital-strategy.ec.europa.eu/en/library/draft-guidelines-implementation-transparency-obligations-certain-ai-systems-under-article-50-ai-act Comments URL: https://news.ycombinator.com/item?id=48082253 Points: 3 # Comments: 0",
-    "published_at": "2026-05-10 09:06",
-    "tags": [],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Snyk and Claude Code: real-time security scanning of AI-generated code",
-    "url": "https://codebrainery.com/articles/snyk-claude-code-real-time-security-scanning-for-ai-code",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://codebrainery.com/articles/snyk-claude-code-real-time-security-scanning-for-ai-code Comments URL: https://news.ycombinator.com/item?id=48080697 Points: 1 # Comments: 0",
-    "published_at": "2026-05-10 03:21",
-    "tags": [],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "\"genesis mission (US Government)\" (Angela Collier on AI and research) [video]",
-    "url": "https://www.youtube.com/watch?v=p6Ejmhwb8Sc",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.youtube.com/watch?v=p6Ejmhwb8Sc Comments URL: https://news.ycombinator.com/item?id=48080668 Points: 1 # Comments: 0",
-    "published_at": "2026-05-10 03:16",
-    "tags": [],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Powering the Inference Era: Inside the DigitalOcean AI-Native Cloud",
-    "url": "https://www.digitalocean.com/blog/powering-the-inference-era",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.digitalocean.com/blog/powering-the-inference-era Comments URL: https://news.ycombinator.com/item?id=48080656 Points: 1 # Comments: 0",
-    "published_at": "2026-05-10 03:14",
-    "tags": [],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Crypto exchange Coinbase to lay off 14% of staff as AI reshapes work",
-    "url": "https://www.latimes.com/business/story/2026-05-05/crypto-exchange-coinbase-to-lay-off-14-of-staff-as-ai-reshapes-work",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.latimes.com/business/story/2026-05-05/crypto-exchange-coinbase-to-lay-off-14-of-staff-as-ai-reshapes-work Comments URL: https://news.ycombinator.com/item?id=48080379 Points: 2 # Comments: 0",
-    "published_at": "2026-05-10 02:17",
-    "tags": [],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
-    "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
-    "source": "TechCrunch AI",
-    "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
-    "published_at": "2026-05-10 02:00",
-    "tags": [
-      "Startups",
-      "AI",
-      "voice AI",
-      "Wispr flow"
-    ],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI creates a fearsome cold-war-style dilemma",
-    "url": "https://www.economist.com/china/2026/05/07/ai-creates-a-fearsome-cold-war-style-dilemma",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.economist.com/china/2026/05/07/ai-creates-a-fearsome-cold-war-style-dilemma Comments URL: https://news.ycombinator.com/item?id=48080171 Points: 3 # Comments: 0",
-    "published_at": "2026-05-10 01:43",
-    "tags": [],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Mark Zuckerberg Told 8k Employees Their Layoffs Are a Line Item in AI Bill",
-    "url": "https://247wallst.com/investing/2026/05/08/mark-zuckerberg-just-told-8000-employees-their-layoffs-are-a-line-item-in-his-145-billion-ai-bill/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://247wallst.com/investing/2026/05/08/mark-zuckerberg-just-told-8000-employees-their-layoffs-are-a-line-item-in-his-145-billion-ai-bill/ Comments URL: https://news.ycombinator.com/item?id=48079938 Points: 6 # Comments: 4",
-    "published_at": "2026-05-10 01:03",
-    "tags": [],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "24/7 AI-powered radio station. Generates music, writes hosted breaks,speaks them",
-    "url": "https://github.com/keltokhy/writ-fm",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/keltokhy/writ-fm Comments URL: https://news.ycombinator.com/item?id=48079865 Points: 2 # Comments: 0",
-    "published_at": "2026-05-10 00:47",
-    "tags": [],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "React-AI-stream – back end-agnostic SSE streaming hook for React",
-    "url": "https://github.com/trimooo/react-ai-stream",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/trimooo/react-ai-stream Comments URL: https://news.ycombinator.com/item?id=48079525 Points: 1 # Comments: 0",
-    "published_at": "2026-05-09 23:53",
-    "tags": [],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "I built an AI to stress-test my thinking",
-    "url": "https://mindmilker.com",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://mindmilker.com Comments URL: https://news.ycombinator.com/item?id=48079369 Points: 1 # Comments: 0",
-    "published_at": "2026-05-09 23:32",
-    "tags": [],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Stale Gov.uk pages are feeding AI overviews old data and Brits are believing it",
-    "url": "https://www.theregister.com/software/2026/04/23/govuk-says-ai-gaslighting-brits-with-stale-govuk-data/5229766",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.theregister.com/software/2026/04/23/govuk-says-ai-gaslighting-brits-with-stale-govuk-data/5229766 Comments URL: https://news.ycombinator.com/item?id=48079094 Points: 2 # Comments: 0",
-    "published_at": "2026-05-09 22:58",
-    "tags": [],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Mississippi's Air Quality Is Worsening Amid AI Data Center Boom, Report Finds",
-    "url": "https://www.mississippifreepress.org/mississippis-air-quality-is-worsening-amid-ai-data-center-boom-report-finds/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.mississippifreepress.org/mississippis-air-quality-is-worsening-amid-ai-data-center-boom-report-finds/ Comments URL: https://news.ycombinator.com/item?id=48078751 Points: 1 # Comments: 0",
-    "published_at": "2026-05-09 22:08",
-    "tags": [],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-    "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "source": "TechCrunch AI",
-    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-    "published_at": "2026-05-09 21:45",
-    "tags": [
-      "AI",
-      "evergreens",
-      "artificial intelligence",
-      "Glossary"
-    ],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Feedback on my local-first AI assistant project?",
-    "url": "https://github.com/joshuatic/voxel",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/joshuatic/voxel Comments URL: https://news.ycombinator.com/item?id=48078376 Points: 1 # Comments: 1",
-    "published_at": "2026-05-09 21:21",
-    "tags": [],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Consumer AI's ARPU Problem",
-    "url": "https://twitter.com/SashaKaletsky/status/2051366803897766236",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://twitter.com/SashaKaletsky/status/2051366803897766236 Comments URL: https://news.ycombinator.com/item?id=48078239 Points: 1 # Comments: 0",
-    "published_at": "2026-05-09 21:04",
-    "tags": [],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Nvidia has already committed $40B to equity AI deals this year",
-    "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
-    "source": "TechCrunch AI",
-    "summary": "Nvidia continues to be a big investor in the AI ecosystem.",
-    "published_at": "2026-05-09 14:43",
-    "tags": [
-      "AI",
-      "Startups",
-      "Venture",
-      "OpenAI"
-    ],
-    "fetch_date": "2026-05-10",
-    "fetch_label": "早报"
   }
 ]

@@ -151,6 +151,266 @@
           ]
         }
       ]
+    },
+    {
+      "label": "早报",
+      "time": "2026-09-02 11:37:26",
+      "count": 24,
+      "articles": [
+        {
+          "title": "AI Made Writing Code Free. It Made Reading Code Expensive",
+          "url": "https://medium.com/c-sharp-programming/ai-made-writing-code-free-it-made-reading-code-expensive-ea14b3ec5c52",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://medium.com/c-sharp-programming/ai-made-writing-code-free-it-made-reading-code-expensive-ea14b3ec5c52 Comments URL: https://news.ycombinator.com/item?id=49531287 Points: 2 # Comments: 0",
+          "published_at": "2026-09-02 03:13",
+          "tags": []
+        },
+        {
+          "title": "One in three AI scribe notes carries a verified clinical error",
+          "url": "https://arxiv.org/abs/2608.31017",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2608.31017 Comments URL: https://news.ycombinator.com/item?id=49531257 Points: 1 # Comments: 1",
+          "published_at": "2026-09-02 03:07",
+          "tags": []
+        },
+        {
+          "title": "Piloting the first double-blind AI evaluations",
+          "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/ Comments URL: https://news.ycombinator.com/item?id=49531188 Points: 1 # Comments: 0",
+          "published_at": "2026-09-02 02:55",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Markdown Gatekeeper – one current source per topic for AI agents",
+          "url": "https://github.com/nanlogic/markdown-gatekeeper",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/nanlogic/markdown-gatekeeper Comments URL: https://news.ycombinator.com/item?id=49531156 Points: 3 # Comments: 0",
+          "published_at": "2026-09-02 02:48",
+          "tags": []
+        },
+        {
+          "title": "EngineRed: Asymmetric AI Warfare",
+          "url": "https://sma-das.blog/blogs/enginered-asymmetric-ai-warfare",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://sma-das.blog/blogs/enginered-asymmetric-ai-warfare Comments URL: https://news.ycombinator.com/item?id=49531105 Points: 1 # Comments: 0",
+          "published_at": "2026-09-02 02:40",
+          "tags": []
+        },
+        {
+          "title": "Insightify – AI review analytics for Shopify",
+          "url": "https://apps.shopify.com/aireview-analyzer",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://apps.shopify.com/aireview-analyzer Comments URL: https://news.ycombinator.com/item?id=49531102 Points: 1 # Comments: 0",
+          "published_at": "2026-09-02 02:40",
+          "tags": []
+        },
+        {
+          "title": "What's the Right Balance in Regulating AI?",
+          "url": "https://weightythoughts.com/p/whats-the-right-balance-in-regulating",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://weightythoughts.com/p/whats-the-right-balance-in-regulating Comments URL: https://news.ycombinator.com/item?id=49530868 Points: 2 # Comments: 0",
+          "published_at": "2026-09-02 02:01",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Local AI Assistants can be user friendly too",
+          "url": "https://anjadhe.ai/blog/local-ai-assistants-can-be-user-friendly-too",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://anjadhe.ai/blog/local-ai-assistants-can-be-user-friendly-too Comments URL: https://news.ycombinator.com/item?id=49530822 Points: 2 # Comments: 1",
+          "published_at": "2026-09-02 01:52",
+          "tags": []
+        },
+        {
+          "title": "AI Broke the Assumptions Behind CI",
+          "url": "https://stack72.dev/ai-broke-the-assumptions-behind-ci/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://stack72.dev/ai-broke-the-assumptions-behind-ci/ Comments URL: https://news.ycombinator.com/item?id=49530800 Points: 1 # Comments: 0",
+          "published_at": "2026-09-02 01:49",
+          "tags": []
+        },
+        {
+          "title": "Crossplane AI Contribution Policy",
+          "url": "https://github.com/crossplane/crossplane/blob/main/AI_POLICY.md",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/crossplane/crossplane/blob/main/AI_POLICY.md Comments URL: https://news.ycombinator.com/item?id=49530537 Points: 1 # Comments: 0",
+          "published_at": "2026-09-02 01:13",
+          "tags": []
+        },
+        {
+          "title": "State of Local AI Report",
+          "url": "https://www.basecompute.co/stateoflocalai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.basecompute.co/stateoflocalai Comments URL: https://news.ycombinator.com/item?id=49530290 Points: 3 # Comments: 1",
+          "published_at": "2026-09-02 00:38",
+          "tags": []
+        },
+        {
+          "title": "California lawmakers pass bill governing lawyers' use of AI",
+          "url": "https://www.reuters.com/legal/government/california-lawmakers-pass-bill-governing-lawyers-use-ai-2026-09-01/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.reuters.com/legal/government/california-lawmakers-pass-bill-governing-lawyers-use-ai-2026-09-01/ Comments URL: https://news.ycombinator.com/item?id=49530024 Points: 3 # Comments: 2",
+          "published_at": "2026-09-02 00:01",
+          "tags": []
+        },
+        {
+          "title": "Researchers use AI to 'democratize' 3D printing of crucial metal alloy",
+          "url": "https://news.wsu.edu/news/2026/08/24/researchers-use-ai-to-democratize-3d-printing-of-crucial-metal-alloy/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://news.wsu.edu/news/2026/08/24/researchers-use-ai-to-democratize-3d-printing-of-crucial-metal-alloy/ Comments URL: https://news.ycombinator.com/item?id=49529962 Points: 2 # Comments: 0",
+          "published_at": "2026-09-01 23:54",
+          "tags": []
+        },
+        {
+          "title": "AI and the Practical Scientist",
+          "url": "https://scholarlyfutures.substack.com/p/ai-and-the-practical-scientist",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://scholarlyfutures.substack.com/p/ai-and-the-practical-scientist Comments URL: https://news.ycombinator.com/item?id=49529956 Points: 2 # Comments: 1",
+          "published_at": "2026-09-01 23:54",
+          "tags": []
+        },
+        {
+          "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+          "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+          "source": "TechCrunch AI",
+          "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+          "published_at": "2026-09-01 22:08",
+          "tags": [
+            "AI",
+            "Venture",
+            "In Brief",
+            "Y Combinator"
+          ]
+        },
+        {
+          "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+          "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+          "source": "TechCrunch AI",
+          "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+          "published_at": "2026-09-01 20:53",
+          "tags": [
+            "AI",
+            "Apps",
+            "Hardware",
+            "Android",
+            "Google"
+          ]
+        },
+        {
+          "title": "Google needs Hollywood more than the studios need AI",
+          "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+          "source": "The Verge AI",
+          "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be a win-win: a huge financial boon to the studios that would also [&#8230;]",
+          "published_at": "2026-09-01 18:50",
+          "tags": [
+            "AI",
+            "Analysis",
+            "Disney",
+            "Entertainment",
+            "Film",
+            "Google",
+            "Report",
+            "Streaming",
+            "Tech",
+            "TV Shows"
+          ]
+        },
+        {
+          "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+          "source": "The Verge AI",
+          "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less for complex agentic tasks, thanks to reduced pricing [&#8230;]",
+          "published_at": "2026-09-01 18:01",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "News"
+          ]
+        },
+        {
+          "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+          "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+          "published_at": "2026-09-01 17:00",
+          "tags": [
+            "AI",
+            "Apps",
+            "ChatGPT",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+          "source": "The Verge AI",
+          "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a massive cybersecurity incident from a company to [&#8230;]",
+          "published_at": "2026-09-01 15:02",
+          "tags": [
+            "AI",
+            "OpenAI",
+            "Security",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Apple accuses OpenAI of destroying evidence",
+          "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+          "source": "The Verge AI",
+          "summary": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple alleges OpenAI only just handed over a MacBook used by a former employee at the center of the lawsuit, which contained discussions about \"destroying [&#8230;]",
+          "published_at": "2026-09-01 14:19",
+          "tags": [
+            "AI",
+            "Apple",
+            "OpenAI",
+            "Policy",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Nvidia&#8217;s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+          "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+          "source": "The Verge AI",
+          "summary": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video games, but worse.\" DLSS 5 will officially be available on RTX 50-series desktop and laptop GPUs and through GeForce Now [&#8230;]",
+          "published_at": "2026-09-01 09:00",
+          "tags": [
+            "AI",
+            "Gaming",
+            "News",
+            "Nvidia",
+            "PC Gaming",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+          "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+          "source": "TechCrunch AI",
+          "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
+          "published_at": "2026-08-31 18:35",
+          "tags": [
+            "AI",
+            "Government & Policy",
+            "Startups",
+            "Las Olas Venture Capital",
+            "police",
+            "signalfire"
+          ]
+        },
+        {
+          "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+          "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+          "source": "TechCrunch AI",
+          "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
+          "published_at": "2026-08-31 16:00",
+          "tags": [
+            "AI",
+            "Startups",
+            "ai agent",
+            "Generative AI"
+          ]
+        }
+      ]
     }
   ]
 }
