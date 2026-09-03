@@ -439,6 +439,263 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-09-03 23:55:28",
+      "count": 25,
+      "articles": [
+        {
+          "title": "Is AI-native Engineering DevOps 2.0 (or even Agile 3.0)?",
+          "url": "https://www.wwt.com/blog/is-ai-native-engineering-really-devops-20-or-even-agile-30",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wwt.com/blog/is-ai-native-engineering-really-devops-20-or-even-agile-30 Comments URL: https://news.ycombinator.com/item?id=49552065 Points: 1 # Comments: 0",
+          "published_at": "2026-09-03 15:52",
+          "tags": []
+        },
+        {
+          "title": "DTE Energy outage map, any connection to today's AI provider outages?",
+          "url": "https://outage.dteenergy.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://outage.dteenergy.com/ Comments URL: https://news.ycombinator.com/item?id=49551982 Points: 1 # Comments: 1",
+          "published_at": "2026-09-03 15:48",
+          "tags": []
+        },
+        {
+          "title": "HuggingSocial Find, discuss and download AI models. Peer to peer",
+          "url": "https://huggingsocial.co/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://huggingsocial.co/ Comments URL: https://news.ycombinator.com/item?id=49551940 Points: 1 # Comments: 0",
+          "published_at": "2026-09-03 15:45",
+          "tags": []
+        },
+        {
+          "title": "AI #184: Post Post Mortem",
+          "url": "https://thezvi.substack.com/p/ai-184-post-post-mortem",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://thezvi.substack.com/p/ai-184-post-post-mortem Comments URL: https://news.ycombinator.com/item?id=49551934 Points: 1 # Comments: 0",
+          "published_at": "2026-09-03 15:45",
+          "tags": []
+        },
+        {
+          "title": "Brutally Honest Predictions on the Future of AI",
+          "url": "https://www.honest-broker.com/p/10-brutally-honest-predictions-on",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.honest-broker.com/p/10-brutally-honest-predictions-on Comments URL: https://news.ycombinator.com/item?id=49551895 Points: 3 # Comments: 0",
+          "published_at": "2026-09-03 15:43",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Airplane AI – Works when all other AIs are offline",
+          "url": "https://airplane-ai.franzai.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://airplane-ai.franzai.com/ Comments URL: https://news.ycombinator.com/item?id=49551815 Points: 1 # Comments: 0",
+          "published_at": "2026-09-03 15:39",
+          "tags": []
+        },
+        {
+          "title": "Moderate AI Predictions",
+          "url": "https://staticnotes.org/feed/2026/09/ai-future/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://staticnotes.org/feed/2026/09/ai-future/ Comments URL: https://news.ycombinator.com/item?id=49551741 Points: 1 # Comments: 0",
+          "published_at": "2026-09-03 15:35",
+          "tags": []
+        },
+        {
+          "title": "Tomorrow's AI Won't Meet Today's World",
+          "url": "https://indevelopmentmag.substack.com/p/tomorrows-ai-wont-meet-todays-world",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://indevelopmentmag.substack.com/p/tomorrows-ai-wont-meet-todays-world Comments URL: https://news.ycombinator.com/item?id=49551714 Points: 1 # Comments: 0",
+          "published_at": "2026-09-03 15:33",
+          "tags": []
+        },
+        {
+          "title": "Human-in-the-Loop AI Deployment with IPE",
+          "url": "https://substack.com/profile/395874868-john-cachat/note/c-328878142",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://substack.com/profile/395874868-john-cachat/note/c-328878142 Comments URL: https://news.ycombinator.com/item?id=49551405 Points: 2 # Comments: 0",
+          "published_at": "2026-09-03 15:17",
+          "tags": []
+        },
+        {
+          "title": "WeatherNext 3: Our most advanced global weather AI model",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/ Comments URL: https://news.ycombinator.com/item?id=49551191 Points: 1 # Comments: 0",
+          "published_at": "2026-09-03 15:10",
+          "tags": []
+        },
+        {
+          "title": "OpenAI Releases GPT Astra",
+          "url": "https://developers.openai.com/api/docs/models",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://developers.openai.com/api/docs/models Comments URL: https://news.ycombinator.com/item?id=49551175 Points: 5 # Comments: 3",
+          "published_at": "2026-09-03 15:09",
+          "tags": []
+        },
+        {
+          "title": "Flock's AI Search Tool for Cops",
+          "url": "https://www.wired.com/story/flock-ai-search-user-interface/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wired.com/story/flock-ai-search-user-interface/ Comments URL: https://news.ycombinator.com/item?id=49551104 Points: 3 # Comments: 0",
+          "published_at": "2026-09-03 15:07",
+          "tags": []
+        },
+        {
+          "title": "Open AI X post on Astra",
+          "url": "https://twitter.com/OpenAI/status/2095527557924082061",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://twitter.com/OpenAI/status/2095527557924082061 Comments URL: https://news.ycombinator.com/item?id=49551018 Points: 5 # Comments: 0",
+          "published_at": "2026-09-03 15:03",
+          "tags": []
+        },
+        {
+          "title": "Top AI Agent Skills for Building Live Streaming Apps",
+          "url": "https://www.red5.net/blog/ai-agent-skills-live-streaming-app-development/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.red5.net/blog/ai-agent-skills-live-streaming-app-development/ Comments URL: https://news.ycombinator.com/item?id=49550961 Points: 2 # Comments: 0",
+          "published_at": "2026-09-03 15:02",
+          "tags": []
+        },
+        {
+          "title": "Let your AI agent log into sites without ever seeing the password",
+          "url": "https://github.com/1clawAI/browser-bridge",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/1clawAI/browser-bridge Comments URL: https://news.ycombinator.com/item?id=49550937 Points: 1 # Comments: 0",
+          "published_at": "2026-09-03 15:01",
+          "tags": []
+        },
+        {
+          "title": "AI Agents Welcome",
+          "url": "https://www.hey.com/agents/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.hey.com/agents/ Comments URL: https://news.ycombinator.com/item?id=49550677 Points: 2 # Comments: 0",
+          "published_at": "2026-09-03 14:50",
+          "tags": []
+        },
+        {
+          "title": "AI makes everything cheaper for founders. Except networking",
+          "url": "https://nuovus.ai/news/the-network-did-not-get-cheaper",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://nuovus.ai/news/the-network-did-not-get-cheaper Comments URL: https://news.ycombinator.com/item?id=49550596 Points: 1 # Comments: 0",
+          "published_at": "2026-09-03 14:45",
+          "tags": []
+        },
+        {
+          "title": "Nvidia is buying Hugging Face for almost $13 billion",
+          "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+          "source": "The Verge AI",
+          "summary": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker. Hugging Face is an online platform founded in 2016 that gives AI developers a space to share their projects and data [&#8230;]",
+          "published_at": "2026-09-03 08:12",
+          "tags": [
+            "AI",
+            "Business",
+            "News",
+            "Nvidia",
+            "Tech"
+          ]
+        },
+        {
+          "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+          "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+          "source": "TechCrunch AI",
+          "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+          "published_at": "2026-09-02 22:24",
+          "tags": [
+            "AI",
+            "Colossal Biosciences",
+            "nvidia",
+            "TechCrunch Disrupt"
+          ]
+        },
+        {
+          "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+          "source": "The Verge AI",
+          "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million [&#8230;]",
+          "published_at": "2026-09-02 16:11",
+          "tags": [
+            "AI",
+            "Google",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+          "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+          "source": "TechCrunch AI",
+          "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
+          "published_at": "2026-09-02 15:01",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Security",
+            "Delta-v Capital",
+            "HiddenLayer",
+            "M12",
+            "Ten Eleven Ventures"
+          ]
+        },
+        {
+          "title": "Adobe acquires Indian market intelligence startup Rilo",
+          "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+          "source": "TechCrunch AI",
+          "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
+          "published_at": "2026-09-02 14:03",
+          "tags": [
+            "AI",
+            "Startups",
+            "Adobe",
+            "India",
+            "Mergers and Acquisitions",
+            "Peak XV Partners"
+          ]
+        },
+        {
+          "title": "Amazon’s AI assistant can now spot fake emails from the company",
+          "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+          "source": "The Verge AI",
+          "summary": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about a message you received, and it will use AI to compare [&#8230;]",
+          "published_at": "2026-09-02 13:52",
+          "tags": [
+            "AI",
+            "Amazon",
+            "Amazon Alexa",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+          "source": "The Verge AI",
+          "summary": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle out, researchers are warning it \"may be the single worst development for AI security/safety to date.\" Shortly after [&#8230;]",
+          "published_at": "2026-09-02 12:40",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Google is sending MrBeast into the wilderness, armed with AI",
+          "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+          "source": "The Verge AI",
+          "summary": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy \"MrBeast\" Donaldson turning to Gemini for wilderness survival advice: First up on September 5 is a new MrBeast video following Jimmy and his crew [&#8230;]",
+          "published_at": "2026-09-02 11:47",
+          "tags": [
+            "AI",
+            "Creators",
+            "Google",
+            "News",
+            "Streaming",
+            "Tech",
+            "YouTube"
+          ]
+        }
+      ]
     }
   ]
 }
