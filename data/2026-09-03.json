@@ -224,6 +224,221 @@
           ]
         }
       ]
+    },
+    {
+      "label": "早报",
+      "time": "2026-09-03 11:38:08",
+      "count": 20,
+      "articles": [
+        {
+          "title": "Frontier Act – Federal oversight of the development of frontier AI",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/9925/text",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.congress.gov/bill/119th-congress/house-bill/9925/text Comments URL: https://news.ycombinator.com/item?id=49545592 Points: 2 # Comments: 0",
+          "published_at": "2026-09-03 03:24",
+          "tags": []
+        },
+        {
+          "title": "AI security that assumes the attacker has root",
+          "url": "https://thenewstack.io/tide-raziel-emergent-authority/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://thenewstack.io/tide-raziel-emergent-authority/ Comments URL: https://news.ycombinator.com/item?id=49545513 Points: 1 # Comments: 0",
+          "published_at": "2026-09-03 03:07",
+          "tags": []
+        },
+        {
+          "title": "AI-DLC – one core, many harnesses",
+          "url": "https://github.com/awslabs/aidlc-workflows/tree/main",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/awslabs/aidlc-workflows/tree/main Comments URL: https://news.ycombinator.com/item?id=49545120 Points: 1 # Comments: 0",
+          "published_at": "2026-09-03 02:04",
+          "tags": []
+        },
+        {
+          "title": "Yokohama's New \"Poop Museum\": A Crappy, Kawaii Learning Experience",
+          "url": "https://www.nippon.com/en/guide-to-japan/gu900325/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.nippon.com/en/guide-to-japan/gu900325/ Comments URL: https://news.ycombinator.com/item?id=49545050 Points: 1 # Comments: 0",
+          "published_at": "2026-09-03 01:51",
+          "tags": []
+        },
+        {
+          "title": "MemHub – Persistent shared memory for AI coding agents",
+          "url": "https://memhub.simplex.lat",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://memhub.simplex.lat Comments URL: https://news.ycombinator.com/item?id=49544996 Points: 2 # Comments: 0",
+          "published_at": "2026-09-03 01:43",
+          "tags": []
+        },
+        {
+          "title": "Go grandmaster Shin defeats AI KataGo in historic human victory",
+          "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007 Comments URL: https://news.ycombinator.com/item?id=49544762 Points: 18 # Comments: 2",
+          "published_at": "2026-09-03 01:11",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Redactle LLM Leaderboard",
+          "url": "https://redactle.net/llm-leaderboard",
+          "source": "Hacker News AI",
+          "summary": "I got nerd sniped and ran a bunch of evaluations to see how well models could play Redactle. It turns out Gemini flash is in a league of it's own in both performance and cost. It's able to one-shot every eval in a just a few seconds. Comments URL: https://news.ycombinator.com/item?id=49544338 Points: 4 # Comments: 1",
+          "published_at": "2026-09-03 00:11",
+          "tags": []
+        },
+        {
+          "title": "Workplace surveillance is on the rise, spurred by AI",
+          "url": "https://knowablemagazine.org/content/article/society/2026/surveillance-at-work-is-increasing",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://knowablemagazine.org/content/article/society/2026/surveillance-at-work-is-increasing Comments URL: https://news.ycombinator.com/item?id=49544093 Points: 3 # Comments: 0",
+          "published_at": "2026-09-02 23:39",
+          "tags": []
+        },
+        {
+          "title": "AI-Memory 2.0 – The Best Memory System for Agents and Teams",
+          "url": "https://akitaonrails.com/en/2026/09/02/ai-memory-2-0-best-memory-system-for-agents-and-teams/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://akitaonrails.com/en/2026/09/02/ai-memory-2-0-best-memory-system-for-agents-and-teams/ Comments URL: https://news.ycombinator.com/item?id=49543786 Points: 1 # Comments: 0",
+          "published_at": "2026-09-02 23:03",
+          "tags": []
+        },
+        {
+          "title": "Ontologies catch untrustworthy LLM claims",
+          "url": "https://antithetical-labs.com/blog/the-judge-liked-it-better/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://antithetical-labs.com/blog/the-judge-liked-it-better/ Comments URL: https://news.ycombinator.com/item?id=49543771 Points: 2 # Comments: 0",
+          "published_at": "2026-09-02 23:01",
+          "tags": []
+        },
+        {
+          "title": "Pacman AI for controlling fusion systems makes key decisions in milliseconds",
+          "url": "https://phys.org/news/2026-09-pacman-ai-framework-fusion-safely.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://phys.org/news/2026-09-pacman-ai-framework-fusion-safely.html Comments URL: https://news.ycombinator.com/item?id=49543735 Points: 2 # Comments: 1",
+          "published_at": "2026-09-02 22:57",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Every AI agrees with you. This writes your startup's obituary instead",
+          "url": "https://theyfell.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://theyfell.com/ Comments URL: https://news.ycombinator.com/item?id=49543617 Points: 9 # Comments: 7",
+          "published_at": "2026-09-02 22:45",
+          "tags": []
+        },
+        {
+          "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+          "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+          "source": "TechCrunch AI",
+          "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+          "published_at": "2026-09-02 22:24",
+          "tags": [
+            "AI",
+            "Colossal Biosciences",
+            "nvidia",
+            "TechCrunch Disrupt"
+          ]
+        },
+        {
+          "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+          "source": "The Verge AI",
+          "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million [&#8230;]",
+          "published_at": "2026-09-02 16:11",
+          "tags": [
+            "AI",
+            "Google",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+          "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+          "source": "TechCrunch AI",
+          "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
+          "published_at": "2026-09-02 15:01",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Security",
+            "Delta-v Capital",
+            "HiddenLayer",
+            "M12",
+            "Ten Eleven Ventures"
+          ]
+        },
+        {
+          "title": "Adobe acquires Indian market intelligence startup Rilo",
+          "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+          "source": "TechCrunch AI",
+          "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
+          "published_at": "2026-09-02 14:03",
+          "tags": [
+            "AI",
+            "Startups",
+            "Adobe",
+            "India",
+            "Mergers and Acquisitions",
+            "Peak XV Partners"
+          ]
+        },
+        {
+          "title": "Amazon’s AI assistant can now spot fake emails from the company",
+          "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+          "source": "The Verge AI",
+          "summary": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about a message you received, and it will use AI to compare [&#8230;]",
+          "published_at": "2026-09-02 13:52",
+          "tags": [
+            "AI",
+            "Amazon",
+            "Amazon Alexa",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+          "source": "The Verge AI",
+          "summary": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle out, researchers are warning it \"may be the single worst development for AI security/safety to date.\" Shortly after [&#8230;]",
+          "published_at": "2026-09-02 12:40",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI",
+            "Tech"
+          ]
+        },
+        {
+          "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+          "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+          "source": "TechCrunch AI",
+          "summary": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
+          "published_at": "2026-09-02 12:09",
+          "tags": [
+            "AI",
+            "Chris Lehane",
+            "lawsuits",
+            "mass shooting",
+            "OpenAI",
+            "tumbler ridge"
+          ]
+        },
+        {
+          "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+          "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+          "source": "TechCrunch AI",
+          "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+          "published_at": "2026-09-01 22:08",
+          "tags": [
+            "AI",
+            "Venture",
+            "In Brief",
+            "Y Combinator"
+          ]
+        }
+      ]
     }
   ]
 }
