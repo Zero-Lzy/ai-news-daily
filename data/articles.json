@@ -1,5 +1,79 @@
 [
   {
+    "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+    "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+    "source": "TechCrunch AI",
+    "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+    "published_at": "2026-09-04 00:48",
+    "tags": [
+      "AI",
+      "Venture",
+      "crusoe",
+      "data centers",
+      "In Brief"
+    ],
+    "fetch_date": "2026-09-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Abliteration.ai is making a business out of removing AI guardrails",
+    "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+    "source": "TechCrunch AI",
+    "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+    "published_at": "2026-09-03 18:37",
+    "tags": [
+      "AI",
+      "Security",
+      "ai safety",
+      "cybersecurity"
+    ],
+    "fetch_date": "2026-09-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Meta is paying to peek at how you use their latest AI model",
+    "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+    "source": "TechCrunch AI",
+    "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
+    "published_at": "2026-09-03 18:19",
+    "tags": [
+      "AI",
+      "Meta"
+    ],
+    "fetch_date": "2026-09-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+    "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+    "source": "TechCrunch AI",
+    "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+    "published_at": "2026-09-03 18:01",
+    "tags": [
+      "AI",
+      "TC",
+      "Astra",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-09-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+    "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+    "source": "TechCrunch AI",
+    "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
+    "published_at": "2026-09-03 16:09",
+    "tags": [
+      "AI",
+      "Startups",
+      "AI assistant",
+      "ollie"
+    ],
+    "fetch_date": "2026-09-04",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Is AI-native Engineering DevOps 2.0 (or even Agile 3.0)?",
     "url": "https://www.wwt.com/blog/is-ai-native-engineering-really-devops-20-or-even-agile-30",
     "source": "Hacker News AI",
@@ -170,6 +244,39 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+    "source": "The Verge AI",
+    "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"critical cybersecurity capability threshold\" - but the company promises that won't [&#8230;]",
+    "published_at": "2026-09-03 14:00",
+    "tags": [
+      "AI",
+      "Analysis",
+      "News",
+      "OpenAI",
+      "Report"
+    ],
+    "fetch_date": "2026-09-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Google says its AI weather model is getting better",
+    "url": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
+    "source": "The Verge AI",
+    "summary": "Google is rolling out an updated AI weather model that's supposed to be more accurate, especially when it comes to predicting rain and snowfall. In the announcement today, the company says it's now able to make forecasts with \"unprecedented resolution\" using its new WeatherNext 3 AI model. It can produce a global picture that's five [&#8230;]",
+    "published_at": "2026-09-03 11:00",
+    "tags": [
+      "AI",
+      "Environment",
+      "Google",
+      "News",
+      "Science",
+      "Tech"
+    ],
+    "fetch_date": "2026-09-04",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Nvidia is buying Hugging Face for almost $13 billion",
     "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
     "source": "The Verge AI",
@@ -318,6 +425,20 @@
       "TechCrunch Disrupt"
     ],
     "fetch_date": "2026-09-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+    "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+    "source": "TechCrunch AI",
+    "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+    "published_at": "2026-09-02 20:19",
+    "tags": [
+      "AI",
+      "ai safety",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-09-04",
     "fetch_label": "早报"
   },
   {
@@ -34961,125 +35082,5 @@
     "tags": [],
     "fetch_date": "2026-05-12",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "Dessn raises $6M for its production focused design tool",
-    "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
-    "source": "TechCrunch AI",
-    "summary": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases.",
-    "published_at": "2026-05-12 13:00",
-    "tags": [
-      "AI",
-      "Fundraising",
-      "BetaWorks",
-      "design",
-      "Figma",
-      "Dessn"
-    ],
-    "fetch_date": "2026-05-12",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Gemini&#8217;s latest updates are all about controlling your phone",
-    "url": "https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill",
-    "source": "The Verge AI",
-    "summary": "It is, once again, Gemini season. Google is announcing a host of new Gemini features during its pre-I/O Android showcase, many of which aim to help use your phone for you. You'll find Gemini in more places, like Chrome on Android, in your autofill suggestions, and all up in your apps - if you want. [&#8230;]",
-    "published_at": "2026-05-12 13:00",
-    "tags": [
-      "AI",
-      "Android",
-      "Google",
-      "Google I/O 2026",
-      "Mobile",
-      "Tech"
-    ],
-    "fetch_date": "2026-05-13",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The 9 biggest new features in Android 17",
-    "url": "https://www.theverge.com/tech/928653/google-android-17-9-biggest-new-features-android-show-io",
-    "source": "The Verge AI",
-    "summary": "Would it shock you to hear that Android 17 is filled with new AI-enabled features, like improved dictation and vibe-coded widgets? Fortunately, that's not all. The platform is getting non-AI updates too, from an emoji overhaul to a new screentime tool that helps you avoid distracting apps. Google has just revealed the biggest changes coming [&#8230;]",
-    "published_at": "2026-05-12 13:00",
-    "tags": [
-      "AI",
-      "Android",
-      "Apps",
-      "Google",
-      "Tech"
-    ],
-    "fetch_date": "2026-05-13",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "George Clooney, Tom Hanks, and Meryl Streep back new &#8216;Human Consent Standard&#8217; for AI licensing",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/928534/rsl-media-human-consent-standard",
-    "source": "The Verge AI",
-    "summary": "Hollywood actors and producers are standing behind a new AI licensing standard that will tell AI systems whether they'll need to pay to use a person's likeness, creative work, characters, and designs. With the Human Consent Standard, people can set terms for the use of their work or likeness, including giving AI systems full permission [&#8230;]",
-    "published_at": "2026-05-12 12:00",
-    "tags": [
-      "AI",
-      "Entertainment",
-      "News",
-      "Tech",
-      "Web"
-    ],
-    "fetch_date": "2026-05-13",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
-    "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
-    "source": "TechCrunch AI",
-    "summary": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.",
-    "published_at": "2026-05-12 11:30",
-    "tags": [
-      "AI",
-      "Bessemer Venture Partners",
-      "Kleiner Perkins",
-      "Exclusive",
-      "M12",
-      "Peak XV Partners",
-      "Vapi",
-      "Amazon Ring"
-    ],
-    "fetch_date": "2026-05-12",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Thinking Machines wants to build an AI that actually listens while it talks",
-    "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
-    "source": "TechCrunch AI",
-    "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.",
-    "published_at": "2026-05-12 04:52",
-    "tags": [
-      "AI",
-      "interaction models",
-      "Mira Murati",
-      "Thinking Machines Lab"
-    ],
-    "fetch_date": "2026-05-12",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Elon Musk's Grok Is Losing Ground in AI Race",
-    "url": "https://www.wsj.com/tech/ai/anthropic-spacex-ai-deal-elon-musk-f86ea369",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/anthropic-spacex-ai-deal-elon-musk-f86ea369 Comments URL: https://news.ycombinator.com/item?id=48103860 Points: 1 # Comments: 1",
-    "published_at": "2026-05-12 03:26",
-    "tags": [],
-    "fetch_date": "2026-05-12",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Skill1: Unified Evolution of Skill-Augmented Agents via Reinforcement Learning",
-    "url": "https://arxiv.org/abs/2605.06130",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://arxiv.org/abs/2605.06130 Comments URL: https://news.ycombinator.com/item?id=48103816 Points: 1 # Comments: 0",
-    "published_at": "2026-05-12 03:20",
-    "tags": [],
-    "fetch_date": "2026-05-12",
-    "fetch_label": "早报"
   }
 ]
