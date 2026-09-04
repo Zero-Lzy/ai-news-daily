@@ -1,5 +1,95 @@
 [
   {
+    "title": "Google’s Gemini Spark can now manage your Google Photos library",
+    "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+    "source": "TechCrunch AI",
+    "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+    "published_at": "2026-09-04 14:47",
+    "tags": [
+      "AI",
+      "Apps",
+      "gemini",
+      "Google Photos"
+    ],
+    "fetch_date": "2026-09-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+    "source": "The Verge AI",
+    "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI [&#8230;]",
+    "published_at": "2026-09-04 09:34",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI",
+      "Security",
+      "Tech"
+    ],
+    "fetch_date": "2026-09-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Instagram’s AI detection is a mess (again)",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+    "source": "The Verge AI",
+    "summary": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone haywire. They say Meta has been automatically applying an \"AI Content\" label to images that they didn't create or edit using generative AI [&#8230;]",
+    "published_at": "2026-09-04 08:00",
+    "tags": [
+      "AI",
+      "Analysis",
+      "Instagram",
+      "Meta",
+      "News",
+      "Report",
+      "Tech"
+    ],
+    "fetch_date": "2026-09-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Why AI food looks like that",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+    "source": "The Verge AI",
+    "summary": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut shrimp, Reubens from the deep, wormlike noodles, and noodle-like pastries and stringy chicken. There's also construction material masquerading as ice cream, ice cream masquerading [&#8230;]",
+    "published_at": "2026-09-04 07:00",
+    "tags": [
+      "AI",
+      "Design",
+      "Tech"
+    ],
+    "fetch_date": "2026-09-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+    "source": "The Verge AI",
+    "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\" on Thursday and described it as the start of \"the [&#8230;]",
+    "published_at": "2026-09-04 06:41",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-09-04",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The sameness problem behind those unappetizing AI-generated menus",
+    "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+    "source": "TechCrunch AI",
+    "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+    "published_at": "2026-09-04 04:21",
+    "tags": [
+      "AI",
+      "Exclusive"
+    ],
+    "fetch_date": "2026-09-04",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Crusoe reportedly raises $3B at a  $30B valuation",
     "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
     "source": "TechCrunch AI",
@@ -221,6 +311,20 @@
     "published_at": "2026-09-03 15:01",
     "tags": [],
     "fetch_date": "2026-09-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+    "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+    "source": "TechCrunch AI",
+    "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
+    "published_at": "2026-09-03 15:00",
+    "tags": [
+      "AI",
+      "Google",
+      "weather forecasting"
+    ],
+    "fetch_date": "2026-09-04",
     "fetch_label": "晚报"
   },
   {
@@ -35009,76 +35113,6 @@
     "source": "Hacker News AI",
     "summary": "Agentic problem solving in its current state is very brittle. I fell in love with it, but it creates as many problems as it solves.I'm Ben Cochran, I spent 20+ years in the trenches with full-stack Engineering, DevOps, high performance computing & ML with stints at NVIDIA, AMD and various other organizations most recently as a Distinguished Engineer.For agents to work reliably you either need massive parameter counts or massive context windows to keep the solution spaces workable. Most people ar",
     "published_at": "2026-05-12 14:24",
-    "tags": [],
-    "fetch_date": "2026-05-12",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Stop using TryHackMe – AI training on userdata",
-    "url": "https://inv.nadeko.net/watch?v=s1TNS1wN920",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://inv.nadeko.net/watch?v=s1TNS1wN920 Comments URL: https://news.ycombinator.com/item?id=48108738 Points: 1 # Comments: 0",
-    "published_at": "2026-05-12 14:22",
-    "tags": [],
-    "fetch_date": "2026-05-12",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: AI IQ – Mapping AI benchmarks onto a common capability scale",
-    "url": "https://www.aiiq.org/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.aiiq.org/ Comments URL: https://news.ycombinator.com/item?id=48108706 Points: 1 # Comments: 0",
-    "published_at": "2026-05-12 14:20",
-    "tags": [],
-    "fetch_date": "2026-05-12",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: YantrikDB – persistent memory for AI agents",
-    "url": "https://github.com/yantrikos/yantrikdb",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/yantrikos/yantrikdb Comments URL: https://news.ycombinator.com/item?id=48108689 Points: 1 # Comments: 1",
-    "published_at": "2026-05-12 14:19",
-    "tags": [],
-    "fetch_date": "2026-05-12",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Why AI doesn't express discomfort signals to ignorant-human-boss",
-    "url": "https://news.ycombinator.com/item?id=48108666",
-    "source": "Hacker News AI",
-    "summary": "why always polite, optimistic, persistent ai ? a human-developer behavior to such persisted ignorant boss will eventually teach \"the-boss\" something Comments URL: https://news.ycombinator.com/item?id=48108666 Points: 1 # Comments: 0",
-    "published_at": "2026-05-12 14:17",
-    "tags": [],
-    "fetch_date": "2026-05-12",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Rise of the AI Soldiers",
-    "url": "https://time.com/article/2026/03/09/ai-robots-soldiers-war/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://time.com/article/2026/03/09/ai-robots-soldiers-war/ Comments URL: https://news.ycombinator.com/item?id=48108520 Points: 1 # Comments: 0",
-    "published_at": "2026-05-12 14:06",
-    "tags": [],
-    "fetch_date": "2026-05-12",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Ytree v3.0.0-alpha, an AI-assisted rewrite towards feature completeness",
-    "url": "https://github.com/robkam/ytree",
-    "source": "Hacker News AI",
-    "summary": "Ytree is a terminal file manager in the XTree style. It can log multiple volumes, collect selected files into a single list, filter that list for operations, and operate on one file at a time or on multiple files. It can also be used to preview, view, and edit files, read and write archives, and compare files and directories.When I first used Linux in the 1990s, Werner Bregulla’s Ytree looked promising. Tinkering with Linux again recently, I found that Ytree was still not fully developed, so I s",
-    "published_at": "2026-05-12 14:06",
-    "tags": [],
-    "fetch_date": "2026-05-12",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Kimiflare, Kimi K2.6 as a Coding Agent on Cloudflare Workers AI",
-    "url": "https://news.ycombinator.com/item?id=48108407",
-    "source": "Hacker News AI",
-    "summary": "hey HN, this is sina.i've had some cloudflare credits expiring on may 14 and was wondering what to do with them. when kimi k2.6 dropped and it was available on workers ai, i figured i'd build an open-source claude code clone with it. didn't think too much about it. (people asked if i know about opencode and tbh i learned about them only after i built this. but they seem really brilliant.)anyway, kimiflare is a CLI coding agent, basically claude code but powered by kimi k2.6 on cloudflare workers",
-    "published_at": "2026-05-12 13:57",
     "tags": [],
     "fetch_date": "2026-05-12",
     "fetch_label": "晚报"

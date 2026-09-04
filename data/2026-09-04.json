@@ -182,6 +182,143 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-09-04 23:52:59",
+      "count": 10,
+      "articles": [
+        {
+          "title": "Google’s Gemini Spark can now manage your Google Photos library",
+          "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+          "source": "TechCrunch AI",
+          "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+          "published_at": "2026-09-04 14:47",
+          "tags": [
+            "AI",
+            "Apps",
+            "gemini",
+            "Google Photos"
+          ]
+        },
+        {
+          "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+          "source": "The Verge AI",
+          "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI [&#8230;]",
+          "published_at": "2026-09-04 09:34",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI",
+            "Security",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Instagram’s AI detection is a mess (again)",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+          "source": "The Verge AI",
+          "summary": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone haywire. They say Meta has been automatically applying an \"AI Content\" label to images that they didn't create or edit using generative AI [&#8230;]",
+          "published_at": "2026-09-04 08:00",
+          "tags": [
+            "AI",
+            "Analysis",
+            "Instagram",
+            "Meta",
+            "News",
+            "Report",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Why AI food looks like that",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+          "source": "The Verge AI",
+          "summary": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut shrimp, Reubens from the deep, wormlike noodles, and noodle-like pastries and stringy chicken. There's also construction material masquerading as ice cream, ice cream masquerading [&#8230;]",
+          "published_at": "2026-09-04 07:00",
+          "tags": [
+            "AI",
+            "Design",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+          "source": "The Verge AI",
+          "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\" on Thursday and described it as the start of \"the [&#8230;]",
+          "published_at": "2026-09-04 06:41",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "The sameness problem behind those unappetizing AI-generated menus",
+          "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+          "source": "TechCrunch AI",
+          "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+          "published_at": "2026-09-04 04:21",
+          "tags": [
+            "AI",
+            "Exclusive"
+          ]
+        },
+        {
+          "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+          "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+          "source": "TechCrunch AI",
+          "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+          "published_at": "2026-09-04 00:48",
+          "tags": [
+            "AI",
+            "Venture",
+            "crusoe",
+            "data centers",
+            "In Brief"
+          ]
+        },
+        {
+          "title": "Abliteration.ai is making a business out of removing AI guardrails",
+          "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+          "source": "TechCrunch AI",
+          "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+          "published_at": "2026-09-03 18:37",
+          "tags": [
+            "AI",
+            "Security",
+            "ai safety",
+            "cybersecurity"
+          ]
+        },
+        {
+          "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+          "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+          "published_at": "2026-09-03 18:01",
+          "tags": [
+            "AI",
+            "TC",
+            "Astra",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+          "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+          "source": "TechCrunch AI",
+          "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
+          "published_at": "2026-09-03 15:00",
+          "tags": [
+            "AI",
+            "Google",
+            "weather forecasting"
+          ]
+        }
+      ]
     }
   ]
 }
