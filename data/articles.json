@@ -1,5 +1,177 @@
 [
   {
+    "title": "GPT-6 Astra is available on Codex",
+    "url": "https://news.ycombinator.com/item?id=49572863",
+    "source": "Hacker News AI",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49572863 Points: 1 # Comments: 0",
+    "published_at": "2026-09-05 03:36",
+    "tags": [],
+    "fetch_date": "2026-09-05",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Rubato – Retro-Mac desk device mirrors AI coding state-ESP8266",
+    "url": "https://github.com/lovaxi/Rubato_Device",
+    "source": "Hacker News AI",
+    "summary": "Hi everyone!I have built an AI health device (ESP8266 + 240*240 screen). It can show AI Agents' status in real time with breathing bubble. And remind user dringking water, toilet, streth, etc.support: DeepSeek Harness, opencode, OpenClaw, Claude Code, Cursor.Hardware design, firmware and plugins are all opensource. urls are here:https://github.com/lovaxi/Rubato_Device https://github.com/lovaxi/Rubato_PluginsType-c power supply, 2.4G wifi.Online sell on Tindie: https://www.tindie.com/products/bea",
+    "published_at": "2026-09-05 03:16",
+    "tags": [],
+    "fetch_date": "2026-09-05",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Lenexus – dependency graph with deterministic risk engine and AI layer",
+    "url": "https://lenexux.com/welcome",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://lenexux.com/welcome Comments URL: https://news.ycombinator.com/item?id=49572417 Points: 2 # Comments: 0",
+    "published_at": "2026-09-05 02:11",
+    "tags": [],
+    "fetch_date": "2026-09-05",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "GitSpawn: Untrusted repos can execute code via AI coding agents",
+    "url": "https://www.manifold.security/blog/ai-coding-agents-git-hijack",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.manifold.security/blog/ai-coding-agents-git-hijack Comments URL: https://news.ycombinator.com/item?id=49572279 Points: 3 # Comments: 0",
+    "published_at": "2026-09-05 01:45",
+    "tags": [],
+    "fetch_date": "2026-09-05",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Tracking Public Predictions with AI",
+    "url": "https://mob.so/prescience",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://mob.so/prescience Comments URL: https://news.ycombinator.com/item?id=49572264 Points: 1 # Comments: 1",
+    "published_at": "2026-09-05 01:42",
+    "tags": [],
+    "fetch_date": "2026-09-05",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Personal AI Router for Local Inference",
+    "url": "https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/ Comments URL: https://news.ycombinator.com/item?id=49572226 Points: 7 # Comments: 0",
+    "published_at": "2026-09-05 01:35",
+    "tags": [],
+    "fetch_date": "2026-09-05",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI-assisted writing is common because writing is hard",
+    "url": "https://greyenlightenment.com/2026/08/24/ai-assisted-writing-is-common-because-writing-is-hard/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://greyenlightenment.com/2026/08/24/ai-assisted-writing-is-common-because-writing-is-hard/ Comments URL: https://news.ycombinator.com/item?id=49572160 Points: 1 # Comments: 1",
+    "published_at": "2026-09-05 01:24",
+    "tags": [],
+    "fetch_date": "2026-09-05",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Claude Fable 5.1 vs. GPT-6 Astra, who wins on the 3D modeling?",
+    "url": "https://github.com/PhiloLabs/fable51-worlds/tree/main",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/PhiloLabs/fable51-worlds/tree/main Comments URL: https://news.ycombinator.com/item?id=49572129 Points: 2 # Comments: 2",
+    "published_at": "2026-09-05 01:17",
+    "tags": [],
+    "fetch_date": "2026-09-05",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "GPT-6 Astra: First Experience (high)",
+    "url": "https://chatgpt.com/share/6a9b671d-b780-83ea-bd5d-b0ea39f7d9b3",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://chatgpt.com/share/6a9b671d-b780-83ea-bd5d-b0ea39f7d9b3 Comments URL: https://news.ycombinator.com/item?id=49571948 Points: 2 # Comments: 1",
+    "published_at": "2026-09-05 00:50",
+    "tags": [],
+    "fetch_date": "2026-09-05",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "GPT-6 Astra is now out to all Plus, Business, Pro, and Enterprise users",
+    "url": "https://twitter.com/sama/status/2096008528834244741",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/sama/status/2096008528834244741 Comments URL: https://news.ycombinator.com/item?id=49571582 Points: 8 # Comments: 0",
+    "published_at": "2026-09-04 23:57",
+    "tags": [],
+    "fetch_date": "2026-09-05",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "GPT-6 Astra on Vercel AI Gateway",
+    "url": "https://vercel.com/ai-gateway/models/gpt-6-astra",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://vercel.com/ai-gateway/models/gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49571548 Points: 3 # Comments: 0",
+    "published_at": "2026-09-04 23:51",
+    "tags": [],
+    "fetch_date": "2026-09-05",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+    "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+    "source": "TechCrunch AI",
+    "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+    "published_at": "2026-09-04 23:36",
+    "tags": [
+      "AI",
+      "Robotics",
+      "Startups",
+      "8VC"
+    ],
+    "fetch_date": "2026-09-05",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The 33-Year-Old AI Hotshot Taking Silicon Valley Swagger Back to Beijing",
+    "url": "https://www.wsj.com/tech/ai/moonshot-ai-yang-ceo-china-6f12ddbf",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/moonshot-ai-yang-ceo-china-6f12ddbf Comments URL: https://news.ycombinator.com/item?id=49571306 Points: 3 # Comments: 1",
+    "published_at": "2026-09-04 23:16",
+    "tags": [],
+    "fetch_date": "2026-09-05",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "GPT-6 Astra proves Berge Fulkerson for C(20) graphs",
+    "url": "https://twitter.com/fcesco/status/2096001522312085724",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/fcesco/status/2096001522312085724 Comments URL: https://news.ycombinator.com/item?id=49571152 Points: 4 # Comments: 0",
+    "published_at": "2026-09-04 22:54",
+    "tags": [],
+    "fetch_date": "2026-09-05",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Exhibit of 2026 AI Agents",
+    "url": "https://agent-museum-2026.halstonsellentin.chatgpt.site",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://agent-museum-2026.halstonsellentin.chatgpt.site Comments URL: https://news.ycombinator.com/item?id=49570787 Points: 1 # Comments: 0",
+    "published_at": "2026-09-04 22:04",
+    "tags": [],
+    "fetch_date": "2026-09-05",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "What will Apple’s John Ternus era look like?",
+    "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+    "source": "TechCrunch AI",
+    "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#160;he&#8217;s&#160;even settled in. Cook&#160;isn&#8217;t&#160;going far, though:&#160;he&#8217;s&#160;staying on as Executive&#160;Chairman, focused on the kind of policy [&#8230;]",
+    "published_at": "2026-09-04 17:18",
+    "tags": [
+      "AI",
+      "Apple",
+      "John Ternus",
+      "nvidia",
+      "Tesla",
+      "Tim Cook"
+    ],
+    "fetch_date": "2026-09-05",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Google’s Gemini Spark can now manage your Google Photos library",
     "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
     "source": "TechCrunch AI",
@@ -75,6 +247,22 @@
     ],
     "fetch_date": "2026-09-04",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "This NAS company wants to run your local smart home",
+    "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+    "source": "The Verge AI",
+    "summary": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home control in one system, managed by a [&#8230;]",
+    "published_at": "2026-09-04 05:41",
+    "tags": [
+      "AI",
+      "IFA 2026",
+      "News",
+      "Smart Home",
+      "Tech"
+    ],
+    "fetch_date": "2026-09-05",
+    "fetch_label": "早报"
   },
   {
     "title": "The sameness problem behind those unappetizing AI-generated menus",
@@ -361,6 +549,22 @@
       "Report"
     ],
     "fetch_date": "2026-09-04",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+    "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+    "source": "TechCrunch AI",
+    "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+    "published_at": "2026-09-03 12:42",
+    "tags": [
+      "AI",
+      "Hugging Face",
+      "Jensen Huang",
+      "Mergers and Acquisitions",
+      "nvidia"
+    ],
+    "fetch_date": "2026-09-05",
     "fetch_label": "早报"
   },
   {
@@ -34901,220 +35105,5 @@
     "tags": [],
     "fetch_date": "2026-05-13",
     "fetch_label": "早报"
-  },
-  {
-    "title": "Using LLM in the shebang line of a script",
-    "url": "https://til.simonwillison.net/llms/llm-shebang",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://til.simonwillison.net/llms/llm-shebang Comments URL: https://news.ycombinator.com/item?id=48116986 Points: 3 # Comments: 0",
-    "published_at": "2026-05-13 02:03",
-    "tags": [],
-    "fetch_date": "2026-05-13",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Revisiting \"No Silver Bullets\" in the Age of AI",
-    "url": "https://newsletter.pragmaticengineer.com/p/revisiting-no-silver-bullets-in-the",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://newsletter.pragmaticengineer.com/p/revisiting-no-silver-bullets-in-the Comments URL: https://news.ycombinator.com/item?id=48116862 Points: 1 # Comments: 1",
-    "published_at": "2026-05-13 01:43",
-    "tags": [],
-    "fetch_date": "2026-05-13",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Ask HN: Is your kids Alexa now have conversational AI?",
-    "url": "https://news.ycombinator.com/item?id=48116806",
-    "source": "Hacker News AI",
-    "summary": "I had a very locked down kids Alexa for my daughter that could just play music and stories and was age restricted. Today though its now a conversational AI and my daughter is talking to it like a human. How can I disable this? How the heck did they opt-in to this? Comments URL: https://news.ycombinator.com/item?id=48116806 Points: 1 # Comments: 0",
-    "published_at": "2026-05-13 01:35",
-    "tags": [],
-    "fetch_date": "2026-05-13",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "How AI Killed a 133-Year-Old Princeton Tradition",
-    "url": "https://www.theatlantic.com/ideas/2026/05/princeton-ai-honor-code/687144/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.theatlantic.com/ideas/2026/05/princeton-ai-honor-code/687144/ Comments URL: https://news.ycombinator.com/item?id=48116752 Points: 4 # Comments: 0",
-    "published_at": "2026-05-13 01:23",
-    "tags": [],
-    "fetch_date": "2026-05-13",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Atlas: An LLM inference engine written from scratch in Rust and CUDA",
-    "url": "https://atlasinference.io",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://atlasinference.io Comments URL: https://news.ycombinator.com/item?id=48116631 Points: 3 # Comments: 0",
-    "published_at": "2026-05-13 01:02",
-    "tags": [],
-    "fetch_date": "2026-05-13",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI shouldn't have a meter. Unlimited tokens. Forever",
-    "url": "https://www.openmonoagent.ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.openmonoagent.ai/ Comments URL: https://news.ycombinator.com/item?id=48116604 Points: 16 # Comments: 7",
-    "published_at": "2026-05-13 00:58",
-    "tags": [],
-    "fetch_date": "2026-05-13",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Chrome extension that blocks API keys from being pasted into AI tools",
-    "url": "https://vaultbix.com",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://vaultbix.com Comments URL: https://news.ycombinator.com/item?id=48116429 Points: 2 # Comments: 0",
-    "published_at": "2026-05-13 00:34",
-    "tags": [],
-    "fetch_date": "2026-05-13",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI load breaks GitHub – why not other vendors?",
-    "url": "https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github/ Comments URL: https://news.ycombinator.com/item?id=48115918 Points: 7 # Comments: 3",
-    "published_at": "2026-05-12 23:27",
-    "tags": [],
-    "fetch_date": "2026-05-13",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The newest AI boom pitch: Host a mini data center at your home",
-    "url": "https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/ Comments URL: https://news.ycombinator.com/item?id=48115754 Points: 2 # Comments: 0",
-    "published_at": "2026-05-12 23:06",
-    "tags": [],
-    "fetch_date": "2026-05-13",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Anything that is underneath the cursor gets fed into Google's surveillance AI",
-    "url": "https://mastodon.social/@mcc/116563821063587689",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://mastodon.social/@mcc/116563821063587689 Comments URL: https://news.ycombinator.com/item?id=48115669 Points: 4 # Comments: 0",
-    "published_at": "2026-05-12 22:55",
-    "tags": [],
-    "fetch_date": "2026-05-13",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Musk mulled handing OpenAI to his children, Altman testifies",
-    "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
-    "source": "TechCrunch AI",
-    "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usually did not give it up.\"",
-    "published_at": "2026-05-12 18:05",
-    "tags": [
-      "AI",
-      "Elon Musk",
-      "OpenAI",
-      "sam altman"
-    ],
-    "fetch_date": "2026-05-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Report: Google and SpaceX in talks to put data centers into orbit",
-    "url": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
-    "source": "TechCrunch AI",
-    "summary": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
-    "published_at": "2026-05-12 17:30",
-    "tags": [
-      "AI",
-      "Space",
-      "Alphabet",
-      "Anthropic",
-      "Google",
-      "In Brief",
-      "orbital data centers",
-      "SpaceX",
-      "xAI"
-    ],
-    "fetch_date": "2026-05-13",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
-    "url": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
-    "source": "TechCrunch AI",
-    "summary": "Anthropic's new tools are designed to help law firms automate specific clerical functions — things like document search and review, case law resources, deposition prep, document drafting, and other related areas.",
-    "published_at": "2026-05-12 17:00",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "Claude",
-      "Harvey",
-      "legora"
-    ],
-    "fetch_date": "2026-05-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Google brings agentic AI and vibe-coded widgets to Android",
-    "url": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
-    "source": "TechCrunch AI",
-    "summary": "Gemini Intelligence will also include Gboard-based dictation and form-filling capabilities.",
-    "published_at": "2026-05-12 17:00",
-    "tags": [
-      "AI",
-      "Apps",
-      "Chrome",
-      "gemini",
-      "Google",
-      "vibe coding"
-    ],
-    "fetch_date": "2026-05-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Threads tests a Meta AI integration that works similarly to Grok",
-    "url": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
-    "source": "TechCrunch AI",
-    "summary": "The feature is designed to help people get real-time context about trends and breaking stories, as well as receive recommendations, all within conversations.",
-    "published_at": "2026-05-12 16:34",
-    "tags": [
-      "AI",
-      "Apps",
-      "Social",
-      "Meta",
-      "meta ai",
-      "Threads"
-    ],
-    "fetch_date": "2026-05-13",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Adversaries Leverage AI for Vulnerability Exploitation",
-    "url": "https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access/ Comments URL: https://news.ycombinator.com/item?id=48108786 Points: 1 # Comments: 0",
-    "published_at": "2026-05-12 14:25",
-    "tags": [],
-    "fetch_date": "2026-05-12",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Is using AI wrong? A review of six popular anti-AI arguments",
-    "url": "https://www.seangoedecke.com/is-ai-wrong/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.seangoedecke.com/is-ai-wrong/ Comments URL: https://news.ycombinator.com/item?id=48108784 Points: 2 # Comments: 0",
-    "published_at": "2026-05-12 14:25",
-    "tags": [],
-    "fetch_date": "2026-05-12",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
-    "url": "https://github.com/statewright/statewright",
-    "source": "Hacker News AI",
-    "summary": "Agentic problem solving in its current state is very brittle. I fell in love with it, but it creates as many problems as it solves.I'm Ben Cochran, I spent 20+ years in the trenches with full-stack Engineering, DevOps, high performance computing & ML with stints at NVIDIA, AMD and various other organizations most recently as a Distinguished Engineer.For agents to work reliably you either need massive parameter counts or massive context windows to keep the solution spaces workable. Most people ar",
-    "published_at": "2026-05-12 14:24",
-    "tags": [],
-    "fetch_date": "2026-05-12",
-    "fetch_label": "晚报"
   }
 ]

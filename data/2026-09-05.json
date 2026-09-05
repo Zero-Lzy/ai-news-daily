@@ -1,0 +1,280 @@
+{
+  "date": "2026-09-05",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-09-05 11:37:25",
+      "count": 26,
+      "articles": [
+        {
+          "title": "GPT-6 Astra is available on Codex",
+          "url": "https://news.ycombinator.com/item?id=49572863",
+          "source": "Hacker News AI",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=49572863 Points: 1 # Comments: 0",
+          "published_at": "2026-09-05 03:36",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Rubato – Retro-Mac desk device mirrors AI coding state-ESP8266",
+          "url": "https://github.com/lovaxi/Rubato_Device",
+          "source": "Hacker News AI",
+          "summary": "Hi everyone!I have built an AI health device (ESP8266 + 240*240 screen). It can show AI Agents' status in real time with breathing bubble. And remind user dringking water, toilet, streth, etc.support: DeepSeek Harness, opencode, OpenClaw, Claude Code, Cursor.Hardware design, firmware and plugins are all opensource. urls are here:https://github.com/lovaxi/Rubato_Device https://github.com/lovaxi/Rubato_PluginsType-c power supply, 2.4G wifi.Online sell on Tindie: https://www.tindie.com/products/bea",
+          "published_at": "2026-09-05 03:16",
+          "tags": []
+        },
+        {
+          "title": "Lenexus – dependency graph with deterministic risk engine and AI layer",
+          "url": "https://lenexux.com/welcome",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://lenexux.com/welcome Comments URL: https://news.ycombinator.com/item?id=49572417 Points: 2 # Comments: 0",
+          "published_at": "2026-09-05 02:11",
+          "tags": []
+        },
+        {
+          "title": "GitSpawn: Untrusted repos can execute code via AI coding agents",
+          "url": "https://www.manifold.security/blog/ai-coding-agents-git-hijack",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.manifold.security/blog/ai-coding-agents-git-hijack Comments URL: https://news.ycombinator.com/item?id=49572279 Points: 3 # Comments: 0",
+          "published_at": "2026-09-05 01:45",
+          "tags": []
+        },
+        {
+          "title": "Tracking Public Predictions with AI",
+          "url": "https://mob.so/prescience",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://mob.so/prescience Comments URL: https://news.ycombinator.com/item?id=49572264 Points: 1 # Comments: 1",
+          "published_at": "2026-09-05 01:42",
+          "tags": []
+        },
+        {
+          "title": "Personal AI Router for Local Inference",
+          "url": "https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/ Comments URL: https://news.ycombinator.com/item?id=49572226 Points: 7 # Comments: 0",
+          "published_at": "2026-09-05 01:35",
+          "tags": []
+        },
+        {
+          "title": "AI-assisted writing is common because writing is hard",
+          "url": "https://greyenlightenment.com/2026/08/24/ai-assisted-writing-is-common-because-writing-is-hard/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://greyenlightenment.com/2026/08/24/ai-assisted-writing-is-common-because-writing-is-hard/ Comments URL: https://news.ycombinator.com/item?id=49572160 Points: 1 # Comments: 1",
+          "published_at": "2026-09-05 01:24",
+          "tags": []
+        },
+        {
+          "title": "Claude Fable 5.1 vs. GPT-6 Astra, who wins on the 3D modeling?",
+          "url": "https://github.com/PhiloLabs/fable51-worlds/tree/main",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/PhiloLabs/fable51-worlds/tree/main Comments URL: https://news.ycombinator.com/item?id=49572129 Points: 2 # Comments: 2",
+          "published_at": "2026-09-05 01:17",
+          "tags": []
+        },
+        {
+          "title": "GPT-6 Astra: First Experience (high)",
+          "url": "https://chatgpt.com/share/6a9b671d-b780-83ea-bd5d-b0ea39f7d9b3",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://chatgpt.com/share/6a9b671d-b780-83ea-bd5d-b0ea39f7d9b3 Comments URL: https://news.ycombinator.com/item?id=49571948 Points: 2 # Comments: 1",
+          "published_at": "2026-09-05 00:50",
+          "tags": []
+        },
+        {
+          "title": "GPT-6 Astra is now out to all Plus, Business, Pro, and Enterprise users",
+          "url": "https://twitter.com/sama/status/2096008528834244741",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://twitter.com/sama/status/2096008528834244741 Comments URL: https://news.ycombinator.com/item?id=49571582 Points: 8 # Comments: 0",
+          "published_at": "2026-09-04 23:57",
+          "tags": []
+        },
+        {
+          "title": "GPT-6 Astra on Vercel AI Gateway",
+          "url": "https://vercel.com/ai-gateway/models/gpt-6-astra",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://vercel.com/ai-gateway/models/gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49571548 Points: 3 # Comments: 0",
+          "published_at": "2026-09-04 23:51",
+          "tags": []
+        },
+        {
+          "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+          "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+          "source": "TechCrunch AI",
+          "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+          "published_at": "2026-09-04 23:36",
+          "tags": [
+            "AI",
+            "Robotics",
+            "Startups",
+            "8VC"
+          ]
+        },
+        {
+          "title": "The 33-Year-Old AI Hotshot Taking Silicon Valley Swagger Back to Beijing",
+          "url": "https://www.wsj.com/tech/ai/moonshot-ai-yang-ceo-china-6f12ddbf",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wsj.com/tech/ai/moonshot-ai-yang-ceo-china-6f12ddbf Comments URL: https://news.ycombinator.com/item?id=49571306 Points: 3 # Comments: 1",
+          "published_at": "2026-09-04 23:16",
+          "tags": []
+        },
+        {
+          "title": "GPT-6 Astra proves Berge Fulkerson for C(20) graphs",
+          "url": "https://twitter.com/fcesco/status/2096001522312085724",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://twitter.com/fcesco/status/2096001522312085724 Comments URL: https://news.ycombinator.com/item?id=49571152 Points: 4 # Comments: 0",
+          "published_at": "2026-09-04 22:54",
+          "tags": []
+        },
+        {
+          "title": "Abliteration.ai is making a business out of removing AI guardrails",
+          "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/ Comments URL: https://news.ycombinator.com/item?id=49571001 Points: 3 # Comments: 0",
+          "published_at": "2026-09-04 22:32",
+          "tags": []
+        },
+        {
+          "title": "Exhibit of 2026 AI Agents",
+          "url": "https://agent-museum-2026.halstonsellentin.chatgpt.site",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://agent-museum-2026.halstonsellentin.chatgpt.site Comments URL: https://news.ycombinator.com/item?id=49570787 Points: 1 # Comments: 0",
+          "published_at": "2026-09-04 22:04",
+          "tags": []
+        },
+        {
+          "title": "What will Apple’s John Ternus era look like?",
+          "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+          "source": "TechCrunch AI",
+          "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#160;he&#8217;s&#160;even settled in. Cook&#160;isn&#8217;t&#160;going far, though:&#160;he&#8217;s&#160;staying on as Executive&#160;Chairman, focused on the kind of policy [&#8230;]",
+          "published_at": "2026-09-04 17:18",
+          "tags": [
+            "AI",
+            "Apple",
+            "John Ternus",
+            "nvidia",
+            "Tesla",
+            "Tim Cook"
+          ]
+        },
+        {
+          "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+          "source": "The Verge AI",
+          "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI [&#8230;]",
+          "published_at": "2026-09-04 09:34",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI",
+            "Security",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Why AI food looks like that",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+          "source": "The Verge AI",
+          "summary": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut shrimp, Reubens from the deep, wormlike noodles, and noodle-like pastries and stringy chicken. There's also construction material masquerading as ice cream, ice cream masquerading [&#8230;]",
+          "published_at": "2026-09-04 07:00",
+          "tags": [
+            "AI",
+            "Design",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+          "source": "The Verge AI",
+          "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\" on Thursday and described it as the start of \"the [&#8230;]",
+          "published_at": "2026-09-04 06:41",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "This NAS company wants to run your local smart home",
+          "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+          "source": "The Verge AI",
+          "summary": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home control in one system, managed by a [&#8230;]",
+          "published_at": "2026-09-04 05:41",
+          "tags": [
+            "AI",
+            "IFA 2026",
+            "News",
+            "Smart Home",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+          "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+          "source": "TechCrunch AI",
+          "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+          "published_at": "2026-09-04 00:48",
+          "tags": [
+            "AI",
+            "Venture",
+            "crusoe",
+            "data centers",
+            "In Brief"
+          ]
+        },
+        {
+          "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+          "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+          "published_at": "2026-09-03 18:01",
+          "tags": [
+            "AI",
+            "TC",
+            "Astra",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+          "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+          "source": "TechCrunch AI",
+          "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
+          "published_at": "2026-09-03 16:09",
+          "tags": [
+            "AI",
+            "Startups",
+            "AI assistant",
+            "ollie"
+          ]
+        },
+        {
+          "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+          "source": "The Verge AI",
+          "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"critical cybersecurity capability threshold\" - but the company promises that won't [&#8230;]",
+          "published_at": "2026-09-03 14:00",
+          "tags": [
+            "AI",
+            "Analysis",
+            "News",
+            "OpenAI",
+            "Report"
+          ]
+        },
+        {
+          "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+          "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+          "published_at": "2026-09-03 12:42",
+          "tags": [
+            "AI",
+            "Hugging Face",
+            "Jensen Huang",
+            "Mergers and Acquisitions",
+            "nvidia"
+          ]
+        }
+      ]
+    }
+  ]
+}
