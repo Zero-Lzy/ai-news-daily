@@ -1,5 +1,35 @@
 [
   {
+    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "source": "TechCrunch AI",
+    "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+    "published_at": "2026-09-05 22:49",
+    "tags": [
+      "AI",
+      "Media & Entertainment",
+      "Microsoft",
+      "Newsday",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-09-06",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Hikers rescued after using Google Gemini for planning",
+    "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+    "source": "TechCrunch AI",
+    "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+    "published_at": "2026-09-05 19:35",
+    "tags": [
+      "AI",
+      "gemini",
+      "Google"
+    ],
+    "fetch_date": "2026-09-06",
+    "fetch_label": "早报"
+  },
+  {
     "title": "OpenAI admits to German wiki ‘incident’",
     "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
     "source": "The Verge AI",
@@ -213,6 +243,23 @@
     ],
     "fetch_date": "2026-09-05",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+    "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+    "source": "TechCrunch AI",
+    "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#160;he&#8217;s&#160;even settled in. Cook&#160;isn&#8217;t&#160;going far, though:&#160;he&#8217;s&#160;staying on as Executive&#160;Chairman, focused on the kind of policy [&#8230;]",
+    "published_at": "2026-09-04 16:04",
+    "tags": [
+      "AI",
+      "Apple",
+      "Equity podcast",
+      "John Ternus",
+      "nvidia",
+      "Tesla"
+    ],
+    "fetch_date": "2026-09-06",
+    "fetch_label": "早报"
   },
   {
     "title": "Google’s Gemini Spark can now manage your Google Photos library",
@@ -35077,36 +35124,6 @@
     "source": "Hacker News AI",
     "summary": "Article URL: https://github.com/Mindburn-Labs/helm-ai-kernel Comments URL: https://news.ycombinator.com/item?id=48121617 Points: 1 # Comments: 0",
     "published_at": "2026-05-13 13:25",
-    "tags": [],
-    "fetch_date": "2026-05-13",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Coding Assistant Is Not Enough",
-    "url": "https://articles.zimetic.com/your-ai-coding-assistant-is-not-enough/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://articles.zimetic.com/your-ai-coding-assistant-is-not-enough/ Comments URL: https://news.ycombinator.com/item?id=48121580 Points: 2 # Comments: 0",
-    "published_at": "2026-05-13 13:22",
-    "tags": [],
-    "fetch_date": "2026-05-13",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Princeton Changes Its 133-Year-Old Honor Code over AI Cheating Fears",
-    "url": "https://www.wsj.com/us-news/education/princeton-cheating-ai-proctors-2a1cf62e",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.wsj.com/us-news/education/princeton-cheating-ai-proctors-2a1cf62e Comments URL: https://news.ycombinator.com/item?id=48121542 Points: 2 # Comments: 1",
-    "published_at": "2026-05-13 13:19",
-    "tags": [],
-    "fetch_date": "2026-05-13",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Beyond the Coding Assistant: A Series on AI-Assisted Software Engineering",
-    "url": "https://articles.zimetic.com/beyond-the-coding-assistant-a-series-on-ai-assisted-software-engineering/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://articles.zimetic.com/beyond-the-coding-assistant-a-series-on-ai-assisted-software-engineering/ Comments URL: https://news.ycombinator.com/item?id=48121506 Points: 2 # Comments: 0",
-    "published_at": "2026-05-13 13:16",
     "tags": [],
     "fetch_date": "2026-05-13",
     "fetch_label": "晚报"
