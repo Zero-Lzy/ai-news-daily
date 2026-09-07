@@ -1,5 +1,135 @@
 [
   {
+    "title": "Can AI Replace a Nevada Brothel Sex Worker?",
+    "url": "https://brothelnevada.com/2026/09/05/ai-replace-sex-workers/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://brothelnevada.com/2026/09/05/ai-replace-sex-workers/ Comments URL: https://news.ycombinator.com/item?id=49600438 Points: 1 # Comments: 0",
+    "published_at": "2026-09-07 16:59",
+    "tags": [],
+    "fetch_date": "2026-09-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Sen. Kennedy rails against AI developers as 'high IQ stupid people'",
+    "url": "https://www.politico.com/news/2026/09/06/kennedy-ai-developers-high-iq-stupid-people-01066756",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.politico.com/news/2026/09/06/kennedy-ai-developers-high-iq-stupid-people-01066756 Comments URL: https://news.ycombinator.com/item?id=49600305 Points: 3 # Comments: 0",
+    "published_at": "2026-09-07 16:47",
+    "tags": [],
+    "fetch_date": "2026-09-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Apple's \"Think Different\" inspired ad made by AI",
+    "url": "https://twitter.com/Noahsarc1000/status/2096989380774903883",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/Noahsarc1000/status/2096989380774903883 Comments URL: https://news.ycombinator.com/item?id=49600141 Points: 1 # Comments: 1",
+    "published_at": "2026-09-07 16:32",
+    "tags": [],
+    "fetch_date": "2026-09-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ask HN: What LLM are you using?",
+    "url": "https://news.ycombinator.com/item?id=49600138",
+    "source": "Hacker News AI",
+    "summary": "Is there a list of best llm by use case? Comments URL: https://news.ycombinator.com/item?id=49600138 Points: 1 # Comments: 2",
+    "published_at": "2026-09-07 16:32",
+    "tags": [],
+    "fetch_date": "2026-09-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Where every AI coding tool keeps its config",
+    "url": "https://github.com/moneytool/agentmeld/blob/main/docs/where-ai-coding-tools-keep-their-config.md",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/moneytool/agentmeld/blob/main/docs/where-ai-coding-tools-keep-their-config.md Comments URL: https://news.ycombinator.com/item?id=49600009 Points: 2 # Comments: 0",
+    "published_at": "2026-09-07 16:19",
+    "tags": [],
+    "fetch_date": "2026-09-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: LLM Council: survival-of-the-fittest multi-modal deliberation",
+    "url": "https://github.com/Moiz-I/council-of-claude",
+    "source": "Hacker News AI",
+    "summary": "Inspired by how bee swarms find the best nest - scouts argue for their picks, strongest conviction wins. Same here: models independently respond, then anonymously review each other (no playing favorites), vouch/challenge/build on ideas, and a chairman synthesizes the survivor.The cross-pollination between different model biases is where the magic is. Gets outputs none of them produce alone. Comments URL: https://news.ycombinator.com/item?id=49599973 Points: 1 # Comments: 0",
+    "published_at": "2026-09-07 16:15",
+    "tags": [],
+    "fetch_date": "2026-09-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "UN rights chief calls for international red lines on AI",
+    "url": "https://thenextweb.com/news/un-rights-chief-ai-red-lines-existential-risk",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://thenextweb.com/news/un-rights-chief-ai-red-lines-existential-risk Comments URL: https://news.ycombinator.com/item?id=49599779 Points: 1 # Comments: 0",
+    "published_at": "2026-09-07 15:57",
+    "tags": [],
+    "fetch_date": "2026-09-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "SuperAstra: Edit Super Nintendo games live with GPT-6",
+    "url": "https://twitter.com/scottastevenson/status/2096972908828426747",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/scottastevenson/status/2096972908828426747 Comments URL: https://news.ycombinator.com/item?id=49599431 Points: 2 # Comments: 1",
+    "published_at": "2026-09-07 15:21",
+    "tags": [],
+    "fetch_date": "2026-09-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The Waymo effect: how AI is quietly making research less collaborative",
+    "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.researchagenda.news/articles/the-waymo-effect.html Comments URL: https://news.ycombinator.com/item?id=49599267 Points: 3 # Comments: 0",
+    "published_at": "2026-09-07 15:07",
+    "tags": [],
+    "fetch_date": "2026-09-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Hikers stranded on Mount Shasta after following a plan by Gemini AI",
+    "url": "https://www.latimes.com/california/story/2026-09-03/hikers-following-google-gemini-ai-route-become-stranded-on-mt-shasta",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.latimes.com/california/story/2026-09-03/hikers-following-google-gemini-ai-route-become-stranded-on-mt-shasta Comments URL: https://news.ycombinator.com/item?id=49599132 Points: 4 # Comments: 0",
+    "published_at": "2026-09-07 14:56",
+    "tags": [],
+    "fetch_date": "2026-09-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The Problem with Your AI Tests",
+    "url": "https://www.michaelbromley.co.uk/blog/the-problem-with-your-ai-tests/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.michaelbromley.co.uk/blog/the-problem-with-your-ai-tests/ Comments URL: https://news.ycombinator.com/item?id=49599049 Points: 2 # Comments: 1",
+    "published_at": "2026-09-07 14:49",
+    "tags": [],
+    "fetch_date": "2026-09-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The complex corporate web behind a $3.2 billion AI data center",
+    "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/ Comments URL: https://news.ycombinator.com/item?id=49599018 Points: 3 # Comments: 0",
+    "published_at": "2026-09-07 14:45",
+    "tags": [],
+    "fetch_date": "2026-09-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Joshua 8:1 NIV – AI destroyed",
+    "url": "https://www.biblegateway.com/passage/?search=Joshua%25208%253A1&version=NIV",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.biblegateway.com/passage/?search=Joshua%25208%253A1&amp;version=NIV Comments URL: https://news.ycombinator.com/item?id=49598971 Points: 2 # Comments: 1",
+    "published_at": "2026-09-07 14:40",
+    "tags": [],
+    "fetch_date": "2026-09-08",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
     "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
     "source": "TechCrunch AI",
@@ -34990,152 +35120,5 @@
     ],
     "fetch_date": "2026-05-14",
     "fetch_label": "早报"
-  },
-  {
-    "title": "Microsoft&#8217;s Edge Copilot update uses AI to pull information from across your tabs",
-    "url": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs",
-    "source": "The Verge AI",
-    "summary": "Microsoft Edge is adding a new feature that will allow its Copilot AI chatbot to gather information from all of your open tabs. When you start a conversation with Copilot, you can ask the chatbot questions about what's in your tabs, compare the products you're looking at, summarize your open articles, and more. In its [&#8230;]",
-    "published_at": "2026-05-13 18:04",
-    "tags": [
-      "AI",
-      "Microsoft",
-      "News",
-      "Tech",
-      "Web"
-    ],
-    "fetch_date": "2026-05-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "What breaks when AI-generated code reaches production systems",
-    "url": "https://deepsense.ai/blog/when-code-gets-cheaper-judgment-gets-more-precious-quality-bottlenecks-in-enterprise-ai-systems/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://deepsense.ai/blog/when-code-gets-cheaper-judgment-gets-more-precious-quality-bottlenecks-in-enterprise-ai-systems/ Comments URL: https://news.ycombinator.com/item?id=48122418 Points: 2 # Comments: 0",
-    "published_at": "2026-05-13 14:29",
-    "tags": [],
-    "fetch_date": "2026-05-13",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Kyunghyuncho Teaching Fundamentals of Machine Learning",
-    "url": "https://kyunghyuncho.me/teaching-fundamentals-of-machine-learning/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://kyunghyuncho.me/teaching-fundamentals-of-machine-learning/ Comments URL: https://news.ycombinator.com/item?id=48122411 Points: 1 # Comments: 0",
-    "published_at": "2026-05-13 14:29",
-    "tags": [],
-    "fetch_date": "2026-05-13",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Journal",
-    "url": "https://aijournal.store",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://aijournal.store Comments URL: https://news.ycombinator.com/item?id=48122357 Points: 1 # Comments: 0",
-    "published_at": "2026-05-13 14:25",
-    "tags": [],
-    "fetch_date": "2026-05-13",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Ask HN: What are you working on (non-AI)?",
-    "url": "https://news.ycombinator.com/item?id=48122103",
-    "source": "Hacker News AI",
-    "summary": "Please don't turn this into an inflammatory post.Regardless of \"AI\" being good or bad (it's not even just one thing as many of you know), I feel like the \"What are you working on?\" posts are drowning in things that use AI for something and/or are clearly \"AI slop\".I'd like to look at things other humans have been doing (even if they used a bit of some kind of AI for assistance), that aren't a product or tool that uses AI for something.I know it exists (and I use and build some), but it's incredi",
-    "published_at": "2026-05-13 14:07",
-    "tags": [],
-    "fetch_date": "2026-05-13",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "WhatsApp adds an incognito mode in Meta AI chats",
-    "url": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
-    "source": "TechCrunch AI",
-    "summary": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat.",
-    "published_at": "2026-05-13 14:00",
-    "tags": [
-      "AI",
-      "Apps",
-      "Meta",
-      "meta ai",
-      "WhatsApp"
-    ],
-    "fetch_date": "2026-05-13",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
-    "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
-    "source": "TechCrunch AI",
-    "summary": "A survey compiled from fintech firm Ramp’s clients’ expense data shows 34.4% of participating businesses are paying for Anthropic services, more than any other AI lab, while only 32.3% pay for OpenAI.",
-    "published_at": "2026-05-13 14:00",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "OpenAI",
-      "Ramp"
-    ],
-    "fetch_date": "2026-05-14",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "What if your AI could buy you a car?",
-    "url": "https://medium.com/@alex_21933/what-if-your-ai-could-actually-buy-you-a-car-7ba84bae4a55",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://medium.com/@alex_21933/what-if-your-ai-could-actually-buy-you-a-car-7ba84bae4a55 Comments URL: https://news.ycombinator.com/item?id=48121946 Points: 1 # Comments: 1",
-    "published_at": "2026-05-13 13:55",
-    "tags": [],
-    "fetch_date": "2026-05-13",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The US Is Winning the AI Race",
-    "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://avkcode.github.io/blog/us-winning-ai-race.html Comments URL: https://news.ycombinator.com/item?id=48121929 Points: 30 # Comments: 45",
-    "published_at": "2026-05-13 13:53",
-    "tags": [],
-    "fetch_date": "2026-05-13",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI agents make small companies bigger",
-    "url": "https://text-incubation.com/ai-agents-make-small-companies-bigger",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://text-incubation.com/ai-agents-make-small-companies-bigger Comments URL: https://news.ycombinator.com/item?id=48121836 Points: 1 # Comments: 0",
-    "published_at": "2026-05-13 13:44",
-    "tags": [],
-    "fetch_date": "2026-05-13",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Software Developers Say AI Is Rotting Their Brains",
-    "url": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/ Comments URL: https://news.ycombinator.com/item?id=48121717 Points: 44 # Comments: 48",
-    "published_at": "2026-05-13 13:34",
-    "tags": [],
-    "fetch_date": "2026-05-13",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Claude's Constitution; or love as the solution to the AI alignment problem",
-    "url": "https://nintil.com/claude-constitution/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://nintil.com/claude-constitution/ Comments URL: https://news.ycombinator.com/item?id=48121669 Points: 1 # Comments: 0",
-    "published_at": "2026-05-13 13:30",
-    "tags": [],
-    "fetch_date": "2026-05-13",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "I tried to put an on-device LLM in an iOS Share Extension. It didn't fit",
-    "url": "https://apps.apple.com/ch/app/recipeinbox-rezept-speicher/id6766694174RecipeInbox:RezeptSpeicher",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://apps.apple.com/ch/app/recipeinbox-rezept-speicher/id6766694174RecipeInbox:RezeptSpeicher Comments URL: https://news.ycombinator.com/item?id=48121663 Points: 1 # Comments: 0",
-    "published_at": "2026-05-13 13:29",
-    "tags": [],
-    "fetch_date": "2026-05-13",
-    "fetch_label": "晚报"
   }
 ]
