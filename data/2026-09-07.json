@@ -1,0 +1,52 @@
+{
+  "date": "2026-09-07",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-09-07 11:38:50",
+      "count": 3,
+      "articles": [
+        {
+          "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+          "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+          "source": "TechCrunch AI",
+          "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+          "published_at": "2026-09-06 20:47",
+          "tags": [
+            "AI",
+            "Media & Entertainment"
+          ]
+        },
+        {
+          "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+          "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+          "source": "TechCrunch AI",
+          "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+          "published_at": "2026-09-06 16:45",
+          "tags": [
+            "Startups",
+            "Transportation",
+            "AI",
+            "Travis Kalanick",
+            "Uber",
+            "atoms"
+          ]
+        },
+        {
+          "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+          "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+          "source": "TechCrunch AI",
+          "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+          "published_at": "2026-09-05 22:49",
+          "tags": [
+            "AI",
+            "Media & Entertainment",
+            "Microsoft",
+            "Newsday",
+            "OpenAI"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,5 +1,35 @@
 [
   {
+    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+    "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+    "source": "TechCrunch AI",
+    "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+    "published_at": "2026-09-06 20:47",
+    "tags": [
+      "AI",
+      "Media & Entertainment"
+    ],
+    "fetch_date": "2026-09-07",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+    "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+    "source": "TechCrunch AI",
+    "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+    "published_at": "2026-09-06 16:45",
+    "tags": [
+      "Startups",
+      "Transportation",
+      "AI",
+      "Travis Kalanick",
+      "Uber",
+      "atoms"
+    ],
+    "fetch_date": "2026-09-07",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
     "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
     "source": "TechCrunch AI",
@@ -35104,26 +35134,6 @@
     "source": "Hacker News AI",
     "summary": "Article URL: https://apps.apple.com/ch/app/recipeinbox-rezept-speicher/id6766694174RecipeInbox:RezeptSpeicher Comments URL: https://news.ycombinator.com/item?id=48121663 Points: 1 # Comments: 0",
     "published_at": "2026-05-13 13:29",
-    "tags": [],
-    "fetch_date": "2026-05-13",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Docker AI Stack – Deploy 8 self-hosted AI services with one command",
-    "url": "https://github.com/hwdsl2/docker-ai-stack",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/hwdsl2/docker-ai-stack Comments URL: https://news.ycombinator.com/item?id=48121643 Points: 1 # Comments: 0",
-    "published_at": "2026-05-13 13:27",
-    "tags": [],
-    "fetch_date": "2026-05-13",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Helm AI Kernel – an open-source execution firewall for AI agents",
-    "url": "https://github.com/Mindburn-Labs/helm-ai-kernel",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/Mindburn-Labs/helm-ai-kernel Comments URL: https://news.ycombinator.com/item?id=48121617 Points: 1 # Comments: 0",
-    "published_at": "2026-05-13 13:25",
     "tags": [],
     "fetch_date": "2026-05-13",
     "fetch_label": "晚报"
