@@ -1,0 +1,134 @@
+{
+  "date": "2026-09-09",
+  "runs": [
+    {
+      "label": "晚报",
+      "time": "2026-09-09 00:08:33",
+      "count": 14,
+      "articles": [
+        {
+          "title": "Show HN: DeepMem·hybrid-retrieval memory for AI Agents – Vector+BM25+Time-Decay",
+          "url": "https://github.com/deepmemteam/deepmem",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/deepmemteam/deepmem Comments URL: https://news.ycombinator.com/item?id=49612293 Points: 2 # Comments: 0",
+          "published_at": "2026-09-08 16:04",
+          "tags": []
+        },
+        {
+          "title": "I built a 20M-parameter LLM from scratch, including full RLHF (PPO)",
+          "url": "https://github.com/ariveinberg-max/aven-1",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/ariveinberg-max/aven-1 Comments URL: https://news.ycombinator.com/item?id=49612189 Points: 1 # Comments: 0",
+          "published_at": "2026-09-08 15:56",
+          "tags": []
+        },
+        {
+          "title": "EngineRed: Asymmetric AI Warfare",
+          "url": "https://sma-das.blog/blogs/enginered-asymmetric-ai-warfare",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://sma-das.blog/blogs/enginered-asymmetric-ai-warfare Comments URL: https://news.ycombinator.com/item?id=49612174 Points: 1 # Comments: 0",
+          "published_at": "2026-09-08 15:55",
+          "tags": []
+        },
+        {
+          "title": "Measurement Before Control: A Broadly Applicable Principle for Better AI Policy",
+          "url": "https://medium.com/@delschlangen_22694/measurement-before-control-a-broad-and-applicable-principle-for-better-ai-policy-380200c47494",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://medium.com/@delschlangen_22694/measurement-before-control-a-broad-and-applicable-principle-for-better-ai-policy-380200c47494 Comments URL: https://news.ycombinator.com/item?id=49612016 Points: 1 # Comments: 0",
+          "published_at": "2026-09-08 15:45",
+          "tags": []
+        },
+        {
+          "title": "Ryze AI Hack – build apps with only on-device ≤500M models",
+          "url": "https://open-ryze.web.app/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://open-ryze.web.app/ Comments URL: https://news.ycombinator.com/item?id=49612013 Points: 1 # Comments: 0",
+          "published_at": "2026-09-08 15:44",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Pollium – A new way to study with AI",
+          "url": "https://learn.pollium.io",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://learn.pollium.io Comments URL: https://news.ycombinator.com/item?id=49611974 Points: 1 # Comments: 0",
+          "published_at": "2026-09-08 15:42",
+          "tags": []
+        },
+        {
+          "title": "The Ripgrep of AI Context",
+          "url": "https://github.com/redhat-et/ripwire",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/redhat-et/ripwire Comments URL: https://news.ycombinator.com/item?id=49611931 Points: 2 # Comments: 0",
+          "published_at": "2026-09-08 15:39",
+          "tags": []
+        },
+        {
+          "title": "Did AI Find Murakami's Voice? Student's $2 Experiment Divides China's Literati",
+          "url": "https://www.sixthtone.com/news/1018966",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.sixthtone.com/news/1018966 Comments URL: https://news.ycombinator.com/item?id=49611506 Points: 3 # Comments: 0",
+          "published_at": "2026-09-08 15:11",
+          "tags": []
+        },
+        {
+          "title": "AI Scraping on the Cheap",
+          "url": "https://www.olafalders.com/2026/09/08/ai-scraping-on-the-cheap/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.olafalders.com/2026/09/08/ai-scraping-on-the-cheap/ Comments URL: https://news.ycombinator.com/item?id=49611258 Points: 1 # Comments: 0",
+          "published_at": "2026-09-08 14:56",
+          "tags": []
+        },
+        {
+          "title": "Show HN: EndFrame – Demos, launch videos, shorts from the AI plan you pay for",
+          "url": "https://endframe.ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://endframe.ai/ Comments URL: https://news.ycombinator.com/item?id=49611174 Points: 3 # Comments: 0",
+          "published_at": "2026-09-08 14:52",
+          "tags": []
+        },
+        {
+          "title": "GPT-6 Astra one-shots a launch video in an open-source editor",
+          "url": "https://github.com/veedstudio/open-edit",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/veedstudio/open-edit Comments URL: https://news.ycombinator.com/item?id=49611103 Points: 3 # Comments: 0",
+          "published_at": "2026-09-08 14:47",
+          "tags": []
+        },
+        {
+          "title": "Mistral raises €3B as sovereign AI becomes big business",
+          "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+          "source": "TechCrunch AI",
+          "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.",
+          "published_at": "2026-09-08 14:17",
+          "tags": [
+            "AI",
+            "Mistral AI",
+            "Samsung Electronics"
+          ]
+        },
+        {
+          "title": "Show HN: SiteTell: finds the areas of your site that read as AI-generic",
+          "url": "https://www.getsitetell.com/",
+          "source": "Hacker News AI",
+          "summary": "Hey everyone, I built this product called SiteTell. You put in your website url, it returns a list of all of the things across the site that get flagged as likely to be AI-written/AI-generic. It works against a curated rule set (which will obviously get updated as AI models update and evolve) and then you can fix these issues and get a PDF/CSV/JSON file that you can download to either take the suggested fixes yourself and apply them, or use the CSV/JSON file to drop into your agent for it to fix",
+          "published_at": "2026-09-08 14:16",
+          "tags": []
+        },
+        {
+          "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+          "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+          "source": "The Verge AI",
+          "summary": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. The generators themselves aren't entirely new; the big change is how easily you can access them without breaking [&#8230;]",
+          "published_at": "2026-09-08 09:00",
+          "tags": [
+            "Adobe",
+            "AI",
+            "Creators",
+            "News",
+            "Tech"
+          ]
+        }
+      ]
+    }
+  ]
+}
