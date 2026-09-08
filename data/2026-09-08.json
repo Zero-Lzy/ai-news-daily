@@ -126,6 +126,117 @@
           ]
         }
       ]
+    },
+    {
+      "label": "早报",
+      "time": "2026-09-08 11:43:53",
+      "count": 13,
+      "articles": [
+        {
+          "title": "Ask HN: Anyone else feeling uneasy with the latest developments in AI?",
+          "url": "https://news.ycombinator.com/item?id=49605395",
+          "source": "Hacker News AI",
+          "summary": "I'm feeling extremely depressed and anxious lately. After seeing Astra saturating ARC-AGI-3 and blowing through many other benchmarks, it's hard to believe we won't have a strong form of AGI by the end of this year, or the next one at the latest.I don't understand why we're not seeing a MASSIVE clamor for a pause in the further development of AI strength. Even if we don't know how to coordinate and enforce such a pause yet (at the multi-nation level), it seems we're not spending any effort in fi",
+          "published_at": "2026-09-08 03:30",
+          "tags": []
+        },
+        {
+          "title": "Denzel Explains AI \"Slop\"",
+          "url": "https://www.reddit.com/r/ClaudeCode/comments/1w9e1tg/denzel_explains_ai_slop/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.reddit.com/r/ClaudeCode/comments/1w9e1tg/denzel_explains_ai_slop/ Comments URL: https://news.ycombinator.com/item?id=49605324 Points: 4 # Comments: 0",
+          "published_at": "2026-09-08 03:14",
+          "tags": []
+        },
+        {
+          "title": "AI Is Making Us Build Too Much",
+          "url": "https://sjg.io/writing/ai-is-making-us-build-too-much/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://sjg.io/writing/ai-is-making-us-build-too-much/ Comments URL: https://news.ycombinator.com/item?id=49605245 Points: 2 # Comments: 0",
+          "published_at": "2026-09-08 02:58",
+          "tags": []
+        },
+        {
+          "title": "AI cancer cures slowed by chip shortage, says Arm boss",
+          "url": "https://www.bbc.com/news/articles/c0m39g7xzevo",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bbc.com/news/articles/c0m39g7xzevo Comments URL: https://news.ycombinator.com/item?id=49604956 Points: 3 # Comments: 0",
+          "published_at": "2026-09-08 02:12",
+          "tags": []
+        },
+        {
+          "title": "LLM Guided Evolution for Circle Packing: Breaking 10 Packomania Records for $28",
+          "url": "https://arxiv.org/abs/2609.05093",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2609.05093 Comments URL: https://news.ycombinator.com/item?id=49604782 Points: 1 # Comments: 0",
+          "published_at": "2026-09-08 01:42",
+          "tags": []
+        },
+        {
+          "title": "Anthropic AI 'formalizes' proof of Fermat's last theorem in just 11 days",
+          "url": "https://www.nature.com/articles/d41586-026-02822-9",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.nature.com/articles/d41586-026-02822-9 Comments URL: https://news.ycombinator.com/item?id=49604319 Points: 5 # Comments: 1",
+          "published_at": "2026-09-08 00:07",
+          "tags": []
+        },
+        {
+          "title": "WeatherNext 3: Our most advanced global weather AI model",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/ Comments URL: https://news.ycombinator.com/item?id=49604257 Points: 9 # Comments: 1",
+          "published_at": "2026-09-07 23:56",
+          "tags": []
+        },
+        {
+          "title": "ASCII smuggling crosses over from AI prompt injection to phishing evasion",
+          "url": "https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/ Comments URL: https://news.ycombinator.com/item?id=49604092 Points: 1 # Comments: 0",
+          "published_at": "2026-09-07 23:27",
+          "tags": []
+        },
+        {
+          "title": "Cloudflare hid my site from AI. I sell AI visibility",
+          "url": "https://foundash-ai.github.io/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://foundash-ai.github.io/ Comments URL: https://news.ycombinator.com/item?id=49603903 Points: 1 # Comments: 0",
+          "published_at": "2026-09-07 22:58",
+          "tags": []
+        },
+        {
+          "title": "Quire – humans and AI agents editing local Markdown together",
+          "url": "https://github.com/heetdalsania/quire",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/heetdalsania/quire Comments URL: https://news.ycombinator.com/item?id=49603593 Points: 1 # Comments: 0",
+          "published_at": "2026-09-07 22:17",
+          "tags": []
+        },
+        {
+          "title": "Lightpanda Session Bridge – Hand real logins to headless AI agents",
+          "url": "https://github.com/Raknaos/lightpanda-session-bridge",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/Raknaos/lightpanda-session-bridge Comments URL: https://news.ycombinator.com/item?id=49603588 Points: 1 # Comments: 0",
+          "published_at": "2026-09-07 22:17",
+          "tags": []
+        },
+        {
+          "title": "Actually Real AI",
+          "url": "https://actually-real-ai.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://actually-real-ai.com/ Comments URL: https://news.ycombinator.com/item?id=49603155 Points: 3 # Comments: 0",
+          "published_at": "2026-09-07 21:26",
+          "tags": []
+        },
+        {
+          "title": "DoodleIQ – Rent your idle local-LLM machine to others by the second",
+          "url": "https://www.doodleiq.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.doodleiq.com/ Comments URL: https://news.ycombinator.com/item?id=49603149 Points: 1 # Comments: 0",
+          "published_at": "2026-09-07 21:25",
+          "tags": []
+        }
+      ]
     }
   ]
 }
