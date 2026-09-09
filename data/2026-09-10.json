@@ -1,0 +1,217 @@
+{
+  "date": "2026-09-10",
+  "runs": [
+    {
+      "label": "晚报",
+      "time": "2026-09-10 00:02:44",
+      "count": 21,
+      "articles": [
+        {
+          "title": "Amazon is now using generative AI to dub Prime Video with matching lip movements",
+          "url": "https://www.neowin.net/news/amazon-prime-video-is-getting-ai-powered-dubbing-that-syncs-actors-lips/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.neowin.net/news/amazon-prime-video-is-getting-ai-powered-dubbing-that-syncs-actors-lips/ Comments URL: https://news.ycombinator.com/item?id=49628667 Points: 1 # Comments: 0",
+          "published_at": "2026-09-09 15:58",
+          "tags": []
+        },
+        {
+          "title": "I Am an Anthropic Guy. GPT-6 Astra Made Me Resubscribe to Codex",
+          "url": "https://thoughts.jock.pl/p/gpt-6-astra-vs-claude-fable-5-1-agent-notes-2026",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://thoughts.jock.pl/p/gpt-6-astra-vs-claude-fable-5-1-agent-notes-2026 Comments URL: https://news.ycombinator.com/item?id=49628634 Points: 1 # Comments: 0",
+          "published_at": "2026-09-09 15:56",
+          "tags": []
+        },
+        {
+          "title": "AI could kill all humans in next decade, warn experts",
+          "url": "https://www.theguardian.com/technology/2026/sep/09/ai-superintelligence-risks-warnings-scientists-politicians",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/09/ai-superintelligence-risks-warnings-scientists-politicians Comments URL: https://news.ycombinator.com/item?id=49628580 Points: 2 # Comments: 0",
+          "published_at": "2026-09-09 15:53",
+          "tags": []
+        },
+        {
+          "title": "Better AI code comment detector",
+          "url": "https://entropicthoughts.com/better-ai-comment-classifier",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://entropicthoughts.com/better-ai-comment-classifier Comments URL: https://news.ycombinator.com/item?id=49628454 Points: 3 # Comments: 0",
+          "published_at": "2026-09-09 15:45",
+          "tags": []
+        },
+        {
+          "title": "AI made me doubt everything about programming by Felienne Hermans [video]",
+          "url": "https://www.youtube.com/watch?v=0-6-f94n_9M",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=0-6-f94n_9M Comments URL: https://news.ycombinator.com/item?id=49628434 Points: 2 # Comments: 1",
+          "published_at": "2026-09-09 15:44",
+          "tags": []
+        },
+        {
+          "title": "Researcher uses machine learning to hide vehicles from Flock cameras",
+          "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/invisible-car-machine-learning-hide-vehicle-flock-cameras",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bitdefender.com/en-us/blog/hotforsecurity/invisible-car-machine-learning-hide-vehicle-flock-cameras Comments URL: https://news.ycombinator.com/item?id=49628368 Points: 2 # Comments: 0",
+          "published_at": "2026-09-09 15:40",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: Is there any solution to the AI infestation?",
+          "url": "https://news.ycombinator.com/item?id=49628247",
+          "source": "Hacker News AI",
+          "summary": "I'm sure I'm not the only one who's noticed, but nearly every post on Hacker News is getting LLM comments now. For anyone who works regularly with LLMs, it's very obvious from the tone alone - and a quick check to previous comments will confirm it. Some have gotten slightly more sophisticated and auto-add typos, or other tricks. I'm sure there's plenty that I don't recognize as AI either.I understand the motivation - running a mini bot farm would allow you to make sure your posts get a number of",
+          "published_at": "2026-09-09 15:32",
+          "tags": []
+        },
+        {
+          "title": "Automatically detecting AI text in my browser",
+          "url": "https://www.seangoedecke.com/deckard/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.seangoedecke.com/deckard/ Comments URL: https://news.ycombinator.com/item?id=49628055 Points: 2 # Comments: 1",
+          "published_at": "2026-09-09 15:21",
+          "tags": []
+        },
+        {
+          "title": "How to pick the right AI model for each task [video]",
+          "url": "https://www.youtube.com/watch?v=FdbcY41N9fs",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=FdbcY41N9fs Comments URL: https://news.ycombinator.com/item?id=49627995 Points: 2 # Comments: 0",
+          "published_at": "2026-09-09 15:17",
+          "tags": []
+        },
+        {
+          "title": "School Students Who Use AI Get Worse Test Scores, OECD Warns",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-08/school-students-who-use-ai-get-worse-test-scores-oecd-warns",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-08/school-students-who-use-ai-get-worse-test-scores-oecd-warns Comments URL: https://news.ycombinator.com/item?id=49627962 Points: 4 # Comments: 0",
+          "published_at": "2026-09-09 15:15",
+          "tags": []
+        },
+        {
+          "title": "Viral AI assistant Instinct now has its own email address",
+          "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+          "source": "TechCrunch AI",
+          "summary": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
+          "published_at": "2026-09-09 15:13",
+          "tags": [
+            "AI",
+            "AI assistant",
+            "instinct"
+          ]
+        },
+        {
+          "title": "Legal AI startup Harvey reaches $15.6B valuation with $550M round",
+          "url": "https://bloomberg.com/news/articles/2026-09-09/legal-ai-startup-harvey-hits-15-6-billion-value-with-550-million-round",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://bloomberg.com/news/articles/2026-09-09/legal-ai-startup-harvey-hits-15-6-billion-value-with-550-million-round Comments URL: https://news.ycombinator.com/item?id=49627819 Points: 1 # Comments: 0",
+          "published_at": "2026-09-09 15:05",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Geiger – See every AI agent on your machine and what it can touch",
+          "url": "https://github.com/Atomburstofficial/geiger",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/Atomburstofficial/geiger Comments URL: https://news.ycombinator.com/item?id=49627646 Points: 23 # Comments: 12",
+          "published_at": "2026-09-09 14:54",
+          "tags": []
+        },
+        {
+          "title": "US accuses Chinese AI firms of 'malicious' copying of AI technology",
+          "url": "https://www.reuters.com/technology/us-accuses-chinese-ai-firms-industrial-scale-theft-ai-technology-2026-09-08/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.reuters.com/technology/us-accuses-chinese-ai-firms-industrial-scale-theft-ai-technology-2026-09-08/ Comments URL: https://news.ycombinator.com/item?id=49627641 Points: 5 # Comments: 2",
+          "published_at": "2026-09-09 14:54",
+          "tags": []
+        },
+        {
+          "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+          "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+          "source": "TechCrunch AI",
+          "summary": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped.",
+          "published_at": "2026-09-09 14:18",
+          "tags": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+          "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+          "source": "TechCrunch AI",
+          "summary": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
+          "published_at": "2026-09-09 13:00",
+          "tags": [
+            "Enterprise",
+            "Startups",
+            "Security",
+            "AI"
+          ]
+        },
+        {
+          "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+          "source": "The Verge AI",
+          "summary": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to build \"superhuman systems\" they cannot control. In a post on [&#8230;]",
+          "published_at": "2026-09-09 05:56",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Why this month's Microsoft patch release is a doozy",
+          "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+          "source": "ArsTechnica AI",
+          "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+          "published_at": "2026-09-08 21:11",
+          "tags": [
+            "AI",
+            "Biz & IT",
+            "Security",
+            "LLM",
+            "vulnerability discovery"
+          ]
+        },
+        {
+          "title": "Meta bets on AI agent Muse to catch up in AI race",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+          "source": "The Verge AI",
+          "summary": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion-dollar strategy overhaul designed to revitalize the company's ailing position in the AI race and help it catch up [&#8230;]",
+          "published_at": "2026-09-08 15:00",
+          "tags": [
+            "AI",
+            "Meta",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Mistral raises €3B as sovereign AI becomes big business",
+          "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+          "source": "TechCrunch AI",
+          "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
+          "published_at": "2026-09-08 14:17",
+          "tags": [
+            "AI",
+            "Mistral AI",
+            "Samsung Electronics"
+          ]
+        },
+        {
+          "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+          "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+          "source": "The Verge AI",
+          "summary": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. The generators themselves aren't entirely new; the big change is how easily you can access them without breaking [&#8230;]",
+          "published_at": "2026-09-08 09:00",
+          "tags": [
+            "Adobe",
+            "AI",
+            "Creators",
+            "News",
+            "Tech"
+          ]
+        }
+      ]
+    }
+  ]
+}
