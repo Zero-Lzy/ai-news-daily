@@ -392,6 +392,201 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-09-10 23:56:48",
+      "count": 19,
+      "articles": [
+        {
+          "title": "Show HN: I built an AI 'Fog of War' to kill my 3AM Notion templates",
+          "url": "https://www.tryworthit.app/about",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.tryworthit.app/about Comments URL: https://news.ycombinator.com/item?id=49645780 Points: 1 # Comments: 0",
+          "published_at": "2026-09-10 15:48",
+          "tags": []
+        },
+        {
+          "title": "Show HN: ObserverBench – Test internal AI monitors by the harm they miss",
+          "url": "https://kwisatzh.github.io/observerbench/try/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://kwisatzh.github.io/observerbench/try/ Comments URL: https://news.ycombinator.com/item?id=49645703 Points: 2 # Comments: 0",
+          "published_at": "2026-09-10 15:44",
+          "tags": []
+        },
+        {
+          "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+          "url": "https://cognition.com/blog/swe-2",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://cognition.com/blog/swe-2 Comments URL: https://news.ycombinator.com/item?id=49645443 Points: 5 # Comments: 0",
+          "published_at": "2026-09-10 15:29",
+          "tags": []
+        },
+        {
+          "title": "Show HN: ShipCheck – Catch when AI breaks old fixes",
+          "url": "https://useshipcheck.dev",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://useshipcheck.dev Comments URL: https://news.ycombinator.com/item?id=49645367 Points: 1 # Comments: 0",
+          "published_at": "2026-09-10 15:25",
+          "tags": []
+        },
+        {
+          "title": "\"Good\" AI",
+          "url": "https://thoughts.wyounas.com/p/what-does-good-ai-mean",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://thoughts.wyounas.com/p/what-does-good-ai-mean Comments URL: https://news.ycombinator.com/item?id=49645296 Points: 1 # Comments: 1",
+          "published_at": "2026-09-10 15:21",
+          "tags": []
+        },
+        {
+          "title": "AI doesn't take over. We give it the keys",
+          "url": "https://mauriciogomes.com/ai-doesnt-take-over/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://mauriciogomes.com/ai-doesnt-take-over/ Comments URL: https://news.ycombinator.com/item?id=49644940 Points: 1 # Comments: 0",
+          "published_at": "2026-09-10 15:00",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Xfinlab – a financial intelligence API with an MCP server for AI agents",
+          "url": "https://github.com/lnanology/Xfinlab",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/lnanology/Xfinlab Comments URL: https://news.ycombinator.com/item?id=49644768 Points: 1 # Comments: 0",
+          "published_at": "2026-09-10 14:52",
+          "tags": []
+        },
+        {
+          "title": "AI models don't kill people – people kill people",
+          "url": "https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368 Comments URL: https://news.ycombinator.com/item?id=49644558 Points: 1 # Comments: 1",
+          "published_at": "2026-09-10 14:41",
+          "tags": []
+        },
+        {
+          "title": "TrustNotch – Audit logs for AI agents you can verify without trusting provider",
+          "url": "https://trustnotch.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://trustnotch.com/ Comments URL: https://news.ycombinator.com/item?id=49644365 Points: 1 # Comments: 0",
+          "published_at": "2026-09-10 14:30",
+          "tags": []
+        },
+        {
+          "title": "Show HN: MaruCheck – Independent QA for AI-generated code",
+          "url": "https://github.com/Kidus-M/MaruCheck",
+          "source": "Hacker News AI",
+          "summary": "Hi HN,I've been building MaruCheck, an independent, open-source QA verification tool aimed to solve the issues that arise when coding agents like codex, claude, cursor make semantic issues that has heavy ramifications.Take the example where the requirements says a free user gets 5 uploads. The code changes this behavior to 10. Test generated from the implementation may simply start expecting 10. But Marucheck treats the existing approved requirements as a separate evidence and flags the behavior",
+          "published_at": "2026-09-10 14:24",
+          "tags": []
+        },
+        {
+          "title": "AI Is Breaking This Thing We Call Trust",
+          "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/ Comments URL: https://news.ycombinator.com/item?id=49644179 Points: 3 # Comments: 1",
+          "published_at": "2026-09-10 14:21",
+          "tags": []
+        },
+        {
+          "title": "I build Garmin watch faces with AI agents",
+          "url": "https://myday24.com/blog/how-i-build-garmin-watch-faces-with-ai-agents/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://myday24.com/blog/how-i-build-garmin-watch-faces-with-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49643607 Points: 2 # Comments: 0",
+          "published_at": "2026-09-10 13:42",
+          "tags": []
+        },
+        {
+          "title": "Meta’s Muse AI works and creeps me out",
+          "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+          "source": "The Verge AI",
+          "summary": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more. I decided to try out the new tool and see how well it performed - [&#8230;]",
+          "published_at": "2026-09-10 11:00",
+          "tags": [
+            "AI",
+            "Analysis",
+            "Meta",
+            "Report",
+            "Tech"
+          ]
+        },
+        {
+          "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+          "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+          "source": "TechCrunch AI",
+          "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+          "published_at": "2026-09-10 00:00",
+          "tags": [
+            "AI",
+            "Venture",
+            "customer research",
+            "menlo ventures",
+            "Mergers and Acquisitions",
+            "Salesforce"
+          ]
+        },
+        {
+          "title": "OpenAI adds a prominent AI doomer to its board of directors",
+          "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+          "source": "TechCrunch AI",
+          "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+          "published_at": "2026-09-09 22:25",
+          "tags": [
+            "AI",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "The hinge for Apple’s new foldable phone was built with AI",
+          "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
+          "published_at": "2026-09-09 19:21",
+          "tags": [
+            "AI",
+            "Apple",
+            "Duo",
+            "In Brief",
+            "iPhone"
+          ]
+        },
+        {
+          "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+          "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+          "source": "TechCrunch AI",
+          "summary": "The company also argued that its on-device models offer consumers more privacy.",
+          "published_at": "2026-09-09 17:36",
+          "tags": [
+            "AI",
+            "Apple",
+            "iPhone",
+            "John Ternus"
+          ]
+        },
+        {
+          "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+          "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+          "source": "TechCrunch AI",
+          "summary": "Falling token costs, cheaper models, and less spend per employee — AI adoption isn't playing out the way hyperscalers hoped.",
+          "published_at": "2026-09-09 14:18",
+          "tags": [
+            "AI",
+            "ai tokens",
+            "Ramp"
+          ]
+        },
+        {
+          "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+          "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+          "source": "TechCrunch AI",
+          "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
+          "published_at": "2026-09-09 13:00",
+          "tags": [
+            "AI",
+            "Apps",
+            "AI assistant",
+            "Instacart"
+          ]
+        }
+      ]
     }
   ]
 }

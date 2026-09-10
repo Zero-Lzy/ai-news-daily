@@ -1,5 +1,141 @@
 [
   {
+    "title": "Show HN: I built an AI 'Fog of War' to kill my 3AM Notion templates",
+    "url": "https://www.tryworthit.app/about",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.tryworthit.app/about Comments URL: https://news.ycombinator.com/item?id=49645780 Points: 1 # Comments: 0",
+    "published_at": "2026-09-10 15:48",
+    "tags": [],
+    "fetch_date": "2026-09-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: ObserverBench – Test internal AI monitors by the harm they miss",
+    "url": "https://kwisatzh.github.io/observerbench/try/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://kwisatzh.github.io/observerbench/try/ Comments URL: https://news.ycombinator.com/item?id=49645703 Points: 2 # Comments: 0",
+    "published_at": "2026-09-10 15:44",
+    "tags": [],
+    "fetch_date": "2026-09-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+    "url": "https://cognition.com/blog/swe-2",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://cognition.com/blog/swe-2 Comments URL: https://news.ycombinator.com/item?id=49645443 Points: 5 # Comments: 0",
+    "published_at": "2026-09-10 15:29",
+    "tags": [],
+    "fetch_date": "2026-09-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: ShipCheck – Catch when AI breaks old fixes",
+    "url": "https://useshipcheck.dev",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://useshipcheck.dev Comments URL: https://news.ycombinator.com/item?id=49645367 Points: 1 # Comments: 0",
+    "published_at": "2026-09-10 15:25",
+    "tags": [],
+    "fetch_date": "2026-09-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "\"Good\" AI",
+    "url": "https://thoughts.wyounas.com/p/what-does-good-ai-mean",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://thoughts.wyounas.com/p/what-does-good-ai-mean Comments URL: https://news.ycombinator.com/item?id=49645296 Points: 1 # Comments: 1",
+    "published_at": "2026-09-10 15:21",
+    "tags": [],
+    "fetch_date": "2026-09-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI doesn't take over. We give it the keys",
+    "url": "https://mauriciogomes.com/ai-doesnt-take-over/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://mauriciogomes.com/ai-doesnt-take-over/ Comments URL: https://news.ycombinator.com/item?id=49644940 Points: 1 # Comments: 0",
+    "published_at": "2026-09-10 15:00",
+    "tags": [],
+    "fetch_date": "2026-09-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Xfinlab – a financial intelligence API with an MCP server for AI agents",
+    "url": "https://github.com/lnanology/Xfinlab",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/lnanology/Xfinlab Comments URL: https://news.ycombinator.com/item?id=49644768 Points: 1 # Comments: 0",
+    "published_at": "2026-09-10 14:52",
+    "tags": [],
+    "fetch_date": "2026-09-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI models don't kill people – people kill people",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368 Comments URL: https://news.ycombinator.com/item?id=49644558 Points: 1 # Comments: 1",
+    "published_at": "2026-09-10 14:41",
+    "tags": [],
+    "fetch_date": "2026-09-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "TrustNotch – Audit logs for AI agents you can verify without trusting provider",
+    "url": "https://trustnotch.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://trustnotch.com/ Comments URL: https://news.ycombinator.com/item?id=49644365 Points: 1 # Comments: 0",
+    "published_at": "2026-09-10 14:30",
+    "tags": [],
+    "fetch_date": "2026-09-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: MaruCheck – Independent QA for AI-generated code",
+    "url": "https://github.com/Kidus-M/MaruCheck",
+    "source": "Hacker News AI",
+    "summary": "Hi HN,I've been building MaruCheck, an independent, open-source QA verification tool aimed to solve the issues that arise when coding agents like codex, claude, cursor make semantic issues that has heavy ramifications.Take the example where the requirements says a free user gets 5 uploads. The code changes this behavior to 10. Test generated from the implementation may simply start expecting 10. But Marucheck treats the existing approved requirements as a separate evidence and flags the behavior",
+    "published_at": "2026-09-10 14:24",
+    "tags": [],
+    "fetch_date": "2026-09-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Is Breaking This Thing We Call Trust",
+    "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/ Comments URL: https://news.ycombinator.com/item?id=49644179 Points: 3 # Comments: 1",
+    "published_at": "2026-09-10 14:21",
+    "tags": [],
+    "fetch_date": "2026-09-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "I build Garmin watch faces with AI agents",
+    "url": "https://myday24.com/blog/how-i-build-garmin-watch-faces-with-ai-agents/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://myday24.com/blog/how-i-build-garmin-watch-faces-with-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49643607 Points: 2 # Comments: 0",
+    "published_at": "2026-09-10 13:42",
+    "tags": [],
+    "fetch_date": "2026-09-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Meta’s Muse AI works and creeps me out",
+    "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+    "source": "The Verge AI",
+    "summary": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more. I decided to try out the new tool and see how well it performed - [&#8230;]",
+    "published_at": "2026-09-10 11:00",
+    "tags": [
+      "AI",
+      "Analysis",
+      "Meta",
+      "Report",
+      "Tech"
+    ],
+    "fetch_date": "2026-09-10",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
     "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
     "source": "TechCrunch AI",
@@ -309,6 +445,21 @@
       "Startups",
       "Security",
       "AI"
+    ],
+    "fetch_date": "2026-09-10",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+    "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+    "source": "TechCrunch AI",
+    "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
+    "published_at": "2026-09-09 13:00",
+    "tags": [
+      "AI",
+      "Apps",
+      "AI assistant",
+      "Instacart"
     ],
     "fetch_date": "2026-09-10",
     "fetch_label": "晚报"
@@ -34992,162 +35143,5 @@
     "tags": [],
     "fetch_date": "2026-05-16",
     "fetch_label": "早报"
-  },
-  {
-    "title": "Gaps in AI Development Closing 2.1B in Pain",
-    "url": "https://news.novonavis.com/builders",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://news.novonavis.com/builders Comments URL: https://news.ycombinator.com/item?id=48155707 Points: 2 # Comments: 1",
-    "published_at": "2026-05-16 00:39",
-    "tags": [],
-    "fetch_date": "2026-05-16",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Ken Liu on AI and Freedom",
-    "url": "https://www.chinatalk.media/p/ken-liu-on-ai-and-freedom",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.chinatalk.media/p/ken-liu-on-ai-and-freedom Comments URL: https://news.ycombinator.com/item?id=48155534 Points: 3 # Comments: 0",
-    "published_at": "2026-05-16 00:09",
-    "tags": [],
-    "fetch_date": "2026-05-16",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Ghost Job Detector – AI that decodes fake job posts and HR lies",
-    "url": "https://ghost-job-detector-rlcx.vercel.app/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://ghost-job-detector-rlcx.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48155273 Points: 3 # Comments: 0",
-    "published_at": "2026-05-15 23:29",
-    "tags": [],
-    "fetch_date": "2026-05-16",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Adobe Latest Target in Wave of Lawsuits over AI Voice Training",
-    "url": "https://news.bloomberglaw.com/privacy-and-data-security/adobe-latest-target-in-wave-of-lawsuits-over-ai-voice-training",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://news.bloomberglaw.com/privacy-and-data-security/adobe-latest-target-in-wave-of-lawsuits-over-ai-voice-training Comments URL: https://news.ycombinator.com/item?id=48155005 Points: 2 # Comments: 0",
-    "published_at": "2026-05-15 22:57",
-    "tags": [],
-    "fetch_date": "2026-05-16",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Big Tech goes beyond Wall Street for AI borrowing",
-    "url": "https://www.ft.com/content/d137f1a1-4188-4784-b274-f53082d27aa8",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.ft.com/content/d137f1a1-4188-4784-b274-f53082d27aa8 Comments URL: https://news.ycombinator.com/item?id=48154966 Points: 2 # Comments: 0",
-    "published_at": "2026-05-15 22:51",
-    "tags": [],
-    "fetch_date": "2026-05-16",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Git is unprepared for the AI coding tsunami",
-    "url": "https://www.theregister.com/devops/2026/05/15/git-is-unprepared-for-the-ai-coding-tsunami/5241480",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.theregister.com/devops/2026/05/15/git-is-unprepared-for-the-ai-coding-tsunami/5241480 Comments URL: https://news.ycombinator.com/item?id=48154854 Points: 3 # Comments: 1",
-    "published_at": "2026-05-15 22:37",
-    "tags": [],
-    "fetch_date": "2026-05-16",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
-    "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
-    "source": "The Verge AI",
-    "summary": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detection feature uses a selfie-style scan of a person's face to monitor YouTube for lookalikes. If there is a match, YouTube alerts [&#8230;]",
-    "published_at": "2026-05-15 18:25",
-    "tags": [
-      "AI",
-      "Creators",
-      "Google",
-      "News",
-      "Streaming",
-      "Tech",
-      "YouTube"
-    ],
-    "fetch_date": "2026-05-16",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
-    "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
-    "source": "TechCrunch AI",
-    "summary": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
-    "published_at": "2026-05-15 18:14",
-    "tags": [
-      "AI",
-      "Climate",
-      "electrical grid",
-      "Lake Tahoe"
-    ],
-    "fetch_date": "2026-05-16",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "ArXiv will ban researchers who upload papers full of AI slop",
-    "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
-    "source": "The Verge AI",
-    "summary": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated references or \"meta-comments\" left by an LLM, authors will be [&#8230;]",
-    "published_at": "2026-05-15 16:38",
-    "tags": [
-      "AI",
-      "News",
-      "Science"
-    ],
-    "fetch_date": "2026-05-16",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The U.S. has 1,200 AI bills and no good test for any of them",
-    "url": "https://fortune.com/2026/05/15/ai-policy-patchwork-state-federal-regulation-framework-sonnenfeld-marcus/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://fortune.com/2026/05/15/ai-policy-patchwork-state-federal-regulation-framework-sonnenfeld-marcus/ Comments URL: https://news.ycombinator.com/item?id=48148635 Points: 3 # Comments: 0",
-    "published_at": "2026-05-15 13:54",
-    "tags": [],
-    "fetch_date": "2026-05-15",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI is wiping out entry-level jobs",
-    "url": "https://fortune.com/2026/05/15/ai-entry-level-jobs-higher-education-experience-gap/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://fortune.com/2026/05/15/ai-entry-level-jobs-higher-education-experience-gap/ Comments URL: https://news.ycombinator.com/item?id=48148440 Points: 25 # Comments: 14",
-    "published_at": "2026-05-15 13:38",
-    "tags": [],
-    "fetch_date": "2026-05-15",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The Wonders of AI: We Are Retiring Our Bug Bounty Program",
-    "url": "https://turso.tech/blog/the-wonders-of-ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://turso.tech/blog/the-wonders-of-ai Comments URL: https://news.ycombinator.com/item?id=48148391 Points: 56 # Comments: 16",
-    "published_at": "2026-05-15 13:33",
-    "tags": [],
-    "fetch_date": "2026-05-15",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Amazon workers under pressure to up their AI usage–so they're making up tasks",
-    "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks Comments URL: https://news.ycombinator.com/item?id=48148337 Points: 19 # Comments: 9",
-    "published_at": "2026-05-15 13:28",
-    "tags": [],
-    "fetch_date": "2026-05-15",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The AI layoffs end in 12 months and I know why [video]",
-    "url": "https://www.youtube.com/watch?v=doI1GYZ7r-w",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.youtube.com/watch?v=doI1GYZ7r-w Comments URL: https://news.ycombinator.com/item?id=48148335 Points: 3 # Comments: 0",
-    "published_at": "2026-05-15 13:28",
-    "tags": [],
-    "fetch_date": "2026-05-15",
-    "fetch_label": "晚报"
   }
 ]
