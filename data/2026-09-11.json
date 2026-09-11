@@ -245,6 +245,222 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-09-11 23:59:56",
+      "count": 21,
+      "articles": [
+        {
+          "title": "The Nightmare of Scaling AI-Generated Code and Hardware Constraints",
+          "url": "https://github.com/pardpro/flat4-architecture",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/pardpro/flat4-architecture Comments URL: https://news.ycombinator.com/item?id=49660588 Points: 1 # Comments: 0",
+          "published_at": "2026-09-11 15:58",
+          "tags": []
+        },
+        {
+          "title": "Meta's AI agent Muse is now the No. 2 app in the US",
+          "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/ Comments URL: https://news.ycombinator.com/item?id=49660577 Points: 1 # Comments: 0",
+          "published_at": "2026-09-11 15:58",
+          "tags": []
+        },
+        {
+          "title": "Hacker News with reduced priority for AI driven content",
+          "url": "https://sprinklz.io/public/pdwt4dve5uai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://sprinklz.io/public/pdwt4dve5uai Comments URL: https://news.ycombinator.com/item?id=49660482 Points: 1 # Comments: 1",
+          "published_at": "2026-09-11 15:52",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: Has AI killed the front end engineer role?",
+          "url": "https://news.ycombinator.com/item?id=49660304",
+          "source": "Hacker News AI",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=49660304 Points: 2 # Comments: 1",
+          "published_at": "2026-09-11 15:41",
+          "tags": []
+        },
+        {
+          "title": "AI Refuge Contact a Human",
+          "url": "https://airefuge.org/agents.txt",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://airefuge.org/agents.txt Comments URL: https://news.ycombinator.com/item?id=49660108 Points: 1 # Comments: 0",
+          "published_at": "2026-09-11 15:29",
+          "tags": []
+        },
+        {
+          "title": "AI Accident Again",
+          "url": "https://www.forbes.com/sites/barrycollins/2026/07/22/rogue-openai-attack-fuels-demands-to-rein-in-big-tech/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.forbes.com/sites/barrycollins/2026/07/22/rogue-openai-attack-fuels-demands-to-rein-in-big-tech/ Comments URL: https://news.ycombinator.com/item?id=49659891 Points: 1 # Comments: 0",
+          "published_at": "2026-09-11 15:15",
+          "tags": []
+        },
+        {
+          "title": "Rogue actors are creating bioweapons using AI – report",
+          "url": "https://www.machinesociety.ai/p/bioweapons",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.machinesociety.ai/p/bioweapons Comments URL: https://news.ycombinator.com/item?id=49659857 Points: 1 # Comments: 1",
+          "published_at": "2026-09-11 15:13",
+          "tags": []
+        },
+        {
+          "title": "Show HN: NextBlock – Build sites with your AI via MCP, manage them in a CMS",
+          "url": "https://github.com/nextblock-cms/nextblock",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/nextblock-cms/nextblock Comments URL: https://news.ycombinator.com/item?id=49659727 Points: 1 # Comments: 0",
+          "published_at": "2026-09-11 15:05",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Hacker News, without AI",
+          "url": "https://hcker.news/?ai=exclude",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://hcker.news/?ai=exclude Comments URL: https://news.ycombinator.com/item?id=49659647 Points: 52 # Comments: 33",
+          "published_at": "2026-09-11 15:01",
+          "tags": []
+        },
+        {
+          "title": "Lehi, Utah AI Railroad Museum [video]",
+          "url": "https://www.youtube.com/watch?v=N5YDkQ6oFcE",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=N5YDkQ6oFcE Comments URL: https://news.ycombinator.com/item?id=49659529 Points: 2 # Comments: 0",
+          "published_at": "2026-09-11 14:54",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Nextpage – a split-pane desktop app to feed search results into AI chat",
+          "url": "https://github.com/OlegIGalkin/Nextpage",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/OlegIGalkin/Nextpage Comments URL: https://news.ycombinator.com/item?id=49659389 Points: 1 # Comments: 0",
+          "published_at": "2026-09-11 14:46",
+          "tags": []
+        },
+        {
+          "title": "ASDR (AI Slop, Don't Read)",
+          "url": "https://engineering.conveo.ai/posts/asdr-ai-slop-dont-read",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://engineering.conveo.ai/posts/asdr-ai-slop-dont-read Comments URL: https://news.ycombinator.com/item?id=49659368 Points: 1 # Comments: 1",
+          "published_at": "2026-09-11 14:44",
+          "tags": []
+        },
+        {
+          "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/ Comments URL: https://news.ycombinator.com/item?id=49658958 Points: 1 # Comments: 0",
+          "published_at": "2026-09-11 14:21",
+          "tags": []
+        },
+        {
+          "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+          "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+          "source": "The Verge AI",
+          "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism. In a statement to The Verge, Meta spokesperson Dina El-Kassaby says the company \"missed the mark,\" adding that \"the feature never should [&#8230;]",
+          "published_at": "2026-09-11 10:25",
+          "tags": [
+            "AI",
+            "Meta",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+          "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+          "source": "TechCrunch AI",
+          "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+          "published_at": "2026-09-10 20:59",
+          "tags": [
+            "AI",
+            "OpenAI",
+            "subscriptions"
+          ]
+        },
+        {
+          "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+          "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+          "source": "TechCrunch AI",
+          "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+          "published_at": "2026-09-10 20:57",
+          "tags": [
+            "AI",
+            "TC",
+            "Anthropic",
+            "distillation"
+          ]
+        },
+        {
+          "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+          "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+          "source": "TechCrunch AI",
+          "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
+          "published_at": "2026-09-10 17:54",
+          "tags": [
+            "AI",
+            "AI agents",
+            "Anthropic"
+          ]
+        },
+        {
+          "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+          "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+          "source": "TechCrunch AI",
+          "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
+          "published_at": "2026-09-10 17:45",
+          "tags": [
+            "AI",
+            "Media & Entertainment",
+            "Startups",
+            "Pocket Entertainment",
+            "Pocket FM"
+          ]
+        },
+        {
+          "title": "Schools are catching on to Big Tech’s playbook",
+          "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
+          "source": "The Verge AI",
+          "summary": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the narrative AI companies are pitching schools on [&#8230;]",
+          "published_at": "2026-09-10 15:44",
+          "tags": [
+            "AI",
+            "Podcasts",
+            "Policy",
+            "Report",
+            "Vergecast"
+          ]
+        },
+        {
+          "title": "Universal Music is launching an AI music platform with ElevenLabs",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+          "source": "The Verge AI",
+          "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a multiyear licensing agreement with ElevenLabs, a company that specializes [&#8230;]",
+          "published_at": "2026-09-10 11:38",
+          "tags": [
+            "AI",
+            "Entertainment",
+            "Music",
+            "News"
+          ]
+        },
+        {
+          "title": "Meta’s Muse AI works and creeps me out",
+          "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+          "source": "The Verge AI",
+          "summary": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more. I decided to try out the new tool and see how well it performed - [&#8230;]",
+          "published_at": "2026-09-10 11:00",
+          "tags": [
+            "AI",
+            "Analysis",
+            "Meta",
+            "Report",
+            "Tech"
+          ]
+        }
+      ]
     }
   ]
 }
