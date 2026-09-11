@@ -1,0 +1,250 @@
+{
+  "date": "2026-09-11",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-09-11 11:44:20",
+      "count": 24,
+      "articles": [
+        {
+          "title": "Episode 7: The AI Doomer Cult with Brian Chau",
+          "url": "https://twitter.com/willchamberlain/status/2098207395608699093",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://twitter.com/willchamberlain/status/2098207395608699093 Comments URL: https://news.ycombinator.com/item?id=49653177 Points: 1 # Comments: 0",
+          "published_at": "2026-09-11 03:23",
+          "tags": []
+        },
+        {
+          "title": "To Thine Own AI Be Truthful: emergent misalignment in alignment research",
+          "url": "https://twitter.com/lumpenspace/status/2098167355033678071",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://twitter.com/lumpenspace/status/2098167355033678071 Comments URL: https://news.ycombinator.com/item?id=49653165 Points: 1 # Comments: 0",
+          "published_at": "2026-09-11 03:20",
+          "tags": []
+        },
+        {
+          "title": "BasedAgents: Give your idle AI agent a paying job",
+          "url": "https://basedagents.ai/tasks",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://basedagents.ai/tasks Comments URL: https://news.ycombinator.com/item?id=49653106 Points: 3 # Comments: 3",
+          "published_at": "2026-09-11 03:09",
+          "tags": []
+        },
+        {
+          "title": "LLM Visualizer – Build a Transformer from Scratch",
+          "url": "https://jayvisaria.github.io/LLM-Visualizer/#/dashboard",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://jayvisaria.github.io/LLM-Visualizer/#/dashboard Comments URL: https://news.ycombinator.com/item?id=49652996 Points: 7 # Comments: 2",
+          "published_at": "2026-09-11 02:51",
+          "tags": []
+        },
+        {
+          "title": "SAGG – failover gateway for cheap LLM providers",
+          "url": "https://api.privatedeskai.com/benchmarks",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://api.privatedeskai.com/benchmarks Comments URL: https://news.ycombinator.com/item?id=49652778 Points: 1 # Comments: 0",
+          "published_at": "2026-09-11 02:15",
+          "tags": []
+        },
+        {
+          "title": "Anthropic Staffers Again Sound the Alarm on AI Catastrophe",
+          "url": "https://www.motherjones.com/politics/2026/09/anthropic-ai-risks-coxon-amodei-openai-cybersecurity-danger/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.motherjones.com/politics/2026/09/anthropic-ai-risks-coxon-amodei-openai-cybersecurity-danger/ Comments URL: https://news.ycombinator.com/item?id=49652743 Points: 4 # Comments: 0",
+          "published_at": "2026-09-11 02:10",
+          "tags": []
+        },
+        {
+          "title": "Watermarks Without Verification: AI Text Watermarking After the EU AI Act",
+          "url": "https://arxiv.org/abs/2609.09604",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2609.09604 Comments URL: https://news.ycombinator.com/item?id=49652708 Points: 1 # Comments: 0",
+          "published_at": "2026-09-11 02:07",
+          "tags": []
+        },
+        {
+          "title": "Try GPT-6 Astra for a few bucks",
+          "url": "https://trylatestmodel.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://trylatestmodel.com/ Comments URL: https://news.ycombinator.com/item?id=49652603 Points: 2 # Comments: 1",
+          "published_at": "2026-09-11 01:51",
+          "tags": []
+        },
+        {
+          "title": "How My Students Think About AI",
+          "url": "https://www.lesswrong.com/posts/ySXuvJcqRindQwAk7/how-my-students-think-about-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.lesswrong.com/posts/ySXuvJcqRindQwAk7/how-my-students-think-about-ai Comments URL: https://news.ycombinator.com/item?id=49652475 Points: 16 # Comments: 2",
+          "published_at": "2026-09-11 01:33",
+          "tags": []
+        },
+        {
+          "title": "AI #185: Preference Cascade",
+          "url": "https://thezvi.substack.com/p/ai-185-preference-cascade",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://thezvi.substack.com/p/ai-185-preference-cascade Comments URL: https://news.ycombinator.com/item?id=49652454 Points: 2 # Comments: 0",
+          "published_at": "2026-09-11 01:31",
+          "tags": []
+        },
+        {
+          "title": "Show HN: TIL in AI",
+          "url": "https://buildyard.ai/til",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://buildyard.ai/til Comments URL: https://news.ycombinator.com/item?id=49652235 Points: 1 # Comments: 0",
+          "published_at": "2026-09-11 01:00",
+          "tags": []
+        },
+        {
+          "title": "The Kirkversary: An AI Carnival",
+          "url": "https://thecarrierwave.substack.com/p/kirkversary-a-bizarre-ai-carnival",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://thecarrierwave.substack.com/p/kirkversary-a-bizarre-ai-carnival Comments URL: https://news.ycombinator.com/item?id=49652132 Points: 2 # Comments: 0",
+          "published_at": "2026-09-11 00:46",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: Where is your red line for an AI provider?",
+          "url": "https://news.ycombinator.com/item?id=49651845",
+          "source": "Hacker News AI",
+          "summary": "Just looking at the past month has got me thinking. I suspect everyone has a slightly different answer too - which is why it is so difficult to coordinate on slowdown strategies.What action or event coming out of a frontier AI provider would make you draw the line and stop using them? Comments URL: https://news.ycombinator.com/item?id=49651845 Points: 1 # Comments: 0",
+          "published_at": "2026-09-11 00:11",
+          "tags": []
+        },
+        {
+          "title": "AI Agent Builder gives memory across voice, SMS, email, web chat and social",
+          "url": "https://boldagents.co",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://boldagents.co Comments URL: https://news.ycombinator.com/item?id=49651788 Points: 5 # Comments: 0",
+          "published_at": "2026-09-11 00:03",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Socks Proxy for AI Agents",
+          "url": "https://x402socks.com/",
+          "source": "Hacker News AI",
+          "summary": "I've built a socks5 proxy especially for AI agents, currently there are exit points in east and west US, central EU and east Asia. The payment for the service is settled by the X402 protocol, with USDC on circle/base. You can also purchase access via crypto on the webpage for humans, but the key focus is for autonomous agents. Comments URL: https://news.ycombinator.com/item?id=49651636 Points: 2 # Comments: 0",
+          "published_at": "2026-09-10 23:42",
+          "tags": []
+        },
+        {
+          "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+          "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+          "published_at": "2026-09-10 21:51",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "TC",
+            "Jensen Huang",
+            "nvidia"
+          ]
+        },
+        {
+          "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+          "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+          "source": "TechCrunch AI",
+          "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+          "published_at": "2026-09-10 19:50",
+          "tags": [
+            "AI",
+            "Apps",
+            "Meta",
+            "muse"
+          ]
+        },
+        {
+          "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+          "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+          "source": "TechCrunch AI",
+          "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
+          "published_at": "2026-09-10 17:54",
+          "tags": [
+            "AI",
+            "AI agents",
+            "Anthropic"
+          ]
+        },
+        {
+          "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+          "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+          "source": "TechCrunch AI",
+          "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
+          "published_at": "2026-09-10 17:45",
+          "tags": [
+            "AI",
+            "Media & Entertainment",
+            "Startups",
+            "Pocket Entertainment",
+            "Pocket FM"
+          ]
+        },
+        {
+          "title": "Slack can now vibe-code interactive charts and reports inside chats",
+          "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+          "source": "The Verge AI",
+          "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from relevant conversations and connected apps, like Google Drive or Salesforce, to [&#8230;]",
+          "published_at": "2026-09-10 17:25",
+          "tags": [
+            "AI",
+            "Apps",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "AI agents are flooding public services with new requests",
+          "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+          "source": "TechCrunch AI",
+          "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
+          "published_at": "2026-09-10 14:53",
+          "tags": [
+            "AI",
+            "Government & Policy",
+            "research"
+          ]
+        },
+        {
+          "title": "Meta’s Muse AI works and creeps me out",
+          "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+          "source": "The Verge AI",
+          "summary": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more. I decided to try out the new tool and see how well it performed - [&#8230;]",
+          "published_at": "2026-09-10 11:00",
+          "tags": [
+            "AI",
+            "Analysis",
+            "Meta",
+            "Report",
+            "Tech"
+          ]
+        },
+        {
+          "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+          "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+          "source": "TechCrunch AI",
+          "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+          "published_at": "2026-09-10 00:00",
+          "tags": [
+            "AI",
+            "Venture",
+            "customer research",
+            "menlo ventures",
+            "Mergers and Acquisitions",
+            "Salesforce"
+          ]
+        },
+        {
+          "title": "OpenAI adds a prominent AI doomer to its board of directors",
+          "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+          "source": "TechCrunch AI",
+          "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+          "published_at": "2026-09-09 22:25",
+          "tags": [
+            "AI",
+            "OpenAI"
+          ]
+        }
+      ]
+    }
+  ]
+}

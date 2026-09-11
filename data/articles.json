@@ -1,5 +1,221 @@
 [
   {
+    "title": "Episode 7: The AI Doomer Cult with Brian Chau",
+    "url": "https://twitter.com/willchamberlain/status/2098207395608699093",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/willchamberlain/status/2098207395608699093 Comments URL: https://news.ycombinator.com/item?id=49653177 Points: 1 # Comments: 0",
+    "published_at": "2026-09-11 03:23",
+    "tags": [],
+    "fetch_date": "2026-09-11",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "To Thine Own AI Be Truthful: emergent misalignment in alignment research",
+    "url": "https://twitter.com/lumpenspace/status/2098167355033678071",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/lumpenspace/status/2098167355033678071 Comments URL: https://news.ycombinator.com/item?id=49653165 Points: 1 # Comments: 0",
+    "published_at": "2026-09-11 03:20",
+    "tags": [],
+    "fetch_date": "2026-09-11",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "BasedAgents: Give your idle AI agent a paying job",
+    "url": "https://basedagents.ai/tasks",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://basedagents.ai/tasks Comments URL: https://news.ycombinator.com/item?id=49653106 Points: 3 # Comments: 3",
+    "published_at": "2026-09-11 03:09",
+    "tags": [],
+    "fetch_date": "2026-09-11",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "LLM Visualizer – Build a Transformer from Scratch",
+    "url": "https://jayvisaria.github.io/LLM-Visualizer/#/dashboard",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://jayvisaria.github.io/LLM-Visualizer/#/dashboard Comments URL: https://news.ycombinator.com/item?id=49652996 Points: 7 # Comments: 2",
+    "published_at": "2026-09-11 02:51",
+    "tags": [],
+    "fetch_date": "2026-09-11",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "SAGG – failover gateway for cheap LLM providers",
+    "url": "https://api.privatedeskai.com/benchmarks",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://api.privatedeskai.com/benchmarks Comments URL: https://news.ycombinator.com/item?id=49652778 Points: 1 # Comments: 0",
+    "published_at": "2026-09-11 02:15",
+    "tags": [],
+    "fetch_date": "2026-09-11",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Anthropic Staffers Again Sound the Alarm on AI Catastrophe",
+    "url": "https://www.motherjones.com/politics/2026/09/anthropic-ai-risks-coxon-amodei-openai-cybersecurity-danger/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.motherjones.com/politics/2026/09/anthropic-ai-risks-coxon-amodei-openai-cybersecurity-danger/ Comments URL: https://news.ycombinator.com/item?id=49652743 Points: 4 # Comments: 0",
+    "published_at": "2026-09-11 02:10",
+    "tags": [],
+    "fetch_date": "2026-09-11",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Watermarks Without Verification: AI Text Watermarking After the EU AI Act",
+    "url": "https://arxiv.org/abs/2609.09604",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2609.09604 Comments URL: https://news.ycombinator.com/item?id=49652708 Points: 1 # Comments: 0",
+    "published_at": "2026-09-11 02:07",
+    "tags": [],
+    "fetch_date": "2026-09-11",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Try GPT-6 Astra for a few bucks",
+    "url": "https://trylatestmodel.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://trylatestmodel.com/ Comments URL: https://news.ycombinator.com/item?id=49652603 Points: 2 # Comments: 1",
+    "published_at": "2026-09-11 01:51",
+    "tags": [],
+    "fetch_date": "2026-09-11",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI #185: Preference Cascade",
+    "url": "https://thezvi.substack.com/p/ai-185-preference-cascade",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://thezvi.substack.com/p/ai-185-preference-cascade Comments URL: https://news.ycombinator.com/item?id=49652454 Points: 2 # Comments: 0",
+    "published_at": "2026-09-11 01:31",
+    "tags": [],
+    "fetch_date": "2026-09-11",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: TIL in AI",
+    "url": "https://buildyard.ai/til",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://buildyard.ai/til Comments URL: https://news.ycombinator.com/item?id=49652235 Points: 1 # Comments: 0",
+    "published_at": "2026-09-11 01:00",
+    "tags": [],
+    "fetch_date": "2026-09-11",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The Kirkversary: An AI Carnival",
+    "url": "https://thecarrierwave.substack.com/p/kirkversary-a-bizarre-ai-carnival",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://thecarrierwave.substack.com/p/kirkversary-a-bizarre-ai-carnival Comments URL: https://news.ycombinator.com/item?id=49652132 Points: 2 # Comments: 0",
+    "published_at": "2026-09-11 00:46",
+    "tags": [],
+    "fetch_date": "2026-09-11",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask HN: Where is your red line for an AI provider?",
+    "url": "https://news.ycombinator.com/item?id=49651845",
+    "source": "Hacker News AI",
+    "summary": "Just looking at the past month has got me thinking. I suspect everyone has a slightly different answer too - which is why it is so difficult to coordinate on slowdown strategies.What action or event coming out of a frontier AI provider would make you draw the line and stop using them? Comments URL: https://news.ycombinator.com/item?id=49651845 Points: 1 # Comments: 0",
+    "published_at": "2026-09-11 00:11",
+    "tags": [],
+    "fetch_date": "2026-09-11",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Agent Builder gives memory across voice, SMS, email, web chat and social",
+    "url": "https://boldagents.co",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://boldagents.co Comments URL: https://news.ycombinator.com/item?id=49651788 Points: 5 # Comments: 0",
+    "published_at": "2026-09-11 00:03",
+    "tags": [],
+    "fetch_date": "2026-09-11",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Socks Proxy for AI Agents",
+    "url": "https://x402socks.com/",
+    "source": "Hacker News AI",
+    "summary": "I've built a socks5 proxy especially for AI agents, currently there are exit points in east and west US, central EU and east Asia. The payment for the service is settled by the X402 protocol, with USDC on circle/base. You can also purchase access via crypto on the webpage for humans, but the key focus is for autonomous agents. Comments URL: https://news.ycombinator.com/item?id=49651636 Points: 2 # Comments: 0",
+    "published_at": "2026-09-10 23:42",
+    "tags": [],
+    "fetch_date": "2026-09-11",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+    "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+    "source": "TechCrunch AI",
+    "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+    "published_at": "2026-09-10 21:51",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "TC",
+      "Jensen Huang",
+      "nvidia"
+    ],
+    "fetch_date": "2026-09-11",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+    "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+    "source": "TechCrunch AI",
+    "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+    "published_at": "2026-09-10 19:50",
+    "tags": [
+      "AI",
+      "Apps",
+      "Meta",
+      "muse"
+    ],
+    "fetch_date": "2026-09-11",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+    "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+    "source": "TechCrunch AI",
+    "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
+    "published_at": "2026-09-10 17:54",
+    "tags": [
+      "AI",
+      "AI agents",
+      "Anthropic"
+    ],
+    "fetch_date": "2026-09-11",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+    "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+    "source": "TechCrunch AI",
+    "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
+    "published_at": "2026-09-10 17:45",
+    "tags": [
+      "AI",
+      "Media & Entertainment",
+      "Startups",
+      "Pocket Entertainment",
+      "Pocket FM"
+    ],
+    "fetch_date": "2026-09-11",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Slack can now vibe-code interactive charts and reports inside chats",
+    "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+    "source": "The Verge AI",
+    "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from relevant conversations and connected apps, like Google Drive or Salesforce, to [&#8230;]",
+    "published_at": "2026-09-10 17:25",
+    "tags": [
+      "AI",
+      "Apps",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-09-11",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Show HN: I built an AI 'Fog of War' to kill my 3AM Notion templates",
     "url": "https://www.tryworthit.app/about",
     "source": "Hacker News AI",
@@ -58,6 +274,20 @@
     "tags": [],
     "fetch_date": "2026-09-10",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "AI agents are flooding public services with new requests",
+    "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+    "source": "TechCrunch AI",
+    "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
+    "published_at": "2026-09-10 14:53",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "research"
+    ],
+    "fetch_date": "2026-09-11",
+    "fetch_label": "早报"
   },
   {
     "title": "Show HN: Xfinlab – a financial intelligence API with an MCP server for AI agents",
@@ -34935,213 +35165,6 @@
       "arxiv"
     ],
     "fetch_date": "2026-05-17",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "A personal letter on transformative AI",
-    "url": "https://multipliercg.substack.com/p/a-personal-letter-on-transformative",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://multipliercg.substack.com/p/a-personal-letter-on-transformative Comments URL: https://news.ycombinator.com/item?id=48160020 Points: 1 # Comments: 0",
-    "published_at": "2026-05-16 13:17",
-    "tags": [],
-    "fetch_date": "2026-05-16",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Can AI Un-Slop Itself?",
-    "url": "https://github.com/cuzzo/clear/blob/master/docs/retrospective/can-ai-unslop-itself.md",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/cuzzo/clear/blob/master/docs/retrospective/can-ai-unslop-itself.md Comments URL: https://news.ycombinator.com/item?id=48159910 Points: 1 # Comments: 0",
-    "published_at": "2026-05-16 13:04",
-    "tags": [],
-    "fetch_date": "2026-05-16",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "ArXiv to Ban Researchers for a Year If They Submit AI Slop",
-    "url": "https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/ Comments URL: https://news.ycombinator.com/item?id=48159794 Points: 4 # Comments: 0",
-    "published_at": "2026-05-16 12:49",
-    "tags": [],
-    "fetch_date": "2026-05-16",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Pop the AI Bubble – A satirical card game mocking AI hype",
-    "url": "https://poptheaibubble.com/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://poptheaibubble.com/ Comments URL: https://news.ycombinator.com/item?id=48159546 Points: 1 # Comments: 1",
-    "published_at": "2026-05-16 12:22",
-    "tags": [],
-    "fetch_date": "2026-05-16",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Agents Are Currently Stealing My Job, and Honestly? They Can Have It",
-    "url": "https://www.bwanaerp.com/blog/ai-agents-are-currently-stealing-my-job-and-honestly-they-can-have-it-12",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.bwanaerp.com/blog/ai-agents-are-currently-stealing-my-job-and-honestly-they-can-have-it-12 Comments URL: https://news.ycombinator.com/item?id=48159432 Points: 2 # Comments: 0",
-    "published_at": "2026-05-16 12:04",
-    "tags": [],
-    "fetch_date": "2026-05-16",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Prepare for an AI Jobs Apocalypse",
-    "url": "https://www.economist.com/leaders/2026/05/14/prepare-for-an-ai-jobs-apocalypse",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.economist.com/leaders/2026/05/14/prepare-for-an-ai-jobs-apocalypse Comments URL: https://news.ycombinator.com/item?id=48159291 Points: 10 # Comments: 0",
-    "published_at": "2026-05-16 11:45",
-    "tags": [],
-    "fetch_date": "2026-05-16",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "TokenBBQ – track AI coding token usage across Claude, Codex, Gemini",
-    "url": "https://github.com/offbyone1/tokenbbq",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/offbyone1/tokenbbq Comments URL: https://news.ycombinator.com/item?id=48159289 Points: 2 # Comments: 0",
-    "published_at": "2026-05-16 11:45",
-    "tags": [],
-    "fetch_date": "2026-05-16",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
-    "url": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
-    "source": "The Verge AI",
-    "summary": "After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos, but makes suggestions based on lighting, depth, and subject. Point the camera at something, and it will give you four options [&#8230;]",
-    "published_at": "2026-05-16 11:37",
-    "tags": [
-      "AI",
-      "Cameras",
-      "Gadgets",
-      "News",
-      "Sony",
-      "Tech"
-    ],
-    "fetch_date": "2026-05-17",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Automated AI-Based Pigeon Defense System",
-    "url": "https://old.reddit.com/r/SideProject/comments/1s9ywir/automated_pigeon_defense_system/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://old.reddit.com/r/SideProject/comments/1s9ywir/automated_pigeon_defense_system/ Comments URL: https://news.ycombinator.com/item?id=48158835 Points: 2 # Comments: 1",
-    "published_at": "2026-05-16 10:29",
-    "tags": [],
-    "fetch_date": "2026-05-16",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Setting up an AI-native organization",
-    "url": "https://aweb.ai/blog/ai-first-company-howto",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://aweb.ai/blog/ai-first-company-howto Comments URL: https://news.ycombinator.com/item?id=48158737 Points: 3 # Comments: 11",
-    "published_at": "2026-05-16 10:11",
-    "tags": [],
-    "fetch_date": "2026-05-16",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Offline voice to text and AI keyboard",
-    "url": "https://apps.apple.com/us/app/dictawiz-voice-notes-recorder/id6759256382",
-    "source": "Hacker News AI",
-    "summary": "Record and transcribe anything, replay with word-by-word highlighting, and dictate/use AI into any app; all on-device and private.Includes a lot of features missing in Wispr Flow (Apple Watch recording, dark mode, no time-limits, smart notes and lifetime subscription plan). It has a lifetime subscription and upcoming MacOS companion. Comments URL: https://news.ycombinator.com/item?id=48158632 Points: 3 # Comments: 0",
-    "published_at": "2026-05-16 09:53",
-    "tags": [],
-    "fetch_date": "2026-05-16",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The Japanese companies minting money from AI",
-    "url": "https://www.economist.com/business/2026/05/14/the-strange-japanese-companies-minting-money-from-ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.economist.com/business/2026/05/14/the-strange-japanese-companies-minting-money-from-ai Comments URL: https://news.ycombinator.com/item?id=48158466 Points: 3 # Comments: 2",
-    "published_at": "2026-05-16 09:23",
-    "tags": [],
-    "fetch_date": "2026-05-16",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Moving away from Tailwind, and learning to structure my CSS",
-    "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/ Comments URL: https://news.ycombinator.com/item?id=48158400 Points: 18 # Comments: 2",
-    "published_at": "2026-05-16 09:14",
-    "tags": [],
-    "fetch_date": "2026-05-16",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "What we should be afraid of in AI (2021)",
-    "url": "https://roganov.me/blog/ai-real-fears/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://roganov.me/blog/ai-real-fears/ Comments URL: https://news.ycombinator.com/item?id=48156499 Points: 1 # Comments: 0",
-    "published_at": "2026-05-16 03:08",
-    "tags": [],
-    "fetch_date": "2026-05-16",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Ask HN: Is there anything built around AI context drift problem to fix?",
-    "url": "https://news.ycombinator.com/item?id=48156498",
-    "source": "Hacker News AI",
-    "summary": "I am very interested to know, about AI context drift problem. mostly in Chat GPT I faced too much drift, it lost the the whole base context at first opening I given.How to fix that? It don't work also on project. Comments URL: https://news.ycombinator.com/item?id=48156498 Points: 1 # Comments: 2",
-    "published_at": "2026-05-16 03:08",
-    "tags": [],
-    "fetch_date": "2026-05-16",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI for the Real World: A Conversation with Yann LeCun",
-    "url": "https://twitter.com/AnneliesGamble/status/2054219457451733382",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://twitter.com/AnneliesGamble/status/2054219457451733382 Comments URL: https://news.ycombinator.com/item?id=48156223 Points: 2 # Comments: 0",
-    "published_at": "2026-05-16 02:20",
-    "tags": [],
-    "fetch_date": "2026-05-16",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Used to manage a collection of AI workflows for a single vertical domain – Wasup",
-    "url": "https://github.com/EdwardJoke/Wasup",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/EdwardJoke/Wasup Comments URL: https://news.ycombinator.com/item?id=48156103 Points: 1 # Comments: 1",
-    "published_at": "2026-05-16 01:56",
-    "tags": [],
-    "fetch_date": "2026-05-16",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Symposia AI",
-    "url": "https://www.trysymposiaai.com/landing",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.trysymposiaai.com/landing Comments URL: https://news.ycombinator.com/item?id=48155946 Points: 2 # Comments: 1",
-    "published_at": "2026-05-16 01:26",
-    "tags": [],
-    "fetch_date": "2026-05-16",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Jane Street's approach to AI adoption throughout their SDLC [video]",
-    "url": "https://www.youtube.com/watch?v=rUYP4C29yCw",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.youtube.com/watch?v=rUYP4C29yCw Comments URL: https://news.ycombinator.com/item?id=48155904 Points: 3 # Comments: 1",
-    "published_at": "2026-05-16 01:18",
-    "tags": [],
-    "fetch_date": "2026-05-16",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "A Compression Tool for LLM Reads. Est. 60-95% Fewer Tokens",
-    "url": "https://github.com/chopratejas/headroom",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/chopratejas/headroom Comments URL: https://news.ycombinator.com/item?id=48155888 Points: 3 # Comments: 0",
-    "published_at": "2026-05-16 01:16",
-    "tags": [],
-    "fetch_date": "2026-05-16",
     "fetch_label": "早报"
   }
 ]
