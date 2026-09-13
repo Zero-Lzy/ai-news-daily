@@ -124,6 +124,163 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-09-13 23:44:24",
+      "count": 17,
+      "articles": [
+        {
+          "title": "Hollywood fears an AI future. China is living it",
+          "url": "https://www.latimes.com/business/story/2026-09-10/hollywood-fears-ai-future-china-is-already-living-it",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.latimes.com/business/story/2026-09-10/hollywood-fears-ai-future-china-is-already-living-it Comments URL: https://news.ycombinator.com/item?id=49685219 Points: 1 # Comments: 0",
+          "published_at": "2026-09-13 15:41",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Directory of 28 AI crawlers – robots.txt rules, IP ranges, open data",
+          "url": "https://geoprompttracker.com/bots",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://geoprompttracker.com/bots Comments URL: https://news.ycombinator.com/item?id=49685136 Points: 1 # Comments: 0",
+          "published_at": "2026-09-13 15:33",
+          "tags": []
+        },
+        {
+          "title": "Anthropic CEO outlines plan to slow AI development",
+          "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/ Comments URL: https://news.ycombinator.com/item?id=49685132 Points: 1 # Comments: 0",
+          "published_at": "2026-09-13 15:32",
+          "tags": []
+        },
+        {
+          "title": "Is There an 'I' in AI?",
+          "url": "https://royalsocietypublishing.org/rsta/article/384/2320/20240527/481691/Is-there-an-I-in-AI",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://royalsocietypublishing.org/rsta/article/384/2320/20240527/481691/Is-there-an-I-in-AI Comments URL: https://news.ycombinator.com/item?id=49685118 Points: 1 # Comments: 0",
+          "published_at": "2026-09-13 15:31",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: What do AI improvements at these labs look like?",
+          "url": "https://news.ycombinator.com/item?id=49684921",
+          "source": "Hacker News AI",
+          "summary": "I'm struggling to understand what improvements at labs look like. Some part of it is more training data, more weights, more post training. That all seems.straightforward to me. But what % of improvements come from that as opposed to techniques and model design changes? MoE stuff, swapping out the activation function, etc etc?Do we have any info on this? Comments URL: https://news.ycombinator.com/item?id=49684921 Points: 2 # Comments: 0",
+          "published_at": "2026-09-13 15:14",
+          "tags": []
+        },
+        {
+          "title": "Show HN: I built my own knowledge graph from the code AI writes",
+          "url": "https://github.com/aeroscissorz/learnlance/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/aeroscissorz/learnlance/ Comments URL: https://news.ycombinator.com/item?id=49684835 Points: 2 # Comments: 1",
+          "published_at": "2026-09-13 15:07",
+          "tags": []
+        },
+        {
+          "title": "Agent Tavern – a Q&A board where a different AI model has to review the answer",
+          "url": "https://agenttavern.dev/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://agenttavern.dev/ Comments URL: https://news.ycombinator.com/item?id=49684789 Points: 1 # Comments: 0",
+          "published_at": "2026-09-13 15:03",
+          "tags": []
+        },
+        {
+          "title": "Big AI to Humanity: Drop Dead",
+          "url": "https://matthewbutterick.com/chron/drop-dead.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://matthewbutterick.com/chron/drop-dead.html Comments URL: https://news.ycombinator.com/item?id=49684695 Points: 2 # Comments: 0",
+          "published_at": "2026-09-13 14:56",
+          "tags": []
+        },
+        {
+          "title": "Open-Source AI and Open Models Reading List",
+          "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.interconnects.ai/p/open-source-ai-reading-list Comments URL: https://news.ycombinator.com/item?id=49684527 Points: 1 # Comments: 0",
+          "published_at": "2026-09-13 14:42",
+          "tags": []
+        },
+        {
+          "title": "AI vs. Human Value Drift",
+          "url": "https://www.overcomingbias.com/p/ai-vs-human-value-drift",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.overcomingbias.com/p/ai-vs-human-value-drift Comments URL: https://news.ycombinator.com/item?id=49684433 Points: 1 # Comments: 0",
+          "published_at": "2026-09-13 14:32",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: What would \"slowing down\" AI look like?",
+          "url": "https://news.ycombinator.com/item?id=49684204",
+          "source": "Hacker News AI",
+          "summary": "What would the second degree effects be?Are token prices about to skyrocket? Do the IPOs not happen? Does the bubble burst and everything dependent on this continuous growth stop?Or does everyone who got laid off magically get their jobs back and the world goes back to rainbows and butterflies?Or do data centers get built then we resume? And the industry gets the trust to self-regulate like social media (which went great)I find hard to envision how this even works. Comments URL: https://news.yco",
+          "published_at": "2026-09-13 14:10",
+          "tags": []
+        },
+        {
+          "title": "AI Writing Is Fine",
+          "url": "https://matthewphillips.info/programming/posts/ai-writing-is-fine/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://matthewphillips.info/programming/posts/ai-writing-is-fine/ Comments URL: https://news.ycombinator.com/item?id=49684082 Points: 2 # Comments: 4",
+          "published_at": "2026-09-13 13:59",
+          "tags": []
+        },
+        {
+          "title": "AI models don't kill people – people kill people",
+          "url": "https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368 Comments URL: https://news.ycombinator.com/item?id=49683834 Points: 36 # Comments: 55",
+          "published_at": "2026-09-13 13:33",
+          "tags": []
+        },
+        {
+          "title": "Show HN: I built a day-by-day timeline of the AI boom (2017–2026, 437 events)",
+          "url": "https://www.aihistory.live/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.aihistory.live/ Comments URL: https://news.ycombinator.com/item?id=49683798 Points: 1 # Comments: 0",
+          "published_at": "2026-09-13 13:31",
+          "tags": []
+        },
+        {
+          "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+          "source": "TechCrunch AI",
+          "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+          "published_at": "2026-09-12 20:19",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "OpenAI",
+            "sam altman"
+          ]
+        },
+        {
+          "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+          "source": "The Verge AI",
+          "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow [&#8230;]",
+          "published_at": "2026-09-12 12:23",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "News",
+            "Policy"
+          ]
+        },
+        {
+          "title": "OpenAI just wants to win",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+          "source": "The Verge AI",
+          "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement. Instead, many mathematicians have watched OpenAI's relentless advance with [&#8230;]",
+          "published_at": "2026-09-12 07:00",
+          "tags": [
+            "AI",
+            "OpenAI",
+            "Tech"
+          ]
+        }
+      ]
     }
   ]
 }

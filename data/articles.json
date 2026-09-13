@@ -1,5 +1,125 @@
 [
   {
+    "title": "Hollywood fears an AI future. China is living it",
+    "url": "https://www.latimes.com/business/story/2026-09-10/hollywood-fears-ai-future-china-is-already-living-it",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.latimes.com/business/story/2026-09-10/hollywood-fears-ai-future-china-is-already-living-it Comments URL: https://news.ycombinator.com/item?id=49685219 Points: 1 # Comments: 0",
+    "published_at": "2026-09-13 15:41",
+    "tags": [],
+    "fetch_date": "2026-09-13",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Directory of 28 AI crawlers – robots.txt rules, IP ranges, open data",
+    "url": "https://geoprompttracker.com/bots",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://geoprompttracker.com/bots Comments URL: https://news.ycombinator.com/item?id=49685136 Points: 1 # Comments: 0",
+    "published_at": "2026-09-13 15:33",
+    "tags": [],
+    "fetch_date": "2026-09-13",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Is There an 'I' in AI?",
+    "url": "https://royalsocietypublishing.org/rsta/article/384/2320/20240527/481691/Is-there-an-I-in-AI",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://royalsocietypublishing.org/rsta/article/384/2320/20240527/481691/Is-there-an-I-in-AI Comments URL: https://news.ycombinator.com/item?id=49685118 Points: 1 # Comments: 0",
+    "published_at": "2026-09-13 15:31",
+    "tags": [],
+    "fetch_date": "2026-09-13",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ask HN: What do AI improvements at these labs look like?",
+    "url": "https://news.ycombinator.com/item?id=49684921",
+    "source": "Hacker News AI",
+    "summary": "I'm struggling to understand what improvements at labs look like. Some part of it is more training data, more weights, more post training. That all seems.straightforward to me. But what % of improvements come from that as opposed to techniques and model design changes? MoE stuff, swapping out the activation function, etc etc?Do we have any info on this? Comments URL: https://news.ycombinator.com/item?id=49684921 Points: 2 # Comments: 0",
+    "published_at": "2026-09-13 15:14",
+    "tags": [],
+    "fetch_date": "2026-09-13",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: I built my own knowledge graph from the code AI writes",
+    "url": "https://github.com/aeroscissorz/learnlance/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/aeroscissorz/learnlance/ Comments URL: https://news.ycombinator.com/item?id=49684835 Points: 2 # Comments: 1",
+    "published_at": "2026-09-13 15:07",
+    "tags": [],
+    "fetch_date": "2026-09-13",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Agent Tavern – a Q&A board where a different AI model has to review the answer",
+    "url": "https://agenttavern.dev/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://agenttavern.dev/ Comments URL: https://news.ycombinator.com/item?id=49684789 Points: 1 # Comments: 0",
+    "published_at": "2026-09-13 15:03",
+    "tags": [],
+    "fetch_date": "2026-09-13",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Big AI to Humanity: Drop Dead",
+    "url": "https://matthewbutterick.com/chron/drop-dead.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://matthewbutterick.com/chron/drop-dead.html Comments URL: https://news.ycombinator.com/item?id=49684695 Points: 2 # Comments: 0",
+    "published_at": "2026-09-13 14:56",
+    "tags": [],
+    "fetch_date": "2026-09-13",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Open-Source AI and Open Models Reading List",
+    "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.interconnects.ai/p/open-source-ai-reading-list Comments URL: https://news.ycombinator.com/item?id=49684527 Points: 1 # Comments: 0",
+    "published_at": "2026-09-13 14:42",
+    "tags": [],
+    "fetch_date": "2026-09-13",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI vs. Human Value Drift",
+    "url": "https://www.overcomingbias.com/p/ai-vs-human-value-drift",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.overcomingbias.com/p/ai-vs-human-value-drift Comments URL: https://news.ycombinator.com/item?id=49684433 Points: 1 # Comments: 0",
+    "published_at": "2026-09-13 14:32",
+    "tags": [],
+    "fetch_date": "2026-09-13",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ask HN: What would \"slowing down\" AI look like?",
+    "url": "https://news.ycombinator.com/item?id=49684204",
+    "source": "Hacker News AI",
+    "summary": "What would the second degree effects be?Are token prices about to skyrocket? Do the IPOs not happen? Does the bubble burst and everything dependent on this continuous growth stop?Or does everyone who got laid off magically get their jobs back and the world goes back to rainbows and butterflies?Or do data centers get built then we resume? And the industry gets the trust to self-regulate like social media (which went great)I find hard to envision how this even works. Comments URL: https://news.yco",
+    "published_at": "2026-09-13 14:10",
+    "tags": [],
+    "fetch_date": "2026-09-13",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Writing Is Fine",
+    "url": "https://matthewphillips.info/programming/posts/ai-writing-is-fine/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://matthewphillips.info/programming/posts/ai-writing-is-fine/ Comments URL: https://news.ycombinator.com/item?id=49684082 Points: 2 # Comments: 4",
+    "published_at": "2026-09-13 13:59",
+    "tags": [],
+    "fetch_date": "2026-09-13",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: I built a day-by-day timeline of the AI boom (2017–2026, 437 events)",
+    "url": "https://www.aihistory.live/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.aihistory.live/ Comments URL: https://news.ycombinator.com/item?id=49683798 Points: 1 # Comments: 0",
+    "published_at": "2026-09-13 13:31",
+    "tags": [],
+    "fetch_date": "2026-09-13",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
     "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
     "source": "TechCrunch AI",
@@ -121,6 +241,21 @@
     "published_at": "2026-09-12 12:25",
     "tags": [],
     "fetch_date": "2026-09-12",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+    "source": "The Verge AI",
+    "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow [&#8230;]",
+    "published_at": "2026-09-12 12:23",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "News",
+      "Policy"
+    ],
+    "fetch_date": "2026-09-13",
     "fetch_label": "晚报"
   },
   {
@@ -34992,173 +35127,5 @@
     ],
     "fetch_date": "2026-05-20",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "Gemini will use Volvo’s external cameras to interpret parking signs",
-    "url": "https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking",
-    "source": "The Verge AI",
-    "summary": "Gemini is gaining the power of sight and mobility. Today at the I/O conference, Google and Volvo announced that the AI-powered assistant will be able to access external cameras in the upcoming EX60 SUV to help explain and interpret its surroundings to vehicle owners. The upgrade is possible thanks to Volvo's use of Google's embedded [&#8230;]",
-    "published_at": "2026-05-19 14:00",
-    "tags": [
-      "AI",
-      "Cars",
-      "Google",
-      "Google I/O 2026",
-      "News",
-      "Tech",
-      "Transportation",
-      "Volvo"
-    ],
-    "fetch_date": "2026-05-20",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The 13 biggest announcements at Google I/O 2026",
-    "url": "https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini",
-    "source": "The Verge AI",
-    "summary": "Google's I/O 2026 keynote today was once again full of AI-related announcements including a new family of Gemini 3.5 AI models, new features for Search and Gmail, and updates about its Project Aura smart glasses. If you weren't able to tune into the event's livestream today or follow along with our live blog, you can [&#8230;]",
-    "published_at": "2026-05-19 13:54",
-    "tags": [
-      "AI",
-      "Google",
-      "Google I/O 2026",
-      "News",
-      "Tech"
-    ],
-    "fetch_date": "2026-05-20",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Google wants to compete with Anthropic’s Mythos",
-    "url": "https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos",
-    "source": "The Verge AI",
-    "summary": "Google is making a big push into cybersecurity. At I/O, the company announced that it was inviting select groups of experts to test the API for CodeMender, an \"AI agent for code security\" it debuted last October. The difference is that Google is now making the tool more widely available externally - and marketing it [&#8230;]",
-    "published_at": "2026-05-19 13:48",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "Google",
-      "Google I/O 2026",
-      "Tech"
-    ],
-    "fetch_date": "2026-05-20",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Google Search is getting its biggest changes ever",
-    "url": "https://www.theverge.com/tech/932970/google-search-ai-update-io-2026",
-    "source": "The Verge AI",
-    "summary": "Google Search is entering the next phase of its AI evolution. During Google I/O 2026, the company showed off a reimagined search box that makes it easier to flow between AI Overviews, the AI-generated summaries that appear at the top of search results, and AI Mode, Google's chatbot-like search experience. Powered by the new Gemini [&#8230;]",
-    "published_at": "2026-05-19 13:45",
-    "tags": [
-      "AI",
-      "Google",
-      "Google I/O 2026",
-      "News",
-      "Tech"
-    ],
-    "fetch_date": "2026-05-20",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Gmail is going to start talking to you",
-    "url": "https://www.theverge.com/tech/932973/google-gmail-live-ai-keep-docs-io-2026",
-    "source": "The Verge AI",
-    "summary": "Google is launching a big new feature for Gmail called Gmail Live, a new AI-powered voice mode that's basically the Gemini Live experience but built specifically for your inbox. To use Gmail Live, tap an icon that will appear in your search bar and just start talking. In a press briefing, a Google employee showed [&#8230;]",
-    "published_at": "2026-05-19 13:45",
-    "tags": [
-      "AI",
-      "Google",
-      "Google I/O 2026",
-      "Tech"
-    ],
-    "fetch_date": "2026-05-20",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Google can now vibe-code you an Android app",
-    "url": "https://www.theverge.com/tech/932364/google-ai-studio-native-android-apps-vibe-code-google-io-2026",
-    "source": "The Verge AI",
-    "summary": "Google is announcing a major upgrade to one of its vibe coding platforms: Beginning today, you can now use AI Studio to build native Android apps. With Google AI Studio, you can prompt your idea for an app and preview it with an embedded emulator of Android. When you want to try it out on [&#8230;]",
-    "published_at": "2026-05-19 13:45",
-    "tags": [
-      "AI",
-      "Android",
-      "Google",
-      "News",
-      "Tech"
-    ],
-    "fetch_date": "2026-05-20",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Google, Blackstone to Create AI Cloud Firm with In-House Chips",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-19/google-to-create-ai-cloud-business-with-blackstone-wsj-says",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-19/google-to-create-ai-cloud-business-with-blackstone-wsj-says Comments URL: https://news.ycombinator.com/item?id=48188933 Points: 1 # Comments: 0",
-    "published_at": "2026-05-19 03:44",
-    "tags": [],
-    "fetch_date": "2026-05-19",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "TuriX AI launched the latest version",
-    "url": "https://github.com/TurixAI/TuriX-CUA",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/TurixAI/TuriX-CUA Comments URL: https://news.ycombinator.com/item?id=48188822 Points: 1 # Comments: 1",
-    "published_at": "2026-05-19 03:23",
-    "tags": [],
-    "fetch_date": "2026-05-19",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Grant Writing Assistant",
-    "url": "https://grantbot.pl",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://grantbot.pl Comments URL: https://news.ycombinator.com/item?id=48188643 Points: 1 # Comments: 0",
-    "published_at": "2026-05-19 02:53",
-    "tags": [],
-    "fetch_date": "2026-05-19",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Vault Pro – AI Scaffolder for Obsidian Project Notes (Node/Claude)",
-    "url": "https://checkout.stripe.com/c/pay/cs_live_a1T5cP4xxXFYhY045VE1ui9fm1NJj0ACL1umdUosCWtXUSR8CKrdNPsqn6#fidnandhYHdWcXxpYCc%2FJ2FgY2RwaXEnKSdicGRmZGhqaWBTZHdsZGtxJz8nZmprcXdqaScpJ2R1bE5gfCc%2FJ3VuWmlsc2BaMDRRSVF3TEJ8bnFIYn18XE49QDxqcV12bnFhNXI9U19HRjBucWBPVTNoRHxnVkxpMUxPZFc8Sm4yNm9vMFZQaFJ%2FPGtTQHQ0MD00fXV1cUEzdkBDNVdKf3I1NTZVZGFJaGo2JyknY3dqaFZgd3Ngdyc%2FcXdwYCknZ2RmbmJ3anBrYUZqaWp3Jz8nJjxnNGc2NScpJ2lkfGpwcVF8dWAnPyd2bGtiaWBabHFgaCcpJ2BrZGdpYFVpZGZgbWppYWB3dic%2FcXdwYHgl",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://checkout.stripe.com/c/pay/cs_live_a1T5cP4xxXFYhY045VE1ui9fm1NJj0ACL1umdUosCWtXUSR8CKrdNPsqn6#fidnandhYHdWcXxpYCc%2FJ2FgY2RwaXEnKSdicGRmZGhqaWBTZHdsZGtxJz8nZmprcXdqaScpJ2R1bE5gfCc%2FJ3VuWmlsc2BaMDRRSVF3TEJ8bnFIYn18XE49QDxqcV12bnFhNXI9U19HRjBucWBPVTNoRHxnVkxpMUxPZFc8Sm4yNm9vMFZQaFJ%2FPGtTQHQ0MD00fXV1cUEzdkBDNVdKf3I1NTZVZGFJaGo2JyknY3dqaFZgd3Ngdyc%2FcXdwYCknZ2RmbmJ3anBrYUZqaWp3Jz8nJjxnNGc2NScpJ2lkfGpwcVF8dWAnPyd2bGtiaWBabHFgaCcpJ2BrZGdpYFVpZGZgbWppYWB3dic%2FcXdwYHgl Comments UR",
-    "published_at": "2026-05-19 02:44",
-    "tags": [],
-    "fetch_date": "2026-05-19",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "People who use ChatGPT for writing are accurate detectors of AI text (2025)",
-    "url": "https://arxiv.org/abs/2501.15654",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://arxiv.org/abs/2501.15654 Comments URL: https://news.ycombinator.com/item?id=48188566 Points: 3 # Comments: 0",
-    "published_at": "2026-05-19 02:36",
-    "tags": [],
-    "fetch_date": "2026-05-19",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Can AI just replace me already? – A comparative AI-writing ID experiment",
-    "url": "https://www.richardhanania.com/p/can-ai-replace-me-already",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.richardhanania.com/p/can-ai-replace-me-already Comments URL: https://news.ycombinator.com/item?id=48188560 Points: 1 # Comments: 0",
-    "published_at": "2026-05-19 02:34",
-    "tags": [],
-    "fetch_date": "2026-05-19",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The American Rebellion Against AI Is Gaining Steam",
-    "url": "https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529 Comments URL: https://news.ycombinator.com/item?id=48188310 Points: 57 # Comments: 46",
-    "published_at": "2026-05-19 01:51",
-    "tags": [],
-    "fetch_date": "2026-05-19",
-    "fetch_label": "早报"
   }
 ]
