@@ -1,0 +1,129 @@
+{
+  "date": "2026-09-13",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-09-13 11:56:03",
+      "count": 9,
+      "articles": [
+        {
+          "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+          "source": "TechCrunch AI",
+          "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+          "published_at": "2026-09-12 20:19",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "OpenAI",
+            "sam altman"
+          ]
+        },
+        {
+          "title": "Anthropic CEO outlines plan to slow AI development",
+          "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+          "published_at": "2026-09-12 19:34",
+          "tags": [
+            "AI",
+            "Government & Policy",
+            "Anthropic",
+            "dario amodei"
+          ]
+        },
+        {
+          "title": "OpenAI’s rogue AI tried to hack another company in May",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+          "source": "The Verge AI",
+          "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a [&#8230;]",
+          "published_at": "2026-09-12 17:41",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "OpenAI just wants to win",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+          "source": "The Verge AI",
+          "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement. Instead, many mathematicians have watched OpenAI's relentless advance with [&#8230;]",
+          "published_at": "2026-09-12 07:00",
+          "tags": [
+            "AI",
+            "OpenAI",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+          "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+          "source": "TechCrunch AI",
+          "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+          "published_at": "2026-09-11 22:58",
+          "tags": [
+            "AI",
+            "Robotics",
+            "Exclusive",
+            "Sequoia"
+          ]
+        },
+        {
+          "title": "OpenAI’s feud with mathematicians is only escalating",
+          "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+          "source": "TechCrunch AI",
+          "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+          "published_at": "2026-09-11 20:57",
+          "tags": [
+            "AI",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+          "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+          "source": "TechCrunch AI",
+          "summary": "An Anthropic researcher resigned this week,&#160;warning in a post on X&#160;that the company is “racing straight to self-improving superintelligence and gambling with our lives”.&#160;The company&#8217;s own alignment&#160;lead&#160;even&#160;co-signed the message&#160;rather than walking it back.&#160;It&#8217;s&#160;the kind of&#160;doomer&#160;warning the AI industry has flirted with before, but the timing, with Anthropic reportedly&#160;preparing for&#160;an IPO, makes it land differently.&",
+          "published_at": "2026-09-11 18:41",
+          "tags": [
+            "AI",
+            "Startups",
+            "Anthropic",
+            "Apple",
+            "cognition",
+            "Equity podcast",
+            "SpaceX"
+          ]
+        },
+        {
+          "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+          "source": "The Verge AI",
+          "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing to \"verify the factual claims and legal [&#8230;]",
+          "published_at": "2026-09-11 16:44",
+          "tags": [
+            "AI",
+            "Law",
+            "News",
+            "OpenAI",
+            "Policy"
+          ]
+        },
+        {
+          "title": "Anthropic spent this week in hot water over cybersecurity",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+          "source": "The Verge AI",
+          "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded \"recklessness\" - and will likely fuel already raging concerns about cybersecurity and AI. [&#8230;]",
+          "published_at": "2026-09-11 12:09",
+          "tags": [
+            "AI",
+            "Analysis",
+            "Anthropic",
+            "Report"
+          ]
+        }
+      ]
+    }
+  ]
+}

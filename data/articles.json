@@ -1,5 +1,49 @@
 [
   {
+    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+    "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "source": "TechCrunch AI",
+    "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+    "published_at": "2026-09-12 20:19",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "OpenAI",
+      "sam altman"
+    ],
+    "fetch_date": "2026-09-13",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Anthropic CEO outlines plan to slow AI development",
+    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "source": "TechCrunch AI",
+    "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+    "published_at": "2026-09-12 19:34",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "Anthropic",
+      "dario amodei"
+    ],
+    "fetch_date": "2026-09-13",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI’s rogue AI tried to hack another company in May",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+    "source": "The Verge AI",
+    "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a [&#8230;]",
+    "published_at": "2026-09-12 17:41",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-09-13",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Vals.ai Benchmark – International Olympiad in Informatics",
     "url": "https://www.vals.ai/benchmarks/ioi",
     "source": "Hacker News AI",
@@ -464,6 +508,21 @@
     "tags": [],
     "fetch_date": "2026-09-11",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Anthropic spent this week in hot water over cybersecurity",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+    "source": "The Verge AI",
+    "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded \"recklessness\" - and will likely fuel already raging concerns about cybersecurity and AI. [&#8230;]",
+    "published_at": "2026-09-11 12:09",
+    "tags": [
+      "AI",
+      "Analysis",
+      "Anthropic",
+      "Report"
+    ],
+    "fetch_date": "2026-09-13",
+    "fetch_label": "早报"
   },
   {
     "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
@@ -35098,46 +35157,6 @@
     "source": "Hacker News AI",
     "summary": "Article URL: https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529 Comments URL: https://news.ycombinator.com/item?id=48188310 Points: 57 # Comments: 46",
     "published_at": "2026-05-19 01:51",
-    "tags": [],
-    "fetch_date": "2026-05-19",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Reverse Lookup and AI-Powered Osint",
-    "url": "https://sherlockeye.io/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://sherlockeye.io/ Comments URL: https://news.ycombinator.com/item?id=48188253 Points: 2 # Comments: 0",
-    "published_at": "2026-05-19 01:41",
-    "tags": [],
-    "fetch_date": "2026-05-19",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Nitsum: Serving Tiered LLM Requests with Adaptive Tensor Parallelism",
-    "url": "https://mlsys.wuklab.io/posts/nitsum/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://mlsys.wuklab.io/posts/nitsum/ Comments URL: https://news.ycombinator.com/item?id=48188152 Points: 2 # Comments: 0",
-    "published_at": "2026-05-19 01:24",
-    "tags": [],
-    "fetch_date": "2026-05-19",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "BudgetBites – AI meal planning app that helps you save money on groceries",
-    "url": "https://budgetbites.website/login",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://budgetbites.website/login Comments URL: https://news.ycombinator.com/item?id=48188029 Points: 3 # Comments: 0",
-    "published_at": "2026-05-19 01:09",
-    "tags": [],
-    "fetch_date": "2026-05-19",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Make products AI agents want",
-    "url": "https://anitakirkovska.com/blog/make-products-ai-agents-want/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://anitakirkovska.com/blog/make-products-ai-agents-want/ Comments URL: https://news.ycombinator.com/item?id=48188019 Points: 2 # Comments: 0",
-    "published_at": "2026-05-19 01:07",
     "tags": [],
     "fetch_date": "2026-05-19",
     "fetch_label": "早报"
