@@ -1,0 +1,93 @@
+{
+  "date": "2026-09-14",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-09-14 12:03:12",
+      "count": 6,
+      "articles": [
+        {
+          "title": "What’s behind the AI industry’s latest warnings of doom?",
+          "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+          "source": "TechCrunch AI",
+          "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+          "published_at": "2026-09-13 19:40",
+          "tags": [
+            "AI",
+            "OpenAI",
+            "Equity podcast",
+            "Anthropic"
+          ]
+        },
+        {
+          "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+          "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+          "source": "TechCrunch AI",
+          "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+          "published_at": "2026-09-13 16:30",
+          "tags": [
+            "AI",
+            "Government & Policy",
+            "Barack Obama",
+            "Donald Trump"
+          ]
+        },
+        {
+          "title": "Trump and Mike Johnson think the AI industry is overreacting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+          "source": "The Verge AI",
+          "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump and House Speaker Mike Johnson, however, [&#8230;]",
+          "published_at": "2026-09-13 15:41",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "News",
+            "OpenAI",
+            "Policy",
+            "Politics",
+            "xAI"
+          ]
+        },
+        {
+          "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+          "source": "TechCrunch AI",
+          "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+          "published_at": "2026-09-12 20:19",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "OpenAI",
+            "sam altman"
+          ]
+        },
+        {
+          "title": "Anthropic CEO outlines plan to slow AI development",
+          "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+          "published_at": "2026-09-12 19:34",
+          "tags": [
+            "AI",
+            "Government & Policy",
+            "Anthropic",
+            "dario amodei"
+          ]
+        },
+        {
+          "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+          "source": "The Verge AI",
+          "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow [&#8230;]",
+          "published_at": "2026-09-12 12:23",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "News",
+            "Policy"
+          ]
+        }
+      ]
+    }
+  ]
+}

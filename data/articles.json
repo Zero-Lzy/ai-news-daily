@@ -1,5 +1,35 @@
 [
   {
+    "title": "What’s behind the AI industry’s latest warnings of doom?",
+    "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+    "source": "TechCrunch AI",
+    "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+    "published_at": "2026-09-13 19:40",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "Equity podcast",
+      "Anthropic"
+    ],
+    "fetch_date": "2026-09-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+    "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+    "source": "TechCrunch AI",
+    "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+    "published_at": "2026-09-13 16:30",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "Barack Obama",
+      "Donald Trump"
+    ],
+    "fetch_date": "2026-09-14",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Hollywood fears an AI future. China is living it",
     "url": "https://www.latimes.com/business/story/2026-09-10/hollywood-fears-ai-future-china-is-already-living-it",
     "source": "Hacker News AI",
@@ -8,6 +38,24 @@
     "tags": [],
     "fetch_date": "2026-09-13",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Trump and Mike Johnson think the AI industry is overreacting",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+    "source": "The Verge AI",
+    "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump and House Speaker Mike Johnson, however, [&#8230;]",
+    "published_at": "2026-09-13 15:41",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "News",
+      "OpenAI",
+      "Policy",
+      "Politics",
+      "xAI"
+    ],
+    "fetch_date": "2026-09-14",
+    "fetch_label": "早报"
   },
   {
     "title": "Show HN: Directory of 28 AI crawlers – robots.txt rules, IP ranges, open data",
@@ -35070,59 +35118,6 @@
       "Google",
       "Google Search",
       "AI search",
-      "google io 2026"
-    ],
-    "fetch_date": "2026-05-20",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026",
-    "url": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/",
-    "source": "TechCrunch AI",
-    "summary": "Google is debuting a new AI Ultra plan priced at $100, which will give users 5x more usage limit than the AI Pro plan alongside the Antigravity 2.0 launch.",
-    "published_at": "2026-05-19 17:45",
-    "tags": [
-      "AI",
-      "Apps",
-      "TC",
-      "ai coding",
-      "Google",
-      "Google Antigravity",
-      "google io",
-      "google io 2026"
-    ],
-    "fetch_date": "2026-05-20",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration, at IO 2026",
-    "url": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
-    "source": "TechCrunch AI",
-    "summary": "At the Google I/O developer conference, the company announced a new agentic personal assistant called Gemini Spark, built from Gemini's base models and an agentic harness from Google Antigravity.",
-    "published_at": "2026-05-19 17:45",
-    "tags": [
-      "AI",
-      "agentic AI assistant",
-      "gemini",
-      "Gemini Spark",
-      "Google I/O",
-      "google io 2026"
-    ],
-    "fetch_date": "2026-05-20",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Google’s new Universal Cart wants to follow your entire shopping journey across the internet",
-    "url": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-your-entire-shopping-journey-across-the-internet/",
-    "source": "TechCrunch AI",
-    "summary": "Most people shop across multiple devices, many retailers, and over the course of many days, which is why Google is launching Universal Cart.",
-    "published_at": "2026-05-19 17:45",
-    "tags": [
-      "AI",
-      "Apps",
-      "Commerce",
-      "Google",
-      "Google I/O",
       "google io 2026"
     ],
     "fetch_date": "2026-05-20",
