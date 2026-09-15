@@ -1,5 +1,56 @@
 [
   {
+    "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+    "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+    "source": "TechCrunch AI",
+    "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+    "published_at": "2026-09-14 21:51",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "Donald Trump",
+      "Jensen Huang",
+      "nvidia"
+    ],
+    "fetch_date": "2026-09-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "source": "TechCrunch AI",
+    "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+    "published_at": "2026-09-14 20:44",
+    "tags": [
+      "AI",
+      "Hardware",
+      "In Brief",
+      "Mergers and Acquisitions",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-09-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+    "source": "The Verge AI",
+    "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at least partially to a [&#8230;]",
+    "published_at": "2026-09-14 18:59",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Google",
+      "OpenAI",
+      "Policy",
+      "Report",
+      "Tech",
+      "xAI"
+    ],
+    "fetch_date": "2026-09-15",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Deep theorems were scarce and difficult and identified deep thought. AI broke it",
     "url": "https://terrytao.wordpress.com/2026/09/13/deep-theorems-were-scarce-and-difficult-and-so-became-an-effective-mechanism-to-identify-deep-thought-ai-has-broken-this-system/",
     "source": "Hacker News AI",
@@ -135,6 +186,20 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+    "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+    "source": "TechCrunch AI",
+    "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.",
+    "published_at": "2026-09-14 16:27",
+    "tags": [
+      "AI",
+      "Microsoft",
+      "Anthropic"
+    ],
+    "fetch_date": "2026-09-15",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
     "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
     "source": "TechCrunch AI",
@@ -148,6 +213,25 @@
     ],
     "fetch_date": "2026-09-15",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+    "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+    "source": "TechCrunch AI",
+    "summary": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.",
+    "published_at": "2026-09-14 14:45",
+    "tags": [
+      "AI",
+      "Apps",
+      "Startups",
+      "AI notetakers",
+      "fathom",
+      "grammarly",
+      "Mergers and Acquisitions",
+      "superhuman"
+    ],
+    "fetch_date": "2026-09-15",
+    "fetch_label": "早报"
   },
   {
     "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
@@ -35038,55 +35122,5 @@
     ],
     "fetch_date": "2026-05-20",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "OpenAI commits S$300M to grow Singapore's AI capabilities",
-    "url": "https://www.channelnewsasia.com/singapore/openai-singapore-300-million-ai-6128036",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.channelnewsasia.com/singapore/openai-singapore-300-million-ai-6128036 Comments URL: https://news.ycombinator.com/item?id=48202897 Points: 1 # Comments: 0",
-    "published_at": "2026-05-20 03:53",
-    "tags": [],
-    "fetch_date": "2026-05-20",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Alternatives for the EDIT tool of LLM agents",
-    "url": "https://antirez.com/news/166",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://antirez.com/news/166 Comments URL: https://news.ycombinator.com/item?id=48202876 Points: 1 # Comments: 0",
-    "published_at": "2026-05-20 03:48",
-    "tags": [],
-    "fetch_date": "2026-05-20",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "LLM detector with science behind it",
-    "url": "https://huggingface.co/spaces/akolpakov/SatorArepo",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://huggingface.co/spaces/akolpakov/SatorArepo Comments URL: https://news.ycombinator.com/item?id=48202776 Points: 1 # Comments: 0",
-    "published_at": "2026-05-20 03:29",
-    "tags": [],
-    "fetch_date": "2026-05-20",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The Incompatibilities Between Generative AI and Art: Q&A with Ted Chiang",
-    "url": "https://cdh.princeton.edu/blog/ted-chiang/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://cdh.princeton.edu/blog/ted-chiang/ Comments URL: https://news.ycombinator.com/item?id=48202752 Points: 3 # Comments: 2",
-    "published_at": "2026-05-20 03:25",
-    "tags": [],
-    "fetch_date": "2026-05-20",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Enterprise AI: Mystery Meat, Kill Zones, Cognitive Surrender, Vibe Bombs",
-    "url": "https://kyield.com/insights/newsletter/2026/05/vibe-bombs-cognitive-surrender.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://kyield.com/insights/newsletter/2026/05/vibe-bombs-cognitive-surrender.html Comments URL: https://news.ycombinator.com/item?id=48202524 Points: 2 # Comments: 0",
-    "published_at": "2026-05-20 02:49",
-    "tags": [],
-    "fetch_date": "2026-05-20",
-    "fetch_label": "早报"
   }
 ]
