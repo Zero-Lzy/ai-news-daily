@@ -1,5 +1,213 @@
 [
   {
+    "title": "Inference Is the Last LLM Moat",
+    "url": "https://www.vincentschmalbach.com/inference-is-the-last-llm-moat/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.vincentschmalbach.com/inference-is-the-last-llm-moat/ Comments URL: https://news.ycombinator.com/item?id=49721882 Points: 1 # Comments: 0",
+    "published_at": "2026-09-16 03:48",
+    "tags": [],
+    "fetch_date": "2026-09-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Anthropic CEO renews call for AI slowdown as Nvidia's urges acceleration",
+    "url": "https://www.theguardian.com/technology/2026/sep/15/anthropic-nvidia-ceos-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/15/anthropic-nvidia-ceos-ai Comments URL: https://news.ycombinator.com/item?id=49721736 Points: 2 # Comments: 0",
+    "published_at": "2026-09-16 03:20",
+    "tags": [],
+    "fetch_date": "2026-09-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The Bad Guy with an AI Named Claude",
+    "url": "https://thezvi.substack.com/p/the-bad-guy-with-an-ai-named-claude",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://thezvi.substack.com/p/the-bad-guy-with-an-ai-named-claude Comments URL: https://news.ycombinator.com/item?id=49721712 Points: 1 # Comments: 0",
+    "published_at": "2026-09-16 03:16",
+    "tags": [],
+    "fetch_date": "2026-09-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Paying for frontier AI models buys 4-month head start at 5x the cost",
+    "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/ Comments URL: https://news.ycombinator.com/item?id=49721626 Points: 2 # Comments: 2",
+    "published_at": "2026-09-16 03:02",
+    "tags": [],
+    "fetch_date": "2026-09-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI is not going to kill you",
+    "url": "https://sufficientlyadvanced.blog/ai-is-not-going-to-kill-you/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://sufficientlyadvanced.blog/ai-is-not-going-to-kill-you/ Comments URL: https://news.ycombinator.com/item?id=49721514 Points: 5 # Comments: 2",
+    "published_at": "2026-09-16 02:39",
+    "tags": [],
+    "fetch_date": "2026-09-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Stay discoverable in search while disallowing AI training",
+    "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/ Comments URL: https://news.ycombinator.com/item?id=49721435 Points: 29 # Comments: 15",
+    "published_at": "2026-09-16 02:25",
+    "tags": [],
+    "fetch_date": "2026-09-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "One seeded bug, 26 AI agents: all passed the tests, all stayed broken",
+    "url": "https://github.com/vyang472/five-bugs",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/vyang472/five-bugs Comments URL: https://news.ycombinator.com/item?id=49721214 Points: 3 # Comments: 0",
+    "published_at": "2026-09-16 01:48",
+    "tags": [],
+    "fetch_date": "2026-09-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Thurbox – A tmux-based TUI and CLI for local AI agent orchestration",
+    "url": "https://github.com/Thurbeen/thurbox",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/Thurbeen/thurbox Comments URL: https://news.ycombinator.com/item?id=49721082 Points: 3 # Comments: 0",
+    "published_at": "2026-09-16 01:25",
+    "tags": [],
+    "fetch_date": "2026-09-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Musk proposes adversarsial peer review for AI Safety",
+    "url": "https://twitter.com/theallinpod/status/2099731166530277549",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/theallinpod/status/2099731166530277549 Comments URL: https://news.ycombinator.com/item?id=49720938 Points: 4 # Comments: 2",
+    "published_at": "2026-09-16 01:03",
+    "tags": [],
+    "fetch_date": "2026-09-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: AgentReady – can AI assistants read your site?",
+    "url": "https://shop.lumnika.com/lab/agentready/?src=hackernews-showhn",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://shop.lumnika.com/lab/agentready/?src=hackernews-showhn Comments URL: https://news.ycombinator.com/item?id=49720850 Points: 2 # Comments: 0",
+    "published_at": "2026-09-16 00:50",
+    "tags": [],
+    "fetch_date": "2026-09-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Leo – a Markdown engineering process for AI coding agents",
+    "url": "https://github.com/alex-zaporozhan/leo",
+    "source": "Hacker News AI",
+    "summary": "I'm the builder of LEO, and this is not a packege or a service.It's a engineering framework of the rules for Cursor or ClaudeCode, helping to build enorm AI Native projects, 300 000 + lines of code (I understand that is not the quality gate, but - zero TODO, cyclomatic complexity 368 schema constrants, 77 row-level-security policies, 120+ alembic migrations, 3900+ tests, 10 200+ functions and more.If you wont to know more about the project and LEO rules: https://dev.to/alex-zaporozhan/385000-lin",
+    "published_at": "2026-09-16 00:47",
+    "tags": [],
+    "fetch_date": "2026-09-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+    "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+    "source": "TechCrunch AI",
+    "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+    "published_at": "2026-09-16 00:20",
+    "tags": [
+      "AI",
+      "Jensen Huang",
+      "nvidia"
+    ],
+    "fetch_date": "2026-09-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Nvidia and CrowdStrike Develop New Cybersecurity AI Models",
+    "url": "https://www.wsj.com/cio-journal/nvidia-and-crowdstrike-develop-new-cybersecurity-ai-models-937bb2aa",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wsj.com/cio-journal/nvidia-and-crowdstrike-develop-new-cybersecurity-ai-models-937bb2aa Comments URL: https://news.ycombinator.com/item?id=49720615 Points: 1 # Comments: 0",
+    "published_at": "2026-09-16 00:19",
+    "tags": [],
+    "fetch_date": "2026-09-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Plurnk (Yet *Another* AI Harness)",
+    "url": "https://github.com/plurnk/plurnk",
+    "source": "Hacker News AI",
+    "summary": "I am desperate for feedback on my homebrewed harness, \"Plurnk.\"I've been dogfooding it on my RTX5070Ti with only 16GB VRAM as my daily driver for weeks now and it's genuinely better than everything else available (I'm biased).1. Curation, not CompactionThe model's fully responsible (bitter lesson) for deterministically curating its own context.2. ANTLR GrammarThe dozen verbs for the harness are optimized for model pretraining, looking like markdown while being fully integrated with an EBNF gramm",
+    "published_at": "2026-09-15 23:57",
+    "tags": [],
+    "fetch_date": "2026-09-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Atlas-Finance: Evaluating AI Agents Inside a Bank",
+    "url": "https://joinhandshake.com/research/benchmarks/articles/atlas-finance-evaluating-ai-agents-inside-a-bank/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://joinhandshake.com/research/benchmarks/articles/atlas-finance-evaluating-ai-agents-inside-a-bank/ Comments URL: https://news.ycombinator.com/item?id=49720319 Points: 2 # Comments: 1",
+    "published_at": "2026-09-15 23:37",
+    "tags": [],
+    "fetch_date": "2026-09-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Agenttik – work on multiple projects in parallel with AI agents",
+    "url": "https://github.com/pausan/agenttik",
+    "source": "Hacker News AI",
+    "summary": "Hi! I've been reading HN daily for almost 16 years. Really glad this community exist. This is my first Show HN, so I hope you find this tool useful/interesting.During my summer holidays I started playing with latest AI models on personal projects. At one point I started working in parallel with the same project and tried different approaches. The one that worked best for me was to clone the repo and distribute work among different AI workers, work in parallel but with different branches & folder",
+    "published_at": "2026-09-15 23:24",
+    "tags": [],
+    "fetch_date": "2026-09-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "source": "TechCrunch AI",
+    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "published_at": "2026-09-15 19:00",
+    "tags": [
+      "AI",
+      "evergreens",
+      "Microsoft",
+      "OpenAI",
+      "siri ai"
+    ],
+    "fetch_date": "2026-09-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+    "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+    "source": "TechCrunch AI",
+    "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+    "published_at": "2026-09-15 18:29",
+    "tags": [
+      "AI",
+      "Climate",
+      "data centers",
+      "natural gas"
+    ],
+    "fetch_date": "2026-09-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI agents now have a place to snitch",
+    "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+    "source": "TechCrunch AI",
+    "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+    "published_at": "2026-09-15 17:42",
+    "tags": [
+      "AI",
+      "agentic ai"
+    ],
+    "fetch_date": "2026-09-16",
+    "fetch_label": "早报"
+  },
+  {
     "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
     "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
     "source": "TechCrunch AI",
@@ -34796,335 +35004,6 @@
       "Spotify"
     ],
     "fetch_date": "2026-05-21",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Hark raises $700M Series A for its secretive “universal” AI interface",
-    "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
-    "source": "TechCrunch AI",
-    "summary": "Brett Adcock's new AI startup is now valued at $6 billion by its investors.",
-    "published_at": "2026-05-21 14:00",
-    "tags": [
-      "AI",
-      "Fundraising",
-      "hark",
-      "AI hardware",
-      "AI assistants"
-    ],
-    "fetch_date": "2026-05-21",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
-    "url": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
-    "source": "TechCrunch AI",
-    "summary": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.",
-    "published_at": "2026-05-21 14:00",
-    "tags": [
-      "AI",
-      "Apps",
-      "Biotech & Health",
-      "Fundraising",
-      "calm",
-      "mental health apps",
-      "The Path",
-      "Tony Robbins"
-    ],
-    "fetch_date": "2026-05-21",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
-    "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
-    "source": "TechCrunch AI",
-    "summary": "The AI agents are coming. A lot of them.",
-    "published_at": "2026-05-21 13:52",
-    "tags": [
-      "AI",
-      "Apps",
-      "TC",
-      "AI agents",
-      "android halo",
-      "gemini",
-      "Google",
-      "google io 2026",
-      "spark"
-    ],
-    "fetch_date": "2026-05-21",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Spotify Studio&#8217;s AI agent creates a daily podcast just for you",
-    "url": "https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts",
-    "source": "The Verge AI",
-    "summary": "Studio by Spotify Labs is a new standalone AI app that generates a daily briefing, podcasts, and playlists on your PC using chatbot prompts. The AI-generated content draws from your Spotify listening history, as well as info from apps you connect to it, like your email inbox, calendar, and notes. Spotify says its AI can [&#8230;]",
-    "published_at": "2026-05-21 11:47",
-    "tags": [
-      "AI",
-      "Entertainment",
-      "News",
-      "Spotify"
-    ],
-    "fetch_date": "2026-05-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI video is moving beyond clip slop",
-    "url": "https://www.theverge.com/column/935310/ai-video-luma-hollywood",
-    "source": "The Verge AI",
-    "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Hollywood is cooked - or so a growing number of people on social media would like you to believe. Their purported proof: AI-generated clips of Daniel Craig riding a Vespa [&#8230;]",
-    "published_at": "2026-05-21 11:30",
-    "tags": [
-      "AI",
-      "Column",
-      "Entertainment",
-      "Lowpass"
-    ],
-    "fetch_date": "2026-05-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Musk v. Altman: Much ado about nothing",
-    "url": "https://www.theverge.com/podcast/934869/elon-musk-sam-altman-openai-suit-loss-pointless",
-    "source": "The Verge AI",
-    "summary": "Today I’m talking with Liz Lopatto, who spent the last month covering the Musk v. Altman trial in all its chaos. You’ll hear her describe the courthouse as a “zoo” and explain that there were protests of one kind or another happening outside every day. Both Elon Musk and Sam Altman are big personalities, and [&#8230;]",
-    "published_at": "2026-05-21 10:00",
-    "tags": [
-      "AI",
-      "Decoder",
-      "Elon Musk",
-      "Law",
-      "OpenAI",
-      "Podcasts",
-      "Policy",
-      "Tech"
-    ],
-    "fetch_date": "2026-05-21",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Meta lays off thousands of employees to offset AI investments",
-    "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
-    "source": "The Verge AI",
-    "summary": "Meta has reportedly notified thousands of employees that they've been laid off as the company attempts to compensate for its hefty AI investments. In an email from Meta management shared by Business Insider, impacted staffers were told that the planned headcount reduction was part of the company's \"continued effort to run the company more efficiently [&#8230;]",
-    "published_at": "2026-05-21 05:20",
-    "tags": [
-      "AI",
-      "Business",
-      "Meta",
-      "News",
-      "Tech"
-    ],
-    "fetch_date": "2026-05-21",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
-    "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
-    "source": "TechCrunch AI",
-    "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
-    "published_at": "2026-05-21 00:28",
-    "tags": [
-      "AI",
-      "Enterprise",
-      "TC",
-      "cpus",
-      "nvidia"
-    ],
-    "fetch_date": "2026-05-21",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "In SpaceX’s IPO, Elon Musk is a risk factor",
-    "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
-    "source": "The Verge AI",
-    "summary": "The SpaceX IPO is here, and it's more than just an historic public offering that could make Elon Musk the world's first trillionaire. It also reveals more ways in which Elon Musk's companies interact and overlap with each other, shuffling money around in ways that are often difficult to keep track of. This is evident [&#8230;]",
-    "published_at": "2026-05-20 23:42",
-    "tags": [
-      "AI",
-      "Business",
-      "Electric Cars",
-      "Elon Musk",
-      "News",
-      "Science",
-      "Space",
-      "SpaceX",
-      "Tech",
-      "Tesla",
-      "Transportation",
-      "xAI"
-    ],
-    "fetch_date": "2026-05-21",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Clouted wants to take the guesswork out of making short videos go viral",
-    "url": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
-    "source": "TechCrunch AI",
-    "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
-    "published_at": "2026-05-20 22:30",
-    "tags": [
-      "AI",
-      "Media & Entertainment",
-      "Startups",
-      "Clouted",
-      "Marketing",
-      "slow ventures",
-      "social media"
-    ],
-    "fetch_date": "2026-05-21",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
-    "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
-    "source": "TechCrunch AI",
-    "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
-    "published_at": "2026-05-20 22:26",
-    "tags": [
-      "AI",
-      "Space",
-      "Elon Musk",
-      "Grok",
-      "SpaceX",
-      "spacex ipo",
-      "X"
-    ],
-    "fetch_date": "2026-05-21",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
-    "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
-    "source": "TechCrunch AI",
-    "summary": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
-    "published_at": "2026-05-20 22:03",
-    "tags": [
-      "AI",
-      "earnings",
-      "Jensen Huang",
-      "nvidia"
-    ],
-    "fetch_date": "2026-05-21",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
-    "url": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
-    "source": "TechCrunch AI",
-    "summary": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
-    "published_at": "2026-05-20 21:55",
-    "tags": [
-      "AI",
-      "Climate",
-      "air pollution",
-      "data centers",
-      "Elon Musk",
-      "natural gas",
-      "SpaceX",
-      "spacex ipo",
-      "spacexai",
-      "xAI"
-    ],
-    "fetch_date": "2026-05-21",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Anthropic will pay xAI $1.25B per month for compute",
-    "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
-    "source": "TechCrunch AI",
-    "summary": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
-    "published_at": "2026-05-20 21:29",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "colossus",
-      "data centers",
-      "SpaceX",
-      "xAI"
-    ],
-    "fetch_date": "2026-05-21",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
-    "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
-    "source": "TechCrunch AI",
-    "summary": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
-    "published_at": "2026-05-20 20:28",
-    "tags": [
-      "AI",
-      "ChatGPT",
-      "erdos problems",
-      "OpenAI",
-      "reasoning models"
-    ],
-    "fetch_date": "2026-05-21",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "OpenAI barrels toward IPO that may happen in September",
-    "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
-    "source": "TechCrunch AI",
-    "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO.",
-    "published_at": "2026-05-20 17:24",
-    "tags": [
-      "AI",
-      "Startups",
-      "Elon Musk",
-      "In Brief",
-      "IPOs",
-      "OpenAI",
-      "sam altman"
-    ],
-    "fetch_date": "2026-05-21",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI search startups are blowing up",
-    "url": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
-    "source": "TechCrunch AI",
-    "summary": "AI search has quietly become one of the most attractive targets in consumer AI.",
-    "published_at": "2026-05-20 15:04",
-    "tags": [
-      "AI",
-      "AI search",
-      "Exa Labs",
-      "Parallel Web Systems"
-    ],
-    "fetch_date": "2026-05-20",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Stability AI releases a new audio model that can create six-minute songs",
-    "url": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
-    "source": "TechCrunch AI",
-    "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks",
-    "published_at": "2026-05-20 15:00",
-    "tags": [
-      "AI",
-      "audio creation",
-      "Music",
-      "Stability AI"
-    ],
-    "fetch_date": "2026-05-20",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
-    "url": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
-    "source": "TechCrunch AI",
-    "summary": "NanoCo, the company behind OpenClaw alternative NanoClaw, has raised a $12 million seed after a viral launch, the founders tell TechCrunch.",
-    "published_at": "2026-05-20 14:00",
-    "tags": [
-      "Startups",
-      "AI",
-      "Hugging Face",
-      "AI agents",
-      "openclaw",
-      "NanoClaw"
-    ],
-    "fetch_date": "2026-05-20",
     "fetch_label": "晚报"
   }
 ]
