@@ -1,0 +1,230 @@
+{
+  "date": "2026-09-17",
+  "runs": [
+    {
+      "label": "晚报",
+      "time": "2026-09-17 00:17:24",
+      "count": 20,
+      "articles": [
+        {
+          "title": "In the Age of AI, Some in China Wonder If Learning English Is Worth the Trouble",
+          "url": "https://www.nytimes.com/2026/09/16/world/asia/china-english-language-education.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.nytimes.com/2026/09/16/world/asia/china-english-language-education.html Comments URL: https://news.ycombinator.com/item?id=49729215 Points: 1 # Comments: 0",
+          "published_at": "2026-09-16 16:12",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Stopping AI agent swarms from hacking our systems",
+          "url": "https://www.inwom.com/",
+          "source": "Hacker News AI",
+          "summary": "I don't trust OpenAI, Anthropic, Google, or any other AI lab to be responsible for protecting my systems from the systems they're building, yesterday it was Hugging Face unintentionally, tomorrow it could be anyone, even an open-source model and a swarm of agents can do a lot of damage, today's security systems understand individual attacks, but not attacks carried out by thousands of agents, here's a first version of what I'm building in the playground for you to play with, and I'm open to sugg",
+          "published_at": "2026-09-16 16:11",
+          "tags": []
+        },
+        {
+          "title": "AI memory shortage: Fairphone says RAM is now 60% of materials cost",
+          "url": "https://www.tomshardware.com/pc-components/ram/ai-induced-memory-shortage-is-changing-how-devices-are-built-fairphone-says-memory-now-60-percent-of-materials-cost-smaller-laptop-and-phone-makers-are-redesigning-products-and-have-to-test-for-fake-chips",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.tomshardware.com/pc-components/ram/ai-induced-memory-shortage-is-changing-how-devices-are-built-fairphone-says-memory-now-60-percent-of-materials-cost-smaller-laptop-and-phone-makers-are-redesigning-products-and-have-to-test-for-fake-chips Comments URL: https://news.ycombinator.com/item?id=49729141 Points: 1 # Comments: 0",
+          "published_at": "2026-09-16 16:07",
+          "tags": []
+        },
+        {
+          "title": "'Godfather of AI' says tech regulation is nearing Covid-style pivot moment",
+          "url": "https://www.theguardian.com/technology/2026/sep/16/ai-tech-regulation-government-action-yoshua-bengio",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/16/ai-tech-regulation-government-action-yoshua-bengio Comments URL: https://news.ycombinator.com/item?id=49728991 Points: 2 # Comments: 0",
+          "published_at": "2026-09-16 15:56",
+          "tags": []
+        },
+        {
+          "title": "The AI Wait Equation",
+          "url": "https://xendo.bearblog.dev/the-wait-equation/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://xendo.bearblog.dev/the-wait-equation/ Comments URL: https://news.ycombinator.com/item?id=49728850 Points: 2 # Comments: 0",
+          "published_at": "2026-09-16 15:48",
+          "tags": []
+        },
+        {
+          "title": "Media execs sound alarm on AI",
+          "url": "https://www.axios.com/2026/09/16/media-execs-sound-alarm-on-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.axios.com/2026/09/16/media-execs-sound-alarm-on-ai Comments URL: https://news.ycombinator.com/item?id=49728809 Points: 1 # Comments: 0",
+          "published_at": "2026-09-16 15:45",
+          "tags": []
+        },
+        {
+          "title": "Inside Meta's AI Infrastructure Lab in Menlo Park [video]",
+          "url": "https://www.youtube.com/watch?v=okSHoVPrf8o",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=okSHoVPrf8o Comments URL: https://news.ycombinator.com/item?id=49728721 Points: 2 # Comments: 0",
+          "published_at": "2026-09-16 15:39",
+          "tags": []
+        },
+        {
+          "title": "Is AI Writing American Law?",
+          "url": "https://www.effort.news/ai-congress",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.effort.news/ai-congress Comments URL: https://news.ycombinator.com/item?id=49728633 Points: 1 # Comments: 0",
+          "published_at": "2026-09-16 15:33",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Give your AI agents access to WhatsApp",
+          "url": "https://news.ycombinator.com/item?id=49728159",
+          "source": "Hacker News AI",
+          "summary": "Hi,I built Chat-Man because I wanted a cheap way to give my agents access to WhatsApp without integrating a WhatsApp library separately in every project.You get WhatsApp MCP server, so you can connect WhatsApp to an agent and programmatically read, search, extract and send messages - but also have a web UI for non-techies.You can also receive webhooks for incoming messages for starred conversations.What you can do with the MCP? -Read WhatsApp messages and turn them into CRM records -Summarise co",
+          "published_at": "2026-09-16 15:04",
+          "tags": []
+        },
+        {
+          "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+          "source": "TechCrunch AI",
+          "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
+          "published_at": "2026-09-16 15:00",
+          "tags": [
+            "Startups",
+            "AI",
+            "Robotics",
+            "nvidia",
+            "TechCrunch Disrupt"
+          ]
+        },
+        {
+          "title": "Insights on AI from the Reformation",
+          "url": "https://www.amytis.io/blog/insights-on-ai-from-the-reformation",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.amytis.io/blog/insights-on-ai-from-the-reformation Comments URL: https://news.ycombinator.com/item?id=49727796 Points: 1 # Comments: 0",
+          "published_at": "2026-09-16 14:42",
+          "tags": []
+        },
+        {
+          "title": "Former Infosys chief’s AI startup nabs another $53M",
+          "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+          "source": "TechCrunch AI",
+          "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
+          "published_at": "2026-09-16 13:00",
+          "tags": [
+            "AI",
+            "Startups",
+            "infosys",
+            "Exclusive",
+            "Vishal Sikka",
+            "Hang Ten Systems"
+          ]
+        },
+        {
+          "title": "The sexy AI-powered dating app scams are here",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+          "source": "The Verge AI",
+          "summary": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sagittarius with red hair, blue eyes, and piercings. She likes music, horror movies, nightlife, and sports. Gore-Kormanik answered the call, but [&#8230;]",
+          "published_at": "2026-09-16 10:45",
+          "tags": [
+            "AI",
+            "Tech"
+          ]
+        },
+        {
+          "title": "A brief history of AI executives calling for regulation",
+          "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+          "source": "The Verge AI",
+          "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X [&#8230;]",
+          "published_at": "2026-09-16 08:00",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "Google",
+            "Meta",
+            "OpenAI",
+            "Policy",
+            "Report",
+            "Tech",
+            "xAI"
+          ]
+        },
+        {
+          "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+          "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+          "source": "TechCrunch AI",
+          "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+          "published_at": "2026-09-16 00:20",
+          "tags": [
+            "AI",
+            "Jensen Huang",
+            "nvidia"
+          ]
+        },
+        {
+          "title": "AI and data centers are incredibly unpopular in every poll",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+          "source": "The Verge AI",
+          "summary": "Poll data released Tuesday by The New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1,503 likely voters surveyed [&#8230;]",
+          "published_at": "2026-09-15 19:34",
+          "tags": [
+            "AI",
+            "News",
+            "Policy",
+            "Politics"
+          ]
+        },
+        {
+          "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+          "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+          "source": "TechCrunch AI",
+          "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+          "published_at": "2026-09-15 18:29",
+          "tags": [
+            "AI",
+            "Climate",
+            "data centers",
+            "natural gas"
+          ]
+        },
+        {
+          "title": "AI agents now have a place to snitch",
+          "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+          "source": "TechCrunch AI",
+          "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+          "published_at": "2026-09-15 17:42",
+          "tags": [
+            "AI",
+            "agentic ai"
+          ]
+        },
+        {
+          "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+          "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+          "source": "TechCrunch AI",
+          "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+          "published_at": "2026-09-15 15:22",
+          "tags": [
+            "AI",
+            "Commerce",
+            "Fundraising",
+            "Startups",
+            "generative engine optimization",
+            "In Brief"
+          ]
+        },
+        {
+          "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
+          "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+          "source": "The Verge AI",
+          "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earlier this year, but are now available globally starting today, with several tiers for individual users, creators, and businesses. Meta says the [&#8230;]",
+          "published_at": "2026-09-15 11:00",
+          "tags": [
+            "AI",
+            "Facebook",
+            "Instagram",
+            "Meta",
+            "News",
+            "Social Media",
+            "Tech"
+          ]
+        }
+      ]
+    }
+  ]
+}

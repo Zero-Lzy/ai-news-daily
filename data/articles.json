@@ -1,5 +1,171 @@
 [
   {
+    "title": "In the Age of AI, Some in China Wonder If Learning English Is Worth the Trouble",
+    "url": "https://www.nytimes.com/2026/09/16/world/asia/china-english-language-education.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.nytimes.com/2026/09/16/world/asia/china-english-language-education.html Comments URL: https://news.ycombinator.com/item?id=49729215 Points: 1 # Comments: 0",
+    "published_at": "2026-09-16 16:12",
+    "tags": [],
+    "fetch_date": "2026-09-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Stopping AI agent swarms from hacking our systems",
+    "url": "https://www.inwom.com/",
+    "source": "Hacker News AI",
+    "summary": "I don't trust OpenAI, Anthropic, Google, or any other AI lab to be responsible for protecting my systems from the systems they're building, yesterday it was Hugging Face unintentionally, tomorrow it could be anyone, even an open-source model and a swarm of agents can do a lot of damage, today's security systems understand individual attacks, but not attacks carried out by thousands of agents, here's a first version of what I'm building in the playground for you to play with, and I'm open to sugg",
+    "published_at": "2026-09-16 16:11",
+    "tags": [],
+    "fetch_date": "2026-09-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI memory shortage: Fairphone says RAM is now 60% of materials cost",
+    "url": "https://www.tomshardware.com/pc-components/ram/ai-induced-memory-shortage-is-changing-how-devices-are-built-fairphone-says-memory-now-60-percent-of-materials-cost-smaller-laptop-and-phone-makers-are-redesigning-products-and-have-to-test-for-fake-chips",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.tomshardware.com/pc-components/ram/ai-induced-memory-shortage-is-changing-how-devices-are-built-fairphone-says-memory-now-60-percent-of-materials-cost-smaller-laptop-and-phone-makers-are-redesigning-products-and-have-to-test-for-fake-chips Comments URL: https://news.ycombinator.com/item?id=49729141 Points: 1 # Comments: 0",
+    "published_at": "2026-09-16 16:07",
+    "tags": [],
+    "fetch_date": "2026-09-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "'Godfather of AI' says tech regulation is nearing Covid-style pivot moment",
+    "url": "https://www.theguardian.com/technology/2026/sep/16/ai-tech-regulation-government-action-yoshua-bengio",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/16/ai-tech-regulation-government-action-yoshua-bengio Comments URL: https://news.ycombinator.com/item?id=49728991 Points: 2 # Comments: 0",
+    "published_at": "2026-09-16 15:56",
+    "tags": [],
+    "fetch_date": "2026-09-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The AI Wait Equation",
+    "url": "https://xendo.bearblog.dev/the-wait-equation/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://xendo.bearblog.dev/the-wait-equation/ Comments URL: https://news.ycombinator.com/item?id=49728850 Points: 2 # Comments: 0",
+    "published_at": "2026-09-16 15:48",
+    "tags": [],
+    "fetch_date": "2026-09-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Media execs sound alarm on AI",
+    "url": "https://www.axios.com/2026/09/16/media-execs-sound-alarm-on-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.axios.com/2026/09/16/media-execs-sound-alarm-on-ai Comments URL: https://news.ycombinator.com/item?id=49728809 Points: 1 # Comments: 0",
+    "published_at": "2026-09-16 15:45",
+    "tags": [],
+    "fetch_date": "2026-09-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Inside Meta's AI Infrastructure Lab in Menlo Park [video]",
+    "url": "https://www.youtube.com/watch?v=okSHoVPrf8o",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=okSHoVPrf8o Comments URL: https://news.ycombinator.com/item?id=49728721 Points: 2 # Comments: 0",
+    "published_at": "2026-09-16 15:39",
+    "tags": [],
+    "fetch_date": "2026-09-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Is AI Writing American Law?",
+    "url": "https://www.effort.news/ai-congress",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.effort.news/ai-congress Comments URL: https://news.ycombinator.com/item?id=49728633 Points: 1 # Comments: 0",
+    "published_at": "2026-09-16 15:33",
+    "tags": [],
+    "fetch_date": "2026-09-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Give your AI agents access to WhatsApp",
+    "url": "https://news.ycombinator.com/item?id=49728159",
+    "source": "Hacker News AI",
+    "summary": "Hi,I built Chat-Man because I wanted a cheap way to give my agents access to WhatsApp without integrating a WhatsApp library separately in every project.You get WhatsApp MCP server, so you can connect WhatsApp to an agent and programmatically read, search, extract and send messages - but also have a web UI for non-techies.You can also receive webhooks for incoming messages for starred conversations.What you can do with the MCP? -Read WhatsApp messages and turn them into CRM records -Summarise co",
+    "published_at": "2026-09-16 15:04",
+    "tags": [],
+    "fetch_date": "2026-09-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
+    "published_at": "2026-09-16 15:00",
+    "tags": [
+      "Startups",
+      "AI",
+      "Robotics",
+      "nvidia",
+      "TechCrunch Disrupt"
+    ],
+    "fetch_date": "2026-09-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Insights on AI from the Reformation",
+    "url": "https://www.amytis.io/blog/insights-on-ai-from-the-reformation",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.amytis.io/blog/insights-on-ai-from-the-reformation Comments URL: https://news.ycombinator.com/item?id=49727796 Points: 1 # Comments: 0",
+    "published_at": "2026-09-16 14:42",
+    "tags": [],
+    "fetch_date": "2026-09-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Former Infosys chief’s AI startup nabs another $53M",
+    "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+    "source": "TechCrunch AI",
+    "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
+    "published_at": "2026-09-16 13:00",
+    "tags": [
+      "AI",
+      "Startups",
+      "infosys",
+      "Exclusive",
+      "Vishal Sikka",
+      "Hang Ten Systems"
+    ],
+    "fetch_date": "2026-09-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The sexy AI-powered dating app scams are here",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+    "source": "The Verge AI",
+    "summary": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sagittarius with red hair, blue eyes, and piercings. She likes music, horror movies, nightlife, and sports. Gore-Kormanik answered the call, but [&#8230;]",
+    "published_at": "2026-09-16 10:45",
+    "tags": [
+      "AI",
+      "Tech"
+    ],
+    "fetch_date": "2026-09-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "A brief history of AI executives calling for regulation",
+    "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+    "source": "The Verge AI",
+    "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X [&#8230;]",
+    "published_at": "2026-09-16 08:00",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Google",
+      "Meta",
+      "OpenAI",
+      "Policy",
+      "Report",
+      "Tech",
+      "xAI"
+    ],
+    "fetch_date": "2026-09-17",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Inference Is the Last LLM Moat",
     "url": "https://www.vincentschmalbach.com/inference-is-the-last-llm-moat/",
     "source": "Hacker News AI",
@@ -162,6 +328,21 @@
     "tags": [],
     "fetch_date": "2026-09-16",
     "fetch_label": "早报"
+  },
+  {
+    "title": "AI and data centers are incredibly unpopular in every poll",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+    "source": "The Verge AI",
+    "summary": "Poll data released Tuesday by The New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1,503 likely voters surveyed [&#8230;]",
+    "published_at": "2026-09-15 19:34",
+    "tags": [
+      "AI",
+      "News",
+      "Policy",
+      "Politics"
+    ],
+    "fetch_date": "2026-09-17",
+    "fetch_label": "晚报"
   },
   {
     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -34838,172 +35019,5 @@
     ],
     "fetch_date": "2026-05-23",
     "fetch_label": "早报"
-  },
-  {
-    "title": "AI Model Inflation: The Unsustainable Subsidy",
-    "url": "https://tomtunguz.com/ai-model-inflation/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://tomtunguz.com/ai-model-inflation/ Comments URL: https://news.ycombinator.com/item?id=48231614 Points: 2 # Comments: 0",
-    "published_at": "2026-05-22 03:25",
-    "tags": [],
-    "fetch_date": "2026-05-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "FreeLLMAPI – One key. One billion free LLM tokens. Every month",
-    "url": "https://tashfeenahmed.github.io/freellmapi/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://tashfeenahmed.github.io/freellmapi/ Comments URL: https://news.ycombinator.com/item?id=48231237 Points: 2 # Comments: 0",
-    "published_at": "2026-05-22 02:23",
-    "tags": [],
-    "fetch_date": "2026-05-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "ReCardEx – AI product photos, infographics and videos for e-commerce sellers",
-    "url": "https://recardex.com/en",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://recardex.com/en Comments URL: https://news.ycombinator.com/item?id=48231173 Points: 1 # Comments: 0",
-    "published_at": "2026-05-22 02:11",
-    "tags": [],
-    "fetch_date": "2026-05-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "White House yanked AI order after David Sacks raised industry concerns",
-    "url": "https://www.politico.com/news/2026/05/21/trump-ai-order-sacks-00933295",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.politico.com/news/2026/05/21/trump-ai-order-sacks-00933295 Comments URL: https://news.ycombinator.com/item?id=48231124 Points: 3 # Comments: 0",
-    "published_at": "2026-05-22 02:03",
-    "tags": [],
-    "fetch_date": "2026-05-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Slop and the Vulnerability Treadmill",
-    "url": "https://redmonk.com/kholterhoff/2026/05/05/ai-slop-vulnerability-treadmill/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://redmonk.com/kholterhoff/2026/05/05/ai-slop-vulnerability-treadmill/ Comments URL: https://news.ycombinator.com/item?id=48230975 Points: 1 # Comments: 0",
-    "published_at": "2026-05-22 01:41",
-    "tags": [],
-    "fetch_date": "2026-05-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The AI-Native Interview",
-    "url": "https://sierra.ai/blog/the-ai-native-interview",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://sierra.ai/blog/the-ai-native-interview Comments URL: https://news.ycombinator.com/item?id=48230970 Points: 2 # Comments: 0",
-    "published_at": "2026-05-22 01:40",
-    "tags": [],
-    "fetch_date": "2026-05-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
-    "url": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://qz.com/samsung-chip-workers-bonus-ai-profits-052126 Comments URL: https://news.ycombinator.com/item?id=48230892 Points: 94 # Comments: 23",
-    "published_at": "2026-05-22 01:30",
-    "tags": [],
-    "fetch_date": "2026-05-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Crypto and AI-Funded Super PACs Are Metastasizing",
-    "url": "https://www.thenation.com/article/politics/crypto-ai-super-pacs-election-spending-big-tech-dark-money-2026/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.thenation.com/article/politics/crypto-ai-super-pacs-election-spending-big-tech-dark-money-2026/ Comments URL: https://news.ycombinator.com/item?id=48230798 Points: 2 # Comments: 0",
-    "published_at": "2026-05-22 01:17",
-    "tags": [],
-    "fetch_date": "2026-05-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The AI Bubble – No One's Happy",
-    "url": "https://nooneshappy.com/article/the-ai-bubble/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://nooneshappy.com/article/the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=48230753 Points: 7 # Comments: 5",
-    "published_at": "2026-05-22 01:10",
-    "tags": [],
-    "fetch_date": "2026-05-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Tell HN: I'm tired of AI-generated answers",
-    "url": "https://news.ycombinator.com/item?id=48230104",
-    "source": "Hacker News AI",
-    "summary": "I found GitHub repositories that were spreading malware. I asked AI what I should do about it, but it gave me nothing useful. So I opened a discussion on GitHub. Someone replied. It was literally the exact same text the AI had given me. I called it out and the comment was deleted. Then another person replied. Same exact AI response again.I worked as a developer in a company. I asked the business owner a question about a business task. He sent me a ChatGPT screenshot with the answer. I replied th",
-    "published_at": "2026-05-21 23:37",
-    "tags": [],
-    "fetch_date": "2026-05-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Why metaphors make AI animations come out better",
-    "url": "https://frigade.com/blog/describe-the-world-not-the-widget",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://frigade.com/blog/describe-the-world-not-the-widget Comments URL: https://news.ycombinator.com/item?id=48230022 Points: 1 # Comments: 0",
-    "published_at": "2026-05-21 23:25",
-    "tags": [],
-    "fetch_date": "2026-05-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Erlang_Python – Combine Python's ML/AI Ecosystem with Erlang's Concurrency",
-    "url": "https://hexdocs.pm/erlang_python/readme.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://hexdocs.pm/erlang_python/readme.html Comments URL: https://news.ycombinator.com/item?id=48229798 Points: 2 # Comments: 0",
-    "published_at": "2026-05-21 22:52",
-    "tags": [],
-    "fetch_date": "2026-05-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
-    "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
-    "source": "TechCrunch AI",
-    "summary": "Spotify is partnering with Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
-    "published_at": "2026-05-21 19:45",
-    "tags": [
-      "Media & Entertainment",
-      "AI",
-      "Apps",
-      "Spotify",
-      "ai music",
-      "universal music group"
-    ],
-    "fetch_date": "2026-05-22",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Six search engines worth trying now that Google isn’t really Google anymore",
-    "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
-    "source": "TechCrunch AI",
-    "summary": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
-    "published_at": "2026-05-21 19:19",
-    "tags": [
-      "AI",
-      "evergreen",
-      "Google"
-    ],
-    "fetch_date": "2026-05-22",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
-    "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
-    "source": "TechCrunch AI",
-    "summary": "Spotify will let you generate daily or weekly briefs based on your prompts",
-    "published_at": "2026-05-21 15:27",
-    "tags": [
-      "AI",
-      "Apps",
-      "AI audio",
-      "ai generated content",
-      "Spotify"
-    ],
-    "fetch_date": "2026-05-21",
-    "fetch_label": "晚报"
   }
 ]
