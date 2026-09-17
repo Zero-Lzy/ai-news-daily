@@ -1,5 +1,82 @@
 [
   {
+    "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
+    "published_at": "2026-09-17 03:30",
+    "tags": [
+      "Startups",
+      "AI",
+      "TechCrunch Disrupt"
+    ],
+    "fetch_date": "2026-09-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Snap tries to make the case again for its $2,200 smart glasses",
+    "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+    "source": "TechCrunch AI",
+    "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
+    "published_at": "2026-09-17 00:58",
+    "tags": [
+      "AI",
+      "Hardware",
+      "SMART Glasses",
+      "Snap",
+      "specs"
+    ],
+    "fetch_date": "2026-09-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about",
+    "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+    "source": "TechCrunch AI",
+    "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
+    "published_at": "2026-09-16 23:43",
+    "tags": [
+      "AI",
+      "Climate",
+      "AI data center",
+      "Al Gore",
+      "Exclusive"
+    ],
+    "fetch_date": "2026-09-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+    "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+    "source": "TechCrunch AI",
+    "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+    "published_at": "2026-09-16 21:07",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "Anthropic",
+      "dario amodei",
+      "ai safety"
+    ],
+    "fetch_date": "2026-09-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Anthropic merges Claude chat and Cowork in one interface",
+    "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+    "source": "TechCrunch AI",
+    "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+    "published_at": "2026-09-16 16:30",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Claude",
+      "claude cowork"
+    ],
+    "fetch_date": "2026-09-17",
+    "fetch_label": "早报"
+  },
+  {
     "title": "In the Age of AI, Some in China Wonder If Learning English Is Worth the Trouble",
     "url": "https://www.nytimes.com/2026/09/16/world/asia/china-english-language-education.html",
     "source": "Hacker News AI",
@@ -114,6 +191,23 @@
     "tags": [],
     "fetch_date": "2026-09-17",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Apple might make servers again to cash in on the AI rush",
+    "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+    "source": "The Verge AI",
+    "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute power as the AI industry continues to [&#8230;]",
+    "published_at": "2026-09-16 13:20",
+    "tags": [
+      "AI",
+      "Apple",
+      "Apple Rumors",
+      "News",
+      "Nvidia",
+      "Tech"
+    ],
+    "fetch_date": "2026-09-17",
+    "fetch_label": "早报"
   },
   {
     "title": "Former Infosys chief’s AI startup nabs another $53M",
@@ -34940,82 +35034,6 @@
       "AI",
       "Report",
       "xAI"
-    ],
-    "fetch_date": "2026-05-23",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Prize-winning story published in Granta was (likely) written by AI",
-    "url": "https://lithub.com/a-prize-winning-story-published-in-granta-was-very-likely-written-by-ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://lithub.com/a-prize-winning-story-published-in-granta-was-very-likely-written-by-ai/ Comments URL: https://news.ycombinator.com/item?id=48235464 Points: 2 # Comments: 0",
-    "published_at": "2026-05-22 13:16",
-    "tags": [],
-    "fetch_date": "2026-05-22",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "China's AI optimism isn't what it seems",
-    "url": "https://www.chinatalk.media/p/chinas-ai-optimism-isnt-what-it-seems",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.chinatalk.media/p/chinas-ai-optimism-isnt-what-it-seems Comments URL: https://news.ycombinator.com/item?id=48235237 Points: 2 # Comments: 0",
-    "published_at": "2026-05-22 12:56",
-    "tags": [],
-    "fetch_date": "2026-05-22",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Ask HN: How much AI is in your writing?",
-    "url": "https://news.ycombinator.com/item?id=48235223",
-    "source": "Hacker News AI",
-    "summary": "Looking at tech blogs, HN submissions, et cetera, a lot of content is (partly, increasingly?) generated by AI. The value of the reader's time and slop has been discussed at length. I ask:Among you, the HN-community who writes, how much do you use AI in the process?There is somewhat a spectrum from none, to grammarly-style cleanup, to whisprflow to 'look at my project, write me a HN-ready post'.Personally, I've done a 180, where I started at light touchups to rough draft-to-polished back to almos",
-    "published_at": "2026-05-22 12:55",
-    "tags": [],
-    "fetch_date": "2026-05-22",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The literary world isn’t prepared for AI",
-    "url": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
-    "source": "The Verge AI",
-    "summary": "Since 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was something off about one of the selections for the prestigious award: It appears to have been written by AI. Jamir Nazir's \"The Serpent in the Grove\" has many of the hallmarks [&#8230;]",
-    "published_at": "2026-05-22 10:30",
-    "tags": [
-      "AI",
-      "Tech"
-    ],
-    "fetch_date": "2026-05-22",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Spotify says its AI remix tool is for superfans, but I&#8217;m not convinced",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan",
-    "source": "The Verge AI",
-    "summary": "AI covers and remixes of songs are already a blight on the internet. Spotify, YouTube, TikTok, and Instagram are awash in flat reggae versions of \"Smells Like Teen Spirit,\" dinky country renditions of The Weeknd, and monotonous Motown reimaginings of AC/DC. Now, a new tool from Spotify will make them even easier to generate and [&#8230;]",
-    "published_at": "2026-05-22 10:20",
-    "tags": [
-      "AI",
-      "Entertainment",
-      "Music",
-      "Report",
-      "Spotify"
-    ],
-    "fetch_date": "2026-05-23",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Samsung&#8217;s memory chip employees negotiated $340,000 bonuses this year",
-    "url": "https://www.theverge.com/tech/936002/samsung-memory-chip-employees-deal-strike-bonus",
-    "source": "The Verge AI",
-    "summary": "Details have emerged about a tentative deal struck between Samsung and semiconductor employees who had threatened to strike. The deal reportedly makes some workers eligible for average annual bonuses of $340,000. The proposed 18-day strike had hinged on Samsung's bonus cap for employees in the semiconductor division and followed a substantial rise in the possible [&#8230;]",
-    "published_at": "2026-05-22 07:05",
-    "tags": [
-      "AI",
-      "Business",
-      "Labor",
-      "News",
-      "Samsung",
-      "Tech"
     ],
     "fetch_date": "2026-05-23",
     "fetch_label": "早报"
