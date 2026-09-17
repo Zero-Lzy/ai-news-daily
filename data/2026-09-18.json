@@ -1,0 +1,202 @@
+{
+  "date": "2026-09-18",
+  "runs": [
+    {
+      "label": "晚报",
+      "time": "2026-09-18 00:24:35",
+      "count": 14,
+      "articles": [
+        {
+          "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+          "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+          "source": "TechCrunch AI",
+          "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
+          "published_at": "2026-09-17 14:06",
+          "tags": [
+            "AI",
+            "AI chip",
+            "AI chips",
+            "Huawei",
+            "semiconductors"
+          ]
+        },
+        {
+          "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+          "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+          "source": "TechCrunch AI",
+          "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
+          "published_at": "2026-09-17 13:46",
+          "tags": [
+            "AI",
+            "Apps",
+            "Meta",
+            "instinct",
+            "AI agents"
+          ]
+        },
+        {
+          "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+          "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+          "source": "TechCrunch AI",
+          "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
+          "published_at": "2026-09-17 13:38",
+          "tags": [
+            "AI",
+            "Climate",
+            "Anthropic",
+            "data centers",
+            "electrical grid",
+            "Google",
+            "nvidia"
+          ]
+        },
+        {
+          "title": "Inside the suddenly explosive world of AI safety",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
+          "source": "The Verge AI",
+          "summary": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come together for a \"war room\" to dissect the high-profile cybersecurity incident that had rocked the AI industry hours earlier. An unreleased OpenAI model had gone rogue, executing a stunningly [&#8230;]",
+          "published_at": "2026-09-17 07:30",
+          "tags": [
+            "AI",
+            "Features",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+          "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+          "source": "TechCrunch AI",
+          "summary": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
+          "published_at": "2026-09-17 05:00",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "simulation",
+            "Iceland",
+            "voice AI",
+            "Treble"
+          ]
+        },
+        {
+          "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+          "source": "TechCrunch AI",
+          "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
+          "published_at": "2026-09-17 03:30",
+          "tags": [
+            "Startups",
+            "AI",
+            "TechCrunch Disrupt"
+          ]
+        },
+        {
+          "title": "Snap tries to make the case again for its $2,200 smart glasses",
+          "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+          "source": "TechCrunch AI",
+          "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
+          "published_at": "2026-09-17 00:58",
+          "tags": [
+            "AI",
+            "Hardware",
+            "SMART Glasses",
+            "Snap",
+            "specs"
+          ]
+        },
+        {
+          "title": "Al Gore says the real AI risk isn’t data centers",
+          "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+          "source": "TechCrunch AI",
+          "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
+          "published_at": "2026-09-16 23:43",
+          "tags": [
+            "AI",
+            "Climate",
+            "AI data center",
+            "Al Gore",
+            "Exclusive"
+          ]
+        },
+        {
+          "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+          "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+          "source": "The Verge AI",
+          "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and Gemini's Spark, though Snap is pitching Specs Intelligence as an \"anticipatory AI service\" that \"helps you [&#8230;]",
+          "published_at": "2026-09-16 19:40",
+          "tags": [
+            "AI",
+            "News",
+            "Snapchat",
+            "Tech"
+          ]
+        },
+        {
+          "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+          "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+          "source": "TechCrunch AI",
+          "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+          "published_at": "2026-09-16 18:25",
+          "tags": [
+            "AI",
+            "ai labs",
+            "auditing"
+          ]
+        },
+        {
+          "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+          "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+          "source": "The Verge AI",
+          "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that it might just make viewers hate the original tale altogether. The new film, called Odysseus: The Fall, comes [&#8230;]",
+          "published_at": "2026-09-16 16:59",
+          "tags": [
+            "AI",
+            "Entertainment",
+            "Film",
+            "Movie Review"
+          ]
+        },
+        {
+          "title": "Apple might make servers again to cash in on the AI rush",
+          "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+          "source": "The Verge AI",
+          "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute power as the AI industry continues to [&#8230;]",
+          "published_at": "2026-09-16 13:20",
+          "tags": [
+            "AI",
+            "Apple",
+            "Apple Rumors",
+            "News",
+            "Nvidia",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Former Infosys chief’s AI startup nabs another $53M",
+          "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+          "source": "TechCrunch AI",
+          "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
+          "published_at": "2026-09-16 13:00",
+          "tags": [
+            "AI",
+            "Startups",
+            "infosys",
+            "Exclusive",
+            "Vishal Sikka",
+            "Hang Ten Systems"
+          ]
+        },
+        {
+          "title": "The sexy AI-powered dating app scams are here",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+          "source": "The Verge AI",
+          "summary": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sagittarius with red hair, blue eyes, and piercings. She likes music, horror movies, nightlife, and sports. Gore-Kormanik answered the call, but [&#8230;]",
+          "published_at": "2026-09-16 10:45",
+          "tags": [
+            "AI",
+            "Tech"
+          ]
+        }
+      ]
+    }
+  ]
+}
