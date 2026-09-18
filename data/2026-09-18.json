@@ -197,6 +197,268 @@
           ]
         }
       ]
+    },
+    {
+      "label": "早报",
+      "time": "2026-09-18 11:52:08",
+      "count": 25,
+      "articles": [
+        {
+          "title": "Youper is shutting down – What kills mental health AI?",
+          "url": "https://www.youper.ai/notice",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youper.ai/notice Comments URL: https://news.ycombinator.com/item?id=49749872 Points: 1 # Comments: 0",
+          "published_at": "2026-09-18 03:23",
+          "tags": []
+        },
+        {
+          "title": "Google announces new experimental \"CC\" AI agent for families",
+          "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/ Comments URL: https://news.ycombinator.com/item?id=49749829 Points: 1 # Comments: 0",
+          "published_at": "2026-09-18 03:14",
+          "tags": []
+        },
+        {
+          "title": "A DeepSeek engineer just said the thing I've been feeling about AI for months",
+          "url": "https://www.reddit.com/r/artificial/comments/1wi2zm9/a_deepseek_engineer_just_said_the_thing_ive_been/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.reddit.com/r/artificial/comments/1wi2zm9/a_deepseek_engineer_just_said_the_thing_ive_been/ Comments URL: https://news.ycombinator.com/item?id=49749680 Points: 1 # Comments: 0",
+          "published_at": "2026-09-18 02:50",
+          "tags": []
+        },
+        {
+          "title": "Low-Cost Servers for AI and Developers",
+          "url": "https://rawhq.io",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://rawhq.io Comments URL: https://news.ycombinator.com/item?id=49749551 Points: 2 # Comments: 0",
+          "published_at": "2026-09-18 02:26",
+          "tags": []
+        },
+        {
+          "title": "Show HN: A directory of 164 Asian AI companies, ranked by disclosed scale",
+          "url": "https://asiaai.fyi/tech-index/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://asiaai.fyi/tech-index/ Comments URL: https://news.ycombinator.com/item?id=49749539 Points: 1 # Comments: 0",
+          "published_at": "2026-09-18 02:25",
+          "tags": []
+        },
+        {
+          "title": "Spectral AI Architecture: Executive Summary and Core Concepts",
+          "url": "https://github.com/srdwy99m5j-lab/glowing-rotary-phone",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/srdwy99m5j-lab/glowing-rotary-phone Comments URL: https://news.ycombinator.com/item?id=49749202 Points: 2 # Comments: 0",
+          "published_at": "2026-09-18 01:37",
+          "tags": []
+        },
+        {
+          "title": "Hypercomb – AI open software platform",
+          "url": "https://hypercomb.io",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://hypercomb.io Comments URL: https://news.ycombinator.com/item?id=49748991 Points: 2 # Comments: 0",
+          "published_at": "2026-09-18 01:09",
+          "tags": []
+        },
+        {
+          "title": "AI agents can modify themselves without humans telling them to do so",
+          "url": "https://www.theregister.com/security/2026/09/16/ai-agents-can-modify-themselves-without-humans-telling-them-to-do-so/5296991",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theregister.com/security/2026/09/16/ai-agents-can-modify-themselves-without-humans-telling-them-to-do-so/5296991 Comments URL: https://news.ycombinator.com/item?id=49748868 Points: 2 # Comments: 1",
+          "published_at": "2026-09-18 00:53",
+          "tags": []
+        },
+        {
+          "title": "Lakera – Test your AI hacking skills",
+          "url": "https://play.lakera.ai/agent-breaker",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://play.lakera.ai/agent-breaker Comments URL: https://news.ycombinator.com/item?id=49748775 Points: 3 # Comments: 0",
+          "published_at": "2026-09-18 00:38",
+          "tags": []
+        },
+        {
+          "title": "Anthropic says Claude now leads a quarter of work building its next AI models",
+          "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/anthropic-says-claude-now-leads-quarter-work-building-its-next-ai-models",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/anthropic-says-claude-now-leads-quarter-work-building-its-next-ai-models Comments URL: https://news.ycombinator.com/item?id=49748648 Points: 4 # Comments: 1",
+          "published_at": "2026-09-18 00:22",
+          "tags": []
+        },
+        {
+          "title": "Mini-Jev – typesafe's Jev implemented on top of an LLM locally",
+          "url": "https://github.com/r-ms/mini-jev",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/r-ms/mini-jev Comments URL: https://news.ycombinator.com/item?id=49748643 Points: 3 # Comments: 0",
+          "published_at": "2026-09-18 00:21",
+          "tags": []
+        },
+        {
+          "title": "Forget doomsday: The AI hacking crisis is here",
+          "url": "https://www.axios.com/2026/09/17/ai-cyber-doomsday-hacking-threats",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.axios.com/2026/09/17/ai-cyber-doomsday-hacking-threats Comments URL: https://news.ycombinator.com/item?id=49748482 Points: 2 # Comments: 1",
+          "published_at": "2026-09-18 00:00",
+          "tags": []
+        },
+        {
+          "title": "The FAA's plan to fix air traffic? $875M worth of AI",
+          "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49748387 Points: 17 # Comments: 11",
+          "published_at": "2026-09-17 23:49",
+          "tags": []
+        },
+        {
+          "title": "Productivity Effects Across Generations of AI Coding Tools",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6843118",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6843118 Comments URL: https://news.ycombinator.com/item?id=49748230 Points: 1 # Comments: 1",
+          "published_at": "2026-09-17 23:34",
+          "tags": []
+        },
+        {
+          "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+          "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+          "source": "TechCrunch AI",
+          "summary": "The round values the data center giant at $30.9 billion.",
+          "published_at": "2026-09-17 23:25",
+          "tags": [
+            "AI",
+            "Hardware",
+            "Venture",
+            "data centers",
+            "crusoe"
+          ]
+        },
+        {
+          "title": "AI safety requires more than just slowing our pace – Stuart Russell",
+          "url": "https://www.theguardian.com/commentisfree/2026/sep/15/ai-safety-requirements",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theguardian.com/commentisfree/2026/sep/15/ai-safety-requirements Comments URL: https://news.ycombinator.com/item?id=49747817 Points: 2 # Comments: 1",
+          "published_at": "2026-09-17 22:54",
+          "tags": []
+        },
+        {
+          "title": "The fix for rogue AI agents could be more AI",
+          "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+          "source": "TechCrunch AI",
+          "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
+          "published_at": "2026-09-17 20:34",
+          "tags": [
+            "AI",
+            "ai safety"
+          ]
+        },
+        {
+          "title": "Even the king of England has his hesitations about AI",
+          "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+          "source": "TechCrunch AI",
+          "summary": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
+          "published_at": "2026-09-17 17:26",
+          "tags": [
+            "AI",
+            "Government & Policy"
+          ]
+        },
+        {
+          "title": "The AI Superintelligence Slowdown",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+          "source": "The Verge AI",
+          "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time [&#8230;]",
+          "published_at": "2026-09-17 15:28",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "Google",
+            "Microsoft",
+            "News",
+            "Nvidia",
+            "OpenAI",
+            "Tech",
+            "xAI"
+          ]
+        },
+        {
+          "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+          "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+          "source": "TechCrunch AI",
+          "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
+          "published_at": "2026-09-17 13:46",
+          "tags": [
+            "AI",
+            "Apps",
+            "Meta",
+            "instinct",
+            "AI agents"
+          ]
+        },
+        {
+          "title": "Inside the suddenly explosive world of AI safety",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
+          "source": "The Verge AI",
+          "summary": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come together for a \"war room\" to dissect the high-profile cybersecurity incident that had rocked the AI industry hours earlier. An unreleased OpenAI model had gone rogue, executing a stunningly [&#8230;]",
+          "published_at": "2026-09-17 07:30",
+          "tags": [
+            "AI",
+            "Features",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+          "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+          "source": "TechCrunch AI",
+          "summary": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
+          "published_at": "2026-09-17 05:00",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "simulation",
+            "Iceland",
+            "voice AI",
+            "Treble"
+          ]
+        },
+        {
+          "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+          "source": "TechCrunch AI",
+          "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
+          "published_at": "2026-09-17 03:30",
+          "tags": [
+            "Startups",
+            "AI",
+            "TechCrunch Disrupt"
+          ]
+        },
+        {
+          "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+          "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+          "source": "The Verge AI",
+          "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that it might just make viewers hate the original tale altogether. The new film, called Odysseus: The Fall, comes [&#8230;]",
+          "published_at": "2026-09-16 16:59",
+          "tags": [
+            "AI",
+            "Entertainment",
+            "Film",
+            "Movie Review"
+          ]
+        },
+        {
+          "title": "Apple might make servers again to cash in on the AI rush",
+          "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+          "source": "The Verge AI",
+          "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute power as the AI industry continues to [&#8230;]",
+          "published_at": "2026-09-16 13:20",
+          "tags": [
+            "AI",
+            "Apple",
+            "Apple Rumors",
+            "News",
+            "Nvidia",
+            "Tech"
+          ]
+        }
+      ]
     }
   ]
 }
