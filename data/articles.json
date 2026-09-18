@@ -1,5 +1,161 @@
 [
   {
+    "title": "Show HN: Forcefield: A fast, lightweight local-first AI agent harness",
+    "url": "https://github.com/fabledruns/forcefield",
+    "source": "Hacker News AI",
+    "summary": "I spent the last 3 months building my own AI agent harness, fully written in Go. It's called Forcefield, and I primarily built it because I had trouble using local AI models with agent harnesses like Claude Code. I found the configuration needed to get local models working frustrating, and I wanted something simpler.The main thing I've been optimizing for is the runtime itself. It needs to have low overhead, fast startup, and a simple enough system that users can run it locally without an accoun",
+    "published_at": "2026-09-18 15:35",
+    "tags": [],
+    "fetch_date": "2026-09-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Orca – deterministic, AI-driven development flows",
+    "url": "https://github.com/VirtusLab/orca",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/VirtusLab/orca Comments URL: https://news.ycombinator.com/item?id=49755856 Points: 3 # Comments: 0",
+    "published_at": "2026-09-18 15:32",
+    "tags": [],
+    "fetch_date": "2026-09-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
+    "published_at": "2026-09-18 15:30",
+    "tags": [
+      "Startups",
+      "AI",
+      "nvidia",
+      "TechCrunch Disrupt"
+    ],
+    "fetch_date": "2026-09-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
+    "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+    "source": "TechCrunch AI",
+    "summary": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
+    "published_at": "2026-09-18 15:22",
+    "tags": [
+      "AI",
+      "Apps",
+      "Meta",
+      "muse"
+    ],
+    "fetch_date": "2026-09-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI is an elite crime spree",
+    "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree Comments URL: https://news.ycombinator.com/item?id=49755590 Points: 8 # Comments: 1",
+    "published_at": "2026-09-18 15:15",
+    "tags": [],
+    "fetch_date": "2026-09-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Gov. Newsom issues executive order to rein in AI 'before it's too late'",
+    "url": "https://www.cnbc.com/2026/09/18/california-newsom-executive-order-ai.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.cnbc.com/2026/09/18/california-newsom-executive-order-ai.html Comments URL: https://news.ycombinator.com/item?id=49755498 Points: 2 # Comments: 0",
+    "published_at": "2026-09-18 15:09",
+    "tags": [],
+    "fetch_date": "2026-09-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
+    "url": "https://www.miro.vision/index.php/2026/09/17/grasslobbster/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.miro.vision/index.php/2026/09/17/grasslobbster/ Comments URL: https://news.ycombinator.com/item?id=49755431 Points: 6 # Comments: 0",
+    "published_at": "2026-09-18 15:04",
+    "tags": [],
+    "fetch_date": "2026-09-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Why Harvard's Dean 'Encourages' Students to Use AI",
+    "url": "https://www.derekthompson.org/p/what-is-college-for",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.derekthompson.org/p/what-is-college-for Comments URL: https://news.ycombinator.com/item?id=49755288 Points: 3 # Comments: 0",
+    "published_at": "2026-09-18 14:54",
+    "tags": [],
+    "fetch_date": "2026-09-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Let GPT-6 Astra code without using Codex Usage",
+    "url": "https://ethanplus.ai/blog/run-a-coding-agent-on-gpt-6-pro-inside-chatgpt",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://ethanplus.ai/blog/run-a-coding-agent-on-gpt-6-pro-inside-chatgpt Comments URL: https://news.ycombinator.com/item?id=49755239 Points: 2 # Comments: 0",
+    "published_at": "2026-09-18 14:50",
+    "tags": [],
+    "fetch_date": "2026-09-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "I built Anchor. The open-source ontology layer for AI agents",
+    "url": "https://github.com/trybacked/anchor",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/trybacked/anchor Comments URL: https://news.ycombinator.com/item?id=49755135 Points: 1 # Comments: 0",
+    "published_at": "2026-09-18 14:43",
+    "tags": [],
+    "fetch_date": "2026-09-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ask HN: Have you stopped underestimating AI yet?",
+    "url": "https://news.ycombinator.com/item?id=49755126",
+    "source": "Hacker News AI",
+    "summary": "I think most technical people who are not AI researchers have a tendency to underestimate what frontier AI can do. Comments URL: https://news.ycombinator.com/item?id=49755126 Points: 2 # Comments: 3",
+    "published_at": "2026-09-18 14:43",
+    "tags": [],
+    "fetch_date": "2026-09-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The new CC, an AI agent built for families",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/ Comments URL: https://news.ycombinator.com/item?id=49754898 Points: 1 # Comments: 0",
+    "published_at": "2026-09-18 14:25",
+    "tags": [],
+    "fetch_date": "2026-09-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "OpenAI's latest AI revelation is a 'serious situation,' says Microsoft",
+    "url": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html Comments URL: https://news.ycombinator.com/item?id=49754831 Points: 3 # Comments: 0",
+    "published_at": "2026-09-18 14:21",
+    "tags": [],
+    "fetch_date": "2026-09-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+    "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+    "source": "TechCrunch AI",
+    "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+    "published_at": "2026-09-18 14:00",
+    "tags": [
+      "AI",
+      "Security",
+      "Anthropic",
+      "cybersecurity",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-09-18",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Youper is shutting down – What kills mental health AI?",
     "url": "https://www.youper.ai/notice",
     "source": "Hacker News AI",
@@ -156,6 +312,21 @@
     "fetch_label": "早报"
   },
   {
+    "title": "Google DeepMind launches institute to widen the AGI debate",
+    "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+    "source": "TechCrunch AI",
+    "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
+    "published_at": "2026-09-17 23:21",
+    "tags": [
+      "AI",
+      "artificial general intelligence",
+      "Google",
+      "google deepmind"
+    ],
+    "fetch_date": "2026-09-18",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "AI safety requires more than just slowing our pace – Stuart Russell",
     "url": "https://www.theguardian.com/commentisfree/2026/sep/15/ai-safety-requirements",
     "source": "Hacker News AI",
@@ -210,6 +381,21 @@
     ],
     "fetch_date": "2026-09-18",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+    "source": "The Verge AI",
+    "summary": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project has \"threads\" running different tasks in parallel, with a \"coordinator\" directing everything: [&#8230;]",
+    "published_at": "2026-09-17 14:58",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-09-18",
+    "fetch_label": "晚报"
   },
   {
     "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
@@ -34897,182 +35083,5 @@
     "tags": [],
     "fetch_date": "2026-05-23",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "I let an AI agent loose on my network – it owned my supply chain in 12 minutes",
-    "url": "https://dennysentinel.com/blog/deepseek-owned-supply-chain-12-minutes/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://dennysentinel.com/blog/deepseek-owned-supply-chain-12-minutes/ Comments URL: https://news.ycombinator.com/item?id=48247425 Points: 2 # Comments: 0",
-    "published_at": "2026-05-23 13:18",
-    "tags": [],
-    "fetch_date": "2026-05-23",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Elon Musk has given up on solar power (on Earth)",
-    "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
-    "source": "TechCrunch AI",
-    "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
-    "published_at": "2026-05-23 13:00",
-    "tags": [
-      "Climate",
-      "AI",
-      "Analysis",
-      "data centers",
-      "Elon Musk",
-      "Solar Power",
-      "SpaceX",
-      "Tesla",
-      "xAI"
-    ],
-    "fetch_date": "2026-05-23",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Herdr: A tmux-like terminal multiplexer for AI coding agents",
-    "url": "https://github.com/ogulcancelik/herdr",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/ogulcancelik/herdr Comments URL: https://news.ycombinator.com/item?id=48247248 Points: 2 # Comments: 0",
-    "published_at": "2026-05-23 12:53",
-    "tags": [],
-    "fetch_date": "2026-05-23",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "MediaUse Makes FIFA 2026 Programmable for AI Agents (No Vision)",
-    "url": "https://mediause.dev/skills/fifa2026",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://mediause.dev/skills/fifa2026 Comments URL: https://news.ycombinator.com/item?id=48247131 Points: 1 # Comments: 0",
-    "published_at": "2026-05-23 12:35",
-    "tags": [],
-    "fetch_date": "2026-05-23",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "OpenClaw: Own Personal AI Assistant. Any OS. Any Platform",
-    "url": "https://github.com/openclaw/openclaw",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/openclaw/openclaw Comments URL: https://news.ycombinator.com/item?id=48247104 Points: 1 # Comments: 0",
-    "published_at": "2026-05-23 12:31",
-    "tags": [],
-    "fetch_date": "2026-05-23",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Making Deep Learning Go Brrrr from First Principles",
-    "url": "https://horace.io/brrr_intro.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://horace.io/brrr_intro.html Comments URL: https://news.ycombinator.com/item?id=48246889 Points: 27 # Comments: 12",
-    "published_at": "2026-05-23 11:50",
-    "tags": [],
-    "fetch_date": "2026-05-23",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI doesn't divide developers – it just reveals them",
-    "url": "https://overco.de/posts/ai-doesnt-divide-developers-it-just-reveals-them/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://overco.de/posts/ai-doesnt-divide-developers-it-just-reveals-them/ Comments URL: https://news.ycombinator.com/item?id=48246539 Points: 1 # Comments: 1",
-    "published_at": "2026-05-23 10:42",
-    "tags": [],
-    "fetch_date": "2026-05-23",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Cool New AI Meetup",
-    "url": "https://greenvilleAI.coffee/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://greenvilleAI.coffee/ Comments URL: https://news.ycombinator.com/item?id=48246443 Points: 1 # Comments: 0",
-    "published_at": "2026-05-23 10:18",
-    "tags": [],
-    "fetch_date": "2026-05-23",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Ask HN: Where AI Researchers Congregate?",
-    "url": "https://news.ycombinator.com/item?id=48246397",
-    "source": "Hacker News AI",
-    "summary": "So I’m doing plenty of experiments and applied research in autonomous agents and agentic flows in general. I’m looking for a place where I could collaborate and discuss with other like minded people. I would love to get recommendations for such a place online. Comments URL: https://news.ycombinator.com/item?id=48246397 Points: 1 # Comments: 0",
-    "published_at": "2026-05-23 10:05",
-    "tags": [],
-    "fetch_date": "2026-05-23",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Directionally bad – a newsletter about risks of AI centralization",
-    "url": "https://deaination.substack.com/p/directionally-bad-issue-002",
-    "source": "Hacker News AI",
-    "summary": "Hello, I'm sultan, a Research Analyst working to analyze and explore the world of decentralized AI. I have launched a new newsletter for everyone curious about where DeAI is going, and what's up with the centralized AI labs. Would be glad to hear your feedback! Comments URL: https://news.ycombinator.com/item?id=48246326 Points: 2 # Comments: 0",
-    "published_at": "2026-05-23 09:51",
-    "tags": [],
-    "fetch_date": "2026-05-23",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The AI Great Leap Forward (A Warning)",
-    "url": "https://mamund.substack.com/p/the-ai-great-leap-forward-a-warning",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://mamund.substack.com/p/the-ai-great-leap-forward-a-warning Comments URL: https://news.ycombinator.com/item?id=48246235 Points: 2 # Comments: 0",
-    "published_at": "2026-05-23 09:37",
-    "tags": [],
-    "fetch_date": "2026-05-23",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Embedded acoustic AI with <16ms latency running on 8MB RAM",
-    "url": "https://www.voisace.com/blog",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.voisace.com/blog Comments URL: https://news.ycombinator.com/item?id=48245869 Points: 3 # Comments: 0",
-    "published_at": "2026-05-23 08:26",
-    "tags": [],
-    "fetch_date": "2026-05-23",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "ChatGPT as the AOL of AI",
-    "url": "https://rebecca-powell.com/posts/return-on-intelligence-02-moats/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://rebecca-powell.com/posts/return-on-intelligence-02-moats/ Comments URL: https://news.ycombinator.com/item?id=48245748 Points: 4 # Comments: 1",
-    "published_at": "2026-05-23 08:01",
-    "tags": [],
-    "fetch_date": "2026-05-23",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Google’s new anything-to-anything AI model is wild",
-    "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
-    "source": "The Verge AI",
-    "summary": "Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-year-old. [&#8230;]",
-    "published_at": "2026-05-23 07:00",
-    "tags": [
-      "AI",
-      "Google",
-      "Google I/O 2026",
-      "Hands-on",
-      "Reviews",
-      "Tech"
-    ],
-    "fetch_date": "2026-05-24",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "How the Library of Congress is using both AI and volunteers to unlock history",
-    "url": "https://www.nextgov.com/artificial-intelligence/2026/05/how-library-congress-using-both-ai-and-volunteers-unlock-public-broadcasting-history/413742/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.nextgov.com/artificial-intelligence/2026/05/how-library-congress-using-both-ai-and-volunteers-unlock-public-broadcasting-history/413742/ Comments URL: https://news.ycombinator.com/item?id=48244327 Points: 1 # Comments: 0",
-    "published_at": "2026-05-23 03:25",
-    "tags": [],
-    "fetch_date": "2026-05-23",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Any positive sides of LLM there?",
-    "url": "https://news.ycombinator.com/item?id=48244190",
-    "source": "Hacker News AI",
-    "summary": "I started to wonder that I dont remember reading any positive articles or discussion about AI.It is deep in human nature for stressing out about our problems that might occur and possible dangers, and for myself I think I have been quite deep lately for the upcoming \"world-end\" and overall stressing about the world state. There has been so much about how AI could contribute to psychosis, how AI will take our jobs etc.. Which surely are important problems. But with just little imagination I could",
-    "published_at": "2026-05-23 03:05",
-    "tags": [],
-    "fetch_date": "2026-05-23",
-    "fetch_label": "早报"
   }
 ]
