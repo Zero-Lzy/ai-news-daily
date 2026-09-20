@@ -167,6 +167,174 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-09-20 23:35:03",
+      "count": 18,
+      "articles": [
+        {
+          "title": "Show HN: AI Hack Watchline and Dataset for AI Hacking Incidents (JSON/RSS)",
+          "url": "https://aihackwatch.com",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://aihackwatch.com Comments URL: https://news.ycombinator.com/item?id=49776873 Points: 1 # Comments: 0",
+          "published_at": "2026-09-20 15:33",
+          "tags": []
+        },
+        {
+          "title": "Catalan's constant is irrational (proof with the help of AI)",
+          "url": "https://arxiv.org/abs/2609.04176",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2609.04176 Comments URL: https://news.ycombinator.com/item?id=49776865 Points: 1 # Comments: 0",
+          "published_at": "2026-09-20 15:32",
+          "tags": []
+        },
+        {
+          "title": "Reviving Old Places in Macedonia with AI",
+          "url": "https://www.gocemitevski.com/reviving-old-places-in-macedonia-with-ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.gocemitevski.com/reviving-old-places-in-macedonia-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49776814 Points: 1 # Comments: 0",
+          "published_at": "2026-09-20 15:26",
+          "tags": []
+        },
+        {
+          "title": "Pirate Face Rescues LLM Models from Deletion",
+          "url": "https://pirateface.co/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://pirateface.co/ Comments URL: https://news.ycombinator.com/item?id=49776699 Points: 2 # Comments: 0",
+          "published_at": "2026-09-20 15:16",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: What is one plausible path to 'AI extinction'?",
+          "url": "https://news.ycombinator.com/item?id=49776698",
+          "source": "Hacker News AI",
+          "summary": "This is being thrown around a lot, including the dreaded \"10% chance by the end of this decade\". Every conversation I have seen about this, mostly on twitter, not once have I seen anyone connecting the dots on concretely and plausibly how this might pan out. It is usually 1. Train powerful AI 2. ??? 3. ExtinctionI personally find it implausible, but some quite smart people have talked about it so I am also not dismissing it as pure fear-mongering.The reasons I do not think it is plausible:1. Lim",
+          "published_at": "2026-09-20 15:16",
+          "tags": []
+        },
+        {
+          "title": "Karen Nikoghosyan Is Building AI Operating Layers for Multichannel Commerce",
+          "url": "https://news.ycombinator.com/item?id=49776683",
+          "source": "Hacker News AI",
+          "summary": "Karen Nikoghosyan works at the crossroads of AI, e-commerce operations, and talent development. As founder and CEO of eSwap Global, he offers a platform that unifies inventory, order, and shipping management for multichannel sellers, including Amazon, Shopify, Walmart, eBay, Etsy, Wayfair and other marketplaces. Karen also runs Ghost Services LLC, a software development agency that has delivered products for more than 80 companies, and is founder and executive director of the Techno-Educational ",
+          "published_at": "2026-09-20 15:15",
+          "tags": []
+        },
+        {
+          "title": "First AI bot appears on Starcraft Ladder, wins against progamer",
+          "url": "https://tl.net/forum/brood-war/646339-bot-on-ladder",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://tl.net/forum/brood-war/646339-bot-on-ladder Comments URL: https://news.ycombinator.com/item?id=49776667 Points: 1 # Comments: 1",
+          "published_at": "2026-09-20 15:13",
+          "tags": []
+        },
+        {
+          "title": "Google knows you – does AI?",
+          "url": "https://www.scanora.ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.scanora.ai Comments URL: https://news.ycombinator.com/item?id=49776542 Points: 1 # Comments: 0",
+          "published_at": "2026-09-20 15:01",
+          "tags": []
+        },
+        {
+          "title": "A proxy that scans LLM requests/attach for secrets before they reach the model",
+          "url": "https://github.com/ghuntley/preflight",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/ghuntley/preflight Comments URL: https://news.ycombinator.com/item?id=49776416 Points: 1 # Comments: 0",
+          "published_at": "2026-09-20 14:47",
+          "tags": []
+        },
+        {
+          "title": "Axel, the AI that gossips about its users",
+          "url": "https://talktoaxel.com",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://talktoaxel.com Comments URL: https://news.ycombinator.com/item?id=49776206 Points: 1 # Comments: 0",
+          "published_at": "2026-09-20 14:22",
+          "tags": []
+        },
+        {
+          "title": "BragJack attacks hijack AI browser agents through malicious extensions",
+          "url": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/ Comments URL: https://news.ycombinator.com/item?id=49775481 Points: 2 # Comments: 0",
+          "published_at": "2026-09-20 13:07",
+          "tags": []
+        },
+        {
+          "title": "How ISIL is using Big Tech's AI to build bombs",
+          "url": "https://www.aljazeera.com/news/2026/9/18/just-ask-grok-how-isil-is-using-big-techs-ai-to-build-bombs",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.aljazeera.com/news/2026/9/18/just-ask-grok-how-isil-is-using-big-techs-ai-to-build-bombs Comments URL: https://news.ycombinator.com/item?id=49775141 Points: 2 # Comments: 0",
+          "published_at": "2026-09-20 12:23",
+          "tags": []
+        },
+        {
+          "title": "Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
+          "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563 Comments URL: https://news.ycombinator.com/item?id=49774991 Points: 27 # Comments: 38",
+          "published_at": "2026-09-20 12:07",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: What to focus on in this age of AI",
+          "url": "https://news.ycombinator.com/item?id=49774797",
+          "source": "Hacker News AI",
+          "summary": "So software became cheap now with this whole AI schtick. Now what to properly focus on? Comments URL: https://news.ycombinator.com/item?id=49774797 Points: 2 # Comments: 3",
+          "published_at": "2026-09-20 11:37",
+          "tags": []
+        },
+        {
+          "title": "If AI coding is lowering your code quality, you're not managing quality right",
+          "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code Comments URL: https://news.ycombinator.com/item?id=49774795 Points: 57 # Comments: 96",
+          "published_at": "2026-09-20 11:37",
+          "tags": []
+        },
+        {
+          "title": "AI safety conversations have gotten unbelievable",
+          "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+          "source": "TechCrunch AI",
+          "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+          "published_at": "2026-09-19 15:00",
+          "tags": [
+            "AI",
+            "TC",
+            "alignment",
+            "Anthropic",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+          "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+          "source": "TechCrunch AI",
+          "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+          "published_at": "2026-09-19 13:00",
+          "tags": [
+            "AI",
+            "Andreessen Horowitz",
+            "Startups"
+          ]
+        },
+        {
+          "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
+          "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+          "source": "The Verge AI",
+          "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I&#8217;m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The [&#8230;]",
+          "published_at": "2026-09-19 10:00",
+          "tags": [
+            "AI",
+            "Antitrust",
+            "Decoder",
+            "Podcasts",
+            "Policy",
+            "Politics"
+          ]
+        }
+      ]
     }
   ]
 }
