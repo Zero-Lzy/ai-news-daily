@@ -1,5 +1,139 @@
 [
   {
+    "title": "Another terminal/shell AI assistant (shell native)",
+    "url": "https://github.com/TheR1D/aty",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/TheR1D/aty Comments URL: https://news.ycombinator.com/item?id=49772391 Points: 1 # Comments: 1",
+    "published_at": "2026-09-20 03:55",
+    "tags": [],
+    "fetch_date": "2026-09-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Nscale S-1 demonstrates unprofitability of AI",
+    "url": "https://www.reddit.com/r/BetterOffline/comments/1wl3kkf/nscale_s1_demonstrates_unprofitability_of_ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.reddit.com/r/BetterOffline/comments/1wl3kkf/nscale_s1_demonstrates_unprofitability_of_ai/ Comments URL: https://news.ycombinator.com/item?id=49772368 Points: 2 # Comments: 0",
+    "published_at": "2026-09-20 03:49",
+    "tags": [],
+    "fetch_date": "2026-09-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "China doesn't need to beat US AI [video]",
+    "url": "https://www.youtube.com/watch?v=sXA77wLF678",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=sXA77wLF678 Comments URL: https://news.ycombinator.com/item?id=49772225 Points: 1 # Comments: 1",
+    "published_at": "2026-09-20 03:13",
+    "tags": [],
+    "fetch_date": "2026-09-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The Ethics Issue of AI-Assisted Creation",
+    "url": "https://im.not.ci/ai-creator-ethic/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://im.not.ci/ai-creator-ethic/ Comments URL: https://news.ycombinator.com/item?id=49772165 Points: 3 # Comments: 2",
+    "published_at": "2026-09-20 02:57",
+    "tags": [],
+    "fetch_date": "2026-09-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "A2E AI – an all-in-one AI video generator for text, images and avatars",
+    "url": "https://textideo.com/model/a2e-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://textideo.com/model/a2e-ai Comments URL: https://news.ycombinator.com/item?id=49771815 Points: 1 # Comments: 0",
+    "published_at": "2026-09-20 01:50",
+    "tags": [],
+    "fetch_date": "2026-09-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Open-source free meme generator, friendly for AI agents and humans",
+    "url": "https://github.com/terryds/memegenscript",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/terryds/memegenscript Comments URL: https://news.ycombinator.com/item?id=49771728 Points: 2 # Comments: 2",
+    "published_at": "2026-09-20 01:35",
+    "tags": [],
+    "fetch_date": "2026-09-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Pure Code: What remains with developers after AI writes the code?",
+    "url": "https://pure-code-essay.vercel.app/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://pure-code-essay.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49771721 Points: 3 # Comments: 0",
+    "published_at": "2026-09-20 01:33",
+    "tags": [],
+    "fetch_date": "2026-09-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "How to handle manager adding AI bs to our codebase/designs etc.",
+    "url": "https://news.ycombinator.com/item?id=49771657",
+    "source": "Hacker News AI",
+    "summary": "Joined the company out of college with like 5-6 years coding hobby projects etc. & started a year ago. I'm basically the highest performer in my team, get more stories & points/higher complexity tasks & have my work done way quicker with virtually no defects etc.etc. In comparison, most of the team spends like 2/3 the sprint getting their stories deployed & then up until the end of the sprint fixing the defects (usually producing defects that we don't catch until either I have to work in their a",
+    "published_at": "2026-09-20 01:18",
+    "tags": [],
+    "fetch_date": "2026-09-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "How the Berkeley Overmind won the 2010 StarCraft AI competition (2011)",
+    "url": "https://arstechnica.com/gaming/2011/01/skynet-meets-the-swarm-how-the-berkeley-overmind-won-the-2010-starcraft-ai-competition/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arstechnica.com/gaming/2011/01/skynet-meets-the-swarm-how-the-berkeley-overmind-won-the-2010-starcraft-ai-competition/ Comments URL: https://news.ycombinator.com/item?id=49771630 Points: 2 # Comments: 1",
+    "published_at": "2026-09-20 01:11",
+    "tags": [],
+    "fetch_date": "2026-09-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Trump to Name AI Czar While Rejecting Safety Risks as a Hoax",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-19/trump-to-name-ai-czar-while-rejecting-safety-risks-as-a-hoax",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-19/trump-to-name-ai-czar-while-rejecting-safety-risks-as-a-hoax Comments URL: https://news.ycombinator.com/item?id=49771614 Points: 4 # Comments: 0",
+    "published_at": "2026-09-20 01:07",
+    "tags": [],
+    "fetch_date": "2026-09-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Changed How Spotify Builds. What We Learned About Quality at Higher Velocity",
+    "url": "https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity Comments URL: https://news.ycombinator.com/item?id=49771417 Points: 4 # Comments: 2",
+    "published_at": "2026-09-20 00:33",
+    "tags": [],
+    "fetch_date": "2026-09-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI for Bio Doesn't Need More Data",
+    "url": "https://amplesa.substack.com/p/ai-for-bio-doesnt-need-more-data",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://amplesa.substack.com/p/ai-for-bio-doesnt-need-more-data Comments URL: https://news.ycombinator.com/item?id=49771055 Points: 2 # Comments: 1",
+    "published_at": "2026-09-19 23:38",
+    "tags": [],
+    "fetch_date": "2026-09-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+    "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+    "source": "TechCrunch AI",
+    "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+    "published_at": "2026-09-19 20:39",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "Flock"
+    ],
+    "fetch_date": "2026-09-20",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Certify the Conversation, Not Just the AI Agent",
     "url": "https://www.anuclei.com/blog/certify-the-conversation-not-just-the-agent",
     "source": "Hacker News AI",
@@ -88,6 +222,20 @@
     "tags": [],
     "fetch_date": "2026-09-19",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+    "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+    "source": "TechCrunch AI",
+    "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+    "published_at": "2026-09-19 13:00",
+    "tags": [
+      "AI",
+      "Andreessen Horowitz",
+      "Startups"
+    ],
+    "fetch_date": "2026-09-20",
+    "fetch_label": "早报"
   },
   {
     "title": "Why I'm (sort of) not worried about AI – Jack Conte - SXSW [video]",
@@ -34963,154 +35111,5 @@
     "tags": [],
     "fetch_date": "2026-05-25",
     "fetch_label": "早报"
-  },
-  {
-    "title": "Code-mapper: Free CLI tool to reduce LLM token usage on any codebases",
-    "url": "https://github.com/damien220/code-mapper",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/damien220/code-mapper Comments URL: https://news.ycombinator.com/item?id=48262981 Points: 3 # Comments: 0",
-    "published_at": "2026-05-25 02:49",
-    "tags": [],
-    "fetch_date": "2026-05-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Global AI Diffusion: Q1 2026 Trends and Insights [pdf]",
-    "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/Microsoft-AI-Diffusion-Report-2026-Q1.pdf",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/Microsoft-AI-Diffusion-Report-2026-Q1.pdf Comments URL: https://news.ycombinator.com/item?id=48262811 Points: 3 # Comments: 1",
-    "published_at": "2026-05-25 02:07",
-    "tags": [],
-    "fetch_date": "2026-05-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "HN: Silau – AI detects employee burnout\"",
-    "url": "https://news.ycombinator.com/item?id=48262636",
-    "source": "Hacker News AI",
-    "summary": "I just launched Silau76% of employees experience burnout. I built an AI platform that detects it BEFORE they quit.Check it out: [your link]If you know HR managers struggling with burnout, send them my way!#Startup #MentalHealth #AI Comments URL: https://news.ycombinator.com/item?id=48262636 Points: 1 # Comments: 2",
-    "published_at": "2026-05-25 01:23",
-    "tags": [],
-    "fetch_date": "2026-05-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "What to know about the AI models that are jolting Washington",
-    "url": "https://www.politico.com/news/2026/05/24/anthropic-openai-mythos-what-to-know-00934668",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.politico.com/news/2026/05/24/anthropic-openai-mythos-what-to-know-00934668 Comments URL: https://news.ycombinator.com/item?id=48261970 Points: 2 # Comments: 1",
-    "published_at": "2026-05-24 23:14",
-    "tags": [],
-    "fetch_date": "2026-05-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI for Design Needs Solving",
-    "url": "https://freedium-mirror.cfd/https://medium.com/@mini.1409/ai-for-design-needs-solving-db3f11af77d4",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://freedium-mirror.cfd/https://medium.com/@mini.1409/ai-for-design-needs-solving-db3f11af77d4 Comments URL: https://news.ycombinator.com/item?id=48261923 Points: 2 # Comments: 0",
-    "published_at": "2026-05-24 23:09",
-    "tags": [],
-    "fetch_date": "2026-05-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI in journalism: Live tracker of scandals and mistakes",
-    "url": "https://pressgazette.co.uk/publishers/digital-journalism/ai-journalism-mistakes/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://pressgazette.co.uk/publishers/digital-journalism/ai-journalism-mistakes/ Comments URL: https://news.ycombinator.com/item?id=48261922 Points: 2 # Comments: 0",
-    "published_at": "2026-05-24 23:09",
-    "tags": [],
-    "fetch_date": "2026-05-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Portability Is a Myth: Why the Best AI Stacks Will Never Be Hardware-Agnostic",
-    "url": "https://twitter.com/PatrickToulme/status/2055709800986780028",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://twitter.com/PatrickToulme/status/2055709800986780028 Comments URL: https://news.ycombinator.com/item?id=48261760 Points: 2 # Comments: 0",
-    "published_at": "2026-05-24 22:45",
-    "tags": [],
-    "fetch_date": "2026-05-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "What's Left for AI-Assisted Coding",
-    "url": "https://stephen.bochinski.dev/blog/2026/05/24/whats-left-for-ai-assisted-coding/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://stephen.bochinski.dev/blog/2026/05/24/whats-left-for-ai-assisted-coding/ Comments URL: https://news.ycombinator.com/item?id=48261650 Points: 3 # Comments: 1",
-    "published_at": "2026-05-24 22:28",
-    "tags": [],
-    "fetch_date": "2026-05-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Everyone is navigating AI security in real time — even Google",
-    "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
-    "source": "TechCrunch AI",
-    "summary": "We're in the transition period -- all of us.",
-    "published_at": "2026-05-24 21:39",
-    "tags": [
-      "AI",
-      "TC"
-    ],
-    "fetch_date": "2026-05-25",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
-    "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
-    "source": "TechCrunch AI",
-    "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
-    "published_at": "2026-05-24 15:00",
-    "tags": [
-      "AI",
-      "Gadgets",
-      "Amazon",
-      "AI hardware",
-      "Bee wearable"
-    ],
-    "fetch_date": "2026-05-25",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "2028: Two scenarios for global AI leadership",
-    "url": "https://www.anthropic.com/research/2028-ai-leadership",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.anthropic.com/research/2028-ai-leadership Comments URL: https://news.ycombinator.com/item?id=48257135 Points: 1 # Comments: 0",
-    "published_at": "2026-05-24 13:27",
-    "tags": [],
-    "fetch_date": "2026-05-24",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI writes x86_64 asm and eBPF for fractals on /dev/fb0, in a browser VM",
-    "url": "https://zozo123.github.io/wolfram-fb0/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://zozo123.github.io/wolfram-fb0/ Comments URL: https://news.ycombinator.com/item?id=48257102 Points: 1 # Comments: 0",
-    "published_at": "2026-05-24 13:22",
-    "tags": [],
-    "fetch_date": "2026-05-24",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Bursting the AI Bubble: Fed Could Take Away the \"Who Could Have Known?\" Defense",
-    "url": "https://deanbaker22.substack.com/p/bursting-the-ai-bubble-the-fed-could",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://deanbaker22.substack.com/p/bursting-the-ai-bubble-the-fed-could Comments URL: https://news.ycombinator.com/item?id=48257074 Points: 1 # Comments: 1",
-    "published_at": "2026-05-24 13:18",
-    "tags": [],
-    "fetch_date": "2026-05-24",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The guide to RL environments: building and scaling them in the LLM era",
-    "url": "https://huggingface.co/spaces/AdithyaSK/rl-environments-guide",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://huggingface.co/spaces/AdithyaSK/rl-environments-guide Comments URL: https://news.ycombinator.com/item?id=48256800 Points: 2 # Comments: 0",
-    "published_at": "2026-05-24 12:41",
-    "tags": [],
-    "fetch_date": "2026-05-24",
-    "fetch_label": "晚报"
   }
 ]

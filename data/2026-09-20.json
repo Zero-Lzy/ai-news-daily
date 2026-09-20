@@ -1,0 +1,172 @@
+{
+  "date": "2026-09-20",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-09-20 12:05:22",
+      "count": 17,
+      "articles": [
+        {
+          "title": "Another terminal/shell AI assistant (shell native)",
+          "url": "https://github.com/TheR1D/aty",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/TheR1D/aty Comments URL: https://news.ycombinator.com/item?id=49772391 Points: 1 # Comments: 1",
+          "published_at": "2026-09-20 03:55",
+          "tags": []
+        },
+        {
+          "title": "Nscale S-1 demonstrates unprofitability of AI",
+          "url": "https://www.reddit.com/r/BetterOffline/comments/1wl3kkf/nscale_s1_demonstrates_unprofitability_of_ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.reddit.com/r/BetterOffline/comments/1wl3kkf/nscale_s1_demonstrates_unprofitability_of_ai/ Comments URL: https://news.ycombinator.com/item?id=49772368 Points: 2 # Comments: 0",
+          "published_at": "2026-09-20 03:49",
+          "tags": []
+        },
+        {
+          "title": "China doesn't need to beat US AI [video]",
+          "url": "https://www.youtube.com/watch?v=sXA77wLF678",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=sXA77wLF678 Comments URL: https://news.ycombinator.com/item?id=49772225 Points: 1 # Comments: 1",
+          "published_at": "2026-09-20 03:13",
+          "tags": []
+        },
+        {
+          "title": "The Ethics Issue of AI-Assisted Creation",
+          "url": "https://im.not.ci/ai-creator-ethic/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://im.not.ci/ai-creator-ethic/ Comments URL: https://news.ycombinator.com/item?id=49772165 Points: 3 # Comments: 2",
+          "published_at": "2026-09-20 02:57",
+          "tags": []
+        },
+        {
+          "title": "A2E AI – an all-in-one AI video generator for text, images and avatars",
+          "url": "https://textideo.com/model/a2e-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://textideo.com/model/a2e-ai Comments URL: https://news.ycombinator.com/item?id=49771815 Points: 1 # Comments: 0",
+          "published_at": "2026-09-20 01:50",
+          "tags": []
+        },
+        {
+          "title": "Open-source free meme generator, friendly for AI agents and humans",
+          "url": "https://github.com/terryds/memegenscript",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/terryds/memegenscript Comments URL: https://news.ycombinator.com/item?id=49771728 Points: 2 # Comments: 2",
+          "published_at": "2026-09-20 01:35",
+          "tags": []
+        },
+        {
+          "title": "Pure Code: What remains with developers after AI writes the code?",
+          "url": "https://pure-code-essay.vercel.app/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://pure-code-essay.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49771721 Points: 3 # Comments: 0",
+          "published_at": "2026-09-20 01:33",
+          "tags": []
+        },
+        {
+          "title": "How to handle manager adding AI bs to our codebase/designs etc.",
+          "url": "https://news.ycombinator.com/item?id=49771657",
+          "source": "Hacker News AI",
+          "summary": "Joined the company out of college with like 5-6 years coding hobby projects etc. & started a year ago. I'm basically the highest performer in my team, get more stories & points/higher complexity tasks & have my work done way quicker with virtually no defects etc.etc. In comparison, most of the team spends like 2/3 the sprint getting their stories deployed & then up until the end of the sprint fixing the defects (usually producing defects that we don't catch until either I have to work in their a",
+          "published_at": "2026-09-20 01:18",
+          "tags": []
+        },
+        {
+          "title": "How the Berkeley Overmind won the 2010 StarCraft AI competition (2011)",
+          "url": "https://arstechnica.com/gaming/2011/01/skynet-meets-the-swarm-how-the-berkeley-overmind-won-the-2010-starcraft-ai-competition/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arstechnica.com/gaming/2011/01/skynet-meets-the-swarm-how-the-berkeley-overmind-won-the-2010-starcraft-ai-competition/ Comments URL: https://news.ycombinator.com/item?id=49771630 Points: 2 # Comments: 1",
+          "published_at": "2026-09-20 01:11",
+          "tags": []
+        },
+        {
+          "title": "Trump to Name AI Czar While Rejecting Safety Risks as a Hoax",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-19/trump-to-name-ai-czar-while-rejecting-safety-risks-as-a-hoax",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-19/trump-to-name-ai-czar-while-rejecting-safety-risks-as-a-hoax Comments URL: https://news.ycombinator.com/item?id=49771614 Points: 4 # Comments: 0",
+          "published_at": "2026-09-20 01:07",
+          "tags": []
+        },
+        {
+          "title": "AI Changed How Spotify Builds. What We Learned About Quality at Higher Velocity",
+          "url": "https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity Comments URL: https://news.ycombinator.com/item?id=49771417 Points: 4 # Comments: 2",
+          "published_at": "2026-09-20 00:33",
+          "tags": []
+        },
+        {
+          "title": "AI for Bio Doesn't Need More Data",
+          "url": "https://amplesa.substack.com/p/ai-for-bio-doesnt-need-more-data",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://amplesa.substack.com/p/ai-for-bio-doesnt-need-more-data Comments URL: https://news.ycombinator.com/item?id=49771055 Points: 2 # Comments: 1",
+          "published_at": "2026-09-19 23:38",
+          "tags": []
+        },
+        {
+          "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+          "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+          "source": "TechCrunch AI",
+          "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+          "published_at": "2026-09-19 20:39",
+          "tags": [
+            "AI",
+            "Government & Policy",
+            "Flock"
+          ]
+        },
+        {
+          "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+          "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+          "source": "TechCrunch AI",
+          "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+          "published_at": "2026-09-19 13:00",
+          "tags": [
+            "AI",
+            "Andreessen Horowitz",
+            "Startups"
+          ]
+        },
+        {
+          "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+          "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+          "source": "TechCrunch AI",
+          "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
+          "published_at": "2026-09-18 16:35",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Startups",
+            "manus",
+            "Meta"
+          ]
+        },
+        {
+          "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+          "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+          "source": "The Verge AI",
+          "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 bans executive branch officials from signing nondisclosure agreements [&#8230;]",
+          "published_at": "2026-09-18 14:29",
+          "tags": [
+            "AI",
+            "Energy",
+            "News",
+            "Policy",
+            "Politics",
+            "Science"
+          ]
+        },
+        {
+          "title": "What Hollywood thinks about existential AI warnings",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+          "source": "The Verge AI",
+          "summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have started using AI, as well film startups focused on bringing generative AI into the mainstream [&#8230;]",
+          "published_at": "2026-09-18 12:35",
+          "tags": [
+            "AI",
+            "Entertainment"
+          ]
+        }
+      ]
+    }
+  ]
+}
