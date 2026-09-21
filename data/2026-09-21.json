@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-21",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-09-21 12:02:58",
+      "count": 17,
+      "articles": [
+        {
+          "title": "The president wanted to unleash AI. Then came Anthropic",
+          "url": "https://www.politico.com/news/magazine/2026/09/20/anthropic-white-house-ai-01085212",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.politico.com/news/magazine/2026/09/20/anthropic-white-house-ai-01085212 Comments URL: https://news.ycombinator.com/item?id=49782916 Points: 1 # Comments: 0",
+          "published_at": "2026-09-21 04:01",
+          "tags": []
+        },
+        {
+          "title": "A Silicon Valley radical: Trump's AI whisperer pushing for limited regulation",
+          "url": "https://www.theguardian.com/us-news/2026/sep/20/david-sacks-trump-ai-czar",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theguardian.com/us-news/2026/sep/20/david-sacks-trump-ai-czar Comments URL: https://news.ycombinator.com/item?id=49782644 Points: 2 # Comments: 0",
+          "published_at": "2026-09-21 03:13",
+          "tags": []
+        },
+        {
+          "title": "AI Weekly Warns Firms on Google AI Studio Data Retention Fraud",
+          "url": "https://bitu79.substack.com/p/ai-weekly-issues-warning-on-google",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://bitu79.substack.com/p/ai-weekly-issues-warning-on-google Comments URL: https://news.ycombinator.com/item?id=49782409 Points: 19 # Comments: 4",
+          "published_at": "2026-09-21 02:31",
+          "tags": []
+        },
+        {
+          "title": "Art of the Problem Launches $99 AI bot",
+          "url": "https://artoftheproblem.com/pages/growbot-preview",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://artoftheproblem.com/pages/growbot-preview Comments URL: https://news.ycombinator.com/item?id=49782392 Points: 2 # Comments: 2",
+          "published_at": "2026-09-21 02:28",
+          "tags": []
+        },
+        {
+          "title": "AI is breaking the academic sorting machine",
+          "url": "https://lemire.me/blog/2026/09/20/ai-is-breaking-the-academic-sorting-machine/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://lemire.me/blog/2026/09/20/ai-is-breaking-the-academic-sorting-machine/ Comments URL: https://news.ycombinator.com/item?id=49782268 Points: 1 # Comments: 0",
+          "published_at": "2026-09-21 02:09",
+          "tags": []
+        },
+        {
+          "title": "Can I Let My AI Agent Run on Shabbat?",
+          "url": "https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm Comments URL: https://news.ycombinator.com/item?id=49782242 Points: 24 # Comments: 12",
+          "published_at": "2026-09-21 02:05",
+          "tags": []
+        },
+        {
+          "title": "Why Bother with Lint Rules If AI Writes the Code?",
+          "url": "https://allstead.dev/blog/why-lint-when-ai-writes-the-code",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://allstead.dev/blog/why-lint-when-ai-writes-the-code Comments URL: https://news.ycombinator.com/item?id=49782185 Points: 1 # Comments: 4",
+          "published_at": "2026-09-21 01:56",
+          "tags": []
+        },
+        {
+          "title": "ZCode: Z.ai's coding agent harness. Powerful, intelligent, extensible",
+          "url": "https://github.com/zai-org/ZCode",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/zai-org/ZCode Comments URL: https://news.ycombinator.com/item?id=49782006 Points: 2 # Comments: 0",
+          "published_at": "2026-09-21 01:28",
+          "tags": []
+        },
+        {
+          "title": "Two similar AI judges fail together 7.7x more often than independence predicts",
+          "url": "https://github.com/LAWLESS1987/covenant",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/LAWLESS1987/covenant Comments URL: https://news.ycombinator.com/item?id=49781537 Points: 2 # Comments: 0",
+          "published_at": "2026-09-21 00:12",
+          "tags": []
+        },
+        {
+          "title": "A CERN for AI-assisted science",
+          "url": "https://terrytao.wordpress.com/2026/09/17/a-cern-for-ai-assisted-science/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://terrytao.wordpress.com/2026/09/17/a-cern-for-ai-assisted-science/ Comments URL: https://news.ycombinator.com/item?id=49781453 Points: 1 # Comments: 0",
+          "published_at": "2026-09-21 00:00",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Converting AVS audio viz to WebAssembly using GPT 5.6",
+          "url": "https://strlns.github.io/very-serious-vibecoding/AVS-Web-Native-Editor-Alpha/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://strlns.github.io/very-serious-vibecoding/AVS-Web-Native-Editor-Alpha/ Comments URL: https://news.ycombinator.com/item?id=49781443 Points: 1 # Comments: 0",
+          "published_at": "2026-09-20 23:58",
+          "tags": []
+        },
+        {
+          "title": "AI Netscape – 1997 Chrome, 2026 AI",
+          "url": "https://ainetscape.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://ainetscape.com/ Comments URL: https://news.ycombinator.com/item?id=49781212 Points: 2 # Comments: 2",
+          "published_at": "2026-09-20 23:28",
+          "tags": []
+        },
+        {
+          "title": "My AI Kept Pushing Me to Ship, So I Asked It Why",
+          "url": "https://www.oreilly.com/radar/my-ai-kept-pushing-me-to-ship-so-i-asked-it-why/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.oreilly.com/radar/my-ai-kept-pushing-me-to-ship-so-i-asked-it-why/ Comments URL: https://news.ycombinator.com/item?id=49781131 Points: 3 # Comments: 0",
+          "published_at": "2026-09-20 23:18",
+          "tags": []
+        },
+        {
+          "title": "Navier-Stokes, AI, Future of Mathematics with Martin Hairer (2014 Fields Medal) [video]",
+          "url": "https://www.youtube.com/watch?v=G8HMa_tgM34",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=G8HMa_tgM34 Comments URL: https://news.ycombinator.com/item?id=49781113 Points: 1 # Comments: 0",
+          "published_at": "2026-09-20 23:15",
+          "tags": []
+        },
+        {
+          "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "source": "The Verge AI",
+          "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the [&#8230;]",
+          "published_at": "2026-09-20 14:50",
+          "tags": [
+            "AI",
+            "News",
+            "Nvidia",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Trump now says he wants to form an ‘AI Force’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+          "source": "The Verge AI",
+          "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He posted that his administration \"will not in any way hinder [&#8230;]",
+          "published_at": "2026-09-20 11:39",
+          "tags": [
+            "AI",
+            "News",
+            "Policy",
+            "Politics"
+          ]
+        },
+        {
+          "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+          "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+          "source": "TechCrunch AI",
+          "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+          "published_at": "2026-09-19 13:00",
+          "tags": [
+            "AI",
+            "Andreessen Horowitz",
+            "Startups"
+          ]
+        }
+      ]
+    }
+  ]
+}
