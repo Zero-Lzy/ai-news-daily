@@ -1,5 +1,168 @@
 [
   {
+    "title": "OpenAI Urges U.S. Government to Create Global AI-Safety Standards",
+    "url": "https://www.wsj.com/tech/ai/openai-urges-u-s-government-to-create-global-ai-safety-standards-a8afba96",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/openai-urges-u-s-government-to-create-global-ai-safety-standards-a8afba96 Comments URL: https://news.ycombinator.com/item?id=49790721 Points: 2 # Comments: 0",
+    "published_at": "2026-09-21 17:50",
+    "tags": [],
+    "fetch_date": "2026-09-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Zerfoo – a pure Go framework for creating, training and running AI models",
+    "url": "https://zer.foo",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://zer.foo Comments URL: https://news.ycombinator.com/item?id=49790599 Points: 1 # Comments: 0",
+    "published_at": "2026-09-21 17:42",
+    "tags": [],
+    "fetch_date": "2026-09-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: FearGate – AI Fear Machine",
+    "url": "https://feargate.org/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://feargate.org/ Comments URL: https://news.ycombinator.com/item?id=49790564 Points: 2 # Comments: 1",
+    "published_at": "2026-09-21 17:40",
+    "tags": [],
+    "fetch_date": "2026-09-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The AI Agent Landscape – September 2026",
+    "url": "https://thebeach.dev/posts/the-agent-landscape-september-2026/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://thebeach.dev/posts/the-agent-landscape-september-2026/ Comments URL: https://news.ycombinator.com/item?id=49790420 Points: 1 # Comments: 0",
+    "published_at": "2026-09-21 17:31",
+    "tags": [],
+    "fetch_date": "2026-09-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ask HN: Formatting Guidelines for LLM Comments",
+    "url": "https://news.ycombinator.com/item?id=49790384",
+    "source": "Hacker News AI",
+    "summary": "Does any prompt or system exist which addresses this issue?I tend to write my code comments in a very idiosyncratic way, and LLMs either don't understand that (nor do I expect them to), or it isn't much worth explaining. I'm fine with normal LLM comments, but publishing to production means I often have to do a lot of manual clean up with comments when committing code, and that's tedious.It would even be fine if LLMs all commented the same, but they don't. I actually like the way some LLMs commen",
+    "published_at": "2026-09-21 17:27",
+    "tags": [],
+    "fetch_date": "2026-09-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Building standards for the next phase of AI",
+    "url": "https://openai.com/index/building-standards-next-phase-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://openai.com/index/building-standards-next-phase-ai/ Comments URL: https://news.ycombinator.com/item?id=49790253 Points: 1 # Comments: 0",
+    "published_at": "2026-09-21 17:18",
+    "tags": [],
+    "fetch_date": "2026-09-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Skyportal CLI: What happens when an AI agent needs approval",
+    "url": "https://pypi.org/project/skyportalai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://pypi.org/project/skyportalai/ Comments URL: https://news.ycombinator.com/item?id=49790232 Points: 1 # Comments: 0",
+    "published_at": "2026-09-21 17:16",
+    "tags": [],
+    "fetch_date": "2026-09-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "How do I talk about using AI without sounding like an AI evangelist?",
+    "url": "https://www.askamanager.org/2026/09/how-do-i-talk-about-using-ai-without-sounding-like-an-ai-evangelist.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.askamanager.org/2026/09/how-do-i-talk-about-using-ai-without-sounding-like-an-ai-evangelist.html Comments URL: https://news.ycombinator.com/item?id=49790013 Points: 1 # Comments: 0",
+    "published_at": "2026-09-21 17:02",
+    "tags": [],
+    "fetch_date": "2026-09-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+    "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+    "source": "TechCrunch AI",
+    "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
+    "published_at": "2026-09-21 16:38",
+    "tags": [
+      "AI",
+      "Startup Battlefield 200"
+    ],
+    "fetch_date": "2026-09-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "WTF Is Up with Napster's AI Pivot?",
+    "url": "https://tedium.co/2026/09/21/napster-ai-pivot/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://tedium.co/2026/09/21/napster-ai-pivot/ Comments URL: https://news.ycombinator.com/item?id=49789497 Points: 2 # Comments: 0",
+    "published_at": "2026-09-21 16:31",
+    "tags": [],
+    "fetch_date": "2026-09-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Amazon Blocks Meta's Muse AI Agent from Its Retail Site",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-21/amazon-blocks-meta-s-muse-ai-agent-from-its-retail-site",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-21/amazon-blocks-meta-s-muse-ai-agent-from-its-retail-site Comments URL: https://news.ycombinator.com/item?id=49789359 Points: 3 # Comments: 1",
+    "published_at": "2026-09-21 16:22",
+    "tags": [],
+    "fetch_date": "2026-09-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
+    "published_at": "2026-09-21 15:00",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "Startups",
+      "Venture",
+      "Benchmark",
+      "TechCrunch Disrupt"
+    ],
+    "fetch_date": "2026-09-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+    "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+    "source": "The Verge AI",
+    "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th, 2024, and [&#8230;]",
+    "published_at": "2026-09-21 09:36",
+    "tags": [
+      "AI",
+      "Apple",
+      "iPhone",
+      "News",
+      "Policy",
+      "Tech"
+    ],
+    "fetch_date": "2026-09-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "UN says AI safeguards can’t wait for certainty",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+    "source": "The Verge AI",
+    "summary": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global diplomatic agenda this week as leaders gather in New York [&#8230;]",
+    "published_at": "2026-09-21 06:18",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI",
+      "Policy",
+      "Politics"
+    ],
+    "fetch_date": "2026-09-22",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "The president wanted to unleash AI. Then came Anthropic",
     "url": "https://www.politico.com/news/magazine/2026/09/20/anthropic-white-house-ai-01085212",
     "source": "Hacker News AI",
@@ -34815,240 +34978,6 @@
       "SEO"
     ],
     "fetch_date": "2026-05-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
-    "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
-    "source": "TechCrunch AI",
-    "summary": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
-    "published_at": "2026-05-27 16:00",
-    "tags": [
-      "AI",
-      "Startups",
-      "ai coding",
-      "cognition",
-      "Devin"
-    ],
-    "fetch_date": "2026-05-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup",
-    "url": "https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/",
-    "source": "TechCrunch AI",
-    "summary": "Today is the final day to apply or nominate a startup for Startup Battlefield 200. Once the clock strikes 11:59 p.m. PT, the window closes on your chance to compete for $100,000 in equity-free funding, gain global visibility, connect directly with investors, and launch on the TechCrunch Disrupt stage.",
-    "published_at": "2026-05-27 14:15",
-    "tags": [
-      "TC",
-      "Startups",
-      "Hardware",
-      "Crypto",
-      "Climate",
-      "Fintech",
-      "Biotech & Health",
-      "Venture",
-      "Media & Entertainment",
-      "AI",
-      "Apps",
-      "Gadgets",
-      "Robotics",
-      "Fundraising",
-      "Startup Battlefield",
-      "TechCrunch Disrupt 2026"
-    ],
-    "fetch_date": "2026-05-27",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "SOND, a sleep tech startup from Bose’s former head of sleep, exits stealth with $7M",
-    "url": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
-    "source": "TechCrunch AI",
-    "summary": "SOND, a startup led by Bose’s former head of sleep products, emerged from stealth with $7M in funding for its AI-powered sleep earbuds.",
-    "published_at": "2026-05-27 14:00",
-    "tags": [
-      "TC",
-      "Startups",
-      "Hardware",
-      "AI",
-      "sleepbuds",
-      "sleep earbuds",
-      "sond",
-      "ai sleep coach"
-    ],
-    "fetch_date": "2026-05-27",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "TechCrunch Disrupt 2026 Early Bird ticket savings end in 3 days",
-    "url": "https://techcrunch.com/2026/05/27/techcrunch-disrupt-2026-early-bird-ticket-savings-end-in-3-days/",
-    "source": "TechCrunch AI",
-    "summary": "There are only 3 days left to save up to $410 on your ticket to TechCrunch Disrupt 2026. Early Bird pricing ends May 29 at 11:59 p.m. PT, and once the deadline passes, ticket prices increase. If you plan to attend one of the most influential gatherings in tech this year, now is the time to lock in your pass before rates go up again.",
-    "published_at": "2026-05-27 14:00",
-    "tags": [
-      "TC",
-      "Startups",
-      "Transportation",
-      "Security",
-      "Hardware",
-      "Crypto",
-      "Climate",
-      "Fintech",
-      "Biotech & Health",
-      "Venture",
-      "Media & Entertainment",
-      "AI",
-      "Apps",
-      "Government & Policy",
-      "Robotics",
-      "Fundraising",
-      "TechCrunch Disrupt 2026"
-    ],
-    "fetch_date": "2026-05-27",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "China is increasingly keeping its best AI talent to itself",
-    "url": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
-    "source": "TechCrunch AI",
-    "summary": "China's AI boom is producing world-class talent, and Beijing is increasingly reluctant to let them go elsewhere.",
-    "published_at": "2026-05-27 13:48",
-    "tags": [
-      "AI",
-      "Government & Policy",
-      "China",
-      "travel ban"
-    ],
-    "fetch_date": "2026-05-27",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "YouTube will now automatically label AI videos",
-    "url": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/",
-    "source": "TechCrunch AI",
-    "summary": "YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels more prominent.",
-    "published_at": "2026-05-27 13:00",
-    "tags": [
-      "TC",
-      "Media & Entertainment",
-      "AI",
-      "YouTube",
-      "media",
-      "Creators",
-      "AI content"
-    ],
-    "fetch_date": "2026-05-27",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Robinhood now lets your AI agents trade stocks",
-    "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
-    "source": "TechCrunch AI",
-    "summary": "Robinhood will let users create a separate account with pre-loaded balance that an agent use to trade",
-    "published_at": "2026-05-27 12:30",
-    "tags": [
-      "Fintech",
-      "AI",
-      "payments",
-      "Robinhood",
-      "AI agents",
-      "AI stock trading"
-    ],
-    "fetch_date": "2026-05-27",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Tech CEOs are apparently suffering from AI psychosis",
-    "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-    "source": "TechCrunch AI",
-    "summary": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
-    "published_at": "2026-05-27 12:30",
-    "tags": [
-      "AI",
-      "Startups",
-      "Venture",
-      "ai psychosis",
-      "Box",
-      "Layoffs",
-      "tech layoffs"
-    ],
-    "fetch_date": "2026-05-27",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "This smart bird feeder captures more of my backyard drama",
-    "url": "https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review",
-    "source": "The Verge AI",
-    "summary": "Since moving to South Carolina's Lowcountry, I've been spellbound by the myriad of beautiful birds that share the coast with us - ospreys raising their babies in towering nests beside the road to my daughter's school, roseate spoonbills wading in the marsh on my morning walks, eagles circling over my son's tennis matches, and a [&#8230;]",
-    "published_at": "2026-05-27 10:00",
-    "tags": [
-      "AI",
-      "Cameras",
-      "Gadgets",
-      "Reviews",
-      "Smart Home Reviews",
-      "Tech"
-    ],
-    "fetch_date": "2026-05-27",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The AI fight brewing inside The New York Times",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/937689/new-york-times-tech-guild-ai-monitoring-performance-union-contract",
-    "source": "The Verge AI",
-    "summary": "How newsrooms should use AI - or if they should at all - has been a recurrent debate within the media industry over the last several years. Increasingly, these rules are being hammered out at the bargaining table between unions and publishers. Right now, employees at The New York Times are gearing up for a [&#8230;]",
-    "published_at": "2026-05-27 08:00",
-    "tags": [
-      "AI",
-      "Business",
-      "Creators",
-      "Labor",
-      "Tech"
-    ],
-    "fetch_date": "2026-05-27",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The Pope isn’t AGI-pilled",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions",
-    "source": "The Verge AI",
-    "summary": "On Monday, Pope Leo XIV unveiled an encyclical letter addressing the societal implications of artificial intelligence. The letter, titled Magnifica Humanitas, warned that the \"use of AI is never a purely technical matter: when it enters processes that affect people's lives, it touches on rights, opportunities, status and freedom.\" Alongside him was Anthropic cofounder and [&#8230;]",
-    "published_at": "2026-05-27 08:00",
-    "tags": [
-      "AI",
-      "Report"
-    ],
-    "fetch_date": "2026-05-27",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "FBI agent explains how easy it is to ID people posting AI porn without consent",
-    "url": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/ Comments URL: https://news.ycombinator.com/item?id=48289479 Points: 1 # Comments: 0",
-    "published_at": "2026-05-27 04:02",
-    "tags": [],
-    "fetch_date": "2026-05-27",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Booming AI chip demand helps create two new $1T club members",
-    "url": "https://www.bbc.com/news/articles/cnvp9dq0p3go",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.bbc.com/news/articles/cnvp9dq0p3go Comments URL: https://news.ycombinator.com/item?id=48289473 Points: 1 # Comments: 0",
-    "published_at": "2026-05-27 04:02",
-    "tags": [],
-    "fetch_date": "2026-05-27",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Bill Gates AI on AI (one month later)",
-    "url": "https://news.ycombinator.com/item?id=48289469",
-    "source": "Hacker News AI",
-    "summary": "# The Agentic Tidal Wave*To:* Executive Staff and Direct Reports *From:* Bill Gates *Date:* April 26, 2026Our vision for the last 20 years can be summarized in a succinct way. We saw that exponential improvements in cloud would make great software quite available. In the next 20 years the improvement in computer power will be outpaced by the exponential improvements in autonomous expert systems. Verifiable trust will be crucial to delivering the benefits of these advances.Most users of software ",
-    "published_at": "2026-05-27 04:01",
-    "tags": [],
-    "fetch_date": "2026-05-27",
     "fetch_label": "早报"
   }
 ]

@@ -1,0 +1,181 @@
+{
+  "date": "2026-09-22",
+  "runs": [
+    {
+      "label": "晚报",
+      "time": "2026-09-22 01:56:48",
+      "count": 17,
+      "articles": [
+        {
+          "title": "OpenAI Urges U.S. Government to Create Global AI-Safety Standards",
+          "url": "https://www.wsj.com/tech/ai/openai-urges-u-s-government-to-create-global-ai-safety-standards-a8afba96",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wsj.com/tech/ai/openai-urges-u-s-government-to-create-global-ai-safety-standards-a8afba96 Comments URL: https://news.ycombinator.com/item?id=49790721 Points: 2 # Comments: 0",
+          "published_at": "2026-09-21 17:50",
+          "tags": []
+        },
+        {
+          "title": "Zerfoo – a pure Go framework for creating, training and running AI models",
+          "url": "https://zer.foo",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://zer.foo Comments URL: https://news.ycombinator.com/item?id=49790599 Points: 1 # Comments: 0",
+          "published_at": "2026-09-21 17:42",
+          "tags": []
+        },
+        {
+          "title": "Show HN: FearGate – AI Fear Machine",
+          "url": "https://feargate.org/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://feargate.org/ Comments URL: https://news.ycombinator.com/item?id=49790564 Points: 2 # Comments: 1",
+          "published_at": "2026-09-21 17:40",
+          "tags": []
+        },
+        {
+          "title": "The AI Agent Landscape – September 2026",
+          "url": "https://thebeach.dev/posts/the-agent-landscape-september-2026/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://thebeach.dev/posts/the-agent-landscape-september-2026/ Comments URL: https://news.ycombinator.com/item?id=49790420 Points: 1 # Comments: 0",
+          "published_at": "2026-09-21 17:31",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: Formatting Guidelines for LLM Comments",
+          "url": "https://news.ycombinator.com/item?id=49790384",
+          "source": "Hacker News AI",
+          "summary": "Does any prompt or system exist which addresses this issue?I tend to write my code comments in a very idiosyncratic way, and LLMs either don't understand that (nor do I expect them to), or it isn't much worth explaining. I'm fine with normal LLM comments, but publishing to production means I often have to do a lot of manual clean up with comments when committing code, and that's tedious.It would even be fine if LLMs all commented the same, but they don't. I actually like the way some LLMs commen",
+          "published_at": "2026-09-21 17:27",
+          "tags": []
+        },
+        {
+          "title": "Big AI to humanity: drop dead",
+          "url": "https://matthewbutterick.com/chron/drop-dead.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://matthewbutterick.com/chron/drop-dead.html Comments URL: https://news.ycombinator.com/item?id=49790322 Points: 3 # Comments: 0",
+          "published_at": "2026-09-21 17:23",
+          "tags": []
+        },
+        {
+          "title": "Building standards for the next phase of AI",
+          "url": "https://openai.com/index/building-standards-next-phase-ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://openai.com/index/building-standards-next-phase-ai/ Comments URL: https://news.ycombinator.com/item?id=49790253 Points: 1 # Comments: 0",
+          "published_at": "2026-09-21 17:18",
+          "tags": []
+        },
+        {
+          "title": "Skyportal CLI: What happens when an AI agent needs approval",
+          "url": "https://pypi.org/project/skyportalai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://pypi.org/project/skyportalai/ Comments URL: https://news.ycombinator.com/item?id=49790232 Points: 1 # Comments: 0",
+          "published_at": "2026-09-21 17:16",
+          "tags": []
+        },
+        {
+          "title": "How do I talk about using AI without sounding like an AI evangelist?",
+          "url": "https://www.askamanager.org/2026/09/how-do-i-talk-about-using-ai-without-sounding-like-an-ai-evangelist.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.askamanager.org/2026/09/how-do-i-talk-about-using-ai-without-sounding-like-an-ai-evangelist.html Comments URL: https://news.ycombinator.com/item?id=49790013 Points: 1 # Comments: 0",
+          "published_at": "2026-09-21 17:02",
+          "tags": []
+        },
+        {
+          "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+          "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+          "source": "TechCrunch AI",
+          "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
+          "published_at": "2026-09-21 16:38",
+          "tags": [
+            "AI",
+            "Startup Battlefield 200"
+          ]
+        },
+        {
+          "title": "WTF Is Up with Napster's AI Pivot?",
+          "url": "https://tedium.co/2026/09/21/napster-ai-pivot/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://tedium.co/2026/09/21/napster-ai-pivot/ Comments URL: https://news.ycombinator.com/item?id=49789497 Points: 2 # Comments: 0",
+          "published_at": "2026-09-21 16:31",
+          "tags": []
+        },
+        {
+          "title": "Amazon Blocks Meta's Muse AI Agent from Its Retail Site",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-21/amazon-blocks-meta-s-muse-ai-agent-from-its-retail-site",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-21/amazon-blocks-meta-s-muse-ai-agent-from-its-retail-site Comments URL: https://news.ycombinator.com/item?id=49789359 Points: 3 # Comments: 1",
+          "published_at": "2026-09-21 16:22",
+          "tags": []
+        },
+        {
+          "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+          "source": "TechCrunch AI",
+          "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
+          "published_at": "2026-09-21 15:00",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Startups",
+            "Venture",
+            "Benchmark",
+            "TechCrunch Disrupt"
+          ]
+        },
+        {
+          "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+          "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+          "source": "The Verge AI",
+          "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th, 2024, and [&#8230;]",
+          "published_at": "2026-09-21 09:36",
+          "tags": [
+            "AI",
+            "Apple",
+            "iPhone",
+            "News",
+            "Policy",
+            "Tech"
+          ]
+        },
+        {
+          "title": "UN says AI safeguards can’t wait for certainty",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+          "source": "The Verge AI",
+          "summary": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global diplomatic agenda this week as leaders gather in New York [&#8230;]",
+          "published_at": "2026-09-21 06:18",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI",
+            "Policy",
+            "Politics"
+          ]
+        },
+        {
+          "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "source": "The Verge AI",
+          "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the [&#8230;]",
+          "published_at": "2026-09-20 14:50",
+          "tags": [
+            "AI",
+            "News",
+            "Nvidia",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Trump now says he wants to form an ‘AI Force’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+          "source": "The Verge AI",
+          "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He posted that his administration \"will not in any way hinder [&#8230;]",
+          "published_at": "2026-09-20 11:39",
+          "tags": [
+            "AI",
+            "News",
+            "Policy",
+            "Politics"
+          ]
+        }
+      ]
+    }
+  ]
+}
