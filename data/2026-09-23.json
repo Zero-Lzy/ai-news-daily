@@ -1,0 +1,198 @@
+{
+  "date": "2026-09-23",
+  "runs": [
+    {
+      "label": "晚报",
+      "time": "2026-09-23 00:26:04",
+      "count": 13,
+      "articles": [
+        {
+          "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+          "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+          "source": "TechCrunch AI",
+          "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 before Sept 25.",
+          "published_at": "2026-09-22 15:00",
+          "tags": [
+            "TC",
+            "Startups",
+            "AI",
+            "Robotics",
+            "Okta",
+            "AWS",
+            "nvidia",
+            "TechCrunch Disrupt",
+            "Anthropic",
+            "Waabi",
+            "shield ai"
+          ]
+        },
+        {
+          "title": "AstroForge is putting AI in command of its next spacecraft",
+          "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+          "source": "TechCrunch AI",
+          "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+          "published_at": "2026-09-22 15:00",
+          "tags": [
+            "AI",
+            "Space",
+            "astroforge",
+            "Exclusive",
+            "space startups"
+          ]
+        },
+        {
+          "title": "Everyone can find a reason to dislike data center construction",
+          "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+          "source": "TechCrunch AI",
+          "summary": "Inside two years of fraught AI data center debates in Pennsylvania.",
+          "published_at": "2026-09-22 13:00",
+          "tags": [
+            "AI",
+            "data centers"
+          ]
+        },
+        {
+          "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+          "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+          "source": "TechCrunch AI",
+          "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
+          "published_at": "2026-09-22 12:23",
+          "tags": [
+            "AI",
+            "ai data centers",
+            "IPO",
+            "neocloud",
+            "nscale"
+          ]
+        },
+        {
+          "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+          "source": "The Verge AI",
+          "summary": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, and transgender people while also claiming that the US is now \"officially\" renaming artificial intelligence to \"super intelligence.\" Oddly, this wasn't one of the entries in the poll Trump posted a few days ago when he started [&#8230;]",
+          "published_at": "2026-09-22 12:01",
+          "tags": [
+            "AI",
+            "News",
+            "Policy",
+            "Politics"
+          ]
+        },
+        {
+          "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+          "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+          "source": "TechCrunch AI",
+          "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+          "published_at": "2026-09-21 23:44",
+          "tags": [
+            "AI",
+            "Commerce",
+            "agentic commerce",
+            "Apple",
+            "apple stores",
+            "ron johnson"
+          ]
+        },
+        {
+          "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+          "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+          "source": "TechCrunch AI",
+          "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+          "published_at": "2026-09-21 20:15",
+          "tags": [
+            "AI",
+            "mathematics",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Meta’s AI agent has been blocked from using Amazon.com",
+          "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
+          "published_at": "2026-09-21 17:55",
+          "tags": [
+            "AI",
+            "Amazon",
+            "In Brief",
+            "Meta",
+            "muse"
+          ]
+        },
+        {
+          "title": "California tightens rules on AI data center energy and water use",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+          "source": "The Verge AI",
+          "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers while forcing them to pay for upgrades to [&#8230;]",
+          "published_at": "2026-09-21 16:29",
+          "tags": [
+            "AI",
+            "News",
+            "Policy",
+            "Politics"
+          ]
+        },
+        {
+          "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+          "source": "TechCrunch AI",
+          "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
+          "published_at": "2026-09-21 15:00",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Startups",
+            "Venture",
+            "Benchmark",
+            "TechCrunch Disrupt"
+          ]
+        },
+        {
+          "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+          "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+          "source": "TechCrunch AI",
+          "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
+          "published_at": "2026-09-21 14:39",
+          "tags": [
+            "AI",
+            "Gadgets",
+            "chromebook",
+            "gemini",
+            "Google",
+            "googlebooks"
+          ]
+        },
+        {
+          "title": "Can John Ternus find Apple’s next big thing?",
+          "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+          "source": "The Verge AI",
+          "summary": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On.&#160; Earlier this month, Apple hosted its annual iPhone hardware event, virtually every detail of which was reported ahead of time by Mark. But this event was [&#8230;]",
+          "published_at": "2026-09-21 10:00",
+          "tags": [
+            "AI",
+            "Apple",
+            "Business",
+            "Decoder",
+            "iPhone",
+            "Podcasts",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Amazon blocks Meta’s Muse AI agent",
+          "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+          "source": "The Verge AI",
+          "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire, Meta didn't notify Amazon that [&#8230;]",
+          "published_at": "2026-09-21 05:21",
+          "tags": [
+            "AI",
+            "Amazon",
+            "Meta",
+            "News",
+            "Tech"
+          ]
+        }
+      ]
+    }
+  ]
+}

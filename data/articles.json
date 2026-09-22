@@ -1,5 +1,87 @@
 [
   {
+    "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+    "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+    "source": "TechCrunch AI",
+    "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 before Sept 25.",
+    "published_at": "2026-09-22 15:00",
+    "tags": [
+      "TC",
+      "Startups",
+      "AI",
+      "Robotics",
+      "Okta",
+      "AWS",
+      "nvidia",
+      "TechCrunch Disrupt",
+      "Anthropic",
+      "Waabi",
+      "shield ai"
+    ],
+    "fetch_date": "2026-09-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AstroForge is putting AI in command of its next spacecraft",
+    "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+    "source": "TechCrunch AI",
+    "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+    "published_at": "2026-09-22 15:00",
+    "tags": [
+      "AI",
+      "Space",
+      "astroforge",
+      "Exclusive",
+      "space startups"
+    ],
+    "fetch_date": "2026-09-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Everyone can find a reason to dislike data center construction",
+    "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+    "source": "TechCrunch AI",
+    "summary": "Inside two years of fraught AI data center debates in Pennsylvania.",
+    "published_at": "2026-09-22 13:00",
+    "tags": [
+      "AI",
+      "data centers"
+    ],
+    "fetch_date": "2026-09-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+    "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+    "source": "TechCrunch AI",
+    "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
+    "published_at": "2026-09-22 12:23",
+    "tags": [
+      "AI",
+      "ai data centers",
+      "IPO",
+      "neocloud",
+      "nscale"
+    ],
+    "fetch_date": "2026-09-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+    "source": "The Verge AI",
+    "summary": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, and transgender people while also claiming that the US is now \"officially\" renaming artificial intelligence to \"super intelligence.\" Oddly, this wasn't one of the entries in the poll Trump posted a few days ago when he started [&#8230;]",
+    "published_at": "2026-09-22 12:01",
+    "tags": [
+      "AI",
+      "News",
+      "Policy",
+      "Politics"
+    ],
+    "fetch_date": "2026-09-23",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "I Built an AI Dating Assistant Because Swiping Is Statistically Inefficient",
     "url": "https://medium.com/@mgcblee/i-built-an-ai-dating-assistant-because-swiping-is-statistically-inefficient-bdafd31c0738",
     "source": "Hacker News AI",
@@ -130,6 +212,23 @@
     "fetch_label": "早报"
   },
   {
+    "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+    "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+    "source": "TechCrunch AI",
+    "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+    "published_at": "2026-09-21 23:44",
+    "tags": [
+      "AI",
+      "Commerce",
+      "agentic commerce",
+      "Apple",
+      "apple stores",
+      "ron johnson"
+    ],
+    "fetch_date": "2026-09-23",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
     "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
     "source": "TechCrunch AI",
@@ -142,6 +241,22 @@
     ],
     "fetch_date": "2026-09-22",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Meta’s AI agent has been blocked from using Amazon.com",
+    "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+    "source": "TechCrunch AI",
+    "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
+    "published_at": "2026-09-21 17:55",
+    "tags": [
+      "AI",
+      "Amazon",
+      "In Brief",
+      "Meta",
+      "muse"
+    ],
+    "fetch_date": "2026-09-23",
+    "fetch_label": "晚报"
   },
   {
     "title": "OpenAI Urges U.S. Government to Create Global AI-Safety Standards",
@@ -247,6 +362,21 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "California tightens rules on AI data center energy and water use",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+    "source": "The Verge AI",
+    "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers while forcing them to pay for upgrades to [&#8230;]",
+    "published_at": "2026-09-21 16:29",
+    "tags": [
+      "AI",
+      "News",
+      "Policy",
+      "Politics"
+    ],
+    "fetch_date": "2026-09-23",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Amazon Blocks Meta's Muse AI Agent from Its Retail Site",
     "url": "https://www.bloomberg.com/news/articles/2026-09-21/amazon-blocks-meta-s-muse-ai-agent-from-its-retail-site",
     "source": "Hacker News AI",
@@ -271,6 +401,23 @@
       "TechCrunch Disrupt"
     ],
     "fetch_date": "2026-09-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+    "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+    "source": "TechCrunch AI",
+    "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
+    "published_at": "2026-09-21 14:39",
+    "tags": [
+      "AI",
+      "Gadgets",
+      "chromebook",
+      "gemini",
+      "Google",
+      "googlebooks"
+    ],
+    "fetch_date": "2026-09-23",
     "fetch_label": "晚报"
   },
   {
@@ -322,6 +469,22 @@
       "Politics"
     ],
     "fetch_date": "2026-09-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Amazon blocks Meta’s Muse AI agent",
+    "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+    "source": "The Verge AI",
+    "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire, Meta didn't notify Amazon that [&#8230;]",
+    "published_at": "2026-09-21 05:21",
+    "tags": [
+      "AI",
+      "Amazon",
+      "Meta",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-09-23",
     "fetch_label": "晚报"
   },
   {
@@ -34797,167 +34960,6 @@
       "ai apps",
       "conversational AI",
       "sesame"
-    ],
-    "fetch_date": "2026-05-28",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
-    "url": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
-    "source": "TechCrunch AI",
-    "summary": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience powered and standalone Siri app.",
-    "published_at": "2026-05-28 14:45",
-    "tags": [
-      "AI",
-      "Apps",
-      "Apple",
-      "iOS 27",
-      "iPhone",
-      "siri"
-    ],
-    "fetch_date": "2026-05-28",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "RSI is the new AGI — and it’s just as hard to pin down",
-    "url": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
-    "source": "TechCrunch AI",
-    "summary": "A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive.",
-    "published_at": "2026-05-28 14:30",
-    "tags": [
-      "AI",
-      "Adaption",
-      "AGI",
-      "Alex Karpathy",
-      "artificial intelligence",
-      "neolab",
-      "RSI"
-    ],
-    "fetch_date": "2026-05-28",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
-    "url": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
-    "source": "TechCrunch AI",
-    "summary": "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly.",
-    "published_at": "2026-05-28 14:30",
-    "tags": [
-      "Enterprise",
-      "Startups",
-      "AI",
-      "Databricks",
-      "TechCrunch Disrupt 2026"
-    ],
-    "fetch_date": "2026-05-28",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’",
-    "url": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/",
-    "source": "TechCrunch AI",
-    "summary": "The update signals YouTube's ongoing efforts to compete with other platforms for podcast audiences.",
-    "published_at": "2026-05-28 14:28",
-    "tags": [
-      "AI",
-      "Apps",
-      "podcasts",
-      "YouTube"
-    ],
-    "fetch_date": "2026-05-28",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Visa invests in Replit to power agentic payments for developers",
-    "url": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
-    "source": "TechCrunch AI",
-    "summary": "Visa said that over 1,000 employees have been using Replit for prototyping and development.",
-    "published_at": "2026-05-28 14:00",
-    "tags": [
-      "AI",
-      "TC",
-      "agentic payments",
-      "Replit",
-      "visa"
-    ],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Claude’s new model is more ‘honest’ when it messes up",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
-    "source": "The Verge AI",
-    "summary": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI models is that they sometimes jump to conclusions, [&#8230;]",
-    "published_at": "2026-05-28 13:00",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "News"
-    ],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "A $2,000 AI-generated film will make its debut at Tribeca",
-    "url": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca",
-    "source": "The Verge AI",
-    "summary": "Next month's Tribeca Festival will include the premiere of an AI-generated film: Dreams of Violets. The 75-minute film is a fictional dramatization of the Iranian government's mass killing of protestors in January, with the people and images fully created by AI, as reported earlier by The Hollywood Reporter. Dreams of Violets cost $2,000 to make [&#8230;]",
-    "published_at": "2026-05-28 12:08",
-    "tags": [
-      "AI",
-      "Entertainment",
-      "Film"
-    ],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "These new iOS 27 renders hint at Siri’s big redesign",
-    "url": "https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg",
-    "source": "The Verge AI",
-    "summary": "Apple's long-awaited Siri overhaul, expected to arrive in iOS 27, might look a lot like ChatGPT with a splash of Liquid Glass. Renders from Bloomberg offer a preview of iOS 27, including the new app and chat interface for Siri. The renders are \"based on information viewed by Bloomberg and people with knowledge of [Apple's] [&#8230;]",
-    "published_at": "2026-05-28 10:33",
-    "tags": [
-      "AI",
-      "Apple",
-      "Apple Rumors",
-      "iOS",
-      "News",
-      "Tech"
-    ],
-    "fetch_date": "2026-05-28",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "CNN sues Perplexity over ‘verbatim’ copycat articles",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit",
-    "source": "The Verge AI",
-    "summary": "CNN has filed a lawsuit against Perplexity, claiming that the startup's AI tools generate \"verbatim\" copies of its work, as reported earlier by CNN. The lawsuit, filed in a New York court on Thursday, also alleges that Perplexity provides users with information locked behind CNN's subscription. Perplexity, which offers an AI \"answer\" engine along with [&#8230;]",
-    "published_at": "2026-05-28 10:08",
-    "tags": [
-      "AI",
-      "Copyright",
-      "Law",
-      "News",
-      "Policy"
-    ],
-    "fetch_date": "2026-05-28",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Rivian’s software chief thinks you don&#8217;t need CarPlay or buttons",
-    "url": "https://www.theverge.com/podcast/929940/rivian-wassym-bensaid-software-volkswagen-carplay-assistant-ai",
-    "source": "The Verge AI",
-    "summary": "Today, I’m talking with Wassym Bensaid, the chief software officer at Rivian, and the co-CEO of Rivian’s platform joint venture with Volkswagen, which everyone just calls RV Tech. That joint venture kicked off about a year and a half ago with a nearly $6 billion investment from Volkswagen. It effectively puts Wassym in charge of [&#8230;]",
-    "published_at": "2026-05-28 10:00",
-    "tags": [
-      "AI",
-      "Cars",
-      "Decoder",
-      "Electric Cars",
-      "Podcasts",
-      "Tech",
-      "Transportation"
     ],
     "fetch_date": "2026-05-28",
     "fetch_label": "晚报"
