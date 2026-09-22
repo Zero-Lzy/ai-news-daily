@@ -1,5 +1,149 @@
 [
   {
+    "title": "I Built an AI Dating Assistant Because Swiping Is Statistically Inefficient",
+    "url": "https://medium.com/@mgcblee/i-built-an-ai-dating-assistant-because-swiping-is-statistically-inefficient-bdafd31c0738",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://medium.com/@mgcblee/i-built-an-ai-dating-assistant-because-swiping-is-statistically-inefficient-bdafd31c0738 Comments URL: https://news.ycombinator.com/item?id=49796609 Points: 1 # Comments: 0",
+    "published_at": "2026-09-22 03:50",
+    "tags": [],
+    "fetch_date": "2026-09-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "ArtifactBench: Evaluating AI Music Detectors Under Distribution Shift",
+    "url": "https://arxiv.org/abs/2609.23550",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2609.23550 Comments URL: https://news.ycombinator.com/item?id=49796472 Points: 1 # Comments: 0",
+    "published_at": "2026-09-22 03:25",
+    "tags": [],
+    "fetch_date": "2026-09-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Amazon blocks Meta's Muse AI assistant",
+    "url": "https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/ Comments URL: https://news.ycombinator.com/item?id=49796340 Points: 1 # Comments: 0",
+    "published_at": "2026-09-22 03:03",
+    "tags": [],
+    "fetch_date": "2026-09-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "China's AI Realism Is Not Conspiracy",
+    "url": "https://www.fredgao.com/p/chinas-ai-realism-is-not-conspiracy",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.fredgao.com/p/chinas-ai-realism-is-not-conspiracy Comments URL: https://news.ycombinator.com/item?id=49796331 Points: 1 # Comments: 0",
+    "published_at": "2026-09-22 03:01",
+    "tags": [],
+    "fetch_date": "2026-09-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Francis Fukuyama: Why I Changed My Mind About AI Risk",
+    "url": "https://www.persuasion.community/p/why-i-changed-my-mind-about-ai-risk",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.persuasion.community/p/why-i-changed-my-mind-about-ai-risk Comments URL: https://news.ycombinator.com/item?id=49796300 Points: 2 # Comments: 0",
+    "published_at": "2026-09-22 02:54",
+    "tags": [],
+    "fetch_date": "2026-09-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "A 7B fact-checker beat 30B LLM reviewers and deleted no true claims",
+    "url": "https://openteams.com/llm-review-reliability/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://openteams.com/llm-review-reliability/ Comments URL: https://news.ycombinator.com/item?id=49796056 Points: 3 # Comments: 0",
+    "published_at": "2026-09-22 02:18",
+    "tags": [],
+    "fetch_date": "2026-09-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Vibes vs. Evidence: What delivers AI code review quality",
+    "url": "https://dsifry.github.io/harnesseval/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://dsifry.github.io/harnesseval/ Comments URL: https://news.ycombinator.com/item?id=49796016 Points: 3 # Comments: 0",
+    "published_at": "2026-09-22 02:12",
+    "tags": [],
+    "fetch_date": "2026-09-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "I built an autonomous accounting tool to let AI do my taxes",
+    "url": "https://github.com/CodeGameDev29/KFAutonomousAccounting",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/CodeGameDev29/KFAutonomousAccounting Comments URL: https://news.ycombinator.com/item?id=49795855 Points: 4 # Comments: 1",
+    "published_at": "2026-09-22 01:45",
+    "tags": [],
+    "fetch_date": "2026-09-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask HN: Ceremonious Architecture in Times of AI",
+    "url": "https://news.ycombinator.com/item?id=49795847",
+    "source": "Hacker News AI",
+    "summary": "There's extensive literature on several software architecture patterns and styles whose benefits are well known, but which are often ignored due to the cost of their boilerplatic layers and abstractions.For example: Domain-Driven Design is cool, but it probably won't be applied to a CRUD-heavy startup backend; Clean Architecture is great, but defining a database schema via some annotations on entity fields is simpler and faster.It's clear that having a single `FooService` mapped to endpoints and",
+    "published_at": "2026-09-22 01:44",
+    "tags": [],
+    "fetch_date": "2026-09-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "We're Using AI Wrong. The Chat Window Sucks",
+    "url": "https://www.stclair.ai/blog/the-chat-window.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.stclair.ai/blog/the-chat-window.html Comments URL: https://news.ycombinator.com/item?id=49795841 Points: 1 # Comments: 0",
+    "published_at": "2026-09-22 01:44",
+    "tags": [],
+    "fetch_date": "2026-09-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Outages across API, Grok.com, and Grok Build – API (us-east-1.api.x.ai) Status",
+    "url": "https://status.x.ai/api-us-east-1/INC578e0bc8",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://status.x.ai/api-us-east-1/INC578e0bc8 Comments URL: https://news.ycombinator.com/item?id=49795747 Points: 2 # Comments: 0",
+    "published_at": "2026-09-22 01:28",
+    "tags": [],
+    "fetch_date": "2026-09-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "First NetHack Ascension by an LLM",
+    "url": "https://www.hardfought.org/userdata/C/CodexDelver/nethack/dumplog/1788964024.nh.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.hardfought.org/userdata/C/CodexDelver/nethack/dumplog/1788964024.nh.html Comments URL: https://news.ycombinator.com/item?id=49795393 Points: 2 # Comments: 0",
+    "published_at": "2026-09-22 00:38",
+    "tags": [],
+    "fetch_date": "2026-09-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "What We Should Do During a Pause on AI Development",
+    "url": "https://blog.saikat.us/p/what-we-should-do-during-a-pause",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.saikat.us/p/what-we-should-do-during-a-pause Comments URL: https://news.ycombinator.com/item?id=49795193 Points: 3 # Comments: 0",
+    "published_at": "2026-09-22 00:14",
+    "tags": [],
+    "fetch_date": "2026-09-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+    "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+    "source": "TechCrunch AI",
+    "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+    "published_at": "2026-09-21 20:15",
+    "tags": [
+      "AI",
+      "mathematics",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-09-22",
+    "fetch_label": "早报"
+  },
+  {
     "title": "OpenAI Urges U.S. Government to Create Global AI-Safety Standards",
     "url": "https://www.wsj.com/tech/ai/openai-urges-u-s-government-to-create-global-ai-safety-standards-a8afba96",
     "source": "Hacker News AI",
@@ -128,6 +272,24 @@
     ],
     "fetch_date": "2026-09-22",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Can John Ternus find Apple’s next big thing?",
+    "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+    "source": "The Verge AI",
+    "summary": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On.&#160; Earlier this month, Apple hosted its annual iPhone hardware event, virtually every detail of which was reported ahead of time by Mark. But this event was [&#8230;]",
+    "published_at": "2026-09-21 10:00",
+    "tags": [
+      "AI",
+      "Apple",
+      "Business",
+      "Decoder",
+      "iPhone",
+      "Podcasts",
+      "Tech"
+    ],
+    "fetch_date": "2026-09-22",
+    "fetch_label": "早报"
   },
   {
     "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
@@ -300,6 +462,22 @@
     "published_at": "2026-09-20 23:15",
     "tags": [],
     "fetch_date": "2026-09-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Is the AI industry really ready to slow down?",
+    "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+    "source": "TechCrunch AI",
+    "summary": "On Equity, we debated whether AI executives are serious about wanting to slow down.",
+    "published_at": "2026-09-20 18:56",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "dario amodei",
+      "Equity podcast",
+      "Jensen Huang"
+    ],
+    "fetch_date": "2026-09-22",
     "fetch_label": "早报"
   },
   {
@@ -34783,201 +34961,5 @@
     ],
     "fetch_date": "2026-05-28",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
-    "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
-    "source": "TechCrunch AI",
-    "summary": "Built on top of the open source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
-    "published_at": "2026-05-28 07:00",
-    "tags": [
-      "AI",
-      "Gadgets",
-      "Hardware",
-      "foldable smartphone",
-      "Hermes Agent",
-      "Vertu",
-      "Vertu Alphafold"
-    ],
-    "fetch_date": "2026-05-28",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "When everyone has access to the same AI models",
-    "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/from-ai-table-stakes-to-ai-advantage-building-competitive-moats",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.mckinsey.com/capabilities/quantumblack/our-insights/from-ai-table-stakes-to-ai-advantage-building-competitive-moats Comments URL: https://news.ycombinator.com/item?id=48304292 Points: 1 # Comments: 0",
-    "published_at": "2026-05-28 03:53",
-    "tags": [],
-    "fetch_date": "2026-05-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Ask HN: Burned out on AI and want to go part time",
-    "url": "https://news.ycombinator.com/item?id=48304035",
-    "source": "Hacker News AI",
-    "summary": "I’ve been in the industry for ten years and have been fortunate enough to build up enough savings to where I could work for substantially less than I make now.I’m so burned out on writing software and the never ending rat race that the industry has evolved into over the years that I’m at peace with quitting to do something part time so that I can focus on doing things just for myself that make me happy and give more of a sense of purpose that I feel is lacking in my life.Has anyone made a simila",
-    "published_at": "2026-05-28 03:17",
-    "tags": [],
-    "fetch_date": "2026-05-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Your Future job will be to keep AI on task",
-    "url": "https://www.noahpinion.blog/p/your-future-job-will-be-to-keep-ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.noahpinion.blog/p/your-future-job-will-be-to-keep-ai Comments URL: https://news.ycombinator.com/item?id=48303543 Points: 3 # Comments: 1",
-    "published_at": "2026-05-28 02:14",
-    "tags": [],
-    "fetch_date": "2026-05-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Safescript – A Language for AI Era",
-    "url": "https://safescript.cc/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://safescript.cc/ Comments URL: https://news.ycombinator.com/item?id=48303516 Points: 2 # Comments: 0",
-    "published_at": "2026-05-28 02:10",
-    "tags": [],
-    "fetch_date": "2026-05-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Pimmur, can LLM simulate human collective behavior?",
-    "url": "https://arxiv.org/abs/2509.18052",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://arxiv.org/abs/2509.18052 Comments URL: https://news.ycombinator.com/item?id=48303461 Points: 1 # Comments: 0",
-    "published_at": "2026-05-28 02:03",
-    "tags": [],
-    "fetch_date": "2026-05-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Zig 2026: No-AI Policy, $670K Foundation, Left GitHub and Why Zig Isn't 1.0 [video]",
-    "url": "https://www.youtube.com/watch?v=iqddnwKF8HQ",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.youtube.com/watch?v=iqddnwKF8HQ Comments URL: https://news.ycombinator.com/item?id=48303273 Points: 15 # Comments: 0",
-    "published_at": "2026-05-28 01:40",
-    "tags": [],
-    "fetch_date": "2026-05-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Dario Amodei warned of an AI white-collar bloodbath, now he's changing narrative",
-    "url": "https://fortune.com/2026/05/05/dario-amodei-jevons-paradox-will-ai-wipe-out-white-collar-jobs/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://fortune.com/2026/05/05/dario-amodei-jevons-paradox-will-ai-wipe-out-white-collar-jobs/ Comments URL: https://news.ycombinator.com/item?id=48303262 Points: 4 # Comments: 0",
-    "published_at": "2026-05-28 01:39",
-    "tags": [],
-    "fetch_date": "2026-05-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Do they know we can tell it's AI slop?",
-    "url": "https://news.ycombinator.com/item?id=48303252",
-    "source": "Hacker News AI",
-    "summary": "What do I do when the entrepreneurs I work for send out AI slop in their communications?I work for a great group of entrepreneurs as CTO/fCFO. They are all sales guys. In my childhood and professional career, I have seen so many toxic partnerships. I don’t waste any time on those anymore and I genuinely respect the guys I work for.So, to the main question, what do I do when it’s blatant that they are just copying AI slop from Grok or chatGPT? I notice it all the time. But I genuinely respect the",
-    "published_at": "2026-05-28 01:38",
-    "tags": [],
-    "fetch_date": "2026-05-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Cheats [pdf]",
-    "url": "https://metr.org/risk-report-feb-mar-2026.pdf",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://metr.org/risk-report-feb-mar-2026.pdf Comments URL: https://news.ycombinator.com/item?id=48302863 Points: 1 # Comments: 0",
-    "published_at": "2026-05-28 00:54",
-    "tags": [],
-    "fetch_date": "2026-05-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Why Google’s AI can’t spell Google (or anything else)",
-    "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
-    "source": "TechCrunch AI",
-    "summary": "Google is embarrassing itself, again.",
-    "published_at": "2026-05-28 00:17",
-    "tags": [
-      "AI",
-      "Google",
-      "spelling"
-    ],
-    "fetch_date": "2026-05-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The Authorization Paradox: Who Has the Keys to Your AI? [video]",
-    "url": "https://www.youtube.com/watch?v=5UUpxgcGKXk",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.youtube.com/watch?v=5UUpxgcGKXk Comments URL: https://news.ycombinator.com/item?id=48302451 Points: 2 # Comments: 0",
-    "published_at": "2026-05-28 00:00",
-    "tags": [],
-    "fetch_date": "2026-05-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Building the Future of Accessible Tech: Inside Uvilox AI",
-    "url": "https://uvilox-aiwebsite.pages.dev/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://uvilox-aiwebsite.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=48302269 Points: 3 # Comments: 0",
-    "published_at": "2026-05-27 23:37",
-    "tags": [],
-    "fetch_date": "2026-05-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
-    "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
-    "source": "TechCrunch AI",
-    "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
-    "published_at": "2026-05-27 20:10",
-    "tags": [
-      "Enterprise",
-      "TC",
-      "AI",
-      "Amazon",
-      "AWS",
-      "Snowflake",
-      "AI chips"
-    ],
-    "fetch_date": "2026-05-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
-    "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
-    "source": "TechCrunch AI",
-    "summary": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.",
-    "published_at": "2026-05-27 19:39",
-    "tags": [
-      "AI",
-      "AI adoption",
-      "Remote"
-    ],
-    "fetch_date": "2026-05-28",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Your SEO strategy is optimized for a search engine that no longer exists.",
-    "url": "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/",
-    "source": "TechCrunch AI",
-    "summary": "Google I/O made it official: AI-generated answers are now front and&#160;center&#160;in search, and most brands have almost no visibility into how AI is describing them to their customers.&#160;For anyone who has spent years building a strategy around 10 blue links, the rules just changed in a pretty significant way.&#160; On this episode of TechCrunch&#8217;s Equity podcast, Rebecca [&#8230;]",
-    "published_at": "2026-05-27 18:39",
-    "tags": [
-      "AI",
-      "Startups",
-      "AI agents",
-      "AI search",
-      "discoverability",
-      "Equity podcast",
-      "Geo",
-      "google io",
-      "Google Search",
-      "scrunch",
-      "SEO"
-    ],
-    "fetch_date": "2026-05-28",
-    "fetch_label": "早报"
   }
 ]
