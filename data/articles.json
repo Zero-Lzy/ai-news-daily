@@ -1,5 +1,161 @@
 [
   {
+    "title": "A Machine Beat Me at Chess. I'm Still Rooting for AI",
+    "url": "https://www.thenextmove.org/p/a-machine-beat-me-at-chess-im-still",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.thenextmove.org/p/a-machine-beat-me-at-chess-im-still Comments URL: https://news.ycombinator.com/item?id=49811408 Points: 1 # Comments: 0",
+    "published_at": "2026-09-23 03:46",
+    "tags": [],
+    "fetch_date": "2026-09-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+    "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/ Comments URL: https://news.ycombinator.com/item?id=49811361 Points: 1 # Comments: 1",
+    "published_at": "2026-09-23 03:38",
+    "tags": [],
+    "fetch_date": "2026-09-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Specs cut defects in AI-generated code from 148 to 23 across five models",
+    "url": "https://arxiv.org/abs/2609.23270",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2609.23270 Comments URL: https://news.ycombinator.com/item?id=49811333 Points: 1 # Comments: 0",
+    "published_at": "2026-09-23 03:33",
+    "tags": [],
+    "fetch_date": "2026-09-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "RGPU – Use a remote Nvidia GPU from PyTorch on a machine that has none",
+    "url": "https://rgpu.dev",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://rgpu.dev Comments URL: https://news.ycombinator.com/item?id=49811294 Points: 1 # Comments: 0",
+    "published_at": "2026-09-23 03:27",
+    "tags": [],
+    "fetch_date": "2026-09-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Emergent Collusion in Long-Horizon LLM Agent Interaction",
+    "url": "https://arxiv.org/abs/2609.24967",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2609.24967 Comments URL: https://news.ycombinator.com/item?id=49811171 Points: 1 # Comments: 0",
+    "published_at": "2026-09-23 03:07",
+    "tags": [],
+    "fetch_date": "2026-09-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "How to Create Your Own Personal AI Benchmark",
+    "url": "https://every.to/also-true-for-humans/how-to-create-your-own-personal-ai-benchmark",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://every.to/also-true-for-humans/how-to-create-your-own-personal-ai-benchmark Comments URL: https://news.ycombinator.com/item?id=49811036 Points: 2 # Comments: 0",
+    "published_at": "2026-09-23 02:48",
+    "tags": [],
+    "fetch_date": "2026-09-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Created a local AI to save data",
+    "url": "https://github.com/just-not-google/BiNeuron",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/just-not-google/BiNeuron Comments URL: https://news.ycombinator.com/item?id=49810817 Points: 1 # Comments: 0",
+    "published_at": "2026-09-23 02:12",
+    "tags": [],
+    "fetch_date": "2026-09-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Tsetlin Machine MNIST classifier running on a Tang Nano 9K FPGA board",
+    "url": "https://github.com/philtomson/hotc_examples/tree/main/examples/Tsetlin_hotstate_uart",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/philtomson/hotc_examples/tree/main/examples/Tsetlin_hotstate_uart Comments URL: https://news.ycombinator.com/item?id=49810651 Points: 2 # Comments: 1",
+    "published_at": "2026-09-23 01:45",
+    "tags": [],
+    "fetch_date": "2026-09-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "EN World Is Being DDoS'd by AI Bots",
+    "url": "https://www.enworld.org/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.enworld.org/ Comments URL: https://news.ycombinator.com/item?id=49810493 Points: 2 # Comments: 1",
+    "published_at": "2026-09-23 01:20",
+    "tags": [],
+    "fetch_date": "2026-09-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Trump says US will henceforth call AI 'super intelligence'",
+    "url": "https://www.reuters.com/legal/government/trump-says-us-will-henceforth-call-ai-super-intelligence-2026-09-22/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.reuters.com/legal/government/trump-says-us-will-henceforth-call-ai-super-intelligence-2026-09-22/ Comments URL: https://news.ycombinator.com/item?id=49810231 Points: 16 # Comments: 8",
+    "published_at": "2026-09-23 00:46",
+    "tags": [],
+    "fetch_date": "2026-09-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "I'm sick of Claudisms, & what will happen next in AI-boosted software dev",
+    "url": "https://www.polso.info/im-sick-of-claudisms-future-ai-software-development",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.polso.info/im-sick-of-claudisms-future-ai-software-development Comments URL: https://news.ycombinator.com/item?id=49810083 Points: 3 # Comments: 1",
+    "published_at": "2026-09-23 00:28",
+    "tags": [],
+    "fetch_date": "2026-09-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+    "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+    "source": "TechCrunch AI",
+    "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+    "published_at": "2026-09-22 20:00",
+    "tags": [
+      "AI",
+      "Hardware",
+      "Qualcomm"
+    ],
+    "fetch_date": "2026-09-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+    "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+    "source": "ArsTechnica AI",
+    "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+    "published_at": "2026-09-22 19:45",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "Security",
+      "AI ATTACK",
+      "chatbots",
+      "spam"
+    ],
+    "fetch_date": "2026-09-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+    "source": "The Verge AI",
+    "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac, and Linux devices. According to Rabbit, you can [&#8230;]",
+    "published_at": "2026-09-22 16:52",
+    "tags": [
+      "AI",
+      "Apps",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-09-23",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
     "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
     "source": "TechCrunch AI",
@@ -34776,192 +34932,5 @@
     "tags": [],
     "fetch_date": "2026-05-29",
     "fetch_label": "早报"
-  },
-  {
-    "title": "Dis Dat – Loom for AI coding agents",
-    "url": "https://disdat.dev",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://disdat.dev Comments URL: https://news.ycombinator.com/item?id=48317796 Points: 2 # Comments: 0",
-    "published_at": "2026-05-29 01:18",
-    "tags": [],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Are AI PowerPoint Tools Worth Using?",
-    "url": "https://smallppt.com/blog/ai-tools/genspark-alternatives",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://smallppt.com/blog/ai-tools/genspark-alternatives Comments URL: https://news.ycombinator.com/item?id=48317791 Points: 1 # Comments: 0",
-    "published_at": "2026-05-29 01:18",
-    "tags": [],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Microsoft data suggests using AI is more expensive than hiring people",
-    "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-data-suggests-using-ai-225900743.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://finance.yahoo.com/sectors/technology/articles/microsoft-data-suggests-using-ai-225900743.html Comments URL: https://news.ycombinator.com/item?id=48317563 Points: 32 # Comments: 3",
-    "published_at": "2026-05-29 00:49",
-    "tags": [],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
-    "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
-    "source": "TechCrunch AI",
-    "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
-    "published_at": "2026-05-29 00:44",
-    "tags": [
-      "AI",
-      "Enterprise",
-      "Startups",
-      "AI search",
-      "Glean",
-      "revenue"
-    ],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Kirkland Investing $500M in Proprietary AI System",
-    "url": "https://www.law.com/americanlawyer/2026/05/28/kirkland-investing-500m-in-proprietary-ai-system-to-support-client-work-start-to-finish/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.law.com/americanlawyer/2026/05/28/kirkland-investing-500m-in-proprietary-ai-system-to-support-client-work-start-to-finish/ Comments URL: https://news.ycombinator.com/item?id=48317509 Points: 2 # Comments: 0",
-    "published_at": "2026-05-29 00:42",
-    "tags": [],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Evaluating \"Co-Scientist\", a New AI Science System",
-    "url": "https://www.science.org/content/blog-post/evaluating-co-scientist-new-ai-science-system",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.science.org/content/blog-post/evaluating-co-scientist-new-ai-science-system Comments URL: https://news.ycombinator.com/item?id=48317507 Points: 1 # Comments: 0",
-    "published_at": "2026-05-29 00:42",
-    "tags": [],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI and the End of Recessions as We Know Them",
-    "url": "https://www.forbes.com/sites/brandonkochkodin/2026/05/28/ai-and-the-end-of-recessions-as-we-know-them/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.forbes.com/sites/brandonkochkodin/2026/05/28/ai-and-the-end-of-recessions-as-we-know-them/ Comments URL: https://news.ycombinator.com/item?id=48317347 Points: 2 # Comments: 0",
-    "published_at": "2026-05-29 00:17",
-    "tags": [],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "NBA to use AI for automatic out-of-bounds calls, Silver says",
-    "url": "https://www.reuters.com/sports/league-use-ai-objective-calls-silver-says-2026-05-28/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.reuters.com/sports/league-use-ai-objective-calls-silver-says-2026-05-28/ Comments URL: https://news.ycombinator.com/item?id=48317332 Points: 3 # Comments: 0",
-    "published_at": "2026-05-29 00:15",
-    "tags": [],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The internet is being rebuilt for machines",
-    "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
-    "source": "TechCrunch AI",
-    "summary": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
-    "published_at": "2026-05-28 21:24",
-    "tags": [
-      "AI",
-      "agentic search",
-      "AI agents",
-      "AWS",
-      "aws opensearch serverless"
-    ],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
-    "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
-    "source": "TechCrunch AI",
-    "summary": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
-    "published_at": "2026-05-28 18:52",
-    "tags": [
-      "AI",
-      "Fundraising",
-      "Anthropic",
-      "Claude",
-      "OpenAI"
-    ],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
-    "url": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
-    "source": "TechCrunch AI",
-    "summary": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth.",
-    "published_at": "2026-05-28 18:32",
-    "tags": [
-      "AI",
-      "AI futures",
-      "ai tokens",
-      "CME Group",
-      "commodities",
-      "Intercontinental Exchange"
-    ],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
-    "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
-    "source": "TechCrunch AI",
-    "summary": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents.",
-    "published_at": "2026-05-28 17:00",
-    "tags": [
-      "AI",
-      "TC",
-      "agent swarms",
-      "Anthropic",
-      "Claude",
-      "Opus"
-    ],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
-    "url": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
-    "source": "TechCrunch AI",
-    "summary": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.",
-    "published_at": "2026-05-28 15:36",
-    "tags": [
-      "AI",
-      "TC",
-      "Anthropic",
-      "compute",
-      "SpaceX",
-      "xAI"
-    ],
-    "fetch_date": "2026-05-28",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
-    "url": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
-    "source": "TechCrunch AI",
-    "summary": "Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a person.",
-    "published_at": "2026-05-28 15:35",
-    "tags": [
-      "AI",
-      "Apps",
-      "AI agents",
-      "ai apps",
-      "conversational AI",
-      "sesame"
-    ],
-    "fetch_date": "2026-05-28",
-    "fetch_label": "晚报"
   }
 ]

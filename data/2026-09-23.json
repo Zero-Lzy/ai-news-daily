@@ -193,6 +193,200 @@
           ]
         }
       ]
+    },
+    {
+      "label": "早报",
+      "time": "2026-09-23 11:57:28",
+      "count": 18,
+      "articles": [
+        {
+          "title": "A Machine Beat Me at Chess. I'm Still Rooting for AI",
+          "url": "https://www.thenextmove.org/p/a-machine-beat-me-at-chess-im-still",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.thenextmove.org/p/a-machine-beat-me-at-chess-im-still Comments URL: https://news.ycombinator.com/item?id=49811408 Points: 1 # Comments: 0",
+          "published_at": "2026-09-23 03:46",
+          "tags": []
+        },
+        {
+          "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+          "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/ Comments URL: https://news.ycombinator.com/item?id=49811361 Points: 1 # Comments: 1",
+          "published_at": "2026-09-23 03:38",
+          "tags": []
+        },
+        {
+          "title": "Specs cut defects in AI-generated code from 148 to 23 across five models",
+          "url": "https://arxiv.org/abs/2609.23270",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2609.23270 Comments URL: https://news.ycombinator.com/item?id=49811333 Points: 1 # Comments: 0",
+          "published_at": "2026-09-23 03:33",
+          "tags": []
+        },
+        {
+          "title": "RGPU – Use a remote Nvidia GPU from PyTorch on a machine that has none",
+          "url": "https://rgpu.dev",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://rgpu.dev Comments URL: https://news.ycombinator.com/item?id=49811294 Points: 1 # Comments: 0",
+          "published_at": "2026-09-23 03:27",
+          "tags": []
+        },
+        {
+          "title": "Emergent Collusion in Long-Horizon LLM Agent Interaction",
+          "url": "https://arxiv.org/abs/2609.24967",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2609.24967 Comments URL: https://news.ycombinator.com/item?id=49811171 Points: 1 # Comments: 0",
+          "published_at": "2026-09-23 03:07",
+          "tags": []
+        },
+        {
+          "title": "How to Create Your Own Personal AI Benchmark",
+          "url": "https://every.to/also-true-for-humans/how-to-create-your-own-personal-ai-benchmark",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://every.to/also-true-for-humans/how-to-create-your-own-personal-ai-benchmark Comments URL: https://news.ycombinator.com/item?id=49811036 Points: 2 # Comments: 0",
+          "published_at": "2026-09-23 02:48",
+          "tags": []
+        },
+        {
+          "title": "Created a local AI to save data",
+          "url": "https://github.com/just-not-google/BiNeuron",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/just-not-google/BiNeuron Comments URL: https://news.ycombinator.com/item?id=49810817 Points: 1 # Comments: 0",
+          "published_at": "2026-09-23 02:12",
+          "tags": []
+        },
+        {
+          "title": "Tsetlin Machine MNIST classifier running on a Tang Nano 9K FPGA board",
+          "url": "https://github.com/philtomson/hotc_examples/tree/main/examples/Tsetlin_hotstate_uart",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/philtomson/hotc_examples/tree/main/examples/Tsetlin_hotstate_uart Comments URL: https://news.ycombinator.com/item?id=49810651 Points: 2 # Comments: 1",
+          "published_at": "2026-09-23 01:45",
+          "tags": []
+        },
+        {
+          "title": "EN World Is Being DDoS'd by AI Bots",
+          "url": "https://www.enworld.org/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.enworld.org/ Comments URL: https://news.ycombinator.com/item?id=49810493 Points: 2 # Comments: 1",
+          "published_at": "2026-09-23 01:20",
+          "tags": []
+        },
+        {
+          "title": "Trump says US will henceforth call AI 'super intelligence'",
+          "url": "https://www.reuters.com/legal/government/trump-says-us-will-henceforth-call-ai-super-intelligence-2026-09-22/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.reuters.com/legal/government/trump-says-us-will-henceforth-call-ai-super-intelligence-2026-09-22/ Comments URL: https://news.ycombinator.com/item?id=49810231 Points: 16 # Comments: 8",
+          "published_at": "2026-09-23 00:46",
+          "tags": []
+        },
+        {
+          "title": "I'm sick of Claudisms, & what will happen next in AI-boosted software dev",
+          "url": "https://www.polso.info/im-sick-of-claudisms-future-ai-software-development",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.polso.info/im-sick-of-claudisms-future-ai-software-development Comments URL: https://news.ycombinator.com/item?id=49810083 Points: 3 # Comments: 1",
+          "published_at": "2026-09-23 00:28",
+          "tags": []
+        },
+        {
+          "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+          "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+          "published_at": "2026-09-22 20:00",
+          "tags": [
+            "AI",
+            "Hardware",
+            "Qualcomm"
+          ]
+        },
+        {
+          "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+          "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+          "source": "ArsTechnica AI",
+          "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+          "published_at": "2026-09-22 19:45",
+          "tags": [
+            "AI",
+            "Biz & IT",
+            "Security",
+            "AI ATTACK",
+            "chatbots",
+            "spam"
+          ]
+        },
+        {
+          "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+          "source": "The Verge AI",
+          "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac, and Linux devices. According to Rabbit, you can [&#8230;]",
+          "published_at": "2026-09-22 16:52",
+          "tags": [
+            "AI",
+            "Apps",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+          "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+          "source": "TechCrunch AI",
+          "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
+          "published_at": "2026-09-22 15:00",
+          "tags": [
+            "AI",
+            "Startups",
+            "Anthropic",
+            "AWS",
+            "nvidia",
+            "Okta",
+            "shield ai",
+            "TechCrunch Disrupt",
+            "Waabi"
+          ]
+        },
+        {
+          "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+          "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+          "source": "TechCrunch AI",
+          "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
+          "published_at": "2026-09-22 12:23",
+          "tags": [
+            "AI",
+            "ai data centers",
+            "IPO",
+            "neocloud",
+            "nscale"
+          ]
+        },
+        {
+          "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+          "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+          "source": "TechCrunch AI",
+          "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+          "published_at": "2026-09-21 20:15",
+          "tags": [
+            "AI",
+            "mathematics",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+          "source": "TechCrunch AI",
+          "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
+          "published_at": "2026-09-21 15:00",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Startups",
+            "Venture",
+            "Benchmark",
+            "TechCrunch Disrupt"
+          ]
+        }
+      ]
     }
   ]
 }
