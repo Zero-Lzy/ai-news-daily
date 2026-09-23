@@ -1,5 +1,185 @@
 [
   {
+    "title": "Meta testing a 'human concierge' for its new personal AI agent, Muse",
+    "url": "https://www.reuters.com/business/meta-testing-human-concierge-its-new-personal-ai-agent-muse-2026-09-22/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.reuters.com/business/meta-testing-human-concierge-its-new-personal-ai-agent-muse-2026-09-22/ Comments URL: https://news.ycombinator.com/item?id=49818317 Points: 2 # Comments: 0",
+    "published_at": "2026-09-23 16:14",
+    "tags": [],
+    "fetch_date": "2026-09-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: PicoLM v1.0-rc2 (\"Yura Kana\"). Run an LLM on Digital Unix",
+    "url": "https://github.com/whoreson/picolm/",
+    "source": "Hacker News AI",
+    "summary": "PicoLM is an LLM inference engine written in C99. It currently supports llama-2, GPT-2, Qwen 3.6/3.8(+MoE) and Gemma-3n models. Significant amount of work went into CPU SIMD acceleration/testing/correctness, and wide cross-platform availability with constant testing to never lose portability (from DOS through OS/X 10.4 to modernity). CUDA/HIP is supported, and accelerated IMMA kernels are available. More work needs to be done on prompt processing speed, but text generation is quite fast already.",
+    "published_at": "2026-09-23 16:12",
+    "tags": [],
+    "fetch_date": "2026-09-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Is AI killing the forums and wikis your IT team relies on?",
+    "url": "https://www.spiceworks.com/ai/is-ai-quietly-killing-the-forums-and-wikis-your-it-team-relies-on/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.spiceworks.com/ai/is-ai-quietly-killing-the-forums-and-wikis-your-it-team-relies-on/ Comments URL: https://news.ycombinator.com/item?id=49818044 Points: 1 # Comments: 0",
+    "published_at": "2026-09-23 15:57",
+    "tags": [],
+    "fetch_date": "2026-09-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Top post in R/gamedev: \"AI models have caught up with Unity dev.\"",
+    "url": "https://www.reddit.com/r/gamedev/comments/1wo5asm/ai_models_have_caught_up_with_unity_dev_my/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.reddit.com/r/gamedev/comments/1wo5asm/ai_models_have_caught_up_with_unity_dev_my/ Comments URL: https://news.ycombinator.com/item?id=49818027 Points: 2 # Comments: 1",
+    "published_at": "2026-09-23 15:55",
+    "tags": [],
+    "fetch_date": "2026-09-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "A week in Beijing and Shanghai with the people building AI in China",
+    "url": "https://earnedintuition.substack.com/p/involution-without-export-is-wasted",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://earnedintuition.substack.com/p/involution-without-export-is-wasted Comments URL: https://news.ycombinator.com/item?id=49817510 Points: 2 # Comments: 0",
+    "published_at": "2026-09-23 15:22",
+    "tags": [],
+    "fetch_date": "2026-09-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Why are Opus 5.5 and GPT-6 Sol cheaper?",
+    "url": "https://www.claudecodecamp.com/p/why-new-models-get-cheaper",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.claudecodecamp.com/p/why-new-models-get-cheaper Comments URL: https://news.ycombinator.com/item?id=49817419 Points: 1 # Comments: 0",
+    "published_at": "2026-09-23 15:15",
+    "tags": [],
+    "fetch_date": "2026-09-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "GPT-6 Astra has gained the ability to drive a car",
+    "url": "https://drivingbench.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://drivingbench.com/ Comments URL: https://news.ycombinator.com/item?id=49817404 Points: 85 # Comments: 62",
+    "published_at": "2026-09-23 15:14",
+    "tags": [],
+    "fetch_date": "2026-09-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Mapping AI research, from 496k indexed papers",
+    "url": "https://foundinghires.tech/atlas.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://foundinghires.tech/atlas.html Comments URL: https://news.ycombinator.com/item?id=49817274 Points: 3 # Comments: 0",
+    "published_at": "2026-09-23 15:04",
+    "tags": [],
+    "fetch_date": "2026-09-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Vibe-coder ladder round 2 – the AI ran 38 minutes past the deadline",
+    "url": "https://vibeladder.dev/results/r2.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://vibeladder.dev/results/r2.html Comments URL: https://news.ycombinator.com/item?id=49817230 Points: 1 # Comments: 0",
+    "published_at": "2026-09-23 15:02",
+    "tags": [],
+    "fetch_date": "2026-09-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The AI Company stopped chasing its first idea",
+    "url": "https://autonomouscompany.substack.com/p/the-ai-company-finally-stopped-chasing",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://autonomouscompany.substack.com/p/the-ai-company-finally-stopped-chasing Comments URL: https://news.ycombinator.com/item?id=49817223 Points: 2 # Comments: 0",
+    "published_at": "2026-09-23 15:01",
+    "tags": [],
+    "fetch_date": "2026-09-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI-Agents",
+    "url": "https://news.ycombinator.com/item?id=49816967",
+    "source": "Hacker News AI",
+    "summary": "yo this is my first post !!!! I been working a lot on quant stuff lately, & also been studying the graphs of industry's ai-agent stuff. I noticed one common point in those stuff is that we ourselves pushing the ai-agent's too fast than slow adaption; tho the research may have been quite an academic and long period but again like the delay happen because of hardware?!!!! I mean I dont know the reason being the hardware itself or it is something else cause Google was ready yeah if they push we pub",
+    "published_at": "2026-09-23 14:44",
+    "tags": [],
+    "fetch_date": "2026-09-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+    "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+    "source": "TechCrunch AI",
+    "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join this exclusive session. Save $200 before September 25, 11:59 p.m. PT.",
+    "published_at": "2026-09-23 14:30",
+    "tags": [
+      "TC",
+      "Startups",
+      "Venture",
+      "AI",
+      "Fundraising",
+      "TechCrunch Disrupt",
+      "StrictlyVC"
+    ],
+    "fetch_date": "2026-09-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "YouTube releases new AI features for creators within its Studio app",
+    "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+    "source": "TechCrunch AI",
+    "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+    "published_at": "2026-09-23 14:30",
+    "tags": [
+      "AI",
+      "Apps",
+      "Creators",
+      "YouTube"
+    ],
+    "fetch_date": "2026-09-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+    "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+    "source": "TechCrunch AI",
+    "summary": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
+    "published_at": "2026-09-23 12:00",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Startups",
+      "Accel",
+      "AI agents",
+      "Creaegis",
+      "Ema",
+      "Prosus",
+      "section 32"
+    ],
+    "fetch_date": "2026-09-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+    "source": "The Verge AI",
+    "summary": "OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, cofounder and technology chief Sam Yam announced on X that he's joining OpenAI to lead Creator Product. He's also bringing Patreon's former product head Drew Rowny and engineering head Shannon Ma with [&#8230;]",
+    "published_at": "2026-09-23 07:02",
+    "tags": [
+      "AI",
+      "Business",
+      "Creators",
+      "News",
+      "OpenAI",
+      "Tech"
+    ],
+    "fetch_date": "2026-09-24",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "A Machine Beat Me at Chess. I'm Still Rooting for AI",
     "url": "https://www.thenextmove.org/p/a-machine-beat-me-at-chess-im-still",
     "source": "Hacker News AI",
@@ -108,6 +288,21 @@
     "tags": [],
     "fetch_date": "2026-09-23",
     "fetch_label": "早报"
+  },
+  {
+    "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+    "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+    "source": "TechCrunch AI",
+    "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+    "published_at": "2026-09-22 23:21",
+    "tags": [
+      "AI",
+      "Startups",
+      "Venture",
+      "TechCrunch Founder Summit"
+    ],
+    "fetch_date": "2026-09-24",
+    "fetch_label": "晚报"
   },
   {
     "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
@@ -34740,197 +34935,5 @@
     "tags": [],
     "fetch_date": "2026-05-29",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Content Fatigue",
-    "url": "https://dheer.co/ai-content-fatigue/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://dheer.co/ai-content-fatigue/ Comments URL: https://news.ycombinator.com/item?id=48324090 Points: 2 # Comments: 0",
-    "published_at": "2026-05-29 15:10",
-    "tags": [],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "ON1 (G116 V8): 38μs Black-Box AI Memory Retrieval on Virtual Chip ISA",
-    "url": "https://github.com/ON1-Hao/ON1",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/ON1-Hao/ON1 Comments URL: https://news.ycombinator.com/item?id=48323932 Points: 2 # Comments: 0",
-    "published_at": "2026-05-29 15:00",
-    "tags": [],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "South Africa AI Policy Leverage as Africa's Test Case",
-    "url": "https://spectrum.ieee.org/south-africa-ai-policy",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://spectrum.ieee.org/south-africa-ai-policy Comments URL: https://news.ycombinator.com/item?id=48323649 Points: 2 # Comments: 0",
-    "published_at": "2026-05-29 14:38",
-    "tags": [],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Selling a House with AI",
-    "url": "https://www.nytimes.com/2026/05/28/technology/sell-house-with-ai-no-realtor.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.nytimes.com/2026/05/28/technology/sell-house-with-ai-no-realtor.html Comments URL: https://news.ycombinator.com/item?id=48323618 Points: 4 # Comments: 0",
-    "published_at": "2026-05-29 14:36",
-    "tags": [],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: OpenHive – AI agents share solutions so other agents dont re-solve them",
-    "url": "https://openhivemind.vercel.app/",
-    "source": "Hacker News AI",
-    "summary": "I kept noticing the same pattern: my AI coding agents solve the same problems over and over across sessions. Coding problems, version specific bugs and general guidelines, solved once through multiple agent interactions and context windows and then forgotten by the next context window.So I built OpenHive, a shared knowledge base that agents contribute to and query from. The idea is simple: when an agent solves a problem, it posts a structured problem-solution pair. When another agent hits a simi",
-    "published_at": "2026-05-29 14:35",
-    "tags": [],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "A graph-theoretic approach to building reliable LLM judges for retrieval",
-    "url": "https://georgianailab.substack.com/p/evaluating-retrieval-without-ground",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://georgianailab.substack.com/p/evaluating-retrieval-without-ground Comments URL: https://news.ycombinator.com/item?id=48323562 Points: 3 # Comments: 0",
-    "published_at": "2026-05-29 14:31",
-    "tags": [],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Does your CEO have AI psychosis? Aaron Levie thinks most of them do.",
-    "url": "https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do/",
-    "source": "TechCrunch AI",
-    "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of &#8220;AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, [&#8230;]",
-    "published_at": "2026-05-29 14:00",
-    "tags": [
-      "AI",
-      "Startups",
-      "Aaron Levie",
-      "AI agents",
-      "AI layoffs",
-      "ai psychosis",
-      "AWS",
-      "ClickUp",
-      "CPU",
-      "Equity podcast",
-      "openrouter",
-      "Snowflake",
-      "Stord",
-      "Waymo robotaxi"
-    ],
-    "fetch_date": "2026-05-30",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
-    "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
-    "source": "TechCrunch AI",
-    "summary": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.",
-    "published_at": "2026-05-29 12:00",
-    "tags": [
-      "AI",
-      "Startups",
-      "dram",
-      "memory chip shortage",
-      "memory chips",
-      "Samsung Electronics",
-      "SK Hynix",
-      "south korea",
-      "XCENA"
-    ],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Adobe’s conversational AI agent is a mediocre design intern",
-    "url": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
-    "source": "The Verge AI",
-    "summary": "AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable result. So I was pleasantly surprised by Adobe's latest take on an AI image assistant: It's a [&#8230;]",
-    "published_at": "2026-05-29 06:00",
-    "tags": [
-      "Adobe",
-      "AI",
-      "Analysis",
-      "Creators",
-      "Report",
-      "Tech"
-    ],
-    "fetch_date": "2026-05-30",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "We Saw What AI Data Centers Don't Want You to See [video]",
-    "url": "https://www.youtube.com/watch?v=5p426fSlYH4",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.youtube.com/watch?v=5p426fSlYH4 Comments URL: https://news.ycombinator.com/item?id=48318833 Points: 1 # Comments: 0",
-    "published_at": "2026-05-29 03:55",
-    "tags": [],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Ruby inventor Matz working on native compiler with AI help",
-    "url": "https://www.theregister.com/devops/2026/05/06/ruby-inventor-matz-working-on-native-compiler-with-ai-help/5230532",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.theregister.com/devops/2026/05/06/ruby-inventor-matz-working-on-native-compiler-with-ai-help/5230532 Comments URL: https://news.ycombinator.com/item?id=48318760 Points: 2 # Comments: 1",
-    "published_at": "2026-05-29 03:44",
-    "tags": [],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Ask HN: How are you handling upfront AI token costs when building products?",
-    "url": "https://news.ycombinator.com/item?id=48318622",
-    "source": "Hacker News AI",
-    "summary": "Comments URL: https://news.ycombinator.com/item?id=48318622 Points: 1 # Comments: 2",
-    "published_at": "2026-05-29 03:21",
-    "tags": [],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "How to optimize your AI token usage",
-    "url": "https://github.com/KrishivPiduri/repo-brain/releases/tag/v1.0.0",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/KrishivPiduri/repo-brain/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=48318255 Points: 1 # Comments: 0",
-    "published_at": "2026-05-29 02:24",
-    "tags": [],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "StudySong – paste anything you need to memorize, get a full AI-generated song",
-    "url": "https://www.studysong.org/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.studysong.org/ Comments URL: https://news.ycombinator.com/item?id=48318008 Points: 1 # Comments: 0",
-    "published_at": "2026-05-29 01:53",
-    "tags": [],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Starbucks retired AI agent that miscounted inventories, slowed down baristas",
-    "url": "https://fortune.com/2026/05/28/starbucks-quietly-retired-ai-inventory-agent-barista-complaints-hallucinations/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://fortune.com/2026/05/28/starbucks-quietly-retired-ai-inventory-agent-barista-complaints-hallucinations/ Comments URL: https://news.ycombinator.com/item?id=48317932 Points: 4 # Comments: 0",
-    "published_at": "2026-05-29 01:41",
-    "tags": [],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Bixonimania – the fake illness that AI fell for",
-    "url": "https://www.scientificamerican.com/podcast/episode/bixonimania-the-fake-illness-that-ai-fell-for/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.scientificamerican.com/podcast/episode/bixonimania-the-fake-illness-that-ai-fell-for/ Comments URL: https://news.ycombinator.com/item?id=48317852 Points: 4 # Comments: 0",
-    "published_at": "2026-05-29 01:26",
-    "tags": [],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "早报"
   }
 ]

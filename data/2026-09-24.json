@@ -1,0 +1,228 @@
+{
+  "date": "2026-09-24",
+  "runs": [
+    {
+      "label": "晚报",
+      "time": "2026-09-24 00:15:58",
+      "count": 20,
+      "articles": [
+        {
+          "title": "Meta testing a 'human concierge' for its new personal AI agent, Muse",
+          "url": "https://www.reuters.com/business/meta-testing-human-concierge-its-new-personal-ai-agent-muse-2026-09-22/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.reuters.com/business/meta-testing-human-concierge-its-new-personal-ai-agent-muse-2026-09-22/ Comments URL: https://news.ycombinator.com/item?id=49818317 Points: 2 # Comments: 0",
+          "published_at": "2026-09-23 16:14",
+          "tags": []
+        },
+        {
+          "title": "Show HN: PicoLM v1.0-rc2 (\"Yura Kana\"). Run an LLM on Digital Unix",
+          "url": "https://github.com/whoreson/picolm/",
+          "source": "Hacker News AI",
+          "summary": "PicoLM is an LLM inference engine written in C99. It currently supports llama-2, GPT-2, Qwen 3.6/3.8(+MoE) and Gemma-3n models. Significant amount of work went into CPU SIMD acceleration/testing/correctness, and wide cross-platform availability with constant testing to never lose portability (from DOS through OS/X 10.4 to modernity). CUDA/HIP is supported, and accelerated IMMA kernels are available. More work needs to be done on prompt processing speed, but text generation is quite fast already.",
+          "published_at": "2026-09-23 16:12",
+          "tags": []
+        },
+        {
+          "title": "Is AI killing the forums and wikis your IT team relies on?",
+          "url": "https://www.spiceworks.com/ai/is-ai-quietly-killing-the-forums-and-wikis-your-it-team-relies-on/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.spiceworks.com/ai/is-ai-quietly-killing-the-forums-and-wikis-your-it-team-relies-on/ Comments URL: https://news.ycombinator.com/item?id=49818044 Points: 1 # Comments: 0",
+          "published_at": "2026-09-23 15:57",
+          "tags": []
+        },
+        {
+          "title": "Top post in R/gamedev: \"AI models have caught up with Unity dev.\"",
+          "url": "https://www.reddit.com/r/gamedev/comments/1wo5asm/ai_models_have_caught_up_with_unity_dev_my/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.reddit.com/r/gamedev/comments/1wo5asm/ai_models_have_caught_up_with_unity_dev_my/ Comments URL: https://news.ycombinator.com/item?id=49818027 Points: 2 # Comments: 1",
+          "published_at": "2026-09-23 15:55",
+          "tags": []
+        },
+        {
+          "title": "A week in Beijing and Shanghai with the people building AI in China",
+          "url": "https://earnedintuition.substack.com/p/involution-without-export-is-wasted",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://earnedintuition.substack.com/p/involution-without-export-is-wasted Comments URL: https://news.ycombinator.com/item?id=49817510 Points: 2 # Comments: 0",
+          "published_at": "2026-09-23 15:22",
+          "tags": []
+        },
+        {
+          "title": "Why are Opus 5.5 and GPT-6 Sol cheaper?",
+          "url": "https://www.claudecodecamp.com/p/why-new-models-get-cheaper",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.claudecodecamp.com/p/why-new-models-get-cheaper Comments URL: https://news.ycombinator.com/item?id=49817419 Points: 1 # Comments: 0",
+          "published_at": "2026-09-23 15:15",
+          "tags": []
+        },
+        {
+          "title": "GPT-6 Astra has gained the ability to drive a car",
+          "url": "https://drivingbench.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://drivingbench.com/ Comments URL: https://news.ycombinator.com/item?id=49817404 Points: 85 # Comments: 62",
+          "published_at": "2026-09-23 15:14",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Mapping AI research, from 496k indexed papers",
+          "url": "https://foundinghires.tech/atlas.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://foundinghires.tech/atlas.html Comments URL: https://news.ycombinator.com/item?id=49817274 Points: 3 # Comments: 0",
+          "published_at": "2026-09-23 15:04",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Vibe-coder ladder round 2 – the AI ran 38 minutes past the deadline",
+          "url": "https://vibeladder.dev/results/r2.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://vibeladder.dev/results/r2.html Comments URL: https://news.ycombinator.com/item?id=49817230 Points: 1 # Comments: 0",
+          "published_at": "2026-09-23 15:02",
+          "tags": []
+        },
+        {
+          "title": "The AI Company stopped chasing its first idea",
+          "url": "https://autonomouscompany.substack.com/p/the-ai-company-finally-stopped-chasing",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://autonomouscompany.substack.com/p/the-ai-company-finally-stopped-chasing Comments URL: https://news.ycombinator.com/item?id=49817223 Points: 2 # Comments: 0",
+          "published_at": "2026-09-23 15:01",
+          "tags": []
+        },
+        {
+          "title": "AI-Agents",
+          "url": "https://news.ycombinator.com/item?id=49816967",
+          "source": "Hacker News AI",
+          "summary": "yo this is my first post !!!! I been working a lot on quant stuff lately, & also been studying the graphs of industry's ai-agent stuff. I noticed one common point in those stuff is that we ourselves pushing the ai-agent's too fast than slow adaption; tho the research may have been quite an academic and long period but again like the delay happen because of hardware?!!!! I mean I dont know the reason being the hardware itself or it is something else cause Google was ready yeah if they push we pub",
+          "published_at": "2026-09-23 14:44",
+          "tags": []
+        },
+        {
+          "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+          "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+          "source": "TechCrunch AI",
+          "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join this exclusive session. Save $200 before September 25, 11:59 p.m. PT.",
+          "published_at": "2026-09-23 14:30",
+          "tags": [
+            "TC",
+            "Startups",
+            "Venture",
+            "AI",
+            "Fundraising",
+            "TechCrunch Disrupt",
+            "StrictlyVC"
+          ]
+        },
+        {
+          "title": "YouTube releases new AI features for creators within its Studio app",
+          "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+          "source": "TechCrunch AI",
+          "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+          "published_at": "2026-09-23 14:30",
+          "tags": [
+            "AI",
+            "Apps",
+            "Creators",
+            "YouTube"
+          ]
+        },
+        {
+          "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+          "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+          "source": "TechCrunch AI",
+          "summary": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
+          "published_at": "2026-09-23 12:00",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "Startups",
+            "Accel",
+            "AI agents",
+            "Creaegis",
+            "Ema",
+            "Prosus",
+            "section 32"
+          ]
+        },
+        {
+          "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+          "source": "The Verge AI",
+          "summary": "OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, cofounder and technology chief Sam Yam announced on X that he's joining OpenAI to lead Creator Product. He's also bringing Patreon's former product head Drew Rowny and engineering head Shannon Ma with [&#8230;]",
+          "published_at": "2026-09-23 07:02",
+          "tags": [
+            "AI",
+            "Business",
+            "Creators",
+            "News",
+            "OpenAI",
+            "Tech"
+          ]
+        },
+        {
+          "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+          "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+          "source": "TechCrunch AI",
+          "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+          "published_at": "2026-09-22 23:21",
+          "tags": [
+            "AI",
+            "Startups",
+            "Venture",
+            "TechCrunch Founder Summit"
+          ]
+        },
+        {
+          "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+          "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+          "source": "TechCrunch AI",
+          "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+          "published_at": "2026-09-22 21:56",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Startups",
+            "data labeling",
+            "snorkel ai"
+          ]
+        },
+        {
+          "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+          "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+          "source": "ArsTechnica AI",
+          "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+          "published_at": "2026-09-22 19:45",
+          "tags": [
+            "AI",
+            "Biz & IT",
+            "Security",
+            "AI ATTACK",
+            "chatbots",
+            "spam"
+          ]
+        },
+        {
+          "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+          "source": "The Verge AI",
+          "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac, and Linux devices. According to Rabbit, you can [&#8230;]",
+          "published_at": "2026-09-22 16:52",
+          "tags": [
+            "AI",
+            "Apps",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Everyone can find a reason to dislike data center construction",
+          "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+          "source": "TechCrunch AI",
+          "summary": "Inside two years of fraught AI data center debates in Pennsylvania.",
+          "published_at": "2026-09-22 13:00",
+          "tags": [
+            "AI",
+            "data centers"
+          ]
+        }
+      ]
+    }
+  ]
+}
