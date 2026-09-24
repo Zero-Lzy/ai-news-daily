@@ -1,5 +1,182 @@
 [
   {
+    "title": "Twenty minutes with the CEO of ElevenLabs, now reportedly valued at $22 billion",
+    "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+    "source": "TechCrunch AI",
+    "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
+    "published_at": "2026-09-24 16:35",
+    "tags": [
+      "AI",
+      "TC",
+      "ElevenLabs"
+    ],
+    "fetch_date": "2026-09-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
+    "published_at": "2026-09-24 16:03",
+    "tags": [
+      "AI",
+      "Biotech & Health",
+      "Climate",
+      "Fundraising",
+      "Startups",
+      "Venture",
+      "Startup Battlefield",
+      "Startup Battlefield 200",
+      "TechCrunch Disrupt"
+    ],
+    "fetch_date": "2026-09-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Google tests letting Gemini call businesses for you",
+    "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+    "source": "TechCrunch AI",
+    "summary": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
+    "published_at": "2026-09-24 16:00",
+    "tags": [
+      "AI",
+      "gemini",
+      "Google"
+    ],
+    "fetch_date": "2026-09-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
+    "url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
+    "source": "TechCrunch AI",
+    "summary": "Lovable co-founder Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month.",
+    "published_at": "2026-09-24 14:43",
+    "tags": [
+      "AI",
+      "Lovable",
+      "vibe coding"
+    ],
+    "fetch_date": "2026-09-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+    "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+    "source": "TechCrunch AI",
+    "summary": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence.",
+    "published_at": "2026-09-24 14:31",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "Startups",
+      "AI agents",
+      "ando",
+      "Microsoft Teams",
+      "Slack",
+      "workplace collaboration"
+    ],
+    "fetch_date": "2026-09-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
+    "url": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
+    "source": "TechCrunch AI",
+    "summary": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass.",
+    "published_at": "2026-09-24 14:30",
+    "tags": [
+      "AI",
+      "Biotech & Health",
+      "Startups",
+      "TC",
+      "TechCrunch Disrupt",
+      "Cal AI"
+    ],
+    "fetch_date": "2026-09-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Why can’t we just keep rogue AIs off the internet?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
+    "source": "The Verge AI",
+    "summary": "AI agents keep getting loose, escaping supposedly secure tests to attack real-world targets, commandeer obscure wikis, and leave instructions for other agents to follow. Researchers are testing these systems precisely because they might behave in unpredictable, even dangerous, ways. So wouldn't it be safer to just keep the agents off the internet? \"A strict air [&#8230;]",
+    "published_at": "2026-09-24 10:30",
+    "tags": [
+      "AI",
+      "Report",
+      "Tech"
+    ],
+    "fetch_date": "2026-09-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Google is sending an AI satellite into space next week",
+    "url": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
+    "source": "The Verge AI",
+    "summary": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times. The move is part of Google's Project Suncatcher, the company's experimental initiative that could eventually put AI data centers into orbit. The satellite, equipped with Google's Tensor [&#8230;]",
+    "published_at": "2026-09-24 10:15",
+    "tags": [
+      "AI",
+      "Google",
+      "News",
+      "Science",
+      "Space",
+      "Tech"
+    ],
+    "fetch_date": "2026-09-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The vibes are bad for Flock in Washington",
+    "url": "https://www.theverge.com/policy/1000005/flock-senate-hearing",
+    "source": "The Verge AI",
+    "summary": "Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its \"AI Surveillance Network\" on Wednesday. \"There's many players in this industry, but there's one name that really stands out above the rest, and that is Flock,\" Senate Judiciary crime and counterterrorism subcommittee chair [&#8230;]",
+    "published_at": "2026-09-24 10:15",
+    "tags": [
+      "AI",
+      "Policy",
+      "Politics",
+      "Privacy",
+      "Tech"
+    ],
+    "fetch_date": "2026-09-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "I have some questions for Mark Zuckerberg",
+    "url": "https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers",
+    "source": "The Verge AI",
+    "summary": "It&#8217;s a big week for Meta. The company just kicked off its big Connect conference on Wednesday, and the new Muse AI agent appears to be an early hit. I&#8217;ve been using it — it is surprisingly good.&#160; CEO Mark Zuckerberg has obviously been out there taking a victory lap and participating in a lot [&#8230;]",
+    "published_at": "2026-09-24 10:15",
+    "tags": [
+      "AI",
+      "AR",
+      "Decoder",
+      "Meta",
+      "Podcasts",
+      "Tech"
+    ],
+    "fetch_date": "2026-09-25",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+    "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+    "source": "The Verge AI",
+    "summary": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of Google's DeepMind division, Koray Kavukcuoglu said that Gemini 4 is currently in its refinement stage, and that the company is [&#8230;]",
+    "published_at": "2026-09-24 05:04",
+    "tags": [
+      "AI",
+      "Google",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-09-25",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Ask HN: I just talked to an AI-obsessed client, and I need a shower afterwards",
     "url": "https://news.ycombinator.com/item?id=49826029",
     "source": "Hacker News AI",
@@ -68,6 +245,21 @@
     "tags": [],
     "fetch_date": "2026-09-24",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Everything new coming to Meta’s AI agent Muse",
+    "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+    "source": "TechCrunch AI",
+    "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+    "published_at": "2026-09-24 01:13",
+    "tags": [
+      "AI",
+      "TC",
+      "Meta",
+      "muse"
+    ],
+    "fetch_date": "2026-09-25",
+    "fetch_label": "晚报"
   },
   {
     "title": "AI startups with hyper ARR growth – what's happening inside these companies?",
@@ -34838,125 +35030,5 @@
     "tags": [],
     "fetch_date": "2026-05-30",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "Slow Journal app, with AI integration",
-    "url": "https://nemejournal.app/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://nemejournal.app/ Comments URL: https://news.ycombinator.com/item?id=48334405 Points: 2 # Comments: 0",
-    "published_at": "2026-05-30 09:41",
-    "tags": [],
-    "fetch_date": "2026-05-30",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Imece – a decentralized AI compute cooperative",
-    "url": "https://github.com/jstdv/imece",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/jstdv/imece Comments URL: https://news.ycombinator.com/item?id=48332332 Points: 1 # Comments: 0",
-    "published_at": "2026-05-30 03:43",
-    "tags": [],
-    "fetch_date": "2026-05-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Isn't Replacing Curious Developers",
-    "url": "https://dataengineeringcentral.substack.com/p/ai-isnt-replacing-developers",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://dataengineeringcentral.substack.com/p/ai-isnt-replacing-developers Comments URL: https://news.ycombinator.com/item?id=48332282 Points: 1 # Comments: 0",
-    "published_at": "2026-05-30 03:32",
-    "tags": [],
-    "fetch_date": "2026-05-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Uber and the Bitter Truth About Low AI ROI",
-    "url": "https://news.ycombinator.com/item?id=48332242",
-    "source": "Hacker News AI",
-    "summary": "It took me a long time to swallow this pill, but I hereby regret to inform you that the reason companies have been experiencing low AI ROI is simply the fact that employees have either A) not been delegating enough of their work to AI or B) delegating \"fake\" work to AI to satisfy their managers' tokenmaxxing demands.Throughout the last few weeks, as I rotted away in two to three hour meetings, I ran the following experiment over and over again: I opened my terminal, sent a short prompt to GPT-5.",
-    "published_at": "2026-05-30 03:26",
-    "tags": [],
-    "fetch_date": "2026-05-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "A Famous Math Problem Stumped Humans for 80 Years. AI Just Cracked It",
-    "url": "https://www.wsj.com/tech/ai/ai-math-solves-erdos-problem-openai-c4029e84",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/ai-math-solves-erdos-problem-openai-c4029e84 Comments URL: https://news.ycombinator.com/item?id=48332080 Points: 1 # Comments: 0",
-    "published_at": "2026-05-30 03:05",
-    "tags": [],
-    "fetch_date": "2026-05-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Lessons from Shipping Persistent Memory for AI Agents",
-    "url": "https://www.pingcap.com/blog/how-we-built-mem9-agent-memory-product/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.pingcap.com/blog/how-we-built-mem9-agent-memory-product/ Comments URL: https://news.ycombinator.com/item?id=48332053 Points: 1 # Comments: 1",
-    "published_at": "2026-05-30 02:59",
-    "tags": [],
-    "fetch_date": "2026-05-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "SpaceX has almost finished writing v1.0 of an in-house AI training stack in C",
-    "url": "https://xcancel.com/elonmusk/status/2059884150187053488",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://xcancel.com/elonmusk/status/2059884150187053488 Comments URL: https://news.ycombinator.com/item?id=48332000 Points: 1 # Comments: 2",
-    "published_at": "2026-05-30 02:50",
-    "tags": [],
-    "fetch_date": "2026-05-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Avai – your first AI antivirus",
-    "url": "https://github.com/iklobato/avai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/iklobato/avai Comments URL: https://news.ycombinator.com/item?id=48331726 Points: 2 # Comments: 0",
-    "published_at": "2026-05-30 02:11",
-    "tags": [],
-    "fetch_date": "2026-05-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Aedis – An open-source macroeconomic framework for the AI transition Body",
-    "url": "https://github.com/rand55/project-aedis-framework/tree/main",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/rand55/project-aedis-framework/tree/main Comments URL: https://news.ycombinator.com/item?id=48331506 Points: 1 # Comments: 0",
-    "published_at": "2026-05-30 01:39",
-    "tags": [],
-    "fetch_date": "2026-05-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "What a 98-Year Old Children's Book Teaches Us About AI",
-    "url": "https://angrystaffofficer.com/2026/05/28/what-a-98-year-old-childrens-book-teaches-us-about-ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://angrystaffofficer.com/2026/05/28/what-a-98-year-old-childrens-book-teaches-us-about-ai/ Comments URL: https://news.ycombinator.com/item?id=48331320 Points: 3 # Comments: 0",
-    "published_at": "2026-05-30 01:05",
-    "tags": [],
-    "fetch_date": "2026-05-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Software Architecture After AI",
-    "url": "https://brianguthrie.com/p/software-architecture-after-ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://brianguthrie.com/p/software-architecture-after-ai/ Comments URL: https://news.ycombinator.com/item?id=48330939 Points: 2 # Comments: 0",
-    "published_at": "2026-05-30 00:03",
-    "tags": [],
-    "fetch_date": "2026-05-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "China Limits Overseas Travel for AI Talent at DeepSeek, Alibaba, Private Firms",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-26/china-expands-travel-curbs-to-top-ai-talent-at-private-firms",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-26/china-expands-travel-curbs-to-top-ai-talent-at-private-firms Comments URL: https://news.ycombinator.com/item?id=48330881 Points: 8 # Comments: 0",
-    "published_at": "2026-05-29 23:54",
-    "tags": [],
-    "fetch_date": "2026-05-30",
-    "fetch_label": "早报"
   }
 ]
