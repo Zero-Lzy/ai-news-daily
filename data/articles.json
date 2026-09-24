@@ -1,5 +1,189 @@
 [
   {
+    "title": "Ask HN: I just talked to an AI-obsessed client, and I need a shower afterwards",
+    "url": "https://news.ycombinator.com/item?id=49826029",
+    "source": "Hacker News AI",
+    "summary": "Just to preface, this isn't the typical \"Am I being replaced by vibe coding\" post.I just had a talk with one of my first ongoing clients, who sort of helped me kickstart my freelancing \"career\". He is one of those people who has a broad understanding of the tech out there, and what its capabilities are, but is not a programmer. He wanted to show me, and get my opinion on a restaurant management app that he's been using Lovable to develop. Admittedly, a lot of it is very impressive, and he has ob",
+    "published_at": "2026-09-24 03:48",
+    "tags": [],
+    "fetch_date": "2026-09-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Built-in APM for vibe-coded apps so your AI can fix them",
+    "url": "https://oncroft.net/blog/monitoring-built-in-for-every-croft-app/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://oncroft.net/blog/monitoring-built-in-for-every-croft-app/ Comments URL: https://news.ycombinator.com/item?id=49825904 Points: 1 # Comments: 0",
+    "published_at": "2026-09-24 03:31",
+    "tags": [],
+    "fetch_date": "2026-09-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The AI Build-Out Is Becoming the Biggest Economic Bet in U.S. History",
+    "url": "https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd Comments URL: https://news.ycombinator.com/item?id=49825855 Points: 4 # Comments: 2",
+    "published_at": "2026-09-24 03:24",
+    "tags": [],
+    "fetch_date": "2026-09-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "We Run Kaizen on AI",
+    "url": "https://kznconsulting.com/work/how-we-run-kaizen",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://kznconsulting.com/work/how-we-run-kaizen Comments URL: https://news.ycombinator.com/item?id=49825737 Points: 1 # Comments: 0",
+    "published_at": "2026-09-24 03:08",
+    "tags": [],
+    "fetch_date": "2026-09-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Chatlo – an iOS-native AI agent, now with Jev",
+    "url": "https://apps.apple.com/us/app/chatlo-ai-chat-agent/id6771188943",
+    "source": "Hacker News AI",
+    "summary": "Hello HN!I’m sure many of you have used AI agent apps like OpenClaw, Claude Code, or Codex on your PCs, but you rarely see AI agents running on the iOS platform. That’s why I created an agent app that runs exclusively on iOS—it doesn’t require a separate computer or server; it runs entirely on your iPhone.Plus, in the latest version, we’ve become the first to integrate Jev AI—a very popular decision-making AI—on the App Store.We invite you to try it out, and we look forward to your feedback.App ",
+    "published_at": "2026-09-24 02:23",
+    "tags": [],
+    "fetch_date": "2026-09-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AP: Avoid language that gives [AI] human characteristics",
+    "url": "https://twitter.com/APStylebook/status/2102807962364383502",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/APStylebook/status/2102807962364383502 Comments URL: https://news.ycombinator.com/item?id=49824986 Points: 11 # Comments: 2",
+    "published_at": "2026-09-24 01:19",
+    "tags": [],
+    "fetch_date": "2026-09-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "We used an AI agent to fix an open-source bug. Someone asked to ban us",
+    "url": "https://github.com/saulpw/visidata/pull/3229",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/saulpw/visidata/pull/3229 Comments URL: https://news.ycombinator.com/item?id=49824957 Points: 14 # Comments: 19",
+    "published_at": "2026-09-24 01:14",
+    "tags": [],
+    "fetch_date": "2026-09-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI startups with hyper ARR growth – what's happening inside these companies?",
+    "url": "https://news.ycombinator.com/item?id=49824887",
+    "source": "Hacker News AI",
+    "summary": "Seeing more and more people leave great big tech jobs or very smart new grads start AI companies that seem to hit $10m, $50m, $100m ARR incredibly quickly.What’s actually going on inside these companies?Are they profitable? How much are they burning? Are they really growing that fast? And are founders/employees building for the long term or basically aiming for an acquisition?Would be interested to hear from anyone who’s worked at one of these companies.Does it give you FOMO?I'm starting as SRE ",
+    "published_at": "2026-09-24 01:04",
+    "tags": [],
+    "fetch_date": "2026-09-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Feds Target AI Critics as \"Foreign Agents\"",
+    "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign Comments URL: https://news.ycombinator.com/item?id=49824686 Points: 112 # Comments: 83",
+    "published_at": "2026-09-24 00:41",
+    "tags": [],
+    "fetch_date": "2026-09-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Meta introduces camera-free AI glasses",
+    "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+    "source": "TechCrunch AI",
+    "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+    "published_at": "2026-09-23 23:39",
+    "tags": [
+      "AI",
+      "Gadgets",
+      "Hardware",
+      "Social",
+      "ai glasses",
+      "Meta"
+    ],
+    "fetch_date": "2026-09-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Stanford violated AI policy after race-swapping students in ad",
+    "url": "https://www.sfchronicle.com/bayarea/article/stanford-ai-policy-student-photo-race-swapping-22444142.php",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.sfchronicle.com/bayarea/article/stanford-ai-policy-student-photo-race-swapping-22444142.php Comments URL: https://news.ycombinator.com/item?id=49824061 Points: 22 # Comments: 12",
+    "published_at": "2026-09-23 23:23",
+    "tags": [],
+    "fetch_date": "2026-09-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Meta is making a standalone Muse AI gadget",
+    "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+    "source": "The Verge AI",
+    "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smartwatch without the strap - just a big screen, plus a little lanyard for [&#8230;]",
+    "published_at": "2026-09-23 20:15",
+    "tags": [
+      "AI",
+      "Meta",
+      "Tech"
+    ],
+    "fetch_date": "2026-09-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Meta ditches the camera on its newest smart glasses",
+    "url": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
+    "source": "The Verge AI",
+    "summary": "Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where \"pervert glasses\" are not a concern. Outside Connect, the public backlash against wearable surveillance tech - a catchall term that encompasses not just smart glasses, but also smartwatches and [&#8230;]",
+    "published_at": "2026-09-23 19:37",
+    "tags": [
+      "AI",
+      "Gadgets",
+      "Hands-on",
+      "Meta",
+      "Reviews",
+      "Tech",
+      "Wearable"
+    ],
+    "fetch_date": "2026-09-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+    "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+    "source": "TechCrunch AI",
+    "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+    "published_at": "2026-09-23 19:31",
+    "tags": [
+      "AI",
+      "Biotech & Health",
+      "Startups",
+      "clinical trials",
+      "Enveda",
+      "In Brief"
+    ],
+    "fetch_date": "2026-09-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Meta Connect 2026: The biggest news and announcements",
+    "url": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
+    "source": "The Verge AI",
+    "summary": "It&#8217;s about time for Meta Connect, the company&#8217;s annual product launch event. This year, given the company&#8217;s major focus on AI and wearables like smart glasses, it seems likely that we&#8217;ll see updates from CEO Mark Zuckerberg and his team on those categories. The company has been facing significant scrutiny because of how some users [&#8230;]",
+    "published_at": "2026-09-23 18:45",
+    "tags": [
+      "AI",
+      "Gadgets",
+      "Meta",
+      "News",
+      "Tech",
+      "Virtual Reality",
+      "Wearable"
+    ],
+    "fetch_date": "2026-09-24",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Meta testing a 'human concierge' for its new personal AI agent, Muse",
     "url": "https://www.reuters.com/business/meta-testing-human-concierge-its-new-personal-ai-agent-muse-2026-09-22/",
     "source": "Hacker News AI",
@@ -141,6 +325,21 @@
     ],
     "fetch_date": "2026-09-24",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+    "source": "The Verge AI",
+    "summary": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's usefulness for science as the company prepares to go public. The company says Claude found the enzyme system after [&#8230;]",
+    "published_at": "2026-09-23 14:00",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "News",
+      "Science"
+    ],
+    "fetch_date": "2026-09-24",
+    "fetch_label": "早报"
   },
   {
     "title": "Ema raises $77M as AI starts eating into enterprise software and services",
@@ -333,6 +532,22 @@
       "spam"
     ],
     "fetch_date": "2026-09-23",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+    "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+    "source": "TechCrunch AI",
+    "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+    "published_at": "2026-09-22 19:09",
+    "tags": [
+      "AI",
+      "Apps",
+      "Meta",
+      "muse",
+      "openclaw"
+    ],
+    "fetch_date": "2026-09-24",
     "fetch_label": "早报"
   },
   {
@@ -34743,197 +34958,5 @@
     "tags": [],
     "fetch_date": "2026-05-30",
     "fetch_label": "早报"
-  },
-  {
-    "title": "21 days, $5K, 7 AI agents: how a non-programmer built a talent marketplace",
-    "url": "https://www.bearhugrecruiting.com/startup-recruiting/bearhug-network-origin-story",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.bearhugrecruiting.com/startup-recruiting/bearhug-network-origin-story Comments URL: https://news.ycombinator.com/item?id=48330482 Points: 3 # Comments: 0",
-    "published_at": "2026-05-29 23:02",
-    "tags": [],
-    "fetch_date": "2026-05-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Flathub bans AI-generated apps and submissions",
-    "url": "https://www.gamingonlinux.com/2026/05/flathub-moves-to-ban-nearly-all-apps-and-submissions-made-with-generative-ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.gamingonlinux.com/2026/05/flathub-moves-to-ban-nearly-all-apps-and-submissions-made-with-generative-ai/ Comments URL: https://news.ycombinator.com/item?id=48330069 Points: 4 # Comments: 0",
-    "published_at": "2026-05-29 22:20",
-    "tags": [],
-    "fetch_date": "2026-05-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Machine First: Why AEO Is Not SEO 2.0",
-    "url": "https://www.richresults.ai/machine-first-aeo.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.richresults.ai/machine-first-aeo.html Comments URL: https://news.ycombinator.com/item?id=48330068 Points: 2 # Comments: 3",
-    "published_at": "2026-05-29 22:20",
-    "tags": [],
-    "fetch_date": "2026-05-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Coders are refusing to work without AI — and that could come back to bite them",
-    "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
-    "source": "TechCrunch AI",
-    "summary": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
-    "published_at": "2026-05-29 22:14",
-    "tags": [
-      "AI",
-      "developers",
-      "tokenmaxxing"
-    ],
-    "fetch_date": "2026-05-31",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "GPT 5.5 Bro [video]",
-    "url": "https://www.youtube.com/watch?v=v1zSDACAXK4",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.youtube.com/watch?v=v1zSDACAXK4 Comments URL: https://news.ycombinator.com/item?id=48329838 Points: 2 # Comments: 0",
-    "published_at": "2026-05-29 21:56",
-    "tags": [],
-    "fetch_date": "2026-05-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Where AI coding spend goes: 48% code, 40% thinking",
-    "url": "https://codeburn.app/blog/where-ai-coding-spend-goes",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://codeburn.app/blog/where-ai-coding-spend-goes Comments URL: https://news.ycombinator.com/item?id=48329652 Points: 2 # Comments: 0",
-    "published_at": "2026-05-29 21:37",
-    "tags": [],
-    "fetch_date": "2026-05-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Why AI can't match human creative work",
-    "url": "https://www.computerworld.com/article/4178383/why-ai-cant-match-human-creative-work.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.computerworld.com/article/4178383/why-ai-cant-match-human-creative-work.html Comments URL: https://news.ycombinator.com/item?id=48329569 Points: 3 # Comments: 2",
-    "published_at": "2026-05-29 21:31",
-    "tags": [],
-    "fetch_date": "2026-05-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-    "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "source": "TechCrunch AI",
-    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-    "published_at": "2026-05-29 18:49",
-    "tags": [
-      "AI",
-      "artificial intelligence",
-      "evergreens",
-      "Glossary"
-    ],
-    "fetch_date": "2026-05-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "What happens when companies become too AI-pilled?",
-    "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
-    "source": "TechCrunch AI",
-    "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of &#8220;AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, [&#8230;]",
-    "published_at": "2026-05-29 17:57",
-    "tags": [
-      "AI",
-      "Aaron Levie",
-      "AI agents",
-      "AI layoffs",
-      "ai psychosis",
-      "Amazon competition",
-      "AWS",
-      "Equity",
-      "openrouter",
-      "Snowflake",
-      "Stord",
-      "Waymo robotaxi"
-    ],
-    "fetch_date": "2026-05-30",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "HTTP Streaming and AI",
-    "url": "https://ably.com/docs/ai-transport/why/http-streaming-and-ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://ably.com/docs/ai-transport/why/http-streaming-and-ai Comments URL: https://news.ycombinator.com/item?id=48324538 Points: 1 # Comments: 0",
-    "published_at": "2026-05-29 15:34",
-    "tags": [],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Agent Memory Guard – OWASP defense for AI agent memory poisoning",
-    "url": "https://github.com/OWASP/www-project-agent-memory-guard",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/OWASP/www-project-agent-memory-guard Comments URL: https://news.ycombinator.com/item?id=48324512 Points: 1 # Comments: 0",
-    "published_at": "2026-05-29 15:33",
-    "tags": [],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "When AI starts writing systems code",
-    "url": "https://www.coreauto.com/blog/when-ai-starts-writing-systems-code",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.coreauto.com/blog/when-ai-starts-writing-systems-code Comments URL: https://news.ycombinator.com/item?id=48324381 Points: 1 # Comments: 0",
-    "published_at": "2026-05-29 15:26",
-    "tags": [],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Brilliant launches AI tutor to get kids to think",
-    "url": "https://twitter.com/suekhim/status/2060378988606878147",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://twitter.com/suekhim/status/2060378988606878147 Comments URL: https://news.ycombinator.com/item?id=48324357 Points: 2 # Comments: 0",
-    "published_at": "2026-05-29 15:25",
-    "tags": [],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Does AI Make Totalitarianism More Likely?",
-    "url": "https://demonstrandom.com/essays/posts/ai_totalitarianism/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://demonstrandom.com/essays/posts/ai_totalitarianism/ Comments URL: https://news.ycombinator.com/item?id=48324319 Points: 2 # Comments: 3",
-    "published_at": "2026-05-29 15:23",
-    "tags": [],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The literary world is sleepwalking into an AI disaster",
-    "url": "https://www.theargumentmag.com/p/the-literary-world-is-sleepwalking",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.theargumentmag.com/p/the-literary-world-is-sleepwalking Comments URL: https://news.ycombinator.com/item?id=48324276 Points: 3 # Comments: 0",
-    "published_at": "2026-05-29 15:20",
-    "tags": [],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The Biggest Tell That Something Was Written by AI",
-    "url": "https://www.theatlantic.com/technology/2026/05/how-to-tell-ai-writing/687345/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.theatlantic.com/technology/2026/05/how-to-tell-ai-writing/687345/ Comments URL: https://news.ycombinator.com/item?id=48324146 Points: 2 # Comments: 0",
-    "published_at": "2026-05-29 15:13",
-    "tags": [],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Resistance Against AI Is Not Futile. A List Is a Good Start",
-    "url": "https://read.misalignedmag.com/resistance-against-ai-is-not-futile-a-list-is-a-good-start-3b8a4d39139e",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://read.misalignedmag.com/resistance-against-ai-is-not-futile-a-list-is-a-good-start-3b8a4d39139e Comments URL: https://news.ycombinator.com/item?id=48324109 Points: 1 # Comments: 0",
-    "published_at": "2026-05-29 15:11",
-    "tags": [],
-    "fetch_date": "2026-05-29",
-    "fetch_label": "晚报"
   }
 ]

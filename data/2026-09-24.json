@@ -223,6 +223,251 @@
           ]
         }
       ]
+    },
+    {
+      "label": "早报",
+      "time": "2026-09-24 11:50:54",
+      "count": 21,
+      "articles": [
+        {
+          "title": "Ask HN: I just talked to an AI-obsessed client, and I need a shower afterwards",
+          "url": "https://news.ycombinator.com/item?id=49826029",
+          "source": "Hacker News AI",
+          "summary": "Just to preface, this isn't the typical \"Am I being replaced by vibe coding\" post.I just had a talk with one of my first ongoing clients, who sort of helped me kickstart my freelancing \"career\". He is one of those people who has a broad understanding of the tech out there, and what its capabilities are, but is not a programmer. He wanted to show me, and get my opinion on a restaurant management app that he's been using Lovable to develop. Admittedly, a lot of it is very impressive, and he has ob",
+          "published_at": "2026-09-24 03:48",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Built-in APM for vibe-coded apps so your AI can fix them",
+          "url": "https://oncroft.net/blog/monitoring-built-in-for-every-croft-app/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://oncroft.net/blog/monitoring-built-in-for-every-croft-app/ Comments URL: https://news.ycombinator.com/item?id=49825904 Points: 1 # Comments: 0",
+          "published_at": "2026-09-24 03:31",
+          "tags": []
+        },
+        {
+          "title": "The AI Build-Out Is Becoming the Biggest Economic Bet in U.S. History",
+          "url": "https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd Comments URL: https://news.ycombinator.com/item?id=49825855 Points: 4 # Comments: 2",
+          "published_at": "2026-09-24 03:24",
+          "tags": []
+        },
+        {
+          "title": "We Run Kaizen on AI",
+          "url": "https://kznconsulting.com/work/how-we-run-kaizen",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://kznconsulting.com/work/how-we-run-kaizen Comments URL: https://news.ycombinator.com/item?id=49825737 Points: 1 # Comments: 0",
+          "published_at": "2026-09-24 03:08",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Chatlo – an iOS-native AI agent, now with Jev",
+          "url": "https://apps.apple.com/us/app/chatlo-ai-chat-agent/id6771188943",
+          "source": "Hacker News AI",
+          "summary": "Hello HN!I’m sure many of you have used AI agent apps like OpenClaw, Claude Code, or Codex on your PCs, but you rarely see AI agents running on the iOS platform. That’s why I created an agent app that runs exclusively on iOS—it doesn’t require a separate computer or server; it runs entirely on your iPhone.Plus, in the latest version, we’ve become the first to integrate Jev AI—a very popular decision-making AI—on the App Store.We invite you to try it out, and we look forward to your feedback.App ",
+          "published_at": "2026-09-24 02:23",
+          "tags": []
+        },
+        {
+          "title": "AP: Avoid language that gives [AI] human characteristics",
+          "url": "https://twitter.com/APStylebook/status/2102807962364383502",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://twitter.com/APStylebook/status/2102807962364383502 Comments URL: https://news.ycombinator.com/item?id=49824986 Points: 11 # Comments: 2",
+          "published_at": "2026-09-24 01:19",
+          "tags": []
+        },
+        {
+          "title": "We used an AI agent to fix an open-source bug. Someone asked to ban us",
+          "url": "https://github.com/saulpw/visidata/pull/3229",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/saulpw/visidata/pull/3229 Comments URL: https://news.ycombinator.com/item?id=49824957 Points: 14 # Comments: 19",
+          "published_at": "2026-09-24 01:14",
+          "tags": []
+        },
+        {
+          "title": "AI startups with hyper ARR growth – what's happening inside these companies?",
+          "url": "https://news.ycombinator.com/item?id=49824887",
+          "source": "Hacker News AI",
+          "summary": "Seeing more and more people leave great big tech jobs or very smart new grads start AI companies that seem to hit $10m, $50m, $100m ARR incredibly quickly.What’s actually going on inside these companies?Are they profitable? How much are they burning? Are they really growing that fast? And are founders/employees building for the long term or basically aiming for an acquisition?Would be interested to hear from anyone who’s worked at one of these companies.Does it give you FOMO?I'm starting as SRE ",
+          "published_at": "2026-09-24 01:04",
+          "tags": []
+        },
+        {
+          "title": "Feds Target AI Critics as \"Foreign Agents\"",
+          "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign Comments URL: https://news.ycombinator.com/item?id=49824686 Points: 112 # Comments: 83",
+          "published_at": "2026-09-24 00:41",
+          "tags": []
+        },
+        {
+          "title": "Meta introduces camera-free AI glasses",
+          "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+          "source": "TechCrunch AI",
+          "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+          "published_at": "2026-09-23 23:39",
+          "tags": [
+            "AI",
+            "Gadgets",
+            "Hardware",
+            "Social",
+            "ai glasses",
+            "Meta"
+          ]
+        },
+        {
+          "title": "Stanford violated AI policy after race-swapping students in ad",
+          "url": "https://www.sfchronicle.com/bayarea/article/stanford-ai-policy-student-photo-race-swapping-22444142.php",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.sfchronicle.com/bayarea/article/stanford-ai-policy-student-photo-race-swapping-22444142.php Comments URL: https://news.ycombinator.com/item?id=49824061 Points: 22 # Comments: 12",
+          "published_at": "2026-09-23 23:23",
+          "tags": []
+        },
+        {
+          "title": "Meta is making a standalone Muse AI gadget",
+          "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+          "source": "The Verge AI",
+          "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smartwatch without the strap - just a big screen, plus a little lanyard for [&#8230;]",
+          "published_at": "2026-09-23 20:15",
+          "tags": [
+            "AI",
+            "Meta",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Meta ditches the camera on its newest smart glasses",
+          "url": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
+          "source": "The Verge AI",
+          "summary": "Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where \"pervert glasses\" are not a concern. Outside Connect, the public backlash against wearable surveillance tech - a catchall term that encompasses not just smart glasses, but also smartwatches and [&#8230;]",
+          "published_at": "2026-09-23 19:37",
+          "tags": [
+            "AI",
+            "Gadgets",
+            "Hands-on",
+            "Meta",
+            "Reviews",
+            "Tech",
+            "Wearable"
+          ]
+        },
+        {
+          "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+          "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+          "source": "TechCrunch AI",
+          "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+          "published_at": "2026-09-23 19:31",
+          "tags": [
+            "AI",
+            "Biotech & Health",
+            "Startups",
+            "clinical trials",
+            "Enveda",
+            "In Brief"
+          ]
+        },
+        {
+          "title": "Meta Connect 2026: The biggest news and announcements",
+          "url": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
+          "source": "The Verge AI",
+          "summary": "It&#8217;s about time for Meta Connect, the company&#8217;s annual product launch event. This year, given the company&#8217;s major focus on AI and wearables like smart glasses, it seems likely that we&#8217;ll see updates from CEO Mark Zuckerberg and his team on those categories. The company has been facing significant scrutiny because of how some users [&#8230;]",
+          "published_at": "2026-09-23 18:45",
+          "tags": [
+            "AI",
+            "Gadgets",
+            "Meta",
+            "News",
+            "Tech",
+            "Virtual Reality",
+            "Wearable"
+          ]
+        },
+        {
+          "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+          "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+          "source": "TechCrunch AI",
+          "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
+          "published_at": "2026-09-23 14:30",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Startups",
+            "Venture",
+            "StrictlyVC",
+            "TechCrunch Disrupt"
+          ]
+        },
+        {
+          "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+          "source": "The Verge AI",
+          "summary": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's usefulness for science as the company prepares to go public. The company says Claude found the enzyme system after [&#8230;]",
+          "published_at": "2026-09-23 14:00",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "News",
+            "Science"
+          ]
+        },
+        {
+          "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+          "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+          "source": "TechCrunch AI",
+          "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+          "published_at": "2026-09-22 23:21",
+          "tags": [
+            "AI",
+            "Startups",
+            "Venture",
+            "TechCrunch Founder Summit"
+          ]
+        },
+        {
+          "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+          "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+          "source": "TechCrunch AI",
+          "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+          "published_at": "2026-09-22 21:56",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Startups",
+            "data labeling",
+            "snorkel ai"
+          ]
+        },
+        {
+          "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+          "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+          "source": "ArsTechnica AI",
+          "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+          "published_at": "2026-09-22 19:45",
+          "tags": [
+            "AI",
+            "Biz & IT",
+            "Security",
+            "AI ATTACK",
+            "chatbots",
+            "spam"
+          ]
+        },
+        {
+          "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+          "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+          "source": "TechCrunch AI",
+          "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+          "published_at": "2026-09-22 19:09",
+          "tags": [
+            "AI",
+            "Apps",
+            "Meta",
+            "muse",
+            "openclaw"
+          ]
+        }
+      ]
     }
   ]
 }
