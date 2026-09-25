@@ -1,5 +1,51 @@
 [
   {
+    "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+    "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+    "source": "TechCrunch AI",
+    "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+    "published_at": "2026-09-24 19:00",
+    "tags": [
+      "AI",
+      "Startups",
+      "TC",
+      "LLMs",
+      "In Brief"
+    ],
+    "fetch_date": "2026-09-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+    "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+    "source": "TechCrunch AI",
+    "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
+    "published_at": "2026-09-24 17:00",
+    "tags": [
+      "AI",
+      "Apps",
+      "gemini",
+      "Google Photos"
+    ],
+    "fetch_date": "2026-09-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+    "url": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+    "source": "TechCrunch AI",
+    "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+    "published_at": "2026-09-24 16:46",
+    "tags": [
+      "AI",
+      "Startups",
+      "Venture",
+      "TechCrunch Founder Summit"
+    ],
+    "fetch_date": "2026-09-25",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Twenty minutes with the CEO of ElevenLabs, now reportedly valued at $22 billion",
     "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
     "source": "TechCrunch AI",
@@ -46,6 +92,21 @@
     ],
     "fetch_date": "2026-09-25",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+    "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+    "source": "The Verge AI",
+    "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers. As noted by Google, Live Avatar can transition between the 97 [&#8230;]",
+    "published_at": "2026-09-24 15:59",
+    "tags": [
+      "AI",
+      "Google",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-09-25",
+    "fetch_label": "早报"
   },
   {
     "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
@@ -96,6 +157,38 @@
     ],
     "fetch_date": "2026-09-25",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Muse will apparently let you download its entire filesystem",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
+    "source": "The Verge AI",
+    "summary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing the entire contents of its root filesystem, Ubuntu system files, app templates, and internal documentation. Saunders posted on [&#8230;]",
+    "published_at": "2026-09-24 13:14",
+    "tags": [
+      "AI",
+      "Meta",
+      "News",
+      "Security",
+      "Tech"
+    ],
+    "fetch_date": "2026-09-25",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "It’s sinister that Meta’s Muse AI mascot is so cute",
+    "url": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
+    "source": "The Verge AI",
+    "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Last night, I asked Blorbo - what I named my Muse AI agent - to help me set some health [&#8230;]",
+    "published_at": "2026-09-24 13:00",
+    "tags": [
+      "AI",
+      "Column",
+      "Meta",
+      "Optimizer",
+      "Tech"
+    ],
+    "fetch_date": "2026-09-25",
+    "fetch_label": "早报"
   },
   {
     "title": "Why can’t we just keep rogue AIs off the internet?",
@@ -34967,66 +35060,6 @@
     "source": "Hacker News AI",
     "summary": "Article URL: https://www.maltebuettner.eu/posts/documentai-bbox-benchmark Comments URL: https://news.ycombinator.com/item?id=48335498 Points: 1 # Comments: 0",
     "published_at": "2026-05-30 12:32",
-    "tags": [],
-    "fetch_date": "2026-05-30",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
-    "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a Comments URL: https://news.ycombinator.com/item?id=48335388 Points: 22 # Comments: 15",
-    "published_at": "2026-05-30 12:17",
-    "tags": [],
-    "fetch_date": "2026-05-30",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Is AI putting graduates out of work already?",
-    "url": "https://www.economist.com/finance-and-economics/2026/05/13/is-ai-putting-graduates-out-of-work-already",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/05/13/is-ai-putting-graduates-out-of-work-already Comments URL: https://news.ycombinator.com/item?id=48335312 Points: 2 # Comments: 0",
-    "published_at": "2026-05-30 12:06",
-    "tags": [],
-    "fetch_date": "2026-05-30",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Open-source spectre haunts the AI feast",
-    "url": "https://www.reuters.com/commentary/breakingviews/open-source-spectre-haunts-ai-feast-2026-05-28/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.reuters.com/commentary/breakingviews/open-source-spectre-haunts-ai-feast-2026-05-28/ Comments URL: https://news.ycombinator.com/item?id=48335290 Points: 2 # Comments: 0",
-    "published_at": "2026-05-30 12:03",
-    "tags": [],
-    "fetch_date": "2026-05-30",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Researchers, Ask Yourself These 6 Questions to Strengthen Your Moral Muscles",
-    "url": "https://www.lesswrong.com/posts/w4ynu8L57dJP29p5c/ai-researchers-ask-yourself-these-6-questions-to-strengthen",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.lesswrong.com/posts/w4ynu8L57dJP29p5c/ai-researchers-ask-yourself-these-6-questions-to-strengthen Comments URL: https://news.ycombinator.com/item?id=48335268 Points: 1 # Comments: 1",
-    "published_at": "2026-05-30 12:00",
-    "tags": [],
-    "fetch_date": "2026-05-30",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Billionaires Brace for Pitchforks",
-    "url": "https://www.axios.com/2026/05/29/ai-billionaires-tech-taxes-wealth",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.axios.com/2026/05/29/ai-billionaires-tech-taxes-wealth Comments URL: https://news.ycombinator.com/item?id=48334902 Points: 7 # Comments: 0",
-    "published_at": "2026-05-30 11:01",
-    "tags": [],
-    "fetch_date": "2026-05-30",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Multi-Lora-Continual-Learning",
-    "url": "https://trajectory.ai/field-notes/multi-lora-training-for-continual-learning",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://trajectory.ai/field-notes/multi-lora-training-for-continual-learning Comments URL: https://news.ycombinator.com/item?id=48334520 Points: 3 # Comments: 2",
-    "published_at": "2026-05-30 09:57",
     "tags": [],
     "fetch_date": "2026-05-30",
     "fetch_label": "晚报"
