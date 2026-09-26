@@ -1,5 +1,101 @@
 [
   {
+    "title": "Using an LLM to Automate the Process of Archiving New macOS App Icons",
+    "url": "https://blog.jim-nielsen.com/2026/faster-app-icon-retrieval/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.jim-nielsen.com/2026/faster-app-icon-retrieval/ Comments URL: https://news.ycombinator.com/item?id=49857650 Points: 1 # Comments: 0",
+    "published_at": "2026-09-26 15:48",
+    "tags": [],
+    "fetch_date": "2026-09-26",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+    "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/ Comments URL: https://news.ycombinator.com/item?id=49857555 Points: 3 # Comments: 1",
+    "published_at": "2026-09-26 15:37",
+    "tags": [],
+    "fetch_date": "2026-09-26",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI won't take your career",
+    "url": "https://andrej.sh/posts/ai-wont-take-your-career",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://andrej.sh/posts/ai-wont-take-your-career Comments URL: https://news.ycombinator.com/item?id=49857463 Points: 2 # Comments: 0",
+    "published_at": "2026-09-26 15:26",
+    "tags": [],
+    "fetch_date": "2026-09-26",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "All new PocketWebTools – Home of local AI",
+    "url": "https://pocketweb.tools/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://pocketweb.tools/ Comments URL: https://news.ycombinator.com/item?id=49857372 Points: 1 # Comments: 0",
+    "published_at": "2026-09-26 15:16",
+    "tags": [],
+    "fetch_date": "2026-09-26",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "I think this AI models are making us stupid and the reason is their interface",
+    "url": "https://news.ycombinator.com/item?id=49857342",
+    "source": "Hacker News AI",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49857342 Points: 3 # Comments: 0",
+    "published_at": "2026-09-26 15:12",
+    "tags": [],
+    "fetch_date": "2026-09-26",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: I made HACKER AI for your vibecoded app",
+    "url": "https://www.netherite.uz",
+    "source": "Hacker News AI",
+    "summary": "Netherite is your own Security Specialist. It reviews your codebase, find vulnerabilities, flaws, and other security issues before writing professional report. Also gives you fix prompt. Free to try! Comments URL: https://news.ycombinator.com/item?id=49857290 Points: 1 # Comments: 0",
+    "published_at": "2026-09-26 15:07",
+    "tags": [],
+    "fetch_date": "2026-09-26",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "I'm coding directly in production with AI and I'm not looking back",
+    "url": "https://joydemo.com/blog/coding-directly-in-production-with-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://joydemo.com/blog/coding-directly-in-production-with-ai Comments URL: https://news.ycombinator.com/item?id=49856750 Points: 3 # Comments: 7",
+    "published_at": "2026-09-26 14:11",
+    "tags": [],
+    "fetch_date": "2026-09-26",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "I created an interactive digital avatar of myself — and you can talk to it",
+    "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+    "source": "TechCrunch AI",
+    "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+    "published_at": "2026-09-26 14:00",
+    "tags": [
+      "Startups",
+      "Venture",
+      "AI",
+      "Synthesia",
+      "AI avatars"
+    ],
+    "fetch_date": "2026-09-26",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Meta Expands Private Processing Confidential Computing to AI Glasses",
+    "url": "https://www.unite.ai/meta-expands-private-processing-confidential-computing-to-ai-glasses/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.unite.ai/meta-expands-private-processing-confidential-computing-to-ai-glasses/ Comments URL: https://news.ycombinator.com/item?id=49856147 Points: 1 # Comments: 0",
+    "published_at": "2026-09-26 13:05",
+    "tags": [],
+    "fetch_date": "2026-09-26",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "AI Safety's Disallowed Conclusion",
     "url": "https://www.souprecipies.com/p/ai-safetys-disallowed-conclusion",
     "source": "Hacker News AI",
@@ -133,6 +229,21 @@
     "fetch_label": "早报"
   },
   {
+    "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+    "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+    "source": "TechCrunch AI",
+    "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
+    "published_at": "2026-09-25 18:33",
+    "tags": [
+      "AI",
+      "Venture",
+      "In Brief",
+      "nscale"
+    ],
+    "fetch_date": "2026-09-26",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Astra and Opus just passed Turing’s other test",
     "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
     "source": "TechCrunch AI",
@@ -181,6 +292,22 @@
     "summary": "Article URL: https://jeffs.blog/p/defining-ai-psychosis-part-3-parasocial Comments URL: https://news.ycombinator.com/item?id=49846427 Points: 3 # Comments: 0",
     "published_at": "2026-09-25 16:05",
     "tags": [],
+    "fetch_date": "2026-09-26",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Meta’s AI Tamagotchi bet is…working?",
+    "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+    "source": "TechCrunch AI",
+    "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both companies as&#160;Anthropic rolled out Opus 5.5, followed by&#160;OpenAI’s GPT-6 model updates&#160;just&#160;90 minutes&#160;later.&#160;But the company that stole the spotlight was Meta, whose&#160;personal AI agent Muse&#160;is&#160;reportedly&#160;outpacing&#160;ChatGPT’s early numbers and is he",
+    "published_at": "2026-09-25 16:00",
+    "tags": [
+      "AI",
+      "AI agents",
+      "consumer AI",
+      "Meta",
+      "muse"
+    ],
     "fetch_date": "2026-09-26",
     "fetch_label": "晚报"
   },
@@ -34881,197 +35008,5 @@
     "tags": [],
     "fetch_date": "2026-06-02",
     "fetch_label": "早报"
-  },
-  {
-    "title": "Alphabet plans to raise $80B to pay for AI buildout",
-    "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
-    "source": "TechCrunch AI",
-    "summary": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in its statement.",
-    "published_at": "2026-06-01 22:55",
-    "tags": [
-      "AI",
-      "Alphabet",
-      "compute",
-      "Google",
-      "In Brief"
-    ],
-    "fetch_date": "2026-06-03",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
-    "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
-    "source": "TechCrunch AI",
-    "summary": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
-    "published_at": "2026-06-01 21:35",
-    "tags": [
-      "AI",
-      "Hardware",
-      "TC",
-      "AI PC",
-      "cpus",
-      "Microsoft",
-      "nvidia"
-    ],
-    "fetch_date": "2026-06-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
-    "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
-    "source": "TechCrunch AI",
-    "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
-    "published_at": "2026-06-01 20:03",
-    "tags": [
-      "AI",
-      "ChatGPT",
-      "lawsuits",
-      "OpenAI",
-      "sam altman"
-    ],
-    "fetch_date": "2026-06-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Anthropic files to go public",
-    "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
-    "source": "TechCrunch AI",
-    "summary": "The company said Monday it has filed confidentially for an IPO.",
-    "published_at": "2026-06-01 16:36",
-    "tags": [
-      "AI",
-      "TC",
-      "Anthropic",
-      "IPO",
-      "OpenAI",
-      "SpaceX"
-    ],
-    "fetch_date": "2026-06-02",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
-    "url": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
-    "source": "The Verge AI",
-    "summary": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering great battery life - at least on the Mac. In the Windows world, performance hasn't fully matched up under Qualcomm chips, mostly in the [&#8230;]",
-    "published_at": "2026-06-01 16:02",
-    "tags": [
-      "AI",
-      "Analysis",
-      "Asus",
-      "Computex",
-      "Dell",
-      "Gadgets",
-      "HP",
-      "Laptops",
-      "Lenovo",
-      "Microsoft",
-      "Nvidia",
-      "Report",
-      "Tech",
-      "Windows"
-    ],
-    "fetch_date": "2026-06-03",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "This AI weather startup is out-forecasting government agencies",
-    "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
-    "source": "TechCrunch AI",
-    "summary": "Windborne Systems' newest weather forecasting model beats the best government predictions by days.",
-    "published_at": "2026-06-01 16:00",
-    "tags": [
-      "AI",
-      "Exclusive",
-      "Windborne Systems"
-    ],
-    "fetch_date": "2026-06-02",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Gemini’s new AI agent is about as good as Google’s demo",
-    "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
-    "source": "The Verge AI",
-    "summary": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me access to Spark last week. Google advertises Spark as an AI agent that can take on tasks and work on them [&#8230;]",
-    "published_at": "2026-06-01 16:00",
-    "tags": [
-      "AI",
-      "Google",
-      "Google I/O 2026",
-      "Hands-on",
-      "Report",
-      "Reviews",
-      "Tech"
-    ],
-    "fetch_date": "2026-06-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Meta&#8217;s own AI was exploited to hijack Instagram accounts",
-    "url": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
-    "source": "The Verge AI",
-    "summary": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's chatbot to switch the email associated with someone else's profile and then reset the password. The issue, which Meta says has [&#8230;]",
-    "published_at": "2026-06-01 15:20",
-    "tags": [
-      "AI",
-      "Meta",
-      "News",
-      "Security",
-      "Tech"
-    ],
-    "fetch_date": "2026-06-03",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
-    "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
-    "source": "TechCrunch AI",
-    "summary": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
-    "published_at": "2026-06-01 14:49",
-    "tags": [
-      "AI",
-      "Apps",
-      "Chrome",
-      "DuckDuckGo",
-      "Firefox",
-      "Google",
-      "Search"
-    ],
-    "fetch_date": "2026-06-02",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Microsoft to unveil new AI models and Windows improvements at Build",
-    "url": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect",
-    "source": "The Verge AI",
-    "summary": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft called it the Professional Developers Conference, and I can't remember a more pivotal moment. As Microsoft continues to reshuffle its entire business around AI, it's moving Build [&#8230;]",
-    "published_at": "2026-06-01 10:39",
-    "tags": [
-      "AI",
-      "Microsoft",
-      "Microsoft Build",
-      "Report",
-      "Tech",
-      "Windows"
-    ],
-    "fetch_date": "2026-06-02",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI is blowing up music. How should the Grammys handle it?",
-    "url": "https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason",
-    "source": "The Verge AI",
-    "summary": "Today I’m talking with Harvey Mason Jr., who is CEO of the Recording Academy — that’s the outfit that puts on the Grammy Awards. I last talked to Harvey in 2024, when it was obvious that generative AI would upend the music industry, but still not exactly clear how that would happen.&#160; Well, it’s been [&#8230;]",
-    "published_at": "2026-06-01 10:30",
-    "tags": [
-      "AI",
-      "Decoder",
-      "Entertainment",
-      "Music",
-      "Podcasts",
-      "Spotify"
-    ],
-    "fetch_date": "2026-06-02",
-    "fetch_label": "晚报"
   }
 ]
