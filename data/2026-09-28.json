@@ -1,0 +1,143 @@
+{
+  "date": "2026-09-28",
+  "runs": [
+    {
+      "label": "晚报",
+      "time": "2026-09-28 00:32:24",
+      "count": 15,
+      "articles": [
+        {
+          "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+          "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue Comments URL: https://news.ycombinator.com/item?id=49868202 Points: 1 # Comments: 0",
+          "published_at": "2026-09-27 16:29",
+          "tags": []
+        },
+        {
+          "title": "There are no \"rogue\" AI agents",
+          "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents Comments URL: https://news.ycombinator.com/item?id=49868083 Points: 1 # Comments: 0",
+          "published_at": "2026-09-27 16:19",
+          "tags": []
+        },
+        {
+          "title": "Advancing Private AI Compute with secure, server-side memory",
+          "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/ Comments URL: https://news.ycombinator.com/item?id=49867987 Points: 2 # Comments: 0",
+          "published_at": "2026-09-27 16:10",
+          "tags": []
+        },
+        {
+          "title": "The Tragic Alley of the LLM",
+          "url": "https://nikotak.com/tragic-alley-of-the-llm.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://nikotak.com/tragic-alley-of-the-llm.html Comments URL: https://news.ycombinator.com/item?id=49867823 Points: 2 # Comments: 0",
+          "published_at": "2026-09-27 15:55",
+          "tags": []
+        },
+        {
+          "title": "Show HN: TinyAIArena watch AI agents battle it out",
+          "url": "https://tinyaiarena.com/",
+          "source": "Hacker News AI",
+          "summary": "Did you ever click on an “AI Arena” expecting glorious battle and instead get a boring benchmark? If so, this project is for you: proper life-or-death fights between four models on a picturesque 8×8 grid. May the most intelligent one win!Click on any of the matches to spectate them.Code: https://github.com/hp6/ai-arena Comments URL: https://news.ycombinator.com/item?id=49867775 Points: 14 # Comments: 5",
+          "published_at": "2026-09-27 15:51",
+          "tags": []
+        },
+        {
+          "title": "A20 Pro and on-device AI: It's showtime",
+          "url": "https://rickytakkar.com/blog_a20_pro_ai.html?source=hn",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://rickytakkar.com/blog_a20_pro_ai.html?source=hn Comments URL: https://news.ycombinator.com/item?id=49867379 Points: 2 # Comments: 0",
+          "published_at": "2026-09-27 15:17",
+          "tags": []
+        },
+        {
+          "title": "Bill Gates says unchecked AI could 'cause billion deaths' in call for regulation",
+          "url": "https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker Comments URL: https://news.ycombinator.com/item?id=49867212 Points: 2 # Comments: 0",
+          "published_at": "2026-09-27 14:59",
+          "tags": []
+        },
+        {
+          "title": "AI messaging scam costs Italy's top bank Intesa millions, sources say",
+          "url": "https://www.reuters.com/legal/government/ai-messaging-scam-costs-italys-top-bank-intesa-millions-sources-say-2026-09-25/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.reuters.com/legal/government/ai-messaging-scam-costs-italys-top-bank-intesa-millions-sources-say-2026-09-25/ Comments URL: https://news.ycombinator.com/item?id=49866983 Points: 2 # Comments: 0",
+          "published_at": "2026-09-27 14:34",
+          "tags": []
+        },
+        {
+          "title": "Sourced tracker for Tasmania's proposed AI data centres",
+          "url": "https://tasdatacentres.org/30min/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://tasdatacentres.org/30min/ Comments URL: https://news.ycombinator.com/item?id=49866711 Points: 1 # Comments: 0",
+          "published_at": "2026-09-27 13:59",
+          "tags": []
+        },
+        {
+          "title": "Jev and the Return of AI/ML Engineering",
+          "url": "https://leehanchung.github.io/blogs/2026/09/20/jev-return-ai-ml-engineering/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://leehanchung.github.io/blogs/2026/09/20/jev-return-ai-ml-engineering/ Comments URL: https://news.ycombinator.com/item?id=49866629 Points: 3 # Comments: 0",
+          "published_at": "2026-09-27 13:48",
+          "tags": []
+        },
+        {
+          "title": "Your AI Agent Forgot Half of What You Told It",
+          "url": "https://www.oreilly.com/radar/your-ai-agent-already-forgot-half-of-what-you-told-it/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.oreilly.com/radar/your-ai-agent-already-forgot-half-of-what-you-told-it/ Comments URL: https://news.ycombinator.com/item?id=49866429 Points: 2 # Comments: 0",
+          "published_at": "2026-09-27 13:15",
+          "tags": []
+        },
+        {
+          "title": "AI Doesn't Need to Invent a Supervirus to Be Dangerous",
+          "url": "https://liorzi.substack.com/p/ai-doesnt-need-to-invent-a-supervirus",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://liorzi.substack.com/p/ai-doesnt-need-to-invent-a-supervirus Comments URL: https://news.ycombinator.com/item?id=49866283 Points: 2 # Comments: 0",
+          "published_at": "2026-09-27 12:57",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Augur – Sandboxed macOS VMs with Xcode for AI Coding Agents",
+          "url": "https://github.com/h1d3mun3/augur",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/h1d3mun3/augur Comments URL: https://news.ycombinator.com/item?id=49866246 Points: 1 # Comments: 0",
+          "published_at": "2026-09-27 12:52",
+          "tags": []
+        },
+        {
+          "title": "Insurers claim AI is already increasing healthcare costs",
+          "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+          "source": "TechCrunch AI",
+          "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+          "published_at": "2026-09-26 21:02",
+          "tags": [
+            "AI",
+            "Biotech & Health",
+            "Blue Cross Blue Shield",
+            "Abridge"
+          ]
+        },
+        {
+          "title": "I created an interactive digital avatar of myself — and you can talk to it",
+          "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+          "source": "TechCrunch AI",
+          "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+          "published_at": "2026-09-26 14:00",
+          "tags": [
+            "Startups",
+            "Venture",
+            "AI",
+            "Synthesia",
+            "AI avatars"
+          ]
+        }
+      ]
+    }
+  ]
+}

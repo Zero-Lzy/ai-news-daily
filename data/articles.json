@@ -1,5 +1,135 @@
 [
   {
+    "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+    "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue Comments URL: https://news.ycombinator.com/item?id=49868202 Points: 1 # Comments: 0",
+    "published_at": "2026-09-27 16:29",
+    "tags": [],
+    "fetch_date": "2026-09-28",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "There are no \"rogue\" AI agents",
+    "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents Comments URL: https://news.ycombinator.com/item?id=49868083 Points: 1 # Comments: 0",
+    "published_at": "2026-09-27 16:19",
+    "tags": [],
+    "fetch_date": "2026-09-28",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Advancing Private AI Compute with secure, server-side memory",
+    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/ Comments URL: https://news.ycombinator.com/item?id=49867987 Points: 2 # Comments: 0",
+    "published_at": "2026-09-27 16:10",
+    "tags": [],
+    "fetch_date": "2026-09-28",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The Tragic Alley of the LLM",
+    "url": "https://nikotak.com/tragic-alley-of-the-llm.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://nikotak.com/tragic-alley-of-the-llm.html Comments URL: https://news.ycombinator.com/item?id=49867823 Points: 2 # Comments: 0",
+    "published_at": "2026-09-27 15:55",
+    "tags": [],
+    "fetch_date": "2026-09-28",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: TinyAIArena watch AI agents battle it out",
+    "url": "https://tinyaiarena.com/",
+    "source": "Hacker News AI",
+    "summary": "Did you ever click on an “AI Arena” expecting glorious battle and instead get a boring benchmark? If so, this project is for you: proper life-or-death fights between four models on a picturesque 8×8 grid. May the most intelligent one win!Click on any of the matches to spectate them.Code: https://github.com/hp6/ai-arena Comments URL: https://news.ycombinator.com/item?id=49867775 Points: 14 # Comments: 5",
+    "published_at": "2026-09-27 15:51",
+    "tags": [],
+    "fetch_date": "2026-09-28",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "A20 Pro and on-device AI: It's showtime",
+    "url": "https://rickytakkar.com/blog_a20_pro_ai.html?source=hn",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://rickytakkar.com/blog_a20_pro_ai.html?source=hn Comments URL: https://news.ycombinator.com/item?id=49867379 Points: 2 # Comments: 0",
+    "published_at": "2026-09-27 15:17",
+    "tags": [],
+    "fetch_date": "2026-09-28",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Bill Gates says unchecked AI could 'cause billion deaths' in call for regulation",
+    "url": "https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker Comments URL: https://news.ycombinator.com/item?id=49867212 Points: 2 # Comments: 0",
+    "published_at": "2026-09-27 14:59",
+    "tags": [],
+    "fetch_date": "2026-09-28",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI messaging scam costs Italy's top bank Intesa millions, sources say",
+    "url": "https://www.reuters.com/legal/government/ai-messaging-scam-costs-italys-top-bank-intesa-millions-sources-say-2026-09-25/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.reuters.com/legal/government/ai-messaging-scam-costs-italys-top-bank-intesa-millions-sources-say-2026-09-25/ Comments URL: https://news.ycombinator.com/item?id=49866983 Points: 2 # Comments: 0",
+    "published_at": "2026-09-27 14:34",
+    "tags": [],
+    "fetch_date": "2026-09-28",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Sourced tracker for Tasmania's proposed AI data centres",
+    "url": "https://tasdatacentres.org/30min/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://tasdatacentres.org/30min/ Comments URL: https://news.ycombinator.com/item?id=49866711 Points: 1 # Comments: 0",
+    "published_at": "2026-09-27 13:59",
+    "tags": [],
+    "fetch_date": "2026-09-28",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Jev and the Return of AI/ML Engineering",
+    "url": "https://leehanchung.github.io/blogs/2026/09/20/jev-return-ai-ml-engineering/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://leehanchung.github.io/blogs/2026/09/20/jev-return-ai-ml-engineering/ Comments URL: https://news.ycombinator.com/item?id=49866629 Points: 3 # Comments: 0",
+    "published_at": "2026-09-27 13:48",
+    "tags": [],
+    "fetch_date": "2026-09-28",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Your AI Agent Forgot Half of What You Told It",
+    "url": "https://www.oreilly.com/radar/your-ai-agent-already-forgot-half-of-what-you-told-it/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.oreilly.com/radar/your-ai-agent-already-forgot-half-of-what-you-told-it/ Comments URL: https://news.ycombinator.com/item?id=49866429 Points: 2 # Comments: 0",
+    "published_at": "2026-09-27 13:15",
+    "tags": [],
+    "fetch_date": "2026-09-28",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Doesn't Need to Invent a Supervirus to Be Dangerous",
+    "url": "https://liorzi.substack.com/p/ai-doesnt-need-to-invent-a-supervirus",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://liorzi.substack.com/p/ai-doesnt-need-to-invent-a-supervirus Comments URL: https://news.ycombinator.com/item?id=49866283 Points: 2 # Comments: 0",
+    "published_at": "2026-09-27 12:57",
+    "tags": [],
+    "fetch_date": "2026-09-28",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Augur – Sandboxed macOS VMs with Xcode for AI Coding Agents",
+    "url": "https://github.com/h1d3mun3/augur",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/h1d3mun3/augur Comments URL: https://news.ycombinator.com/item?id=49866246 Points: 1 # Comments: 0",
+    "published_at": "2026-09-27 12:52",
+    "tags": [],
+    "fetch_date": "2026-09-28",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
     "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
     "source": "TechCrunch AI",
@@ -34887,156 +35017,6 @@
       "Tech"
     ],
     "fetch_date": "2026-06-03",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Microsoft&#8217;s Project Solara is an OS for AI agent gadgets",
-    "url": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
-    "source": "The Verge AI",
-    "summary": "Microsoft just announced \"Project Solara,\" a new OS designed for gadgets that run AI agents, at Build 2026. The company is calling it \"a new platform built from the ground up to power agent-driven experiences.\" It's built on Android, not Windows. Microsoft demonstrated two concept Project Solara devices at Build today: Desk concept and badge [&#8230;]",
-    "published_at": "2026-06-02 13:31",
-    "tags": [
-      "AI",
-      "Microsoft",
-      "Microsoft Build",
-      "News",
-      "Tech"
-    ],
-    "fetch_date": "2026-06-03",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "ZeroDrift raises $10M to protect AI models from themselves",
-    "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
-    "source": "TechCrunch AI",
-    "summary": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
-    "published_at": "2026-06-02 12:32",
-    "tags": [
-      "AI",
-      "compliance",
-      "Zerodrift"
-    ],
-    "fetch_date": "2026-06-03",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
-    "url": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
-    "source": "TechCrunch AI",
-    "summary": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
-    "published_at": "2026-06-02 12:00",
-    "tags": [
-      "Space",
-      "AI"
-    ],
-    "fetch_date": "2026-06-03",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Microsoft Build 2026: All the news about Windows, AI, RTX Spark, and more",
-    "url": "https://www.theverge.com/tech/941668/microsoft-build-may-2026-live-news-updates",
-    "source": "The Verge AI",
-    "summary": "Microsoft Build 2026 kicked off with a keynote presentation that introduced some developer-focused Windows updates, an OpenClaw-based AI assistant called Scout, the new Majorana 2 quantum computing chip, and a Surface mini PC designed for AI developers. Microsoft also rolled out a new Android-based OS called Project Solara that’s designed for gadgets that run AI [&#8230;]",
-    "published_at": "2026-06-02 11:59",
-    "tags": [
-      "AI",
-      "Microsoft",
-      "Microsoft Build",
-      "News",
-      "Tech",
-      "Windows"
-    ],
-    "fetch_date": "2026-06-03",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "When Agentic AI Met the Common Law of Agency [pdf]",
-    "url": "https://download.ssrn.com/2026/5/27/6838660.pdf?response-content-disposition=inline&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFQaCXVzLWVhc3QtMSJGMEQCIGCqRt3E43JqumYgrLNdiLIHcwl4vS%2F0umJm5fj1DgvqAiAvib35M%2BdXgdaFDsjX4yKd3aeebKQLtbtu3Tt1hk8w0iq9BQgcEAQaDDMwODQ3NTMwMTI1NyIMCfQ8Rd3NIrLXpeB2KpoFBGQlbWI5fPXOWdOpXqA4IhMosTVZpVkxaHnIF%2FofUKhmHLnJ5N7pmpTc90IxtpKjzT%2FHTBXP7X5w7S4ood6VkvpC%2B8w6xfL4qxv85BgxPrUYQHCY4LcF%2FyP1wyhOYGi92R7A3Eb63lD84scBBlqpjX3EwoBslfOjUpL52x8SoCL1VR7ESR18%2B3Jp9ukCCCd%2BMez%2BoycAZMvG9zj5XB2irLTL6GQq%2F%2FGviowJ8TPQfjledMpnufc6jtHqxL2UDOWEBfSskj1fj4El1Z8CR9RMxHuiy%2FQHye2M3Rmte7ClWdCFeaIK7EAKi1uMwc3HTa4qgXkKcUSfs8sFCg6HgjscdO2Ft%2FxeR7MEeJ%2F4DpuvkgMT6JqPNdgyUNdlbjESL0P%2FVShFnySxLItbCIt9gk2BUADmKp0eSsaGakq%2Bsa0ux0ZnhS8O%2BmVg%2FUf%2F2KLx1JZ1yXZbZ0aKw5GaxJGeG7cHg9JrfkbKIZsWpwRfd01y0qmrnvF0RITxVJXxWbcGRPt%2B9juPBM3XLhjfh8agRuX7eOYWVqWKxo0OibuCTkAEF%2B9GumDpfSz0sxy43IAtu1bbHbb%2B9HprtD2J3QVJDpp4mGwKszjfJ%2BzMWjKjOmxTSFtaElhS4XeeZoOzI6zjUyc0ccL5Am3BeAy46d4hmMOBsSr0mYMAyPVHiHJze9fd9On8HeodJl1pV%2Fj%2F9O5dLTxIGGZM2ZMRdU3tgDTony4fN4C%2ByA%2BivgpaCBdy3JWalH1mosRLZkjJw8PYx%2FVtT84%2BROt62AKtszEt0EDdvlo%2FoVyChEKYWvuYTZVZ%2FHIyVqEBD77b0uNHvvYeGIHVklSFIDm%2BLQvckTYFyjIRQa%2BnM7Ih31jCkECto21D0tD1w%2B51oABYYD3JxCAjMPGX%2BdAGOrIBXbgCuhCyivu3m7cX9trkuy5Qime45cpnmPPTspQTVeSYzV1iMw4eHqlgP4%2FhHJhRqBgctBUBmrv8N7ZEXKbH9iRxq2VwMOrKcv23%2BfyJ1XcSEpHPuM7zv1pHeRj6%2FGRo2CQrxfD%2FNZYjw2lxF39YUdE74SblFUoRNxLeDfC9GJZ%2FGU1%2FFbK5qUWcLDajlPBw%2FbK60%2Btw7uLMAE4iojvJqw5jWytKOODyrcWGKiUsI14Tqw%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260602T035615Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAUPUUPRWE6DHJ6PFC%2F20260602%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=d3bd657ebc4c27abea99e0b6758554cf5465c68cf03dacf601d29cec139cbfbe&abstractId=6838660",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://download.ssrn.com/2026/5/27/6838660.pdf?response-content-disposition=inline&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFQaCXVzLWVhc3QtMSJGMEQCIGCqRt3E43JqumYgrLNdiLIHcwl4vS%2F0umJm5fj1DgvqAiAvib35M%2BdXgdaFDsjX4yKd3aeebKQLtbtu3Tt1hk8w0iq9BQgcEAQaDDMwODQ3NTMwMTI1NyIMCfQ8Rd3NIrLXpeB2KpoFBGQlbWI5fPXOWdOpXqA4IhMosTVZpVkxaHnIF%2FofUKhmHLnJ5N7pmpTc90IxtpKjzT%2FHTBXP7X5w7S4ood6VkvpC%2B8w6xfL4qxv85BgxPrUYQHCY4LcF%2FyP1wyhOYGi92R7A3Eb63lD84scBBlqpjX3EwoBslfOjUpL52x8SoCL1VR7ESR18%2B3Jp",
-    "published_at": "2026-06-02 03:57",
-    "tags": [],
-    "fetch_date": "2026-06-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Bloc – Cursor for AI video (a canvas IDE, not a timeline)",
-    "url": "https://vidbloc.com/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://vidbloc.com/ Comments URL: https://news.ycombinator.com/item?id=48365802 Points: 1 # Comments: 0",
-    "published_at": "2026-06-02 03:52",
-    "tags": [],
-    "fetch_date": "2026-06-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI can chart a course to disaster faster than humans can notice",
-    "url": "https://thebulletin.org/2026/05/ai-can-chart-a-course-to-disaster-faster-than-humans-can-notice/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://thebulletin.org/2026/05/ai-can-chart-a-course-to-disaster-faster-than-humans-can-notice/ Comments URL: https://news.ycombinator.com/item?id=48365704 Points: 1 # Comments: 0",
-    "published_at": "2026-06-02 03:37",
-    "tags": [],
-    "fetch_date": "2026-06-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Introducing The American AI Sovereign Wealth Fund Act [video]",
-    "url": "https://www.youtube.com/watch?v=VN4b4UCWMKI",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.youtube.com/watch?v=VN4b4UCWMKI Comments URL: https://news.ycombinator.com/item?id=48365681 Points: 1 # Comments: 0",
-    "published_at": "2026-06-02 03:33",
-    "tags": [],
-    "fetch_date": "2026-06-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Meta AI Support – full system prompt leaked",
-    "url": "https://github.com/michaelcummings12/meta-ai-support-prompt/blob/main/system-prompt.md",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/michaelcummings12/meta-ai-support-prompt/blob/main/system-prompt.md Comments URL: https://news.ycombinator.com/item?id=48365565 Points: 3 # Comments: 0",
-    "published_at": "2026-06-02 03:17",
-    "tags": [],
-    "fetch_date": "2026-06-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Memex – A local-first AI journal that keeps everything as Markdown",
-    "url": "https://github.com/memex-lab/memex",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/memex-lab/memex Comments URL: https://news.ycombinator.com/item?id=48365371 Points: 1 # Comments: 0",
-    "published_at": "2026-06-02 02:48",
-    "tags": [],
-    "fetch_date": "2026-06-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "X.org Server Starts June Nine New Security Vulnerabilities Discovered via AI",
-    "url": "https://www.phoronix.com/news/X.Org-9-Vulnerabilities-AI",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.phoronix.com/news/X.Org-9-Vulnerabilities-AI Comments URL: https://news.ycombinator.com/item?id=48365188 Points: 2 # Comments: 0",
-    "published_at": "2026-06-02 02:22",
-    "tags": [],
-    "fetch_date": "2026-06-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "DeepMind CEO says those cutting jobs because of AI 'lack imagination'",
-    "url": "https://www.inc.com/jessica-stillman/nobel-prize-winner-demis-hassabis-says-ai-job-cuts-are-dumb-research-agrees/91348959",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.inc.com/jessica-stillman/nobel-prize-winner-demis-hassabis-says-ai-job-cuts-are-dumb-research-agrees/91348959 Comments URL: https://news.ycombinator.com/item?id=48364740 Points: 7 # Comments: 0",
-    "published_at": "2026-06-02 01:21",
-    "tags": [],
-    "fetch_date": "2026-06-02",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Building an Open-Source Verilog Simulator with AI: 580K Lines in 43 Days",
-    "url": "https://normalcomputing.com/blog/building-an-open-source-verilog-simulator-with-ai-580k-lines-in-43-days",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://normalcomputing.com/blog/building-an-open-source-verilog-simulator-with-ai-580k-lines-in-43-days Comments URL: https://news.ycombinator.com/item?id=48364654 Points: 2 # Comments: 0",
-    "published_at": "2026-06-02 01:09",
-    "tags": [],
-    "fetch_date": "2026-06-02",
     "fetch_label": "早报"
   }
 ]
