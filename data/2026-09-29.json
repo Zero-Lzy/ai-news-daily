@@ -1,0 +1,217 @@
+{
+  "date": "2026-09-29",
+  "runs": [
+    {
+      "label": "晚报",
+      "time": "2026-09-29 03:20:50",
+      "count": 20,
+      "articles": [
+        {
+          "title": "Homa: The End of TCP for AI Clusters [video]",
+          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=eZ8WWZzoaR0 Comments URL: https://news.ycombinator.com/item?id=49882993 Points: 1 # Comments: 0",
+          "published_at": "2026-09-28 19:14",
+          "tags": []
+        },
+        {
+          "title": "Why compute and general search will always beat human cleverness in AI (2019)",
+          "url": "http://www.incompleteideas.net/IncIdeas/BitterLesson.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: http://www.incompleteideas.net/IncIdeas/BitterLesson.html Comments URL: https://news.ycombinator.com/item?id=49882922 Points: 1 # Comments: 0",
+          "published_at": "2026-09-28 19:08",
+          "tags": []
+        },
+        {
+          "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+          "url": "https://stateofutopia.com/experiments/microllmlab/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/ Comments URL: https://news.ycombinator.com/item?id=49882781 Points: 2 # Comments: 1",
+          "published_at": "2026-09-28 18:58",
+          "tags": []
+        },
+        {
+          "title": "Stephan Wolfram on the Future for Math Research in the Age of AI",
+          "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49882766 Points: 3 # Comments: 0",
+          "published_at": "2026-09-28 18:58",
+          "tags": []
+        },
+        {
+          "title": "Can AI Control a Spacecraft?",
+          "url": "https://substack.com/@thejeevankumar/note/c-348060494",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://substack.com/@thejeevankumar/note/c-348060494 Comments URL: https://news.ycombinator.com/item?id=49882699 Points: 2 # Comments: 0",
+          "published_at": "2026-09-28 18:53",
+          "tags": []
+        },
+        {
+          "title": "Law professor Orin Kerr on criminal liability for AI hacking",
+          "url": "https://twitter.com/OrinKerr/status/2104271670697755016",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://twitter.com/OrinKerr/status/2104271670697755016 Comments URL: https://news.ycombinator.com/item?id=49882566 Points: 4 # Comments: 0",
+          "published_at": "2026-09-28 18:43",
+          "tags": []
+        },
+        {
+          "title": "Google Rewrites Critical C Dependencies to Rust Using AI and Differential Fuzzin",
+          "url": "https://www.infoq.com/news/2026/09/c-rust-rewrite/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.infoq.com/news/2026/09/c-rust-rewrite/ Comments URL: https://news.ycombinator.com/item?id=49882449 Points: 1 # Comments: 0",
+          "published_at": "2026-09-28 18:36",
+          "tags": []
+        },
+        {
+          "title": "Jensen Huang: All systems around AI must be designed with restrictive rights",
+          "url": "https://www.youtube.com/watch?v=GGzPtkYiYis",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=GGzPtkYiYis Comments URL: https://news.ycombinator.com/item?id=49882406 Points: 1 # Comments: 0",
+          "published_at": "2026-09-28 18:33",
+          "tags": []
+        },
+        {
+          "title": "AI chatbots give us a narrow slice of knowledge",
+          "url": "https://science.ku.dk/english/press/news/2026/ai-chatbots-give-us-a-narrow-slice-of-knowledge-researchers-warn-of-knowledge-collapse/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://science.ku.dk/english/press/news/2026/ai-chatbots-give-us-a-narrow-slice-of-knowledge-researchers-warn-of-knowledge-collapse/ Comments URL: https://news.ycombinator.com/item?id=49882234 Points: 1 # Comments: 0",
+          "published_at": "2026-09-28 18:23",
+          "tags": []
+        },
+        {
+          "title": "My declarative multi-machine homelab",
+          "url": "https://www.nijho.lt/post/homelab-explained/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.nijho.lt/post/homelab-explained/ Comments URL: https://news.ycombinator.com/item?id=49881987 Points: 2 # Comments: 1",
+          "published_at": "2026-09-28 18:08",
+          "tags": []
+        },
+        {
+          "title": "AI godfathers warn of runaway 'intelligence explosion'",
+          "url": "https://www.theguardian.com/technology/2026/sep/28/ai-godfathers-warn-of-runaway-intelligence-explosion",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/28/ai-godfathers-warn-of-runaway-intelligence-explosion Comments URL: https://news.ycombinator.com/item?id=49881803 Points: 4 # Comments: 1",
+          "published_at": "2026-09-28 17:55",
+          "tags": []
+        },
+        {
+          "title": "GenRec: An LLM-Backed Recommendation Ranker at NetflixConference",
+          "url": "https://arxiv.org/abs/2608.10257",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2608.10257 Comments URL: https://news.ycombinator.com/item?id=49881549 Points: 3 # Comments: 0",
+          "published_at": "2026-09-28 17:37",
+          "tags": []
+        },
+        {
+          "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+          "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+          "source": "TechCrunch AI",
+          "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+          "published_at": "2026-09-28 17:29",
+          "tags": [
+            "AI",
+            "Apps",
+            "gemini",
+            "Google"
+          ]
+        },
+        {
+          "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
+          "published_at": "2026-09-28 15:30",
+          "tags": [
+            "TC",
+            "Startups",
+            "AI",
+            "TechCrunch Disrupt",
+            "Anthropic",
+            "Gamma",
+            "Claude",
+            "clay"
+          ]
+        },
+        {
+          "title": "OpenAI’s AI agents need to catch up",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+          "source": "The Verge AI",
+          "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon - [&#8230;]",
+          "published_at": "2026-09-28 14:45",
+          "tags": [
+            "AI",
+            "Analysis",
+            "OpenAI",
+            "Report"
+          ]
+        },
+        {
+          "title": "Modulate raises $25M for its voice models and analysis suite",
+          "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
+          "source": "TechCrunch AI",
+          "summary": "Modulate deploys its models to detect deepfake, fraud and scam",
+          "published_at": "2026-09-28 14:05",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "cyberattacks",
+            "voice AI"
+          ]
+        },
+        {
+          "title": "Insurtech Outmarket raises $34.5M just months after prior round",
+          "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+          "source": "TechCrunch AI",
+          "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
+          "published_at": "2026-09-28 14:00",
+          "tags": [
+            "AI",
+            "Fintech",
+            "Startups",
+            "Insuretech",
+            "signalfire"
+          ]
+        },
+        {
+          "title": "Florida seeks a ban on ChatGPT acting like a person",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+          "source": "The Verge AI",
+          "summary": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns. According to Uthmeier, users are lulled into a false sense of security by the AI bot, as \"ChatGPT's use of language, including first-person pronouns [&#8230;]",
+          "published_at": "2026-09-28 13:00",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI",
+            "Policy"
+          ]
+        },
+        {
+          "title": "Can Muse overcome Meta’s trust issues?",
+          "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+          "source": "TechCrunch AI",
+          "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+          "published_at": "2026-09-27 19:57",
+          "tags": [
+            "AI",
+            "Equity podcast",
+            "Meta"
+          ]
+        },
+        {
+          "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+          "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+          "source": "TechCrunch AI",
+          "summary": "\"AI is the devil and I its maker.\"",
+          "published_at": "2026-09-27 16:30",
+          "tags": [
+            "AI",
+            "Media & Entertainment",
+            "Anthropic",
+            "dario amodei",
+            "Saturday night live"
+          ]
+        }
+      ]
+    }
+  ]
+}

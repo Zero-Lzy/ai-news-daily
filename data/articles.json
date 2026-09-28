@@ -1,5 +1,220 @@
 [
   {
+    "title": "Homa: The End of TCP for AI Clusters [video]",
+    "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=eZ8WWZzoaR0 Comments URL: https://news.ycombinator.com/item?id=49882993 Points: 1 # Comments: 0",
+    "published_at": "2026-09-28 19:14",
+    "tags": [],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Why compute and general search will always beat human cleverness in AI (2019)",
+    "url": "http://www.incompleteideas.net/IncIdeas/BitterLesson.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: http://www.incompleteideas.net/IncIdeas/BitterLesson.html Comments URL: https://news.ycombinator.com/item?id=49882922 Points: 1 # Comments: 0",
+    "published_at": "2026-09-28 19:08",
+    "tags": [],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+    "url": "https://stateofutopia.com/experiments/microllmlab/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/ Comments URL: https://news.ycombinator.com/item?id=49882781 Points: 2 # Comments: 1",
+    "published_at": "2026-09-28 18:58",
+    "tags": [],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Stephan Wolfram on the Future for Math Research in the Age of AI",
+    "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49882766 Points: 3 # Comments: 0",
+    "published_at": "2026-09-28 18:58",
+    "tags": [],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Can AI Control a Spacecraft?",
+    "url": "https://substack.com/@thejeevankumar/note/c-348060494",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://substack.com/@thejeevankumar/note/c-348060494 Comments URL: https://news.ycombinator.com/item?id=49882699 Points: 2 # Comments: 0",
+    "published_at": "2026-09-28 18:53",
+    "tags": [],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Law professor Orin Kerr on criminal liability for AI hacking",
+    "url": "https://twitter.com/OrinKerr/status/2104271670697755016",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/OrinKerr/status/2104271670697755016 Comments URL: https://news.ycombinator.com/item?id=49882566 Points: 4 # Comments: 0",
+    "published_at": "2026-09-28 18:43",
+    "tags": [],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Google Rewrites Critical C Dependencies to Rust Using AI and Differential Fuzzin",
+    "url": "https://www.infoq.com/news/2026/09/c-rust-rewrite/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.infoq.com/news/2026/09/c-rust-rewrite/ Comments URL: https://news.ycombinator.com/item?id=49882449 Points: 1 # Comments: 0",
+    "published_at": "2026-09-28 18:36",
+    "tags": [],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Jensen Huang: All systems around AI must be designed with restrictive rights",
+    "url": "https://www.youtube.com/watch?v=GGzPtkYiYis",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=GGzPtkYiYis Comments URL: https://news.ycombinator.com/item?id=49882406 Points: 1 # Comments: 0",
+    "published_at": "2026-09-28 18:33",
+    "tags": [],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI chatbots give us a narrow slice of knowledge",
+    "url": "https://science.ku.dk/english/press/news/2026/ai-chatbots-give-us-a-narrow-slice-of-knowledge-researchers-warn-of-knowledge-collapse/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://science.ku.dk/english/press/news/2026/ai-chatbots-give-us-a-narrow-slice-of-knowledge-researchers-warn-of-knowledge-collapse/ Comments URL: https://news.ycombinator.com/item?id=49882234 Points: 1 # Comments: 0",
+    "published_at": "2026-09-28 18:23",
+    "tags": [],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "My declarative multi-machine homelab",
+    "url": "https://www.nijho.lt/post/homelab-explained/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.nijho.lt/post/homelab-explained/ Comments URL: https://news.ycombinator.com/item?id=49881987 Points: 2 # Comments: 1",
+    "published_at": "2026-09-28 18:08",
+    "tags": [],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI godfathers warn of runaway 'intelligence explosion'",
+    "url": "https://www.theguardian.com/technology/2026/sep/28/ai-godfathers-warn-of-runaway-intelligence-explosion",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/28/ai-godfathers-warn-of-runaway-intelligence-explosion Comments URL: https://news.ycombinator.com/item?id=49881803 Points: 4 # Comments: 1",
+    "published_at": "2026-09-28 17:55",
+    "tags": [],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "GenRec: An LLM-Backed Recommendation Ranker at NetflixConference",
+    "url": "https://arxiv.org/abs/2608.10257",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2608.10257 Comments URL: https://news.ycombinator.com/item?id=49881549 Points: 3 # Comments: 0",
+    "published_at": "2026-09-28 17:37",
+    "tags": [],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+    "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+    "source": "TechCrunch AI",
+    "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+    "published_at": "2026-09-28 17:29",
+    "tags": [
+      "AI",
+      "Apps",
+      "gemini",
+      "Google"
+    ],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
+    "published_at": "2026-09-28 15:30",
+    "tags": [
+      "TC",
+      "Startups",
+      "AI",
+      "TechCrunch Disrupt",
+      "Anthropic",
+      "Gamma",
+      "Claude",
+      "clay"
+    ],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "OpenAI’s AI agents need to catch up",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+    "source": "The Verge AI",
+    "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon - [&#8230;]",
+    "published_at": "2026-09-28 14:45",
+    "tags": [
+      "AI",
+      "Analysis",
+      "OpenAI",
+      "Report"
+    ],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Modulate raises $25M for its voice models and analysis suite",
+    "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
+    "source": "TechCrunch AI",
+    "summary": "Modulate deploys its models to detect deepfake, fraud and scam",
+    "published_at": "2026-09-28 14:05",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "cyberattacks",
+      "voice AI"
+    ],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Insurtech Outmarket raises $34.5M just months after prior round",
+    "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+    "source": "TechCrunch AI",
+    "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
+    "published_at": "2026-09-28 14:00",
+    "tags": [
+      "AI",
+      "Fintech",
+      "Startups",
+      "Insuretech",
+      "signalfire"
+    ],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Florida seeks a ban on ChatGPT acting like a person",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+    "source": "The Verge AI",
+    "summary": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns. According to Uthmeier, users are lulled into a false sense of security by the AI bot, as \"ChatGPT's use of language, including first-person pronouns [&#8230;]",
+    "published_at": "2026-09-28 13:00",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI",
+      "Policy"
+    ],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Ukraine's new military AI does more than watch the battlefield–it helps commande",
     "url": "https://euromaidanpress.com/2026/09/25/ukraines-new-military-ai-does-more-than-watch-the-battlefield-it-helps-commanders-plan-what-comes-next/",
     "source": "Hacker News AI",
@@ -34731,222 +34946,6 @@
     "summary": "We've spent the last several months iterating on a rich, HTML-native document canvas. We kept finding we wanted a shared space where we could work on a written artifact with our team while getting some AI assistance along the way.Lots of interesting and challenging problems when designing a document editor that allows many humans and agents to understand and edit simultaneously. Especially one that supports things like Mermaid diagrams and XYZ flow charts out of the box!We're officially GA, woul",
     "published_at": "2026-06-04 01:55",
     "tags": [],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
-    "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
-    "source": "TechCrunch AI",
-    "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
-    "published_at": "2026-06-03 22:56",
-    "tags": [
-      "AI",
-      "Startups",
-      "Anthropic",
-      "google cloud",
-      "Lovable"
-    ],
-    "fetch_date": "2026-06-05",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Can't make sense of Dashlane's vault theft notification? You're not alone.",
-    "url": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/",
-    "source": "ArsTechnica AI",
-    "summary": "Security advisory leaves out key details. Dashlane maintains complete silence.",
-    "published_at": "2026-06-03 19:53",
-    "tags": [
-      "Biz & IT",
-      "Security",
-      "2fa",
-      "dashlane",
-      "mfa",
-      "multi factor authentication",
-      "password managers",
-      "two-factor authentication"
-    ],
-    "fetch_date": "2026-06-05",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
-    "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
-    "source": "TechCrunch AI",
-    "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
-    "published_at": "2026-06-03 19:38",
-    "tags": [
-      "AI",
-      "Enterprise",
-      "TC",
-      "Alphabet",
-      "capital expenditures",
-      "Google",
-      "IPOs"
-    ],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
-    "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
-    "source": "TechCrunch AI",
-    "summary": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
-    "published_at": "2026-06-03 19:07",
-    "tags": [
-      "AI",
-      "Dreambeans",
-      "Google"
-    ],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Inside Meta's attempts to play catch-up with AI",
-    "url": "https://arstechnica.com/ai/2026/06/inside-metas-attempts-to-play-catch-up-with-ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://arstechnica.com/ai/2026/06/inside-metas-attempts-to-play-catch-up-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48386232 Points: 1 # Comments: 0",
-    "published_at": "2026-06-03 16:32",
-    "tags": [],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "GitLab cuts 14% of staff as it scales its platform to serve AI workloads",
-    "url": "https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/ Comments URL: https://news.ycombinator.com/item?id=48386127 Points: 5 # Comments: 1",
-    "published_at": "2026-06-03 16:24",
-    "tags": [],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Agent-browser-shield – free extension to protect AI agents on the web",
-    "url": "https://github.com/pixiebrix/agent-browser-shield",
-    "source": "Hacker News AI",
-    "summary": "I've been experimenting with Claude Code, ChatGPT Agent, and OpenClaw to perform more open-ended tasks for me online. A big blocker I've hit on shopping and research tasks is the agent getting a key piece of info wrong.For example, in one case, my agent decided to add a brand I don't like to the cart because the site flagged it as almost sold outThe HN crowd is probably pretty aware of the threats and can avoid them while browsing. But what about their agents?I tried prompting, but it was ineffe",
-    "published_at": "2026-06-03 16:23",
-    "tags": [],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "'Close to the Terminator narrative': the dawn of self-improving AI",
-    "url": "https://www.ft.com/content/7cc7800f-18ed-47d8-9539-221ae3e16182",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.ft.com/content/7cc7800f-18ed-47d8-9539-221ae3e16182 Comments URL: https://news.ycombinator.com/item?id=48386069 Points: 2 # Comments: 1",
-    "published_at": "2026-06-03 16:19",
-    "tags": [],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Resource consumption of AI: The insatiable industry and its costs",
-    "url": "https://algorithmwatch.org/en/climate-ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://algorithmwatch.org/en/climate-ai/ Comments URL: https://news.ycombinator.com/item?id=48386028 Points: 1 # Comments: 0",
-    "published_at": "2026-06-03 16:16",
-    "tags": [],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Meta says hackers can no longer access accounts through its AI chatbot",
-    "url": "https://globalnews.ca/news/11886958/meta-hack-ai-chatbot-accounts-hijacked/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://globalnews.ca/news/11886958/meta-hack-ai-chatbot-accounts-hijacked/ Comments URL: https://news.ycombinator.com/item?id=48385891 Points: 2 # Comments: 1",
-    "published_at": "2026-06-03 16:03",
-    "tags": [],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Amazon will show AI product images when you search for some reason",
-    "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
-    "source": "TechCrunch AI",
-    "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
-    "published_at": "2026-06-03 15:50",
-    "tags": [
-      "AI",
-      "Apps",
-      "Commerce",
-      "AI search",
-      "Amazon",
-      "retail"
-    ],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: I built a personal AI agent that schedules its own wake-ups",
-    "url": "https://github.com/Aitne-sh/Aitne",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/Aitne-sh/Aitne Comments URL: https://news.ycombinator.com/item?id=48385687 Points: 2 # Comments: 0",
-    "published_at": "2026-06-03 15:49",
-    "tags": [],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Search Visibility Checker",
-    "url": "https://www.techwrath.com/ai-search-visibility-checker/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.techwrath.com/ai-search-visibility-checker/ Comments URL: https://news.ycombinator.com/item?id=48385495 Points: 2 # Comments: 0",
-    "published_at": "2026-06-03 15:34",
-    "tags": [],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI has a water problem. Google thinks it has a fix",
-    "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.theverge.com/policy/942296/google-water-commitments-data-centers Comments URL: https://news.ycombinator.com/item?id=48385322 Points: 2 # Comments: 1",
-    "published_at": "2026-06-03 15:21",
-    "tags": [],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: On-device Chrome extension that blocks credential leaks to LLM chats",
-    "url": "https://redact.clearformlabs.com/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://redact.clearformlabs.com/ Comments URL: https://news.ycombinator.com/item?id=48385152 Points: 3 # Comments: 0",
-    "published_at": "2026-06-03 15:08",
-    "tags": [],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Twelve Ways to Be Wrong About AI-Assisted Coding",
-    "url": "https://third-bit.com/2026/05/20/twelve-ways-to-be-wrong/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://third-bit.com/2026/05/20/twelve-ways-to-be-wrong/ Comments URL: https://news.ycombinator.com/item?id=48384971 Points: 3 # Comments: 0",
-    "published_at": "2026-06-03 14:55",
-    "tags": [],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "ASML Becomes Europe's Most Valuable Stock Ever on AI Boom",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-03/asml-becomes-europe-s-most-valuable-stock-ever-on-ai-boom",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-03/asml-becomes-europe-s-most-valuable-stock-ever-on-ai-boom Comments URL: https://news.ycombinator.com/item?id=48384895 Points: 5 # Comments: 1",
-    "published_at": "2026-06-03 14:49",
-    "tags": [],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "As AI gets better, it reveals an empty promise",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
-    "source": "The Verge AI",
-    "summary": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark knew that David's dog is named Frida and knew the first name of Jay's wife, even though neither of them explicitly [&#8230;]",
-    "published_at": "2026-06-03 13:45",
-    "tags": [
-      "AI"
-    ],
     "fetch_date": "2026-06-04",
     "fetch_label": "早报"
   }
