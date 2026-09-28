@@ -138,6 +138,127 @@
           ]
         }
       ]
+    },
+    {
+      "label": "早报",
+      "time": "2026-09-28 12:27:10",
+      "count": 13,
+      "articles": [
+        {
+          "title": "Ukraine's new military AI does more than watch the battlefield–it helps commande",
+          "url": "https://euromaidanpress.com/2026/09/25/ukraines-new-military-ai-does-more-than-watch-the-battlefield-it-helps-commanders-plan-what-comes-next/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://euromaidanpress.com/2026/09/25/ukraines-new-military-ai-does-more-than-watch-the-battlefield-it-helps-commanders-plan-what-comes-next/ Comments URL: https://news.ycombinator.com/item?id=49873552 Points: 1 # Comments: 0",
+          "published_at": "2026-09-28 04:13",
+          "tags": []
+        },
+        {
+          "title": "How the stories about all-powerful AI are swallowing the world",
+          "url": "https://www.bloodinthemachine.com/p/how-the-stories-about-all-powerful",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bloodinthemachine.com/p/how-the-stories-about-all-powerful Comments URL: https://news.ycombinator.com/item?id=49873320 Points: 2 # Comments: 0",
+          "published_at": "2026-09-28 03:38",
+          "tags": []
+        },
+        {
+          "title": "Australia Senate Requests OpenAI, Anthropic CEOs Face AI Inquiry",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-27/australia-senate-requests-openai-anthropic-ceos-face-ai-inquiry",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-27/australia-senate-requests-openai-anthropic-ceos-face-ai-inquiry Comments URL: https://news.ycombinator.com/item?id=49873255 Points: 3 # Comments: 0",
+          "published_at": "2026-09-28 03:26",
+          "tags": []
+        },
+        {
+          "title": "Thinking Fast and Slow in AI: The Role of Metacognition",
+          "url": "https://arxiv.org/abs/2110.01834",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2110.01834 Comments URL: https://news.ycombinator.com/item?id=49873241 Points: 14 # Comments: 1",
+          "published_at": "2026-09-28 03:23",
+          "tags": []
+        },
+        {
+          "title": "RFPeptides: De novo design of protein-binding macrocycles using deep learning",
+          "url": "https://www.nature.com/articles/s41589-025-01929-w",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.nature.com/articles/s41589-025-01929-w Comments URL: https://news.ycombinator.com/item?id=49873193 Points: 1 # Comments: 0",
+          "published_at": "2026-09-28 03:17",
+          "tags": []
+        },
+        {
+          "title": "The next AI breakout will come from a services firm",
+          "url": "https://www.introspection.dev/manifesto",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.introspection.dev/manifesto Comments URL: https://news.ycombinator.com/item?id=49872746 Points: 3 # Comments: 0",
+          "published_at": "2026-09-28 02:08",
+          "tags": []
+        },
+        {
+          "title": "From Geisha Face Paint to Servers, Sakai Chemical Emerges as AI Linchpin",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-27/from-geisha-face-paint-to-servers-sakai-chemical-emerges-as-ai-linchpin",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-27/from-geisha-face-paint-to-servers-sakai-chemical-emerges-as-ai-linchpin Comments URL: https://news.ycombinator.com/item?id=49872409 Points: 2 # Comments: 0",
+          "published_at": "2026-09-28 01:07",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Stepgate – AI agents that can't skip steps, in one portable file",
+          "url": "https://github.com/Chaarangan/stepgate",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/Chaarangan/stepgate Comments URL: https://news.ycombinator.com/item?id=49872350 Points: 2 # Comments: 0",
+          "published_at": "2026-09-28 00:57",
+          "tags": []
+        },
+        {
+          "title": "Cambrian Explosion of AI",
+          "url": "https://debarshibasak.github.io/readables/blogs/cambrian-explosion",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://debarshibasak.github.io/readables/blogs/cambrian-explosion Comments URL: https://news.ycombinator.com/item?id=49872200 Points: 2 # Comments: 2",
+          "published_at": "2026-09-28 00:25",
+          "tags": []
+        },
+        {
+          "title": "How to Know When the AI Boom Is About to Go Bust",
+          "url": "https://www.wsj.com/finance/stocks/how-to-know-when-the-ai-boom-is-about-to-go-bust-61af3d26",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wsj.com/finance/stocks/how-to-know-when-the-ai-boom-is-about-to-go-bust-61af3d26 Comments URL: https://news.ycombinator.com/item?id=49872025 Points: 3 # Comments: 0",
+          "published_at": "2026-09-27 23:54",
+          "tags": []
+        },
+        {
+          "title": "Machine Learning Systems",
+          "url": "https://mlsysbook.ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://mlsysbook.ai/ Comments URL: https://news.ycombinator.com/item?id=49871219 Points: 2 # Comments: 0",
+          "published_at": "2026-09-27 21:50",
+          "tags": []
+        },
+        {
+          "title": "Can Muse overcome Meta’s trust issues?",
+          "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+          "source": "TechCrunch AI",
+          "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+          "published_at": "2026-09-27 19:57",
+          "tags": [
+            "AI",
+            "Equity podcast",
+            "Meta"
+          ]
+        },
+        {
+          "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+          "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+          "source": "TechCrunch AI",
+          "summary": "\"AI is the devil and I its maker.\"",
+          "published_at": "2026-09-27 16:30",
+          "tags": [
+            "AI",
+            "Media & Entertainment",
+            "Anthropic",
+            "dario amodei",
+            "Saturday night live"
+          ]
+        }
+      ]
     }
   ]
 }
