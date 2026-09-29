@@ -212,6 +212,248 @@
           ]
         }
       ]
+    },
+    {
+      "label": "早报",
+      "time": "2026-09-29 12:56:33",
+      "count": 21,
+      "articles": [
+        {
+          "title": "Anthropic warns AI may pose 'existential risks to humanity' in IPO filing",
+          "url": "https://www.cnbc.com/2026/09/29/anthropic-warns-ai-existential-risks-ipo-filing-reuters.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.cnbc.com/2026/09/29/anthropic-warns-ai-existential-risks-ipo-filing-reuters.html Comments URL: https://news.ycombinator.com/item?id=49888334 Points: 2 # Comments: 0",
+          "published_at": "2026-09-29 04:38",
+          "tags": []
+        },
+        {
+          "title": "Can AI self-improvement overcome diminishing returns?",
+          "url": "https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence Comments URL: https://news.ycombinator.com/item?id=49888101 Points: 1 # Comments: 0",
+          "published_at": "2026-09-29 04:06",
+          "tags": []
+        },
+        {
+          "title": "AI Realist vs. 20 AI Optimists (Ft. Andrew Yang) [video]",
+          "url": "https://www.youtube.com/watch?v=020ZvO0FbMM",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=020ZvO0FbMM Comments URL: https://news.ycombinator.com/item?id=49887835 Points: 1 # Comments: 0",
+          "published_at": "2026-09-29 03:35",
+          "tags": []
+        },
+        {
+          "title": "Free AI slop checker: find the signs of AI writing",
+          "url": "https://seodraft.app/tools/ai-slop",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://seodraft.app/tools/ai-slop Comments URL: https://news.ycombinator.com/item?id=49887759 Points: 1 # Comments: 0",
+          "published_at": "2026-09-29 03:24",
+          "tags": []
+        },
+        {
+          "title": "OpenAI scraps release of new AI model over safety concerns",
+          "url": "https://www.cbc.ca/news/world/openai-scraps-planned-release-gpt-6-1-astra-9.7361910",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.cbc.ca/news/world/openai-scraps-planned-release-gpt-6-1-astra-9.7361910 Comments URL: https://news.ycombinator.com/item?id=49887708 Points: 1 # Comments: 1",
+          "published_at": "2026-09-29 03:19",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: Is strong anti-AI sentiment psyops",
+          "url": "https://news.ycombinator.com/item?id=49887577",
+          "source": "Hacker News AI",
+          "summary": "Is there any work being done to find out whether or not the strong anti-AI sentiment in U.S. workforce isn’t psyops?There hasn’t been a wave of unemployments as previously thought of (the recent ones seem more related to inflation) because AI actually seems to create work to manage it, and buying tokens thoughtlessly isn’t cost effective for companies, or providers.So it seems it’s only beneficial for people and companies to use AI, and optimize it for productivity, right? Or am I missing someth",
+          "published_at": "2026-09-29 03:03",
+          "tags": []
+        },
+        {
+          "title": "AI Agents Are About to Flood the Workforce. No One's Ready for It",
+          "url": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/ Comments URL: https://news.ycombinator.com/item?id=49887331 Points: 1 # Comments: 1",
+          "published_at": "2026-09-29 02:25",
+          "tags": []
+        },
+        {
+          "title": "Meta's New Muse AI Agent Read My Private Messages. I Never Asked It To",
+          "url": "https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202 Comments URL: https://news.ycombinator.com/item?id=49887186 Points: 2 # Comments: 1",
+          "published_at": "2026-09-29 02:03",
+          "tags": []
+        },
+        {
+          "title": "How well do you know AI?",
+          "url": "https://www.reddit.com/r/airealist/s/uhwf0kKbP5",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.reddit.com/r/airealist/s/uhwf0kKbP5 Comments URL: https://news.ycombinator.com/item?id=49886744 Points: 1 # Comments: 0",
+          "published_at": "2026-09-29 01:10",
+          "tags": []
+        },
+        {
+          "title": "We found 24 Android vulnerabilities using our open source AI security agent",
+          "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/ Comments URL: https://news.ycombinator.com/item?id=49886609 Points: 8 # Comments: 2",
+          "published_at": "2026-09-29 00:55",
+          "tags": []
+        },
+        {
+          "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+          "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+          "source": "TechCrunch AI",
+          "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+          "published_at": "2026-09-28 21:29",
+          "tags": [
+            "AI",
+            "Accel",
+            "inference",
+            "Modal Labs"
+          ]
+        },
+        {
+          "title": "The AI boom took over Climate Week and not everyone is happy about it",
+          "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+          "source": "TechCrunch AI",
+          "summary": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
+          "published_at": "2026-09-28 19:21",
+          "tags": [
+            "AI",
+            "Climate",
+            "climate week nyc"
+          ]
+        },
+        {
+          "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+          "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+          "source": "TechCrunch AI",
+          "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
+          "published_at": "2026-09-28 17:29",
+          "tags": [
+            "AI",
+            "Apps",
+            "gemini",
+            "Google"
+          ]
+        },
+        {
+          "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
+          "published_at": "2026-09-28 15:30",
+          "tags": [
+            "TC",
+            "Startups",
+            "AI",
+            "TechCrunch Disrupt",
+            "Anthropic",
+            "Gamma",
+            "Claude",
+            "clay"
+          ]
+        },
+        {
+          "title": "OpenAI’s AI agents need to catch up",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+          "source": "The Verge AI",
+          "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon - [&#8230;]",
+          "published_at": "2026-09-28 14:45",
+          "tags": [
+            "AI",
+            "Analysis",
+            "OpenAI",
+            "Report"
+          ]
+        },
+        {
+          "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
+          "source": "TechCrunch AI",
+          "summary": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disrupt 2026 today.",
+          "published_at": "2026-09-28 14:30",
+          "tags": [
+            "AI",
+            "Apps",
+            "Biotech & Health",
+            "Climate",
+            "Fintech",
+            "Fundraising",
+            "Gadgets",
+            "Startups",
+            "Venture",
+            "Bison Ventures",
+            "greylock",
+            "Index Ventures",
+            "Kleiner Perkins",
+            "Maven Ventures",
+            "Startup Battlefield",
+            "TechCrunch Disrupt"
+          ]
+        },
+        {
+          "title": "Modulate raises $25M for its voice models and analysis suite",
+          "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
+          "source": "TechCrunch AI",
+          "summary": "Modulate deploys its models to detect deepfake, fraud and scam",
+          "published_at": "2026-09-28 14:05",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "cyberattacks",
+            "voice AI"
+          ]
+        },
+        {
+          "title": "Insurtech Outmarket raises $34.5M just months after prior round",
+          "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+          "source": "TechCrunch AI",
+          "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
+          "published_at": "2026-09-28 14:00",
+          "tags": [
+            "AI",
+            "Fintech",
+            "Startups",
+            "Insuretech",
+            "signalfire"
+          ]
+        },
+        {
+          "title": "OpenAI keeps bulldozing mathematicians",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+          "source": "The Verge AI",
+          "summary": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. OpenAI's latest attempt to repair fractured relations with a mathematical community it has repeatedly alienated [&#8230;]",
+          "published_at": "2026-09-28 13:00",
+          "tags": [
+            "AI",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Can Muse overcome Meta’s trust issues?",
+          "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+          "source": "TechCrunch AI",
+          "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+          "published_at": "2026-09-27 19:57",
+          "tags": [
+            "AI",
+            "Equity podcast",
+            "Meta"
+          ]
+        },
+        {
+          "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+          "source": "The Verge AI",
+          "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government sites, it's yet another concerning example of AI [&#8230;]",
+          "published_at": "2026-09-27 13:21",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI"
+          ]
+        }
+      ]
     }
   ]
 }

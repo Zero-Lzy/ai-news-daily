@@ -1,5 +1,134 @@
 [
   {
+    "title": "Anthropic warns AI may pose 'existential risks to humanity' in IPO filing",
+    "url": "https://www.cnbc.com/2026/09/29/anthropic-warns-ai-existential-risks-ipo-filing-reuters.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.cnbc.com/2026/09/29/anthropic-warns-ai-existential-risks-ipo-filing-reuters.html Comments URL: https://news.ycombinator.com/item?id=49888334 Points: 2 # Comments: 0",
+    "published_at": "2026-09-29 04:38",
+    "tags": [],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Can AI self-improvement overcome diminishing returns?",
+    "url": "https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence Comments URL: https://news.ycombinator.com/item?id=49888101 Points: 1 # Comments: 0",
+    "published_at": "2026-09-29 04:06",
+    "tags": [],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Realist vs. 20 AI Optimists (Ft. Andrew Yang) [video]",
+    "url": "https://www.youtube.com/watch?v=020ZvO0FbMM",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=020ZvO0FbMM Comments URL: https://news.ycombinator.com/item?id=49887835 Points: 1 # Comments: 0",
+    "published_at": "2026-09-29 03:35",
+    "tags": [],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Free AI slop checker: find the signs of AI writing",
+    "url": "https://seodraft.app/tools/ai-slop",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://seodraft.app/tools/ai-slop Comments URL: https://news.ycombinator.com/item?id=49887759 Points: 1 # Comments: 0",
+    "published_at": "2026-09-29 03:24",
+    "tags": [],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI scraps release of new AI model over safety concerns",
+    "url": "https://www.cbc.ca/news/world/openai-scraps-planned-release-gpt-6-1-astra-9.7361910",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.cbc.ca/news/world/openai-scraps-planned-release-gpt-6-1-astra-9.7361910 Comments URL: https://news.ycombinator.com/item?id=49887708 Points: 1 # Comments: 1",
+    "published_at": "2026-09-29 03:19",
+    "tags": [],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask HN: Is strong anti-AI sentiment psyops",
+    "url": "https://news.ycombinator.com/item?id=49887577",
+    "source": "Hacker News AI",
+    "summary": "Is there any work being done to find out whether or not the strong anti-AI sentiment in U.S. workforce isn’t psyops?There hasn’t been a wave of unemployments as previously thought of (the recent ones seem more related to inflation) because AI actually seems to create work to manage it, and buying tokens thoughtlessly isn’t cost effective for companies, or providers.So it seems it’s only beneficial for people and companies to use AI, and optimize it for productivity, right? Or am I missing someth",
+    "published_at": "2026-09-29 03:03",
+    "tags": [],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Agents Are About to Flood the Workforce. No One's Ready for It",
+    "url": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/ Comments URL: https://news.ycombinator.com/item?id=49887331 Points: 1 # Comments: 1",
+    "published_at": "2026-09-29 02:25",
+    "tags": [],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Meta's New Muse AI Agent Read My Private Messages. I Never Asked It To",
+    "url": "https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202 Comments URL: https://news.ycombinator.com/item?id=49887186 Points: 2 # Comments: 1",
+    "published_at": "2026-09-29 02:03",
+    "tags": [],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "How well do you know AI?",
+    "url": "https://www.reddit.com/r/airealist/s/uhwf0kKbP5",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.reddit.com/r/airealist/s/uhwf0kKbP5 Comments URL: https://news.ycombinator.com/item?id=49886744 Points: 1 # Comments: 0",
+    "published_at": "2026-09-29 01:10",
+    "tags": [],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "We found 24 Android vulnerabilities using our open source AI security agent",
+    "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/ Comments URL: https://news.ycombinator.com/item?id=49886609 Points: 8 # Comments: 2",
+    "published_at": "2026-09-29 00:55",
+    "tags": [],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+    "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+    "source": "TechCrunch AI",
+    "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+    "published_at": "2026-09-28 21:29",
+    "tags": [
+      "AI",
+      "Accel",
+      "inference",
+      "Modal Labs"
+    ],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The AI boom took over Climate Week and not everyone is happy about it",
+    "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+    "source": "TechCrunch AI",
+    "summary": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
+    "published_at": "2026-09-28 19:21",
+    "tags": [
+      "AI",
+      "Climate",
+      "climate week nyc"
+    ],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Homa: The End of TCP for AI Clusters [video]",
     "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
     "source": "Hacker News AI",
@@ -169,6 +298,33 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "summary": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disrupt 2026 today.",
+    "published_at": "2026-09-28 14:30",
+    "tags": [
+      "AI",
+      "Apps",
+      "Biotech & Health",
+      "Climate",
+      "Fintech",
+      "Fundraising",
+      "Gadgets",
+      "Startups",
+      "Venture",
+      "Bison Ventures",
+      "greylock",
+      "Index Ventures",
+      "Kleiner Perkins",
+      "Maven Ventures",
+      "Startup Battlefield",
+      "TechCrunch Disrupt"
+    ],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Modulate raises $25M for its voice models and analysis suite",
     "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
     "source": "TechCrunch AI",
@@ -213,6 +369,19 @@
     ],
     "fetch_date": "2026-09-29",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "OpenAI keeps bulldozing mathematicians",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+    "source": "The Verge AI",
+    "summary": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. OpenAI's latest attempt to repair fractured relations with a mathematical community it has repeatedly alienated [&#8230;]",
+    "published_at": "2026-09-28 13:00",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "早报"
   },
   {
     "title": "Ukraine's new military AI does more than watch the battlefield–it helps commande",
@@ -453,6 +622,20 @@
     "tags": [],
     "fetch_date": "2026-09-28",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+    "source": "The Verge AI",
+    "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government sites, it's yet another concerning example of AI [&#8230;]",
+    "published_at": "2026-09-27 13:21",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-09-29",
+    "fetch_label": "早报"
   },
   {
     "title": "Your AI Agent Forgot Half of What You Told It",
@@ -34787,166 +34970,5 @@
     "tags": [],
     "fetch_date": "2026-06-04",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "TSMC struggles to keep up with AI demand: &#8216;We can only support so much&#8217;",
-    "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
-    "source": "The Verge AI",
-    "summary": "Taiwan Semiconductor Manufacturing Co. - the world's biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory buildout in the US, according to reports from Reuters and Bloomberg. \"Customer demand is so high, and we can only support so much,\" TSMC CEO C.C. Wei said after a shareholder meeting on [&#8230;]",
-    "published_at": "2026-06-04 10:15",
-    "tags": [
-      "AI",
-      "Business",
-      "News",
-      "Tech"
-    ],
-    "fetch_date": "2026-06-05",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Amazon develops a warehouse robot that workers can speak to",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
-    "source": "The Verge AI",
-    "summary": "Amazon has announced a new version of its fully autonomous warehouse robot, Proteus, that will interact using language instead of code. The expanded capabilities come as part of a growing pivot toward automation as the e-commerce giant replaces its human workers with robots. Amazon says the AI-powered upgrade means its human employees can assign the [&#8230;]",
-    "published_at": "2026-06-04 05:31",
-    "tags": [
-      "AI",
-      "Amazon",
-      "News",
-      "Robot",
-      "Tech"
-    ],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Ask HN: Google's AI mode not available on Firefox?",
-    "url": "https://news.ycombinator.com/item?id=48393739",
-    "source": "Hacker News AI",
-    "summary": "I can't seem to get it to work on my firefox desktop on Linux. If this is indeed true, I wonder if there are anti-trust concerns here? Comments URL: https://news.ycombinator.com/item?id=48393739 Points: 1 # Comments: 1",
-    "published_at": "2026-06-04 04:15",
-    "tags": [],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Will OSS that does not use AI disappear?",
-    "url": "https://ai-coding.info/reports/articles/20260603",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://ai-coding.info/reports/articles/20260603 Comments URL: https://news.ycombinator.com/item?id=48393710 Points: 1 # Comments: 0",
-    "published_at": "2026-06-04 04:11",
-    "tags": [],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: X402-express. Pay-per-call HTTP 402 middleware for AI agents on Base L2",
-    "url": "https://github.com/Evozim/m2mcent-sdk",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/Evozim/m2mcent-sdk Comments URL: https://news.ycombinator.com/item?id=48393601 Points: 1 # Comments: 0",
-    "published_at": "2026-06-04 03:57",
-    "tags": [],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Trump signs AI order asking companies to give government early access to models",
-    "url": "https://www.cnbc.com/2026/06/02/trump-executive-order-ai.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.cnbc.com/2026/06/02/trump-executive-order-ai.html Comments URL: https://news.ycombinator.com/item?id=48393575 Points: 3 # Comments: 1",
-    "published_at": "2026-06-04 03:54",
-    "tags": [],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Sam Altman has a proposition for startup founders: AI tokens for equity",
-    "url": "https://www.businessinsider.com/sam-altman-openai-offer-tokens-for-startup-equity-y-combinator-2026-5",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.businessinsider.com/sam-altman-openai-offer-tokens-for-startup-equity-y-combinator-2026-5 Comments URL: https://news.ycombinator.com/item?id=48393473 Points: 3 # Comments: 1",
-    "published_at": "2026-06-04 03:42",
-    "tags": [],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Suture – a reverse proxy that repairs truncated JSON in LLM streams",
-    "url": "https://github.com/tensorhq/suture-stream-repair",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/tensorhq/suture-stream-repair Comments URL: https://news.ycombinator.com/item?id=48393431 Points: 1 # Comments: 0",
-    "published_at": "2026-06-04 03:36",
-    "tags": [],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Top AI CEOs Call for Law Protecting Against Biological Weapons",
-    "url": "https://www.wsj.com/politics/policy/top-ai-ceos-call-for-law-protecting-against-biological-weapons-88f2f99f",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.wsj.com/politics/policy/top-ai-ceos-call-for-law-protecting-against-biological-weapons-88f2f99f Comments URL: https://news.ycombinator.com/item?id=48393156 Points: 2 # Comments: 0",
-    "published_at": "2026-06-04 03:00",
-    "tags": [],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: AI Agent that resolves all your support issues",
-    "url": "https://news.ycombinator.com/item?id=48393046",
-    "source": "Hacker News AI",
-    "summary": "https://seaticket.ai/ Comments URL: https://news.ycombinator.com/item?id=48393046 Points: 1 # Comments: 0",
-    "published_at": "2026-06-04 02:45",
-    "tags": [],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Large AI Models in Dental Healthcare",
-    "url": "https://arxiv.org/abs/2606.02914",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://arxiv.org/abs/2606.02914 Comments URL: https://news.ycombinator.com/item?id=48392947 Points: 1 # Comments: 0",
-    "published_at": "2026-06-04 02:32",
-    "tags": [],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Meta Is Reportedly Working on an AI Pendant and More Smart Glasses",
-    "url": "https://www.engadget.com/2184224/meta-developing-ai-pendant-more-smart-glass-models/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.engadget.com/2184224/meta-developing-ai-pendant-more-smart-glass-models/ Comments URL: https://news.ycombinator.com/item?id=48392911 Points: 1 # Comments: 0",
-    "published_at": "2026-06-04 02:26",
-    "tags": [],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: AI Gauge, a desktop monitor for Claude/Codex/Copilot usage limits",
-    "url": "https://github.com/jpajak/ai-gauge",
-    "source": "Hacker News AI",
-    "summary": "Hi HN, new account but long-time reader. I built this for myself because I kept manually checking usage across Claude, Codex, and Copilot, and wanted to track the session and weekly usage all in one place.It's helping me better track and get the most out of my AI subscriptions. It's also a good testament to agentic coding making it easy to create useful tools that wouldn't have been worth the time before, or to build more complete utilities instead of bare-minimum solutions.Putting it out there ",
-    "published_at": "2026-06-04 02:18",
-    "tags": [],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Conversations Are Not Yours. Yet",
-    "url": "https://medium.com/@vektormemory/your-ai-conversations-are-not-yours-yet-cd1b7925e9cf",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://medium.com/@vektormemory/your-ai-conversations-are-not-yours-yet-cd1b7925e9cf Comments URL: https://news.ycombinator.com/item?id=48392696 Points: 2 # Comments: 0",
-    "published_at": "2026-06-04 01:56",
-    "tags": [],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: A rich, HTML-native document canvas for human <> AI collaboration",
-    "url": "https://app.productnow.ai/app/home",
-    "source": "Hacker News AI",
-    "summary": "We've spent the last several months iterating on a rich, HTML-native document canvas. We kept finding we wanted a shared space where we could work on a written artifact with our team while getting some AI assistance along the way.Lots of interesting and challenging problems when designing a document editor that allows many humans and agents to understand and edit simultaneously. Especially one that supports things like Mermaid diagrams and XYZ flow charts out of the box!We're officially GA, woul",
-    "published_at": "2026-06-04 01:55",
-    "tags": [],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "早报"
   }
 ]
