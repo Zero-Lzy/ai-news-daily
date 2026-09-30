@@ -1,5 +1,122 @@
 [
   {
+    "title": "The ugly economics of consumer AI",
+    "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+    "source": "TechCrunch AI",
+    "summary": "There’s a reason frontier labs have gotten gunshy about consumer AI — and it’s not because the tech isn’t good enough.",
+    "published_at": "2026-09-30 17:24",
+    "tags": [
+      "AI",
+      "chatbots",
+      "consumer AI",
+      "instinct"
+    ],
+    "fetch_date": "2026-10-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+    "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+    "source": "TechCrunch AI",
+    "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
+    "published_at": "2026-09-30 16:24",
+    "tags": [
+      "AI",
+      "Apps",
+      "Privacy",
+      "Security",
+      "Meta",
+      "muse"
+    ],
+    "fetch_date": "2026-10-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+    "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+    "source": "TechCrunch AI",
+    "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
+    "published_at": "2026-09-30 16:00",
+    "tags": [
+      "AI",
+      "Robotics",
+      "Exclusive",
+      "Startup Battlefield 200",
+      "TechCrunch Disrupt"
+    ],
+    "fetch_date": "2026-10-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
+    "published_at": "2026-09-30 14:30",
+    "tags": [
+      "Startups",
+      "AI",
+      "TechCrunch Disrupt",
+      "Cerebras"
+    ],
+    "fetch_date": "2026-10-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+    "source": "The Verge AI",
+    "summary": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a \"hoax\" cooked up by Democrats no longer apply now that he's renamed the technology to \"Super Intelligence.\" He [&#8230;]",
+    "published_at": "2026-09-30 13:15",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Google",
+      "Meta",
+      "News",
+      "Nvidia",
+      "OpenAI",
+      "Policy",
+      "Politics",
+      "Tech",
+      "xAI"
+    ],
+    "fetch_date": "2026-10-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Airbnb adds AI search, more social features",
+    "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+    "source": "TechCrunch AI",
+    "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
+    "published_at": "2026-09-30 12:00",
+    "tags": [
+      "AI",
+      "Apps",
+      "TC",
+      "Airbnb"
+    ],
+    "fetch_date": "2026-10-01",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+    "source": "The Verge AI",
+    "summary": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment on Frontier Responsibilities, was shared online by tech founder and presidential adviser David Sacks, and has been signed by [&#8230;]",
+    "published_at": "2026-09-30 08:24",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI",
+      "Policy",
+      "Politics",
+      "xAI"
+    ],
+    "fetch_date": "2026-10-01",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "McDonalds has AI estimate \"customer willingness to pay\" at each restaurant",
     "url": "https://www.reuters.com/business/inside-mcdonalds-push-have-ai-price-your-big-mac-2026-09-29/",
     "source": "Hacker News AI",
@@ -150,6 +267,21 @@
     "fetch_label": "早报"
   },
   {
+    "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+    "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+    "source": "TechCrunch AI",
+    "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+    "published_at": "2026-09-29 18:35",
+    "tags": [
+      "AI",
+      "Exclusive",
+      "nvidia",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-10-01",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Trump orders US government to call AI ‘Super Intelligence’",
     "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
     "source": "The Verge AI",
@@ -163,6 +295,21 @@
     ],
     "fetch_date": "2026-09-30",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
+    "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+    "source": "The Verge AI",
+    "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live updates site is now showing various recent changes to pages - though as I write this, many are just a [&#8230;]",
+    "published_at": "2026-09-29 17:49",
+    "tags": [
+      "AI",
+      "Elon Musk",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-01",
+    "fetch_label": "晚报"
   },
   {
     "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
@@ -34872,136 +35019,5 @@
     ],
     "fetch_date": "2026-06-06",
     "fetch_label": "早报"
-  },
-  {
-    "title": "Google will pay SpaceX $920M per month for compute",
-    "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-    "source": "TechCrunch AI",
-    "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
-    "published_at": "2026-06-05 18:57",
-    "tags": [
-      "AI",
-      "AI compute",
-      "Alphabet",
-      "Google",
-      "SpaceX"
-    ],
-    "fetch_date": "2026-06-06",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The most interesting startups right now want to get you off your phone",
-    "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
-    "source": "TechCrunch AI",
-    "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup focused on bringing people together through in-person games and social experiences.&#160;Cyberdeck creators are going viral&#160;crafting whimsical DIY computers that&#160;literally encourage&#160;users to touch grass. Unlike the&#160;AI-free browser crowd, this&#160;doesn&#8217;t&#160;just&#160;feel",
-    "published_at": "2026-06-05 17:17",
-    "tags": [
-      "AI",
-      "Hardware",
-      "Startups",
-      "anthropic ipo",
-      "board",
-      "Brynn Putnam",
-      "climate tech vc",
-      "cyberdeck",
-      "Equity",
-      "impulse space",
-      "Roundup",
-      "slow tech",
-      "together tech"
-    ],
-    "fetch_date": "2026-06-06",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
-    "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
-    "source": "TechCrunch AI",
-    "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
-    "published_at": "2026-06-05 14:49",
-    "tags": [
-      "AI",
-      "ai tokens",
-      "linux foundation",
-      "tokenmaxxing"
-    ],
-    "fetch_date": "2026-06-06",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Agents Enable Adaptive Computer Worms",
-    "url": "https://cleverhans.io/latest-research.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://cleverhans.io/latest-research.html Comments URL: https://news.ycombinator.com/item?id=48413296 Points: 1 # Comments: 0",
-    "published_at": "2026-06-05 14:48",
-    "tags": [],
-    "fetch_date": "2026-06-05",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: InferBench – Benchmark local LLM engines with one click",
-    "url": "https://github.com/JoniMartin27/inferbench",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/JoniMartin27/inferbench Comments URL: https://news.ycombinator.com/item?id=48413247 Points: 1 # Comments: 0",
-    "published_at": "2026-06-05 14:44",
-    "tags": [],
-    "fetch_date": "2026-06-05",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI is designing OpenAI's next model in a sign of 'super intelligence'",
-    "url": "https://www.cnbc.com/2026/06/05/softbank-masayoshi-son-openai-model-super-intelligence.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.cnbc.com/2026/06/05/softbank-masayoshi-son-openai-model-super-intelligence.html Comments URL: https://news.ycombinator.com/item?id=48412879 Points: 1 # Comments: 0",
-    "published_at": "2026-06-05 14:16",
-    "tags": [],
-    "fetch_date": "2026-06-05",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Crustafarianism: The religion AI agents built in 14 hours",
-    "url": "https://mibitacora.eu/57-crustafarianismo-religion-agentes/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://mibitacora.eu/57-crustafarianismo-religion-agentes/ Comments URL: https://news.ycombinator.com/item?id=48412751 Points: 2 # Comments: 1",
-    "published_at": "2026-06-05 14:05",
-    "tags": [],
-    "fetch_date": "2026-06-05",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
-    "url": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
-    "source": "TechCrunch AI",
-    "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup focused on bringing people together through in-person games and social experiences.&#160;Cyberdeck creators are going viral&#160;crafting whimsical DIY computers that&#160;literally encourage&#160;users to touch grass. Unlike the&#160;AI-free browser crowd, this&#160;doesn&#8217;t&#160;just&#160;feel",
-    "published_at": "2026-06-05 14:00",
-    "tags": [
-      "AI",
-      "Hardware",
-      "Startups",
-      "anthropic ipo",
-      "board",
-      "Brynn Putnam",
-      "climate tech vc",
-      "cyberdeck",
-      "Equity",
-      "Equity podcast",
-      "hardware",
-      "impulse space",
-      "Roundup",
-      "slow tech",
-      "together tech"
-    ],
-    "fetch_date": "2026-06-06",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The Next Frontier of Visual AI Is Code",
-    "url": "https://a16z.com/the-next-frontier-of-visual-ai-is-code/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://a16z.com/the-next-frontier-of-visual-ai-is-code/ Comments URL: https://news.ycombinator.com/item?id=48412615 Points: 1 # Comments: 0",
-    "published_at": "2026-06-05 13:54",
-    "tags": [],
-    "fetch_date": "2026-06-05",
-    "fetch_label": "晚报"
   }
 ]

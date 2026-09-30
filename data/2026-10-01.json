@@ -1,0 +1,219 @@
+{
+  "date": "2026-10-01",
+  "runs": [
+    {
+      "label": "晚报",
+      "time": "2026-10-01 01:42:21",
+      "count": 15,
+      "articles": [
+        {
+          "title": "The ugly economics of consumer AI",
+          "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+          "source": "TechCrunch AI",
+          "summary": "There’s a reason frontier labs have gotten gunshy about consumer AI — and it’s not because the tech isn’t good enough.",
+          "published_at": "2026-09-30 17:24",
+          "tags": [
+            "AI",
+            "chatbots",
+            "consumer AI",
+            "instinct"
+          ]
+        },
+        {
+          "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+          "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+          "source": "TechCrunch AI",
+          "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
+          "published_at": "2026-09-30 16:24",
+          "tags": [
+            "AI",
+            "Apps",
+            "Privacy",
+            "Security",
+            "Meta",
+            "muse"
+          ]
+        },
+        {
+          "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+          "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+          "source": "TechCrunch AI",
+          "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
+          "published_at": "2026-09-30 16:00",
+          "tags": [
+            "AI",
+            "Robotics",
+            "Exclusive",
+            "Startup Battlefield 200",
+            "TechCrunch Disrupt"
+          ]
+        },
+        {
+          "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+          "source": "TechCrunch AI",
+          "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
+          "published_at": "2026-09-30 14:30",
+          "tags": [
+            "Startups",
+            "AI",
+            "TechCrunch Disrupt",
+            "Cerebras"
+          ]
+        },
+        {
+          "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+          "source": "The Verge AI",
+          "summary": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a \"hoax\" cooked up by Democrats no longer apply now that he's renamed the technology to \"Super Intelligence.\" He [&#8230;]",
+          "published_at": "2026-09-30 13:15",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "Google",
+            "Meta",
+            "News",
+            "Nvidia",
+            "OpenAI",
+            "Policy",
+            "Politics",
+            "Tech",
+            "xAI"
+          ]
+        },
+        {
+          "title": "Airbnb adds AI search, more social features",
+          "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+          "source": "TechCrunch AI",
+          "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
+          "published_at": "2026-09-30 12:00",
+          "tags": [
+            "AI",
+            "Apps",
+            "TC",
+            "Airbnb"
+          ]
+        },
+        {
+          "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+          "source": "The Verge AI",
+          "summary": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment on Frontier Responsibilities, was shared online by tech founder and presidential adviser David Sacks, and has been signed by [&#8230;]",
+          "published_at": "2026-09-30 08:24",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI",
+            "Policy",
+            "Politics",
+            "xAI"
+          ]
+        },
+        {
+          "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+          "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+          "source": "TechCrunch AI",
+          "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+          "published_at": "2026-09-29 22:20",
+          "tags": [
+            "TC",
+            "AI",
+            "Elon Musk",
+            "OpenAI",
+            "In Brief"
+          ]
+        },
+        {
+          "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+          "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+          "source": "TechCrunch AI",
+          "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+          "published_at": "2026-09-29 19:52",
+          "tags": [
+            "AI",
+            "In Brief",
+            "IPO",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+          "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+          "published_at": "2026-09-29 18:35",
+          "tags": [
+            "AI",
+            "Exclusive",
+            "nvidia",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
+          "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+          "source": "The Verge AI",
+          "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live updates site is now showing various recent changes to pages - though as I write this, many are just a [&#8230;]",
+          "published_at": "2026-09-29 17:49",
+          "tags": [
+            "AI",
+            "Elon Musk",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+          "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
+          "published_at": "2026-09-29 17:45",
+          "tags": [
+            "AI",
+            "ChatGPT",
+            "Microsoft",
+            "OpenAI",
+            "OpenAI DevDay",
+            "Salesforce"
+          ]
+        },
+        {
+          "title": "AI-powered app maker Wabi pivots to a messaging experience",
+          "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+          "source": "TechCrunch AI",
+          "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
+          "published_at": "2026-09-29 17:20",
+          "tags": [
+            "AI",
+            "Apps",
+            "Wabi"
+          ]
+        },
+        {
+          "title": "OpenAI launches Dots, its bubbly agentic avatar",
+          "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+          "source": "TechCrunch AI",
+          "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+          "published_at": "2026-09-29 17:17",
+          "tags": [
+            "AI",
+            "OpenAI",
+            "OpenAI DevDay"
+          ]
+        },
+        {
+          "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+          "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows.",
+          "published_at": "2026-09-29 17:15",
+          "tags": [
+            "AI",
+            "OpenAI",
+            "OpenAI DevDay"
+          ]
+        }
+      ]
+    }
+  ]
+}
