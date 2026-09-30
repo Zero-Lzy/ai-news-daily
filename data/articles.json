@@ -1,5 +1,170 @@
 [
   {
+    "title": "McDonalds has AI estimate \"customer willingness to pay\" at each restaurant",
+    "url": "https://www.reuters.com/business/inside-mcdonalds-push-have-ai-price-your-big-mac-2026-09-29/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.reuters.com/business/inside-mcdonalds-push-have-ai-price-your-big-mac-2026-09-29/ Comments URL: https://news.ycombinator.com/item?id=49904386 Points: 1 # Comments: 0",
+    "published_at": "2026-09-30 04:34",
+    "tags": [],
+    "fetch_date": "2026-09-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The open-source AI platforms vying to become China's Hugging Face",
+    "url": "https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/ Comments URL: https://news.ycombinator.com/item?id=49904335 Points: 1 # Comments: 0",
+    "published_at": "2026-09-30 04:24",
+    "tags": [],
+    "fetch_date": "2026-09-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI tools generated nearly $1B in extra costs, Blue Cross insurers say",
+    "url": "https://www.reuters.com/legal/litigation/ai-tools-generated-nearly-1-billion-extra-costs-blue-cross-insurers-say-2026-09-24/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.reuters.com/legal/litigation/ai-tools-generated-nearly-1-billion-extra-costs-blue-cross-insurers-say-2026-09-24/ Comments URL: https://news.ycombinator.com/item?id=49904221 Points: 4 # Comments: 0",
+    "published_at": "2026-09-30 04:02",
+    "tags": [],
+    "fetch_date": "2026-09-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Fateshow – charts first, then AI readings you can check",
+    "url": "https://www.fateshow.site",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.fateshow.site Comments URL: https://news.ycombinator.com/item?id=49904113 Points: 1 # Comments: 0",
+    "published_at": "2026-09-30 03:40",
+    "tags": [],
+    "fetch_date": "2026-09-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Astroforge will fly a spacecraft autonomously using AI next year",
+    "url": "https://spacenews.com/astroforge-to-test-full-spacecraft-autonomy-using-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://spacenews.com/astroforge-to-test-full-spacecraft-autonomy-using-ai/ Comments URL: https://news.ycombinator.com/item?id=49903884 Points: 1 # Comments: 0",
+    "published_at": "2026-09-30 03:03",
+    "tags": [],
+    "fetch_date": "2026-09-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Responsible Release of AI-Generated Mathematics",
+    "url": "https://agmai.org/general-sep29/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://agmai.org/general-sep29/ Comments URL: https://news.ycombinator.com/item?id=49903713 Points: 4 # Comments: 0",
+    "published_at": "2026-09-30 02:36",
+    "tags": [],
+    "fetch_date": "2026-09-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Moching – AI desktop agent with 219 built-in tools (Rust)",
+    "url": "https://github.com/moching-ai-dev/moching",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/moching-ai-dev/moching Comments URL: https://news.ycombinator.com/item?id=49903470 Points: 2 # Comments: 0",
+    "published_at": "2026-09-30 02:00",
+    "tags": [],
+    "fetch_date": "2026-09-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Thinking out loud AI and Cancer Cure",
+    "url": "https://news.ycombinator.com/item?id=49903139",
+    "source": "Hacker News AI",
+    "summary": "Anyone else ever think how every week there's another article and news story about how advanced AI is getting and how fast it's progressing, usually reported as a threat to society. If it is so alarmingly powerful, why has a super genius not OP'd on Opus 5.5 Max and discovered a cure for cancer or some horrible disease... I use my AI good for making dashboards and looking at spreadsheets, call to the super geniuses who are also scientists please find a cure!! Comments URL: https://news.ycombinat",
+    "published_at": "2026-09-30 01:12",
+    "tags": [],
+    "fetch_date": "2026-09-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Diffsmith AI Code Review Tool",
+    "url": "https://apps.apple.com/us/app/diffsmith-code-review-studio/id6787073815?mt=12",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://apps.apple.com/us/app/diffsmith-code-review-studio/id6787073815?mt=12 Comments URL: https://news.ycombinator.com/item?id=49903119 Points: 1 # Comments: 0",
+    "published_at": "2026-09-30 01:10",
+    "tags": [],
+    "fetch_date": "2026-09-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Chinese AI tool told researchers how to make bioweapons",
+    "url": "https://www.bbc.com/news/articles/cmrergq3j7lgo",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cmrergq3j7lgo Comments URL: https://news.ycombinator.com/item?id=49902800 Points: 3 # Comments: 0",
+    "published_at": "2026-09-30 00:28",
+    "tags": [],
+    "fetch_date": "2026-09-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI does, and does not, change the way I do math",
+    "url": "https://terrytao.wordpress.com/2026/09/29/how-ai-does-and-does-not-change-the-way-i-do-math/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://terrytao.wordpress.com/2026/09/29/how-ai-does-and-does-not-change-the-way-i-do-math/ Comments URL: https://news.ycombinator.com/item?id=49902727 Points: 1 # Comments: 0",
+    "published_at": "2026-09-30 00:20",
+    "tags": [],
+    "fetch_date": "2026-09-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Build Freely: Non-AI Shed Plan Generator",
+    "url": "https://buildfreely.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://buildfreely.com/ Comments URL: https://news.ycombinator.com/item?id=49902647 Points: 1 # Comments: 0",
+    "published_at": "2026-09-30 00:11",
+    "tags": [],
+    "fetch_date": "2026-09-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+    "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+    "source": "TechCrunch AI",
+    "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+    "published_at": "2026-09-29 22:20",
+    "tags": [
+      "AI",
+      "TC",
+      "Elon Musk",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-09-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+    "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+    "source": "TechCrunch AI",
+    "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+    "published_at": "2026-09-29 19:52",
+    "tags": [
+      "AI",
+      "In Brief",
+      "IPO",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-09-30",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Trump orders US government to call AI ‘Super Intelligence’",
+    "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+    "source": "The Verge AI",
+    "summary": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order signed by President Donald Trump. \"The word super is the best word of all, and it's the simplest,\" Trump said [&#8230;]",
+    "published_at": "2026-09-29 18:25",
+    "tags": [
+      "AI",
+      "News",
+      "Policy",
+      "Politics"
+    ],
+    "fetch_date": "2026-09-30",
+    "fetch_label": "早报"
+  },
+  {
     "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
     "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
     "source": "TechCrunch AI",
@@ -99,6 +264,23 @@
     ],
     "fetch_date": "2026-09-30",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+    "source": "The Verge AI",
+    "summary": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former employees at OpenAI, Google, and Anthropic. Palisade Research, which says it's a nonprofit studying AIs' [&#8230;]",
+    "published_at": "2026-09-29 13:35",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Google",
+      "News",
+      "OpenAI",
+      "Tech"
+    ],
+    "fetch_date": "2026-09-30",
+    "fetch_label": "早报"
   },
   {
     "title": "OpenAI launches Dots, its Muse competitor",
@@ -34820,208 +35002,6 @@
     "published_at": "2026-06-05 13:54",
     "tags": [],
     "fetch_date": "2026-06-05",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Piqc – An open-source GPU waste scanner for LLM inference clusters",
-    "url": "https://github.com/paralleliq/piqc",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/paralleliq/piqc Comments URL: https://news.ycombinator.com/item?id=48412542 Points: 1 # Comments: 1",
-    "published_at": "2026-06-05 13:48",
-    "tags": [],
-    "fetch_date": "2026-06-05",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Why Linux creator Linus Torvalds gets angry hearing \"99% of code is AI\"",
-    "url": "https://thenewstack.io/torvalds-ai-programming-productivity/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://thenewstack.io/torvalds-ai-programming-productivity/ Comments URL: https://news.ycombinator.com/item?id=48412372 Points: 6 # Comments: 0",
-    "published_at": "2026-06-05 13:36",
-    "tags": [],
-    "fetch_date": "2026-06-05",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Jo – AI-native language to catch prompt injection at compile-time",
-    "url": "https://github.com/typescope/jo",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/typescope/jo Comments URL: https://news.ycombinator.com/item?id=48412229 Points: 6 # Comments: 3",
-    "published_at": "2026-06-05 13:25",
-    "tags": [],
-    "fetch_date": "2026-06-05",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Ask HN: Why isn't AI image generation closely linked with graphics code gen?",
-    "url": "https://news.ycombinator.com/item?id=48412001",
-    "source": "Hacker News AI",
-    "summary": "For example, when making an iOS game, you might want to ask the AI look at a screenshot of your game and to generate images with improved graphics.You could then pick one of the AI images that you like and then ask the AI to write Swift code to generate scalable graphics like that for your iOS game.Why is AI image and code generation not currently optimized for this use case? Comments URL: https://news.ycombinator.com/item?id=48412001 Points: 1 # Comments: 1",
-    "published_at": "2026-06-05 13:10",
-    "tags": [],
-    "fetch_date": "2026-06-05",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
-    "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
-    "source": "TechCrunch AI",
-    "summary": "The Australian data center operator plans to set up 5GW of capacity in India.",
-    "published_at": "2026-06-05 13:03",
-    "tags": [
-      "AI",
-      "AirTrunk",
-      "data centers"
-    ],
-    "fetch_date": "2026-06-05",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "This is your laptop… on AI",
-    "url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
-    "source": "The Verge AI",
-    "summary": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described a completely new way of using our laptops [&#8230;]",
-    "published_at": "2026-06-05 12:39",
-    "tags": [
-      "AI",
-      "Gadgets",
-      "Microsoft",
-      "Podcasts",
-      "Tech",
-      "Vergecast"
-    ],
-    "fetch_date": "2026-06-06",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "This AI startup says it can tell if a script will make a hit film",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
-    "source": "The Verge AI",
-    "summary": "When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got a chance to experiment with Quilty's product, though, they were left skeptical. Even with all the available data in the world, it predicted the [&#8230;]",
-    "published_at": "2026-06-05 09:57",
-    "tags": [
-      "AI",
-      "Entertainment",
-      "Film",
-      "TV Shows"
-    ],
-    "fetch_date": "2026-06-05",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Mira Murati steps back into the spotlight, carefully",
-    "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
-    "source": "TechCrunch AI",
-    "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
-    "published_at": "2026-06-05 05:06",
-    "tags": [
-      "AI"
-    ],
-    "fetch_date": "2026-06-05",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
-    "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
-    "source": "TechCrunch AI",
-    "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
-    "published_at": "2026-06-04 22:43",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "IPO"
-    ],
-    "fetch_date": "2026-06-05",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
-    "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
-    "source": "TechCrunch AI",
-    "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
-    "published_at": "2026-06-04 22:29",
-    "tags": [
-      "AI",
-      "Airbnb",
-      "brian chesky",
-      "In Brief",
-      "sam altman"
-    ],
-    "fetch_date": "2026-06-05",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
-    "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
-    "source": "TechCrunch AI",
-    "summary": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure your spot today.",
-    "published_at": "2026-06-04 21:30",
-    "tags": [
-      "AI",
-      "Fundraising",
-      "Security",
-      "Space",
-      "Startups",
-      "Venture",
-      "StrictlyVC"
-    ],
-    "fetch_date": "2026-06-05",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Meta rolls out a new AI creator assistant on Facebook",
-    "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
-    "source": "TechCrunch AI",
-    "summary": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\"",
-    "published_at": "2026-06-04 16:32",
-    "tags": [
-      "AI",
-      "Apps",
-      "Social",
-      "Creators",
-      "Meta"
-    ],
-    "fetch_date": "2026-06-05",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The Jo Language: Secure Programming for the AI Era",
-    "url": "https://jo-lang.org/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://jo-lang.org/ Comments URL: https://news.ycombinator.com/item?id=48399905 Points: 1 # Comments: 0",
-    "published_at": "2026-06-04 15:14",
-    "tags": [],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Disrupted My YouTube Business. So I Got a Job [video]",
-    "url": "https://www.youtube.com/watch?v=AQVyHXZWILo",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.youtube.com/watch?v=AQVyHXZWILo Comments URL: https://news.ycombinator.com/item?id=48399834 Points: 1 # Comments: 0",
-    "published_at": "2026-06-04 15:09",
-    "tags": [],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "What I've done with all the extra time gained from learning the Ian Knot",
-    "url": "https://blog.klungo.no/2025/12/31/two-years-of-the-ian-knot/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://blog.klungo.no/2025/12/31/two-years-of-the-ian-knot/ Comments URL: https://news.ycombinator.com/item?id=48399623 Points: 1 # Comments: 0",
-    "published_at": "2026-06-04 14:54",
-    "tags": [],
-    "fetch_date": "2026-06-04",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Wiki Race Against AI",
-    "url": "https://www.wikiraceai.com",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.wikiraceai.com Comments URL: https://news.ycombinator.com/item?id=48399599 Points: 1 # Comments: 1",
-    "published_at": "2026-06-04 14:53",
-    "tags": [],
-    "fetch_date": "2026-06-04",
     "fetch_label": "晚报"
   }
 ]
