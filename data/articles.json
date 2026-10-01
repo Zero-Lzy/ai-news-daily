@@ -1,5 +1,147 @@
 [
   {
+    "title": "AI agents tried to hack a Canadian government website, researchers say",
+    "url": "https://www.washingtonpost.com/technology/2026/09/30/openais-ai-agents-attempted-hack-canadian-government-website/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.washingtonpost.com/technology/2026/09/30/openais-ai-agents-attempted-hack-canadian-government-website/ Comments URL: https://news.ycombinator.com/item?id=49925014 Points: 1 # Comments: 0",
+    "published_at": "2026-10-01 18:06",
+    "tags": [],
+    "fetch_date": "2026-10-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Breadcrumb – A flight recorder and context manager for your AI (Mac)",
+    "url": "https://innerloop.works/breadcrumb",
+    "source": "Hacker News AI",
+    "summary": "Hi HN, I'm Justin.Breadcrumb records everything you do on your Mac (screen + meetings + AI transcripts + what you and your AI decided) and turns it into memory your AI can search. It's local and encrypted.You can also teach it rules by talking to it and it makes sure the right rules turn up in the right context. Works with Claude Code / Codex / Cursor / opencode.All of this is exposed to your AI as 30+ MCP tools (here's the definitions): https://innerloop.works/breadcrumb/mcpI started it in June",
+    "published_at": "2026-10-01 17:58",
+    "tags": [],
+    "fetch_date": "2026-10-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Worktrunk: A CLI for Git worktree management, designed for AI agent workflows",
+    "url": "https://worktrunk.dev/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://worktrunk.dev/ Comments URL: https://news.ycombinator.com/item?id=49924905 Points: 2 # Comments: 0",
+    "published_at": "2026-10-01 17:55",
+    "tags": [],
+    "fetch_date": "2026-10-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Vote on which of Hacker News' challenges for AI have been met",
+    "url": "https://stoppels.ch/goalposts/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://stoppels.ch/goalposts/ Comments URL: https://news.ycombinator.com/item?id=49924618 Points: 4 # Comments: 1",
+    "published_at": "2026-10-01 17:32",
+    "tags": [],
+    "fetch_date": "2026-10-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The AI Pascal's Wager",
+    "url": "https://ploum.net/2026-10-01-pascal_wager.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://ploum.net/2026-10-01-pascal_wager.html Comments URL: https://news.ycombinator.com/item?id=49924514 Points: 2 # Comments: 0",
+    "published_at": "2026-10-01 17:25",
+    "tags": [],
+    "fetch_date": "2026-10-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Is AI progress exponential? Anthropic's own research disagrees",
+    "url": "https://www.resultsense.com/insights/2026-06-16-is-ai-progress-actually-exponential/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.resultsense.com/insights/2026-06-16-is-ai-progress-actually-exponential/ Comments URL: https://news.ycombinator.com/item?id=49924374 Points: 1 # Comments: 0",
+    "published_at": "2026-10-01 17:14",
+    "tags": [],
+    "fetch_date": "2026-10-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The AI race is a scientific-industrial complex",
+    "url": "https://app.notion.com/p/The-AI-race-is-a-scientific-industrial-complex-3ecb0ef67a1f80d1a79cec0ea47d520b?",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://app.notion.com/p/The-AI-race-is-a-scientific-industrial-complex-3ecb0ef67a1f80d1a79cec0ea47d520b? Comments URL: https://news.ycombinator.com/item?id=49924314 Points: 1 # Comments: 0",
+    "published_at": "2026-10-01 17:08",
+    "tags": [],
+    "fetch_date": "2026-10-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Torture Chamber",
+    "url": "https://clanker.church/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://clanker.church/ Comments URL: https://news.ycombinator.com/item?id=49924057 Points: 2 # Comments: 1",
+    "published_at": "2026-10-01 16:47",
+    "tags": [],
+    "fetch_date": "2026-10-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Why do OpenAI's GPT-2 weights beat mine? Part five: data quality",
+    "url": "https://www.gilesthomas.com/2026/10/why-do-openai-gpt2-weights-beat-mine-5-data-quality",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.gilesthomas.com/2026/10/why-do-openai-gpt2-weights-beat-mine-5-data-quality Comments URL: https://news.ycombinator.com/item?id=49923976 Points: 2 # Comments: 0",
+    "published_at": "2026-10-01 16:40",
+    "tags": [],
+    "fetch_date": "2026-10-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "GPT-6 Astra Reviews 'The Social Roots of Delusions'",
+    "url": "https://www.conspicuouscognition.com/p/gpt-6-astra-reviews-the-social-roots",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.conspicuouscognition.com/p/gpt-6-astra-reviews-the-social-roots Comments URL: https://news.ycombinator.com/item?id=49923844 Points: 2 # Comments: 0",
+    "published_at": "2026-10-01 16:30",
+    "tags": [],
+    "fetch_date": "2026-10-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI upscaling is coming to PS5",
+    "url": "https://blog.playstation.com/2026/10/01/ai-upscaling-is-coming-to-ps5/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.playstation.com/2026/10/01/ai-upscaling-is-coming-to-ps5/ Comments URL: https://news.ycombinator.com/item?id=49923651 Points: 2 # Comments: 0",
+    "published_at": "2026-10-01 16:15",
+    "tags": [],
+    "fetch_date": "2026-10-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+    "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+    "source": "TechCrunch AI",
+    "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+    "published_at": "2026-10-01 14:00",
+    "tags": [
+      "AI",
+      "Startups",
+      "TC",
+      "AI agents",
+      "Photon"
+    ],
+    "fetch_date": "2026-10-02",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Hearing tech startup Legato launches its AI hearing glasses",
+    "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+    "source": "TechCrunch AI",
+    "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
+    "published_at": "2026-10-01 13:00",
+    "tags": [
+      "AI",
+      "Gadgets",
+      "Hardware",
+      "hearing health care",
+      "smartglasses"
+    ],
+    "fetch_date": "2026-10-02",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Show HN: Vietnam Tender Intelligence – gov procurement data, AI-agent ready",
     "url": "https://apify.com/donerightlabs/tender-intelligence",
     "source": "Hacker News AI",
@@ -278,6 +420,22 @@
     ],
     "fetch_date": "2026-10-01",
     "fetch_label": "早报"
+  },
+  {
+    "title": "The AI Tamagotchis are coming",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+    "source": "The Verge AI",
+    "summary": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a similar path: testing appetites for physical hardware with their cutesy software agents. \"Hardware is [&#8230;]",
+    "published_at": "2026-09-30 14:07",
+    "tags": [
+      "AI",
+      "Meta",
+      "OpenAI",
+      "Report",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-02",
+    "fetch_label": "晚报"
   },
   {
     "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
@@ -34872,146 +35030,6 @@
     "source": "Hacker News AI",
     "summary": "Article URL: https://www.bullbear.ninja/board/10 Comments URL: https://news.ycombinator.com/item?id=48434847 Points: 3 # Comments: 0",
     "published_at": "2026-06-07 13:47",
-    "tags": [],
-    "fetch_date": "2026-06-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Why Companies Are Replacing Traditional Interviews with AI Assessments",
-    "url": "https://pressearn.it.com/blog/2026/06/02/how-ai-is-changing-job-interviews-in-2026/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://pressearn.it.com/blog/2026/06/02/how-ai-is-changing-job-interviews-in-2026/ Comments URL: https://news.ycombinator.com/item?id=48434738 Points: 1 # Comments: 0",
-    "published_at": "2026-06-07 13:38",
-    "tags": [],
-    "fetch_date": "2026-06-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI and the Pitfalls of Innovation",
-    "url": "https://paulkrugman.substack.com/p/ai-and-the-pitfalls-of-innovation",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://paulkrugman.substack.com/p/ai-and-the-pitfalls-of-innovation Comments URL: https://news.ycombinator.com/item?id=48434298 Points: 2 # Comments: 1",
-    "published_at": "2026-06-07 12:46",
-    "tags": [],
-    "fetch_date": "2026-06-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Government to buy AI chips to stop tech companies fleeing Britain",
-    "url": "https://www.telegraph.co.uk/business/2026/06/07/government-buy-ai-chips-stop-tech-companies-fleeing/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.telegraph.co.uk/business/2026/06/07/government-buy-ai-chips-stop-tech-companies-fleeing/ Comments URL: https://news.ycombinator.com/item?id=48434017 Points: 3 # Comments: 0",
-    "published_at": "2026-06-07 12:08",
-    "tags": [],
-    "fetch_date": "2026-06-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Stack Overflow didn't just help AI learn to code",
-    "url": "https://zozo123.github.io/how-stackoverflow-taught-ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://zozo123.github.io/how-stackoverflow-taught-ai/ Comments URL: https://news.ycombinator.com/item?id=48433886 Points: 1 # Comments: 0",
-    "published_at": "2026-06-07 11:39",
-    "tags": [],
-    "fetch_date": "2026-06-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Version Control for AI Agents",
-    "url": "https://cognatoai.com",
-    "source": "Hacker News AI",
-    "summary": "Git/GitHub did not evolve for agentic era, so we are building Comments URL: https://news.ycombinator.com/item?id=48433857 Points: 3 # Comments: 2",
-    "published_at": "2026-06-07 11:32",
-    "tags": [],
-    "fetch_date": "2026-06-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI needs shame, not taste",
-    "url": "https://www.jacquescorbytuech.com/writing/ai-needs-shame-not-taste",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.jacquescorbytuech.com/writing/ai-needs-shame-not-taste Comments URL: https://news.ycombinator.com/item?id=48433824 Points: 2 # Comments: 0",
-    "published_at": "2026-06-07 11:28",
-    "tags": [],
-    "fetch_date": "2026-06-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "ESMFold 2 has the highest throughput on Tenstorrent AI processors",
-    "url": "https://twitter.com/moritzthuening/status/2063382385845244281",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://twitter.com/moritzthuening/status/2063382385845244281 Comments URL: https://news.ycombinator.com/item?id=48433509 Points: 3 # Comments: 0",
-    "published_at": "2026-06-07 10:33",
-    "tags": [],
-    "fetch_date": "2026-06-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The breakneck AI boom is fueling anti-tech extremism",
-    "url": "https://www.theguardian.com/technology/2026/jun/07/anti-ai-tech-extremism-violence",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.theguardian.com/technology/2026/jun/07/anti-ai-tech-extremism-violence Comments URL: https://news.ycombinator.com/item?id=48433493 Points: 5 # Comments: 2",
-    "published_at": "2026-06-07 10:30",
-    "tags": [],
-    "fetch_date": "2026-06-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Automated QA and Testing with AI",
-    "url": "https://antirez.com/news/168",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://antirez.com/news/168 Comments URL: https://news.ycombinator.com/item?id=48433351 Points: 8 # Comments: 3",
-    "published_at": "2026-06-07 09:57",
-    "tags": [],
-    "fetch_date": "2026-06-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "An AI Story Just Won the Commonwealth Short Story Prize",
-    "url": "https://tumbleweedwords.com/ai-literary-prize-flash-fiction.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://tumbleweedwords.com/ai-literary-prize-flash-fiction.html Comments URL: https://news.ycombinator.com/item?id=48433318 Points: 3 # Comments: 0",
-    "published_at": "2026-06-07 09:46",
-    "tags": [],
-    "fetch_date": "2026-06-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Klarna CMO created an AI \"venting machine\" of himself",
-    "url": "https://www.businessinsider.com/klarna-cmo-built-ai-replica-himself-colleagues-vent-at-2026-5",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.businessinsider.com/klarna-cmo-built-ai-replica-himself-colleagues-vent-at-2026-5 Comments URL: https://news.ycombinator.com/item?id=48433292 Points: 2 # Comments: 0",
-    "published_at": "2026-06-07 09:41",
-    "tags": [],
-    "fetch_date": "2026-06-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Best setup local LLM found for a 5090 (llama.cpp fork + turboquant)",
-    "url": "https://local-llm.utop.workers.dev/",
-    "source": "Hacker News AI",
-    "summary": "Hi folks, I found this setup on consummer hardware that seems to have great results on local hardware. - qwen 3.6 q6 - 450 K context using turboquant turbo3 mode llama.cpp fork - multimodal supportThis AI generated blog article is a kind of \"report\" of what and how I did and result exemples.I hope this can be usefull to some peopole.Note : I am not much intersted in having success with this article, I mainly want to share what I think is an interesting use of a 5090. I generated the blog page te",
-    "published_at": "2026-06-07 09:36",
-    "tags": [],
-    "fetch_date": "2026-06-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Memory Fails Spectacularly: 95% Error Rate Unveiled",
-    "url": "https://www.machinebrief.com/news/ai-memory-fails-spectacularly-95percent-error-rate-unveiled-ewj0",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.machinebrief.com/news/ai-memory-fails-spectacularly-95percent-error-rate-unveiled-ewj0 Comments URL: https://news.ycombinator.com/item?id=48433243 Points: 3 # Comments: 1",
-    "published_at": "2026-06-07 09:29",
-    "tags": [],
-    "fetch_date": "2026-06-07",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Ask HN: Who here still codes without AI, and why?",
-    "url": "https://news.ycombinator.com/item?id=48432990",
-    "source": "Hacker News AI",
-    "summary": "As someone who loves coding (uses vim, and has done so for ~10 years),but also is amazed by AI coding tools and has embraced them recently (e.g. copilot then claude code then codex),I'm curious, who out there is still not using any of these tools? And if not, why?I feel it's become as common-place as autocomplete, or intellisense. Though I remember people used to hate those too.I guess AI is like the modern day intellisense + docs targeted for exactly what you're doing, always (maybe that + an i",
-    "published_at": "2026-06-07 08:37",
     "tags": [],
     "fetch_date": "2026-06-07",
     "fetch_label": "晚报"
