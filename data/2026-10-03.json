@@ -1,0 +1,207 @@
+{
+  "date": "2026-10-03",
+  "runs": [
+    {
+      "label": "晚报",
+      "time": "2026-10-03 01:34:17",
+      "count": 20,
+      "articles": [
+        {
+          "title": "Compilers for Machine Learning",
+          "url": "https://gist.github.com/geohot/4768597d9dc536446ee2d5de1f29e89d",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://gist.github.com/geohot/4768597d9dc536446ee2d5de1f29e89d Comments URL: https://news.ycombinator.com/item?id=49936213 Points: 1 # Comments: 0",
+          "published_at": "2026-10-02 17:33",
+          "tags": []
+        },
+        {
+          "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+          "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+          "source": "TechCrunch AI",
+          "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+          "published_at": "2026-10-02 17:32",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Startups",
+            "TC",
+            "Venture",
+            "Blackstone",
+            "TechCrunch Disrupt"
+          ]
+        },
+        {
+          "title": "The AI Pascal's Wager",
+          "url": "https://ploum.net/2026-10-01-pascal_wager.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://ploum.net/2026-10-01-pascal_wager.html Comments URL: https://news.ycombinator.com/item?id=49936141 Points: 1 # Comments: 0",
+          "published_at": "2026-10-02 17:27",
+          "tags": []
+        },
+        {
+          "title": "Nvidia introduces 64GB DGX Spark to throw local AI fans a lifeline",
+          "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-64gb-dgx-spark-to-throw-local-ai-fans-a-lifeline-amid-the-rampocalypse-new-gb10-config-starts-at-usd4999-for-those-who-can-work-with-less",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-64gb-dgx-spark-to-throw-local-ai-fans-a-lifeline-amid-the-rampocalypse-new-gb10-config-starts-at-usd4999-for-those-who-can-work-with-less Comments URL: https://news.ycombinator.com/item?id=49936136 Points: 3 # Comments: 0",
+          "published_at": "2026-10-02 17:26",
+          "tags": []
+        },
+        {
+          "title": "Rai: CPU-only LLM inference engine in pure Rust",
+          "url": "https://github.com/Classevelabs/rai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/Classevelabs/rai Comments URL: https://news.ycombinator.com/item?id=49936094 Points: 2 # Comments: 0",
+          "published_at": "2026-10-02 17:23",
+          "tags": []
+        },
+        {
+          "title": "Giving your AI context through .md files",
+          "url": "https://transcripted.app/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://transcripted.app/ Comments URL: https://news.ycombinator.com/item?id=49936081 Points: 1 # Comments: 0",
+          "published_at": "2026-10-02 17:22",
+          "tags": []
+        },
+        {
+          "title": "Redefining enterprise intelligence with autonomous AI",
+          "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/ Comments URL: https://news.ycombinator.com/item?id=49936044 Points: 1 # Comments: 0",
+          "published_at": "2026-10-02 17:18",
+          "tags": []
+        },
+        {
+          "title": "Publishing's AI Reckoning",
+          "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101215-publishing-s-ai-reckoning.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101215-publishing-s-ai-reckoning.html Comments URL: https://news.ycombinator.com/item?id=49935846 Points: 1 # Comments: 0",
+          "published_at": "2026-10-02 17:01",
+          "tags": []
+        },
+        {
+          "title": "Musk's AI chatbot Grok encouraged Trump to capture Venezuela's president",
+          "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/ Comments URL: https://news.ycombinator.com/item?id=49935794 Points: 7 # Comments: 0",
+          "published_at": "2026-10-02 16:56",
+          "tags": []
+        },
+        {
+          "title": "Show HN: One line so LLM workers share a 429 wait and keep jobs an outage stops",
+          "url": "https://github.com/baldurhq/baldur",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/baldurhq/baldur Comments URL: https://news.ycombinator.com/item?id=49935573 Points: 1 # Comments: 1",
+          "published_at": "2026-10-02 16:40",
+          "tags": []
+        },
+        {
+          "title": "AI data centers: How much are ratepayers on the hook for?",
+          "url": "https://www.npr.org/2026/10/01/nx-s1-5984949/data-centers-ai-ratepayers-congress",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.npr.org/2026/10/01/nx-s1-5984949/data-centers-ai-ratepayers-congress Comments URL: https://news.ycombinator.com/item?id=49935523 Points: 2 # Comments: 0",
+          "published_at": "2026-10-02 16:36",
+          "tags": []
+        },
+        {
+          "title": "How to Use AI to Write Good Code (Slowly)",
+          "url": "https://jdagostino.github.io/slowly/index.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://jdagostino.github.io/slowly/index.html Comments URL: https://news.ycombinator.com/item?id=49935178 Points: 3 # Comments: 0",
+          "published_at": "2026-10-02 16:10",
+          "tags": []
+        },
+        {
+          "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bbc.co.uk/news/articles/cqx2z23xj555o Comments URL: https://news.ycombinator.com/item?id=49935122 Points: 5 # Comments: 3",
+          "published_at": "2026-10-02 16:06",
+          "tags": []
+        },
+        {
+          "title": "AI Productivity Paradox",
+          "url": "https://roushtech.net/blog/ai-productivity-paradox/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://roushtech.net/blog/ai-productivity-paradox/ Comments URL: https://news.ycombinator.com/item?id=49934902 Points: 2 # Comments: 0",
+          "published_at": "2026-10-02 15:51",
+          "tags": []
+        },
+        {
+          "title": "Pope Leo XIV is not a fan of AI-generated art",
+          "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+          "source": "TechCrunch AI",
+          "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
+          "published_at": "2026-10-02 15:39",
+          "tags": [
+            "AI",
+            "Catholicism",
+            "In Brief"
+          ]
+        },
+        {
+          "title": "Amazon writes scary blog warning communities not to block data centers",
+          "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+          "source": "The Verge AI",
+          "summary": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data centers may have on jobs, power demands, and [&#8230;]",
+          "published_at": "2026-10-02 07:52",
+          "tags": [
+            "AI",
+            "Amazon",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "AI music maker Suno now generates spoken words",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+          "source": "The Verge AI",
+          "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers and background music to accompany them. \"Music will always be at [&#8230;]",
+          "published_at": "2026-10-02 05:42",
+          "tags": [
+            "AI",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "ChatGPT can now virtually try on clothes for you",
+          "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+          "published_at": "2026-10-01 19:21",
+          "tags": [
+            "AI",
+            "Apps",
+            "Commerce",
+            "ChatGPT",
+            "shopping"
+          ]
+        },
+        {
+          "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+          "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+          "published_at": "2026-10-01 18:14",
+          "tags": [
+            "AI",
+            "Security",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+          "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+          "source": "TechCrunch AI",
+          "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
+          "published_at": "2026-10-01 17:50",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "writing"
+          ]
+        }
+      ]
+    }
+  ]
+}

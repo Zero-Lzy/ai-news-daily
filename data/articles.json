@@ -1,5 +1,176 @@
 [
   {
+    "title": "Compilers for Machine Learning",
+    "url": "https://gist.github.com/geohot/4768597d9dc536446ee2d5de1f29e89d",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://gist.github.com/geohot/4768597d9dc536446ee2d5de1f29e89d Comments URL: https://news.ycombinator.com/item?id=49936213 Points: 1 # Comments: 0",
+    "published_at": "2026-10-02 17:33",
+    "tags": [],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+    "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+    "source": "TechCrunch AI",
+    "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+    "published_at": "2026-10-02 17:32",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "Startups",
+      "TC",
+      "Venture",
+      "Blackstone",
+      "TechCrunch Disrupt"
+    ],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Nvidia introduces 64GB DGX Spark to throw local AI fans a lifeline",
+    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-64gb-dgx-spark-to-throw-local-ai-fans-a-lifeline-amid-the-rampocalypse-new-gb10-config-starts-at-usd4999-for-those-who-can-work-with-less",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-64gb-dgx-spark-to-throw-local-ai-fans-a-lifeline-amid-the-rampocalypse-new-gb10-config-starts-at-usd4999-for-those-who-can-work-with-less Comments URL: https://news.ycombinator.com/item?id=49936136 Points: 3 # Comments: 0",
+    "published_at": "2026-10-02 17:26",
+    "tags": [],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Rai: CPU-only LLM inference engine in pure Rust",
+    "url": "https://github.com/Classevelabs/rai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/Classevelabs/rai Comments URL: https://news.ycombinator.com/item?id=49936094 Points: 2 # Comments: 0",
+    "published_at": "2026-10-02 17:23",
+    "tags": [],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Giving your AI context through .md files",
+    "url": "https://transcripted.app/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://transcripted.app/ Comments URL: https://news.ycombinator.com/item?id=49936081 Points: 1 # Comments: 0",
+    "published_at": "2026-10-02 17:22",
+    "tags": [],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Redefining enterprise intelligence with autonomous AI",
+    "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/ Comments URL: https://news.ycombinator.com/item?id=49936044 Points: 1 # Comments: 0",
+    "published_at": "2026-10-02 17:18",
+    "tags": [],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Publishing's AI Reckoning",
+    "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101215-publishing-s-ai-reckoning.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101215-publishing-s-ai-reckoning.html Comments URL: https://news.ycombinator.com/item?id=49935846 Points: 1 # Comments: 0",
+    "published_at": "2026-10-02 17:01",
+    "tags": [],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: One line so LLM workers share a 429 wait and keep jobs an outage stops",
+    "url": "https://github.com/baldurhq/baldur",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/baldurhq/baldur Comments URL: https://news.ycombinator.com/item?id=49935573 Points: 1 # Comments: 1",
+    "published_at": "2026-10-02 16:40",
+    "tags": [],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI data centers: How much are ratepayers on the hook for?",
+    "url": "https://www.npr.org/2026/10/01/nx-s1-5984949/data-centers-ai-ratepayers-congress",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.npr.org/2026/10/01/nx-s1-5984949/data-centers-ai-ratepayers-congress Comments URL: https://news.ycombinator.com/item?id=49935523 Points: 2 # Comments: 0",
+    "published_at": "2026-10-02 16:36",
+    "tags": [],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "How to Use AI to Write Good Code (Slowly)",
+    "url": "https://jdagostino.github.io/slowly/index.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://jdagostino.github.io/slowly/index.html Comments URL: https://news.ycombinator.com/item?id=49935178 Points: 3 # Comments: 0",
+    "published_at": "2026-10-02 16:10",
+    "tags": [],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+    "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bbc.co.uk/news/articles/cqx2z23xj555o Comments URL: https://news.ycombinator.com/item?id=49935122 Points: 5 # Comments: 3",
+    "published_at": "2026-10-02 16:06",
+    "tags": [],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Productivity Paradox",
+    "url": "https://roushtech.net/blog/ai-productivity-paradox/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://roushtech.net/blog/ai-productivity-paradox/ Comments URL: https://news.ycombinator.com/item?id=49934902 Points: 2 # Comments: 0",
+    "published_at": "2026-10-02 15:51",
+    "tags": [],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Pope Leo XIV is not a fan of AI-generated art",
+    "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+    "source": "TechCrunch AI",
+    "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
+    "published_at": "2026-10-02 15:39",
+    "tags": [
+      "AI",
+      "Catholicism",
+      "In Brief"
+    ],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Amazon writes scary blog warning communities not to block data centers",
+    "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+    "source": "The Verge AI",
+    "summary": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data centers may have on jobs, power demands, and [&#8230;]",
+    "published_at": "2026-10-02 07:52",
+    "tags": [
+      "AI",
+      "Amazon",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI music maker Suno now generates spoken words",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+    "source": "The Verge AI",
+    "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers and background music to accompany them. \"Music will always be at [&#8230;]",
+    "published_at": "2026-10-02 05:42",
+    "tags": [
+      "AI",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
     "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
     "source": "TechCrunch AI",
@@ -34880,177 +35051,5 @@
     "tags": [],
     "fetch_date": "2026-06-08",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "Amazon is launching AI-generated custom merch",
-    "url": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
-    "source": "The Verge AI",
-    "summary": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies. Shoppers can use text prompts to generate images that are then printed onto blanks for sale on Amazon. They can then share the link to the design so other people can buy the [&#8230;]",
-    "published_at": "2026-06-08 13:52",
-    "tags": [
-      "AI",
-      "Amazon",
-      "Amazon Alexa",
-      "News",
-      "Online Shopping",
-      "Tech"
-    ],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "NotebookLM&#8217;s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
-    "url": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
-    "source": "The Verge AI",
-    "summary": "Google is rolling out \"across the board\" updates to NotebookLM. The AI-powered note-taking app now uses Google's upgraded Gemini 3.5 model, which will allow it to respond with \"more accurate and reliable information,\" according to a blog post on Monday. Launched in 2023, NotebookLM allows you to interact with your notes and sources using AI, [&#8230;]",
-    "published_at": "2026-06-08 12:00",
-    "tags": [
-      "AI",
-      "Apps",
-      "Google",
-      "News",
-      "Tech"
-    ],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
-    "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
-    "source": "The Verge AI",
-    "summary": "Today I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. And I’m actually going to keep today’s intro short — I’m working from my wife’s family farm this week, as you’ll see in the video, but also this is a real burner of an episode. We covered everything from Mustafa’s approach to training new [&#8230;]",
-    "published_at": "2026-06-08 10:00",
-    "tags": [
-      "AI",
-      "Business",
-      "Decoder",
-      "Microsoft",
-      "Microsoft Build",
-      "OpenAI",
-      "Podcasts",
-      "Tech"
-    ],
-    "fetch_date": "2026-06-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "\"AI is someone else's GPU\"",
-    "url": "https://waterpigs.co.uk/notes/5cVMNm/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://waterpigs.co.uk/notes/5cVMNm/ Comments URL: https://news.ycombinator.com/item?id=48441286 Points: 1 # Comments: 0",
-    "published_at": "2026-06-08 04:19",
-    "tags": [],
-    "fetch_date": "2026-06-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Web Speed – A shared web-map registry for AI agents (MCP, open source)",
-    "url": "https://www.getwebspeed.io/",
-    "source": "Hacker News AI",
-    "summary": "Hey everyone, I've been working on a tool called Web Speed. It takes web pages full of HTML and parses them into an easily readable sitemap for an AI agent. By ensuring the AI doesn't have to analyze the full HTML from the page or screenshots of the page, it makes the agent a lot cheaper and faster. It's MCP-native, so any AI that supports MCP can run it and take control of your browser for you. There are both “normal” and post-auth versions live on GitHub. What I think is the coolest thing abou",
-    "published_at": "2026-06-08 04:16",
-    "tags": [],
-    "fetch_date": "2026-06-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "What we know about the plan to give Americans an equity stake in AI",
-    "url": "https://www.ft.com/content/8559a3f9-86de-4a1c-8a75-6623e83e6a00",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.ft.com/content/8559a3f9-86de-4a1c-8a75-6623e83e6a00 Comments URL: https://news.ycombinator.com/item?id=48441234 Points: 1 # Comments: 1",
-    "published_at": "2026-06-08 04:08",
-    "tags": [],
-    "fetch_date": "2026-06-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI for the Operator",
-    "url": "https://github.com/cerebrocybersolutions/cerebro-whitepaper",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/cerebrocybersolutions/cerebro-whitepaper Comments URL: https://news.ycombinator.com/item?id=48441178 Points: 1 # Comments: 0",
-    "published_at": "2026-06-08 03:57",
-    "tags": [],
-    "fetch_date": "2026-06-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The deadliest poison known to AI",
-    "url": "https://iocaine.madhouse-project.org/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://iocaine.madhouse-project.org/ Comments URL: https://news.ycombinator.com/item?id=48441139 Points: 1 # Comments: 0",
-    "published_at": "2026-06-08 03:49",
-    "tags": [],
-    "fetch_date": "2026-06-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "SDSU Wired Its Dorms with 1,300 AI Cameras Without Telling Students",
-    "url": "https://reclaimthenet.org/sdsu-adds-1300-ai-cameras-330-in-student-dorms",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://reclaimthenet.org/sdsu-adds-1300-ai-cameras-330-in-student-dorms Comments URL: https://news.ycombinator.com/item?id=48440994 Points: 8 # Comments: 1",
-    "published_at": "2026-06-08 03:24",
-    "tags": [],
-    "fetch_date": "2026-06-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Running an AI-native engineering org",
-    "url": "https://claude.com/blog/running-an-ai-native-engineering-org",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://claude.com/blog/running-an-ai-native-engineering-org Comments URL: https://news.ycombinator.com/item?id=48440840 Points: 1 # Comments: 0",
-    "published_at": "2026-06-08 02:54",
-    "tags": [],
-    "fetch_date": "2026-06-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The coming rise of anti-AI populism",
-    "url": "https://www.ft.com/content/b4429ea0-4a0a-4a28-96f5-debf4f3eb339",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.ft.com/content/b4429ea0-4a0a-4a28-96f5-debf4f3eb339 Comments URL: https://news.ycombinator.com/item?id=48440654 Points: 2 # Comments: 1",
-    "published_at": "2026-06-08 02:13",
-    "tags": [],
-    "fetch_date": "2026-06-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-    "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision Comments URL: https://news.ycombinator.com/item?id=48440448 Points: 143 # Comments: 37",
-    "published_at": "2026-06-08 01:39",
-    "tags": [],
-    "fetch_date": "2026-06-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Code Stitcher",
-    "url": "https://github.com/ue-patcher/code_stitcher/releases",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/ue-patcher/code_stitcher/releases Comments URL: https://news.ycombinator.com/item?id=48439911 Points: 1 # Comments: 0",
-    "published_at": "2026-06-08 00:00",
-    "tags": [],
-    "fetch_date": "2026-06-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "I built an AI agent that monitors job boards daily and emails you scored matches",
-    "url": "https://www.matchmind.site",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.matchmind.site Comments URL: https://news.ycombinator.com/item?id=48439900 Points: 1 # Comments: 0",
-    "published_at": "2026-06-07 23:58",
-    "tags": [],
-    "fetch_date": "2026-06-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: I built free VoiceToText app with local LLM polish to save 60 min/day",
-    "url": "https://vox.rizenhq.com/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://vox.rizenhq.com/ Comments URL: https://news.ycombinator.com/item?id=48439779 Points: 1 # Comments: 0",
-    "published_at": "2026-06-07 23:38",
-    "tags": [],
-    "fetch_date": "2026-06-08",
-    "fetch_label": "早报"
   }
 ]
