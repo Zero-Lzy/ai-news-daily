@@ -1,5 +1,50 @@
 [
   {
+    "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
+    "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+    "source": "TechCrunch AI",
+    "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+    "published_at": "2026-10-01 21:08",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "Elon Musk",
+      "In Brief"
+    ],
+    "fetch_date": "2026-10-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "ChatGPT can now virtually try on clothes for you",
+    "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+    "source": "TechCrunch AI",
+    "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+    "published_at": "2026-10-01 19:21",
+    "tags": [
+      "AI",
+      "Apps",
+      "Commerce",
+      "ChatGPT",
+      "shopping"
+    ],
+    "fetch_date": "2026-10-02",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+    "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+    "source": "TechCrunch AI",
+    "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+    "published_at": "2026-10-01 18:14",
+    "tags": [
+      "AI",
+      "Security",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-10-02",
+    "fetch_label": "早报"
+  },
+  {
     "title": "AI agents tried to hack a Canadian government website, researchers say",
     "url": "https://www.washingtonpost.com/technology/2026/09/30/openais-ai-agents-attempted-hack-canadian-government-website/",
     "source": "Hacker News AI",
@@ -28,6 +73,20 @@
     "tags": [],
     "fetch_date": "2026-10-02",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+    "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+    "source": "TechCrunch AI",
+    "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
+    "published_at": "2026-10-01 17:50",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "writing"
+    ],
+    "fetch_date": "2026-10-02",
+    "fetch_label": "早报"
   },
   {
     "title": "Show HN: Vote on which of Hacker News' challenges for AI have been met",
@@ -140,6 +199,23 @@
     ],
     "fetch_date": "2026-10-02",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+    "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "source": "TechCrunch AI",
+    "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+    "published_at": "2026-10-01 12:00",
+    "tags": [
+      "AI",
+      "Space",
+      "Exclusive",
+      "Satellites",
+      "satlyt",
+      "TechCrunch Disrupt"
+    ],
+    "fetch_date": "2026-10-02",
+    "fetch_label": "早报"
   },
   {
     "title": "Show HN: Vietnam Tender Intelligence – gov procurement data, AI-agent ready",
@@ -275,6 +351,23 @@
       "In Brief"
     ],
     "fetch_date": "2026-10-01",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+    "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+    "source": "ArsTechnica AI",
+    "summary": "A simple email gives the attackers the ability to remotely inject OS commands.",
+    "published_at": "2026-09-30 20:44",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "exploits",
+      "remote code injection",
+      "vulnerabilities",
+      "zimbra collaboration server"
+    ],
+    "fetch_date": "2026-10-02",
     "fetch_label": "早报"
   },
   {
@@ -34959,79 +35052,5 @@
     "tags": [],
     "fetch_date": "2026-06-08",
     "fetch_label": "早报"
-  },
-  {
-    "title": "TaskbarQuota – Real-time AI quota tracker in the Windows taskbar",
-    "url": "https://github.com/zioder/TaskbarQuota",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/zioder/TaskbarQuota Comments URL: https://news.ycombinator.com/item?id=48439651 Points: 1 # Comments: 0",
-    "published_at": "2026-06-07 23:19",
-    "tags": [],
-    "fetch_date": "2026-06-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "SpaceX IPO deck says \"Deploy orbital AI compute at scale\"",
-    "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026040610/spacexfwp.htm",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.sec.gov/Archives/edgar/data/1181412/000162828026040610/spacexfwp.htm Comments URL: https://news.ycombinator.com/item?id=48439442 Points: 2 # Comments: 2",
-    "published_at": "2026-06-07 22:51",
-    "tags": [],
-    "fetch_date": "2026-06-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Is this the dawn of the Tokenpocalypse?",
-    "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
-    "source": "TechCrunch AI",
-    "summary": "We're likely to see more price increases as the big AI companies plan to go public.",
-    "published_at": "2026-06-07 20:26",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "Equity podcast",
-      "Microsoft"
-    ],
-    "fetch_date": "2026-06-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Notion restores access to Anthropic after service disruption",
-    "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
-    "source": "TechCrunch AI",
-    "summary": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
-    "published_at": "2026-06-07 17:56",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "In Brief",
-      "Notion"
-    ],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "OpenAI is still working on that ‘super app’",
-    "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
-    "source": "TechCrunch AI",
-    "summary": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
-    "published_at": "2026-06-07 16:23",
-    "tags": [
-      "AI",
-      "ChatGPT",
-      "OpenAI"
-    ],
-    "fetch_date": "2026-06-08",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Companies' Shared Destiny Recalls Dot-Com Bubble Memories",
-    "url": "https://www.bullbear.ninja/board/10",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.bullbear.ninja/board/10 Comments URL: https://news.ycombinator.com/item?id=48434847 Points: 3 # Comments: 0",
-    "published_at": "2026-06-07 13:47",
-    "tags": [],
-    "fetch_date": "2026-06-07",
-    "fetch_label": "晚报"
   }
 ]
