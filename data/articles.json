@@ -1,5 +1,123 @@
 [
   {
+    "title": "The UK's Sovereign AI Lab",
+    "url": "https://cosine.sh",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://cosine.sh Comments URL: https://news.ycombinator.com/item?id=49945264 Points: 2 # Comments: 0",
+    "published_at": "2026-10-03 15:45",
+    "tags": [],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Agentlytics – cookieless analytics your AI agent can read and act on",
+    "url": "https://measuremy.site",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://measuremy.site Comments URL: https://news.ycombinator.com/item?id=49945236 Points: 1 # Comments: 0",
+    "published_at": "2026-10-03 15:43",
+    "tags": [],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "TSMC eyes a multibillion-dollar Texas campus for more AI chips",
+    "url": "https://thenextweb.com/news/tsmc-texas-fabs-europe-gap",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://thenextweb.com/news/tsmc-texas-fabs-europe-gap Comments URL: https://news.ycombinator.com/item?id=49945122 Points: 2 # Comments: 0",
+    "published_at": "2026-10-03 15:27",
+    "tags": [],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Jabhook – Boxing Training (Computer Vision, 3D Biomechanics, Local LLM)",
+    "url": "https://jabhook.ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://jabhook.ai/ Comments URL: https://news.ycombinator.com/item?id=49944983 Points: 1 # Comments: 0",
+    "published_at": "2026-10-03 15:10",
+    "tags": [],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Amuse and Spark – Running Live Talking AI Avatars on an ESP32",
+    "url": "https://geastack.com/blog-introducing-amuse-and-spark",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://geastack.com/blog-introducing-amuse-and-spark Comments URL: https://news.ycombinator.com/item?id=49944877 Points: 1 # Comments: 0",
+    "published_at": "2026-10-03 14:58",
+    "tags": [],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "How many AI agents could run on the AI chips shipped through 2027?",
+    "url": "https://epoch.ai/publications/estimating-the-agent-population",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://epoch.ai/publications/estimating-the-agent-population Comments URL: https://news.ycombinator.com/item?id=49944481 Points: 2 # Comments: 1",
+    "published_at": "2026-10-03 14:17",
+    "tags": [],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "GPT-6 Astra plays World of Warcraft blind, clears starting zone in 40 minutes",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/gpt-6-astra-plays-world-of-warcraft-blind-and-clears-the-orc-starting-zone-in-40-minutes-with-no-deaths-ai-agent-navigates-by-server-network-traffic-with-pulled-quest-data",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/gpt-6-astra-plays-world-of-warcraft-blind-and-clears-the-orc-starting-zone-in-40-minutes-with-no-deaths-ai-agent-navigates-by-server-network-traffic-with-pulled-quest-data Comments URL: https://news.ycombinator.com/item?id=49944389 Points: 1 # Comments: 0",
+    "published_at": "2026-10-03 14:07",
+    "tags": [],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Hand decision benchmark (GPT-site)",
+    "url": "https://benchmark-2026-10-03.cyptus.chatgpt.site/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://benchmark-2026-10-03.cyptus.chatgpt.site/ Comments URL: https://news.ycombinator.com/item?id=49944343 Points: 1 # Comments: 0",
+    "published_at": "2026-10-03 14:00",
+    "tags": [],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "All the AI agents that can live in your text messages",
+    "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "source": "TechCrunch AI",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "published_at": "2026-10-03 14:00",
+    "tags": [
+      "AI",
+      "instinct",
+      "AI agents"
+    ],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "US killer's sentence quashed because of AI video of victim shown in court",
+    "url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cwgkvygg5nzvo Comments URL: https://news.ycombinator.com/item?id=49944127 Points: 17 # Comments: 1",
+    "published_at": "2026-10-03 13:34",
+    "tags": [],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "An OpenAI safety employee has quit and is sounding the alarm",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+    "source": "The Verge AI",
+    "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous [&#8230;]",
+    "published_at": "2026-10-03 10:31",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Sean Parker is rebuilding Stability AI around music",
     "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
     "source": "TechCrunch AI",
@@ -34958,141 +35076,5 @@
     ],
     "fetch_date": "2026-06-09",
     "fetch_label": "早报"
-  },
-  {
-    "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-    "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-    "source": "TechCrunch AI",
-    "summary": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
-    "published_at": "2026-06-08 19:41",
-    "tags": [
-      "AI",
-      "Apple",
-      "siri",
-      "wwdc"
-    ],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Apple’s Image Playground doesn’t suck anymore",
-    "url": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
-    "source": "TechCrunch AI",
-    "summary": "Apple's AI image generator is getting a makeover that could make it more competitive.",
-    "published_at": "2026-06-08 18:38",
-    "tags": [
-      "AI",
-      "Apps",
-      "Apple",
-      "image playground",
-      "wwdc",
-      "WWDC 2026"
-    ],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
-    "url": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
-    "source": "ArsTechnica AI",
-    "summary": "73 packages run self-replicating stealer as soon as they're opened by an AI agent.",
-    "published_at": "2026-06-08 18:34",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "Security",
-      "GitHub",
-      "microsoft",
-      "worms"
-    ],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Apple is using AI to fix Safari’s extension problem",
-    "url": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
-    "source": "The Verge AI",
-    "summary": "Apple is trying to solve one of Safari's biggest weaknesses with AI. Safari has long lacked the robust library of extensions that its rivals have, mainly due to the stringent development requirements from Apple. But now, Apple is inviting users to essentially vibe-code their own extensions. In a demo shared by Apple, the company showed [&#8230;]",
-    "published_at": "2026-06-08 18:14",
-    "tags": [
-      "AI",
-      "Apple",
-      "News",
-      "Tech",
-      "Web",
-      "WWDC 2026"
-    ],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Is Slowing Down",
-    "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.wheresyoured.at/ai-is-slowing-down/ Comments URL: https://news.ycombinator.com/item?id=48446893 Points: 4 # Comments: 0",
-    "published_at": "2026-06-08 15:46",
-    "tags": [],
-    "fetch_date": "2026-06-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "New AI espionage powers trigger Putin camera scare",
-    "url": "https://www.ft.com/content/6f4d806c-eb22-4c32-8352-b82692d30e9f",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.ft.com/content/6f4d806c-eb22-4c32-8352-b82692d30e9f Comments URL: https://news.ycombinator.com/item?id=48446885 Points: 1 # Comments: 0",
-    "published_at": "2026-06-08 15:45",
-    "tags": [],
-    "fetch_date": "2026-06-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "How Confident Are AI Classifiers About Their Own Confidence?",
-    "url": "https://gmcirco.github.io/blog/posts/ai-calibration/calibration.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://gmcirco.github.io/blog/posts/ai-calibration/calibration.html Comments URL: https://news.ycombinator.com/item?id=48446816 Points: 1 # Comments: 0",
-    "published_at": "2026-06-08 15:41",
-    "tags": [],
-    "fetch_date": "2026-06-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: A Highly Available Distributed Router for Global Realtime AI",
-    "url": "https://cerebrium.ai/blog/thalamus-our-highly-available-distributed-router-for-global-realtime-ai-workloads",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://cerebrium.ai/blog/thalamus-our-highly-available-distributed-router-for-global-realtime-ai-workloads Comments URL: https://news.ycombinator.com/item?id=48446710 Points: 2 # Comments: 0",
-    "published_at": "2026-06-08 15:33",
-    "tags": [],
-    "fetch_date": "2026-06-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Terry Tao Became an Evangelist for AI in Math",
-    "url": "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/ Comments URL: https://news.ycombinator.com/item?id=48446673 Points: 5 # Comments: 0",
-    "published_at": "2026-06-08 15:30",
-    "tags": [],
-    "fetch_date": "2026-06-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Amid a flood of AI advances astrophysicists are questioning soul of their field",
-    "url": "https://www.science.org/content/article/amid-flood-ai-advances-astrophysicists-are-questioning-soul-their-field",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.science.org/content/article/amid-flood-ai-advances-astrophysicists-are-questioning-soul-their-field Comments URL: https://news.ycombinator.com/item?id=48446531 Points: 1 # Comments: 0",
-    "published_at": "2026-06-08 15:20",
-    "tags": [],
-    "fetch_date": "2026-06-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Meta AI Instagram Hack Wasn't About Authentication. It Was About Authorization",
-    "url": "https://www.cybersecurity-insiders.com/the-meta-ai-instagram-hack-wasnt-about-authentication-it-was-about-authorization/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.cybersecurity-insiders.com/the-meta-ai-instagram-hack-wasnt-about-authentication-it-was-about-authorization/ Comments URL: https://news.ycombinator.com/item?id=48446476 Points: 1 # Comments: 0",
-    "published_at": "2026-06-08 15:17",
-    "tags": [],
-    "fetch_date": "2026-06-08",
-    "fetch_label": "晚报"
   }
 ]

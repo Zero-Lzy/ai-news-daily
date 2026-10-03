@@ -387,6 +387,176 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-10-03 23:50:19",
+      "count": 16,
+      "articles": [
+        {
+          "title": "The UK's Sovereign AI Lab",
+          "url": "https://cosine.sh",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://cosine.sh Comments URL: https://news.ycombinator.com/item?id=49945264 Points: 2 # Comments: 0",
+          "published_at": "2026-10-03 15:45",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Agentlytics – cookieless analytics your AI agent can read and act on",
+          "url": "https://measuremy.site",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://measuremy.site Comments URL: https://news.ycombinator.com/item?id=49945236 Points: 1 # Comments: 0",
+          "published_at": "2026-10-03 15:43",
+          "tags": []
+        },
+        {
+          "title": "TSMC eyes a multibillion-dollar Texas campus for more AI chips",
+          "url": "https://thenextweb.com/news/tsmc-texas-fabs-europe-gap",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://thenextweb.com/news/tsmc-texas-fabs-europe-gap Comments URL: https://news.ycombinator.com/item?id=49945122 Points: 2 # Comments: 0",
+          "published_at": "2026-10-03 15:27",
+          "tags": []
+        },
+        {
+          "title": "Sean Parker is rebuilding Stability AI around music",
+          "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/ Comments URL: https://news.ycombinator.com/item?id=49945031 Points: 1 # Comments: 0",
+          "published_at": "2026-10-03 15:16",
+          "tags": []
+        },
+        {
+          "title": "Jabhook – Boxing Training (Computer Vision, 3D Biomechanics, Local LLM)",
+          "url": "https://jabhook.ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://jabhook.ai/ Comments URL: https://news.ycombinator.com/item?id=49944983 Points: 1 # Comments: 0",
+          "published_at": "2026-10-03 15:10",
+          "tags": []
+        },
+        {
+          "title": "Amuse and Spark – Running Live Talking AI Avatars on an ESP32",
+          "url": "https://geastack.com/blog-introducing-amuse-and-spark",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://geastack.com/blog-introducing-amuse-and-spark Comments URL: https://news.ycombinator.com/item?id=49944877 Points: 1 # Comments: 0",
+          "published_at": "2026-10-03 14:58",
+          "tags": []
+        },
+        {
+          "title": "How many AI agents could run on the AI chips shipped through 2027?",
+          "url": "https://epoch.ai/publications/estimating-the-agent-population",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://epoch.ai/publications/estimating-the-agent-population Comments URL: https://news.ycombinator.com/item?id=49944481 Points: 2 # Comments: 1",
+          "published_at": "2026-10-03 14:17",
+          "tags": []
+        },
+        {
+          "title": "GPT-6 Astra plays World of Warcraft blind, clears starting zone in 40 minutes",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/gpt-6-astra-plays-world-of-warcraft-blind-and-clears-the-orc-starting-zone-in-40-minutes-with-no-deaths-ai-agent-navigates-by-server-network-traffic-with-pulled-quest-data",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/gpt-6-astra-plays-world-of-warcraft-blind-and-clears-the-orc-starting-zone-in-40-minutes-with-no-deaths-ai-agent-navigates-by-server-network-traffic-with-pulled-quest-data Comments URL: https://news.ycombinator.com/item?id=49944389 Points: 1 # Comments: 0",
+          "published_at": "2026-10-03 14:07",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Hand decision benchmark (GPT-site)",
+          "url": "https://benchmark-2026-10-03.cyptus.chatgpt.site/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://benchmark-2026-10-03.cyptus.chatgpt.site/ Comments URL: https://news.ycombinator.com/item?id=49944343 Points: 1 # Comments: 0",
+          "published_at": "2026-10-03 14:00",
+          "tags": []
+        },
+        {
+          "title": "All the AI agents that can live in your text messages",
+          "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "source": "TechCrunch AI",
+          "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+          "published_at": "2026-10-03 14:00",
+          "tags": [
+            "AI",
+            "instinct",
+            "AI agents"
+          ]
+        },
+        {
+          "title": "US killer's sentence quashed because of AI video of victim shown in court",
+          "url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bbc.com/news/articles/cwgkvygg5nzvo Comments URL: https://news.ycombinator.com/item?id=49944127 Points: 17 # Comments: 1",
+          "published_at": "2026-10-03 13:34",
+          "tags": []
+        },
+        {
+          "title": "An OpenAI safety employee has quit and is sounding the alarm",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+          "source": "The Verge AI",
+          "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous [&#8230;]",
+          "published_at": "2026-10-03 10:31",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+          "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+          "source": "TechCrunch AI",
+          "summary": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Trump&#160;also&#160;signed an&#160;executive order&#160;officially rebranding AI as “super intelligence,” and meanwhile,&#160;Meta and OpenAI are putting&#160;friendlier faces on their AI products, even as the biggest money [&#8230;]",
+          "published_at": "2026-10-02 17:56",
+          "tags": [
+            "AI",
+            "Startups",
+            "Elon Musk",
+            "IPO",
+            "OpenAI",
+            "Equity podcast",
+            "Anthropic",
+            "ai safety",
+            "Trump Administration",
+            "consumer AI"
+          ]
+        },
+        {
+          "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+          "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+          "source": "TechCrunch AI",
+          "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+          "published_at": "2026-10-02 17:32",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Startups",
+            "Venture",
+            "Blackstone",
+            "TechCrunch Disrupt"
+          ]
+        },
+        {
+          "title": "Pope Leo XIV is not a fan of AI-generated art",
+          "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+          "source": "TechCrunch AI",
+          "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
+          "published_at": "2026-10-02 15:39",
+          "tags": [
+            "AI",
+            "Catholicism",
+            "In Brief"
+          ]
+        },
+        {
+          "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+          "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+          "source": "TechCrunch AI",
+          "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
+          "published_at": "2026-10-02 14:30",
+          "tags": [
+            "AI",
+            "Startups",
+            "clay",
+            "TechCrunch Disrupt"
+          ]
+        }
+      ]
     }
   ]
 }
