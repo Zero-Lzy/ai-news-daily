@@ -202,6 +202,191 @@
           ]
         }
       ]
+    },
+    {
+      "label": "早报",
+      "time": "2026-10-03 12:28:28",
+      "count": 13,
+      "articles": [
+        {
+          "title": "Sean Parker is rebuilding Stability AI around music",
+          "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+          "source": "TechCrunch AI",
+          "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+          "published_at": "2026-10-02 21:09",
+          "tags": [
+            "AI",
+            "In Brief",
+            "Sean Parker",
+            "Stability AI"
+          ]
+        },
+        {
+          "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+          "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+          "source": "TechCrunch AI",
+          "summary": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Trump&#160;also&#160;signed an&#160;executive order&#160;officially rebranding AI as “super intelligence,” and meanwhile,&#160;Meta and OpenAI are putting&#160;friendlier faces on their AI products, even as the biggest money [&#8230;]",
+          "published_at": "2026-10-02 17:56",
+          "tags": [
+            "AI",
+            "Startups",
+            "Elon Musk",
+            "IPO",
+            "OpenAI",
+            "Equity podcast",
+            "Anthropic",
+            "ai safety",
+            "Trump Administration",
+            "consumer AI"
+          ]
+        },
+        {
+          "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+          "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+          "source": "TechCrunch AI",
+          "summary": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Trump&#160;also&#160;signed an&#160;executive order&#160;officially rebranding AI as “super intelligence,” and meanwhile,&#160;Meta and OpenAI are putting&#160;friendlier faces on their AI products, even as the biggest money [&#8230;]",
+          "published_at": "2026-10-02 17:48",
+          "tags": [
+            "Government & Policy",
+            "AI",
+            "ai safety",
+            "Anthropic",
+            "IPO",
+            "Trump Administration"
+          ]
+        },
+        {
+          "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+          "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+          "source": "TechCrunch AI",
+          "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+          "published_at": "2026-10-02 17:32",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Startups",
+            "Venture",
+            "Blackstone",
+            "TechCrunch Disrupt"
+          ]
+        },
+        {
+          "title": "Pope Leo XIV is not a fan of AI-generated art",
+          "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+          "source": "TechCrunch AI",
+          "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
+          "published_at": "2026-10-02 15:39",
+          "tags": [
+            "AI",
+            "Catholicism",
+            "In Brief"
+          ]
+        },
+        {
+          "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+          "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+          "source": "TechCrunch AI",
+          "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
+          "published_at": "2026-10-02 14:30",
+          "tags": [
+            "AI",
+            "Startups",
+            "clay",
+            "TechCrunch Disrupt"
+          ]
+        },
+        {
+          "title": "AI hallucinations are making entitled customers even worse",
+          "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+          "source": "The Verge AI",
+          "summary": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a shellfish allergy, and I'll come back, and they won't ask me any questions,\" says Madison, who asked that her last name be withheld to [&#8230;]",
+          "published_at": "2026-10-02 08:00",
+          "tags": [
+            "AI",
+            "Report",
+            "Tech"
+          ]
+        },
+        {
+          "title": "AI music maker Suno now generates spoken words",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+          "source": "The Verge AI",
+          "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers and background music to accompany them. \"Music will always be at [&#8230;]",
+          "published_at": "2026-10-02 05:42",
+          "tags": [
+            "AI",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "ChatGPT can now virtually try on clothes for you",
+          "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+          "published_at": "2026-10-01 19:21",
+          "tags": [
+            "AI",
+            "Apps",
+            "Commerce",
+            "ChatGPT",
+            "shopping"
+          ]
+        },
+        {
+          "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+          "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+          "published_at": "2026-10-01 18:14",
+          "tags": [
+            "AI",
+            "Security",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Brian Chesky interview: AI agents need their own operating system",
+          "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+          "source": "TechCrunch AI",
+          "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
+          "published_at": "2026-10-01 15:12",
+          "tags": [
+            "AI",
+            "brian chesky",
+            "Airbnb"
+          ]
+        },
+        {
+          "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+          "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+          "source": "TechCrunch AI",
+          "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+          "published_at": "2026-10-01 14:00",
+          "tags": [
+            "TC",
+            "Startups",
+            "AI",
+            "AI agents",
+            "Photon"
+          ]
+        },
+        {
+          "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+          "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+          "source": "The Verge AI",
+          "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta takes Google's side in a ruling on Wednesday, writing that PMC [&#8230;]",
+          "published_at": "2026-10-01 13:12",
+          "tags": [
+            "AI",
+            "Antitrust",
+            "Google",
+            "Law",
+            "Policy",
+            "Tech"
+          ]
+        }
+      ]
     }
   ]
 }

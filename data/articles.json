@@ -1,5 +1,58 @@
 [
   {
+    "title": "Sean Parker is rebuilding Stability AI around music",
+    "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+    "source": "TechCrunch AI",
+    "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+    "published_at": "2026-10-02 21:09",
+    "tags": [
+      "AI",
+      "In Brief",
+      "Sean Parker",
+      "Stability AI"
+    ],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+    "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+    "source": "TechCrunch AI",
+    "summary": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Trump&#160;also&#160;signed an&#160;executive order&#160;officially rebranding AI as “super intelligence,” and meanwhile,&#160;Meta and OpenAI are putting&#160;friendlier faces on their AI products, even as the biggest money [&#8230;]",
+    "published_at": "2026-10-02 17:56",
+    "tags": [
+      "AI",
+      "Startups",
+      "Elon Musk",
+      "IPO",
+      "OpenAI",
+      "Equity podcast",
+      "Anthropic",
+      "ai safety",
+      "Trump Administration",
+      "consumer AI"
+    ],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+    "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+    "source": "TechCrunch AI",
+    "summary": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Trump&#160;also&#160;signed an&#160;executive order&#160;officially rebranding AI as “super intelligence,” and meanwhile,&#160;Meta and OpenAI are putting&#160;friendlier faces on their AI products, even as the biggest money [&#8230;]",
+    "published_at": "2026-10-02 17:48",
+    "tags": [
+      "Government & Policy",
+      "AI",
+      "ai safety",
+      "Anthropic",
+      "IPO",
+      "Trump Administration"
+    ],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Compilers for Machine Learning",
     "url": "https://gist.github.com/geohot/4768597d9dc536446ee2d5de1f29e89d",
     "source": "Hacker News AI",
@@ -140,6 +193,35 @@
     ],
     "fetch_date": "2026-10-03",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+    "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+    "source": "TechCrunch AI",
+    "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
+    "published_at": "2026-10-02 14:30",
+    "tags": [
+      "AI",
+      "Startups",
+      "clay",
+      "TechCrunch Disrupt"
+    ],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI hallucinations are making entitled customers even worse",
+    "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+    "source": "The Verge AI",
+    "summary": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a shellfish allergy, and I'll come back, and they won't ask me any questions,\" says Madison, who asked that her last name be withheld to [&#8230;]",
+    "published_at": "2026-10-02 08:00",
+    "tags": [
+      "AI",
+      "Report",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "早报"
   },
   {
     "title": "Amazon writes scary blog warning communities not to block data centers",
@@ -340,6 +422,20 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "Brian Chesky interview: AI agents need their own operating system",
+    "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+    "source": "TechCrunch AI",
+    "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
+    "published_at": "2026-10-01 15:12",
+    "tags": [
+      "AI",
+      "brian chesky",
+      "Airbnb"
+    ],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
     "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
     "source": "TechCrunch AI",
@@ -354,6 +450,23 @@
     ],
     "fetch_date": "2026-10-02",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+    "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+    "source": "The Verge AI",
+    "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta takes Google's side in a ruling on Wednesday, writing that PMC [&#8230;]",
+    "published_at": "2026-10-01 13:12",
+    "tags": [
+      "AI",
+      "Antitrust",
+      "Google",
+      "Law",
+      "Policy",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-03",
+    "fetch_label": "早报"
   },
   {
     "title": "Hearing tech startup Legato launches its AI hearing glasses",
@@ -34978,76 +35091,6 @@
     "source": "Hacker News AI",
     "summary": "Article URL: https://www.cybersecurity-insiders.com/the-meta-ai-instagram-hack-wasnt-about-authentication-it-was-about-authorization/ Comments URL: https://news.ycombinator.com/item?id=48446476 Points: 1 # Comments: 0",
     "published_at": "2026-06-08 15:17",
-    "tags": [],
-    "fetch_date": "2026-06-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "\"a game of court intrigue where AI simulates the various courtiers\"",
-    "url": "https://substack.com/@alicemaz/note/c-265000587",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://substack.com/@alicemaz/note/c-265000587 Comments URL: https://news.ycombinator.com/item?id=48446405 Points: 2 # Comments: 0",
-    "published_at": "2026-06-08 15:11",
-    "tags": [],
-    "fetch_date": "2026-06-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI costs are rising, but proving value is still a challenge",
-    "url": "https://mattcasmith.net/2026/06/07/ai-costs-value",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://mattcasmith.net/2026/06/07/ai-costs-value Comments URL: https://news.ycombinator.com/item?id=48446328 Points: 3 # Comments: 0",
-    "published_at": "2026-06-08 15:05",
-    "tags": [],
-    "fetch_date": "2026-06-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "There should have been an op-ed here but you filed AI slop",
-    "url": "https://www.cityam.com/there-should-have-been-an-op-ed-here-but-you-filed-ai-slop/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.cityam.com/there-should-have-been-an-op-ed-here-but-you-filed-ai-slop/ Comments URL: https://news.ycombinator.com/item?id=48446305 Points: 6 # Comments: 0",
-    "published_at": "2026-06-08 15:04",
-    "tags": [],
-    "fetch_date": "2026-06-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "LLM Research Papers: The 2026 List (January to May)",
-    "url": "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1 Comments URL: https://news.ycombinator.com/item?id=48446264 Points: 3 # Comments: 0",
-    "published_at": "2026-06-08 15:00",
-    "tags": [],
-    "fetch_date": "2026-06-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "How AI is reshaping discovery in maths and physics",
-    "url": "https://www.nature.com/articles/d41586-026-01820-1",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.nature.com/articles/d41586-026-01820-1 Comments URL: https://news.ycombinator.com/item?id=48446261 Points: 1 # Comments: 0",
-    "published_at": "2026-06-08 14:59",
-    "tags": [],
-    "fetch_date": "2026-06-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "OpenEvidence: An AI Copilot for Doctors",
-    "url": "https://www.openevidence.com/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.openevidence.com/ Comments URL: https://news.ycombinator.com/item?id=48446141 Points: 1 # Comments: 0",
-    "published_at": "2026-06-08 14:48",
-    "tags": [],
-    "fetch_date": "2026-06-08",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI CostGuard – Local-first runtime safety layer for AI agents",
-    "url": "https://github.com/salimassili62-afk/ai-costguard",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/salimassili62-afk/ai-costguard Comments URL: https://news.ycombinator.com/item?id=48446076 Points: 2 # Comments: 0",
-    "published_at": "2026-06-08 14:43",
     "tags": [],
     "fetch_date": "2026-06-08",
     "fetch_label": "晚报"
