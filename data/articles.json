@@ -1,5 +1,19 @@
 [
   {
+    "title": "Trump unveils his new Super Intelligence Force",
+    "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+    "source": "TechCrunch AI",
+    "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+    "published_at": "2026-10-04 15:15",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "Donald Trump"
+    ],
+    "fetch_date": "2026-10-05",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
     "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
     "source": "TechCrunch AI",
@@ -134,6 +148,22 @@
     ],
     "fetch_date": "2026-10-04",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+    "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+    "source": "The Verge AI",
+    "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here and here, for the curious.) Before that, Kakul held executive roles [&#8230;]",
+    "published_at": "2026-10-03 11:00",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Interview",
+      "Music",
+      "Report"
+    ],
+    "fetch_date": "2026-10-05",
+    "fetch_label": "晚报"
   },
   {
     "title": "An OpenAI safety employee has quit and is sounding the alarm",
@@ -35041,38 +35071,5 @@
     ],
     "fetch_date": "2026-06-10",
     "fetch_label": "早报"
-  },
-  {
-    "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
-    "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
-    "source": "TechCrunch AI",
-    "summary": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
-    "published_at": "2026-06-08 22:39",
-    "tags": [
-      "AI",
-      "Apps",
-      "Gadgets",
-      "TC",
-      "apple intellignce",
-      "siri",
-      "wwdc",
-      "WWDC 2026"
-    ],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "OpenAI files confidentially for IPO, following Anthropic",
-    "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
-    "source": "TechCrunch AI",
-    "summary": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
-    "published_at": "2026-06-08 21:29",
-    "tags": [
-      "AI",
-      "IPO",
-      "OpenAI"
-    ],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "晚报"
   }
 ]
