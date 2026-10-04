@@ -1,5 +1,23 @@
 [
   {
+    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+    "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+    "source": "TechCrunch AI",
+    "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+    "published_at": "2026-10-03 18:43",
+    "tags": [
+      "AI",
+      "Climate",
+      "Government & Policy",
+      "Amazon",
+      "Amazon Web Services",
+      "data centers",
+      "Matt Garman"
+    ],
+    "fetch_date": "2026-10-04",
+    "fetch_label": "早报"
+  },
+  {
     "title": "The UK's Sovereign AI Lab",
     "url": "https://cosine.sh",
     "source": "Hacker News AI",
@@ -102,6 +120,20 @@
     "tags": [],
     "fetch_date": "2026-10-03",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+    "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+    "source": "The Verge AI",
+    "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the RE Engine for [&#8230;]",
+    "published_at": "2026-10-03 12:49",
+    "tags": [
+      "AI",
+      "Gaming",
+      "News"
+    ],
+    "fetch_date": "2026-10-04",
+    "fetch_label": "早报"
   },
   {
     "title": "An OpenAI safety employee has quit and is sounding the alarm",
@@ -35042,39 +35074,5 @@
     ],
     "fetch_date": "2026-06-09",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "Apple plays catch-up at WWDC",
-    "url": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
-    "source": "TechCrunch AI",
-    "summary": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
-    "published_at": "2026-06-08 21:15",
-    "tags": [
-      "AI",
-      "Apps",
-      "TC",
-      "Apple",
-      "wwdc",
-      "WWDC 2026"
-    ],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Apple bets cheaper AI will woo small developers",
-    "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
-    "source": "TechCrunch AI",
-    "summary": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
-    "published_at": "2026-06-08 20:53",
-    "tags": [
-      "AI",
-      "Apps",
-      "Apple",
-      "developers",
-      "wwdc",
-      "WWDC 2026"
-    ],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "早报"
   }
 ]
