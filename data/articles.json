@@ -1,5 +1,162 @@
 [
   {
+    "title": "Parents are using AI to generate pictures of their kids to save money",
+    "url": "https://www.dexerto.com/entertainment/parents-are-using-ai-to-generate-pictures-of-their-kids-to-save-money-on-school-photos-3416112/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.dexerto.com/entertainment/parents-are-using-ai-to-generate-pictures-of-their-kids-to-save-money-on-school-photos-3416112/ Comments URL: https://news.ycombinator.com/item?id=49981860 Points: 1 # Comments: 0",
+    "published_at": "2026-10-06 17:56",
+    "tags": [],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Top 100 Gen AI Consumer Apps (7th Edition)",
+    "url": "https://a16z.com/100-gen-ai-apps-7/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://a16z.com/100-gen-ai-apps-7/ Comments URL: https://news.ycombinator.com/item?id=49981836 Points: 1 # Comments: 0",
+    "published_at": "2026-10-06 17:53",
+    "tags": [],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "North 2: Enterprise AI Without Compromises",
+    "url": "https://cohere.com/blog/introducing-north-2",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://cohere.com/blog/introducing-north-2 Comments URL: https://news.ycombinator.com/item?id=49981769 Points: 2 # Comments: 0",
+    "published_at": "2026-10-06 17:47",
+    "tags": [],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "LLM-Complete: The next 700 programming languages",
+    "url": "https://chrisdone.com/posts/llm-complete/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://chrisdone.com/posts/llm-complete/ Comments URL: https://news.ycombinator.com/item?id=49981764 Points: 2 # Comments: 0",
+    "published_at": "2026-10-06 17:47",
+    "tags": [],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Fraudsters using AI on WhatsApp calls fool bank chair in €95M scam",
+    "url": "https://www.amlintelligence.com/2026/09/news-ai-messaging-scam-costs-italys-top-bank-intesa-millions-sources-say/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.amlintelligence.com/2026/09/news-ai-messaging-scam-costs-italys-top-bank-intesa-millions-sources-say/ Comments URL: https://news.ycombinator.com/item?id=49981724 Points: 2 # Comments: 0",
+    "published_at": "2026-10-06 17:43",
+    "tags": [],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Free native macOS Photoshop Clone with integrated AI harness",
+    "url": "https://news.ycombinator.com/item?id=49981700",
+    "source": "Hacker News AI",
+    "summary": "Hey all!For the past months I've been vibe-coding a free Photoshop editor for macOS (Native using Swift and a bit of Rust). It has many features that I've always wanted in such an editor (but was unwilling to pay the Adobe tax).I did try open source solutions such as Gimp but they never worked for me. In terms of features I'm not gonna list all, but I'm very happy it has:- A proper canvas where text and vectors keep their quality when zooming in - Layers (vectors, text, pixels, color adjustment,",
+    "published_at": "2026-10-06 17:41",
+    "tags": [],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The Sound of Silence: What Your AI Agent Does Not Tell You",
+    "url": "https://albertoarena.it/posts/the-sound-of-silence/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://albertoarena.it/posts/the-sound-of-silence/ Comments URL: https://news.ycombinator.com/item?id=49981656 Points: 1 # Comments: 0",
+    "published_at": "2026-10-06 17:36",
+    "tags": [],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI systems could cover up misbehavior",
+    "url": "https://metr.org/blog/2026-10-06-ai-systems-could-cover-up-misbehavior/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://metr.org/blog/2026-10-06-ai-systems-could-cover-up-misbehavior/ Comments URL: https://news.ycombinator.com/item?id=49981650 Points: 1 # Comments: 0",
+    "published_at": "2026-10-06 17:36",
+    "tags": [],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The 85.B2 Challenge: Does This Earlier AI-Agent Map to Meta Muse",
+    "url": "https://zenodo.org/records/23191871",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://zenodo.org/records/23191871 Comments URL: https://news.ycombinator.com/item?id=49981392 Points: 1 # Comments: 0",
+    "published_at": "2026-10-06 17:16",
+    "tags": [],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Machine Learning and the Destabilization of Buddhist Psychology (2020) [video]",
+    "url": "https://www.youtube.com/watch?v=8veY3A3DgIQ",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=8veY3A3DgIQ Comments URL: https://news.ycombinator.com/item?id=49981337 Points: 1 # Comments: 0",
+    "published_at": "2026-10-06 17:12",
+    "tags": [],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Kcc, a C compiler built solo with an LLM on $100/mo boot Linux kernel",
+    "url": "https://github.com/LiterateDrivenDevelopment/kcc",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/LiterateDrivenDevelopment/kcc Comments URL: https://news.ycombinator.com/item?id=49981314 Points: 2 # Comments: 0",
+    "published_at": "2026-10-06 17:10",
+    "tags": [],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ask HN: How to deal with AI \"true believer\" leadership at work",
+    "url": "https://news.ycombinator.com/item?id=49981268",
+    "source": "Hacker News AI",
+    "summary": "Interested to know what has worked and what hasn’t. How can you stay sane and not burned out by all the “gentle encouragements” to use AI? Comments URL: https://news.ycombinator.com/item?id=49981268 Points: 2 # Comments: 2",
+    "published_at": "2026-10-06 17:07",
+    "tags": [],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Detecting AI ideas, not AI text",
+    "url": "https://www.unite.ai/detecting-ai-ideas-not-ai-text/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.unite.ai/detecting-ai-ideas-not-ai-text/ Comments URL: https://news.ycombinator.com/item?id=49981245 Points: 3 # Comments: 0",
+    "published_at": "2026-10-06 17:05",
+    "tags": [],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Measuring the Experimental Research Taste of AI Systems Against Human Experts",
+    "url": "https://arxiv.org/abs/2610.06824",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2610.06824 Comments URL: https://news.ycombinator.com/item?id=49981106 Points: 1 # Comments: 0",
+    "published_at": "2026-10-06 16:54",
+    "tags": [],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "LibreOffice says ‘no AI’ is now a software feature",
+    "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+    "source": "TechCrunch AI",
+    "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+    "published_at": "2026-10-06 15:25",
+    "tags": [
+      "AI",
+      "Privacy",
+      "Security",
+      "privacy",
+      "cybersecurity",
+      "libreoffice"
+    ],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
     "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
     "source": "TechCrunch AI",
@@ -48,6 +205,20 @@
     ],
     "fetch_date": "2026-10-06",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+    "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+    "source": "TechCrunch AI",
+    "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
+    "published_at": "2026-10-05 18:54",
+    "tags": [
+      "AI",
+      "Social",
+      "instinct"
+    ],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "晚报"
   },
   {
     "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
@@ -121,6 +292,23 @@
     ],
     "fetch_date": "2026-10-06",
     "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+    "source": "The Verge AI",
+    "summary": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the basis for the watermarking Anthropic announced in August. Like OpenAI, Anthropic [&#8230;]",
+    "published_at": "2026-10-05 14:08",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI",
+      "Policy",
+      "Politics",
+      "Regulation"
+    ],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "晚报"
   },
   {
     "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
@@ -34921,198 +35109,5 @@
     "tags": [],
     "fetch_date": "2026-06-09",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "A system programmer's guide to LLM inference",
-    "url": "https://blog.xiangpeng.systems/posts/how-to-llm-inference/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://blog.xiangpeng.systems/posts/how-to-llm-inference/ Comments URL: https://news.ycombinator.com/item?id=48461660 Points: 1 # Comments: 0",
-    "published_at": "2026-06-09 14:31",
-    "tags": [],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "EU Says Decision Not to Launch Siri AI in Europe Is Apple's Alone",
-    "url": "https://www.macrumors.com/2026/06/09/eu-says-decision-not-to-launch-siri-ai-in-europe-is-apples/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.macrumors.com/2026/06/09/eu-says-decision-not-to-launch-siri-ai-in-europe-is-apples/ Comments URL: https://news.ycombinator.com/item?id=48461466 Points: 3 # Comments: 0",
-    "published_at": "2026-06-09 14:16",
-    "tags": [],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI takes people at their word",
-    "url": "https://futuresearch.ai/ai-takes-people-at-their-word/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://futuresearch.ai/ai-takes-people-at-their-word/ Comments URL: https://news.ycombinator.com/item?id=48461396 Points: 4 # Comments: 1",
-    "published_at": "2026-06-09 14:11",
-    "tags": [],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Ocdify – Offline AI that organizes your Mac files, 100% on-device",
-    "url": "https://ocdify.vyanlabs.in",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://ocdify.vyanlabs.in Comments URL: https://news.ycombinator.com/item?id=48461393 Points: 2 # Comments: 0",
-    "published_at": "2026-06-09 14:11",
-    "tags": [],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Sandbox AI-app lifecycle, from build to run",
-    "url": "https://capakit.com/",
-    "source": "Hacker News AI",
-    "summary": "Hi HN,This is a project I've been working on since the beginning of 2025 full time, without funding.Coding agents have fundamentally changed the way we write software. When you let an agent write code, pull dependencies, and run scripts, you are delegating trust while still keeping the responsibility. You shouldn't have to choose between moving fast with agents and maintaining basic control over your host machine.Normally, we just inspect the final result, treating the app like a black box. Most",
-    "published_at": "2026-06-09 14:02",
-    "tags": [],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Bonsai: Human->LLM->Web with LLM interface using Gemma4 12B locally on Windows",
-    "url": "https://drive.google.com/drive/folders/1QsdOvsBKIavXDhwikouzQMOc8H_94bQd",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://drive.google.com/drive/folders/1QsdOvsBKIavXDhwikouzQMOc8H_94bQd Comments URL: https://news.ycombinator.com/item?id=48461245 Points: 2 # Comments: 1",
-    "published_at": "2026-06-09 13:58",
-    "tags": [],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Accelerating Feed-Forward Networks for Disaggregated AI Inference",
-    "url": "https://www.d-matrix.ai/how-accelerating-feed-forward-networks-in-disaggregated-inference-pipelines-power-next-generation-ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.d-matrix.ai/how-accelerating-feed-forward-networks-in-disaggregated-inference-pipelines-power-next-generation-ai/ Comments URL: https://news.ycombinator.com/item?id=48461007 Points: 1 # Comments: 0",
-    "published_at": "2026-06-09 13:39",
-    "tags": [],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "OpenLoomi: SOTA Holistic Context Graph for AI Agents",
-    "url": "https://github.com/melandlabs/openloomi",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/melandlabs/openloomi Comments URL: https://news.ycombinator.com/item?id=48460969 Points: 1 # Comments: 0",
-    "published_at": "2026-06-09 13:36",
-    "tags": [],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Has a Measurement Problem: From tokenmaxxing to attribution",
-    "url": "https://luisgardea.substack.com/p/ai-has-a-measurement-problem",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://luisgardea.substack.com/p/ai-has-a-measurement-problem Comments URL: https://news.ycombinator.com/item?id=48460851 Points: 1 # Comments: 0",
-    "published_at": "2026-06-09 13:25",
-    "tags": [],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Can Help Track the Shrinking Glaciers",
-    "url": "https://spectrum.ieee.org/tracking-glacier-melting-ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://spectrum.ieee.org/tracking-glacier-melting-ai Comments URL: https://news.ycombinator.com/item?id=48460778 Points: 2 # Comments: 0",
-    "published_at": "2026-06-09 13:19",
-    "tags": [],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: JazzBench, an LLM reasoning benchmark using jazz improvisation",
-    "url": "https://flatnine.co/blog/i-built-my-own-eval",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://flatnine.co/blog/i-built-my-own-eval Comments URL: https://news.ycombinator.com/item?id=48460776 Points: 2 # Comments: 0",
-    "published_at": "2026-06-09 13:19",
-    "tags": [],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "How an e-scooter founder raised $5 million to build space data centers",
-    "url": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
-    "source": "TechCrunch AI",
-    "summary": "Orbital founder Euwyn Poon built 250,000 scooters at Spin. Now he wants to launch 10,000 space data centers.",
-    "published_at": "2026-06-09 12:00",
-    "tags": [
-      "AI",
-      "Space",
-      "Exclusive",
-      "Orbital"
-    ],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Microsoft AI chief walks back comments about AI taking over white-collar work",
-    "url": "https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs",
-    "source": "The Verge AI",
-    "summary": "Microsoft AI head Mustafa Suleyman is walking back his statement about AI automating jobs done by white-collar workers, including lawyers, accountants, and project managers. During an episode of Decoder on Monday, Suleyman says he meant AI will help these workers complete tasks, rather than do their jobs: Sending an email, having a conversation with a [&#8230;]",
-    "published_at": "2026-06-09 10:54",
-    "tags": [
-      "AI",
-      "Microsoft",
-      "News",
-      "Tech"
-    ],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Apple’s best AI idea looks a lot like vibe coding",
-    "url": "https://www.theverge.com/tech/946733/apple-shortcuts-ai-safari-tabs-vibe-code",
-    "source": "The Verge AI",
-    "summary": "Most of Apple's current AI ideas are roughly the same as everyone else's AI ideas. A chatbot you can ask questions; quick ways to create or summarize text; bizarre, borderline creepy image-generation tools. The company spent most of its WWDC keynote playing catch-up with the state of the AI art, announcing Siri features you can [&#8230;]",
-    "published_at": "2026-06-09 09:34",
-    "tags": [
-      "AI",
-      "Apple",
-      "Tech"
-    ],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Apple’s AI pitch will live or die by its privacy promise",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/946705/apple-private-cloud-compute-ai-siri-intelligence-wwdc",
-    "source": "The Verge AI",
-    "summary": "As expected, yesterday's WWDC keynote was mostly about AI. And also as expected, Apple tried to turn its late arrival into its sales pitch: It didn't rush into AI because it was taking its time to do things right. In this case, \"right\" means \"with more privacy than anyone else.\" It's a good pitch - [&#8230;]",
-    "published_at": "2026-06-09 08:55",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "Apple",
-      "Apple Event",
-      "Google",
-      "OpenAI",
-      "Report",
-      "Tech"
-    ],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Ask HN: I see AI valuation coming down as soon as next year. What do you think?",
-    "url": "https://news.ycombinator.com/item?id=48455882",
-    "source": "Hacker News AI",
-    "summary": "AI companies started with very cheap subscriptions and it's been hardly 1 year and costs has increased 10-50x in a lot of cases. A lot of companies are still using Coding agents as they don't want to miss out on AI.I see AI companies valuation from trillion dollars to low hundred billion maybe by next year. Reason I think is, corporates are spending upto $500 per month per employee and local AI models are becoming good. So companies can just spend 1000 USD more on beefy 128GB machines and save i",
-    "published_at": "2026-06-09 03:15",
-    "tags": [],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Crowdsourced AI and= Knostic",
-    "url": "https://blog.virustotal.com/2026/06/crowdsourced-ai-knostic.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://blog.virustotal.com/2026/06/crowdsourced-ai-knostic.html Comments URL: https://news.ycombinator.com/item?id=48455863 Points: 1 # Comments: 0",
-    "published_at": "2026-06-09 03:12",
-    "tags": [],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "早报"
   }
 ]

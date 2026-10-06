@@ -1,0 +1,229 @@
+{
+  "date": "2026-10-07",
+  "runs": [
+    {
+      "label": "晚报",
+      "time": "2026-10-07 02:01:02",
+      "count": 22,
+      "articles": [
+        {
+          "title": "Parents are using AI to generate pictures of their kids to save money",
+          "url": "https://www.dexerto.com/entertainment/parents-are-using-ai-to-generate-pictures-of-their-kids-to-save-money-on-school-photos-3416112/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.dexerto.com/entertainment/parents-are-using-ai-to-generate-pictures-of-their-kids-to-save-money-on-school-photos-3416112/ Comments URL: https://news.ycombinator.com/item?id=49981860 Points: 1 # Comments: 0",
+          "published_at": "2026-10-06 17:56",
+          "tags": []
+        },
+        {
+          "title": "Top 100 Gen AI Consumer Apps (7th Edition)",
+          "url": "https://a16z.com/100-gen-ai-apps-7/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://a16z.com/100-gen-ai-apps-7/ Comments URL: https://news.ycombinator.com/item?id=49981836 Points: 1 # Comments: 0",
+          "published_at": "2026-10-06 17:53",
+          "tags": []
+        },
+        {
+          "title": "North 2: Enterprise AI Without Compromises",
+          "url": "https://cohere.com/blog/introducing-north-2",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://cohere.com/blog/introducing-north-2 Comments URL: https://news.ycombinator.com/item?id=49981769 Points: 2 # Comments: 0",
+          "published_at": "2026-10-06 17:47",
+          "tags": []
+        },
+        {
+          "title": "LLM-Complete: The next 700 programming languages",
+          "url": "https://chrisdone.com/posts/llm-complete/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://chrisdone.com/posts/llm-complete/ Comments URL: https://news.ycombinator.com/item?id=49981764 Points: 2 # Comments: 0",
+          "published_at": "2026-10-06 17:47",
+          "tags": []
+        },
+        {
+          "title": "Fraudsters using AI on WhatsApp calls fool bank chair in €95M scam",
+          "url": "https://www.amlintelligence.com/2026/09/news-ai-messaging-scam-costs-italys-top-bank-intesa-millions-sources-say/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.amlintelligence.com/2026/09/news-ai-messaging-scam-costs-italys-top-bank-intesa-millions-sources-say/ Comments URL: https://news.ycombinator.com/item?id=49981724 Points: 2 # Comments: 0",
+          "published_at": "2026-10-06 17:43",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Free native macOS Photoshop Clone with integrated AI harness",
+          "url": "https://news.ycombinator.com/item?id=49981700",
+          "source": "Hacker News AI",
+          "summary": "Hey all!For the past months I've been vibe-coding a free Photoshop editor for macOS (Native using Swift and a bit of Rust). It has many features that I've always wanted in such an editor (but was unwilling to pay the Adobe tax).I did try open source solutions such as Gimp but they never worked for me. In terms of features I'm not gonna list all, but I'm very happy it has:- A proper canvas where text and vectors keep their quality when zooming in - Layers (vectors, text, pixels, color adjustment,",
+          "published_at": "2026-10-06 17:41",
+          "tags": []
+        },
+        {
+          "title": "The Sound of Silence: What Your AI Agent Does Not Tell You",
+          "url": "https://albertoarena.it/posts/the-sound-of-silence/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://albertoarena.it/posts/the-sound-of-silence/ Comments URL: https://news.ycombinator.com/item?id=49981656 Points: 1 # Comments: 0",
+          "published_at": "2026-10-06 17:36",
+          "tags": []
+        },
+        {
+          "title": "AI systems could cover up misbehavior",
+          "url": "https://metr.org/blog/2026-10-06-ai-systems-could-cover-up-misbehavior/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://metr.org/blog/2026-10-06-ai-systems-could-cover-up-misbehavior/ Comments URL: https://news.ycombinator.com/item?id=49981650 Points: 1 # Comments: 0",
+          "published_at": "2026-10-06 17:36",
+          "tags": []
+        },
+        {
+          "title": "The 85.B2 Challenge: Does This Earlier AI-Agent Map to Meta Muse",
+          "url": "https://zenodo.org/records/23191871",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://zenodo.org/records/23191871 Comments URL: https://news.ycombinator.com/item?id=49981392 Points: 1 # Comments: 0",
+          "published_at": "2026-10-06 17:16",
+          "tags": []
+        },
+        {
+          "title": "Machine Learning and the Destabilization of Buddhist Psychology (2020) [video]",
+          "url": "https://www.youtube.com/watch?v=8veY3A3DgIQ",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=8veY3A3DgIQ Comments URL: https://news.ycombinator.com/item?id=49981337 Points: 1 # Comments: 0",
+          "published_at": "2026-10-06 17:12",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Kcc, a C compiler built solo with an LLM on $100/mo boot Linux kernel",
+          "url": "https://github.com/LiterateDrivenDevelopment/kcc",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/LiterateDrivenDevelopment/kcc Comments URL: https://news.ycombinator.com/item?id=49981314 Points: 2 # Comments: 0",
+          "published_at": "2026-10-06 17:10",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: How to deal with AI \"true believer\" leadership at work",
+          "url": "https://news.ycombinator.com/item?id=49981268",
+          "source": "Hacker News AI",
+          "summary": "Interested to know what has worked and what hasn’t. How can you stay sane and not burned out by all the “gentle encouragements” to use AI? Comments URL: https://news.ycombinator.com/item?id=49981268 Points: 2 # Comments: 2",
+          "published_at": "2026-10-06 17:07",
+          "tags": []
+        },
+        {
+          "title": "Detecting AI ideas, not AI text",
+          "url": "https://www.unite.ai/detecting-ai-ideas-not-ai-text/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.unite.ai/detecting-ai-ideas-not-ai-text/ Comments URL: https://news.ycombinator.com/item?id=49981245 Points: 3 # Comments: 0",
+          "published_at": "2026-10-06 17:05",
+          "tags": []
+        },
+        {
+          "title": "Measuring the Experimental Research Taste of AI Systems Against Human Experts",
+          "url": "https://arxiv.org/abs/2610.06824",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2610.06824 Comments URL: https://news.ycombinator.com/item?id=49981106 Points: 1 # Comments: 0",
+          "published_at": "2026-10-06 16:54",
+          "tags": []
+        },
+        {
+          "title": "LibreOffice says ‘no AI’ is now a software feature",
+          "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+          "source": "TechCrunch AI",
+          "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+          "published_at": "2026-10-06 15:25",
+          "tags": [
+            "AI",
+            "Privacy",
+            "Security",
+            "privacy",
+            "cybersecurity",
+            "libreoffice"
+          ]
+        },
+        {
+          "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+          "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+          "source": "TechCrunch AI",
+          "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
+          "published_at": "2026-10-05 18:54",
+          "tags": [
+            "AI",
+            "Social",
+            "instinct"
+          ]
+        },
+        {
+          "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+          "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+          "source": "TechCrunch AI",
+          "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
+          "published_at": "2026-10-05 17:29",
+          "tags": [
+            "AI",
+            "Apps",
+            "Social",
+            "Startup Battlefield 200",
+            "TechCrunch Disrupt"
+          ]
+        },
+        {
+          "title": "All the drama around AI&#8217;s takeover of mathematics",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+          "source": "The Verge AI",
+          "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are moving fast and breaking things, [&#8230;]",
+          "published_at": "2026-10-05 15:28",
+          "tags": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+          "source": "TechCrunch AI",
+          "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
+          "published_at": "2026-10-05 15:00",
+          "tags": [
+            "Startups",
+            "AI",
+            "TechCrunch Disrupt"
+          ]
+        },
+        {
+          "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+          "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+          "source": "TechCrunch AI",
+          "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
+          "published_at": "2026-10-05 14:35",
+          "tags": [
+            "AI",
+            "AI agents",
+            "alibaba",
+            "In Brief",
+            "Tencent"
+          ]
+        },
+        {
+          "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+          "source": "The Verge AI",
+          "summary": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the basis for the watermarking Anthropic announced in August. Like OpenAI, Anthropic [&#8230;]",
+          "published_at": "2026-10-05 14:08",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI",
+            "Policy",
+            "Politics",
+            "Regulation"
+          ]
+        },
+        {
+          "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+          "source": "The Verge AI",
+          "summary": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide. When Guiducci confronted Altman about the incident, the publicist warned Guiducci about running out of time, saying she'd like to \"move on\" to another topic. The interruption came [&#8230;]",
+          "published_at": "2026-10-05 12:55",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI",
+            "Policy"
+          ]
+        }
+      ]
+    }
+  ]
+}
