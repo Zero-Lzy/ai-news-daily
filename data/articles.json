@@ -1,5 +1,143 @@
 [
   {
+    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+    "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "source": "TechCrunch AI",
+    "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+    "published_at": "2026-10-05 20:36",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "TC",
+      "eu",
+      "OpenAI",
+      "EU AI Act",
+      "watermarking"
+    ],
+    "fetch_date": "2026-10-06",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+    "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+    "source": "TechCrunch AI",
+    "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
+    "published_at": "2026-10-05 19:33",
+    "tags": [
+      "AI",
+      "beam",
+      "nvidia",
+      "open source",
+      "open weight",
+      "reflection ai"
+    ],
+    "fetch_date": "2026-10-06",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+    "source": "The Verge AI",
+    "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late\" and \"Call [&#8230;]",
+    "published_at": "2026-10-05 19:09",
+    "tags": [
+      "AI",
+      "Google",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-06",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+    "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+    "source": "TechCrunch AI",
+    "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+    "published_at": "2026-10-05 18:29",
+    "tags": [
+      "AI",
+      "Apps",
+      "Social",
+      "TikTok"
+    ],
+    "fetch_date": "2026-10-06",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+    "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+    "source": "TechCrunch AI",
+    "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
+    "published_at": "2026-10-05 17:29",
+    "tags": [
+      "AI",
+      "Apps",
+      "Social",
+      "Startup Battlefield 200",
+      "TechCrunch Disrupt"
+    ],
+    "fetch_date": "2026-10-06",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "All the drama around AI&#8217;s takeover of mathematics",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+    "source": "The Verge AI",
+    "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are moving fast and breaking things, [&#8230;]",
+    "published_at": "2026-10-05 15:28",
+    "tags": [
+      "AI"
+    ],
+    "fetch_date": "2026-10-06",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
+    "published_at": "2026-10-05 15:00",
+    "tags": [
+      "Startups",
+      "AI",
+      "TechCrunch Disrupt"
+    ],
+    "fetch_date": "2026-10-06",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+    "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+    "source": "TechCrunch AI",
+    "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
+    "published_at": "2026-10-05 14:35",
+    "tags": [
+      "AI",
+      "AI agents",
+      "alibaba",
+      "In Brief",
+      "Tencent"
+    ],
+    "fetch_date": "2026-10-06",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+    "source": "The Verge AI",
+    "summary": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide. When Guiducci confronted Altman about the incident, the publicist warned Guiducci about running out of time, saying she'd like to \"move on\" to another topic. The interruption came [&#8230;]",
+    "published_at": "2026-10-05 12:55",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI",
+      "Policy"
+    ],
+    "fetch_date": "2026-10-06",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
     "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
     "source": "TechCrunch AI",
@@ -34973,102 +35111,6 @@
     "source": "Hacker News AI",
     "summary": "Article URL: https://blog.virustotal.com/2026/06/crowdsourced-ai-knostic.html Comments URL: https://news.ycombinator.com/item?id=48455863 Points: 1 # Comments: 0",
     "published_at": "2026-06-09 03:12",
-    "tags": [],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Community LLM reference – VRAM tables, GPU tier filter, tool-call ratings",
-    "url": "https://bmt-llm-reference.vercel.app",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://bmt-llm-reference.vercel.app Comments URL: https://news.ycombinator.com/item?id=48455815 Points: 1 # Comments: 0",
-    "published_at": "2026-06-09 03:07",
-    "tags": [],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Built software to orchestrate AI and human loops",
-    "url": "https://github.com/sparckix/cognitive-firm",
-    "source": "Hacker News AI",
-    "summary": "Let me know what you think! Comments URL: https://news.ycombinator.com/item?id=48455712 Points: 1 # Comments: 0",
-    "published_at": "2026-06-09 02:55",
-    "tags": [],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Configuring Agentic AI Coding Tools: An Exploratory Study",
-    "url": "https://arxiv.org/abs/2602.14690",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://arxiv.org/abs/2602.14690 Comments URL: https://news.ycombinator.com/item?id=48455519 Points: 1 # Comments: 0",
-    "published_at": "2026-06-09 02:32",
-    "tags": [],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: AI agent for all your support issues",
-    "url": "https://github.com/seaticket-ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/seaticket-ai Comments URL: https://news.ycombinator.com/item?id=48455305 Points: 1 # Comments: 0",
-    "published_at": "2026-06-09 02:05",
-    "tags": [],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI-noleak – Local secret proxy for AI CLIs",
-    "url": "https://github.com/ahmedxuhri/ai-noleak",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/ahmedxuhri/ai-noleak Comments URL: https://news.ycombinator.com/item?id=48455280 Points: 1 # Comments: 0",
-    "published_at": "2026-06-09 02:02",
-    "tags": [],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
-    "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
-    "source": "TechCrunch AI",
-    "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
-    "published_at": "2026-06-09 01:56",
-    "tags": [
-      "AI",
-      "Apple",
-      "iPhone",
-      "siri ai",
-      "WWDC 2026"
-    ],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Web tools an AI agent pays for per call in USDC, no API key (x402+MCP)",
-    "url": "https://superhighway.walls.sh",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://superhighway.walls.sh Comments URL: https://news.ycombinator.com/item?id=48454470 Points: 2 # Comments: 0",
-    "published_at": "2026-06-09 00:30",
-    "tags": [],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI, Argentina and the Antichrist: Thiel's Vision Blooms",
-    "url": "https://www.thenerdreich.com/ai-argentina-and-the-antichrist-thiels-vision-blooms/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.thenerdreich.com/ai-argentina-and-the-antichrist-thiels-vision-blooms/ Comments URL: https://news.ycombinator.com/item?id=48454461 Points: 2 # Comments: 0",
-    "published_at": "2026-06-09 00:28",
-    "tags": [],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "If HN policy disallows AI comments, why is linking to AI generated content ok?",
-    "url": "https://news.ycombinator.com/item?id=48454138",
-    "source": "Hacker News AI",
-    "summary": "Comments URL: https://news.ycombinator.com/item?id=48454138 Points: 8 # Comments: 8",
-    "published_at": "2026-06-08 23:52",
     "tags": [],
     "fetch_date": "2026-06-09",
     "fetch_label": "早报"
