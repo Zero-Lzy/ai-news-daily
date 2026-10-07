@@ -1,5 +1,197 @@
 [
   {
+    "title": "Toketer – See what every AI prompt costs you, live in your editor",
+    "url": "https://marketplace.visualstudio.com/items?itemName=toketer.toketer",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://marketplace.visualstudio.com/items?itemName=toketer.toketer Comments URL: https://news.ycombinator.com/item?id=49988390 Points: 1 # Comments: 0",
+    "published_at": "2026-10-07 04:56",
+    "tags": [],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Crunchbase Data Shows AI's Most Active Startups Are Becoming Serial Acquirers",
+    "url": "https://news.crunchbase.com/ma/ai-startup-acquisitions-legal-healthcare-openai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://news.crunchbase.com/ma/ai-startup-acquisitions-legal-healthcare-openai/ Comments URL: https://news.ycombinator.com/item?id=49988341 Points: 1 # Comments: 0",
+    "published_at": "2026-10-07 04:50",
+    "tags": [],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI-powered time tracking for freelancers and agencies",
+    "url": "https://www.tracktimer.app",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.tracktimer.app Comments URL: https://news.ycombinator.com/item?id=49988339 Points: 1 # Comments: 0",
+    "published_at": "2026-10-07 04:50",
+    "tags": [],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Guide to Using Generative AI in Programming – Textbook by Antti Laaksonen",
+    "url": "https://link.springer.com/book/10.1007/978-3-032-07453-9",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://link.springer.com/book/10.1007/978-3-032-07453-9 Comments URL: https://news.ycombinator.com/item?id=49988081 Points: 1 # Comments: 1",
+    "published_at": "2026-10-07 04:13",
+    "tags": [],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask HN: Does AI do better with CSS or Tailwind?",
+    "url": "https://news.ycombinator.com/item?id=49988056",
+    "source": "Hacker News AI",
+    "summary": "For those who have let AI build sufficiently large projects, what worked out better for you: AI writing raw CSS, or restricting it to Tailwind utility classes? Comments URL: https://news.ycombinator.com/item?id=49988056 Points: 1 # Comments: 0",
+    "published_at": "2026-10-07 04:09",
+    "tags": [],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Local AI is real now. And it's blowing my mind",
+    "url": "https://hive.technology/lab-notes/local-ai-is-real/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://hive.technology/lab-notes/local-ai-is-real/ Comments URL: https://news.ycombinator.com/item?id=49988005 Points: 1 # Comments: 1",
+    "published_at": "2026-10-07 04:02",
+    "tags": [],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+    "url": "https://github.com/nano-muse/nanoMuse",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/nano-muse/nanoMuse Comments URL: https://news.ycombinator.com/item?id=49987765 Points: 2 # Comments: 0",
+    "published_at": "2026-10-07 03:30",
+    "tags": [],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Vim-like, hyper-efficient, LLM power tool – 20-80k tokens not 350k+",
+    "url": "https://easiest.ai/",
+    "source": "Hacker News AI",
+    "summary": "I built a focused TUI tool for efficient parallelized tasks, early independent testers expressed 90%+ API savings and more direct results. This is accomplished by user smaller context windows, hybrid client-side compaction, tool compaction, and system nudges (to avoid polluting the base prompts).My Shell features:- Vim-inspired keybindings, your keys never have to leave the keyboard (some mouse control supported as well)- Custom Markdown, LaTeX, and Mermaid rendering support- On-demand subagents",
+    "published_at": "2026-10-07 03:29",
+    "tags": [],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Usage Typology – Fisherman",
+    "url": "https://news.ycombinator.com/item?id=49987478",
+    "source": "Hacker News AI",
+    "summary": "The type of AI user you are can vary, just like people. I recently stumbled on the Centaur vs. Cyborg debate, and it made me look in the mirror and ask myself: am I a Centaur or a Cyborg? I thought about it for a while and came to a conclusion. I'm a Fisherman. Let me explain.Take this with a grain of salt. It comes from my own hands-on experience using AI at work at an enterprise level. I find the Centaur vs. Cyborg debate interesting because prompting is so nuanced, and which side you lean tow",
+    "published_at": "2026-10-07 02:50",
+    "tags": [],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Turn X Posts into Beautiful Visual Stories with AI",
+    "url": "https://github.com/mkantwala/iloveposts",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/mkantwala/iloveposts Comments URL: https://news.ycombinator.com/item?id=49987290 Points: 1 # Comments: 0",
+    "published_at": "2026-10-07 02:28",
+    "tags": [],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The Hardest Part of Using AI",
+    "url": "https://www.makonea.com/en-US/casual/the-hardest-part-of-using-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.makonea.com/en-US/casual/the-hardest-part-of-using-ai Comments URL: https://news.ycombinator.com/item?id=49986389 Points: 3 # Comments: 0",
+    "published_at": "2026-10-07 00:45",
+    "tags": [],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Researchers Backdoor Open AI Model to Steal Credentials in Coding Agents",
+    "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned Comments URL: https://news.ycombinator.com/item?id=49986345 Points: 3 # Comments: 1",
+    "published_at": "2026-10-07 00:40",
+    "tags": [],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "South Korea says AI agents appear to have been used to hack the country's banks",
+    "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/ Comments URL: https://news.ycombinator.com/item?id=49985861 Points: 59 # Comments: 11",
+    "published_at": "2026-10-06 23:50",
+    "tags": [],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Where do we draw the line on AI in court filings?",
+    "url": "https://lexifina.com/blog/where-to-draw-the-line-on-ai-in-court-filings",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://lexifina.com/blog/where-to-draw-the-line-on-ai-in-court-filings Comments URL: https://news.ycombinator.com/item?id=49985587 Points: 3 # Comments: 0",
+    "published_at": "2026-10-06 23:21",
+    "tags": [],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+    "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+    "source": "TechCrunch AI",
+    "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+    "published_at": "2026-10-06 22:34",
+    "tags": [
+      "AI",
+      "Startups",
+      "CRV",
+      "General Catalyst",
+      "ai video"
+    ],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+    "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+    "source": "TechCrunch AI",
+    "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+    "published_at": "2026-10-06 20:00",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "Startups",
+      "Blackstone",
+      "Coatue Management",
+      "In Brief",
+      "lamda"
+    ],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+    "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+    "source": "ArsTechnica AI",
+    "summary": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
+    "published_at": "2026-10-06 19:21",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "browser",
+      "certificate",
+      "certificate authority",
+      "tls",
+      "transport layer security"
+    ],
+    "fetch_date": "2026-10-07",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Parents are using AI to generate pictures of their kids to save money",
     "url": "https://www.dexerto.com/entertainment/parents-are-using-ai-to-generate-pictures-of-their-kids-to-save-money-on-school-photos-3416112/",
     "source": "Hacker News AI",
@@ -261,6 +453,20 @@
       "AI"
     ],
     "fetch_date": "2026-10-06",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
+    "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+    "source": "The Verge AI",
+    "summary": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms. The activity includes edits to Wikimedia wikis, \"unsuccessful attempts\" to \"exploit\" the Etherpad note-taking tool that the Wikimedia Foundation [&#8230;]",
+    "published_at": "2026-10-05 15:05",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-10-07",
     "fetch_label": "早报"
   },
   {
@@ -34895,219 +35101,5 @@
     "tags": [],
     "fetch_date": "2026-06-10",
     "fetch_label": "早报"
-  },
-  {
-    "title": "AI Safety and the Age of Dislightenment (2023)",
-    "url": "https://www.fast.ai/posts/2023-11-07-dislightenment.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.fast.ai/posts/2023-11-07-dislightenment.html Comments URL: https://news.ycombinator.com/item?id=48470343 Points: 1 # Comments: 0",
-    "published_at": "2026-06-10 01:56",
-    "tags": [],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Claude Fable 5 feels less like a launch and more like a preview of AI inequality",
-    "url": "https://old.reddit.com/r/ClaudeAI/comments/1u1fsdi/claude_fable_5_feels_less_like_a_model_launch_and/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://old.reddit.com/r/ClaudeAI/comments/1u1fsdi/claude_fable_5_feels_less_like_a_model_launch_and/ Comments URL: https://news.ycombinator.com/item?id=48470301 Points: 9 # Comments: 0",
-    "published_at": "2026-06-10 01:50",
-    "tags": [],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Efficient and Lossless Moe Diffusion LLM Inference with I/O-Aware Expert Offload",
-    "url": "https://tide-paper.vercel.app",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://tide-paper.vercel.app Comments URL: https://news.ycombinator.com/item?id=48470284 Points: 1 # Comments: 1",
-    "published_at": "2026-06-10 01:48",
-    "tags": [],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "German ruling declares Google liable for false answers in AI Overviews",
-    "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/ Comments URL: https://news.ycombinator.com/item?id=48470248 Points: 147 # Comments: 65",
-    "published_at": "2026-06-10 01:44",
-    "tags": [],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Estimating the Productivity of an Autonomous AI Software Engineer",
-    "url": "https://cognition.ai/blog/ai-productivity",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://cognition.ai/blog/ai-productivity Comments URL: https://news.ycombinator.com/item?id=48470133 Points: 2 # Comments: 0",
-    "published_at": "2026-06-10 01:30",
-    "tags": [],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Companies Investing Billions in Residential Proxy",
-    "url": "https://nanog.org/events/nanog-97/content/5771",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://nanog.org/events/nanog-97/content/5771 Comments URL: https://news.ycombinator.com/item?id=48469874 Points: 4 # Comments: 1",
-    "published_at": "2026-06-10 00:57",
-    "tags": [],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Firefox adds Google Play Integrity checks for it's AI features",
-    "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=2015109",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://bugzilla.mozilla.org/show_bug.cgi?id=2015109 Comments URL: https://news.ycombinator.com/item?id=48469808 Points: 3 # Comments: 2",
-    "published_at": "2026-06-10 00:47",
-    "tags": [],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Ottawa's bill regulating social media, AI expected to include age restrictions",
-    "url": "https://www.cbc.ca/news/politics/online-harms-social-media-ban-youth-teens-9.7228651",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.cbc.ca/news/politics/online-harms-social-media-ban-youth-teens-9.7228651 Comments URL: https://news.ycombinator.com/item?id=48469704 Points: 7 # Comments: 0",
-    "published_at": "2026-06-10 00:36",
-    "tags": [],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Subscriptions Are Dead",
-    "url": "https://twitter.com/i/status/2064492311686607161",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://twitter.com/i/status/2064492311686607161 Comments URL: https://news.ycombinator.com/item?id=48469562 Points: 5 # Comments: 5",
-    "published_at": "2026-06-10 00:13",
-    "tags": [],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
-    "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
-    "source": "TechCrunch AI",
-    "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
-    "published_at": "2026-06-09 23:17",
-    "tags": [
-      "AI",
-      "Fundraising",
-      "Venture",
-      "anduril",
-      "Anthropic",
-      "playground global",
-      "SpaceX",
-      "SPV"
-    ],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Hey, Siri, here’s what I actually want from AI",
-    "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
-    "source": "TechCrunch AI",
-    "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
-    "published_at": "2026-06-09 20:50",
-    "tags": [
-      "AI",
-      "Apple",
-      "siri",
-      "WWDC 2026"
-    ],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Can tech companies learn to love cheaper AI models?",
-    "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
-    "source": "TechCrunch AI",
-    "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
-    "published_at": "2026-06-09 18:56",
-    "tags": [
-      "AI",
-      "TC",
-      "ai models",
-      "Anthropic",
-      "Harvey",
-      "OpenAI"
-    ],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
-    "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-    "source": "TechCrunch AI",
-    "summary": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
-    "published_at": "2026-06-09 18:04",
-    "tags": [
-      "AI",
-      "Apple",
-      "siri",
-      "wwdc",
-      "WWDC 2026"
-    ],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "It’s not FAANG anymore. It’s MANGOS.",
-    "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
-    "source": "TechCrunch AI",
-    "summary": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to MANGOS.",
-    "published_at": "2026-06-09 16:09",
-    "tags": [
-      "AI",
-      "Startups",
-      "TC",
-      "big tech",
-      "FAANG",
-      "In Brief"
-    ],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI cracked an Erdős math problem. Now experts want guardrails",
-    "url": "https://www.sciencenews.org/article/ai-guardrails-erdos-math-problem",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.sciencenews.org/article/ai-guardrails-erdos-math-problem Comments URL: https://news.ycombinator.com/item?id=48461929 Points: 1 # Comments: 0",
-    "published_at": "2026-06-09 14:51",
-    "tags": [],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The Nerdy Escorts Cashing in on Silicon Valley's AI Boom",
-    "url": "https://www.forbes.com/sites/annatong/2026/06/07/the-nerdy-escorts-cashing-in-on-silicon-valleys-ai-boom/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.forbes.com/sites/annatong/2026/06/07/the-nerdy-escorts-cashing-in-on-silicon-valleys-ai-boom/ Comments URL: https://news.ycombinator.com/item?id=48461884 Points: 1 # Comments: 0",
-    "published_at": "2026-06-09 14:48",
-    "tags": [],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Apple says its AI is still private, even when it's running on Google's servers",
-    "url": "https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/ Comments URL: https://news.ycombinator.com/item?id=48461720 Points: 2 # Comments: 2",
-    "published_at": "2026-06-09 14:35",
-    "tags": [],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The YC AI Stack",
-    "url": "https://www.ycombinator.com/blog/the-yc-ai-student-starter-pack",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.ycombinator.com/blog/the-yc-ai-student-starter-pack Comments URL: https://news.ycombinator.com/item?id=48461684 Points: 1 # Comments: 0",
-    "published_at": "2026-06-09 14:33",
-    "tags": [],
-    "fetch_date": "2026-06-09",
-    "fetch_label": "晚报"
   }
 ]

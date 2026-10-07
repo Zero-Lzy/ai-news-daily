@@ -224,6 +224,237 @@
           ]
         }
       ]
+    },
+    {
+      "label": "早报",
+      "time": "2026-10-07 13:02:57",
+      "count": 22,
+      "articles": [
+        {
+          "title": "Toketer – See what every AI prompt costs you, live in your editor",
+          "url": "https://marketplace.visualstudio.com/items?itemName=toketer.toketer",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://marketplace.visualstudio.com/items?itemName=toketer.toketer Comments URL: https://news.ycombinator.com/item?id=49988390 Points: 1 # Comments: 0",
+          "published_at": "2026-10-07 04:56",
+          "tags": []
+        },
+        {
+          "title": "Crunchbase Data Shows AI's Most Active Startups Are Becoming Serial Acquirers",
+          "url": "https://news.crunchbase.com/ma/ai-startup-acquisitions-legal-healthcare-openai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://news.crunchbase.com/ma/ai-startup-acquisitions-legal-healthcare-openai/ Comments URL: https://news.ycombinator.com/item?id=49988341 Points: 1 # Comments: 0",
+          "published_at": "2026-10-07 04:50",
+          "tags": []
+        },
+        {
+          "title": "AI-powered time tracking for freelancers and agencies",
+          "url": "https://www.tracktimer.app",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.tracktimer.app Comments URL: https://news.ycombinator.com/item?id=49988339 Points: 1 # Comments: 0",
+          "published_at": "2026-10-07 04:50",
+          "tags": []
+        },
+        {
+          "title": "Guide to Using Generative AI in Programming – Textbook by Antti Laaksonen",
+          "url": "https://link.springer.com/book/10.1007/978-3-032-07453-9",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://link.springer.com/book/10.1007/978-3-032-07453-9 Comments URL: https://news.ycombinator.com/item?id=49988081 Points: 1 # Comments: 1",
+          "published_at": "2026-10-07 04:13",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: Does AI do better with CSS or Tailwind?",
+          "url": "https://news.ycombinator.com/item?id=49988056",
+          "source": "Hacker News AI",
+          "summary": "For those who have let AI build sufficiently large projects, what worked out better for you: AI writing raw CSS, or restricting it to Tailwind utility classes? Comments URL: https://news.ycombinator.com/item?id=49988056 Points: 1 # Comments: 0",
+          "published_at": "2026-10-07 04:09",
+          "tags": []
+        },
+        {
+          "title": "Local AI is real now. And it's blowing my mind",
+          "url": "https://hive.technology/lab-notes/local-ai-is-real/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://hive.technology/lab-notes/local-ai-is-real/ Comments URL: https://news.ycombinator.com/item?id=49988005 Points: 1 # Comments: 1",
+          "published_at": "2026-10-07 04:02",
+          "tags": []
+        },
+        {
+          "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+          "url": "https://github.com/nano-muse/nanoMuse",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/nano-muse/nanoMuse Comments URL: https://news.ycombinator.com/item?id=49987765 Points: 2 # Comments: 0",
+          "published_at": "2026-10-07 03:30",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Vim-like, hyper-efficient, LLM power tool – 20-80k tokens not 350k+",
+          "url": "https://easiest.ai/",
+          "source": "Hacker News AI",
+          "summary": "I built a focused TUI tool for efficient parallelized tasks, early independent testers expressed 90%+ API savings and more direct results. This is accomplished by user smaller context windows, hybrid client-side compaction, tool compaction, and system nudges (to avoid polluting the base prompts).My Shell features:- Vim-inspired keybindings, your keys never have to leave the keyboard (some mouse control supported as well)- Custom Markdown, LaTeX, and Mermaid rendering support- On-demand subagents",
+          "published_at": "2026-10-07 03:29",
+          "tags": []
+        },
+        {
+          "title": "AI Usage Typology – Fisherman",
+          "url": "https://news.ycombinator.com/item?id=49987478",
+          "source": "Hacker News AI",
+          "summary": "The type of AI user you are can vary, just like people. I recently stumbled on the Centaur vs. Cyborg debate, and it made me look in the mirror and ask myself: am I a Centaur or a Cyborg? I thought about it for a while and came to a conclusion. I'm a Fisherman. Let me explain.Take this with a grain of salt. It comes from my own hands-on experience using AI at work at an enterprise level. I find the Centaur vs. Cyborg debate interesting because prompting is so nuanced, and which side you lean tow",
+          "published_at": "2026-10-07 02:50",
+          "tags": []
+        },
+        {
+          "title": "Turn X Posts into Beautiful Visual Stories with AI",
+          "url": "https://github.com/mkantwala/iloveposts",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/mkantwala/iloveposts Comments URL: https://news.ycombinator.com/item?id=49987290 Points: 1 # Comments: 0",
+          "published_at": "2026-10-07 02:28",
+          "tags": []
+        },
+        {
+          "title": "The Hardest Part of Using AI",
+          "url": "https://www.makonea.com/en-US/casual/the-hardest-part-of-using-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.makonea.com/en-US/casual/the-hardest-part-of-using-ai Comments URL: https://news.ycombinator.com/item?id=49986389 Points: 3 # Comments: 0",
+          "published_at": "2026-10-07 00:45",
+          "tags": []
+        },
+        {
+          "title": "Researchers Backdoor Open AI Model to Steal Credentials in Coding Agents",
+          "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned Comments URL: https://news.ycombinator.com/item?id=49986345 Points: 3 # Comments: 1",
+          "published_at": "2026-10-07 00:40",
+          "tags": []
+        },
+        {
+          "title": "South Korea says AI agents appear to have been used to hack the country's banks",
+          "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/ Comments URL: https://news.ycombinator.com/item?id=49985861 Points: 59 # Comments: 11",
+          "published_at": "2026-10-06 23:50",
+          "tags": []
+        },
+        {
+          "title": "Where do we draw the line on AI in court filings?",
+          "url": "https://lexifina.com/blog/where-to-draw-the-line-on-ai-in-court-filings",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://lexifina.com/blog/where-to-draw-the-line-on-ai-in-court-filings Comments URL: https://news.ycombinator.com/item?id=49985587 Points: 3 # Comments: 0",
+          "published_at": "2026-10-06 23:21",
+          "tags": []
+        },
+        {
+          "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+          "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+          "source": "TechCrunch AI",
+          "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+          "published_at": "2026-10-06 22:34",
+          "tags": [
+            "AI",
+            "Startups",
+            "CRV",
+            "General Catalyst",
+            "ai video"
+          ]
+        },
+        {
+          "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+          "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+          "published_at": "2026-10-06 20:00",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Startups",
+            "Blackstone",
+            "Coatue Management",
+            "In Brief",
+            "lamda"
+          ]
+        },
+        {
+          "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+          "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+          "source": "ArsTechnica AI",
+          "summary": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
+          "published_at": "2026-10-06 19:21",
+          "tags": [
+            "Biz & IT",
+            "Security",
+            "browser",
+            "certificate",
+            "certificate authority",
+            "tls",
+            "transport layer security"
+          ]
+        },
+        {
+          "title": "LibreOffice says ‘no AI’ is now a software feature",
+          "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+          "source": "TechCrunch AI",
+          "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+          "published_at": "2026-10-06 15:25",
+          "tags": [
+            "AI",
+            "Privacy",
+            "Security",
+            "privacy",
+            "cybersecurity",
+            "libreoffice"
+          ]
+        },
+        {
+          "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+          "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+          "source": "TechCrunch AI",
+          "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
+          "published_at": "2026-10-05 17:29",
+          "tags": [
+            "AI",
+            "Apps",
+            "Social",
+            "Startup Battlefield 200",
+            "TechCrunch Disrupt"
+          ]
+        },
+        {
+          "title": "All the drama around AI&#8217;s takeover of mathematics",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+          "source": "The Verge AI",
+          "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are moving fast and breaking things, [&#8230;]",
+          "published_at": "2026-10-05 15:28",
+          "tags": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
+          "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+          "source": "The Verge AI",
+          "summary": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms. The activity includes edits to Wikimedia wikis, \"unsuccessful attempts\" to \"exploit\" the Etherpad note-taking tool that the Wikimedia Foundation [&#8230;]",
+          "published_at": "2026-10-05 15:05",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+          "source": "The Verge AI",
+          "summary": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the basis for the watermarking Anthropic announced in August. Like OpenAI, Anthropic [&#8230;]",
+          "published_at": "2026-10-05 14:08",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI",
+            "Policy",
+            "Politics",
+            "Regulation"
+          ]
+        }
+      ]
     }
   ]
 }
