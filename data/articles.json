@@ -1,5 +1,255 @@
 [
   {
+    "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+    "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+    "source": "TechCrunch AI",
+    "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+    "published_at": "2026-10-07 18:30",
+    "tags": [
+      "AI",
+      "Apps",
+      "Meta",
+      "muse"
+    ],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "A model guide for the GPT‑6 family",
+    "url": "https://openai.com/index/practical-guide-building-gpt-6/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://openai.com/index/practical-guide-building-gpt-6/ Comments URL: https://news.ycombinator.com/item?id=49996847 Points: 1 # Comments: 0",
+    "published_at": "2026-10-07 18:26",
+    "tags": [],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Helping teens learn, plan, and shape the future of AI",
+    "url": "https://openai.com/index/teens-learn-and-plan/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://openai.com/index/teens-learn-and-plan/ Comments URL: https://news.ycombinator.com/item?id=49996784 Points: 2 # Comments: 0",
+    "published_at": "2026-10-07 18:23",
+    "tags": [],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
+    "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/ Comments URL: https://news.ycombinator.com/item?id=49996713 Points: 4 # Comments: 0",
+    "published_at": "2026-10-07 18:19",
+    "tags": [],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "When the machine boots but the reply disappears",
+    "url": "https://mainbrella.com/blog/inside-our-brella/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://mainbrella.com/blog/inside-our-brella/ Comments URL: https://news.ycombinator.com/item?id=49996574 Points: 4 # Comments: 0",
+    "published_at": "2026-10-07 18:10",
+    "tags": [],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Model Groupthink",
+    "url": "https://magicnumbers.io/2026/10/06/ai-model-groupthink/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://magicnumbers.io/2026/10/06/ai-model-groupthink/ Comments URL: https://news.ycombinator.com/item?id=49996542 Points: 5 # Comments: 0",
+    "published_at": "2026-10-07 18:08",
+    "tags": [],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Funding the AI revolution: evidence from euro area sectors",
+    "url": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20261006~35bf3c24cb.en.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20261006~35bf3c24cb.en.html Comments URL: https://news.ycombinator.com/item?id=49996461 Points: 3 # Comments: 0",
+    "published_at": "2026-10-07 18:03",
+    "tags": [],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "GPT‑6 and Intelligent UI for everyone",
+    "url": "https://openai.com/index/gpt-6-for-everyone/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://openai.com/index/gpt-6-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49996425 Points: 74 # Comments: 22",
+    "published_at": "2026-10-07 18:00",
+    "tags": [],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "FICO cuts workforce by 15% in AI-driven restructuring",
+    "url": "https://www.reuters.com/business/world-at-work/fico-cuts-workforce-by-15-ai-driven-restructuring-2026-10-06/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.reuters.com/business/world-at-work/fico-cuts-workforce-by-15-ai-driven-restructuring-2026-10-06/ Comments URL: https://news.ycombinator.com/item?id=49996228 Points: 5 # Comments: 0",
+    "published_at": "2026-10-07 17:45",
+    "tags": [],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI, Work, and the Next Downturn",
+    "url": "https://watch.wilsoniumite.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://watch.wilsoniumite.com/ Comments URL: https://news.ycombinator.com/item?id=49996090 Points: 7 # Comments: 0",
+    "published_at": "2026-10-07 17:36",
+    "tags": [],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "What will AI do to our jobs and our wages? [video]",
+    "url": "https://www.youtube.com/watch?v=kAkpzlR7io8",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=kAkpzlR7io8 Comments URL: https://news.ycombinator.com/item?id=49996078 Points: 3 # Comments: 0",
+    "published_at": "2026-10-07 17:34",
+    "tags": [],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Hermes creator Nous Research raises $90M to bring open-source AI to enterprises",
+    "url": "https://www.wsj.com/pro/venture-capital/nous-research-scores-90-million-to-bring-open-source-ai-assistant-to-enterprises-516f9208",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wsj.com/pro/venture-capital/nous-research-scores-90-million-to-bring-open-source-ai-assistant-to-enterprises-516f9208 Comments URL: https://news.ycombinator.com/item?id=49995720 Points: 3 # Comments: 0",
+    "published_at": "2026-10-07 17:10",
+    "tags": [],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+    "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/ Comments URL: https://news.ycombinator.com/item?id=49995495 Points: 16 # Comments: 3",
+    "published_at": "2026-10-07 16:56",
+    "tags": [],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Coding and Agentic Capabilities Are Now More Important Than Ever for AI",
+    "url": "https://news.ycombinator.com/item?id=49995428",
+    "source": "Hacker News AI",
+    "summary": "I have written a deep dive into this topic in my website Nasengetu. You can go on Google, search for Nasengetu Tech, and read the latest article. If it doesn't appear, go to the News section of the website. Comments URL: https://news.ycombinator.com/item?id=49995428 Points: 2 # Comments: 3",
+    "published_at": "2026-10-07 16:52",
+    "tags": [],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Man Sentenced to 18 Months in Prison for AI Music Streaming Fraud",
+    "url": "https://www.justice.gov/usao-sdny/pr/north-carolina-man-sentenced-18-months-prison-super-intelligence-assisted-music",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.justice.gov/usao-sdny/pr/north-carolina-man-sentenced-18-months-prison-super-intelligence-assisted-music Comments URL: https://news.ycombinator.com/item?id=49995378 Points: 3 # Comments: 0",
+    "published_at": "2026-10-07 16:49",
+    "tags": [],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+    "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+    "source": "TechCrunch AI",
+    "summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
+    "published_at": "2026-10-07 15:07",
+    "tags": [
+      "AI",
+      "Biotech & Health",
+      "Fundraising",
+      "Startups",
+      "HealthLeap",
+      "HealthTech",
+      "medicine"
+    ],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Google experiments with an AI-powered gaming platform",
+    "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+    "source": "TechCrunch AI",
+    "summary": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
+    "published_at": "2026-10-07 14:36",
+    "tags": [
+      "AI",
+      "Gaming",
+      "Generative AI",
+      "Google",
+      "playground"
+    ],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
+    "url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
+    "source": "The Verge AI",
+    "summary": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now directly, and slated to ship in November for just about $6,000. It's pricier than the DGX Spark mini PC Nvidia launched last year, but PC prices have been climbing due to shortages of RAM and other components. The Dev Box's flat, 3D-printed anodized [&#8230;]",
+    "published_at": "2026-10-07 13:46",
+    "tags": [
+      "AI",
+      "Microsoft",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "ChatGPT is getting college planning tools",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+    "source": "The Verge AI",
+    "summary": "OpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced in August with safeguards and break reminders, to help users with the college application process. \"College Planner brings together application requirements, deadlines, tasks, and financial-aid steps for schools on a student's list in one plan,\" OpenAI says. \"Students applying to several [&#8230;]",
+    "published_at": "2026-10-07 12:00",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Muse launches on the iPad",
+    "url": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
+    "source": "The Verge AI",
+    "summary": "After launching nearly a month ago and spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS app introduces native support for the iPad. A Mac version of Meta's agentic AI tool (designed to compete with OpenClaw, ChatGPT's Dots, and Grok Bot) was released about a [&#8230;]",
+    "published_at": "2026-10-07 11:37",
+    "tags": [
+      "AI",
+      "Meta",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
+    "url": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+    "source": "The Verge AI",
+    "summary": "Google DeepMind, Meta, and AI drug discovery startup Isomorphic Labs are jointly investing $300 million into an initiative to create a \"virtual cell\" that researchers can use to combat disease, as reported earlier by Reuters. The project is led by Biohub, a nonprofit biomedical research organization founded by Mark Zuckerberg and his wife, Priscilla Chan. [&#8230;]",
+    "published_at": "2026-10-07 10:40",
+    "tags": [
+      "AI",
+      "Google",
+      "Health",
+      "Meta",
+      "Science",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Toketer – See what every AI prompt costs you, live in your editor",
     "url": "https://marketplace.visualstudio.com/items?itemName=toketer.toketer",
     "source": "Hacker News AI",
@@ -34852,254 +35102,5 @@
     "tags": [],
     "fetch_date": "2026-06-10",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Papermill Press – An AI-friendly markup language for PDF generation",
-    "url": "https://news.ycombinator.com/item?id=48477708",
-    "source": "Hacker News AI",
-    "summary": "If you’ve generated PDFs from HTML, you’ll know the pain: headless Chrome in Docker, CSS hacks, content that flows over pages or table boundaries and other quality issues.The fundamental problem is that HTML was designed for screens, not print.We built Press, a markup-based document language where pages, content flows, and assets are first-class concepts. Content can flow across frames, columns, and pages without manual pagination. Pages are created dynamically based on the available content.Pre",
-    "published_at": "2026-06-10 15:21",
-    "tags": [],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "HoneyAI – AI-powered honeypot replacing Cowrie/OpenCanary/Galah with one process",
-    "url": "https://github.com/martidu4/honey-ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/martidu4/honey-ai Comments URL: https://news.ycombinator.com/item?id=48477620 Points: 1 # Comments: 0",
-    "published_at": "2026-06-10 15:15",
-    "tags": [],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "LLM – Jagged Intelligence",
-    "url": "https://yalereview.org/article/melanie-mitchell-jagged-intelligence",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://yalereview.org/article/melanie-mitchell-jagged-intelligence Comments URL: https://news.ycombinator.com/item?id=48477459 Points: 1 # Comments: 0",
-    "published_at": "2026-06-10 15:04",
-    "tags": [],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Apache Burr: Build reliable AI agents and applications",
-    "url": "https://burr.apache.org/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://burr.apache.org/ Comments URL: https://news.ycombinator.com/item?id=48477400 Points: 15 # Comments: 1",
-    "published_at": "2026-06-10 15:01",
-    "tags": [],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: AuthAI, an open-source relay for user-authorized AI sessions",
-    "url": "https://github.com/authai-io/authai",
-    "source": "Hacker News AI",
-    "summary": "Hello HN,My name is Riccardo and I created AuthAI for indie hackers.The idea is quite simple: let the end users connect their chatgpt/grok/copilot account and route the AI requests through their AI subscriptions.This enable a lot of new cool ideas where the business model/unit economics don't always make sense.The flow is straightforward:They click on \"login with AI\", choose their provider, and authorise the device on the provider's website.Tokens get encrypted using a per-user AES-256-GCM encry",
-    "published_at": "2026-06-10 14:56",
-    "tags": [],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Skimming an AI answer cost me 100 passwords",
-    "url": "https://alwaysdraft.com/skimming-ai-answer-cost-100-passwords/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://alwaysdraft.com/skimming-ai-answer-cost-100-passwords/ Comments URL: https://news.ycombinator.com/item?id=48477307 Points: 2 # Comments: 1",
-    "published_at": "2026-06-10 14:55",
-    "tags": [],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Economists Weigh in on the Future of Work and AI",
-    "url": "https://www.wsj.com/tech/ai/economists-weigh-in-on-the-future-of-work-and-ai-f59311e9",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/economists-weigh-in-on-the-future-of-work-and-ai-f59311e9 Comments URL: https://news.ycombinator.com/item?id=48477134 Points: 2 # Comments: 0",
-    "published_at": "2026-06-10 14:47",
-    "tags": [],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Security scanners for AI agent skills agree no better than chance",
-    "url": "https://trymastro.com/study",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://trymastro.com/study Comments URL: https://news.ycombinator.com/item?id=48477095 Points: 2 # Comments: 0",
-    "published_at": "2026-06-10 14:45",
-    "tags": [],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Claude Fable won’t answer basic biology questions",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
-    "source": "The Verge AI",
-    "summary": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query to the former flagship [&#8230;]",
-    "published_at": "2026-06-10 14:43",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "Report",
-      "Science"
-    ],
-    "fetch_date": "2026-06-12",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Manifesto for Agentic Teams – reorganizing engineering around AI agents",
-    "url": "https://agentic-team-manifesto.org/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://agentic-team-manifesto.org/ Comments URL: https://news.ycombinator.com/item?id=48476888 Points: 3 # Comments: 0",
-    "published_at": "2026-06-10 14:32",
-    "tags": [],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Warner Music acquires AI attribution startup Sureel AI",
-    "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
-    "source": "TechCrunch AI",
-    "summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
-    "published_at": "2026-06-10 14:31",
-    "tags": [
-      "AI",
-      "Media & Entertainment",
-      "Startups",
-      "AI startups",
-      "warner music"
-    ],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AtlasForgeX – AI-powered living business intelligence network",
-    "url": "https://atlasforgex.com/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://atlasforgex.com/ Comments URL: https://news.ycombinator.com/item?id=48476499 Points: 1 # Comments: 0",
-    "published_at": "2026-06-10 14:05",
-    "tags": [],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
-    "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
-    "source": "TechCrunch AI",
-    "summary": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
-    "published_at": "2026-06-10 13:33",
-    "tags": [
-      "AI",
-      "Enterprise",
-      "Fundraising",
-      "AI agents",
-      "context graphs",
-      "Jedify"
-    ],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
-    "url": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
-    "source": "TechCrunch AI",
-    "summary": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on.",
-    "published_at": "2026-06-10 13:07",
-    "tags": [
-      "AI",
-      "Startups",
-      "Transportation",
-      "autonomous vehicles",
-      "decart",
-      "Exclusive",
-      "oasis 3",
-      "world models"
-    ],
-    "fetch_date": "2026-06-11",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
-    "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
-    "source": "The Verge AI",
-    "summary": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data retention requirements. While Microsoft quickly rolled out Claude Fable 5 to its GitHub Copilot and Foundry customers, I'm [&#8230;]",
-    "published_at": "2026-06-10 12:50",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "Exclusive",
-      "Microsoft",
-      "Report",
-      "Tech"
-    ],
-    "fetch_date": "2026-06-12",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Meta signs first AI data center deal in India with Reliance",
-    "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
-    "source": "TechCrunch AI",
-    "summary": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
-    "published_at": "2026-06-10 07:05",
-    "tags": [
-      "AI",
-      "Meta",
-      "reliance",
-      "reliance industries"
-    ],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "SafeAgentDB – Isolated databases for every AI agent branch",
-    "url": "https://github.com/Aidan945/SafeAgentDB",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/Aidan945/SafeAgentDB Comments URL: https://news.ycombinator.com/item?id=48470846 Points: 2 # Comments: 0",
-    "published_at": "2026-06-10 02:59",
-    "tags": [],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Would like learning history with any philosophers",
-    "url": "http://mailto:constituence@icloud.com",
-    "source": "Hacker News AI",
-    "summary": "Article URL: http://mailto:constituence@icloud.com Comments URL: https://news.ycombinator.com/item?id=48470773 Points: 2 # Comments: 1",
-    "published_at": "2026-06-10 02:51",
-    "tags": [],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Rich Sutton on AI creativity and discovery",
-    "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
-    "source": "Hacker News AI",
-    "summary": "https://www.youtube.com/watch?v=K5LAFEjTlBA Comments URL: https://news.ycombinator.com/item?id=48470581 Points: 37 # Comments: 16",
-    "published_at": "2026-06-10 02:25",
-    "tags": [],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "State of AI and Identity Report",
-    "url": "https://fusionauth.io/blog/2026-ai-identity-report",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://fusionauth.io/blog/2026-ai-identity-report Comments URL: https://news.ycombinator.com/item?id=48470554 Points: 2 # Comments: 0",
-    "published_at": "2026-06-10 02:22",
-    "tags": [],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "UN Scientists: AI Is Threatening Natural Resources for Billions",
-    "url": "https://unu.edu/inweh/news/environmental-cost-of-AIs-Enrgy-use-carbon-water-and-land-footprints",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://unu.edu/inweh/news/environmental-cost-of-AIs-Enrgy-use-carbon-water-and-land-footprints Comments URL: https://news.ycombinator.com/item?id=48470358 Points: 2 # Comments: 0",
-    "published_at": "2026-06-10 01:57",
-    "tags": [],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "早报"
   }
 ]

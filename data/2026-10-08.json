@@ -1,0 +1,220 @@
+{
+  "date": "2026-10-08",
+  "runs": [
+    {
+      "label": "晚报",
+      "time": "2026-10-08 02:32:57",
+      "count": 21,
+      "articles": [
+        {
+          "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+          "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+          "source": "TechCrunch AI",
+          "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+          "published_at": "2026-10-07 18:30",
+          "tags": [
+            "AI",
+            "Apps",
+            "Meta",
+            "muse"
+          ]
+        },
+        {
+          "title": "A model guide for the GPT‑6 family",
+          "url": "https://openai.com/index/practical-guide-building-gpt-6/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://openai.com/index/practical-guide-building-gpt-6/ Comments URL: https://news.ycombinator.com/item?id=49996847 Points: 1 # Comments: 0",
+          "published_at": "2026-10-07 18:26",
+          "tags": []
+        },
+        {
+          "title": "Helping teens learn, plan, and shape the future of AI",
+          "url": "https://openai.com/index/teens-learn-and-plan/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://openai.com/index/teens-learn-and-plan/ Comments URL: https://news.ycombinator.com/item?id=49996784 Points: 2 # Comments: 0",
+          "published_at": "2026-10-07 18:23",
+          "tags": []
+        },
+        {
+          "title": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
+          "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/ Comments URL: https://news.ycombinator.com/item?id=49996713 Points: 4 # Comments: 0",
+          "published_at": "2026-10-07 18:19",
+          "tags": []
+        },
+        {
+          "title": "When the machine boots but the reply disappears",
+          "url": "https://mainbrella.com/blog/inside-our-brella/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://mainbrella.com/blog/inside-our-brella/ Comments URL: https://news.ycombinator.com/item?id=49996574 Points: 4 # Comments: 0",
+          "published_at": "2026-10-07 18:10",
+          "tags": []
+        },
+        {
+          "title": "AI Model Groupthink",
+          "url": "https://magicnumbers.io/2026/10/06/ai-model-groupthink/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://magicnumbers.io/2026/10/06/ai-model-groupthink/ Comments URL: https://news.ycombinator.com/item?id=49996542 Points: 5 # Comments: 0",
+          "published_at": "2026-10-07 18:08",
+          "tags": []
+        },
+        {
+          "title": "Funding the AI revolution: evidence from euro area sectors",
+          "url": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20261006~35bf3c24cb.en.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20261006~35bf3c24cb.en.html Comments URL: https://news.ycombinator.com/item?id=49996461 Points: 3 # Comments: 0",
+          "published_at": "2026-10-07 18:03",
+          "tags": []
+        },
+        {
+          "title": "GPT‑6 and Intelligent UI for everyone",
+          "url": "https://openai.com/index/gpt-6-for-everyone/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://openai.com/index/gpt-6-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49996425 Points: 74 # Comments: 22",
+          "published_at": "2026-10-07 18:00",
+          "tags": []
+        },
+        {
+          "title": "FICO cuts workforce by 15% in AI-driven restructuring",
+          "url": "https://www.reuters.com/business/world-at-work/fico-cuts-workforce-by-15-ai-driven-restructuring-2026-10-06/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.reuters.com/business/world-at-work/fico-cuts-workforce-by-15-ai-driven-restructuring-2026-10-06/ Comments URL: https://news.ycombinator.com/item?id=49996228 Points: 5 # Comments: 0",
+          "published_at": "2026-10-07 17:45",
+          "tags": []
+        },
+        {
+          "title": "AI, Work, and the Next Downturn",
+          "url": "https://watch.wilsoniumite.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://watch.wilsoniumite.com/ Comments URL: https://news.ycombinator.com/item?id=49996090 Points: 7 # Comments: 0",
+          "published_at": "2026-10-07 17:36",
+          "tags": []
+        },
+        {
+          "title": "What will AI do to our jobs and our wages? [video]",
+          "url": "https://www.youtube.com/watch?v=kAkpzlR7io8",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=kAkpzlR7io8 Comments URL: https://news.ycombinator.com/item?id=49996078 Points: 3 # Comments: 0",
+          "published_at": "2026-10-07 17:34",
+          "tags": []
+        },
+        {
+          "title": "Hermes creator Nous Research raises $90M to bring open-source AI to enterprises",
+          "url": "https://www.wsj.com/pro/venture-capital/nous-research-scores-90-million-to-bring-open-source-ai-assistant-to-enterprises-516f9208",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wsj.com/pro/venture-capital/nous-research-scores-90-million-to-bring-open-source-ai-assistant-to-enterprises-516f9208 Comments URL: https://news.ycombinator.com/item?id=49995720 Points: 3 # Comments: 0",
+          "published_at": "2026-10-07 17:10",
+          "tags": []
+        },
+        {
+          "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+          "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/ Comments URL: https://news.ycombinator.com/item?id=49995495 Points: 16 # Comments: 3",
+          "published_at": "2026-10-07 16:56",
+          "tags": []
+        },
+        {
+          "title": "Coding and Agentic Capabilities Are Now More Important Than Ever for AI",
+          "url": "https://news.ycombinator.com/item?id=49995428",
+          "source": "Hacker News AI",
+          "summary": "I have written a deep dive into this topic in my website Nasengetu. You can go on Google, search for Nasengetu Tech, and read the latest article. If it doesn't appear, go to the News section of the website. Comments URL: https://news.ycombinator.com/item?id=49995428 Points: 2 # Comments: 3",
+          "published_at": "2026-10-07 16:52",
+          "tags": []
+        },
+        {
+          "title": "Man Sentenced to 18 Months in Prison for AI Music Streaming Fraud",
+          "url": "https://www.justice.gov/usao-sdny/pr/north-carolina-man-sentenced-18-months-prison-super-intelligence-assisted-music",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.justice.gov/usao-sdny/pr/north-carolina-man-sentenced-18-months-prison-super-intelligence-assisted-music Comments URL: https://news.ycombinator.com/item?id=49995378 Points: 3 # Comments: 0",
+          "published_at": "2026-10-07 16:49",
+          "tags": []
+        },
+        {
+          "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+          "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+          "source": "TechCrunch AI",
+          "summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
+          "published_at": "2026-10-07 15:07",
+          "tags": [
+            "AI",
+            "Biotech & Health",
+            "Fundraising",
+            "Startups",
+            "HealthLeap",
+            "HealthTech",
+            "medicine"
+          ]
+        },
+        {
+          "title": "Google experiments with an AI-powered gaming platform",
+          "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+          "source": "TechCrunch AI",
+          "summary": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
+          "published_at": "2026-10-07 14:36",
+          "tags": [
+            "AI",
+            "Gaming",
+            "Generative AI",
+            "Google",
+            "playground"
+          ]
+        },
+        {
+          "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
+          "url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
+          "source": "The Verge AI",
+          "summary": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now directly, and slated to ship in November for just about $6,000. It's pricier than the DGX Spark mini PC Nvidia launched last year, but PC prices have been climbing due to shortages of RAM and other components. The Dev Box's flat, 3D-printed anodized [&#8230;]",
+          "published_at": "2026-10-07 13:46",
+          "tags": [
+            "AI",
+            "Microsoft",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "ChatGPT is getting college planning tools",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+          "source": "The Verge AI",
+          "summary": "OpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced in August with safeguards and break reminders, to help users with the college application process. \"College Planner brings together application requirements, deadlines, tasks, and financial-aid steps for schools on a student's list in one plan,\" OpenAI says. \"Students applying to several [&#8230;]",
+          "published_at": "2026-10-07 12:00",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Muse launches on the iPad",
+          "url": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
+          "source": "The Verge AI",
+          "summary": "After launching nearly a month ago and spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS app introduces native support for the iPad. A Mac version of Meta's agentic AI tool (designed to compete with OpenClaw, ChatGPT's Dots, and Grok Bot) was released about a [&#8230;]",
+          "published_at": "2026-10-07 11:37",
+          "tags": [
+            "AI",
+            "Meta",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
+          "url": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+          "source": "The Verge AI",
+          "summary": "Google DeepMind, Meta, and AI drug discovery startup Isomorphic Labs are jointly investing $300 million into an initiative to create a \"virtual cell\" that researchers can use to combat disease, as reported earlier by Reuters. The project is led by Biohub, a nonprofit biomedical research organization founded by Mark Zuckerberg and his wife, Priscilla Chan. [&#8230;]",
+          "published_at": "2026-10-07 10:40",
+          "tags": [
+            "AI",
+            "Google",
+            "Health",
+            "Meta",
+            "Science",
+            "Tech"
+          ]
+        }
+      ]
+    }
+  ]
+}
