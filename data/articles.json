@@ -1,5 +1,109 @@
 [
   {
+    "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+    "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/ Comments URL: https://news.ycombinator.com/item?id=50001890 Points: 1 # Comments: 0",
+    "published_at": "2026-10-08 04:48",
+    "tags": [],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Changed the Team, Not the Process",
+    "url": "https://www.compile.la/ai-changed-the-team-not-the-process/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.compile.la/ai-changed-the-team-not-the-process/ Comments URL: https://news.ycombinator.com/item?id=50001749 Points: 1 # Comments: 0",
+    "published_at": "2026-10-08 04:10",
+    "tags": [],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Runtime – Your AI Agents Have a Home",
+    "url": "https://withruntime.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://withruntime.com/ Comments URL: https://news.ycombinator.com/item?id=50001168 Points: 2 # Comments: 1",
+    "published_at": "2026-10-08 02:04",
+    "tags": [],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Exodus AI – Affordable face swapping tool for creators",
+    "url": "https://tally.so/r/44gGAB",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://tally.so/r/44gGAB Comments URL: https://news.ycombinator.com/item?id=50001030 Points: 4 # Comments: 0",
+    "published_at": "2026-10-08 01:40",
+    "tags": [],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "What I learned leaving a Ruth AI in charge",
+    "url": "https://silavapi.co.uk/blog/what-i-learned-leaving-a-ruth-ai-in-charge/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://silavapi.co.uk/blog/what-i-learned-leaving-a-ruth-ai-in-charge/ Comments URL: https://news.ycombinator.com/item?id=50001024 Points: 1 # Comments: 0",
+    "published_at": "2026-10-08 01:40",
+    "tags": [],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Agent in a Bottle: Can LLM Agents Turn Their Capabilities into Cheap Artifacts?",
+    "url": "https://arxiv.org/abs/2610.08775",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2610.08775 Comments URL: https://news.ycombinator.com/item?id=50000881 Points: 1 # Comments: 0",
+    "published_at": "2026-10-08 01:18",
+    "tags": [],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI's human rights lead: What military AI could do 'keeps me up at night'",
+    "url": "https://fortune.com/2026/10/06/openai-human-rights-lead-sarah-yager-military-ai-use-concerns/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://fortune.com/2026/10/06/openai-human-rights-lead-sarah-yager-military-ai-use-concerns/ Comments URL: https://news.ycombinator.com/item?id=50000661 Points: 1 # Comments: 0",
+    "published_at": "2026-10-08 00:42",
+    "tags": [],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+    "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+    "source": "TechCrunch AI",
+    "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+    "published_at": "2026-10-07 20:48",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Fundraising",
+      "Startups",
+      "AI agents",
+      "Hermes Agent",
+      "In Brief"
+    ],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+    "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+    "source": "TechCrunch AI",
+    "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+    "published_at": "2026-10-07 20:22",
+    "tags": [
+      "AI",
+      "Hardware",
+      "TC",
+      "Microsoft",
+      "nvidia"
+    ],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
     "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
     "source": "TechCrunch AI",
@@ -155,6 +259,22 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+    "source": "The Verge AI",
+    "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more. In a blog post explaining the [&#8230;]",
+    "published_at": "2026-10-07 15:10",
+    "tags": [
+      "AI",
+      "Apps",
+      "News",
+      "OpenAI",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
     "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
     "source": "TechCrunch AI",
@@ -187,6 +307,21 @@
     ],
     "fetch_date": "2026-10-08",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+    "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+    "source": "TechCrunch AI",
+    "summary": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
+    "published_at": "2026-10-07 14:30",
+    "tags": [
+      "Startups",
+      "AI",
+      "TechCrunch Disrupt",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "早报"
   },
   {
     "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
@@ -248,6 +383,23 @@
     ],
     "fetch_date": "2026-10-08",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "AI could upend food delivery",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+    "source": "The Verge AI",
+    "summary": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: It has just around 300 restaurants signed up in the Bay Area, where it's operating as a pre-seed startup. But this summer, Bites [&#8230;]",
+    "published_at": "2026-10-07 08:00",
+    "tags": [
+      "AI",
+      "Business",
+      "Food",
+      "Online Shopping",
+      "Science",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "早报"
   },
   {
     "title": "Toketer – See what every AI prompt costs you, live in your editor",
@@ -442,6 +594,21 @@
     "fetch_label": "早报"
   },
   {
+    "title": "Hark releases an AI personal assistant with a focus on privacy",
+    "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+    "source": "TechCrunch AI",
+    "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+    "published_at": "2026-10-06 18:22",
+    "tags": [
+      "Startups",
+      "AI",
+      "hark",
+      "AI assistant"
+    ],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Parents are using AI to generate pictures of their kids to save money",
     "url": "https://www.dexerto.com/entertainment/parents-are-using-ai-to-generate-pictures-of-their-kids-to-save-money-on-school-photos-3416112/",
     "source": "Hacker News AI",
@@ -580,6 +747,21 @@
     "tags": [],
     "fetch_date": "2026-10-07",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+    "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+    "source": "TechCrunch AI",
+    "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+    "published_at": "2026-10-06 16:00",
+    "tags": [
+      "TC",
+      "AI",
+      "Anthropic",
+      "In Brief"
+    ],
+    "fetch_date": "2026-10-08",
+    "fetch_label": "早报"
   },
   {
     "title": "LibreOffice says ‘no AI’ is now a software feature",
@@ -34907,200 +35089,5 @@
     "tags": [],
     "fetch_date": "2026-06-12",
     "fetch_label": "早报"
-  },
-  {
-    "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
-    "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-    "source": "TechCrunch AI",
-    "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
-    "published_at": "2026-06-12 01:04",
-    "tags": [
-      "AI",
-      "Biotech & Health",
-      "Hardware",
-      "jeff bezos",
-      "physical ai",
-      "Prometheus"
-    ],
-    "fetch_date": "2026-06-12",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Don't let the LLM speak, just probe it",
-    "url": "https://blog.j11y.io/2026-06-10_hidden-state-probes/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://blog.j11y.io/2026-06-10_hidden-state-probes/ Comments URL: https://news.ycombinator.com/item?id=48498283 Points: 12 # Comments: 0",
-    "published_at": "2026-06-12 00:24",
-    "tags": [],
-    "fetch_date": "2026-06-12",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
-    "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
-    "source": "TechCrunch AI",
-    "summary": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.",
-    "published_at": "2026-06-11 14:23",
-    "tags": [
-      "AI",
-      "Apps",
-      "AI chatbot",
-      "DoorDash"
-    ],
-    "fetch_date": "2026-06-12",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Amazon&#8217;s data centers used 2.5 billion gallons of water last year",
-    "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
-    "source": "The Verge AI",
-    "summary": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With concerns about water consumption and energy use a focus of new AI data center construction debates, Amazon says its global data center operations [&#8230;]",
-    "published_at": "2026-06-11 13:26",
-    "tags": [
-      "AI",
-      "Amazon",
-      "News",
-      "Tech"
-    ],
-    "fetch_date": "2026-06-13",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
-    "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
-    "source": "TechCrunch AI",
-    "summary": "The decision comes as India emerges as the world’s largest GCC market.",
-    "published_at": "2026-06-11 04:02",
-    "tags": [
-      "AI",
-      "Startups",
-      "OpenDoor"
-    ],
-    "fetch_date": "2026-06-11",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Anthropic’s Dario Amodei has just one direct report",
-    "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
-    "source": "TechCrunch AI",
-    "summary": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now.",
-    "published_at": "2026-06-11 03:53",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "dario amodei",
-      "In Brief"
-    ],
-    "fetch_date": "2026-06-12",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
-    "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
-    "source": "TechCrunch AI",
-    "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
-    "published_at": "2026-06-10 22:31",
-    "tags": [
-      "AI",
-      "ai safety",
-      "devin kim",
-      "Grok",
-      "SpaceX",
-      "xAI"
-    ],
-    "fetch_date": "2026-06-11",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
-    "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
-    "source": "TechCrunch AI",
-    "summary": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
-    "published_at": "2026-06-10 20:19",
-    "tags": [
-      "AI",
-      "Amazon",
-      "citigroup",
-      "In Brief"
-    ],
-    "fetch_date": "2026-06-11",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
-    "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
-    "source": "TechCrunch AI",
-    "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
-    "published_at": "2026-06-10 17:07",
-    "tags": [
-      "AI",
-      "ai tokens",
-      "Ramp",
-      "ramp ai index"
-    ],
-    "fetch_date": "2026-06-11",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "How memory tools can make AI models worse",
-    "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
-    "source": "TechCrunch AI",
-    "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
-    "published_at": "2026-06-10 16:11",
-    "tags": [
-      "AI",
-      "ai models",
-      "writer"
-    ],
-    "fetch_date": "2026-06-11",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
-    "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-    "source": "TechCrunch AI",
-    "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
-    "published_at": "2026-06-10 15:41",
-    "tags": [
-      "AI",
-      "Security",
-      "ai safety",
-      "Anthropic",
-      "cybersecurity",
-      "fable",
-      "Mythos"
-    ],
-    "fetch_date": "2026-06-11",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Siri AI Is a Malware Vector",
-    "url": "https://loufranco.com/blog/siri-ai-is-a-malware-vector",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://loufranco.com/blog/siri-ai-is-a-malware-vector Comments URL: https://news.ycombinator.com/item?id=48478009 Points: 1 # Comments: 0",
-    "published_at": "2026-06-10 15:38",
-    "tags": [],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Inkfox – One workspace for AI image gen, editing, and photo-to-video",
-    "url": "https://inkfox.app",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://inkfox.app Comments URL: https://news.ycombinator.com/item?id=48477759 Points: 1 # Comments: 0",
-    "published_at": "2026-06-10 15:24",
-    "tags": [],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Writers Against AI",
-    "url": "https://www.writersagainstai.net/essay",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.writersagainstai.net/essay Comments URL: https://news.ycombinator.com/item?id=48477749 Points: 1 # Comments: 0",
-    "published_at": "2026-06-10 15:24",
-    "tags": [],
-    "fetch_date": "2026-06-10",
-    "fetch_label": "晚报"
   }
 ]

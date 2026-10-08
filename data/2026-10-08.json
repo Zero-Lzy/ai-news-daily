@@ -215,6 +215,227 @@
           ]
         }
       ]
+    },
+    {
+      "label": "早报",
+      "time": "2026-10-08 13:13:21",
+      "count": 19,
+      "articles": [
+        {
+          "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+          "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/ Comments URL: https://news.ycombinator.com/item?id=50001890 Points: 1 # Comments: 0",
+          "published_at": "2026-10-08 04:48",
+          "tags": []
+        },
+        {
+          "title": "AI Changed the Team, Not the Process",
+          "url": "https://www.compile.la/ai-changed-the-team-not-the-process/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.compile.la/ai-changed-the-team-not-the-process/ Comments URL: https://news.ycombinator.com/item?id=50001749 Points: 1 # Comments: 0",
+          "published_at": "2026-10-08 04:10",
+          "tags": []
+        },
+        {
+          "title": "The AI Pascal's Wager",
+          "url": "https://ploum.net/2026-10-01-pascal_wager.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://ploum.net/2026-10-01-pascal_wager.html Comments URL: https://news.ycombinator.com/item?id=50001332 Points: 3 # Comments: 0",
+          "published_at": "2026-10-08 02:37",
+          "tags": []
+        },
+        {
+          "title": "Runtime – Your AI Agents Have a Home",
+          "url": "https://withruntime.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://withruntime.com/ Comments URL: https://news.ycombinator.com/item?id=50001168 Points: 2 # Comments: 1",
+          "published_at": "2026-10-08 02:04",
+          "tags": []
+        },
+        {
+          "title": "Exodus AI – Affordable face swapping tool for creators",
+          "url": "https://tally.so/r/44gGAB",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://tally.so/r/44gGAB Comments URL: https://news.ycombinator.com/item?id=50001030 Points: 4 # Comments: 0",
+          "published_at": "2026-10-08 01:40",
+          "tags": []
+        },
+        {
+          "title": "What I learned leaving a Ruth AI in charge",
+          "url": "https://silavapi.co.uk/blog/what-i-learned-leaving-a-ruth-ai-in-charge/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://silavapi.co.uk/blog/what-i-learned-leaving-a-ruth-ai-in-charge/ Comments URL: https://news.ycombinator.com/item?id=50001024 Points: 1 # Comments: 0",
+          "published_at": "2026-10-08 01:40",
+          "tags": []
+        },
+        {
+          "title": "Agent in a Bottle: Can LLM Agents Turn Their Capabilities into Cheap Artifacts?",
+          "url": "https://arxiv.org/abs/2610.08775",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2610.08775 Comments URL: https://news.ycombinator.com/item?id=50000881 Points: 1 # Comments: 0",
+          "published_at": "2026-10-08 01:18",
+          "tags": []
+        },
+        {
+          "title": "OpenAI's human rights lead: What military AI could do 'keeps me up at night'",
+          "url": "https://fortune.com/2026/10/06/openai-human-rights-lead-sarah-yager-military-ai-use-concerns/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://fortune.com/2026/10/06/openai-human-rights-lead-sarah-yager-military-ai-use-concerns/ Comments URL: https://news.ycombinator.com/item?id=50000661 Points: 1 # Comments: 0",
+          "published_at": "2026-10-08 00:42",
+          "tags": []
+        },
+        {
+          "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+          "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+          "source": "TechCrunch AI",
+          "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+          "published_at": "2026-10-07 20:48",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "Fundraising",
+            "Startups",
+            "AI agents",
+            "Hermes Agent",
+            "In Brief"
+          ]
+        },
+        {
+          "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+          "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+          "source": "TechCrunch AI",
+          "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+          "published_at": "2026-10-07 20:22",
+          "tags": [
+            "AI",
+            "Hardware",
+            "TC",
+            "Microsoft",
+            "nvidia"
+          ]
+        },
+        {
+          "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+          "source": "The Verge AI",
+          "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more. In a blog post explaining the [&#8230;]",
+          "published_at": "2026-10-07 15:10",
+          "tags": [
+            "AI",
+            "Apps",
+            "News",
+            "OpenAI",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Google experiments with an AI-powered gaming platform",
+          "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+          "source": "TechCrunch AI",
+          "summary": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
+          "published_at": "2026-10-07 14:36",
+          "tags": [
+            "AI",
+            "Gaming",
+            "Generative AI",
+            "Google",
+            "playground"
+          ]
+        },
+        {
+          "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+          "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
+          "published_at": "2026-10-07 14:30",
+          "tags": [
+            "Startups",
+            "AI",
+            "TechCrunch Disrupt",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
+          "url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
+          "source": "The Verge AI",
+          "summary": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now and is slated to ship in November for just about $6,000. It's pricier than the DGX Spark mini PC Nvidia launched last year, but PC prices have been climbing due to shortages of RAM and other components. The Dev Box's flat, 3D-printed anodized [&#8230;]",
+          "published_at": "2026-10-07 13:46",
+          "tags": [
+            "AI",
+            "Microsoft",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "ChatGPT is getting college planning tools",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+          "source": "The Verge AI",
+          "summary": "OpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced in August with safeguards and break reminders, to help users with the college application process. \"College Planner brings together application requirements, deadlines, tasks, and financial-aid steps for schools on a student's list in one plan,\" OpenAI says. \"Students applying to several [&#8230;]",
+          "published_at": "2026-10-07 12:00",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Muse launches on the iPad",
+          "url": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
+          "source": "The Verge AI",
+          "summary": "After launching nearly a month ago and spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS app introduces native support for the iPad. A Mac version of Meta's agentic AI tool (designed to compete with OpenClaw, ChatGPT's Dots, and Grok Bot) was released about a [&#8230;]",
+          "published_at": "2026-10-07 11:37",
+          "tags": [
+            "AI",
+            "Meta",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "AI could upend food delivery",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+          "source": "The Verge AI",
+          "summary": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: It has just around 300 restaurants signed up in the Bay Area, where it's operating as a pre-seed startup. But this summer, Bites [&#8230;]",
+          "published_at": "2026-10-07 08:00",
+          "tags": [
+            "AI",
+            "Business",
+            "Food",
+            "Online Shopping",
+            "Science",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Hark releases an AI personal assistant with a focus on privacy",
+          "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+          "source": "TechCrunch AI",
+          "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+          "published_at": "2026-10-06 18:22",
+          "tags": [
+            "Startups",
+            "AI",
+            "hark",
+            "AI assistant"
+          ]
+        },
+        {
+          "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+          "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+          "source": "TechCrunch AI",
+          "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+          "published_at": "2026-10-06 16:00",
+          "tags": [
+            "TC",
+            "AI",
+            "Anthropic",
+            "In Brief"
+          ]
+        }
+      ]
     }
   ]
 }
