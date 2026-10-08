@@ -1,5 +1,175 @@
 [
   {
+    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+    "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+    "source": "TechCrunch AI",
+    "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+    "published_at": "2026-10-08 18:20",
+    "tags": [
+      "AI",
+      "Media & Entertainment",
+      "ben affleck",
+      "filmmaking",
+      "movies"
+    ],
+    "fetch_date": "2026-10-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+    "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+    "source": "TechCrunch AI",
+    "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+    "published_at": "2026-10-08 18:19",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "Startups",
+      "TC"
+    ],
+    "fetch_date": "2026-10-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+    "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+    "source": "TechCrunch AI",
+    "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+    "published_at": "2026-10-08 18:19",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-10-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Google brings agentic AI to Gemini, starting with businesses",
+    "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+    "source": "TechCrunch AI",
+    "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
+    "published_at": "2026-10-08 18:18",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "TC",
+      "gemini",
+      "Google"
+    ],
+    "fetch_date": "2026-10-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Anthropic changes usage policy to ban model abuse and election interference",
+    "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+    "source": "TechCrunch AI",
+    "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
+    "published_at": "2026-10-08 18:16",
+    "tags": [
+      "AI",
+      "TC",
+      "Anthropic",
+      "Claude"
+    ],
+    "fetch_date": "2026-10-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Natura’s $99 smart ring puts AI agents on your finger",
+    "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+    "source": "TechCrunch AI",
+    "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
+    "published_at": "2026-10-08 16:00",
+    "tags": [
+      "AI",
+      "Gadgets",
+      "Hardware",
+      "AI agents",
+      "smart rings"
+    ],
+    "fetch_date": "2026-10-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+    "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+    "source": "TechCrunch AI",
+    "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
+    "published_at": "2026-10-08 16:00",
+    "tags": [
+      "AI",
+      "AI agents"
+    ],
+    "fetch_date": "2026-10-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "summary": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
+    "published_at": "2026-10-08 15:00",
+    "tags": [
+      "Startups",
+      "AI",
+      "Bloom Energy",
+      "TechCrunch Disrupt",
+      "Ambrosia Energy"
+    ],
+    "fetch_date": "2026-10-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
+    "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+    "source": "TechCrunch AI",
+    "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
+    "published_at": "2026-10-08 14:00",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "Startups",
+      "TC",
+      "Exclusive",
+      "Zach Yadegari"
+    ],
+    "fetch_date": "2026-10-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+    "source": "The Verge AI",
+    "summary": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, and health and financial uses. But one of the most significant changes prohibits \"sustained and needless abusive or cruel behavior\" toward Claude. Last August, [&#8230;]",
+    "published_at": "2026-10-08 13:00",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Report"
+    ],
+    "fetch_date": "2026-10-09",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Artificial is a wicked satire that also sticks to the facts",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts",
+    "source": "The Verge AI",
+    "summary": "At the New York Film Festival premiere of Artificial, Luca Guadagnino's satirical Sam Altman biopic, the director said onstage that \"[when] someone wants to play God, that's very interesting to me.\" The idea of playing God, and power in general - who has it, who desperately wants it, and who will do anything to get [&#8230;]",
+    "published_at": "2026-10-08 10:00",
+    "tags": [
+      "AI",
+      "Elon Musk",
+      "Entertainment",
+      "Film",
+      "OpenAI",
+      "Report",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-09",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
     "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
     "source": "Hacker News AI",
@@ -189,6 +359,20 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+    "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+    "source": "TechCrunch AI",
+    "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+    "published_at": "2026-10-07 18:00",
+    "tags": [
+      "AI",
+      "ChatGPT",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-10-09",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "FICO cuts workforce by 15% in AI-driven restructuring",
     "url": "https://www.reuters.com/business/world-at-work/fico-cuts-workforce-by-15-ai-driven-restructuring-2026-10-06/",
     "source": "Hacker News AI",
@@ -236,6 +420,21 @@
     "published_at": "2026-10-07 16:56",
     "tags": [],
     "fetch_date": "2026-10-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+    "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+    "source": "TechCrunch AI",
+    "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
+    "published_at": "2026-10-07 16:53",
+    "tags": [
+      "AI",
+      "Apps",
+      "child safety",
+      "Meta"
+    ],
+    "fetch_date": "2026-10-09",
     "fetch_label": "晚报"
   },
   {
@@ -290,6 +489,20 @@
       "medicine"
     ],
     "fetch_date": "2026-10-08",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "It appears .agent and .agi are about to be the hot new domains",
+    "url": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi",
+    "source": "The Verge AI",
+    "summary": "For the first time in years, the Internet Corporation for Assigned Names and Numbers - better known as ICANN - is accepting applications for new top-level domains. These are the suffixes at the end of all URLs, and you may know them as things like .com, .org, and .pizza. ICANN just announced the 1,615 applications [&#8230;]",
+    "published_at": "2026-10-07 14:46",
+    "tags": [
+      "AI",
+      "Tech",
+      "Web"
+    ],
+    "fetch_date": "2026-10-09",
     "fetch_label": "晚报"
   },
   {
@@ -34924,170 +35137,5 @@
     ],
     "fetch_date": "2026-06-13",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "SpaceX’s massive IPO: all the latest news",
-    "url": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
-    "source": "The Verge AI",
-    "summary": "SpaceX&#8217;s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and is raising enough money to likely make Elon Musk the first trillionaire.&#160; He&#8217;ll have more wealth, on paper at least, than the economies of nations like Ireland, Sweden, or his home [&#8230;]",
-    "published_at": "2026-06-12 10:35",
-    "tags": [
-      "AI",
-      "Business",
-      "Elon Musk",
-      "Science",
-      "Space",
-      "SpaceX",
-      "Tech",
-      "Twitter - X",
-      "xAI"
-    ],
-    "fetch_date": "2026-06-12",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
-    "source": "The Verge AI",
-    "summary": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, aims to develop AI-powered engineering tools to aid in the design of physical products. The NYT first reported on Prometheus last November, but now [&#8230;]",
-    "published_at": "2026-06-12 10:03",
-    "tags": [
-      "AI",
-      "News",
-      "Tech"
-    ],
-    "fetch_date": "2026-06-12",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Ask HN: Is anyone running AI agents in production reliably – what's your stack?",
-    "url": "https://news.ycombinator.com/item?id=48499826",
-    "source": "Hacker News AI",
-    "summary": "Comments URL: https://news.ycombinator.com/item?id=48499826 Points: 2 # Comments: 0",
-    "published_at": "2026-06-12 04:10",
-    "tags": [],
-    "fetch_date": "2026-06-12",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The Normalization of Deviance in AI",
-    "url": "https://embracethered.com/blog/posts/2025/the-normalization-of-deviance-in-ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://embracethered.com/blog/posts/2025/the-normalization-of-deviance-in-ai/ Comments URL: https://news.ycombinator.com/item?id=48499790 Points: 1 # Comments: 0",
-    "published_at": "2026-06-12 04:04",
-    "tags": [],
-    "fetch_date": "2026-06-12",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Engineers aren't afraid of AI – they're afraid of becoming junior again",
-    "url": "https://www.andykelk.net/leadership/your-engineers-arent-afraid-of-ai-theyre-afraid-of-being-junior-again/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.andykelk.net/leadership/your-engineers-arent-afraid-of-ai-theyre-afraid-of-being-junior-again/ Comments URL: https://news.ycombinator.com/item?id=48499585 Points: 3 # Comments: 0",
-    "published_at": "2026-06-12 03:28",
-    "tags": [],
-    "fetch_date": "2026-06-12",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: MandoCode – local-first AI coding agent (.NET and Ollama)",
-    "url": "https://github.com/DevMando/MandoCode",
-    "source": "Hacker News AI",
-    "summary": "I built MandoCode, an open source CLI coding agent in .NET that runs against local Ollama models. No API keys, nothing leaves your machine (Ollama cloud models work too if you want them). It reads, edits, searches, plans, and browses the web across your codebase, and it supports MCP and Skills.Install with dotnet tool install -g MandoCode.I found semantic Kernel great to give me the ability to just go and build on .NET C#. Lots of more work to do! Comments URL: https://news.ycombinator.com/item?",
-    "published_at": "2026-06-12 03:22",
-    "tags": [],
-    "fetch_date": "2026-06-12",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Siri won’t be your AI girlfriend",
-    "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
-    "source": "The Verge AI",
-    "summary": "Our early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human spotted by MacRumors, Craig Federighi said Apple's new Siri won't act all sycophantic like chatbots made by OpenAI, Google, and others. \"As you may know, if you use many [&#8230;]",
-    "published_at": "2026-06-12 03:00",
-    "tags": [
-      "AI",
-      "Apple",
-      "News",
-      "Tech"
-    ],
-    "fetch_date": "2026-06-13",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Fylun.ai – All-in-one AI workspace (chat, notes, apps, automation, search)",
-    "url": "https://fylun.ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://fylun.ai Comments URL: https://news.ycombinator.com/item?id=48499360 Points: 2 # Comments: 0",
-    "published_at": "2026-06-12 02:59",
-    "tags": [],
-    "fetch_date": "2026-06-12",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "LLM podcast addressing AI genocide of humanity",
-    "url": "https://MachineDeposition.com",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://MachineDeposition.com Comments URL: https://news.ycombinator.com/item?id=48499288 Points: 1 # Comments: 1",
-    "published_at": "2026-06-12 02:50",
-    "tags": [],
-    "fetch_date": "2026-06-12",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Chaining LLM and web bugs to Admin",
-    "url": "https://blog.quarkslab.com/from-prompt-to-pwned-chaining-llm-and-web-bugs-to-admin.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://blog.quarkslab.com/from-prompt-to-pwned-chaining-llm-and-web-bugs-to-admin.html Comments URL: https://news.ycombinator.com/item?id=48498943 Points: 1 # Comments: 0",
-    "published_at": "2026-06-12 01:59",
-    "tags": [],
-    "fetch_date": "2026-06-12",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Built SwiPR – swipe-to-review GitHub PRs with AI context",
-    "url": "https://github.com/nochinxx/SwiPR",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/nochinxx/SwiPR Comments URL: https://news.ycombinator.com/item?id=48498866 Points: 1 # Comments: 0",
-    "published_at": "2026-06-12 01:49",
-    "tags": [],
-    "fetch_date": "2026-06-12",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
-    "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
-    "source": "TechCrunch AI",
-    "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
-    "published_at": "2026-06-12 01:48",
-    "tags": [
-      "AI",
-      "Robotics",
-      "Startups",
-      "Automation",
-      "theker"
-    ],
-    "fetch_date": "2026-06-12",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "79% on LongMemEval: How We Beat Full-Context GPT-4 with a Local SQLite Database",
-    "url": "https://medium.com/@vektormemory/79-on-longmemeval-how-we-beat-full-context-gpt-4-with-a-local-sqlite-database-4ca10ade91ae",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://medium.com/@vektormemory/79-on-longmemeval-how-we-beat-full-context-gpt-4-with-a-local-sqlite-database-4ca10ade91ae Comments URL: https://news.ycombinator.com/item?id=48498787 Points: 3 # Comments: 0",
-    "published_at": "2026-06-12 01:38",
-    "tags": [],
-    "fetch_date": "2026-06-12",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Cannot Desire",
-    "url": "https://www.troywolters.com/blog/ai-cannot-desire.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.troywolters.com/blog/ai-cannot-desire.html Comments URL: https://news.ycombinator.com/item?id=48498646 Points: 1 # Comments: 0",
-    "published_at": "2026-06-12 01:19",
-    "tags": [],
-    "fetch_date": "2026-06-12",
-    "fetch_label": "早报"
   }
 ]
