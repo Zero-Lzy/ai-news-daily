@@ -1,5 +1,145 @@
 [
   {
+    "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+    "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50034816 Points: 1 # Comments: 1",
+    "published_at": "2026-10-10 17:00",
+    "tags": [],
+    "fetch_date": "2026-10-11",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Evolocity is hiring AI researchers and engineers in Los Altos",
+    "url": "https://evolocity.ai/careers/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://evolocity.ai/careers/ Comments URL: https://news.ycombinator.com/item?id=50034746 Points: 2 # Comments: 0",
+    "published_at": "2026-10-10 16:54",
+    "tags": [],
+    "fetch_date": "2026-10-11",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip",
+    "url": "https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54 Comments URL: https://news.ycombinator.com/item?id=50034742 Points: 2 # Comments: 1",
+    "published_at": "2026-10-10 16:54",
+    "tags": [],
+    "fetch_date": "2026-10-11",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "How do Lightroom/DxO achieve such good AI denoising results?",
+    "url": "https://news.ycombinator.com/item?id=50034715",
+    "source": "Hacker News AI",
+    "summary": "I'm curious about the technical details behind the RAW denoising in Adobe Lightroom, DxO DeepPRIME, etc. What makes these propreitary solutions so much better than open-source models like RawNIND? Comments URL: https://news.ycombinator.com/item?id=50034715 Points: 3 # Comments: 1",
+    "published_at": "2026-10-10 16:51",
+    "tags": [],
+    "fetch_date": "2026-10-11",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: I asked 10k people to describe AI in 1 word",
+    "url": "https://crowdle.gg/ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://crowdle.gg/ai/ Comments URL: https://news.ycombinator.com/item?id=50034454 Points: 2 # Comments: 0",
+    "published_at": "2026-10-10 16:27",
+    "tags": [],
+    "fetch_date": "2026-10-11",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Is Throwing a Roadside Picnic",
+    "url": "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic Comments URL: https://news.ycombinator.com/item?id=50034363 Points: 12 # Comments: 7",
+    "published_at": "2026-10-10 16:19",
+    "tags": [],
+    "fetch_date": "2026-10-11",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Patient disputed $85,000 hospital bill, then an AI sweep added nearly $20k",
+    "url": "https://www.yahoo.com/news/us/articles/patient-disputed-85-000-hospital-032100813.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.yahoo.com/news/us/articles/patient-disputed-85-000-hospital-032100813.html Comments URL: https://news.ycombinator.com/item?id=50034272 Points: 3 # Comments: 0",
+    "published_at": "2026-10-10 16:07",
+    "tags": [],
+    "fetch_date": "2026-10-11",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI stance is not binary",
+    "url": "https://carette.xyz/posts/ai-stance-is-not-binary/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://carette.xyz/posts/ai-stance-is-not-binary/ Comments URL: https://news.ycombinator.com/item?id=50034187 Points: 1 # Comments: 0",
+    "published_at": "2026-10-10 15:58",
+    "tags": [],
+    "fetch_date": "2026-10-11",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Can AI Break Cryptography?",
+    "url": "https://a16zcrypto.substack.com/p/can-ai-really-break-cryptography",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://a16zcrypto.substack.com/p/can-ai-really-break-cryptography Comments URL: https://news.ycombinator.com/item?id=50034170 Points: 1 # Comments: 0",
+    "published_at": "2026-10-10 15:56",
+    "tags": [],
+    "fetch_date": "2026-10-11",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Gauze Corrects LLM Responses",
+    "url": "https://github.com/ggeorgovassilis/llm-gauze",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/ggeorgovassilis/llm-gauze Comments URL: https://news.ycombinator.com/item?id=50033976 Points: 1 # Comments: 1",
+    "published_at": "2026-10-10 15:37",
+    "tags": [],
+    "fetch_date": "2026-10-11",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "I tested whether AI agents obey text you never see. 4 of 8 did, every time",
+    "url": "https://smallprint.dev/blog/one-sentence-four-of-eight-agents",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://smallprint.dev/blog/one-sentence-four-of-eight-agents Comments URL: https://news.ycombinator.com/item?id=50033633 Points: 1 # Comments: 0",
+    "published_at": "2026-10-10 15:00",
+    "tags": [],
+    "fetch_date": "2026-10-11",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+    "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+    "source": "TechCrunch AI",
+    "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+    "published_at": "2026-10-10 15:00",
+    "tags": [
+      "Startups",
+      "Climate",
+      "Fintech",
+      "Venture",
+      "AI",
+      "Robotics",
+      "Fundraising",
+      "TechCrunch Disrupt",
+      "Startup Battlefield 200"
+    ],
+    "fetch_date": "2026-10-11",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Is Supercharging a Scam Economy Bigger Than the Cocaine Trade",
+    "url": "https://www.bloomberg.com/graphics/2026-ai-supercharges-scam-economy/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bloomberg.com/graphics/2026-ai-supercharges-scam-economy/ Comments URL: https://news.ycombinator.com/item?id=50033499 Points: 2 # Comments: 1",
+    "published_at": "2026-10-10 14:44",
+    "tags": [],
+    "fetch_date": "2026-10-11",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Oracle, Broadcom and SpaceX Seek Blockbuster Debt Deals to Pay for AI Chips",
     "url": "https://www.wsj.com/tech/oracle-broadcom-and-spacex-seek-blockbuster-debt-deals-to-pay-for-ai-chips-848e8032",
     "source": "Hacker News AI",
@@ -268,6 +408,38 @@
     ],
     "fetch_date": "2026-10-10",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Trump’s attempt to rename AI is looking awfully artificial",
+    "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+    "source": "The Verge AI",
+    "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks, he's clearly decided [&#8230;]",
+    "published_at": "2026-10-09 10:25",
+    "tags": [
+      "AI",
+      "Analysis",
+      "Policy",
+      "Politics",
+      "Report"
+    ],
+    "fetch_date": "2026-10-11",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+    "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+    "source": "The Verge AI",
+    "summary": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest thing in AI, garnering praise for its straightforward, text message-based interface and its ability to [&#8230;]",
+    "published_at": "2026-10-09 10:00",
+    "tags": [
+      "AI",
+      "Hands-on",
+      "Mobile",
+      "Reviews",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-11",
+    "fetch_label": "晚报"
   },
   {
     "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
@@ -34992,155 +35164,5 @@
     "tags": [],
     "fetch_date": "2026-06-14",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Velyr – an AI agent that finds and fixes conversion leaks on your site",
-    "url": "https://velyr.io/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://velyr.io/ Comments URL: https://news.ycombinator.com/item?id=48525761 Points: 4 # Comments: 0",
-    "published_at": "2026-06-14 10:00",
-    "tags": [],
-    "fetch_date": "2026-06-14",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "ExpensePal - AI expense tracker & budget planner",
-    "url": "https://play.google.com/store/apps/details?id=com.expenseiq.app&hl=en_US",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://play.google.com/store/apps/details?id=com.expenseiq.app&amp;hl=en_US Comments URL: https://news.ycombinator.com/item?id=48525481 Points: 1 # Comments: 1",
-    "published_at": "2026-06-14 09:03",
-    "tags": [],
-    "fetch_date": "2026-06-14",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Track tokens usage and AI Subscriptions across major AI platforms",
-    "url": "https://www.tokens4breakfast.app",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.tokens4breakfast.app Comments URL: https://news.ycombinator.com/item?id=48524094 Points: 1 # Comments: 1",
-    "published_at": "2026-06-14 04:09",
-    "tags": [],
-    "fetch_date": "2026-06-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "UK announces $1.5B AI infrastructure plan",
-    "url": "https://www.reuters.com/world/uk/uk-sets-out-15-billion-ai-hardware-plan-with-supercomputer-chip-funding-2026-06-08/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.reuters.com/world/uk/uk-sets-out-15-billion-ai-hardware-plan-with-supercomputer-chip-funding-2026-06-08/ Comments URL: https://news.ycombinator.com/item?id=48523891 Points: 3 # Comments: 2",
-    "published_at": "2026-06-14 03:24",
-    "tags": [],
-    "fetch_date": "2026-06-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "ClawMoat, runtime containment for AI agents after Fable 5",
-    "url": "https://clawmoat.com/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://clawmoat.com/ Comments URL: https://news.ycombinator.com/item?id=48523469 Points: 1 # Comments: 0",
-    "published_at": "2026-06-14 02:03",
-    "tags": [],
-    "fetch_date": "2026-06-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Ask HN: Which cheap Chinese LLM are you using?",
-    "url": "https://news.ycombinator.com/item?id=48523455",
-    "source": "Hacker News AI",
-    "summary": "In the last one or two months, starting from DeepSeek V4 Pro, there are quite many low-price Chinese models coming out. Their performance looks more or less similar to me: Mimo V2.5 Pro, MiniMax M3, and the just released GLM 5.2, etc.Which model are you using now? Why? What are the good and bad parts? Comments URL: https://news.ycombinator.com/item?id=48523455 Points: 7 # Comments: 1",
-    "published_at": "2026-06-14 02:00",
-    "tags": [],
-    "fetch_date": "2026-06-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Lime 2.0 – Zero Human Auth for AI Agents",
-    "url": "https://lime.pics",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://lime.pics Comments URL: https://news.ycombinator.com/item?id=48523394 Points: 2 # Comments: 1",
-    "published_at": "2026-06-14 01:47",
-    "tags": [],
-    "fetch_date": "2026-06-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
-    "url": "https://www.bbc.com/news/articles/cwy24v72n19o",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.bbc.com/news/articles/cwy24v72n19o Comments URL: https://news.ycombinator.com/item?id=48523247 Points: 3 # Comments: 0",
-    "published_at": "2026-06-14 01:19",
-    "tags": [],
-    "fetch_date": "2026-06-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The AI supply chain is a software supply chain with new failure modes",
-    "url": "https://blog.r-lopes.com/newsletter/2026-06-03",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://blog.r-lopes.com/newsletter/2026-06-03 Comments URL: https://news.ycombinator.com/item?id=48523176 Points: 3 # Comments: 0",
-    "published_at": "2026-06-14 01:06",
-    "tags": [],
-    "fetch_date": "2026-06-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Policy on the AI Exponential",
-    "url": "https://www.anthropic.com/policy-on-the-ai-exponential/epf",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.anthropic.com/policy-on-the-ai-exponential/epf Comments URL: https://news.ycombinator.com/item?id=48523122 Points: 5 # Comments: 0",
-    "published_at": "2026-06-14 00:58",
-    "tags": [],
-    "fetch_date": "2026-06-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "We're combatting AI scams with security, legislation and more",
-    "url": "https://blog.google/innovation-and-ai/technology/safety-security/combatting-ai-scams/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://blog.google/innovation-and-ai/technology/safety-security/combatting-ai-scams/ Comments URL: https://news.ycombinator.com/item?id=48523053 Points: 4 # Comments: 1",
-    "published_at": "2026-06-14 00:44",
-    "tags": [],
-    "fetch_date": "2026-06-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Google fires sueball at alleged Chinese phishers over AI-powered fraud ops",
-    "url": "https://www.theregister.com/security/2026/06/12/google-fires-sueball-at-alleged-chinese-phishers-over-ai-powered-fraud-ops/5254841",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.theregister.com/security/2026/06/12/google-fires-sueball-at-alleged-chinese-phishers-over-ai-powered-fraud-ops/5254841 Comments URL: https://news.ycombinator.com/item?id=48523034 Points: 3 # Comments: 0",
-    "published_at": "2026-06-14 00:41",
-    "tags": [],
-    "fetch_date": "2026-06-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "QodFlow – a Kanban board AI agents can drive via MCP",
-    "url": "https://www.qodflow.com",
-    "source": "Hacker News AI",
-    "summary": "Hi HN. We built QodFlow because we wanted a kanban board our AI agents could work directly — not a chatbot bolted onto the sidebar.It exposes an MCP server. An agent connects with a scoped, revocable token and can: claim_job, report_progress, attach_evidence, request_human_decision, resolve_decision. Every call writes to the same job timeline humans see, tagged human vs agent, so there's one audit trail of who (or what) did what. When an agent hits something irreversible it opens a request_human",
-    "published_at": "2026-06-14 00:14",
-    "tags": [],
-    "fetch_date": "2026-06-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Anthropic's Zero Trust for AI Agents Sets the Right Test. The Bearer Token Fails",
-    "url": "https://blog.hello.coop/2026/06/anthropics-zero-trust-for-ai-agents-sets-the-right-test-the-bearer-token-fails-it/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://blog.hello.coop/2026/06/anthropics-zero-trust-for-ai-agents-sets-the-right-test-the-bearer-token-fails-it/ Comments URL: https://news.ycombinator.com/item?id=48522754 Points: 4 # Comments: 0",
-    "published_at": "2026-06-14 00:03",
-    "tags": [],
-    "fetch_date": "2026-06-14",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Llama.cpp – Run LLM Inference in C/C++",
-    "url": "https://llama-cpp.com/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://llama-cpp.com/ Comments URL: https://news.ycombinator.com/item?id=48522662 Points: 2 # Comments: 0",
-    "published_at": "2026-06-13 23:50",
-    "tags": [],
-    "fetch_date": "2026-06-14",
-    "fetch_label": "早报"
   }
 ]

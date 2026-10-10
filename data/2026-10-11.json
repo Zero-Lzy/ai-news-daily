@@ -1,0 +1,180 @@
+{
+  "date": "2026-10-11",
+  "runs": [
+    {
+      "label": "晚报",
+      "time": "2026-10-11 01:02:53",
+      "count": 17,
+      "articles": [
+        {
+          "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+          "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50034816 Points: 1 # Comments: 1",
+          "published_at": "2026-10-10 17:00",
+          "tags": []
+        },
+        {
+          "title": "Evolocity is hiring AI researchers and engineers in Los Altos",
+          "url": "https://evolocity.ai/careers/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://evolocity.ai/careers/ Comments URL: https://news.ycombinator.com/item?id=50034746 Points: 2 # Comments: 0",
+          "published_at": "2026-10-10 16:54",
+          "tags": []
+        },
+        {
+          "title": "Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip",
+          "url": "https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54 Comments URL: https://news.ycombinator.com/item?id=50034742 Points: 2 # Comments: 1",
+          "published_at": "2026-10-10 16:54",
+          "tags": []
+        },
+        {
+          "title": "How do Lightroom/DxO achieve such good AI denoising results?",
+          "url": "https://news.ycombinator.com/item?id=50034715",
+          "source": "Hacker News AI",
+          "summary": "I'm curious about the technical details behind the RAW denoising in Adobe Lightroom, DxO DeepPRIME, etc. What makes these propreitary solutions so much better than open-source models like RawNIND? Comments URL: https://news.ycombinator.com/item?id=50034715 Points: 3 # Comments: 1",
+          "published_at": "2026-10-10 16:51",
+          "tags": []
+        },
+        {
+          "title": "Show HN: I asked 10k people to describe AI in 1 word",
+          "url": "https://crowdle.gg/ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://crowdle.gg/ai/ Comments URL: https://news.ycombinator.com/item?id=50034454 Points: 2 # Comments: 0",
+          "published_at": "2026-10-10 16:27",
+          "tags": []
+        },
+        {
+          "title": "AI Is Throwing a Roadside Picnic",
+          "url": "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic Comments URL: https://news.ycombinator.com/item?id=50034363 Points: 12 # Comments: 7",
+          "published_at": "2026-10-10 16:19",
+          "tags": []
+        },
+        {
+          "title": "Patient disputed $85,000 hospital bill, then an AI sweep added nearly $20k",
+          "url": "https://www.yahoo.com/news/us/articles/patient-disputed-85-000-hospital-032100813.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.yahoo.com/news/us/articles/patient-disputed-85-000-hospital-032100813.html Comments URL: https://news.ycombinator.com/item?id=50034272 Points: 3 # Comments: 0",
+          "published_at": "2026-10-10 16:07",
+          "tags": []
+        },
+        {
+          "title": "AI stance is not binary",
+          "url": "https://carette.xyz/posts/ai-stance-is-not-binary/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://carette.xyz/posts/ai-stance-is-not-binary/ Comments URL: https://news.ycombinator.com/item?id=50034187 Points: 1 # Comments: 0",
+          "published_at": "2026-10-10 15:58",
+          "tags": []
+        },
+        {
+          "title": "Can AI Break Cryptography?",
+          "url": "https://a16zcrypto.substack.com/p/can-ai-really-break-cryptography",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://a16zcrypto.substack.com/p/can-ai-really-break-cryptography Comments URL: https://news.ycombinator.com/item?id=50034170 Points: 1 # Comments: 0",
+          "published_at": "2026-10-10 15:56",
+          "tags": []
+        },
+        {
+          "title": "Gauze Corrects LLM Responses",
+          "url": "https://github.com/ggeorgovassilis/llm-gauze",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/ggeorgovassilis/llm-gauze Comments URL: https://news.ycombinator.com/item?id=50033976 Points: 1 # Comments: 1",
+          "published_at": "2026-10-10 15:37",
+          "tags": []
+        },
+        {
+          "title": "I tested whether AI agents obey text you never see. 4 of 8 did, every time",
+          "url": "https://smallprint.dev/blog/one-sentence-four-of-eight-agents",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://smallprint.dev/blog/one-sentence-four-of-eight-agents Comments URL: https://news.ycombinator.com/item?id=50033633 Points: 1 # Comments: 0",
+          "published_at": "2026-10-10 15:00",
+          "tags": []
+        },
+        {
+          "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+          "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+          "source": "TechCrunch AI",
+          "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+          "published_at": "2026-10-10 15:00",
+          "tags": [
+            "Startups",
+            "Climate",
+            "Fintech",
+            "Venture",
+            "AI",
+            "Robotics",
+            "Fundraising",
+            "TechCrunch Disrupt",
+            "Startup Battlefield 200"
+          ]
+        },
+        {
+          "title": "AI Is Supercharging a Scam Economy Bigger Than the Cocaine Trade",
+          "url": "https://www.bloomberg.com/graphics/2026-ai-supercharges-scam-economy/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bloomberg.com/graphics/2026-ai-supercharges-scam-economy/ Comments URL: https://news.ycombinator.com/item?id=50033499 Points: 2 # Comments: 1",
+          "published_at": "2026-10-10 14:44",
+          "tags": []
+        },
+        {
+          "title": "a16z’s Olivia Moore on the state of consumer AI",
+          "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
+          "published_at": "2026-10-09 15:43",
+          "tags": [
+            "AI",
+            "TC",
+            "Andreessen Horowitz",
+            "consumer AI",
+            "Exclusive"
+          ]
+        },
+        {
+          "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+          "source": "The Verge AI",
+          "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this week. Amid the awe, excitement, and uncertainty over the sheer scale of the [&#8230;]",
+          "published_at": "2026-10-09 15:09",
+          "tags": [
+            "AI",
+            "OpenAI",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Trump’s attempt to rename AI is looking awfully artificial",
+          "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+          "source": "The Verge AI",
+          "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks, he's clearly decided [&#8230;]",
+          "published_at": "2026-10-09 10:25",
+          "tags": [
+            "AI",
+            "Analysis",
+            "Policy",
+            "Politics",
+            "Report"
+          ]
+        },
+        {
+          "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+          "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+          "source": "The Verge AI",
+          "summary": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest thing in AI, garnering praise for its straightforward, text message-based interface and its ability to [&#8230;]",
+          "published_at": "2026-10-09 10:00",
+          "tags": [
+            "AI",
+            "Hands-on",
+            "Mobile",
+            "Reviews",
+            "Tech"
+          ]
+        }
+      ]
+    }
+  ]
+}
