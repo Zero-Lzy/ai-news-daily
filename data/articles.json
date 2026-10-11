@@ -1,5 +1,50 @@
 [
   {
+    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "source": "TechCrunch AI",
+    "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+    "published_at": "2026-10-10 21:47",
+    "tags": [
+      "AI",
+      "Microsoft",
+      "Satya Nadella"
+    ],
+    "fetch_date": "2026-10-11",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+    "source": "TechCrunch AI",
+    "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+    "published_at": "2026-10-10 19:50",
+    "tags": [
+      "AI",
+      "Media & Entertainment",
+      "Startups",
+      "Apple",
+      "Huxe"
+    ],
+    "fetch_date": "2026-10-11",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+    "source": "The Verge AI",
+    "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or [&#8230;]",
+    "published_at": "2026-10-10 18:10",
+    "tags": [
+      "AI",
+      "Microsoft",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-11",
+    "fetch_label": "早报"
+  },
+  {
     "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
     "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
     "source": "Hacker News AI",
@@ -130,6 +175,24 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+    "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+    "source": "The Verge AI",
+    "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an \"AI-slop pipeline.\" Artists are saying that [&#8230;]",
+    "published_at": "2026-10-10 14:52",
+    "tags": [
+      "AI",
+      "Copyright",
+      "Entertainment",
+      "Law",
+      "Music",
+      "News",
+      "Policy"
+    ],
+    "fetch_date": "2026-10-11",
+    "fetch_label": "早报"
+  },
+  {
     "title": "AI Is Supercharging a Scam Economy Bigger Than the Cocaine Trade",
     "url": "https://www.bloomberg.com/graphics/2026-ai-supercharges-scam-economy/",
     "source": "Hacker News AI",
@@ -138,6 +201,38 @@
     "tags": [],
     "fetch_date": "2026-10-11",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Here are the top AI agents that can live in your text messages",
+    "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "source": "TechCrunch AI",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "published_at": "2026-10-10 14:00",
+    "tags": [
+      "AI",
+      "instinct",
+      "AI agents"
+    ],
+    "fetch_date": "2026-10-11",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI agent makers are promising privacy — will they deliver?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+    "source": "The Verge AI",
+    "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. [&#8230;]",
+    "published_at": "2026-10-10 09:00",
+    "tags": [
+      "AI",
+      "Analysis",
+      "Meta",
+      "OpenAI",
+      "Privacy",
+      "Report",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-11",
+    "fetch_label": "早报"
   },
   {
     "title": "Oracle, Broadcom and SpaceX Seek Blockbuster Debt Deals to Pay for AI Chips",
@@ -230,6 +325,23 @@
     "fetch_label": "早报"
   },
   {
+    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+    "source": "TechCrunch AI",
+    "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+    "published_at": "2026-10-09 21:41",
+    "tags": [
+      "AI",
+      "Startups",
+      "AI model",
+      "Andreessen Horowitz",
+      "In Brief",
+      "typesafe"
+    ],
+    "fetch_date": "2026-10-11",
+    "fetch_label": "早报"
+  },
+  {
     "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
     "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
     "source": "TechCrunch AI",
@@ -301,6 +413,21 @@
     "tags": [],
     "fetch_date": "2026-10-10",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+    "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+    "source": "TechCrunch AI",
+    "summary": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access [&#8230;]",
+    "published_at": "2026-10-09 16:56",
+    "tags": [
+      "AI",
+      "AI data center",
+      "Amazon",
+      "data center"
+    ],
+    "fetch_date": "2026-10-11",
+    "fetch_label": "早报"
   },
   {
     "title": "Amazon drops data center NDAs, and AI agents want your credit card",
@@ -407,6 +534,22 @@
       "Tech"
     ],
     "fetch_date": "2026-10-10",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+    "source": "The Verge AI",
+    "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cilia moving in the airway of a child with the [&#8230;]",
+    "published_at": "2026-10-09 14:06",
+    "tags": [
+      "AI",
+      "Cameras",
+      "Gadgets",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-11",
     "fetch_label": "早报"
   },
   {
@@ -35074,95 +35217,5 @@
     "tags": [],
     "fetch_date": "2026-06-15",
     "fetch_label": "早报"
-  },
-  {
-    "title": "The More Confident in AI Security, the More Likely Breached, Study Finds",
-    "url": "https://www.itsecurityguru.org/2026/06/11/the-more-confident-organizations-are-in-their-ai-security-the-more-likely-theyve-been-breached-new-research-finds/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.itsecurityguru.org/2026/06/11/the-more-confident-organizations-are-in-their-ai-security-the-more-likely-theyve-been-breached-new-research-finds/ Comments URL: https://news.ycombinator.com/item?id=48535248 Points: 4 # Comments: 0",
-    "published_at": "2026-06-15 01:12",
-    "tags": [],
-    "fetch_date": "2026-06-15",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-    "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/ Comments URL: https://news.ycombinator.com/item?id=48527297 Points: 1 # Comments: 0",
-    "published_at": "2026-06-14 14:01",
-    "tags": [],
-    "fetch_date": "2026-06-14",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "As Anthropic suspends access to new models, India debates its AI future",
-    "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/ Comments URL: https://news.ycombinator.com/item?id=48527108 Points: 2 # Comments: 0",
-    "published_at": "2026-06-14 13:38",
-    "tags": [],
-    "fetch_date": "2026-06-14",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Zuckerberg says Meta made 'mistakes' in AI workforce shift",
-    "url": "https://finance.yahoo.com/sectors/technology/articles/zuckerberg-says-meta-made-mistakes-in-ai-workforce-shift-212324481.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://finance.yahoo.com/sectors/technology/articles/zuckerberg-says-meta-made-mistakes-in-ai-workforce-shift-212324481.html Comments URL: https://news.ycombinator.com/item?id=48527095 Points: 3 # Comments: 1",
-    "published_at": "2026-06-14 13:37",
-    "tags": [],
-    "fetch_date": "2026-06-14",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Claude Fable 5 vs. GPT-5.5: better planning, similar execution",
-    "url": "https://blog.kilo.ai/p/claude-fable-5-vs-gpt-5-5",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://blog.kilo.ai/p/claude-fable-5-vs-gpt-5-5 Comments URL: https://news.ycombinator.com/item?id=48526819 Points: 3 # Comments: 0",
-    "published_at": "2026-06-14 13:00",
-    "tags": [],
-    "fetch_date": "2026-06-14",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Qwen 3.6 93B with MTP on 2×RTX 3090 NVLink=187 tokens/SEC,LLM lost bleat-a-thon",
-    "url": "https://github.com/Augmented-Reality-Virtual-Reality-AR-VR/P...",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/Augmented-Reality-Virtual-Reality-AR-VR/P... Comments URL: https://news.ycombinator.com/item?id=48526796 Points: 3 # Comments: 0",
-    "published_at": "2026-06-14 12:58",
-    "tags": [],
-    "fetch_date": "2026-06-14",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The origins of the AI age /s",
-    "url": "https://indiekartik.substack.com/p/the-origins-of-the-ai-age",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://indiekartik.substack.com/p/the-origins-of-the-ai-age Comments URL: https://news.ycombinator.com/item?id=48526724 Points: 1 # Comments: 0",
-    "published_at": "2026-06-14 12:47",
-    "tags": [],
-    "fetch_date": "2026-06-14",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Stop Monitoring AI Systems Like Web Services",
-    "url": "https://www.newsletter.swirlai.com/p/stop-monitoring-ai-systems-like-web",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.newsletter.swirlai.com/p/stop-monitoring-ai-systems-like-web Comments URL: https://news.ycombinator.com/item?id=48526569 Points: 4 # Comments: 0",
-    "published_at": "2026-06-14 12:27",
-    "tags": [],
-    "fetch_date": "2026-06-14",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Relent less AI self-evolution",
-    "url": "https://github.com/001TMF/harness-forge",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/001TMF/harness-forge Comments URL: https://news.ycombinator.com/item?id=48526233 Points: 1 # Comments: 0",
-    "published_at": "2026-06-14 11:29",
-    "tags": [],
-    "fetch_date": "2026-06-14",
-    "fetch_label": "晚报"
   }
 ]
