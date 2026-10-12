@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-13",
+  "runs": [
+    {
+      "label": "晚报",
+      "time": "2026-10-13 04:59:32",
+      "count": 8,
+      "articles": [
+        {
+          "title": "Meta releases its first frontier model, Muse Wonder",
+          "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+          "source": "TechCrunch AI",
+          "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+          "published_at": "2026-10-12 17:56",
+          "tags": [
+            "AI",
+            "ai models",
+            "frontier models",
+            "meta superintelligence lab",
+            "muse"
+          ]
+        },
+        {
+          "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+          "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+          "source": "TechCrunch AI",
+          "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+          "published_at": "2026-10-12 17:19",
+          "tags": [
+            "AI",
+            "Startups",
+            "Exclusive",
+            "Windborne Systems"
+          ]
+        },
+        {
+          "title": "Microsoft president says UK is best placed to drive AI regulation",
+          "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+          "source": "TechCrunch AI",
+          "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+          "published_at": "2026-10-12 15:31",
+          "tags": [
+            "AI",
+            "Government & Policy",
+            "AI regulation",
+            "Brad Smith",
+            "Microsoft"
+          ]
+        },
+        {
+          "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+          "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+          "source": "TechCrunch AI",
+          "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+          "published_at": "2026-10-12 15:27",
+          "tags": [
+            "AI",
+            "blueprints",
+            "Startup Battlefield 200",
+            "TechCrunch Disrupt"
+          ]
+        },
+        {
+          "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+          "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+          "source": "TechCrunch AI",
+          "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather all possible context.",
+          "published_at": "2026-10-12 12:47",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Gadgets",
+            "Hardware",
+            "AI agents",
+            "plaud"
+          ]
+        },
+        {
+          "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+          "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+          "source": "TechCrunch AI",
+          "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+          "published_at": "2026-10-11 16:52",
+          "tags": [
+            "AI",
+            "Government & Policy",
+            "Amazon",
+            "data centers",
+            "Equity podcast"
+          ]
+        },
+        {
+          "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+          "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+          "source": "TechCrunch AI",
+          "summary": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break.",
+          "published_at": "2026-10-11 14:00",
+          "tags": [
+            "AI",
+            "otter",
+            "voice AI"
+          ]
+        },
+        {
+          "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+          "source": "The Verge AI",
+          "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful [&#8230;]",
+          "published_at": "2026-10-11 07:00",
+          "tags": [
+            "AI",
+            "Apple",
+            "macOS",
+            "Microsoft",
+            "Report",
+            "Tech",
+            "Windows"
+          ]
+        }
+      ]
+    }
+  ]
+}
