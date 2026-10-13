@@ -1,5 +1,223 @@
 [
   {
+    "title": "Sakana AI – Building Frontier AI in Japan",
+    "url": "https://sakana.ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://sakana.ai/ Comments URL: https://news.ycombinator.com/item?id=50076712 Points: 1 # Comments: 0",
+    "published_at": "2026-10-13 18:51",
+    "tags": [],
+    "fetch_date": "2026-10-14",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI distrust is GitHub's opportunity",
+    "url": "https://www.infoworld.com/article/4233357/ai-distrust-is-githubs-opportunity.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.infoworld.com/article/4233357/ai-distrust-is-githubs-opportunity.html Comments URL: https://news.ycombinator.com/item?id=50076691 Points: 1 # Comments: 0",
+    "published_at": "2026-10-13 18:50",
+    "tags": [],
+    "fetch_date": "2026-10-14",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI 3D Prints: Are Claude's Defaults Enough?",
+    "url": "https://www.youtube.com/watch?v=qcWOvPLFXgg",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=qcWOvPLFXgg Comments URL: https://news.ycombinator.com/item?id=50076605 Points: 2 # Comments: 0",
+    "published_at": "2026-10-13 18:44",
+    "tags": [],
+    "fetch_date": "2026-10-14",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Commit-Aware Router, route LLM traffic around your AI/cloud commitments",
+    "url": "https://github.com/tejaspruthi/CommitAwareRouter",
+    "source": "Hacker News AI",
+    "summary": "LLM routers can optimize for different factors like price, latency, quality, etc. Enterprises tend to have prepaid AI credits, minimum-spend agreements, cloud commitments, or commercial ceilings across OpenAI, Anthropic, AWS, Azure, and other providers. We’ll call these “AI commits”.This project is designed to consider the state of an enterprises’ current AI commits and use it to inform LLM routing decisions alongside other common variables (price, performance, etc.). This is an early PoC built ",
+    "published_at": "2026-10-13 18:34",
+    "tags": [],
+    "fetch_date": "2026-10-14",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Hatoba, an open-source SSH client with an AI assistant and E2EE sync",
+    "url": "https://github.com/scarletkc/Hatoba",
+    "source": "Hacker News AI",
+    "summary": "I've used SSH tools for years and didn't really plan on building yet another SSH client, but I ended up building one the way I wanted. Hatoba is a desktop SSH client for Windows, Linux and macOS. It's written in Rust with Tauri 2 and MIT licensed.Each terminal has an AI assistant panel next to it. You describe the problem, and it reads the terminal screen, runs commands, types into the shell, and reads, edits and searches files on the host to find the cause and fix it. You can approve every comm",
+    "published_at": "2026-10-13 18:31",
+    "tags": [],
+    "fetch_date": "2026-10-14",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Character.ai Files for Bankruptcy",
+    "url": "https://www.lawcommentary.com/articles/character-ai-bankruptcy-disney-bid-platform-shutdown",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.lawcommentary.com/articles/character-ai-bankruptcy-disney-bid-platform-shutdown Comments URL: https://news.ycombinator.com/item?id=50076225 Points: 2 # Comments: 0",
+    "published_at": "2026-10-13 18:22",
+    "tags": [],
+    "fetch_date": "2026-10-14",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Zen and the Art of AI-Assisted Development",
+    "url": "https://blog.thanethomson.com/2026/10/13/zen-and-the-art-of-ai-assisted-development/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.thanethomson.com/2026/10/13/zen-and-the-art-of-ai-assisted-development/ Comments URL: https://news.ycombinator.com/item?id=50076177 Points: 2 # Comments: 0",
+    "published_at": "2026-10-13 18:18",
+    "tags": [],
+    "fetch_date": "2026-10-14",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Kroger to lay off 3K corporate employees over 3 years as it leans into AI",
+    "url": "https://abcnews.com/Business/wireStory/kroger-lay-off-3000-corporate-employees-3-years-137228598",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://abcnews.com/Business/wireStory/kroger-lay-off-3000-corporate-employees-3-years-137228598 Comments URL: https://news.ycombinator.com/item?id=50076136 Points: 6 # Comments: 1",
+    "published_at": "2026-10-13 18:15",
+    "tags": [],
+    "fetch_date": "2026-10-14",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Facebook is giving users more control over their algorithm",
+    "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+    "source": "TechCrunch AI",
+    "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
+    "published_at": "2026-10-13 18:05",
+    "tags": [
+      "AI",
+      "Apps",
+      "Social",
+      "Facebook"
+    ],
+    "fetch_date": "2026-10-14",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "I Sent an AI to My Job Interview. So Did the Company. [video]",
+    "url": "https://www.youtube.com/watch?v=A0fECnj5sas",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=A0fECnj5sas Comments URL: https://news.ycombinator.com/item?id=50075942 Points: 1 # Comments: 0",
+    "published_at": "2026-10-13 18:02",
+    "tags": [],
+    "fetch_date": "2026-10-14",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Linus Torvalds is using AI to develop Linux kernel code now",
+    "url": "https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch/ Comments URL: https://news.ycombinator.com/item?id=50075926 Points: 5 # Comments: 3",
+    "published_at": "2026-10-13 18:00",
+    "tags": [],
+    "fetch_date": "2026-10-14",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Deslop – Oxlint rules for AI-generated TypeScript",
+    "url": "https://github.com/maharshi365/deslop",
+    "source": "Hacker News AI",
+    "summary": "Catches unsafe types, duplicate code, and low-value tests. Comments URL: https://news.ycombinator.com/item?id=50075809 Points: 3 # Comments: 0",
+    "published_at": "2026-10-13 17:52",
+    "tags": [],
+    "fetch_date": "2026-10-14",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "FrontierML: A challenging, end-to-end machine learning benchmark",
+    "url": "https://www.frontierml.org/blog/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.frontierml.org/blog/ Comments URL: https://news.ycombinator.com/item?id=50075487 Points: 5 # Comments: 1",
+    "published_at": "2026-10-13 17:32",
+    "tags": [],
+    "fetch_date": "2026-10-14",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The Tragedy of AI Coding",
+    "url": "https://www.theatlantic.com/ideas/2026/10/ai-programming-big-tech-regulations/688960/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theatlantic.com/ideas/2026/10/ai-programming-big-tech-regulations/688960/ Comments URL: https://news.ycombinator.com/item?id=50075448 Points: 3 # Comments: 0",
+    "published_at": "2026-10-13 17:30",
+    "tags": [],
+    "fetch_date": "2026-10-14",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "New AI fake text generator may be too dangerous to release, say creators (2019)",
+    "url": "https://www.theguardian.com/technology/2019/feb/14/elon-musk-backed-ai-writes-convincing-news-fiction",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theguardian.com/technology/2019/feb/14/elon-musk-backed-ai-writes-convincing-news-fiction Comments URL: https://news.ycombinator.com/item?id=50075359 Points: 2 # Comments: 1",
+    "published_at": "2026-10-13 17:23",
+    "tags": [],
+    "fetch_date": "2026-10-14",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Releasing AI-Generated Software",
+    "url": "https://blog.ploeh.dk/2026/10/12/releasing-ai-generated-software/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.ploeh.dk/2026/10/12/releasing-ai-generated-software/ Comments URL: https://news.ycombinator.com/item?id=50075047 Points: 1 # Comments: 0",
+    "published_at": "2026-10-13 17:05",
+    "tags": [],
+    "fetch_date": "2026-10-14",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+    "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+    "source": "TechCrunch AI",
+    "summary": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
+    "published_at": "2026-10-13 13:50",
+    "tags": [
+      "AI",
+      "Apps",
+      "cursor",
+      "Grok",
+      "In Brief",
+      "X"
+    ],
+    "fetch_date": "2026-10-14",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+    "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+    "source": "TechCrunch AI",
+    "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
+    "published_at": "2026-10-13 13:00",
+    "tags": [
+      "AI",
+      "Commerce",
+      "TC",
+      "agentic commerce",
+      "AI agents",
+      "American Express",
+      "amex"
+    ],
+    "fetch_date": "2026-10-14",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Epic shifts to &#8216;AI-accelerated development&#8217; for upcoming Disney game",
+    "url": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
+    "source": "The Verge AI",
+    "summary": "Epic Games plans to use AI to generate code and art for an unannounced Disney game, which is now delayed from its original March release window, according to a report from Bloomberg. The project's developers have been given an \"AI-first\" mandate directing them to use tools like Anthropic's Claude more to finish the game. According [&#8230;]",
+    "published_at": "2026-10-13 11:12",
+    "tags": [
+      "AI",
+      "Disney",
+      "Entertainment",
+      "Gaming",
+      "News",
+      "PC Gaming",
+      "Streaming"
+    ],
+    "fetch_date": "2026-10-14",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "'I use AI to do the things that I'm bad at': Linus Torvalds",
     "url": "https://www.zdnet.com/tech/linus-torvalds-ai-coding-programming/",
     "source": "Hacker News AI",
@@ -34926,220 +35144,6 @@
       "CPP Investments",
       "CtrlS"
     ],
-    "fetch_date": "2026-06-17",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
-    "url": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
-    "source": "TechCrunch AI",
-    "summary": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface.",
-    "published_at": "2026-06-17 11:00",
-    "tags": [
-      "AI",
-      "Apps",
-      "Commerce",
-      "TC",
-      "AI chatbot",
-      "Pinterest",
-      "shopping"
-    ],
-    "fetch_date": "2026-06-17",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The next humanoid robot might not look human at all",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
-    "source": "The Verge AI",
-    "summary": "The next humanoid robot might not have a head. It might not have legs. It might even sit on a wheeled base and fold down like a deck chair. But, as Genesis AI puts it, \"humanoid robots don't need to look human.\" That explains the look of Eno, the new robot from the French startup [&#8230;]",
-    "published_at": "2026-06-17 05:46",
-    "tags": [
-      "AI",
-      "News",
-      "Robot",
-      "Tech"
-    ],
-    "fetch_date": "2026-06-17",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
-    "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
-    "source": "TechCrunch AI",
-    "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices.",
-    "published_at": "2026-06-16 18:00",
-    "tags": [
-      "AI",
-      "Apps",
-      "android 17",
-      "Google",
-      "Pixel Drop"
-    ],
-    "fetch_date": "2026-06-17",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Sixty percent of U.S. consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
-    "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
-    "source": "TechCrunch AI",
-    "summary": "WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.",
-    "published_at": "2026-06-16 16:49",
-    "tags": [
-      "AI",
-      "Media & Entertainment",
-      "AI search",
-      "WordPress"
-    ],
-    "fetch_date": "2026-06-17",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Building an LLM safe design system",
-    "url": "https://polar.sh/blog/orbit-llm-safe-design-system",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://polar.sh/blog/orbit-llm-safe-design-system Comments URL: https://news.ycombinator.com/item?id=48558134 Points: 1 # Comments: 0",
-    "published_at": "2026-06-16 16:48",
-    "tags": [],
-    "fetch_date": "2026-06-17",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Supply Chain Capitalism, Platform Mercantilism, AI Coup",
-    "url": "https://www.ctrl-verlust.net/supplychain-kapitalismus-plattform-merkantilismus-ki-coup-und-die-grundrisse-einer-politischen-oekonomie-der-abhaengigkeiten/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.ctrl-verlust.net/supplychain-kapitalismus-plattform-merkantilismus-ki-coup-und-die-grundrisse-einer-politischen-oekonomie-der-abhaengigkeiten/ Comments URL: https://news.ycombinator.com/item?id=48558086 Points: 1 # Comments: 0",
-    "published_at": "2026-06-16 16:45",
-    "tags": [],
-    "fetch_date": "2026-06-17",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "I packaged 20 years of enterprise AI sales experience as a Claude Skill",
-    "url": "https://github.com/vonarmen-wq/forward-deployed-selling",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/vonarmen-wq/forward-deployed-selling Comments URL: https://news.ycombinator.com/item?id=48558062 Points: 1 # Comments: 0",
-    "published_at": "2026-06-16 16:43",
-    "tags": [],
-    "fetch_date": "2026-06-17",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The Pokémon Trading Card Game AI Battle Challenge",
-    "url": "https://ptcg-abc.pokemon.co.jp/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://ptcg-abc.pokemon.co.jp/ Comments URL: https://news.ycombinator.com/item?id=48557964 Points: 2 # Comments: 0",
-    "published_at": "2026-06-16 16:37",
-    "tags": [],
-    "fetch_date": "2026-06-17",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Dino – An AI coding agent that keeps you in the loop",
-    "url": "https://smartdino.dev",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://smartdino.dev Comments URL: https://news.ycombinator.com/item?id=48557935 Points: 1 # Comments: 0",
-    "published_at": "2026-06-16 16:35",
-    "tags": [],
-    "fetch_date": "2026-06-17",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Can LLM Agents Infer World Models? Evidence from Agentic Automata Learning",
-    "url": "https://arxiv.org/abs/2606.16576",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://arxiv.org/abs/2606.16576 Comments URL: https://news.ycombinator.com/item?id=48557815 Points: 1 # Comments: 0",
-    "published_at": "2026-06-16 16:28",
-    "tags": [],
-    "fetch_date": "2026-06-17",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Uncritical use of AI causes countrywide scandal at Starbucks Korea",
-    "url": "https://www.theguardian.com/world/2026/jun/16/starbucks-korea-shut-all-stores-tank-day-promotionBuriedlede:AIcausedthis%3EMarketerschosethe“thwack”sloganafterconsultinganAItoolforsuggestions,ShinsegaeGroupsaid.Itturnedoutsomemanagerswhoapprovedthecampaignneveropenedtheemailattachmentsshowingthemarketingmaterial.%3EThecompanypulledthecampaignwithinhours,butthefalloutwasswiftandthechiefexecutivewassackedthesameday.",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.theguardian.com/world/2026/jun/16/starbucks-korea-shut-all-stores-tank-day-promotionBuriedlede:AIcausedthis%3EMarketerschosethe“thwack”sloganafterconsultinganAItoolforsuggestions,ShinsegaeGroupsaid.Itturnedoutsomemanagerswhoapprovedthecampaignneveropenedtheemailattachmentsshowingthemarketingmaterial.%3EThecompanypulledthecampaignwithinhours,butthefalloutwasswiftandthechiefexecutivewassackedthesameday. Comments URL: https://news.ycombinator.com/item?id=48557740 Points: 2 ",
-    "published_at": "2026-06-16 16:23",
-    "tags": [],
-    "fetch_date": "2026-06-17",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "How we evaluate our LLM judge",
-    "url": "https://build.forus.com/how-we-evaluate-our-llm-judge-a-perturbation-based-approach",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://build.forus.com/how-we-evaluate-our-llm-judge-a-perturbation-based-approach Comments URL: https://news.ycombinator.com/item?id=48557707 Points: 3 # Comments: 0",
-    "published_at": "2026-06-16 16:21",
-    "tags": [],
-    "fetch_date": "2026-06-17",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The AI Hype – Too Costly – Alternative Rock, Original Lyrics [Video]",
-    "url": "https://www.youtube.com/watch?v=jwfuNk2cRDc",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.youtube.com/watch?v=jwfuNk2cRDc Comments URL: https://news.ycombinator.com/item?id=48557654 Points: 2 # Comments: 0",
-    "published_at": "2026-06-16 16:19",
-    "tags": [],
-    "fetch_date": "2026-06-17",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "SearchGate – An AI Content Blocker",
-    "url": "https://chromewebstore.google.com/detail/searchgate/cholhbhkhcnekbbobehnepiifckhbmkd",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://chromewebstore.google.com/detail/searchgate/cholhbhkhcnekbbobehnepiifckhbmkd Comments URL: https://news.ycombinator.com/item?id=48557343 Points: 2 # Comments: 0",
-    "published_at": "2026-06-16 16:00",
-    "tags": [],
-    "fetch_date": "2026-06-17",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "FT Alphaville's AI Prediction World Cup",
-    "url": "https://www.ft.com/content/ce992051-05f4-40cd-a515-1ccd615f9e40",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.ft.com/content/ce992051-05f4-40cd-a515-1ccd615f9e40 Comments URL: https://news.ycombinator.com/item?id=48557339 Points: 2 # Comments: 1",
-    "published_at": "2026-06-16 16:00",
-    "tags": [],
-    "fetch_date": "2026-06-17",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The Era of AI Malaise",
-    "url": "https://www.technologyreview.com/2026/04/21/1135921/ai-malaise-artificial-intelligence-public-sentiment/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.technologyreview.com/2026/04/21/1135921/ai-malaise-artificial-intelligence-public-sentiment/ Comments URL: https://news.ycombinator.com/item?id=48557306 Points: 2 # Comments: 1",
-    "published_at": "2026-06-16 15:58",
-    "tags": [],
-    "fetch_date": "2026-06-17",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Why AI Will Accelerate Health Care Inflation",
-    "url": "https://www.healthaffairs.org/content/forefront/why-ai-accelerate-health-care-inflation",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.healthaffairs.org/content/forefront/why-ai-accelerate-health-care-inflation Comments URL: https://news.ycombinator.com/item?id=48557264 Points: 4 # Comments: 0",
-    "published_at": "2026-06-16 15:55",
-    "tags": [],
-    "fetch_date": "2026-06-17",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "A look into Ubuntu Core 26: Building a local AI inference appliance",
-    "url": "https://ubuntu.com/blog/ubuntu-core-26-ai-box",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://ubuntu.com/blog/ubuntu-core-26-ai-box Comments URL: https://news.ycombinator.com/item?id=48557018 Points: 3 # Comments: 0",
-    "published_at": "2026-06-16 15:41",
-    "tags": [],
-    "fetch_date": "2026-06-17",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: BlitzGraph – Supabase for graphs, built for LLM agents",
-    "url": "https://blitzgraph.com",
-    "source": "Hacker News AI",
-    "summary": "Hello HN After becoming allergic to SQL, I opened 120+ issues in Dgraph, Typedb and surrealdb looking for the perfect graphDB. None of them was built for agents nor were they the perfect fit for what we wanted to achieve: fully ditching the SQL legacy to properly model reality. So we decided to build BlitzGraphIn BlitzGraph, records (units) can belong to multiple types (kinds) and evolve through time. Also polymorphic relations are first class and multiple kinds can play the same role. This desi",
-    "published_at": "2026-06-16 15:41",
-    "tags": [],
     "fetch_date": "2026-06-17",
     "fetch_label": "晚报"
   }
