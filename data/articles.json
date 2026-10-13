@@ -1,5 +1,125 @@
 [
   {
+    "title": "'I use AI to do the things that I'm bad at': Linus Torvalds",
+    "url": "https://www.zdnet.com/tech/linus-torvalds-ai-coding-programming/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.zdnet.com/tech/linus-torvalds-ai-coding-programming/ Comments URL: https://news.ycombinator.com/item?id=50067243 Points: 1 # Comments: 0",
+    "published_at": "2026-10-13 05:43",
+    "tags": [],
+    "fetch_date": "2026-10-13",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "DocCloak – Browser-Based Document Anonymizer for AI Submissions",
+    "url": "https://github.com/WLojek/DocCloak",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/WLojek/DocCloak Comments URL: https://news.ycombinator.com/item?id=50067141 Points: 1 # Comments: 0",
+    "published_at": "2026-10-13 05:27",
+    "tags": [],
+    "fetch_date": "2026-10-13",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "LLM Agents Can Easily Tamper with Their Own Traces",
+    "url": "https://arxiv.org/abs/2609.30266",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2609.30266 Comments URL: https://news.ycombinator.com/item?id=50066935 Points: 2 # Comments: 0",
+    "published_at": "2026-10-13 05:00",
+    "tags": [],
+    "fetch_date": "2026-10-13",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Things we've learned about building AI products",
+    "url": "https://newsletter.posthog.com/p/38-things-weve-learned-about-building",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://newsletter.posthog.com/p/38-things-weve-learned-about-building Comments URL: https://news.ycombinator.com/item?id=50066927 Points: 2 # Comments: 0",
+    "published_at": "2026-10-13 04:59",
+    "tags": [],
+    "fetch_date": "2026-10-13",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Don't Feed the AI - Anonymizer Proxy for AI-assisted Pentesting",
+    "url": "https://github.com/zeroc00I/DontFeedTheAI",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/zeroc00I/DontFeedTheAI Comments URL: https://news.ycombinator.com/item?id=50066841 Points: 1 # Comments: 1",
+    "published_at": "2026-10-13 04:45",
+    "tags": [],
+    "fetch_date": "2026-10-13",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: GPT-3.5 answered, GPT-4 voided; I built an EOS gate for AGI",
+    "url": "https://getswiftapi.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://getswiftapi.com Comments URL: https://news.ycombinator.com/item?id=50066837 Points: 1 # Comments: 0",
+    "published_at": "2026-10-13 04:45",
+    "tags": [],
+    "fetch_date": "2026-10-13",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Intel Accelerates Open Infrastructure for the Agentic AI Era",
+    "url": "https://www.intel.com/content/www/us/en/newsroom/news/artificial-intelligence/intel-accelerates-open-infrastructure-agentic-ai-era.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.intel.com/content/www/us/en/newsroom/news/artificial-intelligence/intel-accelerates-open-infrastructure-agentic-ai-era.html Comments URL: https://news.ycombinator.com/item?id=50066786 Points: 1 # Comments: 0",
+    "published_at": "2026-10-13 04:37",
+    "tags": [],
+    "fetch_date": "2026-10-13",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Can we change an AI model's architecture without retraining it from scratch?",
+    "url": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch Comments URL: https://news.ycombinator.com/item?id=50066477 Points: 1 # Comments: 1",
+    "published_at": "2026-10-13 03:57",
+    "tags": [],
+    "fetch_date": "2026-10-13",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "I used an AI QA agent to test Hacker News",
+    "url": "https://hitest.ai/blog/demo-hacker-news",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://hitest.ai/blog/demo-hacker-news Comments URL: https://news.ycombinator.com/item?id=50066288 Points: 1 # Comments: 0",
+    "published_at": "2026-10-13 03:31",
+    "tags": [],
+    "fetch_date": "2026-10-13",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Is AI the End of Math as We Know It?",
+    "url": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/ Comments URL: https://news.ycombinator.com/item?id=50066231 Points: 1 # Comments: 1",
+    "published_at": "2026-10-13 03:24",
+    "tags": [],
+    "fetch_date": "2026-10-13",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "In 5 years, 95% of tokens used by AI agents will be for tasks humans never did",
+    "url": "https://twitter.com/levie/status/1986620885592113218",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/levie/status/1986620885592113218 Comments URL: https://news.ycombinator.com/item?id=50066144 Points: 5 # Comments: 0",
+    "published_at": "2026-10-13 03:12",
+    "tags": [],
+    "fetch_date": "2026-10-13",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Army turning to AI in its fight against biological threats",
+    "url": "https://defensescoop.com/2026/10/12/army-turning-to-ai-in-its-fight-against-biological-threats/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://defensescoop.com/2026/10/12/army-turning-to-ai-in-its-fight-against-biological-threats/ Comments URL: https://news.ycombinator.com/item?id=50065839 Points: 4 # Comments: 0",
+    "published_at": "2026-10-13 02:29",
+    "tags": [],
+    "fetch_date": "2026-10-13",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Meta releases its first frontier model, Muse Wonder",
     "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
     "source": "TechCrunch AI",
@@ -35020,200 +35140,6 @@
     "summary": "Hello HN After becoming allergic to SQL, I opened 120+ issues in Dgraph, Typedb and surrealdb looking for the perfect graphDB. None of them was built for agents nor were they the perfect fit for what we wanted to achieve: fully ditching the SQL legacy to properly model reality. So we decided to build BlitzGraphIn BlitzGraph, records (units) can belong to multiple types (kinds) and evolve through time. Also polymorphic relations are first class and multiple kinds can play the same role. This desi",
     "published_at": "2026-06-16 15:41",
     "tags": [],
-    "fetch_date": "2026-06-17",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: An AI resume tool that never invents experience you didn't have",
-    "url": "https://hiredcopilot.com",
-    "source": "Hacker News AI",
-    "summary": "I have seen way too many people waste time tailoring their resumes to a specific Job description, practicing interview questions etc. and most of them don't trust AI tailoring and rightfully so, cuz it invents experience you never had. All it takes is the interviewer asking you one question that you do not know the answer to and the house of cards falls. So hear me out:I made HiredCopilot an AI tool that helps you tailor your resume for a specific job description and I made it different. Apart f",
-    "published_at": "2026-06-16 15:22",
-    "tags": [],
-    "fetch_date": "2026-06-17",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
-    "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
-    "source": "TechCrunch AI",
-    "summary": "Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers.",
-    "published_at": "2026-06-16 15:00",
-    "tags": [
-      "AI",
-      "Gadgets",
-      "AI note-taking",
-      "hardware",
-      "meetings",
-      "plaud"
-    ],
-    "fetch_date": "2026-06-17",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
-    "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
-    "source": "TechCrunch AI",
-    "summary": "Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note about layoffs.",
-    "published_at": "2026-06-16 14:50",
-    "tags": [
-      "AI",
-      "Fintech",
-      "Layoffs",
-      "Robinhood"
-    ],
-    "fetch_date": "2026-06-17",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Probably raises $9M to build a more reliable kind of AI",
-    "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
-    "source": "TechCrunch AI",
-    "summary": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.",
-    "published_at": "2026-06-16 13:15",
-    "tags": [
-      "Startups",
-      "AI",
-      "Andreessen Horowitz",
-      "hallucinations",
-      "Probably"
-    ],
-    "fetch_date": "2026-06-17",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
-    "url": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
-    "source": "The Verge AI",
-    "summary": "Now that we're clear of WWDC and all of the new AI-powered features coming to Apple's platforms, Bloomberg reporter Mark Gurman has more details about rumored new hardware, like the camera-equipped AirPods he'd previously written about. He says they are currently on schedule for a late 2027 launch, and that while we're checking out beta [&#8230;]",
-    "published_at": "2026-06-16 13:04",
-    "tags": [
-      "AI",
-      "Apple",
-      "Apple Rumors",
-      "Audio",
-      "Foldable Phones",
-      "Gadgets",
-      "iPhone",
-      "Mobile",
-      "Tech",
-      "Wearable"
-    ],
-    "fetch_date": "2026-06-17",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
-    "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
-    "source": "TechCrunch AI",
-    "summary": "The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI.",
-    "published_at": "2026-06-16 11:21",
-    "tags": [
-      "AI",
-      "Space",
-      "artificial intelligence",
-      "cursor",
-      "Mergers and Acquisitions",
-      "SpaceX"
-    ],
-    "fetch_date": "2026-06-17",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "ChatGPT’s market share slips below 50% for first time",
-    "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
-    "source": "TechCrunch AI",
-    "summary": "The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude with 245 million.",
-    "published_at": "2026-06-16 10:30",
-    "tags": [
-      "AI",
-      "Apps",
-      "ChatGPT",
-      "gemini",
-      "OpenAI",
-      "sensor tower"
-    ],
-    "fetch_date": "2026-06-17",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "SpaceX is officially buying Cursor for $60 billion",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion",
-    "source": "The Verge AI",
-    "summary": "Days after its massive IPO, SpaceX says it is spending $60 billion to buy Cursor - a bet designed to help Elon Musk's sprawling rocket / AI / social media behemoth win over lucrative enterprise customers and close the gap with AI rivals like Anthropic and OpenAI. The takeover was not entirely unexpected: SpaceX announced [&#8230;]",
-    "published_at": "2026-06-16 07:41",
-    "tags": [
-      "AI",
-      "News",
-      "xAI"
-    ],
-    "fetch_date": "2026-06-17",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
-    "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
-    "source": "TechCrunch AI",
-    "summary": "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
-    "published_at": "2026-06-16 06:59",
-    "tags": [
-      "Startups",
-      "AI",
-      "malaysia",
-      "Asia",
-      "respond"
-    ],
-    "fetch_date": "2026-06-17",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
-    "url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
-    "source": "TechCrunch AI",
-    "summary": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.",
-    "published_at": "2026-06-15 23:51",
-    "tags": [
-      "AI",
-      "Google",
-      "ICE",
-      "Israel",
-      "Sundar Pichai"
-    ],
-    "fetch_date": "2026-06-16",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Inside the fight over Claude Mythos 5",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
-    "source": "The Verge AI",
-    "summary": "As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release. At 5:21 PM on Friday, the company received a US export control directive to suspend access to its Mythos 5 and Fable 5 [&#8230;]",
-    "published_at": "2026-06-15 23:00",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "Policy",
-      "Report"
-    ],
-    "fetch_date": "2026-06-16",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
-    "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
-    "source": "TechCrunch AI",
-    "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference.",
-    "published_at": "2026-06-15 21:50",
-    "tags": [
-      "AI",
-      "Government & Policy",
-      "Security",
-      "Anthropic",
-      "cybersecurity",
-      "fable",
-      "Mythos",
-      "Trump Administration",
-      "us government"
-    ],
     "fetch_date": "2026-06-17",
     "fetch_label": "晚报"
   }
