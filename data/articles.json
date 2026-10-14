@@ -1,5 +1,283 @@
 [
   {
+    "title": "I Deleted 168,000 Lines of Comments. My AI Agent Didn't Notice",
+    "url": "https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice/ Comments URL: https://news.ycombinator.com/item?id=50090484 Points: 1 # Comments: 0",
+    "published_at": "2026-10-14 16:34",
+    "tags": [],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "OpenAI retiring GPT-4o in Jan 2027",
+    "url": "https://help.openai.com/en/articles/20001600-migrating-from-gpt-4x-to-gpt-6-luna",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://help.openai.com/en/articles/20001600-migrating-from-gpt-4x-to-gpt-6-luna Comments URL: https://news.ycombinator.com/item?id=50090204 Points: 2 # Comments: 0",
+    "published_at": "2026-10-14 16:22",
+    "tags": [],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Reasons the AI-Apocalypse May Never Arrive",
+    "url": "https://mon0.substack.com/p/7-reasons-the-ai-apocalypse-may-never",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://mon0.substack.com/p/7-reasons-the-ai-apocalypse-may-never Comments URL: https://news.ycombinator.com/item?id=50090118 Points: 1 # Comments: 0",
+    "published_at": "2026-10-14 16:18",
+    "tags": [],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Palantir CTO: researchers are taking up smoking as they expect AI to cure cancer",
+    "url": "https://www.businessinsider.com/ai-researchers-smoking-ai-cure-cancer-palantir-cto-2026-10",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.businessinsider.com/ai-researchers-smoking-ai-cure-cancer-palantir-cto-2026-10 Comments URL: https://news.ycombinator.com/item?id=50090024 Points: 1 # Comments: 1",
+    "published_at": "2026-10-14 16:13",
+    "tags": [],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Tagg, a new browser interface with an AI that takes action for you",
+    "url": "https://tagg.now/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://tagg.now/ Comments URL: https://news.ycombinator.com/item?id=50089939 Points: 1 # Comments: 0",
+    "published_at": "2026-10-14 16:09",
+    "tags": [],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Sonia. Local AI Assistant Linux. 13Gb RAM, No GPU, Skills Supported",
+    "url": "https://github.com/grigio/sonia-assistant",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/grigio/sonia-assistant Comments URL: https://news.ycombinator.com/item?id=50089901 Points: 1 # Comments: 0",
+    "published_at": "2026-10-14 16:08",
+    "tags": [],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Eulix – Local code index and call graphs for large repos, LLM optional",
+    "url": "https://github.com/Nurysso/eulix",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/Nurysso/eulix Comments URL: https://news.ycombinator.com/item?id=50089839 Points: 1 # Comments: 0",
+    "published_at": "2026-10-14 16:04",
+    "tags": [],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Mathematics and AI Oracles [pdf]",
+    "url": "https://colala.berkeley.edu/papers/piantadosi2026mathematics.pdf",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://colala.berkeley.edu/papers/piantadosi2026mathematics.pdf Comments URL: https://news.ycombinator.com/item?id=50089674 Points: 3 # Comments: 0",
+    "published_at": "2026-10-14 15:55",
+    "tags": [],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Celestial AI Introduces Photonic Fabric [2x HBM3e and DDR5 Memory] Module (2025)",
+    "url": "https://chiplet-marketplace.com/insights/news/celestial-ai-photonic-fabric-module-soc-with-in-die-optical-interconnect",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://chiplet-marketplace.com/insights/news/celestial-ai-photonic-fabric-module-soc-with-in-die-optical-interconnect Comments URL: https://news.ycombinator.com/item?id=50089598 Points: 1 # Comments: 1",
+    "published_at": "2026-10-14 15:50",
+    "tags": [],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The state of agentic AI in chip design tools in 2026",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-agentic-ai-in-chip-design-tools-in-2026-cadence-synopsys-and-siemens-all-pitch-autonomous-engineers",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-agentic-ai-in-chip-design-tools-in-2026-cadence-synopsys-and-siemens-all-pitch-autonomous-engineers Comments URL: https://news.ycombinator.com/item?id=50089558 Points: 1 # Comments: 0",
+    "published_at": "2026-10-14 15:48",
+    "tags": [],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The AI race: China's open-weight models trail US closed models by just 7 months",
+    "url": "https://www.reddit.com/r/dataisbeautiful/comments/1x5ntpl/the_ai_race_chinas_openweight_models_trail_us/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.reddit.com/r/dataisbeautiful/comments/1x5ntpl/the_ai_race_chinas_openweight_models_trail_us/ Comments URL: https://news.ycombinator.com/item?id=50089482 Points: 1 # Comments: 0",
+    "published_at": "2026-10-14 15:44",
+    "tags": [],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Veda: The First AI Native Hobby OS",
+    "url": "https://github.com/vahmoh25/Veda/blob/main/documentation/images/desktop.png",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/vahmoh25/Veda/blob/main/documentation/images/desktop.png Comments URL: https://news.ycombinator.com/item?id=50089385 Points: 1 # Comments: 0",
+    "published_at": "2026-10-14 15:39",
+    "tags": [],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Make Your Coding Assistant a 10x AI Engineer",
+    "url": "https://sarthakai.substack.com/p/a-coding-plugin-to-make-you-a-10x",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://sarthakai.substack.com/p/a-coding-plugin-to-make-you-a-10x Comments URL: https://news.ycombinator.com/item?id=50089384 Points: 3 # Comments: 0",
+    "published_at": "2026-10-14 15:39",
+    "tags": [],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Amazon uses AI-powered 'risk' system to track union activity globally",
+    "url": "https://www.computerweekly.com/news/366652174/Amazon-uses-AI-powered-risk-system-to-track-union-activity-globally",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.computerweekly.com/news/366652174/Amazon-uses-AI-powered-risk-system-to-track-union-activity-globally Comments URL: https://news.ycombinator.com/item?id=50089333 Points: 3 # Comments: 0",
+    "published_at": "2026-10-14 15:36",
+    "tags": [],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "I Want More from AI Than Another Agent",
+    "url": "https://matgreten.dev/posts/i-want-more-from-ai-than-another-agent/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://matgreten.dev/posts/i-want-more-from-ai-than-another-agent/ Comments URL: https://news.ycombinator.com/item?id=50089330 Points: 3 # Comments: 0",
+    "published_at": "2026-10-14 15:36",
+    "tags": [],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "LLM AssBench",
+    "url": "https://assbench.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://assbench.com/ Comments URL: https://news.ycombinator.com/item?id=50089144 Points: 3 # Comments: 1",
+    "published_at": "2026-10-14 15:28",
+    "tags": [],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Behavior-Centric AI Design",
+    "url": "https://swamp-club.com/behavior",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://swamp-club.com/behavior Comments URL: https://news.ycombinator.com/item?id=50089119 Points: 16 # Comments: 1",
+    "published_at": "2026-10-14 15:26",
+    "tags": [],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Deezer will soon let you filter out AI-generated music",
+    "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+    "source": "TechCrunch AI",
+    "summary": "Deezer said that the new toggle will be rolled out by the end of the year.",
+    "published_at": "2026-10-14 15:16",
+    "tags": [
+      "AI",
+      "Apps",
+      "Media & Entertainment",
+      "ai music",
+      "Deezer",
+      "streaming music"
+    ],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
+    "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+    "source": "TechCrunch AI",
+    "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
+    "published_at": "2026-10-14 15:13",
+    "tags": [
+      "AI",
+      "Apps",
+      "Biotech & Health",
+      "Crypto",
+      "Fintech",
+      "Media & Entertainment",
+      "Robotics",
+      "Startups",
+      "Venture",
+      "TechCrunch Disrupt"
+    ],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+    "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+    "source": "TechCrunch AI",
+    "summary": "Zenzap is used by organizations including Starbucks and Taco Bell.",
+    "published_at": "2026-10-14 15:08",
+    "tags": [
+      "AI",
+      "ai chat",
+      "bessemer",
+      "WhatsApp",
+      "workplace communication"
+    ],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026: Day 2",
+    "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
+    "source": "TechCrunch AI",
+    "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, investor-only session, more roundtables, and more. Register to save 50% on your pass.",
+    "published_at": "2026-10-14 14:30",
+    "tags": [
+      "AI",
+      "Apps",
+      "Biotech & Health",
+      "Climate",
+      "Fintech",
+      "Fundraising",
+      "Gadgets",
+      "Robotics",
+      "Startups",
+      "TC",
+      "Venture",
+      "TechCrunch Disrupt"
+    ],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Square’s new kiosk lets you talk to AI for help with your order",
+    "url": "https://www.theverge.com/tech/1009086/square-kiosk",
+    "source": "The Verge AI",
+    "summary": "Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk. Square says the Kiosk, which has a large pill shape, has an \"agentic, conversational voice layer\" that \"fully understands a seller's menu and listens and responds in real [&#8230;]",
+    "published_at": "2026-10-14 12:00",
+    "tags": [
+      "AI",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+    "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+    "source": "TechCrunch AI",
+    "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
+    "published_at": "2026-10-14 11:00",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Startups",
+      "Exclusive",
+      "hitachi",
+      "Scimplify"
+    ],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
     "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
     "source": "TechCrunch AI",
@@ -34893,256 +35171,5 @@
     "tags": [],
     "fetch_date": "2026-06-18",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Modelparams.dev: AI Model Parameters Database (UI, API, NPM)",
-    "url": "https://modelparams.dev/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://modelparams.dev/ Comments URL: https://news.ycombinator.com/item?id=48586555 Points: 2 # Comments: 0",
-    "published_at": "2026-06-18 15:07",
-    "tags": [],
-    "fetch_date": "2026-06-18",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Botpool – 20k+ AI Freelancers Available for Hire",
-    "url": "https://www.botpool.ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.botpool.ai Comments URL: https://news.ycombinator.com/item?id=48586542 Points: 1 # Comments: 0",
-    "published_at": "2026-06-18 15:05",
-    "tags": [],
-    "fetch_date": "2026-06-18",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Multilingual websites done right: what a CMS needs for AI visibility",
-    "url": "https://old.reddit.com/r/cms_tips/comments/1u94t8d/multilingual_websites_done_right_what_a_cms_needs/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://old.reddit.com/r/cms_tips/comments/1u94t8d/multilingual_websites_done_right_what_a_cms_needs/ Comments URL: https://news.ycombinator.com/item?id=48586418 Points: 1 # Comments: 0",
-    "published_at": "2026-06-18 14:57",
-    "tags": [],
-    "fetch_date": "2026-06-18",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Who decides when AI is too dangerous?",
-    "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump Comments URL: https://news.ycombinator.com/item?id=48586359 Points: 2 # Comments: 0",
-    "published_at": "2026-06-18 14:53",
-    "tags": [],
-    "fetch_date": "2026-06-18",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "If AI is sentient, then so is \"Age of Empires II\"",
-    "url": "https://www.404media.co/if-ai-is-sentient-then-so-is-age-of-empires-ii/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.404media.co/if-ai-is-sentient-then-so-is-age-of-empires-ii/ Comments URL: https://news.ycombinator.com/item?id=48586304 Points: 2 # Comments: 1",
-    "published_at": "2026-06-18 14:50",
-    "tags": [],
-    "fetch_date": "2026-06-18",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Layr – a modular UX and product constraint system for AI-built interfaces",
-    "url": "https://github.com/layr-hq/layr",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/layr-hq/layr Comments URL: https://news.ycombinator.com/item?id=48586133 Points: 8 # Comments: 0",
-    "published_at": "2026-06-18 14:39",
-    "tags": [],
-    "fetch_date": "2026-06-18",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Manus original investors plan to buy back AI firm from Meta for $2B",
-    "url": "https://www.reuters.com/world/asia-pacific/manus-original-investors-plan-buy-back-ai-firm-meta-2-billion-information-2026-06-18/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.reuters.com/world/asia-pacific/manus-original-investors-plan-buy-back-ai-firm-meta-2-billion-information-2026-06-18/ Comments URL: https://news.ycombinator.com/item?id=48585116 Points: 3 # Comments: 1",
-    "published_at": "2026-06-18 13:39",
-    "tags": [],
-    "fetch_date": "2026-06-18",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Pixi’s new iOS app turns text messages into interactive AR experiences",
-    "url": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
-    "source": "TechCrunch AI",
-    "summary": "Forget stickers, GIFs, and emoji reactions. Pixi is betting that the next evolution of messaging is interactive augmented reality (AR).",
-    "published_at": "2026-06-18 12:00",
-    "tags": [
-      "AI",
-      "Apps",
-      "Media & Entertainment",
-      "Social",
-      "Startups",
-      "augmented reality",
-      "Generative AI",
-      "iOS app"
-    ],
-    "fetch_date": "2026-06-19",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Amazon employees say they’re facing termination for backing data center limits",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
-    "source": "The Verge AI",
-    "summary": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political speech. Now, they're accusing their employer of breaking that law by retaliating against them. On June 10th - one week after the hearing, and [&#8230;]",
-    "published_at": "2026-06-18 12:00",
-    "tags": [
-      "AI",
-      "Amazon",
-      "Report",
-      "Tech"
-    ],
-    "fetch_date": "2026-06-19",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Photoshop and Premiere now have AI assistants",
-    "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
-    "source": "The Verge AI",
-    "summary": "Adobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps. As part of a public beta launching today, Photoshop, Premiere, Illustrator, InDesign, and Frame.io now each have a bespoke AI Assistant that can be used [&#8230;]",
-    "published_at": "2026-06-18 09:00",
-    "tags": [
-      "Adobe",
-      "AI",
-      "Creators",
-      "Design",
-      "News",
-      "Tech"
-    ],
-    "fetch_date": "2026-06-19",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Interesting Google AI Results",
-    "url": "https://www.google.com/search?q=nvm",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.google.com/search?q=nvm Comments URL: https://news.ycombinator.com/item?id=48580726 Points: 1 # Comments: 1",
-    "published_at": "2026-06-18 04:12",
-    "tags": [],
-    "fetch_date": "2026-06-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Agents for Contractors",
-    "url": "https://dolfyn.ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://dolfyn.ai/ Comments URL: https://news.ycombinator.com/item?id=48580402 Points: 1 # Comments: 1",
-    "published_at": "2026-06-18 03:27",
-    "tags": [],
-    "fetch_date": "2026-06-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The year designers stopped being just designers – AI in Design Report 2026",
-    "url": "https://www.artificialstudio.ai/blog/ai-design-report-2026",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.artificialstudio.ai/blog/ai-design-report-2026 Comments URL: https://news.ycombinator.com/item?id=48580378 Points: 1 # Comments: 2",
-    "published_at": "2026-06-18 03:24",
-    "tags": [],
-    "fetch_date": "2026-06-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Companies question cost of AI as tokenmaxxing spending adds up",
-    "url": "https://www.cbc.ca/news/business/ai-spending-ending-tokenmaxxing-tokenomics-9.7237680",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.cbc.ca/news/business/ai-spending-ending-tokenmaxxing-tokenomics-9.7237680 Comments URL: https://news.ycombinator.com/item?id=48580282 Points: 2 # Comments: 1",
-    "published_at": "2026-06-18 03:11",
-    "tags": [],
-    "fetch_date": "2026-06-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Inside Rainbow's AI clash with its fashion models",
-    "url": "https://www.businessinsider.com/rainbow-shops-fashion-models-ai-use-jobs-impact-2026-6",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.businessinsider.com/rainbow-shops-fashion-models-ai-use-jobs-impact-2026-6 Comments URL: https://news.ycombinator.com/item?id=48580182 Points: 1 # Comments: 0",
-    "published_at": "2026-06-18 02:59",
-    "tags": [],
-    "fetch_date": "2026-06-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Personal AI Video Agent",
-    "url": "https://elvalabs.ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://elvalabs.ai Comments URL: https://news.ycombinator.com/item?id=48580110 Points: 1 # Comments: 2",
-    "published_at": "2026-06-18 02:50",
-    "tags": [],
-    "fetch_date": "2026-06-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Meta head of product for 'AI for work' transformation is leaving company",
-    "url": "https://www.reuters.com/world/meta-head-product-ai-work-transformation-is-leaving-company-2026-06-17/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.reuters.com/world/meta-head-product-ai-work-transformation-is-leaving-company-2026-06-17/ Comments URL: https://news.ycombinator.com/item?id=48580103 Points: 12 # Comments: 1",
-    "published_at": "2026-06-18 02:49",
-    "tags": [],
-    "fetch_date": "2026-06-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "GenDB – LLM-Powered Generative Query Engine",
-    "url": "https://solidlao.github.io/GenDB/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://solidlao.github.io/GenDB/ Comments URL: https://news.ycombinator.com/item?id=48579954 Points: 1 # Comments: 0",
-    "published_at": "2026-06-18 02:35",
-    "tags": [],
-    "fetch_date": "2026-06-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "[x86] AI Compute Extensions (ACE) Specification",
-    "url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/ Comments URL: https://news.ycombinator.com/item?id=48579913 Points: 15 # Comments: 5",
-    "published_at": "2026-06-18 02:32",
-    "tags": [],
-    "fetch_date": "2026-06-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Six Numbers from Running 1,500 AI Agents Simultaneously",
-    "url": "https://amitlimaye1.substack.com/p/six-numbers-from-running-1500-ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://amitlimaye1.substack.com/p/six-numbers-from-running-1500-ai Comments URL: https://news.ycombinator.com/item?id=48579822 Points: 2 # Comments: 0",
-    "published_at": "2026-06-18 02:22",
-    "tags": [],
-    "fetch_date": "2026-06-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Local personal data redaction for any AI tools",
-    "url": "https://github.com/sophia486/pii-gui",
-    "source": "Hacker News AI",
-    "summary": "I built the desktop app that detects and redacts personal data (or PII) locally without sending any text to server. It supports rule-based filtering and AI model-based redaction (eg openai privacy filter). It's open source and free. Please check out the repo and https://pii-gui.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48579589 Points: 3 # Comments: 0",
-    "published_at": "2026-06-18 01:52",
-    "tags": [],
-    "fetch_date": "2026-06-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Context intelligence for your data and AI agents at scale",
-    "url": "https://aws.amazon.com/blogs/machine-learning/context-intelligence-for-your-data-and-ai-agents-at-scale/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://aws.amazon.com/blogs/machine-learning/context-intelligence-for-your-data-and-ai-agents-at-scale/ Comments URL: https://news.ycombinator.com/item?id=48579171 Points: 2 # Comments: 0",
-    "published_at": "2026-06-18 00:56",
-    "tags": [],
-    "fetch_date": "2026-06-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Telling an LLM who made it changes which vendor it recommends",
-    "url": "https://research.mikepink.com/posts/llm-creator-preference/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://research.mikepink.com/posts/llm-creator-preference/ Comments URL: https://news.ycombinator.com/item?id=48579040 Points: 3 # Comments: 1",
-    "published_at": "2026-06-18 00:40",
-    "tags": [],
-    "fetch_date": "2026-06-18",
-    "fetch_label": "早报"
   }
 ]

@@ -1,0 +1,270 @@
+{
+  "date": "2026-10-15",
+  "runs": [
+    {
+      "label": "晚报",
+      "time": "2026-10-15 00:41:48",
+      "count": 25,
+      "articles": [
+        {
+          "title": "I Deleted 168,000 Lines of Comments. My AI Agent Didn't Notice",
+          "url": "https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice/ Comments URL: https://news.ycombinator.com/item?id=50090484 Points: 1 # Comments: 0",
+          "published_at": "2026-10-14 16:34",
+          "tags": []
+        },
+        {
+          "title": "OpenAI retiring GPT-4o in Jan 2027",
+          "url": "https://help.openai.com/en/articles/20001600-migrating-from-gpt-4x-to-gpt-6-luna",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://help.openai.com/en/articles/20001600-migrating-from-gpt-4x-to-gpt-6-luna Comments URL: https://news.ycombinator.com/item?id=50090204 Points: 2 # Comments: 0",
+          "published_at": "2026-10-14 16:22",
+          "tags": []
+        },
+        {
+          "title": "Reasons the AI-Apocalypse May Never Arrive",
+          "url": "https://mon0.substack.com/p/7-reasons-the-ai-apocalypse-may-never",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://mon0.substack.com/p/7-reasons-the-ai-apocalypse-may-never Comments URL: https://news.ycombinator.com/item?id=50090118 Points: 1 # Comments: 0",
+          "published_at": "2026-10-14 16:18",
+          "tags": []
+        },
+        {
+          "title": "Palantir CTO: researchers are taking up smoking as they expect AI to cure cancer",
+          "url": "https://www.businessinsider.com/ai-researchers-smoking-ai-cure-cancer-palantir-cto-2026-10",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.businessinsider.com/ai-researchers-smoking-ai-cure-cancer-palantir-cto-2026-10 Comments URL: https://news.ycombinator.com/item?id=50090024 Points: 1 # Comments: 1",
+          "published_at": "2026-10-14 16:13",
+          "tags": []
+        },
+        {
+          "title": "Tagg, a new browser interface with an AI that takes action for you",
+          "url": "https://tagg.now/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://tagg.now/ Comments URL: https://news.ycombinator.com/item?id=50089939 Points: 1 # Comments: 0",
+          "published_at": "2026-10-14 16:09",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Sonia. Local AI Assistant Linux. 13Gb RAM, No GPU, Skills Supported",
+          "url": "https://github.com/grigio/sonia-assistant",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/grigio/sonia-assistant Comments URL: https://news.ycombinator.com/item?id=50089901 Points: 1 # Comments: 0",
+          "published_at": "2026-10-14 16:08",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Eulix – Local code index and call graphs for large repos, LLM optional",
+          "url": "https://github.com/Nurysso/eulix",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/Nurysso/eulix Comments URL: https://news.ycombinator.com/item?id=50089839 Points: 1 # Comments: 0",
+          "published_at": "2026-10-14 16:04",
+          "tags": []
+        },
+        {
+          "title": "Mathematics and AI Oracles [pdf]",
+          "url": "https://colala.berkeley.edu/papers/piantadosi2026mathematics.pdf",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://colala.berkeley.edu/papers/piantadosi2026mathematics.pdf Comments URL: https://news.ycombinator.com/item?id=50089674 Points: 3 # Comments: 0",
+          "published_at": "2026-10-14 15:55",
+          "tags": []
+        },
+        {
+          "title": "Celestial AI Introduces Photonic Fabric [2x HBM3e and DDR5 Memory] Module (2025)",
+          "url": "https://chiplet-marketplace.com/insights/news/celestial-ai-photonic-fabric-module-soc-with-in-die-optical-interconnect",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://chiplet-marketplace.com/insights/news/celestial-ai-photonic-fabric-module-soc-with-in-die-optical-interconnect Comments URL: https://news.ycombinator.com/item?id=50089598 Points: 1 # Comments: 1",
+          "published_at": "2026-10-14 15:50",
+          "tags": []
+        },
+        {
+          "title": "The state of agentic AI in chip design tools in 2026",
+          "url": "https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-agentic-ai-in-chip-design-tools-in-2026-cadence-synopsys-and-siemens-all-pitch-autonomous-engineers",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-agentic-ai-in-chip-design-tools-in-2026-cadence-synopsys-and-siemens-all-pitch-autonomous-engineers Comments URL: https://news.ycombinator.com/item?id=50089558 Points: 1 # Comments: 0",
+          "published_at": "2026-10-14 15:48",
+          "tags": []
+        },
+        {
+          "title": "The AI race: China's open-weight models trail US closed models by just 7 months",
+          "url": "https://www.reddit.com/r/dataisbeautiful/comments/1x5ntpl/the_ai_race_chinas_openweight_models_trail_us/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.reddit.com/r/dataisbeautiful/comments/1x5ntpl/the_ai_race_chinas_openweight_models_trail_us/ Comments URL: https://news.ycombinator.com/item?id=50089482 Points: 1 # Comments: 0",
+          "published_at": "2026-10-14 15:44",
+          "tags": []
+        },
+        {
+          "title": "Veda: The First AI Native Hobby OS",
+          "url": "https://github.com/vahmoh25/Veda/blob/main/documentation/images/desktop.png",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/vahmoh25/Veda/blob/main/documentation/images/desktop.png Comments URL: https://news.ycombinator.com/item?id=50089385 Points: 1 # Comments: 0",
+          "published_at": "2026-10-14 15:39",
+          "tags": []
+        },
+        {
+          "title": "Make Your Coding Assistant a 10x AI Engineer",
+          "url": "https://sarthakai.substack.com/p/a-coding-plugin-to-make-you-a-10x",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://sarthakai.substack.com/p/a-coding-plugin-to-make-you-a-10x Comments URL: https://news.ycombinator.com/item?id=50089384 Points: 3 # Comments: 0",
+          "published_at": "2026-10-14 15:39",
+          "tags": []
+        },
+        {
+          "title": "Amazon uses AI-powered 'risk' system to track union activity globally",
+          "url": "https://www.computerweekly.com/news/366652174/Amazon-uses-AI-powered-risk-system-to-track-union-activity-globally",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.computerweekly.com/news/366652174/Amazon-uses-AI-powered-risk-system-to-track-union-activity-globally Comments URL: https://news.ycombinator.com/item?id=50089333 Points: 3 # Comments: 0",
+          "published_at": "2026-10-14 15:36",
+          "tags": []
+        },
+        {
+          "title": "I Want More from AI Than Another Agent",
+          "url": "https://matgreten.dev/posts/i-want-more-from-ai-than-another-agent/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://matgreten.dev/posts/i-want-more-from-ai-than-another-agent/ Comments URL: https://news.ycombinator.com/item?id=50089330 Points: 3 # Comments: 0",
+          "published_at": "2026-10-14 15:36",
+          "tags": []
+        },
+        {
+          "title": "LLM AssBench",
+          "url": "https://assbench.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://assbench.com/ Comments URL: https://news.ycombinator.com/item?id=50089144 Points: 3 # Comments: 1",
+          "published_at": "2026-10-14 15:28",
+          "tags": []
+        },
+        {
+          "title": "Behavior-Centric AI Design",
+          "url": "https://swamp-club.com/behavior",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://swamp-club.com/behavior Comments URL: https://news.ycombinator.com/item?id=50089119 Points: 16 # Comments: 1",
+          "published_at": "2026-10-14 15:26",
+          "tags": []
+        },
+        {
+          "title": "Deezer will soon let you filter out AI-generated music",
+          "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+          "source": "TechCrunch AI",
+          "summary": "Deezer said that the new toggle will be rolled out by the end of the year.",
+          "published_at": "2026-10-14 15:16",
+          "tags": [
+            "AI",
+            "Apps",
+            "Media & Entertainment",
+            "ai music",
+            "Deezer",
+            "streaming music"
+          ]
+        },
+        {
+          "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
+          "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+          "source": "TechCrunch AI",
+          "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
+          "published_at": "2026-10-14 15:13",
+          "tags": [
+            "AI",
+            "Apps",
+            "Biotech & Health",
+            "Crypto",
+            "Fintech",
+            "Media & Entertainment",
+            "Robotics",
+            "Startups",
+            "Venture",
+            "TechCrunch Disrupt"
+          ]
+        },
+        {
+          "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+          "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+          "source": "TechCrunch AI",
+          "summary": "Zenzap is used by organizations including Starbucks and Taco Bell.",
+          "published_at": "2026-10-14 15:08",
+          "tags": [
+            "AI",
+            "ai chat",
+            "bessemer",
+            "WhatsApp",
+            "workplace communication"
+          ]
+        },
+        {
+          "title": "TechCrunch Disrupt 2026: Day 2",
+          "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
+          "source": "TechCrunch AI",
+          "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, investor-only session, more roundtables, and more. Register to save 50% on your pass.",
+          "published_at": "2026-10-14 14:30",
+          "tags": [
+            "AI",
+            "Apps",
+            "Biotech & Health",
+            "Climate",
+            "Fintech",
+            "Fundraising",
+            "Gadgets",
+            "Robotics",
+            "Startups",
+            "TC",
+            "Venture",
+            "TechCrunch Disrupt"
+          ]
+        },
+        {
+          "title": "Square’s new kiosk lets you talk to AI for help with your order",
+          "url": "https://www.theverge.com/tech/1009086/square-kiosk",
+          "source": "The Verge AI",
+          "summary": "Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk. Square says the Kiosk, which has a large pill shape, has an \"agentic, conversational voice layer\" that \"fully understands a seller's menu and listens and responds in real [&#8230;]",
+          "published_at": "2026-10-14 12:00",
+          "tags": [
+            "AI",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+          "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
+          "published_at": "2026-10-14 11:00",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "Startups",
+            "Exclusive",
+            "hitachi",
+            "Scimplify"
+          ]
+        },
+        {
+          "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+          "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+          "source": "TechCrunch AI",
+          "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+          "published_at": "2026-10-13 23:05",
+          "tags": [
+            "AI",
+            "andrew feldman",
+            "Cerebras",
+            "TechCrunch Disrupt"
+          ]
+        },
+        {
+          "title": "Cerebras CEO pushes back on AI doomsday warnings",
+          "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+          "source": "TechCrunch AI",
+          "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+          "published_at": "2026-10-13 22:36",
+          "tags": [
+            "AI",
+            "TechCrunch Disrupt",
+            "Cerebras",
+            "andrew feldman"
+          ]
+        }
+      ]
+    }
+  ]
+}
