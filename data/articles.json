@@ -1,5 +1,63 @@
 [
   {
+    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+    "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+    "source": "TechCrunch AI",
+    "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+    "published_at": "2026-10-13 23:13",
+    "tags": [
+      "AI",
+      "Biotech & Health",
+      "Science Corporation"
+    ],
+    "fetch_date": "2026-10-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+    "source": "TechCrunch AI",
+    "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+    "published_at": "2026-10-13 23:05",
+    "tags": [
+      "AI",
+      "Cerebras"
+    ],
+    "fetch_date": "2026-10-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Cerebras CEO pushes back on AI doomsday warnings",
+    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+    "source": "TechCrunch AI",
+    "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+    "published_at": "2026-10-13 22:36",
+    "tags": [
+      "AI",
+      "TechCrunch Disrupt",
+      "Cerebras",
+      "andrew feldman"
+    ],
+    "fetch_date": "2026-10-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+    "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+    "source": "TechCrunch AI",
+    "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+    "published_at": "2026-10-13 20:36",
+    "tags": [
+      "AI",
+      "Hardware",
+      "Apple",
+      "lawsuit",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-10-14",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Sakana AI – Building Frontier AI in Japan",
     "url": "https://sakana.ai/",
     "source": "Hacker News AI",
@@ -48,6 +106,23 @@
     "tags": [],
     "fetch_date": "2026-10-14",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+    "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+    "source": "TechCrunch AI",
+    "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+    "published_at": "2026-10-13 18:30",
+    "tags": [
+      "AI",
+      "Hardware",
+      "Startups",
+      "Startup Battlefield 200",
+      "TechCrunch Disrupt",
+      "wildlife"
+    ],
+    "fetch_date": "2026-10-14",
+    "fetch_label": "早报"
   },
   {
     "title": "Character.ai Files for Bankruptcy",
@@ -155,6 +230,24 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+    "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+    "source": "TechCrunch AI",
+    "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
+    "published_at": "2026-10-13 17:18",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "Security",
+      "AI agents",
+      "ai security",
+      "jump capital",
+      "TLV Partners"
+    ],
+    "fetch_date": "2026-10-14",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Releasing AI-Generated Software",
     "url": "https://blog.ploeh.dk/2026/10/12/releasing-ai-generated-software/",
     "source": "Hacker News AI",
@@ -198,6 +291,38 @@
     ],
     "fetch_date": "2026-10-14",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+    "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+    "source": "TechCrunch AI",
+    "summary": "The startup will sell some of its assets to Disney for $20 million.",
+    "published_at": "2026-10-13 12:23",
+    "tags": [
+      "AI",
+      "Apps",
+      "bankruptcy",
+      "Chapter 11",
+      "character.ai",
+      "greycroft"
+    ],
+    "fetch_date": "2026-10-14",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Google finally releases Gemini 4 Argon",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+    "source": "The Verge AI",
+    "summary": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon delivers \"frontier reasoning and improved performance across complex workflows,\" while cutting down on hedging, repetition, and the cliches that [&#8230;]",
+    "published_at": "2026-10-13 12:00",
+    "tags": [
+      "AI",
+      "Google",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-14",
+    "fetch_label": "早报"
   },
   {
     "title": "Epic shifts to &#8216;AI-accelerated development&#8217; for upcoming Disney game",
@@ -35019,132 +35144,5 @@
     "tags": [],
     "fetch_date": "2026-06-18",
     "fetch_label": "早报"
-  },
-  {
-    "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
-    "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
-    "source": "TechCrunch AI",
-    "summary": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.",
-    "published_at": "2026-06-17 20:24",
-    "tags": [
-      "AI",
-      "Hardware",
-      "In Brief",
-      "SMART Glasses",
-      "Snap",
-      "specs"
-    ],
-    "fetch_date": "2026-06-19",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”",
-    "url": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
-    "source": "ArsTechnica AI",
-    "summary": "Tesco claimed Broadcom hiked its VMware prices by about 175 percent in UK court filings.",
-    "published_at": "2026-06-17 19:43",
-    "tags": [
-      "Biz & IT",
-      "Broadcom",
-      "lawsuit",
-      "vmware"
-    ],
-    "fetch_date": "2026-06-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
-    "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
-    "source": "TechCrunch AI",
-    "summary": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
-    "published_at": "2026-06-17 18:30",
-    "tags": [
-      "AI",
-      "Climate",
-      "Anthropic",
-      "carbon removal",
-      "frontier"
-    ],
-    "fetch_date": "2026-06-18",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
-    "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
-    "source": "TechCrunch AI",
-    "summary": "Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows.",
-    "published_at": "2026-06-17 17:00",
-    "tags": [
-      "AI",
-      "ChatGPT",
-      "gemini",
-      "Grok"
-    ],
-    "fetch_date": "2026-06-18",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Google bets on Gemini to reinvent the smart home speaker",
-    "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
-    "source": "TechCrunch AI",
-    "summary": "Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversational Gemini interactions.",
-    "published_at": "2026-06-17 16:30",
-    "tags": [
-      "AI",
-      "Gadgets",
-      "Media & Entertainment",
-      "audio device",
-      "Google",
-      "google home",
-      "smart speaker"
-    ],
-    "fetch_date": "2026-06-18",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
-    "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
-    "source": "TechCrunch AI",
-    "summary": "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.",
-    "published_at": "2026-06-17 15:00",
-    "tags": [
-      "AI",
-      "Startups",
-      "a16z",
-      "robots",
-      "Thrive Capital"
-    ],
-    "fetch_date": "2026-06-17",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
-    "url": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
-    "source": "TechCrunch AI",
-    "summary": "Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation — where errors can be costly and reliability is at a premium.",
-    "published_at": "2026-06-17 14:15",
-    "tags": [
-      "AI",
-      "formal verification",
-      "reliability"
-    ],
-    "fetch_date": "2026-06-17",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
-    "url": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
-    "source": "TechCrunch AI",
-    "summary": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India.",
-    "published_at": "2026-06-17 12:38",
-    "tags": [
-      "AI",
-      "Enterprise",
-      "Canada Pension Plan Investment Board",
-      "CPP Investments",
-      "CtrlS"
-    ],
-    "fetch_date": "2026-06-17",
-    "fetch_label": "晚报"
   }
 ]
