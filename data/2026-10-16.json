@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-16",
+  "runs": [
+    {
+      "label": "晚报",
+      "time": "2026-10-16 00:27:00",
+      "count": 24,
+      "articles": [
+        {
+          "title": "GLM-5.3 raises researcher fears the Chinese model can fake AI safety tests",
+          "url": "https://www.scmp.com/tech/big-tech/article/3370963/zais-glm-53-raises-researcher-fears-chinese-model-can-fake-ai-safety-tests",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3370963/zais-glm-53-raises-researcher-fears-chinese-model-can-fake-ai-safety-tests Comments URL: https://news.ycombinator.com/item?id=50105999 Points: 1 # Comments: 0",
+          "published_at": "2026-10-15 16:23",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Council AI. Spot biases / hallucinations in top AI models",
+          "url": "https://councilai.app",
+          "source": "Hacker News AI",
+          "summary": "Examples: - The best and worst of AI in 2026. https://councilai.app/s/e305b362-2835-4ac3-94e4-6a7c935f948c - The best and worst of Trump 2026. https://councilai.app/s/9b4ca3f0-ee7e-47ed-9585-e5ab1b37a541 Comments URL: https://news.ycombinator.com/item?id=50105935 Points: 2 # Comments: 0",
+          "published_at": "2026-10-15 16:19",
+          "tags": []
+        },
+        {
+          "title": "Market selloff, rising rates test AI data centre deal boom",
+          "url": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/ Comments URL: https://news.ycombinator.com/item?id=50105900 Points: 5 # Comments: 1",
+          "published_at": "2026-10-15 16:17",
+          "tags": []
+        },
+        {
+          "title": "Why Aren't AI Labs' Apps Better?",
+          "url": "https://davis7.substack.com/p/the-labs-have-the-best-models-with",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://davis7.substack.com/p/the-labs-have-the-best-models-with Comments URL: https://news.ycombinator.com/item?id=50105891 Points: 1 # Comments: 0",
+          "published_at": "2026-10-15 16:17",
+          "tags": []
+        },
+        {
+          "title": "OpenAI, Google pushing new AI models easily tricked into making nudes",
+          "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/ Comments URL: https://news.ycombinator.com/item?id=50105881 Points: 2 # Comments: 0",
+          "published_at": "2026-10-15 16:16",
+          "tags": []
+        },
+        {
+          "title": "Is It or Isn't It? How Generative AI Is Poisoning the Literary Well for Everyone",
+          "url": "https://lithub.com/is-it-or-isnt-it-how-generative-ai-is-poisoning-the-literary-well-for-everyone/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://lithub.com/is-it-or-isnt-it-how-generative-ai-is-poisoning-the-literary-well-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=50105858 Points: 3 # Comments: 0",
+          "published_at": "2026-10-15 16:15",
+          "tags": []
+        },
+        {
+          "title": "Frontier Pre-Training at Microsoft AI",
+          "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/ Comments URL: https://news.ycombinator.com/item?id=50105791 Points: 4 # Comments: 0",
+          "published_at": "2026-10-15 16:12",
+          "tags": []
+        },
+        {
+          "title": "Management in the Age of AI",
+          "url": "https://blog.staysaasy.com/p/management-in-the-age-of-ai-44f",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blog.staysaasy.com/p/management-in-the-age-of-ai-44f Comments URL: https://news.ycombinator.com/item?id=50105667 Points: 2 # Comments: 0",
+          "published_at": "2026-10-15 16:05",
+          "tags": []
+        },
+        {
+          "title": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
+          "url": "https://terrytao.wordpress.com/2026/10/15/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://terrytao.wordpress.com/2026/10/15/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50105628 Points: 1 # Comments: 1",
+          "published_at": "2026-10-15 16:02",
+          "tags": []
+        },
+        {
+          "title": "Meta AI in Brazil: Lula Posters Blocked, Flávio Posters Generated",
+          "url": "https://explainx.ai/blog/meta-ai-whatsapp-brazil-lula-flavio-bolsonaro-campaign-posters-tse-2026",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://explainx.ai/blog/meta-ai-whatsapp-brazil-lula-flavio-bolsonaro-campaign-posters-tse-2026 Comments URL: https://news.ycombinator.com/item?id=50105513 Points: 2 # Comments: 0",
+          "published_at": "2026-10-15 15:54",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Ghx – A caching proxy for GitHub CLI, built for AI agents",
+          "url": "https://brunoborges.github.io/ghx/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://brunoborges.github.io/ghx/ Comments URL: https://news.ycombinator.com/item?id=50105322 Points: 2 # Comments: 0",
+          "published_at": "2026-10-15 15:42",
+          "tags": []
+        },
+        {
+          "title": "Catching AI Censorship in Translation",
+          "url": "https://fromhebrew.com",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://fromhebrew.com Comments URL: https://news.ycombinator.com/item?id=50105162 Points: 2 # Comments: 1",
+          "published_at": "2026-10-15 15:32",
+          "tags": []
+        },
+        {
+          "title": "Altitude in Your AI Assistant",
+          "url": "https://docs.altitude.xyz/mcp/overview",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://docs.altitude.xyz/mcp/overview Comments URL: https://news.ycombinator.com/item?id=50105017 Points: 1 # Comments: 0",
+          "published_at": "2026-10-15 15:23",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: In the age of AI does your boss still ask you for time estimates?",
+          "url": "https://news.ycombinator.com/item?id=50104791",
+          "source": "Hacker News AI",
+          "summary": "See title, just curious. Comments URL: https://news.ycombinator.com/item?id=50104791 Points: 1 # Comments: 3",
+          "published_at": "2026-10-15 15:07",
+          "tags": []
+        },
+        {
+          "title": "Datadog trained their own cheap SOTA SRE LLM [pdf]",
+          "url": "https://web-assets.dd-static.net/42588/1792071077-datadog-scout_technical_report.pdf",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://web-assets.dd-static.net/42588/1792071077-datadog-scout_technical_report.pdf Comments URL: https://news.ycombinator.com/item?id=50104758 Points: 2 # Comments: 0",
+          "published_at": "2026-10-15 15:05",
+          "tags": []
+        },
+        {
+          "title": "AI agents are coming to Rivian’s cars",
+          "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+          "source": "TechCrunch AI",
+          "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI &#038; Autonomy Day\" event in December.",
+          "published_at": "2026-10-15 15:02",
+          "tags": [
+            "Transportation",
+            "AI",
+            "electric vehicles",
+            "EVs",
+            "TechCrunch Disrupt",
+            "Rivian",
+            "RJ Scaringe",
+            "LLMs",
+            "agentic ai"
+          ]
+        },
+        {
+          "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+          "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
+          "published_at": "2026-10-15 12:00",
+          "tags": [
+            "AI",
+            "Gadgets",
+            "Hardware",
+            "Alexa",
+            "Amazon",
+            "bee",
+            "wearables"
+          ]
+        },
+        {
+          "title": "Google launches its &#8216;universal&#8217; online shopping cart ahead of the holidays",
+          "url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
+          "source": "The Verge AI",
+          "summary": "Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending. The Universal Cart tool Google previewed at its I/O event in May is now rolling out in the US across the Gemini app and Google Search, with the aim of making it easier [&#8230;]",
+          "published_at": "2026-10-15 09:00",
+          "tags": [
+            "AI",
+            "Google",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+          "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+          "source": "The Verge AI",
+          "summary": "There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over Wi-Fi, it'll phone home to China. Its AI companion can store literally everything you tell it on Chinese servers, where [&#8230;]",
+          "published_at": "2026-10-15 07:00",
+          "tags": [
+            "AI",
+            "Gadgets",
+            "Report",
+            "Robot",
+            "Security",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Deezer will soon let you filter out AI-generated music",
+          "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+          "source": "TechCrunch AI",
+          "summary": "Deezer said that the new toggle will be rolled out by the end of the year.",
+          "published_at": "2026-10-14 15:16",
+          "tags": [
+            "AI",
+            "Apps",
+            "Media & Entertainment",
+            "ai music",
+            "Deezer",
+            "streaming music"
+          ]
+        },
+        {
+          "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
+          "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+          "source": "TechCrunch AI",
+          "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
+          "published_at": "2026-10-14 15:13",
+          "tags": [
+            "AI",
+            "Apps",
+            "Biotech & Health",
+            "Crypto",
+            "Fintech",
+            "Media & Entertainment",
+            "Robotics",
+            "Startups",
+            "Venture",
+            "TechCrunch Disrupt"
+          ]
+        },
+        {
+          "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+          "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+          "source": "TechCrunch AI",
+          "summary": "Zenzap is used by organizations including Starbucks and Taco Bell.",
+          "published_at": "2026-10-14 15:08",
+          "tags": [
+            "AI",
+            "ai chat",
+            "bessemer",
+            "WhatsApp",
+            "workplace communication"
+          ]
+        },
+        {
+          "title": "The AI race is back on",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+          "source": "The Verge AI",
+          "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious contender. Even the latest [&#8230;]",
+          "published_at": "2026-10-14 15:06",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "OpenAI",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+          "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+          "source": "The Verge AI",
+          "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Character.AI's bankruptcy case \"to put all parties on notice of the regulatory issues that [&#8230;]",
+          "published_at": "2026-10-14 14:47",
+          "tags": [
+            "AI",
+            "News",
+            "Policy"
+          ]
+        }
+      ]
+    }
+  ]
+}
