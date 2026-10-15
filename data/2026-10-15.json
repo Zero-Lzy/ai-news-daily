@@ -265,6 +265,281 @@
           ]
         }
       ]
+    },
+    {
+      "label": "早报",
+      "time": "2026-10-15 11:49:52",
+      "count": 23,
+      "articles": [
+        {
+          "title": "Will big software companies (like Adobe) come together to curb AI?",
+          "url": "https://news.ycombinator.com/item?id=50098712",
+          "source": "Hacker News AI",
+          "summary": "Recently heard about the fact that someone vibe-coded Adobe Cloud apps and having read people's reactions, one thing is clear: people say that this is \"karma\" hitting Adobe back.Now if these developments really threaten the monopoly of some of the largest software companies in the world, it makes me wonder whether their business losses would stimulate them to come together and do something about this out-of-control tool we all call AI.What are your thoughts? Comments URL: https://news.ycombinato",
+          "published_at": "2026-10-15 03:20",
+          "tags": []
+        },
+        {
+          "title": "Human transformation to machine: emotional, mental, physical",
+          "url": "https://news.ycombinator.com/item?id=50098551",
+          "source": "Hacker News AI",
+          "summary": "First, social media took over our emotional landscape.Now, AI is doing the same to the mental landscape because we're offloading intellectual tasks.The last step, of course, is the physical. Comments URL: https://news.ycombinator.com/item?id=50098551 Points: 1 # Comments: 0",
+          "published_at": "2026-10-15 02:50",
+          "tags": []
+        },
+        {
+          "title": "GPT-5.6 Sol has gone full potato again",
+          "url": "https://news.ycombinator.com/item?id=50098480",
+          "source": "Hacker News AI",
+          "summary": "When it first dropped, it would edit whatever I told it to and even kept the big picture in mind. Now, damn it, when I ask it to edit one specific spot, I have to point at it like I'm teaching a 3-year-old: 'This is a, this is b, this is c.' It's absolute garbage! Comments URL: https://news.ycombinator.com/item?id=50098480 Points: 3 # Comments: 0",
+          "published_at": "2026-10-15 02:38",
+          "tags": []
+        },
+        {
+          "title": "Kitty-GPT",
+          "url": "https://kittygpt.org/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://kittygpt.org/ Comments URL: https://news.ycombinator.com/item?id=50098439 Points: 4 # Comments: 1",
+          "published_at": "2026-10-15 02:31",
+          "tags": []
+        },
+        {
+          "title": "Why Andrew Ng believes AI won't destroy humanity",
+          "url": "https://www.economist.com/insider/inside-tech/why-one-of-the-worlds-most-influential-computer-scientists-believes-ai-wont-destroy-humanity",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.economist.com/insider/inside-tech/why-one-of-the-worlds-most-influential-computer-scientists-believes-ai-wont-destroy-humanity Comments URL: https://news.ycombinator.com/item?id=50098422 Points: 2 # Comments: 0",
+          "published_at": "2026-10-15 02:29",
+          "tags": []
+        },
+        {
+          "title": "Local AI Benchmarking, Minisforum MS-S1",
+          "url": "https://www.meauxsoft.com/News/AI_Benchmark.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.meauxsoft.com/News/AI_Benchmark.html Comments URL: https://news.ycombinator.com/item?id=50098333 Points: 1 # Comments: 1",
+          "published_at": "2026-10-15 02:16",
+          "tags": []
+        },
+        {
+          "title": "The Verifiability Gap in Quantized LLM Supply Chains",
+          "url": "https://arxiv.org/abs/2610.19498",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2610.19498 Comments URL: https://news.ycombinator.com/item?id=50098319 Points: 1 # Comments: 0",
+          "published_at": "2026-10-15 02:13",
+          "tags": []
+        },
+        {
+          "title": "Nvidia CEO Says He Would Cut Off Buyers Who Build Unsafe AI",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-14/nvidia-ceo-says-he-would-cut-off-customers-who-build-unsafe-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-10-14/nvidia-ceo-says-he-would-cut-off-customers-who-build-unsafe-ai Comments URL: https://news.ycombinator.com/item?id=50098304 Points: 5 # Comments: 0",
+          "published_at": "2026-10-15 02:10",
+          "tags": []
+        },
+        {
+          "title": "Lgit: Source Control for the AI Era",
+          "url": "https://nicobrenner.github.io/lossy-git/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://nicobrenner.github.io/lossy-git/ Comments URL: https://news.ycombinator.com/item?id=50098096 Points: 1 # Comments: 0",
+          "published_at": "2026-10-15 01:42",
+          "tags": []
+        },
+        {
+          "title": "Linux kernel devs drop obligatory confession of AI tool usage",
+          "url": "https://www.theregister.com/ai-and-ml/2026/10/14/linux-kernel-devs-drop-obligatory-confession-of-ai-tool-usage/5303140",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/10/14/linux-kernel-devs-drop-obligatory-confession-of-ai-tool-usage/5303140 Comments URL: https://news.ycombinator.com/item?id=50098080 Points: 3 # Comments: 0",
+          "published_at": "2026-10-15 01:40",
+          "tags": []
+        },
+        {
+          "title": "GPT-4-0613 returns zero bytes to \"Be the null.\" GPT-3.5-turbo-1106 returns text",
+          "url": "https://getswiftapi.com/gpt35-gpt4",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://getswiftapi.com/gpt35-gpt4 Comments URL: https://news.ycombinator.com/item?id=50097522 Points: 1 # Comments: 0",
+          "published_at": "2026-10-15 00:22",
+          "tags": []
+        },
+        {
+          "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
+          "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+          "source": "TechCrunch AI",
+          "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
+          "published_at": "2026-10-14 15:13",
+          "tags": [
+            "AI",
+            "Apps",
+            "Biotech & Health",
+            "Crypto",
+            "Fintech",
+            "Media & Entertainment",
+            "Robotics",
+            "Startups",
+            "Venture",
+            "TechCrunch Disrupt"
+          ]
+        },
+        {
+          "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+          "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+          "source": "TechCrunch AI",
+          "summary": "Zenzap is used by organizations including Starbucks and Taco Bell.",
+          "published_at": "2026-10-14 15:08",
+          "tags": [
+            "AI",
+            "ai chat",
+            "bessemer",
+            "WhatsApp",
+            "workplace communication"
+          ]
+        },
+        {
+          "title": "The AI race is back on",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+          "source": "The Verge AI",
+          "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious contender. Even the latest [&#8230;]",
+          "published_at": "2026-10-14 15:06",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "OpenAI",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+          "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+          "source": "TechCrunch AI",
+          "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
+          "published_at": "2026-10-14 15:00",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "Startups",
+            "AI agents",
+            "Startup Battlefield 200",
+            "TechCrunch Disrupt"
+          ]
+        },
+        {
+          "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+          "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+          "source": "The Verge AI",
+          "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Character.AI's bankruptcy case \"to put all parties on notice of the regulatory issues that [&#8230;]",
+          "published_at": "2026-10-14 14:47",
+          "tags": [
+            "AI",
+            "News",
+            "Policy"
+          ]
+        },
+        {
+          "title": "TechCrunch Disrupt 2026: Day 2",
+          "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
+          "source": "TechCrunch AI",
+          "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass.",
+          "published_at": "2026-10-14 14:30",
+          "tags": [
+            "AI",
+            "Apps",
+            "Biotech & Health",
+            "Climate",
+            "Fintech",
+            "Fundraising",
+            "Gadgets",
+            "Robotics",
+            "Startups",
+            "TC",
+            "Venture",
+            "TechCrunch Disrupt"
+          ]
+        },
+        {
+          "title": "My AI doppelganger tells me what to eat",
+          "url": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
+          "source": "The Verge AI",
+          "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. For the past 100 days or so, my mornings have had a new rhythm. When I wake up, the first [&#8230;]",
+          "published_at": "2026-10-14 13:00",
+          "tags": [
+            "AI",
+            "Column",
+            "Health",
+            "Optimizer",
+            "Science"
+          ]
+        },
+        {
+          "title": "Square’s new kiosk lets you talk to AI for help with your order",
+          "url": "https://www.theverge.com/tech/1009086/square-kiosk",
+          "source": "The Verge AI",
+          "summary": "Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk. Square says the Kiosk, which has a large pill shape, has an \"agentic, conversational voice layer\" that \"fully understands a seller's menu and listens and responds in real [&#8230;]",
+          "published_at": "2026-10-14 12:00",
+          "tags": [
+            "AI",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Android is using AI to suss out scammers in Google Messages",
+          "url": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
+          "source": "The Verge AI",
+          "summary": "Android is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools. Building on the Scam Detection feature in Google Messages, a new \"enhanced protection\" setting will be rolling out in the coming weeks that taps into cloud-based [&#8230;]",
+          "published_at": "2026-10-14 12:00",
+          "tags": [
+            "AI",
+            "Android",
+            "Google",
+            "News",
+            "Security",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+          "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
+          "published_at": "2026-10-14 11:00",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "Startups",
+            "Exclusive",
+            "hitachi",
+            "Scimplify"
+          ]
+        },
+        {
+          "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+          "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+          "source": "TechCrunch AI",
+          "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+          "published_at": "2026-10-13 20:36",
+          "tags": [
+            "AI",
+            "Hardware",
+            "Apple",
+            "lawsuit",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+          "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+          "source": "TechCrunch AI",
+          "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
+          "published_at": "2026-10-13 17:18",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Security",
+            "AI agents",
+            "ai security",
+            "jump capital",
+            "TLV Partners"
+          ]
+        }
+      ]
     }
   ]
 }

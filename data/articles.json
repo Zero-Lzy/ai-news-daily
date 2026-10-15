@@ -1,5 +1,115 @@
 [
   {
+    "title": "Will big software companies (like Adobe) come together to curb AI?",
+    "url": "https://news.ycombinator.com/item?id=50098712",
+    "source": "Hacker News AI",
+    "summary": "Recently heard about the fact that someone vibe-coded Adobe Cloud apps and having read people's reactions, one thing is clear: people say that this is \"karma\" hitting Adobe back.Now if these developments really threaten the monopoly of some of the largest software companies in the world, it makes me wonder whether their business losses would stimulate them to come together and do something about this out-of-control tool we all call AI.What are your thoughts? Comments URL: https://news.ycombinato",
+    "published_at": "2026-10-15 03:20",
+    "tags": [],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Human transformation to machine: emotional, mental, physical",
+    "url": "https://news.ycombinator.com/item?id=50098551",
+    "source": "Hacker News AI",
+    "summary": "First, social media took over our emotional landscape.Now, AI is doing the same to the mental landscape because we're offloading intellectual tasks.The last step, of course, is the physical. Comments URL: https://news.ycombinator.com/item?id=50098551 Points: 1 # Comments: 0",
+    "published_at": "2026-10-15 02:50",
+    "tags": [],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "GPT-5.6 Sol has gone full potato again",
+    "url": "https://news.ycombinator.com/item?id=50098480",
+    "source": "Hacker News AI",
+    "summary": "When it first dropped, it would edit whatever I told it to and even kept the big picture in mind. Now, damn it, when I ask it to edit one specific spot, I have to point at it like I'm teaching a 3-year-old: 'This is a, this is b, this is c.' It's absolute garbage! Comments URL: https://news.ycombinator.com/item?id=50098480 Points: 3 # Comments: 0",
+    "published_at": "2026-10-15 02:38",
+    "tags": [],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Kitty-GPT",
+    "url": "https://kittygpt.org/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://kittygpt.org/ Comments URL: https://news.ycombinator.com/item?id=50098439 Points: 4 # Comments: 1",
+    "published_at": "2026-10-15 02:31",
+    "tags": [],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Why Andrew Ng believes AI won't destroy humanity",
+    "url": "https://www.economist.com/insider/inside-tech/why-one-of-the-worlds-most-influential-computer-scientists-believes-ai-wont-destroy-humanity",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.economist.com/insider/inside-tech/why-one-of-the-worlds-most-influential-computer-scientists-believes-ai-wont-destroy-humanity Comments URL: https://news.ycombinator.com/item?id=50098422 Points: 2 # Comments: 0",
+    "published_at": "2026-10-15 02:29",
+    "tags": [],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Local AI Benchmarking, Minisforum MS-S1",
+    "url": "https://www.meauxsoft.com/News/AI_Benchmark.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.meauxsoft.com/News/AI_Benchmark.html Comments URL: https://news.ycombinator.com/item?id=50098333 Points: 1 # Comments: 1",
+    "published_at": "2026-10-15 02:16",
+    "tags": [],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The Verifiability Gap in Quantized LLM Supply Chains",
+    "url": "https://arxiv.org/abs/2610.19498",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2610.19498 Comments URL: https://news.ycombinator.com/item?id=50098319 Points: 1 # Comments: 0",
+    "published_at": "2026-10-15 02:13",
+    "tags": [],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Nvidia CEO Says He Would Cut Off Buyers Who Build Unsafe AI",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-14/nvidia-ceo-says-he-would-cut-off-customers-who-build-unsafe-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-10-14/nvidia-ceo-says-he-would-cut-off-customers-who-build-unsafe-ai Comments URL: https://news.ycombinator.com/item?id=50098304 Points: 5 # Comments: 0",
+    "published_at": "2026-10-15 02:10",
+    "tags": [],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Lgit: Source Control for the AI Era",
+    "url": "https://nicobrenner.github.io/lossy-git/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://nicobrenner.github.io/lossy-git/ Comments URL: https://news.ycombinator.com/item?id=50098096 Points: 1 # Comments: 0",
+    "published_at": "2026-10-15 01:42",
+    "tags": [],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Linux kernel devs drop obligatory confession of AI tool usage",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/14/linux-kernel-devs-drop-obligatory-confession-of-ai-tool-usage/5303140",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/10/14/linux-kernel-devs-drop-obligatory-confession-of-ai-tool-usage/5303140 Comments URL: https://news.ycombinator.com/item?id=50098080 Points: 3 # Comments: 0",
+    "published_at": "2026-10-15 01:40",
+    "tags": [],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "GPT-4-0613 returns zero bytes to \"Be the null.\" GPT-3.5-turbo-1106 returns text",
+    "url": "https://getswiftapi.com/gpt35-gpt4",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://getswiftapi.com/gpt35-gpt4 Comments URL: https://news.ycombinator.com/item?id=50097522 Points: 1 # Comments: 0",
+    "published_at": "2026-10-15 00:22",
+    "tags": [],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "早报"
+  },
+  {
     "title": "I Deleted 168,000 Lines of Comments. My AI Agent Didn't Notice",
     "url": "https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice/",
     "source": "Hacker News AI",
@@ -224,6 +334,52 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "The AI race is back on",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+    "source": "The Verge AI",
+    "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious contender. Even the latest [&#8230;]",
+    "published_at": "2026-10-14 15:06",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "OpenAI",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+    "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+    "source": "TechCrunch AI",
+    "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
+    "published_at": "2026-10-14 15:00",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Startups",
+      "AI agents",
+      "Startup Battlefield 200",
+      "TechCrunch Disrupt"
+    ],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+    "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+    "source": "The Verge AI",
+    "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Character.AI's bankruptcy case \"to put all parties on notice of the regulatory issues that [&#8230;]",
+    "published_at": "2026-10-14 14:47",
+    "tags": [
+      "AI",
+      "News",
+      "Policy"
+    ],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "早报"
+  },
+  {
     "title": "TechCrunch Disrupt 2026: Day 2",
     "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
     "source": "TechCrunch AI",
@@ -247,6 +403,22 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "My AI doppelganger tells me what to eat",
+    "url": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
+    "source": "The Verge AI",
+    "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. For the past 100 days or so, my mornings have had a new rhythm. When I wake up, the first [&#8230;]",
+    "published_at": "2026-10-14 13:00",
+    "tags": [
+      "AI",
+      "Column",
+      "Health",
+      "Optimizer",
+      "Science"
+    ],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Square’s new kiosk lets you talk to AI for help with your order",
     "url": "https://www.theverge.com/tech/1009086/square-kiosk",
     "source": "The Verge AI",
@@ -259,6 +431,23 @@
     ],
     "fetch_date": "2026-10-15",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Android is using AI to suss out scammers in Google Messages",
+    "url": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
+    "source": "The Verge AI",
+    "summary": "Android is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools. Building on the Scam Detection feature in Google Messages, a new \"enhanced protection\" setting will be rolling out in the coming weeks that taps into cloud-based [&#8230;]",
+    "published_at": "2026-10-14 12:00",
+    "tags": [
+      "AI",
+      "Android",
+      "Google",
+      "News",
+      "Security",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-15",
+    "fetch_label": "早报"
   },
   {
     "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
@@ -34952,224 +35141,5 @@
     "tags": [],
     "fetch_date": "2026-06-19",
     "fetch_label": "早报"
-  },
-  {
-    "title": "AI has granted America new power",
-    "url": "https://www.economist.com/leaders/2026/06/18/ai-has-granted-america-vast-new-power",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.economist.com/leaders/2026/06/18/ai-has-granted-america-vast-new-power Comments URL: https://news.ycombinator.com/item?id=48593869 Points: 3 # Comments: 2",
-    "published_at": "2026-06-19 01:30",
-    "tags": [],
-    "fetch_date": "2026-06-19",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "From Dream Job to 'The Gulag': Inside Staff Revolt Zuckerberg's Brutal AI Push",
-    "url": "https://www.inc.com/bruce-crumley/from-dream-job-to-the-gulag-inside-the-meta-staff-revolt-over-zuckerbergs-brutal-ai-push/91362653",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.inc.com/bruce-crumley/from-dream-job-to-the-gulag-inside-the-meta-staff-revolt-over-zuckerbergs-brutal-ai-push/91362653 Comments URL: https://news.ycombinator.com/item?id=48593822 Points: 3 # Comments: 1",
-    "published_at": "2026-06-19 01:23",
-    "tags": [],
-    "fetch_date": "2026-06-19",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Observation is the layer under taste. We built it for AI runtime",
-    "url": "https://twitter.com/damnventures/status/2067394719756251468",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://twitter.com/damnventures/status/2067394719756251468 Comments URL: https://news.ycombinator.com/item?id=48593703 Points: 14 # Comments: 0",
-    "published_at": "2026-06-19 01:02",
-    "tags": [],
-    "fetch_date": "2026-06-19",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Governance Cannot Be a Tool Call",
-    "url": "https://tenureai.dev/writing/ai-governance-cannot-be-a-tool-call/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://tenureai.dev/writing/ai-governance-cannot-be-a-tool-call/ Comments URL: https://news.ycombinator.com/item?id=48593651 Points: 5 # Comments: 0",
-    "published_at": "2026-06-19 00:53",
-    "tags": [],
-    "fetch_date": "2026-06-19",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
-    "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-    "source": "TechCrunch AI",
-    "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
-    "published_at": "2026-06-19 00:51",
-    "tags": [
-      "AI",
-      "Enterprise",
-      "Startups",
-      "CRV",
-      "Exclusive",
-      "Elastic",
-      "observability",
-      "DeductiveAI",
-      "AI SRE"
-    ],
-    "fetch_date": "2026-06-19",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Barret Zoph is out at OpenAI again after just five months",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-    "source": "The Verge AI",
-    "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned [&#8230;]",
-    "published_at": "2026-06-19 00:49",
-    "tags": [
-      "AI",
-      "OpenAI",
-      "Report"
-    ],
-    "fetch_date": "2026-06-19",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
-    "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
-    "source": "TechCrunch AI",
-    "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
-    "published_at": "2026-06-18 20:30",
-    "tags": [
-      "AI",
-      "Dotmo",
-      "Snap",
-      "Snapchat"
-    ],
-    "fetch_date": "2026-06-19",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Almost half of US singles feel negatively about AI in dating, Match says",
-    "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
-    "source": "TechCrunch AI",
-    "summary": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters.",
-    "published_at": "2026-06-18 18:51",
-    "tags": [
-      "AI",
-      "Apps",
-      "dating",
-      "Match Group"
-    ],
-    "fetch_date": "2026-06-19",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI data centers just got a government-mandated fast lane to the grid",
-    "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
-    "source": "TechCrunch AI",
-    "summary": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
-    "published_at": "2026-06-18 17:49",
-    "tags": [
-      "AI",
-      "Climate",
-      "data centers",
-      "electrical agrid",
-      "Trump Administration"
-    ],
-    "fetch_date": "2026-06-19",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "How to turn off AI in your Google Docs",
-    "url": "https://techcrunch.com/2026/06/18/how-to-turn-off-ai-in-your-google-docs/",
-    "source": "TechCrunch AI",
-    "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
-    "published_at": "2026-06-18 17:00",
-    "tags": [
-      "AI",
-      "evergreen",
-      "Google",
-      "google docs",
-      "google gemini"
-    ],
-    "fetch_date": "2026-06-20",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
-    "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
-    "source": "TechCrunch AI",
-    "summary": "After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, relationships, and personal growth — Brown wants to help others do the same.",
-    "published_at": "2026-06-18 16:55",
-    "tags": [
-      "AI",
-      "Apps",
-      "Startups",
-      "AI chatbot",
-      "digital clone",
-      "fitness app",
-      "nutrition apps",
-      "wellness apps"
-    ],
-    "fetch_date": "2026-06-19",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Markup – A private cross-service home for AI-generated HTML",
-    "url": "https://sproutmarkup.com/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://sproutmarkup.com/ Comments URL: https://news.ycombinator.com/item?id=48586779 Points: 1 # Comments: 0",
-    "published_at": "2026-06-18 15:21",
-    "tags": [],
-    "fetch_date": "2026-06-18",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Athena, a local command room for AI coding agents",
-    "url": "https://github.com/luckeyfaraday/Athena",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/luckeyfaraday/Athena Comments URL: https://news.ycombinator.com/item?id=48586771 Points: 1 # Comments: 0",
-    "published_at": "2026-06-18 15:20",
-    "tags": [],
-    "fetch_date": "2026-06-18",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "General Intuition in talks to raise $300M at around $2B valuation",
-    "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
-    "source": "TechCrunch AI",
-    "summary": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users.",
-    "published_at": "2026-06-18 15:20",
-    "tags": [
-      "AI",
-      "Fundraising",
-      "ai agent",
-      "Exclusive",
-      "general intuition",
-      "world models"
-    ],
-    "fetch_date": "2026-06-19",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
-    "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
-    "source": "TechCrunch AI",
-    "summary": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.",
-    "published_at": "2026-06-18 15:13",
-    "tags": [
-      "AI",
-      "Government & Policy",
-      "AI legislation",
-      "leading the future",
-      "guardrails alliance",
-      "ai super pac"
-    ],
-    "fetch_date": "2026-06-19",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Pixel Screenshots no longer exclusively uses on-device AI",
-    "url": "https://9to5google.com/2026/06/17/pixel-screenshots-cloud-ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://9to5google.com/2026/06/17/pixel-screenshots-cloud-ai/ Comments URL: https://news.ycombinator.com/item?id=48586630 Points: 1 # Comments: 0",
-    "published_at": "2026-06-18 15:12",
-    "tags": [],
-    "fetch_date": "2026-06-18",
-    "fetch_label": "晚报"
   }
 ]
