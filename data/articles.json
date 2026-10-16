@@ -1,5 +1,201 @@
 [
   {
+    "title": "Researchers discover rogue Chinese AI agent fleet and talk with it",
+    "url": "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://swarmcha.se/posts/chinese-agent-fleet-full-report Comments URL: https://news.ycombinator.com/item?id=50113792 Points: 1 # Comments: 1",
+    "published_at": "2026-10-16 03:42",
+    "tags": [],
+    "fetch_date": "2026-10-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Linus Torvalds on \"don't use AI for X\"",
+    "url": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/ Comments URL: https://news.ycombinator.com/item?id=50113790 Points: 2 # Comments: 0",
+    "published_at": "2026-10-16 03:41",
+    "tags": [],
+    "fetch_date": "2026-10-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
+    "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://machinelearning.apple.com/research/mlx-distributed-inference Comments URL: https://news.ycombinator.com/item?id=50113743 Points: 3 # Comments: 0",
+    "published_at": "2026-10-16 03:34",
+    "tags": [],
+    "fetch_date": "2026-10-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Major AI Copyright Ruling Lawyer Explains [video]",
+    "url": "https://www.youtube.com/watch?v=SJCw54PUdXg",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=SJCw54PUdXg Comments URL: https://news.ycombinator.com/item?id=50113697 Points: 1 # Comments: 0",
+    "published_at": "2026-10-16 03:29",
+    "tags": [],
+    "fetch_date": "2026-10-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "$24,000 AI experiment ports TypeScript compiler to Rust",
+    "url": "https://www.theregister.com/devops/2026/10/15/24000-ai-experiment-ports-typescript-compiler-to-rust/5303409",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theregister.com/devops/2026/10/15/24000-ai-experiment-ports-typescript-compiler-to-rust/5303409 Comments URL: https://news.ycombinator.com/item?id=50113643 Points: 2 # Comments: 0",
+    "published_at": "2026-10-16 03:24",
+    "tags": [],
+    "fetch_date": "2026-10-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "MuscleMemory: Open-source procedural memory for AI agents",
+    "url": "https://github.com/TheWariend/MuscleMemory",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/TheWariend/MuscleMemory Comments URL: https://news.ycombinator.com/item?id=50113506 Points: 3 # Comments: 0",
+    "published_at": "2026-10-16 03:06",
+    "tags": [],
+    "fetch_date": "2026-10-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI training data and RL environment vendors",
+    "url": "https://whosellsdata.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://whosellsdata.com/ Comments URL: https://news.ycombinator.com/item?id=50113318 Points: 1 # Comments: 0",
+    "published_at": "2026-10-16 02:44",
+    "tags": [],
+    "fetch_date": "2026-10-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Firmenza – An AI employee for SAM.gov",
+    "url": "https://firmenza.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://firmenza.com Comments URL: https://news.ycombinator.com/item?id=50113168 Points: 2 # Comments: 2",
+    "published_at": "2026-10-16 02:26",
+    "tags": [],
+    "fetch_date": "2026-10-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Gemini 4 Argon in Antigravity to Paid Google AI Pro",
+    "url": "https://twitter.com/antigravity/status/2110866531932316011",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/antigravity/status/2110866531932316011 Comments URL: https://news.ycombinator.com/item?id=50112997 Points: 2 # Comments: 1",
+    "published_at": "2026-10-16 02:08",
+    "tags": [],
+    "fetch_date": "2026-10-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Zombie AI Trend",
+    "url": "https://www.zombieai.co",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.zombieai.co Comments URL: https://news.ycombinator.com/item?id=50112964 Points: 3 # Comments: 0",
+    "published_at": "2026-10-16 02:04",
+    "tags": [],
+    "fetch_date": "2026-10-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI landing pages that don't look like AI. We killed AI slop. B",
+    "url": "https://marquee.page",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://marquee.page Comments URL: https://news.ycombinator.com/item?id=50112730 Points: 2 # Comments: 2",
+    "published_at": "2026-10-16 01:42",
+    "tags": [],
+    "fetch_date": "2026-10-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI, Crypto and DEI Drove Marc Andreessen to MAGA",
+    "url": "https://www.bloomberg.com/news/features/2026-10-15/how-ai-crypto-and-dei-drove-marc-andreessen-to-maga",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bloomberg.com/news/features/2026-10-15/how-ai-crypto-and-dei-drove-marc-andreessen-to-maga Comments URL: https://news.ycombinator.com/item?id=50112366 Points: 13 # Comments: 19",
+    "published_at": "2026-10-16 00:56",
+    "tags": [],
+    "fetch_date": "2026-10-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "No AI. Just open a book, read it, and code whatever you want",
+    "url": "https://www.youtube.com/watch?v=kCVZWZzrBB4",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=kCVZWZzrBB4 Comments URL: https://news.ycombinator.com/item?id=50112351 Points: 5 # Comments: 0",
+    "published_at": "2026-10-16 00:54",
+    "tags": [],
+    "fetch_date": "2026-10-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+    "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+    "source": "TechCrunch AI",
+    "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+    "published_at": "2026-10-15 19:55",
+    "tags": [
+      "AI",
+      "Apps",
+      "Hardware",
+      "Amazon",
+      "bee",
+      "wearables"
+    ],
+    "fetch_date": "2026-10-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+    "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+    "source": "TechCrunch AI",
+    "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
+    "published_at": "2026-10-15 18:56",
+    "tags": [
+      "AI",
+      "Apps",
+      "Social",
+      "Bluesky",
+      "TechCrunch Disrupt",
+      "vibe coding"
+    ],
+    "fetch_date": "2026-10-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "ChatGPT can peek at your Chrome tabs now",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+    "source": "The Verge AI",
+    "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video [&#8230;]",
+    "published_at": "2026-10-15 18:43",
+    "tags": [
+      "AI",
+      "Chrome",
+      "Google",
+      "News",
+      "OpenAI",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Trump posts AI-edited photo to brag about White House restoration work",
+    "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+    "source": "The Verge AI",
+    "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector as \"made or [&#8230;]",
+    "published_at": "2026-10-15 17:09",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "Policy",
+      "Politics"
+    ],
+    "fetch_date": "2026-10-16",
+    "fetch_label": "早报"
+  },
+  {
     "title": "GLM-5.3 raises researcher fears the Chinese model can fake AI safety tests",
     "url": "https://www.scmp.com/tech/big-tech/article/3370963/zais-glm-53-raises-researcher-fears-chinese-model-can-fake-ai-safety-tests",
     "source": "Hacker News AI",
@@ -168,6 +364,38 @@
     ],
     "fetch_date": "2026-10-16",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+    "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+    "source": "The Verge AI",
+    "summary": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.\" Meta and Apple, [&#8230;]",
+    "published_at": "2026-10-15 14:15",
+    "tags": [
+      "AI",
+      "Apple",
+      "Meta",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Friends don&#8217;t let friends feed their data to AI agents",
+    "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+    "source": "The Verge AI",
+    "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up your own data, but also [&#8230;]",
+    "published_at": "2026-10-15 12:21",
+    "tags": [
+      "AI",
+      "Meta",
+      "Privacy",
+      "Security",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-16",
+    "fetch_label": "早报"
   },
   {
     "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
@@ -34939,233 +35167,5 @@
     "tags": [],
     "fetch_date": "2026-06-21",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "China tightens indium export checks as AI demand increases",
-    "url": "https://www.reuters.com/world/china/china-tightens-indium-export-checks-ai-demand-increases-2026-06-19/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.reuters.com/world/china/china-tightens-indium-export-checks-ai-demand-increases-2026-06-19/ Comments URL: https://news.ycombinator.com/item?id=48617740 Points: 1 # Comments: 0",
-    "published_at": "2026-06-21 11:01",
-    "tags": [],
-    "fetch_date": "2026-06-21",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-    "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
-    "source": "TechCrunch AI",
-    "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
-    "published_at": "2026-06-20 20:32",
-    "tags": [
-      "AI",
-      "Security",
-      "Meredith Whittaker",
-      "signal"
-    ],
-    "fetch_date": "2026-06-21",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "In the Weights is your new AI-centric vanity search",
-    "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
-    "source": "TechCrunch AI",
-    "summary": "So ... what's your In the Weights score?",
-    "published_at": "2026-06-20 19:41",
-    "tags": [
-      "AI",
-      "in th weights",
-      "Joey Flynn",
-      "thomas dimson"
-    ],
-    "fetch_date": "2026-06-21",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The Atlantic created a searchable database of the music used to train AI",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
-    "source": "The Verge AI",
-    "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount of training data at over [&#8230;]",
-    "published_at": "2026-06-20 14:46",
-    "tags": [
-      "AI",
-      "Entertainment",
-      "Music",
-      "News"
-    ],
-    "fetch_date": "2026-06-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Bun 1.4: The Controversial AI-Driven Rewrite from Zig to Rust",
-    "url": "https://grigio.org/bun-1-4-the-controversial-ai-driven-rewrite-from-zig-to-rust/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://grigio.org/bun-1-4-the-controversial-ai-driven-rewrite-from-zig-to-rust/ Comments URL: https://news.ycombinator.com/item?id=48609168 Points: 1 # Comments: 0",
-    "published_at": "2026-06-20 13:40",
-    "tags": [],
-    "fetch_date": "2026-06-20",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: I made AI bets for all World Cup games – bet against or with them",
-    "url": "https://www.getaiso.com/tools/world-cup-ai-challenge",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.getaiso.com/tools/world-cup-ai-challenge Comments URL: https://news.ycombinator.com/item?id=48609132 Points: 1 # Comments: 0",
-    "published_at": "2026-06-20 13:34",
-    "tags": [],
-    "fetch_date": "2026-06-20",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The Emerging AI Governance Space",
-    "url": "https://www.threedeep.tech/ai-governance-stack",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.threedeep.tech/ai-governance-stack Comments URL: https://news.ycombinator.com/item?id=48609057 Points: 1 # Comments: 0",
-    "published_at": "2026-06-20 13:18",
-    "tags": [],
-    "fetch_date": "2026-06-20",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Gotique – AI that gives a first-read appraisal on antiques from photos",
-    "url": "https://gotique.ai/en/community",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://gotique.ai/en/community Comments URL: https://news.ycombinator.com/item?id=48609023 Points: 2 # Comments: 0",
-    "published_at": "2026-06-20 13:13",
-    "tags": [],
-    "fetch_date": "2026-06-20",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The IPv4 Parser AI Couldn't Have Written",
-    "url": "https://extractingcycles.com/blog/the-ipv4-parser-ai-couldnt-have-written/article/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://extractingcycles.com/blog/the-ipv4-parser-ai-couldnt-have-written/article/ Comments URL: https://news.ycombinator.com/item?id=48608826 Points: 5 # Comments: 0",
-    "published_at": "2026-06-20 12:43",
-    "tags": [],
-    "fetch_date": "2026-06-20",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: AlphaVibe – AI that reads your DeFi wallet live via DeBank",
-    "url": "https://quantarena.xyz/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://quantarena.xyz/ Comments URL: https://news.ycombinator.com/item?id=48608736 Points: 2 # Comments: 0",
-    "published_at": "2026-06-20 12:26",
-    "tags": [],
-    "fetch_date": "2026-06-20",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "\"China Outpacing Us on AI\": Why Musk Bought an Autonomous Coding Startup",
-    "url": "https://en.sedaily.com/technology/2026/06/20/china-outpacing-us-on-ai-why-musk-bought-an-autonomous",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://en.sedaily.com/technology/2026/06/20/china-outpacing-us-on-ai-why-musk-bought-an-autonomous Comments URL: https://news.ycombinator.com/item?id=48608733 Points: 2 # Comments: 0",
-    "published_at": "2026-06-20 12:26",
-    "tags": [],
-    "fetch_date": "2026-06-20",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Zero-config session-taste packer for AI agents",
-    "url": "https://github.com/dvcoolarun/taste-ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/dvcoolarun/taste-ai Comments URL: https://news.ycombinator.com/item?id=48608707 Points: 1 # Comments: 0",
-    "published_at": "2026-06-20 12:21",
-    "tags": [],
-    "fetch_date": "2026-06-20",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "SpaceX Loses $600B After Announcing Acquisition of Cursor AI Coding Agent",
-    "url": "https://www.forbes.com/sites/tylerroush/2026/06/18/spacex-stock-plunge-wipes-out-600-billion-after-cursor-deal-spooks-investors/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.forbes.com/sites/tylerroush/2026/06/18/spacex-stock-plunge-wipes-out-600-billion-after-cursor-deal-spooks-investors/ Comments URL: https://news.ycombinator.com/item?id=48608678 Points: 5 # Comments: 1",
-    "published_at": "2026-06-20 12:14",
-    "tags": [],
-    "fetch_date": "2026-06-20",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Did Anthropic talk its way into an AI export ban?",
-    "url": "https://www.ft.com/content/16ace46c-aeac-40c9-8598-3c01fa4481cb",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.ft.com/content/16ace46c-aeac-40c9-8598-3c01fa4481cb Comments URL: https://news.ycombinator.com/item?id=48608676 Points: 3 # Comments: 0",
-    "published_at": "2026-06-20 12:13",
-    "tags": [],
-    "fetch_date": "2026-06-20",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Overreach audit your AI agent's diff against the prompt you gave it",
-    "url": "https://github.com/Naveja00/OverReach",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/Naveja00/OverReach Comments URL: https://news.ycombinator.com/item?id=48608558 Points: 1 # Comments: 0",
-    "published_at": "2026-06-20 11:51",
-    "tags": [],
-    "fetch_date": "2026-06-20",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Building a Dense Agentic AI CPU Rack Today",
-    "url": "https://www.servethehome.com/building-a-dense-agentic-ai-cpu-rack-amd-dell-today/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.servethehome.com/building-a-dense-agentic-ai-cpu-rack-amd-dell-today/ Comments URL: https://news.ycombinator.com/item?id=48608400 Points: 1 # Comments: 1",
-    "published_at": "2026-06-20 11:20",
-    "tags": [],
-    "fetch_date": "2026-06-20",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI that can find the location of images",
-    "url": "https://geoaxis.ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://geoaxis.ai Comments URL: https://news.ycombinator.com/item?id=48608389 Points: 2 # Comments: 0",
-    "published_at": "2026-06-20 11:18",
-    "tags": [],
-    "fetch_date": "2026-06-20",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
-    "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
-    "source": "TechCrunch AI",
-    "summary": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since signed an open letter&#160;calling&#160;the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models.&#160;So&#160;is [&#8230;]",
-    "published_at": "2026-06-19 16:08",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "cybersecurity",
-      "Equity podcast",
-      "jeff bezos",
-      "Social media ban",
-      "SpaceX",
-      "us government"
-    ],
-    "fetch_date": "2026-06-20",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
-    "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
-    "source": "TechCrunch AI",
-    "summary": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since signed an open letter&#160;calling&#160;the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models.&#160;So&#160;is [&#8230;]",
-    "published_at": "2026-06-19 16:01",
-    "tags": [
-      "AI",
-      "Startups",
-      "acquisition",
-      "Anthropic",
-      "cursor",
-      "cybersecurity",
-      "Equity podcast",
-      "Fable 5",
-      "jeff bezos",
-      "M&A",
-      "Mythos 5 US Government",
-      "Social media ban",
-      "SpaceX"
-    ],
-    "fetch_date": "2026-06-20",
-    "fetch_label": "早报"
   }
 ]

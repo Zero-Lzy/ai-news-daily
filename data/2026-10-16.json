@@ -262,6 +262,285 @@
           ]
         }
       ]
+    },
+    {
+      "label": "早报",
+      "time": "2026-10-16 11:46:01",
+      "count": 24,
+      "articles": [
+        {
+          "title": "Researchers discover rogue Chinese AI agent fleet and talk with it",
+          "url": "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://swarmcha.se/posts/chinese-agent-fleet-full-report Comments URL: https://news.ycombinator.com/item?id=50113792 Points: 1 # Comments: 1",
+          "published_at": "2026-10-16 03:42",
+          "tags": []
+        },
+        {
+          "title": "Linus Torvalds on \"don't use AI for X\"",
+          "url": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/ Comments URL: https://news.ycombinator.com/item?id=50113790 Points: 2 # Comments: 0",
+          "published_at": "2026-10-16 03:41",
+          "tags": []
+        },
+        {
+          "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
+          "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://machinelearning.apple.com/research/mlx-distributed-inference Comments URL: https://news.ycombinator.com/item?id=50113743 Points: 3 # Comments: 0",
+          "published_at": "2026-10-16 03:34",
+          "tags": []
+        },
+        {
+          "title": "Major AI Copyright Ruling Lawyer Explains [video]",
+          "url": "https://www.youtube.com/watch?v=SJCw54PUdXg",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=SJCw54PUdXg Comments URL: https://news.ycombinator.com/item?id=50113697 Points: 1 # Comments: 0",
+          "published_at": "2026-10-16 03:29",
+          "tags": []
+        },
+        {
+          "title": "$24,000 AI experiment ports TypeScript compiler to Rust",
+          "url": "https://www.theregister.com/devops/2026/10/15/24000-ai-experiment-ports-typescript-compiler-to-rust/5303409",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theregister.com/devops/2026/10/15/24000-ai-experiment-ports-typescript-compiler-to-rust/5303409 Comments URL: https://news.ycombinator.com/item?id=50113643 Points: 2 # Comments: 0",
+          "published_at": "2026-10-16 03:24",
+          "tags": []
+        },
+        {
+          "title": "MuscleMemory: Open-source procedural memory for AI agents",
+          "url": "https://github.com/TheWariend/MuscleMemory",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/TheWariend/MuscleMemory Comments URL: https://news.ycombinator.com/item?id=50113506 Points: 3 # Comments: 0",
+          "published_at": "2026-10-16 03:06",
+          "tags": []
+        },
+        {
+          "title": "AI training data and RL environment vendors",
+          "url": "https://whosellsdata.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://whosellsdata.com/ Comments URL: https://news.ycombinator.com/item?id=50113318 Points: 1 # Comments: 0",
+          "published_at": "2026-10-16 02:44",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Firmenza – An AI employee for SAM.gov",
+          "url": "https://firmenza.com",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://firmenza.com Comments URL: https://news.ycombinator.com/item?id=50113168 Points: 2 # Comments: 2",
+          "published_at": "2026-10-16 02:26",
+          "tags": []
+        },
+        {
+          "title": "Gemini 4 Argon in Antigravity to Paid Google AI Pro",
+          "url": "https://twitter.com/antigravity/status/2110866531932316011",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://twitter.com/antigravity/status/2110866531932316011 Comments URL: https://news.ycombinator.com/item?id=50112997 Points: 2 # Comments: 1",
+          "published_at": "2026-10-16 02:08",
+          "tags": []
+        },
+        {
+          "title": "Zombie AI Trend",
+          "url": "https://www.zombieai.co",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.zombieai.co Comments URL: https://news.ycombinator.com/item?id=50112964 Points: 3 # Comments: 0",
+          "published_at": "2026-10-16 02:04",
+          "tags": []
+        },
+        {
+          "title": "AI landing pages that don't look like AI. We killed AI slop. B",
+          "url": "https://marquee.page",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://marquee.page Comments URL: https://news.ycombinator.com/item?id=50112730 Points: 2 # Comments: 2",
+          "published_at": "2026-10-16 01:42",
+          "tags": []
+        },
+        {
+          "title": "AI, Crypto and DEI Drove Marc Andreessen to MAGA",
+          "url": "https://www.bloomberg.com/news/features/2026-10-15/how-ai-crypto-and-dei-drove-marc-andreessen-to-maga",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bloomberg.com/news/features/2026-10-15/how-ai-crypto-and-dei-drove-marc-andreessen-to-maga Comments URL: https://news.ycombinator.com/item?id=50112366 Points: 13 # Comments: 19",
+          "published_at": "2026-10-16 00:56",
+          "tags": []
+        },
+        {
+          "title": "No AI. Just open a book, read it, and code whatever you want",
+          "url": "https://www.youtube.com/watch?v=kCVZWZzrBB4",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=kCVZWZzrBB4 Comments URL: https://news.ycombinator.com/item?id=50112351 Points: 5 # Comments: 0",
+          "published_at": "2026-10-16 00:54",
+          "tags": []
+        },
+        {
+          "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+          "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+          "source": "TechCrunch AI",
+          "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+          "published_at": "2026-10-15 19:55",
+          "tags": [
+            "AI",
+            "Apps",
+            "Hardware",
+            "Amazon",
+            "bee",
+            "wearables"
+          ]
+        },
+        {
+          "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+          "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+          "source": "TechCrunch AI",
+          "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
+          "published_at": "2026-10-15 18:56",
+          "tags": [
+            "AI",
+            "Apps",
+            "Social",
+            "Bluesky",
+            "TechCrunch Disrupt",
+            "vibe coding"
+          ]
+        },
+        {
+          "title": "ChatGPT can peek at your Chrome tabs now",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+          "source": "The Verge AI",
+          "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video [&#8230;]",
+          "published_at": "2026-10-15 18:43",
+          "tags": [
+            "AI",
+            "Chrome",
+            "Google",
+            "News",
+            "OpenAI",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Trump posts AI-edited photo to brag about White House restoration work",
+          "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+          "source": "The Verge AI",
+          "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector as \"made or [&#8230;]",
+          "published_at": "2026-10-15 17:09",
+          "tags": [
+            "AI",
+            "OpenAI",
+            "Policy",
+            "Politics"
+          ]
+        },
+        {
+          "title": "AI agents are coming to Rivian’s cars",
+          "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+          "source": "TechCrunch AI",
+          "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI &#038; Autonomy Day\" event in December.",
+          "published_at": "2026-10-15 15:02",
+          "tags": [
+            "Transportation",
+            "AI",
+            "electric vehicles",
+            "EVs",
+            "TechCrunch Disrupt",
+            "Rivian",
+            "RJ Scaringe",
+            "LLMs",
+            "agentic ai"
+          ]
+        },
+        {
+          "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+          "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+          "source": "The Verge AI",
+          "summary": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.\" Meta and Apple, [&#8230;]",
+          "published_at": "2026-10-15 14:15",
+          "tags": [
+            "AI",
+            "Apple",
+            "Meta",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Friends don&#8217;t let friends feed their data to AI agents",
+          "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+          "source": "The Verge AI",
+          "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up your own data, but also [&#8230;]",
+          "published_at": "2026-10-15 12:21",
+          "tags": [
+            "AI",
+            "Meta",
+            "Privacy",
+            "Security",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+          "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
+          "published_at": "2026-10-15 12:00",
+          "tags": [
+            "AI",
+            "Gadgets",
+            "Hardware",
+            "Alexa",
+            "Amazon",
+            "bee",
+            "wearables"
+          ]
+        },
+        {
+          "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
+          "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+          "source": "TechCrunch AI",
+          "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
+          "published_at": "2026-10-14 15:13",
+          "tags": [
+            "AI",
+            "Apps",
+            "Biotech & Health",
+            "Crypto",
+            "Fintech",
+            "Media & Entertainment",
+            "Robotics",
+            "Startups",
+            "Venture",
+            "TechCrunch Disrupt"
+          ]
+        },
+        {
+          "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+          "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+          "source": "TechCrunch AI",
+          "summary": "Zenzap is used by organizations including Starbucks and Taco Bell.",
+          "published_at": "2026-10-14 15:08",
+          "tags": [
+            "AI",
+            "ai chat",
+            "bessemer",
+            "WhatsApp",
+            "workplace communication"
+          ]
+        },
+        {
+          "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+          "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+          "source": "TechCrunch AI",
+          "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
+          "published_at": "2026-10-14 15:00",
+          "tags": [
+            "AI",
+            "Enterprise",
+            "Startups",
+            "AI agents",
+            "Startup Battlefield 200",
+            "TechCrunch Disrupt"
+          ]
+        }
+      ]
     }
   ]
 }
