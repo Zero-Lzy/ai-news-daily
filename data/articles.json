@@ -1,5 +1,88 @@
 [
   {
+    "title": "Elorian’s first AI model wants to reason with images, not just about them",
+    "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+    "source": "TechCrunch AI",
+    "summary": "according to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+    "published_at": "2026-10-16 16:01",
+    "tags": [
+      "AI",
+      "TC"
+    ],
+    "fetch_date": "2026-10-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Jev is Vercel’s fastest-adopted AI model ever",
+    "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+    "source": "TechCrunch AI",
+    "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+    "published_at": "2026-10-16 15:33",
+    "tags": [
+      "AI",
+      "Vercel"
+    ],
+    "fetch_date": "2026-10-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+    "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+    "source": "TechCrunch AI",
+    "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+    "published_at": "2026-10-16 14:26",
+    "tags": [
+      "AI",
+      "Media & Entertainment",
+      "TechCrunch Disrupt",
+      "filmmaking"
+    ],
+    "fetch_date": "2026-10-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+    "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+    "source": "The Verge AI",
+    "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia [&#8230;]",
+    "published_at": "2026-10-16 11:00",
+    "tags": [
+      "AI",
+      "Asus",
+      "Gadgets",
+      "Gaming",
+      "Hands-on",
+      "HP",
+      "Laptop Reviews",
+      "Laptops",
+      "Lenovo",
+      "Microsoft",
+      "Nvidia",
+      "PC Gaming",
+      "Reviews",
+      "Tech",
+      "Windows"
+    ],
+    "fetch_date": "2026-10-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Meta’s new terms may allow it to train AI on news sites for free",
+    "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+    "source": "The Verge AI",
+    "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" [&#8230;]",
+    "published_at": "2026-10-16 10:02",
+    "tags": [
+      "AI",
+      "Meta",
+      "News",
+      "Policy",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-17",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Researchers discover rogue Chinese AI agent fleet and talk with it",
     "url": "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
     "source": "Hacker News AI",
@@ -363,6 +446,25 @@
       "agentic ai"
     ],
     "fetch_date": "2026-10-16",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Google’s Universal Cart shopping tool launches in the US",
+    "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+    "source": "TechCrunch AI",
+    "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+    "published_at": "2026-10-15 14:29",
+    "tags": [
+      "AI",
+      "Apps",
+      "Commerce",
+      "e-commerce",
+      "gemini",
+      "Google",
+      "online shopping",
+      "shopping carts"
+    ],
+    "fetch_date": "2026-10-17",
     "fetch_label": "晚报"
   },
   {
@@ -35104,66 +35206,6 @@
     "source": "Hacker News AI",
     "summary": "Article URL: https://fivetakes.news/workers-are-emerging-as-the-next-big-ai-logjam Comments URL: https://news.ycombinator.com/item?id=48618600 Points: 2 # Comments: 1",
     "published_at": "2026-06-21 13:01",
-    "tags": [],
-    "fetch_date": "2026-06-21",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Made Me Braver",
-    "url": "https://neilkakkar.com/ai-made-me-braver.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://neilkakkar.com/ai-made-me-braver.html Comments URL: https://news.ycombinator.com/item?id=48618333 Points: 1 # Comments: 0",
-    "published_at": "2026-06-21 12:26",
-    "tags": [],
-    "fetch_date": "2026-06-21",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Tokoscope – Automatic LLM token compression and cost monitoring in 2 lines",
-    "url": "https://tokoscope.com",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://tokoscope.com Comments URL: https://news.ycombinator.com/item?id=48618323 Points: 1 # Comments: 0",
-    "published_at": "2026-06-21 12:25",
-    "tags": [],
-    "fetch_date": "2026-06-21",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: An AI video prompt cookbook for image-to-video workflows",
-    "url": "https://github.com/yasuomang/ai-video-prompt-cookbook",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/yasuomang/ai-video-prompt-cookbook Comments URL: https://news.ycombinator.com/item?id=48618111 Points: 1 # Comments: 0",
-    "published_at": "2026-06-21 11:53",
-    "tags": [],
-    "fetch_date": "2026-06-21",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Local LLM Hardware Calculator",
-    "url": "https://vettedconsumer.com/can-i-run-it/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://vettedconsumer.com/can-i-run-it/ Comments URL: https://news.ycombinator.com/item?id=48618065 Points: 1 # Comments: 0",
-    "published_at": "2026-06-21 11:47",
-    "tags": [],
-    "fetch_date": "2026-06-21",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Warfare Is at the Point of No Return",
-    "url": "https://www.wsj.com/world/ai-warfare-ukraine-russia-anthropic-29945df9",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.wsj.com/world/ai-warfare-ukraine-russia-anthropic-29945df9 Comments URL: https://news.ycombinator.com/item?id=48617952 Points: 1 # Comments: 1",
-    "published_at": "2026-06-21 11:32",
-    "tags": [],
-    "fetch_date": "2026-06-21",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "I Created a Minimalist Universal Language for AI",
-    "url": "https://github.com/caihongfairys/QMP-Dynamic-Anchors",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/caihongfairys/QMP-Dynamic-Anchors Comments URL: https://news.ycombinator.com/item?id=48617894 Points: 2 # Comments: 0",
-    "published_at": "2026-06-21 11:22",
     "tags": [],
     "fetch_date": "2026-06-21",
     "fetch_label": "晚报"
