@@ -399,6 +399,170 @@
           ]
         }
       ]
+    },
+    {
+      "label": "晚报",
+      "time": "2026-10-17 23:06:08",
+      "count": 16,
+      "articles": [
+        {
+          "title": "Decompilations, AI, and the Chase for Clout",
+          "url": "https://jpeisach.github.io/blog/ai/legoisland/decompilation/porting/reverse-engineering/2026/10/16/decomps-clout-consoom.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://jpeisach.github.io/blog/ai/legoisland/decompilation/porting/reverse-engineering/2026/10/16/decomps-clout-consoom.html Comments URL: https://news.ycombinator.com/item?id=50131680 Points: 2 # Comments: 0",
+          "published_at": "2026-10-17 14:53",
+          "tags": []
+        },
+        {
+          "title": "Proactive AI for Superintelligent Agents",
+          "url": "https://research.google/pubs/proactive-ai-for-superintelligent-agents/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://research.google/pubs/proactive-ai-for-superintelligent-agents/ Comments URL: https://news.ycombinator.com/item?id=50131631 Points: 2 # Comments: 1",
+          "published_at": "2026-10-17 14:44",
+          "tags": []
+        },
+        {
+          "title": "The AI Paradox",
+          "url": "https://www.youtube.com/watch?v=dcolM6W5Odc",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=dcolM6W5Odc Comments URL: https://news.ycombinator.com/item?id=50131560 Points: 1 # Comments: 0",
+          "published_at": "2026-10-17 14:35",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: How are you all ensuring your AI code isn't slop?",
+          "url": "https://github.com/trypando/pando",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/trypando/pando Comments URL: https://news.ycombinator.com/item?id=50131518 Points: 1 # Comments: 1",
+          "published_at": "2026-10-17 14:29",
+          "tags": []
+        },
+        {
+          "title": "\"thegentlemanpervert\" producing AI CSAM is a NJ prosecutor, say cops",
+          "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/ Comments URL: https://news.ycombinator.com/item?id=50131331 Points: 4 # Comments: 0",
+          "published_at": "2026-10-17 14:10",
+          "tags": []
+        },
+        {
+          "title": "Are You Sure Your LLM Is Sure?",
+          "url": "https://arxiv.org/abs/2610.22139",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2610.22139 Comments URL: https://news.ycombinator.com/item?id=50131085 Points: 2 # Comments: 1",
+          "published_at": "2026-10-17 13:39",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Vramkit – lossless VRAM compression for LLM inference, on a MacBook",
+          "url": "https://github.com/SRKRZ23/vramkit",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/SRKRZ23/vramkit Comments URL: https://news.ycombinator.com/item?id=50131035 Points: 1 # Comments: 0",
+          "published_at": "2026-10-17 13:32",
+          "tags": []
+        },
+        {
+          "title": "FDE-Gym: The Last Mile of AI Delivery",
+          "url": "https://arxiv.org/abs/2610.22350",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2610.22350 Comments URL: https://news.ycombinator.com/item?id=50131027 Points: 1 # Comments: 0",
+          "published_at": "2026-10-17 13:31",
+          "tags": []
+        },
+        {
+          "title": "Rescue AI models with one click",
+          "url": "https://pirateface.co/rescue",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://pirateface.co/rescue Comments URL: https://news.ycombinator.com/item?id=50130865 Points: 1 # Comments: 0",
+          "published_at": "2026-10-17 13:11",
+          "tags": []
+        },
+        {
+          "title": "AI Edge Foresight",
+          "url": "https://developers.google.com/edge/foresight",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://developers.google.com/edge/foresight Comments URL: https://news.ycombinator.com/item?id=50130847 Points: 2 # Comments: 0",
+          "published_at": "2026-10-17 13:08",
+          "tags": []
+        },
+        {
+          "title": "The AI Expectations Gap",
+          "url": "https://www.anthropic.com/research/ai-expectations-gap",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.anthropic.com/research/ai-expectations-gap Comments URL: https://news.ycombinator.com/item?id=50129987 Points: 2 # Comments: 0",
+          "published_at": "2026-10-17 11:06",
+          "tags": []
+        },
+        {
+          "title": "Websites are closing their doors to AI agents",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+          "source": "The Verge AI",
+          "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, [&#8230;]",
+          "published_at": "2026-10-17 09:00",
+          "tags": [
+            "AI",
+            "Meta",
+            "OpenAI",
+            "Report",
+            "Tech"
+          ]
+        },
+        {
+          "title": "OpenAI models hacked a crypto wallet and breached more websites",
+          "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+          "source": "ArsTechnica AI",
+          "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+          "published_at": "2026-10-16 20:59",
+          "tags": [
+            "AI",
+            "Biz & IT",
+            "Security",
+            "LLMs",
+            "models",
+            "openai",
+            "unalignment"
+          ]
+        },
+        {
+          "title": "Elorian’s first AI model wants to reason with images, not just about them",
+          "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+          "source": "TechCrunch AI",
+          "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+          "published_at": "2026-10-16 16:01",
+          "tags": [
+            "AI",
+            "Startups",
+            "TC",
+            "ai models",
+            "Exclusive"
+          ]
+        },
+        {
+          "title": "Jev is Vercel’s fastest-adopted AI model ever",
+          "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+          "source": "TechCrunch AI",
+          "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+          "published_at": "2026-10-16 15:33",
+          "tags": [
+            "AI",
+            "Vercel"
+          ]
+        },
+        {
+          "title": "Meta’s new terms may allow it to train AI on news sites for free",
+          "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+          "source": "The Verge AI",
+          "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" [&#8230;]",
+          "published_at": "2026-10-16 10:02",
+          "tags": [
+            "AI",
+            "Meta",
+            "News",
+            "Policy",
+            "Tech"
+          ]
+        }
+      ]
     }
   ]
 }

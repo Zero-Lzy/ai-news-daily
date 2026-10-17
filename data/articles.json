@@ -1,5 +1,111 @@
 [
   {
+    "title": "Decompilations, AI, and the Chase for Clout",
+    "url": "https://jpeisach.github.io/blog/ai/legoisland/decompilation/porting/reverse-engineering/2026/10/16/decomps-clout-consoom.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://jpeisach.github.io/blog/ai/legoisland/decompilation/porting/reverse-engineering/2026/10/16/decomps-clout-consoom.html Comments URL: https://news.ycombinator.com/item?id=50131680 Points: 2 # Comments: 0",
+    "published_at": "2026-10-17 14:53",
+    "tags": [],
+    "fetch_date": "2026-10-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Proactive AI for Superintelligent Agents",
+    "url": "https://research.google/pubs/proactive-ai-for-superintelligent-agents/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://research.google/pubs/proactive-ai-for-superintelligent-agents/ Comments URL: https://news.ycombinator.com/item?id=50131631 Points: 2 # Comments: 1",
+    "published_at": "2026-10-17 14:44",
+    "tags": [],
+    "fetch_date": "2026-10-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The AI Paradox",
+    "url": "https://www.youtube.com/watch?v=dcolM6W5Odc",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=dcolM6W5Odc Comments URL: https://news.ycombinator.com/item?id=50131560 Points: 1 # Comments: 0",
+    "published_at": "2026-10-17 14:35",
+    "tags": [],
+    "fetch_date": "2026-10-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Ask HN: How are you all ensuring your AI code isn't slop?",
+    "url": "https://github.com/trypando/pando",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/trypando/pando Comments URL: https://news.ycombinator.com/item?id=50131518 Points: 1 # Comments: 1",
+    "published_at": "2026-10-17 14:29",
+    "tags": [],
+    "fetch_date": "2026-10-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "\"thegentlemanpervert\" producing AI CSAM is a NJ prosecutor, say cops",
+    "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/ Comments URL: https://news.ycombinator.com/item?id=50131331 Points: 4 # Comments: 0",
+    "published_at": "2026-10-17 14:10",
+    "tags": [],
+    "fetch_date": "2026-10-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Are You Sure Your LLM Is Sure?",
+    "url": "https://arxiv.org/abs/2610.22139",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2610.22139 Comments URL: https://news.ycombinator.com/item?id=50131085 Points: 2 # Comments: 1",
+    "published_at": "2026-10-17 13:39",
+    "tags": [],
+    "fetch_date": "2026-10-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Vramkit – lossless VRAM compression for LLM inference, on a MacBook",
+    "url": "https://github.com/SRKRZ23/vramkit",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/SRKRZ23/vramkit Comments URL: https://news.ycombinator.com/item?id=50131035 Points: 1 # Comments: 0",
+    "published_at": "2026-10-17 13:32",
+    "tags": [],
+    "fetch_date": "2026-10-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "FDE-Gym: The Last Mile of AI Delivery",
+    "url": "https://arxiv.org/abs/2610.22350",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2610.22350 Comments URL: https://news.ycombinator.com/item?id=50131027 Points: 1 # Comments: 0",
+    "published_at": "2026-10-17 13:31",
+    "tags": [],
+    "fetch_date": "2026-10-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Rescue AI models with one click",
+    "url": "https://pirateface.co/rescue",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://pirateface.co/rescue Comments URL: https://news.ycombinator.com/item?id=50130865 Points: 1 # Comments: 0",
+    "published_at": "2026-10-17 13:11",
+    "tags": [],
+    "fetch_date": "2026-10-17",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Websites are closing their doors to AI agents",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+    "source": "The Verge AI",
+    "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, [&#8230;]",
+    "published_at": "2026-10-17 09:00",
+    "tags": [
+      "AI",
+      "Meta",
+      "OpenAI",
+      "Report",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-17",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Show HN: AI agent follows instructions you never approved",
     "url": "https://github.com/Paraphern/rugsnare/blob/main/docs/blog/2026-10-17-mcp-contract-drift.md",
     "source": "Hacker News AI",
@@ -128,6 +234,24 @@
     "tags": [],
     "fetch_date": "2026-10-17",
     "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI models hacked a crypto wallet and breached more websites",
+    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+    "source": "ArsTechnica AI",
+    "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+    "published_at": "2026-10-16 20:59",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "Security",
+      "LLMs",
+      "models",
+      "openai",
+      "unalignment"
+    ],
+    "fetch_date": "2026-10-17",
+    "fetch_label": "晚报"
   },
   {
     "title": "Elorian’s first AI model wants to reason with images, not just about them",
@@ -35098,115 +35222,5 @@
     "tags": [],
     "fetch_date": "2026-06-23",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "AI law firm wins UK court case for first time",
-    "url": "https://www.ft.com/content/b4f8f589-6771-4df5-ac4d-cb15d94991fb",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.ft.com/content/b4f8f589-6771-4df5-ac4d-cb15d94991fb Comments URL: https://news.ycombinator.com/item?id=48632235 Points: 2 # Comments: 2",
-    "published_at": "2026-06-22 16:17",
-    "tags": [],
-    "fetch_date": "2026-06-23",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "I Tracked LLM Pricing for 8 Weeks. Here's What the Data Shows",
-    "url": "https://tokenprices.io/blog/llm-pricing-8-weeks",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://tokenprices.io/blog/llm-pricing-8-weeks Comments URL: https://news.ycombinator.com/item?id=48632126 Points: 2 # Comments: 0",
-    "published_at": "2026-06-22 16:09",
-    "tags": [],
-    "fetch_date": "2026-06-23",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Frontier AI for Motion Design",
-    "url": "https://motion.so",
-    "source": "Hacker News AI",
-    "summary": "Hey HN, meet Motion — a frontier agent for motion design.Here’s how it works:1. Give Motion a prompt — include any context like product links, X threads, YouTube videos, personal assets, and design MD. Motion will reference styles, incorporate research, and storyboard scenes.2. Motion creates the video — it can orchestrate entire explainers, launch videos, logo animations, convert articles to video, or even add motion design to your existing videos.3. Edit everything — after generation, edit eve",
-    "published_at": "2026-06-22 16:06",
-    "tags": [],
-    "fetch_date": "2026-06-23",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: PreFlight – A local AST scanner to catch AI architectural drift",
-    "url": "https://github.com/av29nassh-sketch/PreFlight",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/av29nassh-sketch/PreFlight Comments URL: https://news.ycombinator.com/item?id=48632054 Points: 3 # Comments: 0",
-    "published_at": "2026-06-22 16:03",
-    "tags": [],
-    "fetch_date": "2026-06-23",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Build and Host AI apps on your own servers",
-    "url": "https://agentry.run",
-    "source": "Hacker News AI",
-    "summary": "I wanted a way to build and host some vibecoded apps/dashboards etc , but figured there was no good way outside using things like lovable and replit , where the code and data and the hosting lives on their serversMany of the online app builders don't allow you to switch the model to an open model and charge premiums for tokens, Some of the app builders even want you to paste DB credentials in the chat which to me was a complete no noI have been working on an alternative to this model , where you",
-    "published_at": "2026-06-22 15:56",
-    "tags": [],
-    "fetch_date": "2026-06-23",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "I built a voice AI chess companion for elderly players, in 3 languages",
-    "url": "https://youai-chess.netlify.app/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://youai-chess.netlify.app/ Comments URL: https://news.ycombinator.com/item?id=48631879 Points: 1 # Comments: 0",
-    "published_at": "2026-06-22 15:48",
-    "tags": [],
-    "fetch_date": "2026-06-23",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Magpie-search – a federated search engine for LLM's/agents",
-    "url": "https://github.com/xfloukiex-lab/magpie-search",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/xfloukiex-lab/magpie-search Comments URL: https://news.ycombinator.com/item?id=48625507 Points: 1 # Comments: 0",
-    "published_at": "2026-06-22 04:03",
-    "tags": [],
-    "fetch_date": "2026-06-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "When AI Agents Do the Work, What Do We Lose?",
-    "url": "https://milvus.io/blog/when-ai-agents-do-the-work-what-do-we-lose.md",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://milvus.io/blog/when-ai-agents-do-the-work-what-do-we-lose.md Comments URL: https://news.ycombinator.com/item?id=48625341 Points: 1 # Comments: 0",
-    "published_at": "2026-06-22 03:33",
-    "tags": [],
-    "fetch_date": "2026-06-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: I applied Lyapunov stability theory to detect when LLM agents spiral",
-    "url": "https://github.com/vishal-dehurdle/state-harness",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/vishal-dehurdle/state-harness Comments URL: https://news.ycombinator.com/item?id=48625317 Points: 1 # Comments: 0",
-    "published_at": "2026-06-22 03:27",
-    "tags": [],
-    "fetch_date": "2026-06-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Typevia live LaTeX editing with AI assistance",
-    "url": "https://www.typevia.com/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.typevia.com/ Comments URL: https://news.ycombinator.com/item?id=48625040 Points: 2 # Comments: 0",
-    "published_at": "2026-06-22 02:48",
-    "tags": [],
-    "fetch_date": "2026-06-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Watchdog",
-    "url": "https://www.theatlantic.com/category/ai-watchdog/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.theatlantic.com/category/ai-watchdog/ Comments URL: https://news.ycombinator.com/item?id=48624870 Points: 1 # Comments: 0",
-    "published_at": "2026-06-22 02:21",
-    "tags": [],
-    "fetch_date": "2026-06-22",
-    "fetch_label": "早报"
   }
 ]
