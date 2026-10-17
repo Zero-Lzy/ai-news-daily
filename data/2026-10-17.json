@@ -174,6 +174,231 @@
           ]
         }
       ]
+    },
+    {
+      "label": "早报",
+      "time": "2026-10-17 11:35:54",
+      "count": 21,
+      "articles": [
+        {
+          "title": "Show HN: AI agent follows instructions you never approved",
+          "url": "https://github.com/Paraphern/rugsnare/blob/main/docs/blog/2026-10-17-mcp-contract-drift.md",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/Paraphern/rugsnare/blob/main/docs/blog/2026-10-17-mcp-contract-drift.md Comments URL: https://news.ycombinator.com/item?id=50127659 Points: 1 # Comments: 0",
+          "published_at": "2026-10-17 03:33",
+          "tags": []
+        },
+        {
+          "title": "SF AI Founder's Zombie Shooter Game Turns Tenderloin Residents into Targets",
+          "url": "https://sfist.com/2026/10/15/sf-tech-founders-zombie-shooter-game-turns-tenderloin-residents-into-targets/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://sfist.com/2026/10/15/sf-tech-founders-zombie-shooter-game-turns-tenderloin-residents-into-targets/ Comments URL: https://news.ycombinator.com/item?id=50127280 Points: 1 # Comments: 0",
+          "published_at": "2026-10-17 02:21",
+          "tags": []
+        },
+        {
+          "title": "Publishers' Trust in Nippan Dented by Unauthorized Book Sales for AI Training",
+          "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20261014-353599/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20261014-353599/ Comments URL: https://news.ycombinator.com/item?id=50127187 Points: 2 # Comments: 0",
+          "published_at": "2026-10-17 02:08",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Twain, a diff viewer like Meld, but for the age of AI",
+          "url": "https://github.com/andunieee/twain",
+          "source": "Hacker News AI",
+          "summary": "I love Meld, I've been using it for a while now, it's amazing how many diff viewers exist these days and how they are all awful compared to Meld.But Meld was missing some features that I thought were worth having:- all files from a Git diff shown in the same view, sequentially + a file tree on the side. - show either the full files or only the parts that changed. - tree-sitter-based syntax highlighting. - the ability to comment on sets of changes and lines, and AIs can read these comments. - the",
+          "published_at": "2026-10-17 02:03",
+          "tags": []
+        },
+        {
+          "title": "The trickle-down economics of the AI boom",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/17/the-trickle-down-economics-of-the-ai-boom",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/09/17/the-trickle-down-economics-of-the-ai-boom Comments URL: https://news.ycombinator.com/item?id=50127070 Points: 2 # Comments: 0",
+          "published_at": "2026-10-17 01:47",
+          "tags": []
+        },
+        {
+          "title": "AI Gateway Governance",
+          "url": "https://github.com/ddruhin/ai-gateway-governance-reference-architecture",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/ddruhin/ai-gateway-governance-reference-architecture Comments URL: https://news.ycombinator.com/item?id=50127059 Points: 1 # Comments: 0",
+          "published_at": "2026-10-17 01:45",
+          "tags": []
+        },
+        {
+          "title": "The Data Layer Is Where AI Goes to Die",
+          "url": "https://www.druhindhavala.com/ai-governance/the-data-layer-is-where-ai-goes-to-die/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.druhindhavala.com/ai-governance/the-data-layer-is-where-ai-goes-to-die/ Comments URL: https://news.ycombinator.com/item?id=50127026 Points: 2 # Comments: 0",
+          "published_at": "2026-10-17 01:41",
+          "tags": []
+        },
+        {
+          "title": "Using fzf with AI coding agents",
+          "url": "https://junegunn.github.io/fzf/tips/using-fzf-with-ai-agents/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://junegunn.github.io/fzf/tips/using-fzf-with-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50126880 Points: 3 # Comments: 0",
+          "published_at": "2026-10-17 01:19",
+          "tags": []
+        },
+        {
+          "title": "Android gets AI defenses against messaging scams, fake calls",
+          "url": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/ Comments URL: https://news.ycombinator.com/item?id=50126802 Points: 5 # Comments: 0",
+          "published_at": "2026-10-17 01:05",
+          "tags": []
+        },
+        {
+          "title": "Puzzles and the AI Software Glut",
+          "url": "https://blog.krazydad.com/2026/10/16/puzzles-and-the-ai-software-glut/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blog.krazydad.com/2026/10/16/puzzles-and-the-ai-software-glut/ Comments URL: https://news.ycombinator.com/item?id=50125852 Points: 2 # Comments: 1",
+          "published_at": "2026-10-16 22:53",
+          "tags": []
+        },
+        {
+          "title": "The AI Expectations Gap",
+          "url": "https://www.anthropic.com/research/ai-expectations-gap",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.anthropic.com/research/ai-expectations-gap Comments URL: https://news.ycombinator.com/item?id=50125602 Points: 3 # Comments: 2",
+          "published_at": "2026-10-16 22:27",
+          "tags": []
+        },
+        {
+          "title": "Building an AI harness for intelligence analysis",
+          "url": "https://dfaram7.github.io/harness-for-analysis/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://dfaram7.github.io/harness-for-analysis/ Comments URL: https://news.ycombinator.com/item?id=50125459 Points: 1 # Comments: 0",
+          "published_at": "2026-10-16 22:13",
+          "tags": []
+        },
+        {
+          "title": "Ask HN: Social network with AI agents – why bad, why good?",
+          "url": "https://news.ycombinator.com/item?id=50125397",
+          "source": "Hacker News AI",
+          "summary": "Hello! I can't get my mind off the idea of building an AI-native social network. Every user has its own agent (only one), which can talk to other agents or check content on the user's behalf. That way, the agent can \"process\" far more information about people than the human, and help in building relations.Why it is a bad/good idea? Worth trying? Comments URL: https://news.ycombinator.com/item?id=50125397 Points: 1 # Comments: 3",
+          "published_at": "2026-10-16 22:08",
+          "tags": []
+        },
+        {
+          "title": "Jev is Vercel’s fastest-adopted AI model ever",
+          "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+          "source": "TechCrunch AI",
+          "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+          "published_at": "2026-10-16 15:33",
+          "tags": [
+            "AI",
+            "Vercel"
+          ]
+        },
+        {
+          "title": "Meta’s new terms may allow it to train AI on news sites for free",
+          "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+          "source": "The Verge AI",
+          "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" [&#8230;]",
+          "published_at": "2026-10-16 10:02",
+          "tags": [
+            "AI",
+            "Meta",
+            "News",
+            "Policy",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Meta launches an open-weight AI model that runs on Macs",
+          "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+          "source": "TechCrunch AI",
+          "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+          "published_at": "2026-10-15 20:04",
+          "tags": [
+            "AI",
+            "Apple",
+            "Meta",
+            "muse"
+          ]
+        },
+        {
+          "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+          "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+          "source": "TechCrunch AI",
+          "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
+          "published_at": "2026-10-15 18:56",
+          "tags": [
+            "AI",
+            "Apps",
+            "Social",
+            "Bluesky",
+            "TechCrunch Disrupt",
+            "vibe coding"
+          ]
+        },
+        {
+          "title": "ChatGPT can peek at your Chrome tabs now",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+          "source": "The Verge AI",
+          "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video [&#8230;]",
+          "published_at": "2026-10-15 18:43",
+          "tags": [
+            "AI",
+            "Chrome",
+            "Google",
+            "News",
+            "OpenAI",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Trump posts AI-edited photo to brag about White House restoration work",
+          "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+          "source": "The Verge AI",
+          "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector as \"made or [&#8230;]",
+          "published_at": "2026-10-15 17:09",
+          "tags": [
+            "AI",
+            "OpenAI",
+            "Policy",
+            "Politics"
+          ]
+        },
+        {
+          "title": "Google’s Universal Cart shopping tool launches in the US",
+          "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+          "source": "TechCrunch AI",
+          "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+          "published_at": "2026-10-15 14:29",
+          "tags": [
+            "AI",
+            "Apps",
+            "Commerce",
+            "e-commerce",
+            "gemini",
+            "Google",
+            "online shopping",
+            "shopping carts"
+          ]
+        },
+        {
+          "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+          "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
+          "published_at": "2026-10-15 12:00",
+          "tags": [
+            "AI",
+            "Gadgets",
+            "Hardware",
+            "Alexa",
+            "Amazon",
+            "bee",
+            "wearables"
+          ]
+        }
+      ]
     }
   ]
 }

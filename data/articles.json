@@ -1,5 +1,135 @@
 [
   {
+    "title": "Show HN: AI agent follows instructions you never approved",
+    "url": "https://github.com/Paraphern/rugsnare/blob/main/docs/blog/2026-10-17-mcp-contract-drift.md",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/Paraphern/rugsnare/blob/main/docs/blog/2026-10-17-mcp-contract-drift.md Comments URL: https://news.ycombinator.com/item?id=50127659 Points: 1 # Comments: 0",
+    "published_at": "2026-10-17 03:33",
+    "tags": [],
+    "fetch_date": "2026-10-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "SF AI Founder's Zombie Shooter Game Turns Tenderloin Residents into Targets",
+    "url": "https://sfist.com/2026/10/15/sf-tech-founders-zombie-shooter-game-turns-tenderloin-residents-into-targets/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://sfist.com/2026/10/15/sf-tech-founders-zombie-shooter-game-turns-tenderloin-residents-into-targets/ Comments URL: https://news.ycombinator.com/item?id=50127280 Points: 1 # Comments: 0",
+    "published_at": "2026-10-17 02:21",
+    "tags": [],
+    "fetch_date": "2026-10-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Publishers' Trust in Nippan Dented by Unauthorized Book Sales for AI Training",
+    "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20261014-353599/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20261014-353599/ Comments URL: https://news.ycombinator.com/item?id=50127187 Points: 2 # Comments: 0",
+    "published_at": "2026-10-17 02:08",
+    "tags": [],
+    "fetch_date": "2026-10-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Twain, a diff viewer like Meld, but for the age of AI",
+    "url": "https://github.com/andunieee/twain",
+    "source": "Hacker News AI",
+    "summary": "I love Meld, I've been using it for a while now, it's amazing how many diff viewers exist these days and how they are all awful compared to Meld.But Meld was missing some features that I thought were worth having:- all files from a Git diff shown in the same view, sequentially + a file tree on the side. - show either the full files or only the parts that changed. - tree-sitter-based syntax highlighting. - the ability to comment on sets of changes and lines, and AIs can read these comments. - the",
+    "published_at": "2026-10-17 02:03",
+    "tags": [],
+    "fetch_date": "2026-10-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The trickle-down economics of the AI boom",
+    "url": "https://www.economist.com/finance-and-economics/2026/09/17/the-trickle-down-economics-of-the-ai-boom",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/09/17/the-trickle-down-economics-of-the-ai-boom Comments URL: https://news.ycombinator.com/item?id=50127070 Points: 2 # Comments: 0",
+    "published_at": "2026-10-17 01:47",
+    "tags": [],
+    "fetch_date": "2026-10-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Gateway Governance",
+    "url": "https://github.com/ddruhin/ai-gateway-governance-reference-architecture",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/ddruhin/ai-gateway-governance-reference-architecture Comments URL: https://news.ycombinator.com/item?id=50127059 Points: 1 # Comments: 0",
+    "published_at": "2026-10-17 01:45",
+    "tags": [],
+    "fetch_date": "2026-10-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The Data Layer Is Where AI Goes to Die",
+    "url": "https://www.druhindhavala.com/ai-governance/the-data-layer-is-where-ai-goes-to-die/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.druhindhavala.com/ai-governance/the-data-layer-is-where-ai-goes-to-die/ Comments URL: https://news.ycombinator.com/item?id=50127026 Points: 2 # Comments: 0",
+    "published_at": "2026-10-17 01:41",
+    "tags": [],
+    "fetch_date": "2026-10-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Using fzf with AI coding agents",
+    "url": "https://junegunn.github.io/fzf/tips/using-fzf-with-ai-agents/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://junegunn.github.io/fzf/tips/using-fzf-with-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50126880 Points: 3 # Comments: 0",
+    "published_at": "2026-10-17 01:19",
+    "tags": [],
+    "fetch_date": "2026-10-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Android gets AI defenses against messaging scams, fake calls",
+    "url": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/ Comments URL: https://news.ycombinator.com/item?id=50126802 Points: 5 # Comments: 0",
+    "published_at": "2026-10-17 01:05",
+    "tags": [],
+    "fetch_date": "2026-10-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Puzzles and the AI Software Glut",
+    "url": "https://blog.krazydad.com/2026/10/16/puzzles-and-the-ai-software-glut/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.krazydad.com/2026/10/16/puzzles-and-the-ai-software-glut/ Comments URL: https://news.ycombinator.com/item?id=50125852 Points: 2 # Comments: 1",
+    "published_at": "2026-10-16 22:53",
+    "tags": [],
+    "fetch_date": "2026-10-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The AI Expectations Gap",
+    "url": "https://www.anthropic.com/research/ai-expectations-gap",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.anthropic.com/research/ai-expectations-gap Comments URL: https://news.ycombinator.com/item?id=50125602 Points: 3 # Comments: 2",
+    "published_at": "2026-10-16 22:27",
+    "tags": [],
+    "fetch_date": "2026-10-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Building an AI harness for intelligence analysis",
+    "url": "https://dfaram7.github.io/harness-for-analysis/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://dfaram7.github.io/harness-for-analysis/ Comments URL: https://news.ycombinator.com/item?id=50125459 Points: 1 # Comments: 0",
+    "published_at": "2026-10-16 22:13",
+    "tags": [],
+    "fetch_date": "2026-10-17",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Ask HN: Social network with AI agents – why bad, why good?",
+    "url": "https://news.ycombinator.com/item?id=50125397",
+    "source": "Hacker News AI",
+    "summary": "Hello! I can't get my mind off the idea of building an AI-native social network. Every user has its own agent (only one), which can talk to other agents or check content on the user's behalf. That way, the agent can \"process\" far more information about people than the human, and help in building relations.Why it is a bad/good idea? Worth trying? Comments URL: https://news.ycombinator.com/item?id=50125397 Points: 1 # Comments: 3",
+    "published_at": "2026-10-16 22:08",
+    "tags": [],
+    "fetch_date": "2026-10-17",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Elorian’s first AI model wants to reason with images, not just about them",
     "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
     "source": "TechCrunch AI",
@@ -210,6 +340,21 @@
     "published_at": "2026-10-16 00:54",
     "tags": [],
     "fetch_date": "2026-10-16",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Meta launches an open-weight AI model that runs on Macs",
+    "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+    "source": "TechCrunch AI",
+    "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+    "published_at": "2026-10-15 20:04",
+    "tags": [
+      "AI",
+      "Apple",
+      "Meta",
+      "muse"
+    ],
+    "fetch_date": "2026-10-17",
     "fetch_label": "早报"
   },
   {
@@ -35063,151 +35208,5 @@
     "tags": [],
     "fetch_date": "2026-06-22",
     "fetch_label": "早报"
-  },
-  {
-    "title": "Ask HN: What will AI coding look like when today's CS freshmen graduate?",
-    "url": "https://news.ycombinator.com/item?id=48624855",
-    "source": "Hacker News AI",
-    "summary": "ChatGPT 3.5 only came out about three and a half years ago. Claude Code was released in February 2025. In one academic year, LLMs went from barely handling high school math to disproving unit-distance conjecture.Every two months we seems to have a new SOTA now. What do you expect AI coding to look like four years from now?Will it be like Go after AlphaGo, where even Ke Jie could only say \"they no longer knew what they were fighting against\"? Or will it just be like today, just stronger, with hum",
-    "published_at": "2026-06-22 02:20",
-    "tags": [],
-    "fetch_date": "2026-06-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Tlbic: A Time-Limited Basic Income System Designed with AI, v7.0",
-    "url": "https://drive.google.com/file/d/1MtiNjQeQO9ilLuEFXwVeKgWOzec4F2Dn/view?usp=drive_link",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://drive.google.com/file/d/1MtiNjQeQO9ilLuEFXwVeKgWOzec4F2Dn/view?usp=drive_link Comments URL: https://news.ycombinator.com/item?id=48624746 Points: 4 # Comments: 5",
-    "published_at": "2026-06-22 02:02",
-    "tags": [],
-    "fetch_date": "2026-06-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Americans and AI 2026: Chatbots, Smart Devices and Views on Impact",
-    "url": "https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/ Comments URL: https://news.ycombinator.com/item?id=48624535 Points: 3 # Comments: 1",
-    "published_at": "2026-06-22 01:29",
-    "tags": [],
-    "fetch_date": "2026-06-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: AI Colours",
-    "url": "https://github.com/pilotpirxie/ai-colours",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/pilotpirxie/ai-colours Comments URL: https://news.ycombinator.com/item?id=48623764 Points: 3 # Comments: 0",
-    "published_at": "2026-06-21 23:40",
-    "tags": [],
-    "fetch_date": "2026-06-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: PeekAI – Local-first observability for Python AI agents",
-    "url": "https://github.com/oussamaKH63/peekai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/oussamaKH63/peekai Comments URL: https://news.ycombinator.com/item?id=48623745 Points: 3 # Comments: 0",
-    "published_at": "2026-06-21 23:38",
-    "tags": [],
-    "fetch_date": "2026-06-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Norway Bans AI for Kids 6-13 in Schools",
-    "url": "https://yipzap.com/norway-bans-ai-for-kids-6-13-in-schools-a-bold-move-against-tech-dependency/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://yipzap.com/norway-bans-ai-for-kids-6-13-in-schools-a-bold-move-against-tech-dependency/ Comments URL: https://news.ycombinator.com/item?id=48623568 Points: 5 # Comments: 1",
-    "published_at": "2026-06-21 23:12",
-    "tags": [],
-    "fetch_date": "2026-06-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "When the Trump administration cracks down on Anthropic, who benefits?",
-    "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
-    "source": "TechCrunch AI",
-    "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
-    "published_at": "2026-06-21 15:28",
-    "tags": [
-      "AI",
-      "Government & Policy",
-      "Anthropic",
-      "Donald Trump",
-      "Equity podcast"
-    ],
-    "fetch_date": "2026-06-22",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Daily_stock_analysis: LLM-powered multi-market stock analysis system",
-    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/ZhuLinsen/daily_stock_analysis Comments URL: https://news.ycombinator.com/item?id=48619147 Points: 3 # Comments: 0",
-    "published_at": "2026-06-21 14:10",
-    "tags": [],
-    "fetch_date": "2026-06-21",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Refloow Photo Studio – A local, offline photo editor with on-device AI",
-    "url": "https://github.com/Refloow/Refloow-Photo-Studio",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/Refloow/Refloow-Photo-Studio Comments URL: https://news.ycombinator.com/item?id=48619100 Points: 1 # Comments: 0",
-    "published_at": "2026-06-21 14:04",
-    "tags": [],
-    "fetch_date": "2026-06-21",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "I'm done with LLM-through-chat-experience",
-    "url": "https://www.thoughtfultechnologist.com/p/im-done-with-llm-through-chat-experience",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.thoughtfultechnologist.com/p/im-done-with-llm-through-chat-experience Comments URL: https://news.ycombinator.com/item?id=48619029 Points: 2 # Comments: 0",
-    "published_at": "2026-06-21 13:55",
-    "tags": [],
-    "fetch_date": "2026-06-21",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Ask HN: Do you give AI coding agents their own GitHub account?",
-    "url": "https://news.ycombinator.com/item?id=48618981",
-    "source": "Hacker News AI",
-    "summary": "Comments URL: https://news.ycombinator.com/item?id=48618981 Points: 2 # Comments: 0",
-    "published_at": "2026-06-21 13:49",
-    "tags": [],
-    "fetch_date": "2026-06-21",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Block rolls out Builderbot, a new suite of AI-native tools",
-    "url": "https://block.xyz/inside/block-rolls-out-builderbot-a-new-suite-of-ai-native-tools-that-changes-the-way-we-ship",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://block.xyz/inside/block-rolls-out-builderbot-a-new-suite-of-ai-native-tools-that-changes-the-way-we-ship Comments URL: https://news.ycombinator.com/item?id=48618973 Points: 1 # Comments: 1",
-    "published_at": "2026-06-21 13:48",
-    "tags": [],
-    "fetch_date": "2026-06-21",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Cloak – let AI agents use your API keys without ever seeing them",
-    "url": "https://github.com/cloakward/cloak",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/cloakward/cloak Comments URL: https://news.ycombinator.com/item?id=48618904 Points: 2 # Comments: 0",
-    "published_at": "2026-06-21 13:41",
-    "tags": [],
-    "fetch_date": "2026-06-21",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Boom Hits Labor Market Reality Check",
-    "url": "https://fivetakes.news/workers-are-emerging-as-the-next-big-ai-logjam",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://fivetakes.news/workers-are-emerging-as-the-next-big-ai-logjam Comments URL: https://news.ycombinator.com/item?id=48618600 Points: 2 # Comments: 1",
-    "published_at": "2026-06-21 13:01",
-    "tags": [],
-    "fetch_date": "2026-06-21",
-    "fetch_label": "晚报"
   }
 ]
