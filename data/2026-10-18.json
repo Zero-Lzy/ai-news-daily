@@ -1,0 +1,107 @@
+{
+  "date": "2026-10-18",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-10-18 11:42:18",
+      "count": 7,
+      "articles": [
+        {
+          "title": "Meta removes language that raised scraping and AI training concerns",
+          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+          "source": "TechCrunch AI",
+          "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+          "published_at": "2026-10-17 21:31",
+          "tags": [
+            "AI",
+            "Social",
+            "Meta"
+          ]
+        },
+        {
+          "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "source": "TechCrunch AI",
+          "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+          "published_at": "2026-10-17 18:48",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "Replit",
+            "TechCrunch Disrupt"
+          ]
+        },
+        {
+          "title": "Websites are closing their doors to AI agents",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+          "source": "The Verge AI",
+          "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, [&#8230;]",
+          "published_at": "2026-10-17 09:00",
+          "tags": [
+            "AI",
+            "Meta",
+            "OpenAI",
+            "Report",
+            "Tech"
+          ]
+        },
+        {
+          "title": "OpenAI models hacked a crypto wallet and breached more websites",
+          "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+          "source": "ArsTechnica AI",
+          "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+          "published_at": "2026-10-16 20:59",
+          "tags": [
+            "AI",
+            "Biz & IT",
+            "Security",
+            "LLMs",
+            "models",
+            "openai",
+            "unalignment"
+          ]
+        },
+        {
+          "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+          "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+          "source": "TechCrunch AI",
+          "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&#160;is about to have [&#8230;]",
+          "published_at": "2026-10-16 16:30",
+          "tags": [
+            "AI",
+            "Robotics",
+            "Venture",
+            "early stage venture",
+            "nvidia",
+            "robotics"
+          ]
+        },
+        {
+          "title": "Elorian’s first AI model wants to reason with images, not just about them",
+          "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+          "source": "TechCrunch AI",
+          "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+          "published_at": "2026-10-16 16:01",
+          "tags": [
+            "AI",
+            "Startups",
+            "TC",
+            "ai models",
+            "Exclusive"
+          ]
+        },
+        {
+          "title": "Jev is Vercel’s fastest-adopted AI model ever",
+          "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+          "source": "TechCrunch AI",
+          "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+          "published_at": "2026-10-16 15:33",
+          "tags": [
+            "AI",
+            "Vercel"
+          ]
+        }
+      ]
+    }
+  ]
+}
