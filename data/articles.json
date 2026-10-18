@@ -1,5 +1,105 @@
 [
   {
+    "title": "Show HN: AI Zombie Trend–Generating multi-shot narrative videos from two photos",
+    "url": "https://aizombietrend.online/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://aizombietrend.online/ Comments URL: https://news.ycombinator.com/item?id=50141889 Points: 1 # Comments: 0",
+    "published_at": "2026-10-18 15:25",
+    "tags": [],
+    "fetch_date": "2026-10-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Secret Guard – a local LLM gateway; keys never leave your machine",
+    "url": "https://github.com/luochen1990/secret-guard",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/luochen1990/secret-guard Comments URL: https://news.ycombinator.com/item?id=50141886 Points: 1 # Comments: 0",
+    "published_at": "2026-10-18 15:24",
+    "tags": [],
+    "fetch_date": "2026-10-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Wisp – a voice AI on your shoulder, with spatial audio in the browser",
+    "url": "https://wispplayer.com/?tab=ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://wispplayer.com/?tab=ai Comments URL: https://news.ycombinator.com/item?id=50141830 Points: 1 # Comments: 0",
+    "published_at": "2026-10-18 15:18",
+    "tags": [],
+    "fetch_date": "2026-10-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "GhostOS – Lightweight, Offline Desktop AI Assistant (macOS/Win/Linux)",
+    "url": "https://github.com/GhostOS-ai/GhostOS",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/GhostOS-ai/GhostOS Comments URL: https://news.ycombinator.com/item?id=50141746 Points: 1 # Comments: 0",
+    "published_at": "2026-10-18 15:08",
+    "tags": [],
+    "fetch_date": "2026-10-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model Comments URL: https://news.ycombinator.com/item?id=50141429 Points: 47 # Comments: 36",
+    "published_at": "2026-10-18 14:30",
+    "tags": [],
+    "fetch_date": "2026-10-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Software is recursive and AI is the base case",
+    "url": "https://t3.at/blog/2026-10-06-ai-base-case/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://t3.at/blog/2026-10-06-ai-base-case/ Comments URL: https://news.ycombinator.com/item?id=50141312 Points: 1 # Comments: 0",
+    "published_at": "2026-10-18 14:18",
+    "tags": [],
+    "fetch_date": "2026-10-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "In 23 of 24 categories, AI answer engines recommend one brand in every query",
+    "url": "https://noniner.io/report/state-of-ai-brand-visibility-2026",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://noniner.io/report/state-of-ai-brand-visibility-2026 Comments URL: https://news.ycombinator.com/item?id=50141088 Points: 2 # Comments: 0",
+    "published_at": "2026-10-18 13:49",
+    "tags": [],
+    "fetch_date": "2026-10-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "What Firecrawl's $75M raise is telling us about the AI stack",
+    "url": "https://www.enconvert.com/blog/the-real-story-behind-firecrawl-s-75m-raise",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.enconvert.com/blog/the-real-story-behind-firecrawl-s-75m-raise Comments URL: https://news.ycombinator.com/item?id=50140816 Points: 1 # Comments: 0",
+    "published_at": "2026-10-18 13:13",
+    "tags": [],
+    "fetch_date": "2026-10-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+    "url": "https://www.vals.ai/blogs/impossible-refund",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.vals.ai/blogs/impossible-refund Comments URL: https://news.ycombinator.com/item?id=50140462 Points: 3 # Comments: 0",
+    "published_at": "2026-10-18 12:22",
+    "tags": [],
+    "fetch_date": "2026-10-18",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Doctors and Lawyers Are Joining AI's $400-an-Hour Gig Economy",
+    "url": "https://news.bloomberglaw.com/esg/doctors-and-lawyers-are-joining-ais-400-an-hour-gig-economy",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://news.bloomberglaw.com/esg/doctors-and-lawyers-are-joining-ais-400-an-hour-gig-economy Comments URL: https://news.ycombinator.com/item?id=50140196 Points: 1 # Comments: 0",
+    "published_at": "2026-10-18 11:43",
+    "tags": [],
+    "fetch_date": "2026-10-18",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Meta removes language that raised scraping and AI training concerns",
     "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
     "source": "TechCrunch AI",
@@ -35103,140 +35203,5 @@
     ],
     "fetch_date": "2026-06-23",
     "fetch_label": "早报"
-  },
-  {
-    "title": "The AI world is getting ‘loopy’",
-    "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
-    "source": "TechCrunch AI",
-    "summary": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
-    "published_at": "2026-06-22 20:53",
-    "tags": [
-      "AI",
-      "agentic ai",
-      "boris cherny"
-    ],
-    "fetch_date": "2026-06-23",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
-    "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
-    "source": "TechCrunch AI",
-    "summary": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
-    "published_at": "2026-06-22 20:13",
-    "tags": [
-      "AI",
-      "Hardware",
-      "Startups",
-      "TC",
-      "groq"
-    ],
-    "fetch_date": "2026-06-23",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
-    "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
-    "source": "The Verge AI",
-    "summary": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has \"eliminated massive amounts of power usage and pretty much all water usage.\" Still, it doesn't address all of the concerns around AI data [&#8230;]",
-    "published_at": "2026-06-22 19:24",
-    "tags": [
-      "AI",
-      "News",
-      "Nvidia",
-      "Tech"
-    ],
-    "fetch_date": "2026-06-24",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
-    "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
-    "source": "TechCrunch AI",
-    "summary": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
-    "published_at": "2026-06-22 18:49",
-    "tags": [
-      "AI",
-      "Media & Entertainment",
-      "a24",
-      "DeepMind",
-      "filmmaking",
-      "In Brief",
-      "movies"
-    ],
-    "fetch_date": "2026-06-23",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Amazon is testing Alexa+ in India with Hindi support",
-    "url": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
-    "source": "TechCrunch AI",
-    "summary": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.",
-    "published_at": "2026-06-22 17:31",
-    "tags": [
-      "AI",
-      "Apps",
-      "alexa+",
-      "Amazon",
-      "Exclusive",
-      "India"
-    ],
-    "fetch_date": "2026-06-23",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Vivijure – Self-hosted AI film studio on your own GPU (AGPL)",
-    "url": "https://github.com/skyphusion-labs/vivijure",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/skyphusion-labs/vivijure Comments URL: https://news.ycombinator.com/item?id=48632672 Points: 1 # Comments: 0",
-    "published_at": "2026-06-22 16:51",
-    "tags": [],
-    "fetch_date": "2026-06-23",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "SpaceX inks compute deal with Reflection AI, an open-source AI lab",
-    "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
-    "source": "TechCrunch AI",
-    "summary": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee.",
-    "published_at": "2026-06-22 16:51",
-    "tags": [
-      "AI",
-      "TC",
-      "reflection ai",
-      "SpaceX"
-    ],
-    "fetch_date": "2026-06-23",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Godot confirms it tolerates 'some AI assistance' but rejects 'vibe coded' tag",
-    "url": "https://www.gamedeveloper.com/business/godot-confirms-it-tolerates-some-ai-assistance-but-rejects-vibe-coded-accusations",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.gamedeveloper.com/business/godot-confirms-it-tolerates-some-ai-assistance-but-rejects-vibe-coded-accusations Comments URL: https://news.ycombinator.com/item?id=48632617 Points: 2 # Comments: 0",
-    "published_at": "2026-06-22 16:46",
-    "tags": [],
-    "fetch_date": "2026-06-23",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Tech Influence Watch – tracking crypto and AI industry 2026 U.S. election spend",
-    "url": "https://influence.citationneeded.news/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://influence.citationneeded.news/ Comments URL: https://news.ycombinator.com/item?id=48632474 Points: 2 # Comments: 1",
-    "published_at": "2026-06-22 16:36",
-    "tags": [],
-    "fetch_date": "2026-06-23",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Super AI Agentic Android App (BYOK)",
-    "url": "https://news.ycombinator.com/item?id=48632415",
-    "source": "Hacker News AI",
-    "summary": "i am building an Agentic Android App (twent.xyz) that has:SOTA agentic memory + Knowledge Base to see Agent's memory, UI Automation, explain-what's-on-screen, Linux Ubuntu Terminal with Agent CLIs Supported, Connects to 1k+ tools, Infinite MCP Servers & Agent SKILLS, Browser to browse MCP Servers & Agent SKILLS (fetched from public sources) , Fully Bring-your-own-key (as of now) (get API key for any provider from the APP itself), supports local models.I really DONT WANT TO GUESS what my users wa",
-    "published_at": "2026-06-22 16:31",
-    "tags": [],
-    "fetch_date": "2026-06-23",
-    "fetch_label": "晚报"
   }
 ]
