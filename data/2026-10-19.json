@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-19",
+  "runs": [
+    {
+      "label": "早报",
+      "time": "2026-10-19 11:52:05",
+      "count": 3,
+      "articles": [
+        {
+          "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+          "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+          "published_at": "2026-10-18 20:37",
+          "tags": [
+            "AI",
+            "Anthropic"
+          ]
+        },
+        {
+          "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+          "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+          "source": "TechCrunch AI",
+          "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+          "published_at": "2026-10-18 16:30",
+          "tags": [
+            "AI",
+            "Media & Entertainment",
+            "Startups",
+            "character.ai",
+            "Disney"
+          ]
+        },
+        {
+          "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "source": "TechCrunch AI",
+          "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+          "published_at": "2026-10-17 18:48",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "Replit",
+            "TechCrunch Disrupt"
+          ]
+        }
+      ]
+    }
+  ]
+}

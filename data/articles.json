@@ -1,5 +1,34 @@
 [
   {
+    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+    "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "source": "TechCrunch AI",
+    "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+    "published_at": "2026-10-18 20:37",
+    "tags": [
+      "AI",
+      "Anthropic"
+    ],
+    "fetch_date": "2026-10-19",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+    "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+    "source": "TechCrunch AI",
+    "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+    "published_at": "2026-10-18 16:30",
+    "tags": [
+      "AI",
+      "Media & Entertainment",
+      "Startups",
+      "character.ai",
+      "Disney"
+    ],
+    "fetch_date": "2026-10-19",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Show HN: AI Zombie Trend–Generating multi-shot narrative videos from two photos",
     "url": "https://aizombietrend.online/",
     "source": "Hacker News AI",
@@ -35174,34 +35203,5 @@
     ],
     "fetch_date": "2026-06-24",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "The running list: major tech layoffs in 2026 where employers cited AI",
-    "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-    "source": "TechCrunch AI",
-    "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-    "published_at": "2026-06-23 01:27",
-    "tags": [
-      "AI",
-      "TC",
-      "Layoffs"
-    ],
-    "fetch_date": "2026-06-23",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "OpenAI launches new initiative to help find and patch open-source bugs",
-    "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-    "source": "TechCrunch AI",
-    "summary": "OpenAI is attempting to tackle the security issues of the open source software community.",
-    "published_at": "2026-06-23 00:11",
-    "tags": [
-      "AI",
-      "open source software",
-      "OpenAI",
-      "Trail of Bits"
-    ],
-    "fetch_date": "2026-06-23",
-    "fetch_label": "早报"
   }
 ]
