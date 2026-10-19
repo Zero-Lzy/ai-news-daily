@@ -1,0 +1,157 @@
+{
+  "date": "2026-10-20",
+  "runs": [
+    {
+      "label": "晚报",
+      "time": "2026-10-20 02:25:44",
+      "count": 16,
+      "articles": [
+        {
+          "title": "Men, Shaping the Future of AI, Doesn't Mean They Know What They're Talking About",
+          "url": "https://gizmodo.com/men-are-shaping-the-future-of-ai-that-doesnt-mean-they-know-what-theyre-talking-about-2000825911",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://gizmodo.com/men-are-shaping-the-future-of-ai-that-doesnt-mean-they-know-what-theyre-talking-about-2000825911 Comments URL: https://news.ycombinator.com/item?id=50155970 Points: 1 # Comments: 0",
+          "published_at": "2026-10-19 18:23",
+          "tags": []
+        },
+        {
+          "title": "Almost all AI models censor specific information",
+          "url": "https://fromhebrew.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://fromhebrew.com/ Comments URL: https://news.ycombinator.com/item?id=50155954 Points: 1 # Comments: 1",
+          "published_at": "2026-10-19 18:22",
+          "tags": []
+        },
+        {
+          "title": "Elements of AI Course",
+          "url": "https://www.elementsofai.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.elementsofai.com/ Comments URL: https://news.ycombinator.com/item?id=50155632 Points: 1 # Comments: 0",
+          "published_at": "2026-10-19 17:58",
+          "tags": []
+        },
+        {
+          "title": "Solidworks launches AI hw design features [video]",
+          "url": "https://www.youtube.com/watch?v=PdcEehTrux0",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=PdcEehTrux0 Comments URL: https://news.ycombinator.com/item?id=50155489 Points: 1 # Comments: 0",
+          "published_at": "2026-10-19 17:47",
+          "tags": []
+        },
+        {
+          "title": "Build a Basic AI Agent from Scratch: Session Management",
+          "url": "https://www.ruxu.dev/articles/ai/build-an-ai-agent-sessions/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.ruxu.dev/articles/ai/build-an-ai-agent-sessions/ Comments URL: https://news.ycombinator.com/item?id=50155402 Points: 1 # Comments: 0",
+          "published_at": "2026-10-19 17:40",
+          "tags": []
+        },
+        {
+          "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
+          "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/ Comments URL: https://news.ycombinator.com/item?id=50154982 Points: 2 # Comments: 1",
+          "published_at": "2026-10-19 17:09",
+          "tags": []
+        },
+        {
+          "title": "Who Will Benefit from the AI Revolution?",
+          "url": "https://time.com/article/2026/10/19/who-will-benefit-from-the-ai-revolution-/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://time.com/article/2026/10/19/who-will-benefit-from-the-ai-revolution-/ Comments URL: https://news.ycombinator.com/item?id=50154893 Points: 1 # Comments: 0",
+          "published_at": "2026-10-19 17:04",
+          "tags": []
+        },
+        {
+          "title": "JAMA AI",
+          "url": "https://jamanetwork.com/channels/introducing-jama-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://jamanetwork.com/channels/introducing-jama-ai Comments URL: https://news.ycombinator.com/item?id=50154652 Points: 1 # Comments: 0",
+          "published_at": "2026-10-19 16:47",
+          "tags": []
+        },
+        {
+          "title": "Software is eating the world; AI is eating software – so what's next?",
+          "url": "https://medium.com/@theopriestley/software-is-eating-the-world-ai-is-eating-software-so-whats-next-706a4d3fdaf6",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://medium.com/@theopriestley/software-is-eating-the-world-ai-is-eating-software-so-whats-next-706a4d3fdaf6 Comments URL: https://news.ycombinator.com/item?id=50154587 Points: 3 # Comments: 2",
+          "published_at": "2026-10-19 16:42",
+          "tags": []
+        },
+        {
+          "title": "AI Runs into Its Next Big Obstacle: Insurance",
+          "url": "https://www.wsj.com/tech/ai/ai-runs-into-its-next-big-obstacle-insurance-8b2d4556",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.wsj.com/tech/ai/ai-runs-into-its-next-big-obstacle-insurance-8b2d4556 Comments URL: https://news.ycombinator.com/item?id=50154288 Points: 1 # Comments: 0",
+          "published_at": "2026-10-19 16:20",
+          "tags": []
+        },
+        {
+          "title": "AI and the future of human made music (2023)",
+          "url": "https://www.furious.com/perfect/artificialintelligencemusic.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.furious.com/perfect/artificialintelligencemusic.html Comments URL: https://news.ycombinator.com/item?id=50154170 Points: 1 # Comments: 1",
+          "published_at": "2026-10-19 16:11",
+          "tags": []
+        },
+        {
+          "title": "Check if AI crawlers are blocked by your robots.txt – free tool",
+          "url": "http://crawl-check.user-sentry.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: http://crawl-check.user-sentry.com/ Comments URL: https://news.ycombinator.com/item?id=50154131 Points: 1 # Comments: 0",
+          "published_at": "2026-10-19 16:08",
+          "tags": []
+        },
+        {
+          "title": "Contextbridge-AI",
+          "url": "https://github.com/mujtabamisri/contextbridge-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/mujtabamisri/contextbridge-ai Comments URL: https://news.ycombinator.com/item?id=50154061 Points: 1 # Comments: 1",
+          "published_at": "2026-10-19 16:03",
+          "tags": []
+        },
+        {
+          "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+          "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+          "published_at": "2026-10-19 15:37",
+          "tags": [
+            "AI",
+            "nvidia"
+          ]
+        },
+        {
+          "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+          "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+          "source": "The Verge AI",
+          "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms coming [&#8230;]",
+          "published_at": "2026-10-19 10:30",
+          "tags": [
+            "AI",
+            "Decoder",
+            "Podcasts",
+            "Policy",
+            "Politics",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Disney agrees to hire the majority of Character AI’s workforce",
+          "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+          "source": "TechCrunch AI",
+          "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+          "published_at": "2026-10-18 16:30",
+          "tags": [
+            "AI",
+            "Media & Entertainment",
+            "Startups",
+            "character.ai",
+            "Disney",
+            "In Brief"
+          ]
+        }
+      ]
+    }
+  ]
+}
