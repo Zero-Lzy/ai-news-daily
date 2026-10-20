@@ -1,5 +1,84 @@
 [
   {
+    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+    "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+    "source": "TechCrunch AI",
+    "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+    "published_at": "2026-10-20 01:27",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "AI Now Institute",
+      "AI regulation",
+      "mamdani"
+    ],
+    "fetch_date": "2026-10-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+    "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+    "source": "TechCrunch AI",
+    "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+    "published_at": "2026-10-19 19:28",
+    "tags": [
+      "AI",
+      "AI coding agents",
+      "hackers"
+    ],
+    "fetch_date": "2026-10-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+    "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+    "source": "TechCrunch AI",
+    "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+    "published_at": "2026-10-19 19:00",
+    "tags": [
+      "AI",
+      "Apps",
+      "Social",
+      "ai apps",
+      "ai companion"
+    ],
+    "fetch_date": "2026-10-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+    "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+    "source": "TechCrunch AI",
+    "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+    "published_at": "2026-10-19 18:37",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "Venture",
+      "In Brief",
+      "Tenstorrent"
+    ],
+    "fetch_date": "2026-10-20",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "ReactOS reaches major milestone with NTFS install support",
+    "url": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
+    "source": "ArsTechnica AI",
+    "summary": "ReactOS gains NTFS install support with new driver.",
+    "published_at": "2026-10-19 18:30",
+    "tags": [
+      "Biz & IT",
+      "Tech",
+      "NTFS",
+      "open source",
+      "ReactOS",
+      "Windows alternatives"
+    ],
+    "fetch_date": "2026-10-20",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Men, Shaping the Future of AI, Doesn't Mean They Know What They're Talking About",
     "url": "https://gizmodo.com/men-are-shaping-the-future-of-ai-that-doesnt-mean-they-know-what-theyre-talking-about-2000825911",
     "source": "Hacker News AI",
@@ -50,6 +129,25 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+    "source": "The Verge AI",
+    "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. [&#8230;]",
+    "published_at": "2026-10-19 17:28",
+    "tags": [
+      "AI",
+      "Analysis",
+      "Business",
+      "Microsoft",
+      "Nvidia",
+      "OpenAI",
+      "Report",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-20",
+    "fetch_label": "早报"
+  },
+  {
     "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
     "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
     "source": "Hacker News AI",
@@ -98,6 +196,22 @@
     "tags": [],
     "fetch_date": "2026-10-20",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "People are using AI to make their smart TVs dumb again",
+    "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+    "source": "TechCrunch AI",
+    "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+    "published_at": "2026-10-19 16:13",
+    "tags": [
+      "AI",
+      "Media & Entertainment",
+      "hacks",
+      "smart tv",
+      "television"
+    ],
+    "fetch_date": "2026-10-20",
+    "fetch_label": "早报"
   },
   {
     "title": "AI and the future of human made music (2023)",
@@ -35085,93 +35199,5 @@
     "tags": [],
     "fetch_date": "2026-06-24",
     "fetch_label": "早报"
-  },
-  {
-    "title": "FAA awards software and AI contract as part of air traffic control modernization",
-    "url": "https://www.nextgov.com/acquisition/2026/06/faa-awards-software-and-ai-contract-part-air-traffic-control-modernization/414354/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.nextgov.com/acquisition/2026/06/faa-awards-software-and-ai-contract-part-air-traffic-control-modernization/414354/ Comments URL: https://news.ycombinator.com/item?id=48653187 Points: 3 # Comments: 0",
-    "published_at": "2026-06-23 23:38",
-    "tags": [],
-    "fetch_date": "2026-06-24",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI systems out-persuade expert humans",
-    "url": "https://arxiv.org/abs/2606.16475",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://arxiv.org/abs/2606.16475 Comments URL: https://news.ycombinator.com/item?id=48653162 Points: 2 # Comments: 2",
-    "published_at": "2026-06-23 23:36",
-    "tags": [],
-    "fetch_date": "2026-06-24",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
-    "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
-    "source": "TechCrunch AI",
-    "summary": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
-    "published_at": "2026-06-23 23:30",
-    "tags": [
-      "AI",
-      "Enterprise",
-      "Aampe",
-      "ai agent",
-      "MoEngage"
-    ],
-    "fetch_date": "2026-06-24",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
-    "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
-    "source": "ArsTechnica AI",
-    "summary": "Oracle is spending billions on data center infrastructure to support AI.",
-    "published_at": "2026-06-23 20:17",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "job losses",
-      "oracle"
-    ],
-    "fetch_date": "2026-06-24",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Hollywood is bending the knee to OpenAI",
-    "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
-    "source": "The Verge AI",
-    "summary": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals. And while Neon and Mubi are still said to be interested in the film, this situation makes it seem [&#8230;]",
-    "published_at": "2026-06-23 18:03",
-    "tags": [
-      "AI",
-      "Amazon",
-      "Entertainment",
-      "Film",
-      "OpenAI",
-      "Tech"
-    ],
-    "fetch_date": "2026-06-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Agent-ready – a tool that'll show how an AI agent reads your website",
-    "url": "https://agent-ready.co/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://agent-ready.co/ Comments URL: https://news.ycombinator.com/item?id=48645912 Points: 1 # Comments: 0",
-    "published_at": "2026-06-23 14:50",
-    "tags": [],
-    "fetch_date": "2026-06-23",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: AI Agents the Unix Way – built with bash, curl, and jq",
-    "url": "https://github.com/cloudkj/llayer",
-    "source": "Hacker News AI",
-    "summary": "While working on an educational exercise tinkering with local models and trying my hand at setting up agents, I went down a rabbit hole: to see how far I could build a custom agent loop using exclusively command-line building blocks and stripping out dependencies wherever possible.It turns out you can get pretty far with pipes, text streams, append only logs, and standard command-line components - concepts pretty well aligned with classic Unix philosophy. The agent is a wrapper composed of a han",
-    "published_at": "2026-06-23 14:38",
-    "tags": [],
-    "fetch_date": "2026-06-23",
-    "fetch_label": "晚报"
   }
 ]
