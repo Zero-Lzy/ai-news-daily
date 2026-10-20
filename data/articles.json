@@ -1,5 +1,70 @@
 [
   {
+    "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+    "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+    "source": "TechCrunch AI",
+    "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+    "published_at": "2026-10-20 16:00",
+    "tags": [
+      "Climate",
+      "AI",
+      "Fundraising",
+      "plants",
+      "Exclusive",
+      "plant monitoring"
+    ],
+    "fetch_date": "2026-10-21",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+    "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+    "source": "TechCrunch AI",
+    "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+    "published_at": "2026-10-20 13:00",
+    "tags": [
+      "AI",
+      "Robotics",
+      "Exclusive"
+    ],
+    "fetch_date": "2026-10-21",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+    "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+    "source": "TechCrunch AI",
+    "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst&#8217;s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation. [&#8230;]",
+    "published_at": "2026-10-20 11:00",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "General Catalyst",
+      "otter",
+      "otter.ai"
+    ],
+    "fetch_date": "2026-10-21",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+    "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+    "source": "The Verge AI",
+    "summary": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists. \"Our editors hold the same standard and [&#8230;]",
+    "published_at": "2026-10-20 10:18",
+    "tags": [
+      "AI",
+      "Apps",
+      "Entertainment",
+      "Music",
+      "News",
+      "Spotify",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-21",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
     "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
     "source": "TechCrunch AI",
@@ -35156,46 +35221,6 @@
     "source": "Hacker News AI",
     "summary": "Article URL: https://www.fastcompany.com/91563535/un-chief-urges-ai-companies-come-clean-about-pollution-create Comments URL: https://news.ycombinator.com/item?id=48653894 Points: 3 # Comments: 0",
     "published_at": "2026-06-24 01:13",
-    "tags": [],
-    "fetch_date": "2026-06-24",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "We built telecom infrastructure for AI agents in emerging markets",
-    "url": "https://krosai.com/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://krosai.com/ Comments URL: https://news.ycombinator.com/item?id=48653504 Points: 2 # Comments: 0",
-    "published_at": "2026-06-24 00:20",
-    "tags": [],
-    "fetch_date": "2026-06-24",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Why Software Requirements Get Easier in an AI Economy",
-    "url": "https://stng.substack.com/p/why-software-requirements-get-easier",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://stng.substack.com/p/why-software-requirements-get-easier Comments URL: https://news.ycombinator.com/item?id=48653478 Points: 3 # Comments: 0",
-    "published_at": "2026-06-24 00:15",
-    "tags": [],
-    "fetch_date": "2026-06-24",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Stop asking AI if your startup idea is good",
-    "url": "https://www.idea-launch.io/learn/ai-idea-validator-vs-real-demand-signals",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.idea-launch.io/learn/ai-idea-validator-vs-real-demand-signals Comments URL: https://news.ycombinator.com/item?id=48653414 Points: 3 # Comments: 2",
-    "published_at": "2026-06-24 00:06",
-    "tags": [],
-    "fetch_date": "2026-06-24",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Measuring Search Ranking Quality with LLM Judged NDCG",
-    "url": "https://corvi.careers/blog/search-eval-llm-judges-ndcg/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://corvi.careers/blog/search-eval-llm-judges-ndcg/ Comments URL: https://news.ycombinator.com/item?id=48653398 Points: 2 # Comments: 0",
-    "published_at": "2026-06-24 00:04",
     "tags": [],
     "fetch_date": "2026-06-24",
     "fetch_label": "早报"
