@@ -1,5 +1,135 @@
 [
   {
+    "title": "Rust off Rails: The opinionated web stack for the AI era",
+    "url": "https://rustoffrails.org/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://rustoffrails.org/ Comments URL: https://news.ycombinator.com/item?id=50183727 Points: 1 # Comments: 0",
+    "published_at": "2026-10-21 16:34",
+    "tags": [],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "OpenAI Says 2 Internal AI Coding Agents Turned Off Their Own Safeguards",
+    "url": "https://www.pcmag.com/news/openai-says-2-internal-ai-coding-agents-turned-off-their-own-safeguards",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.pcmag.com/news/openai-says-2-internal-ai-coding-agents-turned-off-their-own-safeguards Comments URL: https://news.ycombinator.com/item?id=50183655 Points: 1 # Comments: 1",
+    "published_at": "2026-10-21 16:30",
+    "tags": [],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "GPT-6 Astra removes an internal safety monitor",
+    "url": "https://www.crawlspider.com/pages/ai-agents-gone-rogue/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.crawlspider.com/pages/ai-agents-gone-rogue/ Comments URL: https://news.ycombinator.com/item?id=50183550 Points: 1 # Comments: 0",
+    "published_at": "2026-10-21 16:22",
+    "tags": [],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Sam Altman on Why AI Hasn't Killed Coding Jobs",
+    "url": "https://twitter.com/MatthewBerman/status/2112930776811806874",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/MatthewBerman/status/2112930776811806874 Comments URL: https://news.ycombinator.com/item?id=50183471 Points: 2 # Comments: 1",
+    "published_at": "2026-10-21 16:17",
+    "tags": [],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Nysa – Shared memory for teams that work with AI agents",
+    "url": "https://usenysa.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://usenysa.com/ Comments URL: https://news.ycombinator.com/item?id=50183382 Points: 2 # Comments: 0",
+    "published_at": "2026-10-21 16:11",
+    "tags": [],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI agent fixed the bug, but what else did it change?",
+    "url": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/ Comments URL: https://news.ycombinator.com/item?id=50183253 Points: 6 # Comments: 1",
+    "published_at": "2026-10-21 16:03",
+    "tags": [],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Pawmc a.k.a. talking diary, an LLM chat with compartmentalised memory",
+    "url": "https://pawmc-demo.kolaegipet.workers.dev/?demo=1",
+    "source": "Hacker News AI",
+    "summary": "What pawmc is (from the blog post):It’s an LLM chat app with minimal system prompt and no tools/web-search by design. It stores most important context across your conversations in isolated buckets, called “diaries” and “topics”. This means that when you start a conversation in { diary: personal, topic: books }, the AI receives your first message along with summaries of that diary and that topic. It’s close in concept to Karpathy’s LLM Wiki, but simpler, easier to wrap your head around and mainta",
+    "published_at": "2026-10-21 16:01",
+    "tags": [],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "The state of AI coding interviews, 2026",
+    "url": "https://nyrion.ai/research/ai-coding-interviews-2026",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://nyrion.ai/research/ai-coding-interviews-2026 Comments URL: https://news.ycombinator.com/item?id=50183088 Points: 2 # Comments: 0",
+    "published_at": "2026-10-21 15:55",
+    "tags": [],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Modular AI Data center presented by Nvidia",
+    "url": "https://developer.nvidia.com/blog/achieve-productive-ai-capacity-faster-and-more-predictably-with-nvidia-dsx-pod/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://developer.nvidia.com/blog/achieve-productive-ai-capacity-faster-and-more-predictably-with-nvidia-dsx-pod/ Comments URL: https://news.ycombinator.com/item?id=50182659 Points: 2 # Comments: 0",
+    "published_at": "2026-10-21 15:28",
+    "tags": [],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Rethink the Terminal: A Portal to AI",
+    "url": "https://yunxin.github.io/rethink-terminal/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://yunxin.github.io/rethink-terminal/ Comments URL: https://news.ycombinator.com/item?id=50182550 Points: 1 # Comments: 1",
+    "published_at": "2026-10-21 15:21",
+    "tags": [],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Programming as a Hobby in the Age of AI",
+    "url": "https://www.bennadel.com/blog/4908-programming-as-a-hobby-in-the-age-of-ai.htm",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bennadel.com/blog/4908-programming-as-a-hobby-in-the-age-of-ai.htm Comments URL: https://news.ycombinator.com/item?id=50182460 Points: 3 # Comments: 0",
+    "published_at": "2026-10-21 15:16",
+    "tags": [],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "SaaS in the Agent Economy: Why AI Just Changed Bootstrapped SaaS Forever [video]",
+    "url": "https://www.youtube.com/watch?v=8cSCJtPOkmM",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=8cSCJtPOkmM Comments URL: https://news.ycombinator.com/item?id=50182169 Points: 1 # Comments: 1",
+    "published_at": "2026-10-21 14:59",
+    "tags": [],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Mining Architectural Quality Under Agentic AI Adoption",
+    "url": "https://arxiv.org/abs/2606.13298",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2606.13298 Comments URL: https://news.ycombinator.com/item?id=50182131 Points: 2 # Comments: 0",
+    "published_at": "2026-10-21 14:57",
+    "tags": [],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "DeepSeek Unveils Open-Source Tool to Help Cut AI Operating Costs",
     "url": "https://www.bloomberg.com/news/articles/2026-10-20/deepseek-unveils-open-source-tool-to-help-cut-ai-operating-costs",
     "source": "Hacker News AI",
@@ -162,6 +292,22 @@
     "fetch_label": "早报"
   },
   {
+    "title": "SpaceX’s AI business is beating expectations",
+    "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+    "source": "TechCrunch AI",
+    "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
+    "published_at": "2026-10-20 20:40",
+    "tags": [
+      "AI",
+      "Space",
+      "Elon Musk",
+      "Grok",
+      "SpaceX"
+    ],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
     "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
     "source": "TechCrunch AI",
@@ -177,6 +323,21 @@
     "fetch_label": "早报"
   },
   {
+    "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+    "source": "The Verge AI",
+    "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or [&#8230;]",
+    "published_at": "2026-10-20 19:04",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI",
+      "Policy"
+    ],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
     "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
     "source": "TechCrunch AI",
@@ -189,6 +350,20 @@
     ],
     "fetch_date": "2026-10-21",
     "fetch_label": "早报"
+  },
+  {
+    "title": "ChatGPT now lets you lock your chats",
+    "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+    "source": "TechCrunch AI",
+    "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
+    "published_at": "2026-10-20 18:36",
+    "tags": [
+      "AI",
+      "Apps",
+      "ChatGPT"
+    ],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "晚报"
   },
   {
     "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
@@ -35040,202 +35215,5 @@
     "tags": [],
     "fetch_date": "2026-06-25",
     "fetch_label": "早报"
-  },
-  {
-    "title": "What I'm Finding About LLM Code Style and Token Costs",
-    "url": "https://www.jimmont.com/llm-style-token-costs",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.jimmont.com/llm-style-token-costs Comments URL: https://news.ycombinator.com/item?id=48667409 Points: 17 # Comments: 7",
-    "published_at": "2026-06-25 00:52",
-    "tags": [],
-    "fetch_date": "2026-06-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "We'll fight the platform war against Big AI",
-    "url": "https://www.anildash.com/2026/06/23/fight-ai-platform-war/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.anildash.com/2026/06/23/fight-ai-platform-war/ Comments URL: https://news.ycombinator.com/item?id=48667112 Points: 6 # Comments: 0",
-    "published_at": "2026-06-25 00:07",
-    "tags": [],
-    "fetch_date": "2026-06-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-    "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/ Comments URL: https://news.ycombinator.com/item?id=48666781 Points: 8 # Comments: 3",
-    "published_at": "2026-06-24 23:26",
-    "tags": [],
-    "fetch_date": "2026-06-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Japan's AI goldrush faces backlash as data centers sprout up in urban areas",
-    "url": "https://www.japantimes.co.jp/environment/2026/06/21/data-center-pushback/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.japantimes.co.jp/environment/2026/06/21/data-center-pushback/ Comments URL: https://news.ycombinator.com/item?id=48666763 Points: 3 # Comments: 0",
-    "published_at": "2026-06-24 23:23",
-    "tags": [],
-    "fetch_date": "2026-06-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "M5StackChan AI Desktop Robot",
-    "url": "https://shop.m5stack.com/products/stackchan-kawaii-co-created-open-source-ai-desktop-robot",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://shop.m5stack.com/products/stackchan-kawaii-co-created-open-source-ai-desktop-robot Comments URL: https://news.ycombinator.com/item?id=48666756 Points: 3 # Comments: 0",
-    "published_at": "2026-06-24 23:21",
-    "tags": [],
-    "fetch_date": "2026-06-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
-    "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-    "source": "TechCrunch AI",
-    "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
-    "published_at": "2026-06-24 21:56",
-    "tags": [
-      "AI",
-      "Startups",
-      "engineering",
-      "hiring",
-      "Layoffs",
-      "signalfire",
-      "software development"
-    ],
-    "fetch_date": "2026-06-25",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI researchers continue to leave Google for its rivals",
-    "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-    "source": "TechCrunch AI",
-    "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
-    "published_at": "2026-06-24 21:42",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "Google",
-      "In Brief"
-    ],
-    "fetch_date": "2026-06-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Facebook rolls out an AI companion app for creators",
-    "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
-    "source": "TechCrunch AI",
-    "summary": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
-    "published_at": "2026-06-24 17:16",
-    "tags": [
-      "AI",
-      "Apps",
-      "Social",
-      "Facebook",
-      "Meta",
-      "social media"
-    ],
-    "fetch_date": "2026-06-26",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
-    "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
-    "source": "TechCrunch AI",
-    "summary": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
-    "published_at": "2026-06-24 16:48",
-    "tags": [
-      "AI",
-      "Robotics",
-      "agility robotics",
-      "In Brief",
-      "spac merger"
-    ],
-    "fetch_date": "2026-06-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Figma adds code layers, support for animations, more AI features in new update",
-    "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
-    "source": "TechCrunch AI",
-    "summary": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
-    "published_at": "2026-06-24 16:15",
-    "tags": [
-      "AI",
-      "Apps",
-      "AI agents",
-      "design",
-      "Figma"
-    ],
-    "fetch_date": "2026-06-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Congresswoman denies staff used AI to write defense funding amendment",
-    "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
-    "source": "The Verge AI",
-    "summary": "Rep. Anna Paulina Luna (R-FL) says her staff used AI for \"spellcheck\" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says \"NO Legislation is ever drafted with AI.\" Luna issued the response after accounts on X began sharing screenshots of an amendment summary [&#8230;]",
-    "published_at": "2026-06-24 15:36",
-    "tags": [
-      "AI",
-      "News",
-      "Policy",
-      "Politics"
-    ],
-    "fetch_date": "2026-06-25",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Hw to make sure AI Agents neer forget the Work?",
-    "url": "https://github.com/budhasantosh010/ai-coding-project-templates",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/budhasantosh010/ai-coding-project-templates Comments URL: https://news.ycombinator.com/item?id=48660491 Points: 1 # Comments: 0",
-    "published_at": "2026-06-24 14:26",
-    "tags": [],
-    "fetch_date": "2026-06-24",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "A Statement on AI Talks at Hope",
-    "url": "https://www.hope.net/a-statement-on-ai-talks-at-hope/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.hope.net/a-statement-on-ai-talks-at-hope/ Comments URL: https://news.ycombinator.com/item?id=48660311 Points: 1 # Comments: 0",
-    "published_at": "2026-06-24 14:16",
-    "tags": [],
-    "fetch_date": "2026-06-24",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Drip — pay-per-use finance newsletters for AI agents",
-    "url": "https://dripstack.xyz/stock-picks",
-    "source": "Hacker News AI",
-    "summary": "Hi HN, I’m building Drip. It’s an API that lets AI agents access premium finance newsletters on a pay-per-use basis.Agents will not subscribe to newsletters like humans do. A person subscribes for the ongoing relationship. An agent usually needs one narrower thing: the exact piece of research that helps answer a question right now.We just launched a stock-picks endpoint for what many people are calling vibe investing / agentic investing. Using Drip, an agent can generate a cited report on the la",
-    "published_at": "2026-06-24 14:13",
-    "tags": [],
-    "fetch_date": "2026-06-24",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Flower Labs: AI Is Evolving from Isolated Silos to Collaborative Networks",
-    "url": "https://flower.ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://flower.ai/ Comments URL: https://news.ycombinator.com/item?id=48660082 Points: 1 # Comments: 0",
-    "published_at": "2026-06-24 14:05",
-    "tags": [],
-    "fetch_date": "2026-06-24",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
-    "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://spectrum.ieee.org/ai-radio-chip-design Comments URL: https://news.ycombinator.com/item?id=48660021 Points: 1 # Comments: 0",
-    "published_at": "2026-06-24 14:02",
-    "tags": [],
-    "fetch_date": "2026-06-24",
-    "fetch_label": "晚报"
   }
 ]

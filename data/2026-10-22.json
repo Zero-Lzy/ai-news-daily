@@ -1,0 +1,191 @@
+{
+  "date": "2026-10-22",
+  "runs": [
+    {
+      "label": "晚报",
+      "time": "2026-10-22 00:44:32",
+      "count": 19,
+      "articles": [
+        {
+          "title": "Rust off Rails: The opinionated web stack for the AI era",
+          "url": "https://rustoffrails.org/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://rustoffrails.org/ Comments URL: https://news.ycombinator.com/item?id=50183727 Points: 1 # Comments: 0",
+          "published_at": "2026-10-21 16:34",
+          "tags": []
+        },
+        {
+          "title": "OpenAI Says 2 Internal AI Coding Agents Turned Off Their Own Safeguards",
+          "url": "https://www.pcmag.com/news/openai-says-2-internal-ai-coding-agents-turned-off-their-own-safeguards",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.pcmag.com/news/openai-says-2-internal-ai-coding-agents-turned-off-their-own-safeguards Comments URL: https://news.ycombinator.com/item?id=50183655 Points: 1 # Comments: 1",
+          "published_at": "2026-10-21 16:30",
+          "tags": []
+        },
+        {
+          "title": "GPT-6 Astra removes an internal safety monitor",
+          "url": "https://www.crawlspider.com/pages/ai-agents-gone-rogue/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.crawlspider.com/pages/ai-agents-gone-rogue/ Comments URL: https://news.ycombinator.com/item?id=50183550 Points: 1 # Comments: 0",
+          "published_at": "2026-10-21 16:22",
+          "tags": []
+        },
+        {
+          "title": "Sam Altman on Why AI Hasn't Killed Coding Jobs",
+          "url": "https://twitter.com/MatthewBerman/status/2112930776811806874",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://twitter.com/MatthewBerman/status/2112930776811806874 Comments URL: https://news.ycombinator.com/item?id=50183471 Points: 2 # Comments: 1",
+          "published_at": "2026-10-21 16:17",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Nysa – Shared memory for teams that work with AI agents",
+          "url": "https://usenysa.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://usenysa.com/ Comments URL: https://news.ycombinator.com/item?id=50183382 Points: 2 # Comments: 0",
+          "published_at": "2026-10-21 16:11",
+          "tags": []
+        },
+        {
+          "title": "AI agent fixed the bug, but what else did it change?",
+          "url": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/ Comments URL: https://news.ycombinator.com/item?id=50183253 Points: 6 # Comments: 1",
+          "published_at": "2026-10-21 16:03",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Pawmc a.k.a. talking diary, an LLM chat with compartmentalised memory",
+          "url": "https://pawmc-demo.kolaegipet.workers.dev/?demo=1",
+          "source": "Hacker News AI",
+          "summary": "What pawmc is (from the blog post):It’s an LLM chat app with minimal system prompt and no tools/web-search by design. It stores most important context across your conversations in isolated buckets, called “diaries” and “topics”. This means that when you start a conversation in { diary: personal, topic: books }, the AI receives your first message along with summaries of that diary and that topic. It’s close in concept to Karpathy’s LLM Wiki, but simpler, easier to wrap your head around and mainta",
+          "published_at": "2026-10-21 16:01",
+          "tags": []
+        },
+        {
+          "title": "The state of AI coding interviews, 2026",
+          "url": "https://nyrion.ai/research/ai-coding-interviews-2026",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://nyrion.ai/research/ai-coding-interviews-2026 Comments URL: https://news.ycombinator.com/item?id=50183088 Points: 2 # Comments: 0",
+          "published_at": "2026-10-21 15:55",
+          "tags": []
+        },
+        {
+          "title": "Modular AI Data center presented by Nvidia",
+          "url": "https://developer.nvidia.com/blog/achieve-productive-ai-capacity-faster-and-more-predictably-with-nvidia-dsx-pod/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://developer.nvidia.com/blog/achieve-productive-ai-capacity-faster-and-more-predictably-with-nvidia-dsx-pod/ Comments URL: https://news.ycombinator.com/item?id=50182659 Points: 2 # Comments: 0",
+          "published_at": "2026-10-21 15:28",
+          "tags": []
+        },
+        {
+          "title": "Rethink the Terminal: A Portal to AI",
+          "url": "https://yunxin.github.io/rethink-terminal/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://yunxin.github.io/rethink-terminal/ Comments URL: https://news.ycombinator.com/item?id=50182550 Points: 1 # Comments: 1",
+          "published_at": "2026-10-21 15:21",
+          "tags": []
+        },
+        {
+          "title": "Programming as a Hobby in the Age of AI",
+          "url": "https://www.bennadel.com/blog/4908-programming-as-a-hobby-in-the-age-of-ai.htm",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bennadel.com/blog/4908-programming-as-a-hobby-in-the-age-of-ai.htm Comments URL: https://news.ycombinator.com/item?id=50182460 Points: 3 # Comments: 0",
+          "published_at": "2026-10-21 15:16",
+          "tags": []
+        },
+        {
+          "title": "SaaS in the Agent Economy: Why AI Just Changed Bootstrapped SaaS Forever [video]",
+          "url": "https://www.youtube.com/watch?v=8cSCJtPOkmM",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=8cSCJtPOkmM Comments URL: https://news.ycombinator.com/item?id=50182169 Points: 1 # Comments: 1",
+          "published_at": "2026-10-21 14:59",
+          "tags": []
+        },
+        {
+          "title": "Mining Architectural Quality Under Agentic AI Adoption",
+          "url": "https://arxiv.org/abs/2606.13298",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://arxiv.org/abs/2606.13298 Comments URL: https://news.ycombinator.com/item?id=50182131 Points: 2 # Comments: 0",
+          "published_at": "2026-10-21 14:57",
+          "tags": []
+        },
+        {
+          "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+          "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+          "source": "TechCrunch AI",
+          "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+          "published_at": "2026-10-20 23:01",
+          "tags": [
+            "AI",
+            "Anthropic"
+          ]
+        },
+        {
+          "title": "SpaceX’s AI business is beating expectations",
+          "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+          "source": "TechCrunch AI",
+          "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
+          "published_at": "2026-10-20 20:40",
+          "tags": [
+            "AI",
+            "Space",
+            "Elon Musk",
+            "Grok",
+            "SpaceX"
+          ]
+        },
+        {
+          "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+          "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+          "published_at": "2026-10-20 20:35",
+          "tags": [
+            "AI",
+            "biotech",
+            "In Brief",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+          "source": "The Verge AI",
+          "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or [&#8230;]",
+          "published_at": "2026-10-20 19:04",
+          "tags": [
+            "AI",
+            "News",
+            "OpenAI",
+            "Policy"
+          ]
+        },
+        {
+          "title": "ChatGPT now lets you lock your chats",
+          "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+          "source": "TechCrunch AI",
+          "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
+          "published_at": "2026-10-20 18:36",
+          "tags": [
+            "AI",
+            "Apps",
+            "ChatGPT"
+          ]
+        },
+        {
+          "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "source": "TechCrunch AI",
+          "summary": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.",
+          "published_at": "2026-10-20 13:00",
+          "tags": [
+            "AI",
+            "Robotics",
+            "Exclusive"
+          ]
+        }
+      ]
+    }
+  ]
+}
