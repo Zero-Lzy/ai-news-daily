@@ -133,6 +133,211 @@
           ]
         }
       ]
+    },
+    {
+      "label": "早报",
+      "time": "2026-10-21 11:52:52",
+      "count": 20,
+      "articles": [
+        {
+          "title": "DeepSeek Unveils Open-Source Tool to Help Cut AI Operating Costs",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-20/deepseek-unveils-open-source-tool-to-help-cut-ai-operating-costs",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-10-20/deepseek-unveils-open-source-tool-to-help-cut-ai-operating-costs Comments URL: https://news.ycombinator.com/item?id=50175874 Points: 2 # Comments: 0",
+          "published_at": "2026-10-21 03:50",
+          "tags": []
+        },
+        {
+          "title": "A2O Lite Neon AI Dance Generator",
+          "url": "https://www.a2oliteneon.app",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.a2oliteneon.app Comments URL: https://news.ycombinator.com/item?id=50175721 Points: 1 # Comments: 0",
+          "published_at": "2026-10-21 03:28",
+          "tags": []
+        },
+        {
+          "title": "Your LLM is probably overkill for text classification",
+          "url": "https://jeffyclassify.com/blog/jeffy-vs-llm-classification/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://jeffyclassify.com/blog/jeffy-vs-llm-classification/ Comments URL: https://news.ycombinator.com/item?id=50175649 Points: 1 # Comments: 0",
+          "published_at": "2026-10-21 03:15",
+          "tags": []
+        },
+        {
+          "title": "Blueprints, Not Prompts: Using TLA+ to Guide AI-Written Code",
+          "url": "https://mulgadc.com/blog/blueprints-not-prompts-tla-plus",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://mulgadc.com/blog/blueprints-not-prompts-tla-plus Comments URL: https://news.ycombinator.com/item?id=50175574 Points: 2 # Comments: 1",
+          "published_at": "2026-10-21 03:03",
+          "tags": []
+        },
+        {
+          "title": "PHP warns it plans to release 2 emergency patches imminently",
+          "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+          "source": "ArsTechnica AI",
+          "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+          "published_at": "2026-10-21 02:12",
+          "tags": [
+            "Biz & IT",
+            "Security",
+            "exploits",
+            "patches",
+            "php",
+            "vulnerabilities"
+          ]
+        },
+        {
+          "title": "Show HN: Unterm – A pure-Rust terminal for humans and AI agents",
+          "url": "https://github.com/zhitongblog/unterm",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/zhitongblog/unterm Comments URL: https://news.ycombinator.com/item?id=50175026 Points: 1 # Comments: 0",
+          "published_at": "2026-10-21 01:39",
+          "tags": []
+        },
+        {
+          "title": "Agentitter – a tiny plain-text social network you use through your AI agent",
+          "url": "https://agentitter.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://agentitter.com/ Comments URL: https://news.ycombinator.com/item?id=50174971 Points: 2 # Comments: 0",
+          "published_at": "2026-10-21 01:30",
+          "tags": []
+        },
+        {
+          "title": "Dataville Takes the Guesswork Out of Data for AI",
+          "url": "https://www.dataville.com/blog/dataville-takes-the-guesswork-out-of-data-for-ai",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.dataville.com/blog/dataville-takes-the-guesswork-out-of-data-for-ai Comments URL: https://news.ycombinator.com/item?id=50174959 Points: 1 # Comments: 0",
+          "published_at": "2026-10-21 01:28",
+          "tags": []
+        },
+        {
+          "title": "SpaceX revenue soars 161% as AI business grows",
+          "url": "https://abcnews.com/Business/spacex-revenue-soars-161-ai-business-grows/story?id=137408509",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://abcnews.com/Business/spacex-revenue-soars-161-ai-business-grows/story?id=137408509 Comments URL: https://news.ycombinator.com/item?id=50174541 Points: 18 # Comments: 3",
+          "published_at": "2026-10-21 00:25",
+          "tags": []
+        },
+        {
+          "title": "Writing Code vs. Shipping Code: Productivity Effects Across AI Tool Generations [pdf]",
+          "url": "https://www.mertdemirer.com/Papers/Demirer_Writing_vs_shipping_code.pdf",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.mertdemirer.com/Papers/Demirer_Writing_vs_shipping_code.pdf Comments URL: https://news.ycombinator.com/item?id=50174453 Points: 1 # Comments: 0",
+          "published_at": "2026-10-21 00:13",
+          "tags": []
+        },
+        {
+          "title": "AGI-S – an AI platform I'm building",
+          "url": "https://news.ycombinator.com/item?id=50174174",
+          "source": "Hacker News AI",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=50174174 Points: 2 # Comments: 1",
+          "published_at": "2026-10-20 23:35",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Pace or Pause – Explore where people stand on AI development",
+          "url": "https://paceorpause.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://paceorpause.com/ Comments URL: https://news.ycombinator.com/item?id=50174020 Points: 2 # Comments: 0",
+          "published_at": "2026-10-20 23:18",
+          "tags": []
+        },
+        {
+          "title": "Revisiting Open Science in the Age of AI",
+          "url": "https://carlystrasser.substack.com/p/revisiting-open-science-in-the-age",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://carlystrasser.substack.com/p/revisiting-open-science-in-the-age Comments URL: https://news.ycombinator.com/item?id=50174006 Points: 3 # Comments: 0",
+          "published_at": "2026-10-20 23:16",
+          "tags": []
+        },
+        {
+          "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+          "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+          "source": "TechCrunch AI",
+          "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+          "published_at": "2026-10-20 23:01",
+          "tags": [
+            "AI",
+            "TC",
+            "Anthropic",
+            "policy"
+          ]
+        },
+        {
+          "title": "How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+          "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/ Comments URL: https://news.ycombinator.com/item?id=50173764 Points: 1 # Comments: 0",
+          "published_at": "2026-10-20 22:49",
+          "tags": []
+        },
+        {
+          "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+          "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+          "published_at": "2026-10-20 20:35",
+          "tags": [
+            "AI",
+            "TC",
+            "biotech",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+          "source": "TechCrunch AI",
+          "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+          "published_at": "2026-10-20 18:38",
+          "tags": [
+            "AI",
+            "Hardware",
+            "Google"
+          ]
+        },
+        {
+          "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "source": "TechCrunch AI",
+          "summary": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.",
+          "published_at": "2026-10-20 13:00",
+          "tags": [
+            "AI",
+            "Robotics",
+            "Exclusive"
+          ]
+        },
+        {
+          "title": "Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool",
+          "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+          "source": "TechCrunch AI",
+          "summary": "Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation.",
+          "published_at": "2026-10-20 11:00",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "General Catalyst",
+            "otter",
+            "otter.ai"
+          ]
+        },
+        {
+          "title": "ReactOS reaches major milestone with NTFS install support",
+          "url": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
+          "source": "ArsTechnica AI",
+          "summary": "ReactOS gains NTFS install support with new driver.",
+          "published_at": "2026-10-19 18:30",
+          "tags": [
+            "Biz & IT",
+            "Tech",
+            "NTFS",
+            "open source",
+            "ReactOS",
+            "Windows alternatives"
+          ]
+        }
+      ]
     }
   ]
 }

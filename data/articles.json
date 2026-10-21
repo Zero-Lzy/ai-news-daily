@@ -1,5 +1,196 @@
 [
   {
+    "title": "DeepSeek Unveils Open-Source Tool to Help Cut AI Operating Costs",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-20/deepseek-unveils-open-source-tool-to-help-cut-ai-operating-costs",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-10-20/deepseek-unveils-open-source-tool-to-help-cut-ai-operating-costs Comments URL: https://news.ycombinator.com/item?id=50175874 Points: 2 # Comments: 0",
+    "published_at": "2026-10-21 03:50",
+    "tags": [],
+    "fetch_date": "2026-10-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "A2O Lite Neon AI Dance Generator",
+    "url": "https://www.a2oliteneon.app",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.a2oliteneon.app Comments URL: https://news.ycombinator.com/item?id=50175721 Points: 1 # Comments: 0",
+    "published_at": "2026-10-21 03:28",
+    "tags": [],
+    "fetch_date": "2026-10-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Your LLM is probably overkill for text classification",
+    "url": "https://jeffyclassify.com/blog/jeffy-vs-llm-classification/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://jeffyclassify.com/blog/jeffy-vs-llm-classification/ Comments URL: https://news.ycombinator.com/item?id=50175649 Points: 1 # Comments: 0",
+    "published_at": "2026-10-21 03:15",
+    "tags": [],
+    "fetch_date": "2026-10-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Blueprints, Not Prompts: Using TLA+ to Guide AI-Written Code",
+    "url": "https://mulgadc.com/blog/blueprints-not-prompts-tla-plus",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://mulgadc.com/blog/blueprints-not-prompts-tla-plus Comments URL: https://news.ycombinator.com/item?id=50175574 Points: 2 # Comments: 1",
+    "published_at": "2026-10-21 03:03",
+    "tags": [],
+    "fetch_date": "2026-10-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "PHP warns it plans to release 2 emergency patches imminently",
+    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+    "source": "ArsTechnica AI",
+    "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+    "published_at": "2026-10-21 02:12",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "exploits",
+      "patches",
+      "php",
+      "vulnerabilities"
+    ],
+    "fetch_date": "2026-10-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Unterm – A pure-Rust terminal for humans and AI agents",
+    "url": "https://github.com/zhitongblog/unterm",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/zhitongblog/unterm Comments URL: https://news.ycombinator.com/item?id=50175026 Points: 1 # Comments: 0",
+    "published_at": "2026-10-21 01:39",
+    "tags": [],
+    "fetch_date": "2026-10-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Agentitter – a tiny plain-text social network you use through your AI agent",
+    "url": "https://agentitter.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://agentitter.com/ Comments URL: https://news.ycombinator.com/item?id=50174971 Points: 2 # Comments: 0",
+    "published_at": "2026-10-21 01:30",
+    "tags": [],
+    "fetch_date": "2026-10-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Dataville Takes the Guesswork Out of Data for AI",
+    "url": "https://www.dataville.com/blog/dataville-takes-the-guesswork-out-of-data-for-ai",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.dataville.com/blog/dataville-takes-the-guesswork-out-of-data-for-ai Comments URL: https://news.ycombinator.com/item?id=50174959 Points: 1 # Comments: 0",
+    "published_at": "2026-10-21 01:28",
+    "tags": [],
+    "fetch_date": "2026-10-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "SpaceX revenue soars 161% as AI business grows",
+    "url": "https://abcnews.com/Business/spacex-revenue-soars-161-ai-business-grows/story?id=137408509",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://abcnews.com/Business/spacex-revenue-soars-161-ai-business-grows/story?id=137408509 Comments URL: https://news.ycombinator.com/item?id=50174541 Points: 18 # Comments: 3",
+    "published_at": "2026-10-21 00:25",
+    "tags": [],
+    "fetch_date": "2026-10-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Writing Code vs. Shipping Code: Productivity Effects Across AI Tool Generations [pdf]",
+    "url": "https://www.mertdemirer.com/Papers/Demirer_Writing_vs_shipping_code.pdf",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.mertdemirer.com/Papers/Demirer_Writing_vs_shipping_code.pdf Comments URL: https://news.ycombinator.com/item?id=50174453 Points: 1 # Comments: 0",
+    "published_at": "2026-10-21 00:13",
+    "tags": [],
+    "fetch_date": "2026-10-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AGI-S – an AI platform I'm building",
+    "url": "https://news.ycombinator.com/item?id=50174174",
+    "source": "Hacker News AI",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=50174174 Points: 2 # Comments: 1",
+    "published_at": "2026-10-20 23:35",
+    "tags": [],
+    "fetch_date": "2026-10-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: Pace or Pause – Explore where people stand on AI development",
+    "url": "https://paceorpause.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://paceorpause.com/ Comments URL: https://news.ycombinator.com/item?id=50174020 Points: 2 # Comments: 0",
+    "published_at": "2026-10-20 23:18",
+    "tags": [],
+    "fetch_date": "2026-10-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Revisiting Open Science in the Age of AI",
+    "url": "https://carlystrasser.substack.com/p/revisiting-open-science-in-the-age",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://carlystrasser.substack.com/p/revisiting-open-science-in-the-age Comments URL: https://news.ycombinator.com/item?id=50174006 Points: 3 # Comments: 0",
+    "published_at": "2026-10-20 23:16",
+    "tags": [],
+    "fetch_date": "2026-10-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+    "source": "TechCrunch AI",
+    "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+    "published_at": "2026-10-20 23:01",
+    "tags": [
+      "AI",
+      "TC",
+      "Anthropic",
+      "policy"
+    ],
+    "fetch_date": "2026-10-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+    "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/ Comments URL: https://news.ycombinator.com/item?id=50173764 Points: 1 # Comments: 0",
+    "published_at": "2026-10-20 22:49",
+    "tags": [],
+    "fetch_date": "2026-10-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+    "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+    "source": "TechCrunch AI",
+    "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+    "published_at": "2026-10-20 20:35",
+    "tags": [
+      "AI",
+      "TC",
+      "biotech",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-10-21",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+    "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+    "source": "TechCrunch AI",
+    "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+    "published_at": "2026-10-20 18:38",
+    "tags": [
+      "AI",
+      "Hardware",
+      "Google"
+    ],
+    "fetch_date": "2026-10-21",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
     "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
     "source": "TechCrunch AI",
@@ -35046,183 +35237,5 @@
     "tags": [],
     "fetch_date": "2026-06-24",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "I don't care if web content is AI-generated",
-    "url": "https://kevinboone.me/ai.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://kevinboone.me/ai.html Comments URL: https://news.ycombinator.com/item?id=48659960 Points: 1 # Comments: 1",
-    "published_at": "2026-06-24 13:59",
-    "tags": [],
-    "fetch_date": "2026-06-24",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The Age Of Bunker Capitalism: How AI Will Free Aristocrats From The Mob",
-    "url": "https://morbidcuriosity.substack.com/p/the-age-of-bunker-capitalism",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://morbidcuriosity.substack.com/p/the-age-of-bunker-capitalism Comments URL: https://news.ycombinator.com/item?id=48659941 Points: 1 # Comments: 0",
-    "published_at": "2026-06-24 13:58",
-    "tags": [],
-    "fetch_date": "2026-06-24",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "A Case for AI Taboos",
-    "url": "https://nathanschneider.info/2026/06/a-case-for-ai-taboos/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://nathanschneider.info/2026/06/a-case-for-ai-taboos/ Comments URL: https://news.ycombinator.com/item?id=48659685 Points: 3 # Comments: 0",
-    "published_at": "2026-06-24 13:41",
-    "tags": [],
-    "fetch_date": "2026-06-24",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "I built a local AI deck music assistant on a Mac mini",
-    "url": "https://github.com/wkswede/robot-deck-audio",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/wkswede/robot-deck-audio Comments URL: https://news.ycombinator.com/item?id=48659515 Points: 1 # Comments: 0",
-    "published_at": "2026-06-24 13:31",
-    "tags": [],
-    "fetch_date": "2026-06-24",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
-    "source": "The Verge AI",
-    "summary": "The expensive, $27 million political proxy war between Anthropic and OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose popularity surged after being targeted by a pro-AI super PAC, narrowly lost the Democratic primary to represent New York's 12th Congressional district. Prior to the race, Bores, a former [&#8230;]",
-    "published_at": "2026-06-24 13:25",
-    "tags": [
-      "AI",
-      "Policy",
-      "Politics"
-    ],
-    "fetch_date": "2026-06-26",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI is creating intelligence disparity",
-    "url": "https://nasengetu.com/article/the-ai-intelligence-disparity",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://nasengetu.com/article/the-ai-intelligence-disparity Comments URL: https://news.ycombinator.com/item?id=48659233 Points: 1 # Comments: 0",
-    "published_at": "2026-06-24 13:13",
-    "tags": [],
-    "fetch_date": "2026-06-24",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Rolling Aggregations for Real-Time AI",
-    "url": "https://www.hopsworks.ai/post/rolling-aggregations-for-real-time-ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.hopsworks.ai/post/rolling-aggregations-for-real-time-ai Comments URL: https://news.ycombinator.com/item?id=48659199 Points: 1 # Comments: 0",
-    "published_at": "2026-06-24 13:11",
-    "tags": [],
-    "fetch_date": "2026-06-24",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Pinpoint – point your AI agent at the exact pixel you mean",
-    "url": "https://github.com/croustibat/Pinpoint",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/croustibat/Pinpoint Comments URL: https://news.ycombinator.com/item?id=48659188 Points: 2 # Comments: 0",
-    "published_at": "2026-06-24 13:10",
-    "tags": [],
-    "fetch_date": "2026-06-24",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "OpenAI reveals its first AI processor: Jalapeño",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
-    "source": "The Verge AI",
-    "summary": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalape&#241;o, is designed to power current and future large language models, according to an announcement on Wednesday. Jalape&#241;o is an ASIC (Application-Specific Integrated Circuit), meaning it's designed for a specific purpose: AI inference. With AI [&#8230;]",
-    "published_at": "2026-06-24 10:36",
-    "tags": [
-      "AI",
-      "News",
-      "OpenAI"
-    ],
-    "fetch_date": "2026-06-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI was supposed to make smarter decisions. Iit may be making leaders dangerous",
-    "url": "https://www.youtube.com/watch?v=NTeF1NmmZWA",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.youtube.com/watch?v=NTeF1NmmZWA Comments URL: https://news.ycombinator.com/item?id=48654854 Points: 2 # Comments: 0",
-    "published_at": "2026-06-24 03:48",
-    "tags": [],
-    "fetch_date": "2026-06-24",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "US AI stock sell-off shakes markets from Wall Street to Asia",
-    "url": "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets Comments URL: https://news.ycombinator.com/item?id=48654795 Points: 3 # Comments: 0",
-    "published_at": "2026-06-24 03:36",
-    "tags": [],
-    "fetch_date": "2026-06-24",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "US presses Meta to agree to AI reviews as security fears rise",
-    "url": "https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html Comments URL: https://news.ycombinator.com/item?id=48654757 Points: 1 # Comments: 0",
-    "published_at": "2026-06-24 03:31",
-    "tags": [],
-    "fetch_date": "2026-06-24",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "BenchPress: Predict any LLM's score on any benchmark",
-    "url": "https://microsoft.github.io/benchpress/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://microsoft.github.io/benchpress/ Comments URL: https://news.ycombinator.com/item?id=48654705 Points: 2 # Comments: 0",
-    "published_at": "2026-06-24 03:22",
-    "tags": [],
-    "fetch_date": "2026-06-24",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Dataland, an intense new AI art museum",
-    "url": "https://www.economist.com/culture/2026/06/23/are-you-having-fun-yet-dataland-an-intense-new-ai-art-museum",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.economist.com/culture/2026/06/23/are-you-having-fun-yet-dataland-an-intense-new-ai-art-museum Comments URL: https://news.ycombinator.com/item?id=48654342 Points: 3 # Comments: 0",
-    "published_at": "2026-06-24 02:20",
-    "tags": [],
-    "fetch_date": "2026-06-24",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "China Minerals Threatens EU; AI Warfare Dominates Japan, WeChat",
-    "url": "https://asiaai.fyi/wp-login.php?redirect_to=https%3A%2F%2Fasiaai.fyi%2Fwp-admin%2Fpost.php%3Fpost%3D197&reauth=1",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://asiaai.fyi/wp-login.php?redirect_to=https%3A%2F%2Fasiaai.fyi%2Fwp-admin%2Fpost.php%3Fpost%3D197&amp;reauth=1 Comments URL: https://news.ycombinator.com/item?id=48654155 Points: 3 # Comments: 0",
-    "published_at": "2026-06-24 01:48",
-    "tags": [],
-    "fetch_date": "2026-06-24",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Chinese universities are cutting language majors to make way for AI",
-    "url": "https://restofworld.org/2026/chinese-universities-drop-humanities-ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://restofworld.org/2026/chinese-universities-drop-humanities-ai/ Comments URL: https://news.ycombinator.com/item?id=48653897 Points: 9 # Comments: 0",
-    "published_at": "2026-06-24 01:13",
-    "tags": [],
-    "fetch_date": "2026-06-24",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "UN chief urges AI companies to 'come clean' about the pollution they generate",
-    "url": "https://www.fastcompany.com/91563535/un-chief-urges-ai-companies-come-clean-about-pollution-create",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.fastcompany.com/91563535/un-chief-urges-ai-companies-come-clean-about-pollution-create Comments URL: https://news.ycombinator.com/item?id=48653894 Points: 3 # Comments: 0",
-    "published_at": "2026-06-24 01:13",
-    "tags": [],
-    "fetch_date": "2026-06-24",
-    "fetch_label": "早报"
   }
 ]
