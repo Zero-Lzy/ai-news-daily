@@ -1,5 +1,149 @@
 [
   {
+    "title": "Uber puts all 30,000 employees on ChatGPT Work",
+    "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+    "source": "TechCrunch AI",
+    "summary": "The ride share giant previously deployed a much smaller pilot for ChatGPT Work, but is now taking the enterprise agent company-wide.",
+    "published_at": "2026-10-22 16:00",
+    "tags": [
+      "AI"
+    ],
+    "fetch_date": "2026-10-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Spotify’s current AI bet is about being the music service that agents choose",
+    "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+    "source": "TechCrunch AI",
+    "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+    "published_at": "2026-10-22 15:03",
+    "tags": [
+      "AI",
+      "Apps",
+      "Media & Entertainment",
+      "music streaming",
+      "Spotify",
+      "streaming"
+    ],
+    "fetch_date": "2026-10-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Claude Duet app is Anthropic’s bet on agents",
+    "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+    "source": "TechCrunch AI",
+    "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
+    "published_at": "2026-10-22 13:53",
+    "tags": [
+      "AI",
+      "Apps",
+      "ai agent",
+      "Anthropic",
+      "Claude"
+    ],
+    "fetch_date": "2026-10-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Nirva raises $33M for a pendant that only listens to you",
+    "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+    "source": "TechCrunch AI",
+    "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+    "published_at": "2026-10-22 13:26",
+    "tags": [
+      "AI",
+      "Gadgets",
+      "Lightspeed Venture Capital",
+      "wearables",
+      "South Park Commons",
+      "Ambient AI"
+    ],
+    "fetch_date": "2026-10-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "DeepSeek reportedly raises $15B days after US restrictions",
+    "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+    "source": "TechCrunch AI",
+    "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
+    "published_at": "2026-10-22 13:11",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "artificial intellignce",
+      "deepseek",
+      "Funding"
+    ],
+    "fetch_date": "2026-10-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
+    "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
+    "source": "ArsTechnica AI",
+    "summary": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data.",
+    "published_at": "2026-10-22 11:30",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "exploit",
+      "hacking",
+      "the onion router",
+      "tor"
+    ],
+    "fetch_date": "2026-10-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI agents are ready to shop. Some retailers are wary.",
+    "url": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
+    "source": "The Verge AI",
+    "summary": "Using an AI agent to shop for you is a strange experience. Tech companies have marketed them as personal assistants - the democratizing of labor that ordinarily would only be available to the rich and powerful. In practice, at least for buying things, it's more like sending an anxious and apologetic teenager out to the [&#8230;]",
+    "published_at": "2026-10-22 08:30",
+    "tags": [
+      "AI",
+      "Meta",
+      "Online Shopping",
+      "Report",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Claude did not invent scorpion antivenom",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
+    "source": "The Verge AI",
+    "summary": "An investment research firm wanted to prove AI could revolutionize drug development. So they teamed up with Anthropic to see whether an unreleased version of Claude could make scorpion antivenom. It couldn't. It came up with some promising starting points, but nothing close to an actual drug, experts tell The Verge. Citrini Research, the firm [&#8230;]",
+    "published_at": "2026-10-22 08:21",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Health",
+      "Report",
+      "Science"
+    ],
+    "fetch_date": "2026-10-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Eiliko maker says it&#8217;s hiring an ‘independent security firm’ after Verge report on its insecure robots",
+    "url": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
+    "source": "The Verge AI",
+    "summary": "Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete transcripts of everything we told the toy, and that was just the beginning. The Verge and security [&#8230;]",
+    "published_at": "2026-10-22 07:00",
+    "tags": [
+      "AI",
+      "Gadgets",
+      "News",
+      "Robot",
+      "Security",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-23",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "AI agent on your notch, equipped with his own computer",
     "url": "https://notcho.si",
     "source": "Hacker News AI",
@@ -98,6 +242,24 @@
     "tags": [],
     "fetch_date": "2026-10-22",
     "fetch_label": "早报"
+  },
+  {
+    "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+    "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+    "source": "TechCrunch AI",
+    "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+    "published_at": "2026-10-21 22:51",
+    "tags": [
+      "AI",
+      "Hardware",
+      "Blackstone",
+      "CoreWeave",
+      "data centers",
+      "GPU",
+      "nvidia"
+    ],
+    "fetch_date": "2026-10-23",
+    "fetch_label": "晚报"
   },
   {
     "title": "Meta's new terms say if its AI makes a mistake, it will be the customer's fault",
@@ -217,6 +379,24 @@
     "fetch_label": "早报"
   },
   {
+    "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+    "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+    "source": "TechCrunch AI",
+    "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+    "published_at": "2026-10-21 17:18",
+    "tags": [
+      "AI",
+      "Startups",
+      "Venture",
+      "Blacksmith",
+      "In Brief",
+      "Sequoia",
+      "unicorn"
+    ],
+    "fetch_date": "2026-10-23",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Rust off Rails: The opinionated web stack for the AI era",
     "url": "https://rustoffrails.org/",
     "source": "Hacker News AI",
@@ -297,6 +477,21 @@
     "fetch_label": "晚报"
   },
   {
+    "title": "Walmart is inviting AI agents to shop for you",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+    "source": "The Verge AI",
+    "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to Amazon, which [&#8230;]",
+    "published_at": "2026-10-21 15:30",
+    "tags": [
+      "AI",
+      "News",
+      "Online Shopping",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-23",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Modular AI Data center presented by Nvidia",
     "url": "https://developer.nvidia.com/blog/achieve-productive-ai-capacity-faster-and-more-predictably-with-nvidia-dsx-pod/",
     "source": "Hacker News AI",
@@ -361,6 +556,22 @@
     ],
     "fetch_date": "2026-10-22",
     "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+    "source": "The Verge AI",
+    "summary": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The reference didn't configure a monitor, and Astra decided that was reason [&#8230;]",
+    "published_at": "2026-10-21 09:57",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI",
+      "Security",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-23",
+    "fetch_label": "晚报"
   },
   {
     "title": "DeepSeek Unveils Open-Source Tool to Help Cut AI Operating Costs",
@@ -35067,178 +35278,5 @@
     "tags": [],
     "fetch_date": "2026-06-26",
     "fetch_label": "早报"
-  },
-  {
-    "title": "AI children's books, body horror edition",
-    "url": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition Comments URL: https://news.ycombinator.com/item?id=48681250 Points: 156 # Comments: 51",
-    "published_at": "2026-06-26 01:15",
-    "tags": [],
-    "fetch_date": "2026-06-26",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Email Template Design",
-    "url": "https://madooai.com",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://madooai.com Comments URL: https://news.ycombinator.com/item?id=48681246 Points: 3 # Comments: 1",
-    "published_at": "2026-06-26 01:14",
-    "tags": [],
-    "fetch_date": "2026-06-26",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Anthropic Accuses Alibaba of Largest AI Distillation Attack: 28.8M Fraudulent",
-    "url": "https://yipzap.com/anthropic-accuses-alibaba-of-largest-ai-distillation-attack-28-8m-fraudulent-exchanges/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://yipzap.com/anthropic-accuses-alibaba-of-largest-ai-distillation-attack-28-8m-fraudulent-exchanges/ Comments URL: https://news.ycombinator.com/item?id=48681111 Points: 4 # Comments: 2",
-    "published_at": "2026-06-26 00:49",
-    "tags": [],
-    "fetch_date": "2026-06-26",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Claude AI's link handling and fix",
-    "url": "https://www.FoolQuest.com/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.FoolQuest.com/ Comments URL: https://news.ycombinator.com/item?id=48680607 Points: 2 # Comments: 0",
-    "published_at": "2026-06-25 23:38",
-    "tags": [],
-    "fetch_date": "2026-06-26",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Tropius: Detect AI Tropes in Prose",
-    "url": "https://tangled.org/desertthunder.dev/tropius",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://tangled.org/desertthunder.dev/tropius Comments URL: https://news.ycombinator.com/item?id=48680569 Points: 4 # Comments: 0",
-    "published_at": "2026-06-25 23:32",
-    "tags": [],
-    "fetch_date": "2026-06-26",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-    "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-    "source": "TechCrunch AI",
-    "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
-    "published_at": "2026-06-25 20:19",
-    "tags": [
-      "AI",
-      "Venture",
-      "ai benchmarks",
-      "evaluation",
-      "Greenfield Partners",
-      "lightspeed",
-      "Notable Capital",
-      "Patronus AI"
-    ],
-    "fetch_date": "2026-06-26",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
-    "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
-    "source": "ArsTechnica AI",
-    "summary": "Notion is \"going all in on using agents to run your inbox.\"",
-    "published_at": "2026-06-25 19:04",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "Tech",
-      "apps",
-      "email",
-      "email client",
-      "Skiff",
-      "software"
-    ],
-    "fetch_date": "2026-06-27",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-    "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-    "source": "TechCrunch AI",
-    "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
-    "published_at": "2026-06-25 17:38",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "ChatGPT",
-      "Claude",
-      "OpenAI"
-    ],
-    "fetch_date": "2026-06-26",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
-    "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-    "source": "TechCrunch AI",
-    "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
-    "published_at": "2026-06-25 16:55",
-    "tags": [
-      "AI",
-      "Fundraising",
-      "Robotics",
-      "Startups",
-      "AI training data",
-      "general intuition",
-      "Khosla Ventures",
-      "world models"
-    ],
-    "fetch_date": "2026-06-26",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
-    "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-    "source": "TechCrunch AI",
-    "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
-    "published_at": "2026-06-25 16:48",
-    "tags": [
-      "AI",
-      "TC",
-      "diffusion model",
-      "image-generation"
-    ],
-    "fetch_date": "2026-06-26",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-    "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
-    "source": "TechCrunch AI",
-    "summary": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
-    "published_at": "2026-06-25 14:55",
-    "tags": [
-      "AI",
-      "a16z",
-      "neocloud",
-      "Netris"
-    ],
-    "fetch_date": "2026-06-26",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AirPosture – AirPods as AI posture coach (Open source)",
-    "url": "https://airposture.github.io",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://airposture.github.io Comments URL: https://news.ycombinator.com/item?id=48673814 Points: 2 # Comments: 0",
-    "published_at": "2026-06-25 14:18",
-    "tags": [],
-    "fetch_date": "2026-06-25",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Using Microsoft Copilot Enterprise, 80% of time the AI falsified results or code",
-    "url": "https://info.microsoft.com/ww-landing-four-paths-to-business-value-with-ai.html?lcid=en-us",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://info.microsoft.com/ww-landing-four-paths-to-business-value-with-ai.html?lcid=en-us Comments URL: https://news.ycombinator.com/item?id=48673781 Points: 4 # Comments: 1",
-    "published_at": "2026-06-25 14:16",
-    "tags": [],
-    "fetch_date": "2026-06-25",
-    "fetch_label": "晚报"
   }
 ]
