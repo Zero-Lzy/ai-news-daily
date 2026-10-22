@@ -1,5 +1,222 @@
 [
   {
+    "title": "AI agent on your notch, equipped with his own computer",
+    "url": "https://notcho.si",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://notcho.si Comments URL: https://news.ycombinator.com/item?id=50190792 Points: 1 # Comments: 0",
+    "published_at": "2026-10-22 03:22",
+    "tags": [],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Nokia, T-Mobile and Nvidia complete first AI-RAN call",
+    "url": "https://www.nokia.com/blog/from-the-lab-to-the-live-network-nokia-t-mobile-and-nvidia-complete-worlds-first-ai-ran-call/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.nokia.com/blog/from-the-lab-to-the-live-network-nokia-t-mobile-and-nvidia-complete-worlds-first-ai-ran-call/ Comments URL: https://news.ycombinator.com/item?id=50190626 Points: 1 # Comments: 0",
+    "published_at": "2026-10-22 02:59",
+    "tags": [],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: HN Sieve – every Show HN scored and summarized by AI",
+    "url": "https://hnsieve.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://hnsieve.com Comments URL: https://news.ycombinator.com/item?id=50190403 Points: 3 # Comments: 0",
+    "published_at": "2026-10-22 02:24",
+    "tags": [],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "LLM Agents Play Pokemon Showdown",
+    "url": "https://olivergrabner.com/research/pokemon/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://olivergrabner.com/research/pokemon/ Comments URL: https://news.ycombinator.com/item?id=50190334 Points: 15 # Comments: 10",
+    "published_at": "2026-10-22 02:13",
+    "tags": [],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Can AI generate reliable product demos directly from source code?",
+    "url": "https://news.ycombinator.com/item?id=50190257",
+    "source": "Hacker News AI",
+    "summary": "Discuss the challenges of understanding application workflows, identifying meaningful UI states, and synchronizing animations with narration. Comments URL: https://news.ycombinator.com/item?id=50190257 Points: 2 # Comments: 0",
+    "published_at": "2026-10-22 02:03",
+    "tags": [],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Overlay that Lives on your Desktop",
+    "url": "https://www.lumenoverlay.com",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.lumenoverlay.com Comments URL: https://news.ycombinator.com/item?id=50190245 Points: 1 # Comments: 0",
+    "published_at": "2026-10-22 02:01",
+    "tags": [],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Can a malicious webpage hijack an AI agent?",
+    "url": "https://victorribeiro.com/bots/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://victorribeiro.com/bots/ Comments URL: https://news.ycombinator.com/item?id=50189688 Points: 3 # Comments: 0",
+    "published_at": "2026-10-22 00:50",
+    "tags": [],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Unsupervised AI agent reportedly deletes TV show's edit before release",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-deletes-tv-shows-entire-edit-weeks-before-release-backup-failure-means-production-team-needs-to-re-edit",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-deletes-tv-shows-entire-edit-weeks-before-release-backup-failure-means-production-team-needs-to-re-edit Comments URL: https://news.ycombinator.com/item?id=50189499 Points: 1 # Comments: 1",
+    "published_at": "2026-10-22 00:26",
+    "tags": [],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Russia cracks down on AI bears as real attacks spread fear",
+    "url": "https://www.reuters.com/lifestyle/russia-cracks-down-ai-bears-real-attacks-spread-fear-2026-10-14/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.reuters.com/lifestyle/russia-cracks-down-ai-bears-real-attacks-spread-fear-2026-10-14/ Comments URL: https://news.ycombinator.com/item?id=50189271 Points: 2 # Comments: 0",
+    "published_at": "2026-10-21 23:57",
+    "tags": [],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "CyberArena: Benchmarking AI Agents in Live Symmetric Attack-and-Defense Combat",
+    "url": "https://arxiv.org/abs/2610.19005",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://arxiv.org/abs/2610.19005 Comments URL: https://news.ycombinator.com/item?id=50189084 Points: 2 # Comments: 0",
+    "published_at": "2026-10-21 23:29",
+    "tags": [],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Meta's new terms say if its AI makes a mistake, it will be the customer's fault",
+    "url": "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html Comments URL: https://news.ycombinator.com/item?id=50188774 Points: 8 # Comments: 2",
+    "published_at": "2026-10-21 22:48",
+    "tags": [],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+    "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+    "source": "TechCrunch AI",
+    "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+    "published_at": "2026-10-21 21:16",
+    "tags": [
+      "AI",
+      "Startups",
+      "Venture",
+      "TechCrunch Founder Summit"
+    ],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Meta says Muse has over 10M users, with shopping a top activity",
+    "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+    "source": "TechCrunch AI",
+    "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+    "published_at": "2026-10-21 21:14",
+    "tags": [
+      "AI",
+      "Apps",
+      "Social",
+      "agentic commerce",
+      "ai apps",
+      "eCommerce",
+      "Meta",
+      "muse"
+    ],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AI Is Anti-Punk",
+    "url": "https://www.techdirt.com/2026/10/21/ai-is-anti-punk/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.techdirt.com/2026/10/21/ai-is-anti-punk/ Comments URL: https://news.ycombinator.com/item?id=50187406 Points: 7 # Comments: 1",
+    "published_at": "2026-10-21 20:48",
+    "tags": [],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+    "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+    "source": "TechCrunch AI",
+    "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+    "published_at": "2026-10-21 19:30",
+    "tags": [
+      "AI",
+      "Commerce",
+      "agentic shopping",
+      "AI agents",
+      "Amazon",
+      "Walmart"
+    ],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Data centers could erase decades of air quality gains",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+    "source": "The Verge AI",
+    "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas [&#8230;]",
+    "published_at": "2026-10-21 18:33",
+    "tags": [
+      "AI",
+      "Energy",
+      "Environment",
+      "Science"
+    ],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+    "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+    "source": "TechCrunch AI",
+    "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+    "published_at": "2026-10-21 17:59",
+    "tags": [
+      "AI",
+      "Security",
+      "OpenAI",
+      "php",
+      "wiz"
+    ],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Meta to create a new class of shares to fund AI push",
+    "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+    "source": "The Verge AI",
+    "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027. \"The scale of investment required to compete, sustain growth, expand infrastructure, [&#8230;]",
+    "published_at": "2026-10-21 17:30",
+    "tags": [
+      "AI",
+      "Meta",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "早报"
+  },
+  {
     "title": "Rust off Rails: The opinionated web stack for the AI era",
     "url": "https://rustoffrails.org/",
     "source": "Hacker News AI",
@@ -128,6 +345,22 @@
     "tags": [],
     "fetch_date": "2026-10-22",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Conversational Gemini navigation comes to Apple CarPlay",
+    "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+    "source": "The Verge AI",
+    "summary": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional availability details). It's taken almost 12 months for Google to bring [&#8230;]",
+    "published_at": "2026-10-21 11:00",
+    "tags": [
+      "AI",
+      "Apple",
+      "Google",
+      "Tech",
+      "Transportation"
+    ],
+    "fetch_date": "2026-10-22",
+    "fetch_label": "早报"
   },
   {
     "title": "DeepSeek Unveils Open-Source Tool to Help Cut AI Operating Costs",
@@ -35007,213 +35240,5 @@
     "tags": [],
     "fetch_date": "2026-06-25",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: FreeAIStack – 14 Free AI Tools",
-    "url": "https://aifreeaistack.com/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://aifreeaistack.com/ Comments URL: https://news.ycombinator.com/item?id=48673728 Points: 2 # Comments: 0",
-    "published_at": "2026-06-25 14:12",
-    "tags": [],
-    "fetch_date": "2026-06-25",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Build an AI Discord Moderation Bot: Ban, Kick, Timeout and More",
-    "url": "https://quickchat.ai/post/ai-discord-moderation-bot",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://quickchat.ai/post/ai-discord-moderation-bot Comments URL: https://news.ycombinator.com/item?id=48673726 Points: 2 # Comments: 0",
-    "published_at": "2026-06-25 14:12",
-    "tags": [],
-    "fetch_date": "2026-06-25",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "UN hypocrisy in AI Environmental demands",
-    "url": "https://www.thatprivacyguy.com/blog/un-tracking-without-consent/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.thatprivacyguy.com/blog/un-tracking-without-consent/ Comments URL: https://news.ycombinator.com/item?id=48673321 Points: 5 # Comments: 2",
-    "published_at": "2026-06-25 13:46",
-    "tags": [],
-    "fetch_date": "2026-06-25",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Good clarity on AI observability and in simple terms",
-    "url": "https://posthog.com/blog/what-is-ai-observability",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://posthog.com/blog/what-is-ai-observability Comments URL: https://news.ycombinator.com/item?id=48673299 Points: 4 # Comments: 1",
-    "published_at": "2026-06-25 13:45",
-    "tags": [],
-    "fetch_date": "2026-06-25",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Tokenmaxxing is dead, and the real AI cost reckoning hasn't started yet",
-    "url": "https://mimetiq.substack.com/p/the-tokenmaxxing-hangover",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://mimetiq.substack.com/p/the-tokenmaxxing-hangover Comments URL: https://news.ycombinator.com/item?id=48673294 Points: 3 # Comments: 0",
-    "published_at": "2026-06-25 13:44",
-    "tags": [],
-    "fetch_date": "2026-06-25",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: Pith – A local-first desktop LLM wiki without vector DBs or embeddings",
-    "url": "https://github.com/l-zhi/pith-wiki",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/l-zhi/pith-wiki Comments URL: https://news.ycombinator.com/item?id=48673110 Points: 3 # Comments: 0",
-    "published_at": "2026-06-25 13:32",
-    "tags": [],
-    "fetch_date": "2026-06-25",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Machine learning rediscovers equations governing ocean biogeochemistry",
-    "url": "https://phys.org/news/2026-06-machine-rediscovers-equations-ocean-biogeochemistry.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://phys.org/news/2026-06-machine-rediscovers-equations-ocean-biogeochemistry.html Comments URL: https://news.ycombinator.com/item?id=48673047 Points: 2 # Comments: 0",
-    "published_at": "2026-06-25 13:28",
-    "tags": [],
-    "fetch_date": "2026-06-25",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "How do you feel about AI today?",
-    "url": "https://vote.how-you-feel-about-ai.workers.dev/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://vote.how-you-feel-about-ai.workers.dev/ Comments URL: https://news.ycombinator.com/item?id=48672983 Points: 2 # Comments: 0",
-    "published_at": "2026-06-25 13:23",
-    "tags": [],
-    "fetch_date": "2026-06-25",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Why Does Everyone Hate AI?",
-    "url": "https://paulkrugman.substack.com/p/why-does-everyone-hate-ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://paulkrugman.substack.com/p/why-does-everyone-hate-ai Comments URL: https://news.ycombinator.com/item?id=48672694 Points: 57 # Comments: 80",
-    "published_at": "2026-06-25 12:59",
-    "tags": [],
-    "fetch_date": "2026-06-25",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
-    "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
-    "source": "TechCrunch AI",
-    "summary": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
-    "published_at": "2026-06-25 12:00",
-    "tags": [
-      "AI",
-      "Enterprise",
-      "Amazon",
-      "Andy Jassy",
-      "AWS",
-      "data centers"
-    ],
-    "fetch_date": "2026-06-25",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
-    "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
-    "source": "The Verge AI",
-    "summary": "To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reliance on automated systems in production and design. It turns out that those automated systems were not as robust as previously assumed, [&#8230;]",
-    "published_at": "2026-06-25 08:00",
-    "tags": [
-      "AI",
-      "Cars",
-      "Ford",
-      "News",
-      "Transportation"
-    ],
-    "fetch_date": "2026-06-25",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Facebook’s Creator Studio has been revived as an AI companion app",
-    "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
-    "source": "The Verge AI",
-    "summary": "Meta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences and show them \"exactly how to grow on Facebook,\" according to Meta's announcement. Meta's AI Creator Assistant is a central focus of [&#8230;]",
-    "published_at": "2026-06-25 05:06",
-    "tags": [
-      "AI",
-      "Facebook",
-      "Meta",
-      "Tech"
-    ],
-    "fetch_date": "2026-06-26",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Bernie Sanders Wants a U.S. Sovereign Wealth Fund for AI",
-    "url": "https://www.forbes.com/sites/jamesbroughel/2026/06/22/bernie-sanders-wants-a-us-sovereign-wealth-fund-for-ai/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.forbes.com/sites/jamesbroughel/2026/06/22/bernie-sanders-wants-a-us-sovereign-wealth-fund-for-ai/ Comments URL: https://news.ycombinator.com/item?id=48668581 Points: 1 # Comments: 0",
-    "published_at": "2026-06-25 03:41",
-    "tags": [],
-    "fetch_date": "2026-06-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "IatroBench: Pre-Registered Evidence of Iatrogenic Harm from AI Safety Measures",
-    "url": "https://arxiv.org/abs/2604.07709",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://arxiv.org/abs/2604.07709 Comments URL: https://news.ycombinator.com/item?id=48668552 Points: 1 # Comments: 0",
-    "published_at": "2026-06-25 03:36",
-    "tags": [],
-    "fetch_date": "2026-06-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Loop engineering, latest AI buzzword, still needs humans in the loop",
-    "url": "https://www.theregister.com/ai-and-ml/2026/06/24/loop-engineering-latest-ai-buzzword-still-needs-humans-in-the-loop/5261735",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/24/loop-engineering-latest-ai-buzzword-still-needs-humans-in-the-loop/5261735 Comments URL: https://news.ycombinator.com/item?id=48668521 Points: 2 # Comments: 0",
-    "published_at": "2026-06-25 03:32",
-    "tags": [],
-    "fetch_date": "2026-06-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Companies are not looking before they're leaping into the AI playpen",
-    "url": "https://www.theregister.com/devops/2026/06/24/companies-are-not-looking-before-theyre-leaping-into-the-ai-playpen/5261819",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.theregister.com/devops/2026/06/24/companies-are-not-looking-before-theyre-leaping-into-the-ai-playpen/5261819 Comments URL: https://news.ycombinator.com/item?id=48668512 Points: 2 # Comments: 0",
-    "published_at": "2026-06-25 03:32",
-    "tags": [],
-    "fetch_date": "2026-06-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "This One's Not AI",
-    "url": "https://blog.tacoda.dev/this-ones-not-ai-992c95537790",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://blog.tacoda.dev/this-ones-not-ai-992c95537790 Comments URL: https://news.ycombinator.com/item?id=48668240 Points: 2 # Comments: 2",
-    "published_at": "2026-06-25 02:49",
-    "tags": [],
-    "fetch_date": "2026-06-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "TronBrowser is an open-source, privacy-first, AI-native web browser",
-    "url": "https://tronbrowser.dev/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://tronbrowser.dev/ Comments URL: https://news.ycombinator.com/item?id=48667923 Points: 1 # Comments: 1",
-    "published_at": "2026-06-25 02:01",
-    "tags": [],
-    "fetch_date": "2026-06-25",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Calling everything AI-generated is lazy",
-    "url": "https://00f.net/2026/06/25/stop-calling-everything-ai-generated/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://00f.net/2026/06/25/stop-calling-everything-ai-generated/ Comments URL: https://news.ycombinator.com/item?id=48667655 Points: 4 # Comments: 2",
-    "published_at": "2026-06-25 01:22",
-    "tags": [],
-    "fetch_date": "2026-06-25",
-    "fetch_label": "早报"
   }
 ]
