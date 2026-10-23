@@ -1,5 +1,152 @@
 [
   {
+    "title": "H2oai/jdupes: H2O.ai fork of jdupes",
+    "url": "https://github.com/h2oai/jdupes",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/h2oai/jdupes Comments URL: https://news.ycombinator.com/item?id=50211669 Points: 1 # Comments: 0",
+    "published_at": "2026-10-23 16:35",
+    "tags": [],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Why AI Can't Replace Engineering Teams",
+    "url": "https://spectrum.ieee.org/engineering-jobs-that-ai-cant-replace",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://spectrum.ieee.org/engineering-jobs-that-ai-cant-replace Comments URL: https://news.ycombinator.com/item?id=50211659 Points: 1 # Comments: 0",
+    "published_at": "2026-10-23 16:34",
+    "tags": [],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Safety Is Mostly a Sex Cult in Berkeley, California",
+    "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in-berkeley-california",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in-berkeley-california Comments URL: https://news.ycombinator.com/item?id=50211618 Points: 1 # Comments: 0",
+    "published_at": "2026-10-23 16:31",
+    "tags": [],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Teams of AI agents that don't loop: handoff maps, three modes, hard budgets",
+    "url": "https://awflow.io/blog/ai-agent-teams-that-dont-loop",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://awflow.io/blog/ai-agent-teams-that-dont-loop Comments URL: https://news.ycombinator.com/item?id=50211593 Points: 1 # Comments: 0",
+    "published_at": "2026-10-23 16:30",
+    "tags": [],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Drowning in slop. Can the state survive the rise of AI?",
+    "url": "https://thelivinglib.org/drowning-in-slop-can-the-state-survive-the-rise-of-ai/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://thelivinglib.org/drowning-in-slop-can-the-state-survive-the-rise-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50211477 Points: 1 # Comments: 0",
+    "published_at": "2026-10-23 16:22",
+    "tags": [],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Show HN: Koala – Run AI Agents in Isolated Linux VMs on macOS",
+    "url": "https://kunalkushwaha.github.io/homebrew-koala/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://kunalkushwaha.github.io/homebrew-koala/ Comments URL: https://news.ycombinator.com/item?id=50211429 Points: 2 # Comments: 0",
+    "published_at": "2026-10-23 16:18",
+    "tags": [],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI: A Threat or a Mirror of Our Own Mistakes?",
+    "url": "https://medium.com/@kate8382/ai-a-threat-or-a-mirror-of-our-own-mistakes-ebfa19e3fd65",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://medium.com/@kate8382/ai-a-threat-or-a-mirror-of-our-own-mistakes-ebfa19e3fd65 Comments URL: https://news.ycombinator.com/item?id=50211384 Points: 1 # Comments: 0",
+    "published_at": "2026-10-23 16:15",
+    "tags": [],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Unstructured's New Models Outparse GPT-6, Claude and Gemini",
+    "url": "https://unstructured.io/blog/unstructured-transform-faster-more-accurate-for-your-hardest-documents",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://unstructured.io/blog/unstructured-transform-faster-more-accurate-for-your-hardest-documents Comments URL: https://news.ycombinator.com/item?id=50211236 Points: 1 # Comments: 0",
+    "published_at": "2026-10-23 16:06",
+    "tags": [],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "We gave an AI $100k to trade on leverage. Here's what it did",
+    "url": "https://twitter.com/DeployFinance/status/2113642187074195945",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://twitter.com/DeployFinance/status/2113642187074195945 Comments URL: https://news.ycombinator.com/item?id=50211142 Points: 1 # Comments: 0",
+    "published_at": "2026-10-23 15:59",
+    "tags": [],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Local AI Is Not as Private as You Think [video]",
+    "url": "https://www.youtube.com/watch?v=3mx84MRj8lY",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.youtube.com/watch?v=3mx84MRj8lY Comments URL: https://news.ycombinator.com/item?id=50210986 Points: 1 # Comments: 0",
+    "published_at": "2026-10-23 15:50",
+    "tags": [],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "AI Isn't Sovereign Because You Host It Yourself",
+    "url": "https://www.jamiecadvisory.com/perspectives/your-ai-isnt-sovereign-because-you-host-it-yourself/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.jamiecadvisory.com/perspectives/your-ai-isnt-sovereign-because-you-host-it-yourself/ Comments URL: https://news.ycombinator.com/item?id=50210646 Points: 2 # Comments: 0",
+    "published_at": "2026-10-23 15:26",
+    "tags": [],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Retro gaming is being overrun with AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port Comments URL: https://news.ycombinator.com/item?id=50210583 Points: 1 # Comments: 0",
+    "published_at": "2026-10-23 15:22",
+    "tags": [],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Google Ads AI Automation is a team of 41 AI agents",
+    "url": "https://github.com/aipsyhelp/ai_ads_google",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/aipsyhelp/ai_ads_google Comments URL: https://news.ycombinator.com/item?id=50210566 Points: 1 # Comments: 0",
+    "published_at": "2026-10-23 15:21",
+    "tags": [],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+    "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+    "source": "TechCrunch AI",
+    "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+    "published_at": "2026-10-23 04:00",
+    "tags": [
+      "AI",
+      "Transportation",
+      "indrive",
+      "nvidia",
+      "Pony.ai",
+      "ride-hailing"
+    ],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Left alone with nothing to do, AI agents started playing",
     "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
     "source": "TechCrunch AI",
@@ -93,6 +240,21 @@
     "fetch_label": "早报"
   },
   {
+    "title": "Meta turns Muse sharing back on",
+    "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+    "source": "The Verge AI",
+    "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earlier this week that Muse the web [&#8230;]",
+    "published_at": "2026-10-22 16:24",
+    "tags": [
+      "AI",
+      "Meta",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Uber puts all 30,000 employees on ChatGPT Work",
     "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
     "source": "TechCrunch AI",
@@ -143,6 +305,22 @@
       "streaming"
     ],
     "fetch_date": "2026-10-23",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+    "source": "The Verge AI",
+    "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose conditions up to four times more accurately than human [&#8230;]",
+    "published_at": "2026-10-22 14:00",
+    "tags": [
+      "AI",
+      "Health",
+      "Microsoft",
+      "Science",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-24",
     "fetch_label": "晚报"
   },
   {
@@ -35138,192 +35316,5 @@
     "tags": [],
     "fetch_date": "2026-06-27",
     "fetch_label": "早报"
-  },
-  {
-    "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-    "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-    "source": "TechCrunch AI",
-    "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
-    "published_at": "2026-06-26 18:32",
-    "tags": [
-      "AI",
-      "Government & Policy",
-      "gpt-5.6",
-      "gpt-5.6 sol",
-      "OpenAI",
-      "Trump"
-    ],
-    "fetch_date": "2026-06-27",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "It’s not about Anthropic vs. OpenAI anymore",
-    "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-    "source": "TechCrunch AI",
-    "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
-    "published_at": "2026-06-26 16:24",
-    "tags": [
-      "AI",
-      "Government & Policy",
-      "Anthropic",
-      "OpenAI"
-    ],
-    "fetch_date": "2026-06-27",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The Shift to Agentic AI: Evidence from Codex [pdf]",
-    "url": "https://cdn.openai.com/pdf/5d1e1489-21c0-43e4-9d42-f87efdbf0082/the-shift-to-agentic-ai-evidence-from-codex.pdf",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://cdn.openai.com/pdf/5d1e1489-21c0-43e4-9d42-f87efdbf0082/the-shift-to-agentic-ai-evidence-from-codex.pdf Comments URL: https://news.ycombinator.com/item?id=48686845 Points: 3 # Comments: 0",
-    "published_at": "2026-06-26 14:11",
-    "tags": [],
-    "fetch_date": "2026-06-26",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "What One Year in AI Security and Governance Changed About How I See AI",
-    "url": "https://codebynight.dev/posts/one-year-ai-security-governance-see-ai-differently/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://codebynight.dev/posts/one-year-ai-security-governance-see-ai-differently/ Comments URL: https://news.ycombinator.com/item?id=48686812 Points: 2 # Comments: 0",
-    "published_at": "2026-06-26 14:08",
-    "tags": [],
-    "fetch_date": "2026-06-26",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "History Lens – AI-powered historical artifact and monument identifier",
-    "url": "https://apps.apple.com/us/app/history-lens-ai-identifier/id6757669028",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://apps.apple.com/us/app/history-lens-ai-identifier/id6757669028 Comments URL: https://news.ycombinator.com/item?id=48686796 Points: 2 # Comments: 0",
-    "published_at": "2026-06-26 14:06",
-    "tags": [],
-    "fetch_date": "2026-06-26",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show Casing Kohinoor AI, Kohinoorai.in",
-    "url": "https://news.ycombinator.com/item?id=48686764",
-    "source": "Hacker News AI",
-    "summary": "this is an ai I made, it is to try and lessen tuition fees by using the ai study. Comments URL: https://news.ycombinator.com/item?id=48686764 Points: 1 # Comments: 0",
-    "published_at": "2026-06-26 14:03",
-    "tags": [],
-    "fetch_date": "2026-06-26",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
-    "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
-    "source": "TechCrunch AI",
-    "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal&#160;is&#160;less&#160;of&#160;a [&#8230;]",
-    "published_at": "2026-06-26 14:00",
-    "tags": [
-      "AI",
-      "Fundraising",
-      "a24",
-      "agility",
-      "AI chips",
-      "AI loops",
-      "Anthropic",
-      "custom silicon",
-      "Equity podcast",
-      "groq",
-      "humanoid robots",
-      "nvidia",
-      "OpenAI",
-      "SPAC"
-    ],
-    "fetch_date": "2026-06-27",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Local AI detectors rated a 2013 Paul Graham essay as more AI than actual slop",
-    "url": "https://ninjasandrobots.com/paul-graham-flagged-for-ai-use",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://ninjasandrobots.com/paul-graham-flagged-for-ai-use Comments URL: https://news.ycombinator.com/item?id=48686737 Points: 4 # Comments: 0",
-    "published_at": "2026-06-26 13:59",
-    "tags": [],
-    "fetch_date": "2026-06-26",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Show HN: NexisSearch – Fast AI Search",
-    "url": "https://nexisearch.com",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://nexisearch.com Comments URL: https://news.ycombinator.com/item?id=48686676 Points: 1 # Comments: 1",
-    "published_at": "2026-06-26 13:53",
-    "tags": [],
-    "fetch_date": "2026-06-26",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Food for Agile Thought 550: Make AI Boring, Everyone's a Product Manager Soon",
-    "url": "https://age-of-product.com/food-agile-thought-550-make-ai-boring/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://age-of-product.com/food-agile-thought-550-make-ai-boring/ Comments URL: https://news.ycombinator.com/item?id=48686564 Points: 1 # Comments: 0",
-    "published_at": "2026-06-26 13:41",
-    "tags": [],
-    "fetch_date": "2026-06-26",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Multi-harness session monitoring app for heavy AI users",
-    "url": "https://cctop.app/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://cctop.app/ Comments URL: https://news.ycombinator.com/item?id=48686466 Points: 2 # Comments: 1",
-    "published_at": "2026-06-26 13:33",
-    "tags": [],
-    "fetch_date": "2026-06-26",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "AI and Liability",
-    "url": "https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html Comments URL: https://news.ycombinator.com/item?id=48686446 Points: 1 # Comments: 0",
-    "published_at": "2026-06-26 13:31",
-    "tags": [],
-    "fetch_date": "2026-06-26",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "I Wish I Knew This Before Building an AI Second Brain",
-    "url": "https://pub.towardsai.net/i-wish-i-knew-this-before-building-an-ai-second-brain-6179aa439aef",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://pub.towardsai.net/i-wish-i-knew-this-before-building-an-ai-second-brain-6179aa439aef Comments URL: https://news.ycombinator.com/item?id=48686390 Points: 1 # Comments: 0",
-    "published_at": "2026-06-26 13:27",
-    "tags": [],
-    "fetch_date": "2026-06-26",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Trump administration asks OpenAI to stagger release of GPT 5.6",
-    "url": "https://old.reddit.com/r/OpenAI/comments/1ufnwkh/breaking_trump_administration_asks_openai_to/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://old.reddit.com/r/OpenAI/comments/1ufnwkh/breaking_trump_administration_asks_openai_to/ Comments URL: https://news.ycombinator.com/item?id=48686335 Points: 1 # Comments: 0",
-    "published_at": "2026-06-26 13:22",
-    "tags": [],
-    "fetch_date": "2026-06-26",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Adobe is buying Topaz Labs, the AI video enhancer",
-    "url": "https://thenextweb.com/news/adobe-acquires-topaz-labs-ai-enhancement",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://thenextweb.com/news/adobe-acquires-topaz-labs-ai-enhancement Comments URL: https://news.ycombinator.com/item?id=48686246 Points: 2 # Comments: 0",
-    "published_at": "2026-06-26 13:14",
-    "tags": [],
-    "fetch_date": "2026-06-26",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "The AI backlash is only getting started",
-    "url": "https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started Comments URL: https://news.ycombinator.com/item?id=48686219 Points: 5 # Comments: 2",
-    "published_at": "2026-06-26 13:12",
-    "tags": [],
-    "fetch_date": "2026-06-26",
-    "fetch_label": "晚报"
   }
 ]

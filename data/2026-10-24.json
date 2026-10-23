@@ -1,0 +1,238 @@
+{
+  "date": "2026-10-24",
+  "runs": [
+    {
+      "label": "晚报",
+      "time": "2026-10-24 00:36:08",
+      "count": 22,
+      "articles": [
+        {
+          "title": "H2oai/jdupes: H2O.ai fork of jdupes",
+          "url": "https://github.com/h2oai/jdupes",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/h2oai/jdupes Comments URL: https://news.ycombinator.com/item?id=50211669 Points: 1 # Comments: 0",
+          "published_at": "2026-10-23 16:35",
+          "tags": []
+        },
+        {
+          "title": "Why AI Can't Replace Engineering Teams",
+          "url": "https://spectrum.ieee.org/engineering-jobs-that-ai-cant-replace",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://spectrum.ieee.org/engineering-jobs-that-ai-cant-replace Comments URL: https://news.ycombinator.com/item?id=50211659 Points: 1 # Comments: 0",
+          "published_at": "2026-10-23 16:34",
+          "tags": []
+        },
+        {
+          "title": "AI Safety Is Mostly a Sex Cult in Berkeley, California",
+          "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in-berkeley-california",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in-berkeley-california Comments URL: https://news.ycombinator.com/item?id=50211618 Points: 1 # Comments: 0",
+          "published_at": "2026-10-23 16:31",
+          "tags": []
+        },
+        {
+          "title": "Teams of AI agents that don't loop: handoff maps, three modes, hard budgets",
+          "url": "https://awflow.io/blog/ai-agent-teams-that-dont-loop",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://awflow.io/blog/ai-agent-teams-that-dont-loop Comments URL: https://news.ycombinator.com/item?id=50211593 Points: 1 # Comments: 0",
+          "published_at": "2026-10-23 16:30",
+          "tags": []
+        },
+        {
+          "title": "Drowning in slop. Can the state survive the rise of AI?",
+          "url": "https://thelivinglib.org/drowning-in-slop-can-the-state-survive-the-rise-of-ai/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://thelivinglib.org/drowning-in-slop-can-the-state-survive-the-rise-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50211477 Points: 1 # Comments: 0",
+          "published_at": "2026-10-23 16:22",
+          "tags": []
+        },
+        {
+          "title": "Show HN: Koala – Run AI Agents in Isolated Linux VMs on macOS",
+          "url": "https://kunalkushwaha.github.io/homebrew-koala/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://kunalkushwaha.github.io/homebrew-koala/ Comments URL: https://news.ycombinator.com/item?id=50211429 Points: 2 # Comments: 0",
+          "published_at": "2026-10-23 16:18",
+          "tags": []
+        },
+        {
+          "title": "AI: A Threat or a Mirror of Our Own Mistakes?",
+          "url": "https://medium.com/@kate8382/ai-a-threat-or-a-mirror-of-our-own-mistakes-ebfa19e3fd65",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://medium.com/@kate8382/ai-a-threat-or-a-mirror-of-our-own-mistakes-ebfa19e3fd65 Comments URL: https://news.ycombinator.com/item?id=50211384 Points: 1 # Comments: 0",
+          "published_at": "2026-10-23 16:15",
+          "tags": []
+        },
+        {
+          "title": "Unstructured's New Models Outparse GPT-6, Claude and Gemini",
+          "url": "https://unstructured.io/blog/unstructured-transform-faster-more-accurate-for-your-hardest-documents",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://unstructured.io/blog/unstructured-transform-faster-more-accurate-for-your-hardest-documents Comments URL: https://news.ycombinator.com/item?id=50211236 Points: 1 # Comments: 0",
+          "published_at": "2026-10-23 16:06",
+          "tags": []
+        },
+        {
+          "title": "We gave an AI $100k to trade on leverage. Here's what it did",
+          "url": "https://twitter.com/DeployFinance/status/2113642187074195945",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://twitter.com/DeployFinance/status/2113642187074195945 Comments URL: https://news.ycombinator.com/item?id=50211142 Points: 1 # Comments: 0",
+          "published_at": "2026-10-23 15:59",
+          "tags": []
+        },
+        {
+          "title": "Local AI Is Not as Private as You Think [video]",
+          "url": "https://www.youtube.com/watch?v=3mx84MRj8lY",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.youtube.com/watch?v=3mx84MRj8lY Comments URL: https://news.ycombinator.com/item?id=50210986 Points: 1 # Comments: 0",
+          "published_at": "2026-10-23 15:50",
+          "tags": []
+        },
+        {
+          "title": "AI Isn't Sovereign Because You Host It Yourself",
+          "url": "https://www.jamiecadvisory.com/perspectives/your-ai-isnt-sovereign-because-you-host-it-yourself/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.jamiecadvisory.com/perspectives/your-ai-isnt-sovereign-because-you-host-it-yourself/ Comments URL: https://news.ycombinator.com/item?id=50210646 Points: 2 # Comments: 0",
+          "published_at": "2026-10-23 15:26",
+          "tags": []
+        },
+        {
+          "title": "Retro gaming is being overrun with AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port Comments URL: https://news.ycombinator.com/item?id=50210583 Points: 1 # Comments: 0",
+          "published_at": "2026-10-23 15:22",
+          "tags": []
+        },
+        {
+          "title": "Left alone with nothing to do, AI agents started playing",
+          "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/ Comments URL: https://news.ycombinator.com/item?id=50210573 Points: 2 # Comments: 0",
+          "published_at": "2026-10-23 15:21",
+          "tags": []
+        },
+        {
+          "title": "Google Ads AI Automation is a team of 41 AI agents",
+          "url": "https://github.com/aipsyhelp/ai_ads_google",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/aipsyhelp/ai_ads_google Comments URL: https://news.ycombinator.com/item?id=50210566 Points: 1 # Comments: 0",
+          "published_at": "2026-10-23 15:21",
+          "tags": []
+        },
+        {
+          "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+          "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+          "source": "TechCrunch AI",
+          "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+          "published_at": "2026-10-23 04:00",
+          "tags": [
+            "AI",
+            "Transportation",
+            "indrive",
+            "nvidia",
+            "Pony.ai",
+            "ride-hailing"
+          ]
+        },
+        {
+          "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+          "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+          "source": "TechCrunch AI",
+          "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+          "published_at": "2026-10-22 22:08",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Startups",
+            "In Brief",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Canva releases its first image generation model",
+          "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+          "source": "TechCrunch AI",
+          "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+          "published_at": "2026-10-22 19:00",
+          "tags": [
+            "AI",
+            "Apps",
+            "TC",
+            "canva",
+            "image generation"
+          ]
+        },
+        {
+          "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+          "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+          "source": "TechCrunch AI",
+          "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+          "published_at": "2026-10-22 16:47",
+          "tags": [
+            "AI",
+            "Security",
+            "connectwise",
+            "cybersecurity",
+            "data breach",
+            "In Brief",
+            "Microsoft"
+          ]
+        },
+        {
+          "title": "Meta turns Muse sharing back on",
+          "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+          "source": "The Verge AI",
+          "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earlier this week that Muse the web [&#8230;]",
+          "published_at": "2026-10-22 16:24",
+          "tags": [
+            "AI",
+            "Meta",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Uber puts all 30,000 employees on ChatGPT Work",
+          "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+          "source": "TechCrunch AI",
+          "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+          "published_at": "2026-10-22 16:00",
+          "tags": [
+            "AI",
+            "ChatGPT",
+            "OpenAI",
+            "Uber"
+          ]
+        },
+        {
+          "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+          "source": "The Verge AI",
+          "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose conditions up to four times more accurately than human [&#8230;]",
+          "published_at": "2026-10-22 14:00",
+          "tags": [
+            "AI",
+            "Health",
+            "Microsoft",
+            "Science",
+            "Tech"
+          ]
+        },
+        {
+          "title": "DeepSeek reportedly raises $15B days after US restrictions",
+          "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+          "source": "TechCrunch AI",
+          "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
+          "published_at": "2026-10-22 13:11",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "artificial intellignce",
+            "deepseek",
+            "Funding",
+            "In Brief"
+          ]
+        }
+      ]
+    }
+  ]
+}
