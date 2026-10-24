@@ -1,5 +1,40 @@
 [
   {
+    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "source": "TechCrunch AI",
+    "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+    "published_at": "2026-10-24 15:00",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "Elon Musk",
+      "SpaceX",
+      "vote",
+      "Exclusive",
+      "xAI",
+      "sam altman",
+      "OpenAI",
+      "ChatGPT"
+    ],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Here are the top AI agents that can live in your text messages",
+    "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "source": "TechCrunch AI",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "published_at": "2026-10-24 14:00",
+    "tags": [
+      "AI",
+      "instinct",
+      "AI agents"
+    ],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Show HN: Inference Cooperative, user-governed AI",
     "url": "https://inference.coop/",
     "source": "Hacker News AI",
@@ -90,6 +125,18 @@
     "fetch_label": "早报"
   },
   {
+    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "source": "TechCrunch AI",
+    "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+    "published_at": "2026-10-23 23:05",
+    "tags": [
+      "AI"
+    ],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "晚报"
+  },
+  {
     "title": "Wall Street prepares for AI's \"day after\"",
     "url": "https://www.axios.com/2026/10/23/ai-catastrophe-wall-street",
     "source": "Hacker News AI",
@@ -140,6 +187,20 @@
     ],
     "fetch_date": "2026-10-24",
     "fetch_label": "早报"
+  },
+  {
+    "title": "OpenAI now trains its frontier AI models with no internet access",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+    "source": "The Verge AI",
+    "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier [&#8230;]",
+    "published_at": "2026-10-23 17:11",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI"
+    ],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "晚报"
   },
   {
     "title": "H2oai/jdupes: H2O.ai fork of jdupes",
@@ -238,6 +299,19 @@
     "summary": "Article URL: https://www.youtube.com/watch?v=3mx84MRj8lY Comments URL: https://news.ycombinator.com/item?id=50210986 Points: 1 # Comments: 0",
     "published_at": "2026-10-23 15:50",
     "tags": [],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "晚报"
+  },
+  {
+    "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+    "source": "The Verge AI",
+    "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan Thurairatnam. The conversation between [&#8230;]",
+    "published_at": "2026-10-23 15:32",
+    "tags": [
+      "AI",
+      "News"
+    ],
     "fetch_date": "2026-10-24",
     "fetch_label": "晚报"
   },
@@ -35274,56 +35348,6 @@
     "source": "Hacker News AI",
     "summary": "Communication hub to make communication easier for MFEs, Browser Worker threads, Browser-native Agents. And an Agent framework to make it easier to build browser native multi-agent system. Comments URL: https://news.ycombinator.com/item?id=48697653 Points: 1 # Comments: 0",
     "published_at": "2026-06-27 12:27",
-    "tags": [],
-    "fetch_date": "2026-06-27",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Ask HN: Is there a quiet market for 'no enforced AI' dev jobs?",
-    "url": "https://news.ycombinator.com/item?id=48697527",
-    "source": "Hacker News AI",
-    "summary": "It seems to me that the dissenting voices from software engineers burned out after having the AI hype shoved down their throats have been growing louder lately. Just this week I read several posts both here (e.g. [1], [2]) and on Reddit (e.g. [3], [4]) with hundreds of comments from devs who have long moved past skepticism and ambivalence into one or more of the five stages of grief.That's not to say they're the majority by any means: the \"I am 100x more productive with AI,\" \"I haven't hand-code",
-    "published_at": "2026-06-27 12:05",
-    "tags": [],
-    "fetch_date": "2026-06-27",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Gnome AI Assistant Adds Image Generation Support",
-    "url": "https://www.phoronix.com/news/GNOME-Newelle-Image-Gen",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.phoronix.com/news/GNOME-Newelle-Image-Gen Comments URL: https://news.ycombinator.com/item?id=48697487 Points: 1 # Comments: 0",
-    "published_at": "2026-06-27 11:59",
-    "tags": [],
-    "fetch_date": "2026-06-27",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Everyone Will Have an AI Coding Agent",
-    "url": "https://github.com/HoratiuCode/Clawie",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/HoratiuCode/Clawie Comments URL: https://news.ycombinator.com/item?id=48697174 Points: 1 # Comments: 0",
-    "published_at": "2026-06-27 11:04",
-    "tags": [],
-    "fetch_date": "2026-06-27",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "How a New York race became the first front in the AI industry's midterm war",
-    "url": "https://www.washingtonpost.com/politics/2026/06/25/how-new-york-race-became-first-front-ai-industrys-midterm-war/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.washingtonpost.com/politics/2026/06/25/how-new-york-race-became-first-front-ai-industrys-midterm-war/ Comments URL: https://news.ycombinator.com/item?id=48697173 Points: 1 # Comments: 0",
-    "published_at": "2026-06-27 11:04",
-    "tags": [],
-    "fetch_date": "2026-06-27",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Properties of AI",
-    "url": "https://claude.com/resources/tutorials/the-4-properties-of-ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://claude.com/resources/tutorials/the-4-properties-of-ai Comments URL: https://news.ycombinator.com/item?id=48696977 Points: 2 # Comments: 0",
-    "published_at": "2026-06-27 10:28",
     "tags": [],
     "fetch_date": "2026-06-27",
     "fetch_label": "晚报"
