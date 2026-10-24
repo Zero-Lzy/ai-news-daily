@@ -1,5 +1,147 @@
 [
   {
+    "title": "Show HN: Inference Cooperative, user-governed AI",
+    "url": "https://inference.coop/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://inference.coop/ Comments URL: https://news.ycombinator.com/item?id=50218142 Points: 1 # Comments: 0",
+    "published_at": "2026-10-24 03:32",
+    "tags": [],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "CowAgent – Open-Source Super AI Assistant",
+    "url": "https://cowagent.ai/en/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://cowagent.ai/en/ Comments URL: https://news.ycombinator.com/item?id=50218141 Points: 1 # Comments: 0",
+    "published_at": "2026-10-24 03:32",
+    "tags": [],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "EU Member States approve \"digital expropriation\" for AI companies",
+    "url": "https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies Comments URL: https://news.ycombinator.com/item?id=50218050 Points: 2 # Comments: 0",
+    "published_at": "2026-10-24 03:10",
+    "tags": [],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "The anti-AI writing police are everywhere. What are they looking for?",
+    "url": "https://www.cnn.com/2026/10/21/tech/ai-detectors-pangram-literary-prizes-cec",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.cnn.com/2026/10/21/tech/ai-detectors-pangram-literary-prizes-cec Comments URL: https://news.ycombinator.com/item?id=50217568 Points: 3 # Comments: 1",
+    "published_at": "2026-10-24 01:31",
+    "tags": [],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "In the world AI, will individual apps become obsolete?",
+    "url": "https://news.ycombinator.com/item?id=50217244",
+    "source": "Hacker News AI",
+    "summary": "Will users need a travel app, shopping app, and other specialize research apps? Or will they just pick their favorite ChatGPT or Gemini and use that? Comments URL: https://news.ycombinator.com/item?id=50217244 Points: 1 # Comments: 6",
+    "published_at": "2026-10-24 00:38",
+    "tags": [],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Soma – memory and proofs for AI agents, measured not asserted",
+    "url": "https://github.com/mrpkk/soma-protocol",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/mrpkk/soma-protocol Comments URL: https://news.ycombinator.com/item?id=50216800 Points: 1 # Comments: 0",
+    "published_at": "2026-10-23 23:31",
+    "tags": [],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Using AI to clean your smart TV",
+    "url": "https://github.com/Gathin23/cleanyourtv",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://github.com/Gathin23/cleanyourtv Comments URL: https://news.ycombinator.com/item?id=50216682 Points: 1 # Comments: 0",
+    "published_at": "2026-10-23 23:17",
+    "tags": [],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Show HN: AI Crash Debugging Gauntlet",
+    "url": "https://www.forensicdbg.com/post/forensicdbg-s-ai-crash-debugging-gauntlet",
+    "source": "Hacker News AI",
+    "summary": "One of the core conceits of ForensicDbg was that if we build a significantly improved crash debugging core, that value would carry through, regardless of the final workflow.Our testers have helped us confirm that on the more traditional, visual debugging side. But how do you confirm that for AI debugging workflows?With a crash dump evaluation gauntlet, of course!If you just want the results, or even grab a pdf with the raw testing results, that is all at the bottom. Comments URL: https://news.yc",
+    "published_at": "2026-10-23 23:11",
+    "tags": [],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "AgentProbe – test AI agents by making the systems around them fail",
+    "url": "https://sampact.com/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://sampact.com/ Comments URL: https://news.ycombinator.com/item?id=50216636 Points: 1 # Comments: 1",
+    "published_at": "2026-10-23 23:10",
+    "tags": [],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Wall Street prepares for AI's \"day after\"",
+    "url": "https://www.axios.com/2026/10/23/ai-catastrophe-wall-street",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://www.axios.com/2026/10/23/ai-catastrophe-wall-street Comments URL: https://news.ycombinator.com/item?id=50216307 Points: 6 # Comments: 0",
+    "published_at": "2026-10-23 22:36",
+    "tags": [],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Narrative Deck – AI Agent skill for creating interactive web stories",
+    "url": "https://aakatheeri.github.io/narrative-deck/",
+    "source": "Hacker News AI",
+    "summary": "Article URL: https://aakatheeri.github.io/narrative-deck/ Comments URL: https://news.ycombinator.com/item?id=50216138 Points: 3 # Comments: 0",
+    "published_at": "2026-10-23 22:18",
+    "tags": [],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+    "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+    "source": "TechCrunch AI",
+    "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+    "published_at": "2026-10-23 21:59",
+    "tags": [
+      "AI",
+      "Gadgets",
+      "TC",
+      "nvidia",
+      "pollen robotics",
+      "toys"
+    ],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "早报"
+  },
+  {
+    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+    "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+    "source": "TechCrunch AI",
+    "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
+    "published_at": "2026-10-23 19:06",
+    "tags": [
+      "Startups",
+      "AI",
+      "Fundraising",
+      "TechCrunch Founder Summit"
+    ],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "早报"
+  },
+  {
     "title": "H2oai/jdupes: H2O.ai fork of jdupes",
     "url": "https://github.com/h2oai/jdupes",
     "source": "Hacker News AI",
@@ -128,6 +270,21 @@
     "tags": [],
     "fetch_date": "2026-10-24",
     "fetch_label": "晚报"
+  },
+  {
+    "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+    "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+    "source": "The Verge AI",
+    "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous [&#8230;]",
+    "published_at": "2026-10-23 12:52",
+    "tags": [
+      "AI",
+      "Google",
+      "News",
+      "Tech"
+    ],
+    "fetch_date": "2026-10-24",
+    "fetch_label": "早报"
   },
   {
     "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
@@ -35170,151 +35327,5 @@
     "tags": [],
     "fetch_date": "2026-06-27",
     "fetch_label": "晚报"
-  },
-  {
-    "title": "Ask HN: How do we measure software in LLM era?",
-    "url": "https://news.ycombinator.com/item?id=48696916",
-    "source": "Hacker News AI",
-    "summary": "A bit of a rant. Sorry!With the probablistic pluggable 'brain' existing in parts of the solution how are you measuring anything is better or worse?I am at a loss to quantify whether anything is improving or worsening anything. It probably is also because of the various metrics that keeps popping up* Accuracy* Cost of running* Context* Size* Time* Turnsall these vary in a large band even with the same 'brain' on the same 'provider'. It is not so different than a database running strained under lo",
-    "published_at": "2026-06-27 10:18",
-    "tags": [],
-    "fetch_date": "2026-06-27",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
-    "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
-    "source": "The Verge AI",
-    "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the feet of the [&#8230;]",
-    "published_at": "2026-06-27 09:30",
-    "tags": [
-      "AI",
-      "Apple",
-      "Business",
-      "Report",
-      "Tech"
-    ],
-    "fetch_date": "2026-06-27",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-    "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf Comments URL: https://news.ycombinator.com/item?id=48696585 Points: 495 # Comments: 173",
-    "published_at": "2026-06-27 09:18",
-    "tags": [],
-    "fetch_date": "2026-06-27",
-    "fetch_label": "晚报"
-  },
-  {
-    "title": "Find the right AI agents to build",
-    "url": "https://www.agentideahub.com",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.agentideahub.com Comments URL: https://news.ycombinator.com/item?id=48694897 Points: 1 # Comments: 0",
-    "published_at": "2026-06-27 03:38",
-    "tags": [],
-    "fetch_date": "2026-06-27",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "TUI email client in native Golang with LLM based drafting functions",
-    "url": "https://mail.intellios.ai",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://mail.intellios.ai Comments URL: https://news.ycombinator.com/item?id=48694888 Points: 1 # Comments: 0",
-    "published_at": "2026-06-27 03:36",
-    "tags": [],
-    "fetch_date": "2026-06-27",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "US allows Anthropic to release Mythos AI to 'trusted' US organizations",
-    "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/ Comments URL: https://news.ycombinator.com/item?id=48694885 Points: 1 # Comments: 0",
-    "published_at": "2026-06-27 03:35",
-    "tags": [],
-    "fetch_date": "2026-06-27",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Erodes a Legacy of Reading",
-    "url": "https://molochinations.substack.com/p/ai-erodes-a-legacy-of-reading",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://molochinations.substack.com/p/ai-erodes-a-legacy-of-reading Comments URL: https://news.ycombinator.com/item?id=48694322 Points: 8 # Comments: 4",
-    "published_at": "2026-06-27 01:39",
-    "tags": [],
-    "fetch_date": "2026-06-27",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Show HN: Boot a tiny app-making OS inside an AI chat",
-    "url": "https://hollingsworthd.github.io/RAu/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://hollingsworthd.github.io/RAu/ Comments URL: https://news.ycombinator.com/item?id=48694257 Points: 1 # Comments: 1",
-    "published_at": "2026-06-27 01:28",
-    "tags": [],
-    "fetch_date": "2026-06-27",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "The State of the AI Economy",
-    "url": "https://intelligence.exponentialview.co/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://intelligence.exponentialview.co/ Comments URL: https://news.ycombinator.com/item?id=48693962 Points: 2 # Comments: 0",
-    "published_at": "2026-06-27 00:49",
-    "tags": [],
-    "fetch_date": "2026-06-27",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "PrismLib – semantic LLM cache and cluster mesh that cuts token spend",
-    "url": "https://github.com/insightitsGit/prismlib",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/insightitsGit/prismlib Comments URL: https://news.ycombinator.com/item?id=48693843 Points: 2 # Comments: 0",
-    "published_at": "2026-06-27 00:34",
-    "tags": [],
-    "fetch_date": "2026-06-27",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "Add MCP Apps to Your AI SDK Application",
-    "url": "https://vercel.com/kb/guide/ai-sdk-mcp-apps",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://vercel.com/kb/guide/ai-sdk-mcp-apps Comments URL: https://news.ycombinator.com/item?id=48693667 Points: 1 # Comments: 0",
-    "published_at": "2026-06-27 00:10",
-    "tags": [],
-    "fetch_date": "2026-06-27",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "AI Powered Photo Gallery Without the Cloud",
-    "url": "https://github.com/Arkalogy/best-photo-picker",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/Arkalogy/best-photo-picker Comments URL: https://news.ycombinator.com/item?id=48693638 Points: 1 # Comments: 0",
-    "published_at": "2026-06-27 00:07",
-    "tags": [],
-    "fetch_date": "2026-06-27",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "I removed the vector database from my AI agent stack",
-    "url": "https://github.com/usemoss/moss",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://github.com/usemoss/moss Comments URL: https://news.ycombinator.com/item?id=48693631 Points: 2 # Comments: 0",
-    "published_at": "2026-06-27 00:05",
-    "tags": [],
-    "fetch_date": "2026-06-27",
-    "fetch_label": "早报"
-  },
-  {
-    "title": "With AI, researchers discover new way to detect sudden cardiac death risk",
-    "url": "https://news.berkeley.edu/2026/06/24/with-ai-researchers-discover-new-way-to-detect-sudden-cardiac-death-risk/",
-    "source": "Hacker News AI",
-    "summary": "Article URL: https://news.berkeley.edu/2026/06/24/with-ai-researchers-discover-new-way-to-detect-sudden-cardiac-death-risk/ Comments URL: https://news.ycombinator.com/item?id=48693458 Points: 1 # Comments: 0",
-    "published_at": "2026-06-26 23:40",
-    "tags": [],
-    "fetch_date": "2026-06-27",
-    "fetch_label": "早报"
   }
 ]

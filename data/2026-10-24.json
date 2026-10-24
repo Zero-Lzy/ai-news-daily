@@ -233,6 +233,292 @@
           ]
         }
       ]
+    },
+    {
+      "label": "早报",
+      "time": "2026-10-24 11:51:13",
+      "count": 25,
+      "articles": [
+        {
+          "title": "Show HN: Inference Cooperative, user-governed AI",
+          "url": "https://inference.coop/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://inference.coop/ Comments URL: https://news.ycombinator.com/item?id=50218142 Points: 1 # Comments: 0",
+          "published_at": "2026-10-24 03:32",
+          "tags": []
+        },
+        {
+          "title": "CowAgent – Open-Source Super AI Assistant",
+          "url": "https://cowagent.ai/en/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://cowagent.ai/en/ Comments URL: https://news.ycombinator.com/item?id=50218141 Points: 1 # Comments: 0",
+          "published_at": "2026-10-24 03:32",
+          "tags": []
+        },
+        {
+          "title": "EU Member States approve \"digital expropriation\" for AI companies",
+          "url": "https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies Comments URL: https://news.ycombinator.com/item?id=50218050 Points: 2 # Comments: 0",
+          "published_at": "2026-10-24 03:10",
+          "tags": []
+        },
+        {
+          "title": "Meta says if its AI makes a mistake, it will legally be the customer's fault",
+          "url": "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html Comments URL: https://news.ycombinator.com/item?id=50218013 Points: 6 # Comments: 3",
+          "published_at": "2026-10-24 03:00",
+          "tags": []
+        },
+        {
+          "title": "The anti-AI writing police are everywhere. What are they looking for?",
+          "url": "https://www.cnn.com/2026/10/21/tech/ai-detectors-pangram-literary-prizes-cec",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.cnn.com/2026/10/21/tech/ai-detectors-pangram-literary-prizes-cec Comments URL: https://news.ycombinator.com/item?id=50217568 Points: 3 # Comments: 1",
+          "published_at": "2026-10-24 01:31",
+          "tags": []
+        },
+        {
+          "title": "In the world AI, will individual apps become obsolete?",
+          "url": "https://news.ycombinator.com/item?id=50217244",
+          "source": "Hacker News AI",
+          "summary": "Will users need a travel app, shopping app, and other specialize research apps? Or will they just pick their favorite ChatGPT or Gemini and use that? Comments URL: https://news.ycombinator.com/item?id=50217244 Points: 1 # Comments: 6",
+          "published_at": "2026-10-24 00:38",
+          "tags": []
+        },
+        {
+          "title": "Soma – memory and proofs for AI agents, measured not asserted",
+          "url": "https://github.com/mrpkk/soma-protocol",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/mrpkk/soma-protocol Comments URL: https://news.ycombinator.com/item?id=50216800 Points: 1 # Comments: 0",
+          "published_at": "2026-10-23 23:31",
+          "tags": []
+        },
+        {
+          "title": "Using AI to clean your smart TV",
+          "url": "https://github.com/Gathin23/cleanyourtv",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://github.com/Gathin23/cleanyourtv Comments URL: https://news.ycombinator.com/item?id=50216682 Points: 1 # Comments: 0",
+          "published_at": "2026-10-23 23:17",
+          "tags": []
+        },
+        {
+          "title": "Show HN: AI Crash Debugging Gauntlet",
+          "url": "https://www.forensicdbg.com/post/forensicdbg-s-ai-crash-debugging-gauntlet",
+          "source": "Hacker News AI",
+          "summary": "One of the core conceits of ForensicDbg was that if we build a significantly improved crash debugging core, that value would carry through, regardless of the final workflow.Our testers have helped us confirm that on the more traditional, visual debugging side. But how do you confirm that for AI debugging workflows?With a crash dump evaluation gauntlet, of course!If you just want the results, or even grab a pdf with the raw testing results, that is all at the bottom. Comments URL: https://news.yc",
+          "published_at": "2026-10-23 23:11",
+          "tags": []
+        },
+        {
+          "title": "AgentProbe – test AI agents by making the systems around them fail",
+          "url": "https://sampact.com/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://sampact.com/ Comments URL: https://news.ycombinator.com/item?id=50216636 Points: 1 # Comments: 1",
+          "published_at": "2026-10-23 23:10",
+          "tags": []
+        },
+        {
+          "title": "Wall Street prepares for AI's \"day after\"",
+          "url": "https://www.axios.com/2026/10/23/ai-catastrophe-wall-street",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://www.axios.com/2026/10/23/ai-catastrophe-wall-street Comments URL: https://news.ycombinator.com/item?id=50216307 Points: 6 # Comments: 0",
+          "published_at": "2026-10-23 22:36",
+          "tags": []
+        },
+        {
+          "title": "Narrative Deck – AI Agent skill for creating interactive web stories",
+          "url": "https://aakatheeri.github.io/narrative-deck/",
+          "source": "Hacker News AI",
+          "summary": "Article URL: https://aakatheeri.github.io/narrative-deck/ Comments URL: https://news.ycombinator.com/item?id=50216138 Points: 3 # Comments: 0",
+          "published_at": "2026-10-23 22:18",
+          "tags": []
+        },
+        {
+          "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+          "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+          "source": "TechCrunch AI",
+          "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+          "published_at": "2026-10-23 21:59",
+          "tags": [
+            "AI",
+            "Gadgets",
+            "TC",
+            "nvidia",
+            "pollen robotics",
+            "toys"
+          ]
+        },
+        {
+          "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+          "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+          "source": "TechCrunch AI",
+          "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
+          "published_at": "2026-10-23 19:06",
+          "tags": [
+            "Startups",
+            "AI",
+            "Fundraising",
+            "TechCrunch Founder Summit"
+          ]
+        },
+        {
+          "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+          "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+          "source": "The Verge AI",
+          "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous [&#8230;]",
+          "published_at": "2026-10-23 12:52",
+          "tags": [
+            "AI",
+            "Google",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Retro gaming is being overrun with AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+          "source": "The Verge AI",
+          "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as [&#8230;]",
+          "published_at": "2026-10-23 08:00",
+          "tags": [
+            "AI",
+            "Entertainment",
+            "Gaming",
+            "Report"
+          ]
+        },
+        {
+          "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+          "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+          "source": "TechCrunch AI",
+          "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+          "published_at": "2026-10-23 04:00",
+          "tags": [
+            "AI",
+            "Transportation",
+            "indrive",
+            "nvidia",
+            "Pony.ai",
+            "ride-hailing"
+          ]
+        },
+        {
+          "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+          "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+          "source": "TechCrunch AI",
+          "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+          "published_at": "2026-10-22 22:08",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "Startups",
+            "In Brief",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+          "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+          "source": "TechCrunch AI",
+          "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+          "published_at": "2026-10-22 19:07",
+          "tags": [
+            "AI",
+            "Apps",
+            "1password",
+            "dots",
+            "OpenAI",
+            "agents"
+          ]
+        },
+        {
+          "title": "Canva releases its first image generation model",
+          "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+          "source": "TechCrunch AI",
+          "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+          "published_at": "2026-10-22 19:00",
+          "tags": [
+            "AI",
+            "Apps",
+            "TC",
+            "canva",
+            "image generation"
+          ]
+        },
+        {
+          "title": "Meta turns Muse sharing back on",
+          "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+          "source": "The Verge AI",
+          "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earlier this week that Muse the web [&#8230;]",
+          "published_at": "2026-10-22 16:24",
+          "tags": [
+            "AI",
+            "Meta",
+            "News",
+            "Tech"
+          ]
+        },
+        {
+          "title": "Uber puts all 30,000 employees on ChatGPT Work",
+          "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+          "source": "TechCrunch AI",
+          "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+          "published_at": "2026-10-22 16:00",
+          "tags": [
+            "AI",
+            "ChatGPT",
+            "OpenAI",
+            "Uber"
+          ]
+        },
+        {
+          "title": "Spotify’s current AI bet is about being the music service that agents choose",
+          "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+          "source": "TechCrunch AI",
+          "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+          "published_at": "2026-10-22 15:03",
+          "tags": [
+            "AI",
+            "Apps",
+            "Media & Entertainment",
+            "music streaming",
+            "Spotify",
+            "streaming"
+          ]
+        },
+        {
+          "title": "Nirva raises $33M for a pendant that only listens to you",
+          "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+          "source": "TechCrunch AI",
+          "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+          "published_at": "2026-10-22 13:26",
+          "tags": [
+            "AI",
+            "Gadgets",
+            "Lightspeed Venture Capital",
+            "wearables",
+            "South Park Commons",
+            "Ambient AI"
+          ]
+        },
+        {
+          "title": "DeepSeek reportedly raises $15B days after US restrictions",
+          "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+          "source": "TechCrunch AI",
+          "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
+          "published_at": "2026-10-22 13:11",
+          "tags": [
+            "AI",
+            "Fundraising",
+            "artificial intellignce",
+            "deepseek",
+            "Funding",
+            "In Brief"
+          ]
+        }
+      ]
     }
   ]
 }
